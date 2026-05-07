@@ -1,0 +1,6453 @@
+{
+  "line": "242",
+  "trips": [
+    {
+      "trip_id": "3_16576067",
+      "direction_id": "1",
+      "headsign": "KOWALE",
+      "service_id": "3",
+      "stops": [
+        {
+          "stop_sequence": 0,
+          "stop_id": "5456",
+          "stop_name": "PETRUSEWICZA",
+          "arrival_time": "23:45:00",
+          "departure_time": "23:45:00",
+          "lat": 51.09213757,
+          "lon": 17.03100544
+        },
+        {
+          "stop_sequence": 1,
+          "stop_id": "509",
+          "stop_name": "DWORZEC AUTOBUSOWY",
+          "arrival_time": "23:47:00",
+          "departure_time": "23:47:00",
+          "lat": 51.09657455,
+          "lon": 17.03298047
+        },
+        {
+          "stop_sequence": 2,
+          "stop_id": "3526",
+          "stop_name": "DWORZEC GŁÓWNY",
+          "arrival_time": "23:49:00",
+          "departure_time": "23:49:00",
+          "lat": 51.09969276,
+          "lon": 17.03551983
+        },
+        {
+          "stop_sequence": 3,
+          "stop_id": "5388",
+          "stop_name": "Bastion Sakwowy",
+          "arrival_time": "23:51:00",
+          "departure_time": "23:51:00",
+          "lat": 51.1036847,
+          "lon": 17.03728239
+        },
+        {
+          "stop_sequence": 4,
+          "stop_id": "841",
+          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "arrival_time": "23:53:00",
+          "departure_time": "23:53:00",
+          "lat": 51.10852894,
+          "lon": 17.03870108
+        },
+        {
+          "stop_sequence": 5,
+          "stop_id": "840",
+          "stop_name": "Hala Targowa",
+          "arrival_time": "23:54:00",
+          "departure_time": "23:54:00",
+          "lat": 51.11276951,
+          "lon": 17.03973594
+        },
+        {
+          "stop_sequence": 6,
+          "stop_id": "5766",
+          "stop_name": "Dubois",
+          "arrival_time": "23:56:00",
+          "departure_time": "23:56:00",
+          "lat": 51.11702473,
+          "lon": 17.03380386
+        },
+        {
+          "stop_sequence": 7,
+          "stop_id": "2029",
+          "stop_name": "pl. Bema",
+          "arrival_time": "23:58:00",
+          "departure_time": "23:58:00",
+          "lat": 51.11750259,
+          "lon": 17.04211691
+        },
+        {
+          "stop_sequence": 8,
+          "stop_id": "2116",
+          "stop_name": "Na Szańcach",
+          "arrival_time": "23:58:00",
+          "departure_time": "23:58:00",
+          "lat": 51.11890245,
+          "lon": 17.04204126
+        },
+        {
+          "stop_sequence": 9,
+          "stop_id": "2883",
+          "stop_name": "Jedności Narodowej",
+          "arrival_time": "23:59:00",
+          "departure_time": "23:59:00",
+          "lat": 51.12121224,
+          "lon": 17.04331711
+        },
+        {
+          "stop_sequence": 10,
+          "stop_id": "1313",
+          "stop_name": "Nowowiejska",
+          "arrival_time": "24:01:00",
+          "departure_time": "24:01:00",
+          "lat": 51.12436097,
+          "lon": 17.04513281
+        },
+        {
+          "stop_sequence": 11,
+          "stop_id": "1314",
+          "stop_name": "Daszyńskiego",
+          "arrival_time": "24:02:00",
+          "departure_time": "24:02:00",
+          "lat": 51.12632996,
+          "lon": 17.04766164
+        },
+        {
+          "stop_sequence": 12,
+          "stop_id": "2868",
+          "stop_name": "Mosty Warszawskie",
+          "arrival_time": "24:03:00",
+          "departure_time": "24:03:00",
+          "lat": 51.12863463,
+          "lon": 17.05609761
+        },
+        {
+          "stop_sequence": 13,
+          "stop_id": "1248",
+          "stop_name": "KROMERA",
+          "arrival_time": "24:05:00",
+          "departure_time": "24:05:00",
+          "lat": 51.13222406,
+          "lon": 17.06514893
+        },
+        {
+          "stop_sequence": 14,
+          "stop_id": "3461",
+          "stop_name": "Kromera (Czajkowskiego)",
+          "arrival_time": "24:06:00",
+          "departure_time": "24:06:00",
+          "lat": 51.13631426,
+          "lon": 17.07044445
+        },
+        {
+          "stop_sequence": 15,
+          "stop_id": "2594",
+          "stop_name": "Grudziądzka",
+          "arrival_time": "24:07:00",
+          "departure_time": "24:07:00",
+          "lat": 51.13794927,
+          "lon": 17.07506203
+        },
+        {
+          "stop_sequence": 16,
+          "stop_id": "1188",
+          "stop_name": "Brücknera",
+          "arrival_time": "24:08:00",
+          "departure_time": "24:08:00",
+          "lat": 51.13916827,
+          "lon": 17.08080603
+        },
+        {
+          "stop_sequence": 17,
+          "stop_id": "3766",
+          "stop_name": "Olsztyńska",
+          "arrival_time": "24:10:00",
+          "departure_time": "24:10:00",
+          "lat": 51.14044697,
+          "lon": 17.09408707
+        },
+        {
+          "stop_sequence": 18,
+          "stop_id": "4020",
+          "stop_name": "Kowalska 56",
+          "arrival_time": "24:11:00",
+          "departure_time": "24:11:00",
+          "lat": 51.13602378,
+          "lon": 17.09761647
+        },
+        {
+          "stop_sequence": 19,
+          "stop_id": "934",
+          "stop_name": "Kowale (Stacja kolejowa)",
+          "arrival_time": "24:12:00",
+          "departure_time": "24:12:00",
+          "lat": 51.13393676,
+          "lon": 17.10221243
+        },
+        {
+          "stop_sequence": 20,
+          "stop_id": "1028",
+          "stop_name": "Działdowska",
+          "arrival_time": "24:13:00",
+          "departure_time": "24:13:00",
+          "lat": 51.13317159,
+          "lon": 17.10543835
+        },
+        {
+          "stop_sequence": 21,
+          "stop_id": "3239",
+          "stop_name": "KOWALE",
+          "arrival_time": "24:14:00",
+          "departure_time": "24:14:00",
+          "lat": 51.12895888,
+          "lon": 17.10165474
+        },
+        {
+          "stop_sequence": 22,
+          "stop_id": "5430",
+          "stop_name": "KOWALE",
+          "arrival_time": "24:14:00",
+          "departure_time": "24:14:00",
+          "lat": 51.12796058,
+          "lon": 17.10253432
+        }
+      ]
+    },
+    {
+      "trip_id": "3_16576068",
+      "direction_id": "0",
+      "headsign": "Zajezdnia OBORNICKA",
+      "service_id": "3",
+      "stops": [
+        {
+          "stop_sequence": 0,
+          "stop_id": "5430",
+          "stop_name": "KOWALE",
+          "arrival_time": "24:14:00",
+          "departure_time": "24:14:00",
+          "lat": 51.12796058,
+          "lon": 17.10253432
+        },
+        {
+          "stop_sequence": 1,
+          "stop_id": "3240",
+          "stop_name": "KOWALE",
+          "arrival_time": "24:14:00",
+          "departure_time": "24:14:00",
+          "lat": 51.12896333,
+          "lon": 17.1018384
+        },
+        {
+          "stop_sequence": 2,
+          "stop_id": "1027",
+          "stop_name": "Działdowska",
+          "arrival_time": "24:15:00",
+          "departure_time": "24:15:00",
+          "lat": 51.13315884,
+          "lon": 17.10579419
+        },
+        {
+          "stop_sequence": 3,
+          "stop_id": "935",
+          "stop_name": "Kowale (Stacja kolejowa)",
+          "arrival_time": "24:16:00",
+          "departure_time": "24:16:00",
+          "lat": 51.13416856,
+          "lon": 17.1016776
+        },
+        {
+          "stop_sequence": 4,
+          "stop_id": "3225",
+          "stop_name": "Kowalska 56",
+          "arrival_time": "24:17:00",
+          "departure_time": "24:17:00",
+          "lat": 51.13647537,
+          "lon": 17.09740219
+        },
+        {
+          "stop_sequence": 5,
+          "stop_id": "2748",
+          "stop_name": "Olsztyńska",
+          "arrival_time": "24:18:00",
+          "departure_time": "24:18:00",
+          "lat": 51.13938597,
+          "lon": 17.0951032
+        },
+        {
+          "stop_sequence": 6,
+          "stop_id": "707",
+          "stop_name": "C.H. Korona",
+          "arrival_time": "24:19:00",
+          "departure_time": "24:19:00",
+          "lat": 51.14110423,
+          "lon": 17.08765021
+        },
+        {
+          "stop_sequence": 7,
+          "stop_id": "612",
+          "stop_name": "Brücknera",
+          "arrival_time": "24:20:00",
+          "departure_time": "24:20:00",
+          "lat": 51.13951485,
+          "lon": 17.08107914
+        },
+        {
+          "stop_sequence": 8,
+          "stop_id": "611",
+          "stop_name": "Grudziądzka",
+          "arrival_time": "24:21:00",
+          "departure_time": "24:21:00",
+          "lat": 51.13788049,
+          "lon": 17.07363454
+        },
+        {
+          "stop_sequence": 9,
+          "stop_id": "3460",
+          "stop_name": "Kromera (Czajkowskiego)",
+          "arrival_time": "24:22:00",
+          "departure_time": "24:22:00",
+          "lat": 51.13557581,
+          "lon": 17.06907505
+        },
+        {
+          "stop_sequence": 10,
+          "stop_id": "613",
+          "stop_name": "KROMERA",
+          "arrival_time": "24:23:00",
+          "departure_time": "24:23:00",
+          "lat": 51.13237794,
+          "lon": 17.06301095
+        },
+        {
+          "stop_sequence": 11,
+          "stop_id": "624",
+          "stop_name": "Berenta",
+          "arrival_time": "24:24:00",
+          "departure_time": "24:24:00",
+          "lat": 51.1349714,
+          "lon": 17.05777339
+        },
+        {
+          "stop_sequence": 12,
+          "stop_id": "623",
+          "stop_name": "Kasprowicza",
+          "arrival_time": "24:25:00",
+          "departure_time": "24:25:00",
+          "lat": 51.13744108,
+          "lon": 17.05290682
+        },
+        {
+          "stop_sequence": 13,
+          "stop_id": "4714",
+          "stop_name": "Syrokomli",
+          "arrival_time": "24:26:00",
+          "departure_time": "24:26:00",
+          "lat": 51.137273,
+          "lon": 17.047925
+        },
+        {
+          "stop_sequence": 14,
+          "stop_id": "626",
+          "stop_name": "Pola",
+          "arrival_time": "24:27:00",
+          "departure_time": "24:27:00",
+          "lat": 51.13671695,
+          "lon": 17.04317468
+        },
+        {
+          "stop_sequence": 15,
+          "stop_id": "637",
+          "stop_name": "Broniewskiego",
+          "arrival_time": "24:28:00",
+          "departure_time": "24:28:00",
+          "lat": 51.13590436,
+          "lon": 17.03532722
+        },
+        {
+          "stop_sequence": 16,
+          "stop_id": "644",
+          "stop_name": "Bałtycka",
+          "arrival_time": "24:30:00",
+          "departure_time": "24:30:00",
+          "lat": 51.1382819,
+          "lon": 17.02937414
+        },
+        {
+          "stop_sequence": 17,
+          "stop_id": "1165",
+          "stop_name": "Bezpieczna",
+          "arrival_time": "24:31:00",
+          "departure_time": "24:31:00",
+          "lat": 51.14245937,
+          "lon": 17.02567781
+        },
+        {
+          "stop_sequence": 18,
+          "stop_id": "668",
+          "stop_name": "Paprotna",
+          "arrival_time": "24:32:00",
+          "departure_time": "24:32:00",
+          "lat": 51.14818098,
+          "lon": 17.02062686
+        },
+        {
+          "stop_sequence": 19,
+          "stop_id": "5583",
+          "stop_name": "Zajezdnia OBORNICKA",
+          "arrival_time": "24:33:00",
+          "departure_time": "24:33:00",
+          "lat": 51.14873744,
+          "lon": 17.02106859
+        }
+      ]
+    },
+    {
+      "trip_id": "3_16576857",
+      "direction_id": "1",
+      "headsign": "KOWALE",
+      "service_id": "3",
+      "stops": [
+        {
+          "stop_sequence": 0,
+          "stop_id": "1893",
+          "stop_name": "KROMERA",
+          "arrival_time": "24:56:00",
+          "departure_time": "24:56:00",
+          "lat": 51.13202211,
+          "lon": 17.06568137
+        },
+        {
+          "stop_sequence": 1,
+          "stop_id": "1248",
+          "stop_name": "KROMERA",
+          "arrival_time": "24:57:00",
+          "departure_time": "24:57:00",
+          "lat": 51.13222406,
+          "lon": 17.06514893
+        },
+        {
+          "stop_sequence": 2,
+          "stop_id": "3461",
+          "stop_name": "Kromera (Czajkowskiego)",
+          "arrival_time": "24:58:00",
+          "departure_time": "24:58:00",
+          "lat": 51.13631426,
+          "lon": 17.07044445
+        },
+        {
+          "stop_sequence": 3,
+          "stop_id": "2594",
+          "stop_name": "Grudziądzka",
+          "arrival_time": "24:59:00",
+          "departure_time": "24:59:00",
+          "lat": 51.13794927,
+          "lon": 17.07506203
+        },
+        {
+          "stop_sequence": 4,
+          "stop_id": "1188",
+          "stop_name": "Brücknera",
+          "arrival_time": "25:00:00",
+          "departure_time": "25:00:00",
+          "lat": 51.13916827,
+          "lon": 17.08080603
+        },
+        {
+          "stop_sequence": 5,
+          "stop_id": "3766",
+          "stop_name": "Olsztyńska",
+          "arrival_time": "25:02:00",
+          "departure_time": "25:02:00",
+          "lat": 51.14044697,
+          "lon": 17.09408707
+        },
+        {
+          "stop_sequence": 6,
+          "stop_id": "4020",
+          "stop_name": "Kowalska 56",
+          "arrival_time": "25:03:00",
+          "departure_time": "25:03:00",
+          "lat": 51.13602378,
+          "lon": 17.09761647
+        },
+        {
+          "stop_sequence": 7,
+          "stop_id": "934",
+          "stop_name": "Kowale (Stacja kolejowa)",
+          "arrival_time": "25:04:00",
+          "departure_time": "25:04:00",
+          "lat": 51.13393676,
+          "lon": 17.10221243
+        },
+        {
+          "stop_sequence": 8,
+          "stop_id": "1028",
+          "stop_name": "Działdowska",
+          "arrival_time": "25:05:00",
+          "departure_time": "25:05:00",
+          "lat": 51.13317159,
+          "lon": 17.10543835
+        },
+        {
+          "stop_sequence": 9,
+          "stop_id": "3239",
+          "stop_name": "KOWALE",
+          "arrival_time": "25:06:00",
+          "departure_time": "25:06:00",
+          "lat": 51.12895888,
+          "lon": 17.10165474
+        },
+        {
+          "stop_sequence": 10,
+          "stop_id": "5430",
+          "stop_name": "KOWALE",
+          "arrival_time": "25:06:00",
+          "departure_time": "25:06:00",
+          "lat": 51.12796058,
+          "lon": 17.10253432
+        }
+      ]
+    },
+    {
+      "trip_id": "3_16576858",
+      "direction_id": "0",
+      "headsign": "PETRUSEWICZA",
+      "service_id": "3",
+      "stops": [
+        {
+          "stop_sequence": 0,
+          "stop_id": "5430",
+          "stop_name": "KOWALE",
+          "arrival_time": "25:09:00",
+          "departure_time": "25:09:00",
+          "lat": 51.12796058,
+          "lon": 17.10253432
+        },
+        {
+          "stop_sequence": 1,
+          "stop_id": "3240",
+          "stop_name": "KOWALE",
+          "arrival_time": "25:09:00",
+          "departure_time": "25:09:00",
+          "lat": 51.12896333,
+          "lon": 17.1018384
+        },
+        {
+          "stop_sequence": 2,
+          "stop_id": "1027",
+          "stop_name": "Działdowska",
+          "arrival_time": "25:10:00",
+          "departure_time": "25:10:00",
+          "lat": 51.13315884,
+          "lon": 17.10579419
+        },
+        {
+          "stop_sequence": 3,
+          "stop_id": "935",
+          "stop_name": "Kowale (Stacja kolejowa)",
+          "arrival_time": "25:11:00",
+          "departure_time": "25:11:00",
+          "lat": 51.13416856,
+          "lon": 17.1016776
+        },
+        {
+          "stop_sequence": 4,
+          "stop_id": "3225",
+          "stop_name": "Kowalska 56",
+          "arrival_time": "25:12:00",
+          "departure_time": "25:12:00",
+          "lat": 51.13647537,
+          "lon": 17.09740219
+        },
+        {
+          "stop_sequence": 5,
+          "stop_id": "2748",
+          "stop_name": "Olsztyńska",
+          "arrival_time": "25:13:00",
+          "departure_time": "25:13:00",
+          "lat": 51.13938597,
+          "lon": 17.0951032
+        },
+        {
+          "stop_sequence": 6,
+          "stop_id": "707",
+          "stop_name": "C.H. Korona",
+          "arrival_time": "25:14:00",
+          "departure_time": "25:14:00",
+          "lat": 51.14110423,
+          "lon": 17.08765021
+        },
+        {
+          "stop_sequence": 7,
+          "stop_id": "612",
+          "stop_name": "Brücknera",
+          "arrival_time": "25:15:00",
+          "departure_time": "25:15:00",
+          "lat": 51.13951485,
+          "lon": 17.08107914
+        },
+        {
+          "stop_sequence": 8,
+          "stop_id": "611",
+          "stop_name": "Grudziądzka",
+          "arrival_time": "25:16:00",
+          "departure_time": "25:16:00",
+          "lat": 51.13788049,
+          "lon": 17.07363454
+        },
+        {
+          "stop_sequence": 9,
+          "stop_id": "3460",
+          "stop_name": "Kromera (Czajkowskiego)",
+          "arrival_time": "25:17:00",
+          "departure_time": "25:17:00",
+          "lat": 51.13557581,
+          "lon": 17.06907505
+        },
+        {
+          "stop_sequence": 10,
+          "stop_id": "1819",
+          "stop_name": "KROMERA",
+          "arrival_time": "25:18:00",
+          "departure_time": "25:18:00",
+          "lat": 51.13164737,
+          "lon": 17.06263024
+        },
+        {
+          "stop_sequence": 11,
+          "stop_id": "1305",
+          "stop_name": "Mosty Warszawskie",
+          "arrival_time": "25:19:00",
+          "departure_time": "25:19:00",
+          "lat": 51.12838294,
+          "lon": 17.0538428
+        },
+        {
+          "stop_sequence": 12,
+          "stop_id": "1315",
+          "stop_name": "Daszyńskiego",
+          "arrival_time": "25:20:00",
+          "departure_time": "25:20:00",
+          "lat": 51.12674068,
+          "lon": 17.04844659
+        },
+        {
+          "stop_sequence": 13,
+          "stop_id": "1312",
+          "stop_name": "Nowowiejska",
+          "arrival_time": "25:21:00",
+          "departure_time": "25:21:00",
+          "lat": 51.12423914,
+          "lon": 17.0448911
+        },
+        {
+          "stop_sequence": 14,
+          "stop_id": "822",
+          "stop_name": "Jedności Narodowej",
+          "arrival_time": "25:22:00",
+          "departure_time": "25:22:00",
+          "lat": 51.1215486,
+          "lon": 17.04345675
+        },
+        {
+          "stop_sequence": 15,
+          "stop_id": "823",
+          "stop_name": "Na Szańcach",
+          "arrival_time": "25:23:00",
+          "departure_time": "25:23:00",
+          "lat": 51.11940016,
+          "lon": 17.04201805
+        },
+        {
+          "stop_sequence": 16,
+          "stop_id": "2028",
+          "stop_name": "pl. Bema",
+          "arrival_time": "25:24:00",
+          "departure_time": "25:24:00",
+          "lat": 51.11751343,
+          "lon": 17.04104209
+        },
+        {
+          "stop_sequence": 17,
+          "stop_id": "5765",
+          "stop_name": "Dubois",
+          "arrival_time": "25:26:00",
+          "departure_time": "25:26:00",
+          "lat": 51.11702473,
+          "lon": 17.03380386
+        },
+        {
+          "stop_sequence": 18,
+          "stop_id": "839",
+          "stop_name": "Hala Targowa",
+          "arrival_time": "25:28:00",
+          "departure_time": "25:28:00",
+          "lat": 51.1126015,
+          "lon": 17.03948975
+        },
+        {
+          "stop_sequence": 19,
+          "stop_id": "1330",
+          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "arrival_time": "25:29:00",
+          "departure_time": "25:29:00",
+          "lat": 51.10670852,
+          "lon": 17.03827095
+        },
+        {
+          "stop_sequence": 20,
+          "stop_id": "5389",
+          "stop_name": "Bastion Sakwowy",
+          "arrival_time": "25:30:00",
+          "departure_time": "25:30:00",
+          "lat": 51.10428016,
+          "lon": 17.03740189
+        },
+        {
+          "stop_sequence": 21,
+          "stop_id": "5428",
+          "stop_name": "Dworzec Główny (MDK)",
+          "arrival_time": "25:31:00",
+          "departure_time": "25:31:00",
+          "lat": 51.10072906,
+          "lon": 17.03607078
+        },
+        {
+          "stop_sequence": 22,
+          "stop_id": "3517",
+          "stop_name": "DWORZEC GŁÓWNY",
+          "arrival_time": "25:32:00",
+          "departure_time": "25:32:00",
+          "lat": 51.09962703,
+          "lon": 17.03516167
+        },
+        {
+          "stop_sequence": 23,
+          "stop_id": "508",
+          "stop_name": "DWORZEC AUTOBUSOWY",
+          "arrival_time": "25:34:00",
+          "departure_time": "25:34:00",
+          "lat": 51.09726779,
+          "lon": 17.03228367
+        },
+        {
+          "stop_sequence": 24,
+          "stop_id": "29",
+          "stop_name": "Dyrekcyjna",
+          "arrival_time": "25:35:00",
+          "departure_time": "25:35:00",
+          "lat": 51.09430136,
+          "lon": 17.03222909
+        },
+        {
+          "stop_sequence": 25,
+          "stop_id": "5456",
+          "stop_name": "PETRUSEWICZA",
+          "arrival_time": "25:37:00",
+          "departure_time": "25:37:00",
+          "lat": 51.09213757,
+          "lon": 17.03100544
+        }
+      ]
+    },
+    {
+      "trip_id": "3_16576859",
+      "direction_id": "1",
+      "headsign": "KOWALE",
+      "service_id": "3",
+      "stops": [
+        {
+          "stop_sequence": 0,
+          "stop_id": "5456",
+          "stop_name": "PETRUSEWICZA",
+          "arrival_time": "25:45:00",
+          "departure_time": "25:45:00",
+          "lat": 51.09213757,
+          "lon": 17.03100544
+        },
+        {
+          "stop_sequence": 1,
+          "stop_id": "509",
+          "stop_name": "DWORZEC AUTOBUSOWY",
+          "arrival_time": "25:47:00",
+          "departure_time": "25:47:00",
+          "lat": 51.09657455,
+          "lon": 17.03298047
+        },
+        {
+          "stop_sequence": 2,
+          "stop_id": "3526",
+          "stop_name": "DWORZEC GŁÓWNY",
+          "arrival_time": "25:49:00",
+          "departure_time": "25:49:00",
+          "lat": 51.09969276,
+          "lon": 17.03551983
+        },
+        {
+          "stop_sequence": 3,
+          "stop_id": "5388",
+          "stop_name": "Bastion Sakwowy",
+          "arrival_time": "25:51:00",
+          "departure_time": "25:51:00",
+          "lat": 51.1036847,
+          "lon": 17.03728239
+        },
+        {
+          "stop_sequence": 4,
+          "stop_id": "841",
+          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "arrival_time": "25:53:00",
+          "departure_time": "25:53:00",
+          "lat": 51.10852894,
+          "lon": 17.03870108
+        },
+        {
+          "stop_sequence": 5,
+          "stop_id": "840",
+          "stop_name": "Hala Targowa",
+          "arrival_time": "25:54:00",
+          "departure_time": "25:54:00",
+          "lat": 51.11276951,
+          "lon": 17.03973594
+        },
+        {
+          "stop_sequence": 6,
+          "stop_id": "5766",
+          "stop_name": "Dubois",
+          "arrival_time": "25:56:00",
+          "departure_time": "25:56:00",
+          "lat": 51.11702473,
+          "lon": 17.03380386
+        },
+        {
+          "stop_sequence": 7,
+          "stop_id": "2029",
+          "stop_name": "pl. Bema",
+          "arrival_time": "25:58:00",
+          "departure_time": "25:58:00",
+          "lat": 51.11750259,
+          "lon": 17.04211691
+        },
+        {
+          "stop_sequence": 8,
+          "stop_id": "2116",
+          "stop_name": "Na Szańcach",
+          "arrival_time": "25:58:00",
+          "departure_time": "25:58:00",
+          "lat": 51.11890245,
+          "lon": 17.04204126
+        },
+        {
+          "stop_sequence": 9,
+          "stop_id": "2883",
+          "stop_name": "Jedności Narodowej",
+          "arrival_time": "25:59:00",
+          "departure_time": "25:59:00",
+          "lat": 51.12121224,
+          "lon": 17.04331711
+        },
+        {
+          "stop_sequence": 10,
+          "stop_id": "1313",
+          "stop_name": "Nowowiejska",
+          "arrival_time": "26:01:00",
+          "departure_time": "26:01:00",
+          "lat": 51.12436097,
+          "lon": 17.04513281
+        },
+        {
+          "stop_sequence": 11,
+          "stop_id": "1314",
+          "stop_name": "Daszyńskiego",
+          "arrival_time": "26:02:00",
+          "departure_time": "26:02:00",
+          "lat": 51.12632996,
+          "lon": 17.04766164
+        },
+        {
+          "stop_sequence": 12,
+          "stop_id": "2868",
+          "stop_name": "Mosty Warszawskie",
+          "arrival_time": "26:03:00",
+          "departure_time": "26:03:00",
+          "lat": 51.12863463,
+          "lon": 17.05609761
+        },
+        {
+          "stop_sequence": 13,
+          "stop_id": "1248",
+          "stop_name": "KROMERA",
+          "arrival_time": "26:05:00",
+          "departure_time": "26:05:00",
+          "lat": 51.13222406,
+          "lon": 17.06514893
+        },
+        {
+          "stop_sequence": 14,
+          "stop_id": "3461",
+          "stop_name": "Kromera (Czajkowskiego)",
+          "arrival_time": "26:06:00",
+          "departure_time": "26:06:00",
+          "lat": 51.13631426,
+          "lon": 17.07044445
+        },
+        {
+          "stop_sequence": 15,
+          "stop_id": "2594",
+          "stop_name": "Grudziądzka",
+          "arrival_time": "26:07:00",
+          "departure_time": "26:07:00",
+          "lat": 51.13794927,
+          "lon": 17.07506203
+        },
+        {
+          "stop_sequence": 16,
+          "stop_id": "1188",
+          "stop_name": "Brücknera",
+          "arrival_time": "26:08:00",
+          "departure_time": "26:08:00",
+          "lat": 51.13916827,
+          "lon": 17.08080603
+        },
+        {
+          "stop_sequence": 17,
+          "stop_id": "3766",
+          "stop_name": "Olsztyńska",
+          "arrival_time": "26:10:00",
+          "departure_time": "26:10:00",
+          "lat": 51.14044697,
+          "lon": 17.09408707
+        },
+        {
+          "stop_sequence": 18,
+          "stop_id": "4020",
+          "stop_name": "Kowalska 56",
+          "arrival_time": "26:11:00",
+          "departure_time": "26:11:00",
+          "lat": 51.13602378,
+          "lon": 17.09761647
+        },
+        {
+          "stop_sequence": 19,
+          "stop_id": "934",
+          "stop_name": "Kowale (Stacja kolejowa)",
+          "arrival_time": "26:12:00",
+          "departure_time": "26:12:00",
+          "lat": 51.13393676,
+          "lon": 17.10221243
+        },
+        {
+          "stop_sequence": 20,
+          "stop_id": "1028",
+          "stop_name": "Działdowska",
+          "arrival_time": "26:13:00",
+          "departure_time": "26:13:00",
+          "lat": 51.13317159,
+          "lon": 17.10543835
+        },
+        {
+          "stop_sequence": 21,
+          "stop_id": "3239",
+          "stop_name": "KOWALE",
+          "arrival_time": "26:14:00",
+          "departure_time": "26:14:00",
+          "lat": 51.12895888,
+          "lon": 17.10165474
+        },
+        {
+          "stop_sequence": 22,
+          "stop_id": "5430",
+          "stop_name": "KOWALE",
+          "arrival_time": "26:14:00",
+          "departure_time": "26:14:00",
+          "lat": 51.12796058,
+          "lon": 17.10253432
+        }
+      ]
+    },
+    {
+      "trip_id": "3_16576860",
+      "direction_id": "0",
+      "headsign": "PETRUSEWICZA",
+      "service_id": "3",
+      "stops": [
+        {
+          "stop_sequence": 0,
+          "stop_id": "5430",
+          "stop_name": "KOWALE",
+          "arrival_time": "26:39:00",
+          "departure_time": "26:39:00",
+          "lat": 51.12796058,
+          "lon": 17.10253432
+        },
+        {
+          "stop_sequence": 1,
+          "stop_id": "3240",
+          "stop_name": "KOWALE",
+          "arrival_time": "26:39:00",
+          "departure_time": "26:39:00",
+          "lat": 51.12896333,
+          "lon": 17.1018384
+        },
+        {
+          "stop_sequence": 2,
+          "stop_id": "1027",
+          "stop_name": "Działdowska",
+          "arrival_time": "26:40:00",
+          "departure_time": "26:40:00",
+          "lat": 51.13315884,
+          "lon": 17.10579419
+        },
+        {
+          "stop_sequence": 3,
+          "stop_id": "935",
+          "stop_name": "Kowale (Stacja kolejowa)",
+          "arrival_time": "26:41:00",
+          "departure_time": "26:41:00",
+          "lat": 51.13416856,
+          "lon": 17.1016776
+        },
+        {
+          "stop_sequence": 4,
+          "stop_id": "3225",
+          "stop_name": "Kowalska 56",
+          "arrival_time": "26:42:00",
+          "departure_time": "26:42:00",
+          "lat": 51.13647537,
+          "lon": 17.09740219
+        },
+        {
+          "stop_sequence": 5,
+          "stop_id": "2748",
+          "stop_name": "Olsztyńska",
+          "arrival_time": "26:43:00",
+          "departure_time": "26:43:00",
+          "lat": 51.13938597,
+          "lon": 17.0951032
+        },
+        {
+          "stop_sequence": 6,
+          "stop_id": "707",
+          "stop_name": "C.H. Korona",
+          "arrival_time": "26:44:00",
+          "departure_time": "26:44:00",
+          "lat": 51.14110423,
+          "lon": 17.08765021
+        },
+        {
+          "stop_sequence": 7,
+          "stop_id": "612",
+          "stop_name": "Brücknera",
+          "arrival_time": "26:45:00",
+          "departure_time": "26:45:00",
+          "lat": 51.13951485,
+          "lon": 17.08107914
+        },
+        {
+          "stop_sequence": 8,
+          "stop_id": "611",
+          "stop_name": "Grudziądzka",
+          "arrival_time": "26:46:00",
+          "departure_time": "26:46:00",
+          "lat": 51.13788049,
+          "lon": 17.07363454
+        },
+        {
+          "stop_sequence": 9,
+          "stop_id": "3460",
+          "stop_name": "Kromera (Czajkowskiego)",
+          "arrival_time": "26:47:00",
+          "departure_time": "26:47:00",
+          "lat": 51.13557581,
+          "lon": 17.06907505
+        },
+        {
+          "stop_sequence": 10,
+          "stop_id": "1819",
+          "stop_name": "KROMERA",
+          "arrival_time": "26:48:00",
+          "departure_time": "26:48:00",
+          "lat": 51.13164737,
+          "lon": 17.06263024
+        },
+        {
+          "stop_sequence": 11,
+          "stop_id": "1305",
+          "stop_name": "Mosty Warszawskie",
+          "arrival_time": "26:49:00",
+          "departure_time": "26:49:00",
+          "lat": 51.12838294,
+          "lon": 17.0538428
+        },
+        {
+          "stop_sequence": 12,
+          "stop_id": "1315",
+          "stop_name": "Daszyńskiego",
+          "arrival_time": "26:50:00",
+          "departure_time": "26:50:00",
+          "lat": 51.12674068,
+          "lon": 17.04844659
+        },
+        {
+          "stop_sequence": 13,
+          "stop_id": "1312",
+          "stop_name": "Nowowiejska",
+          "arrival_time": "26:51:00",
+          "departure_time": "26:51:00",
+          "lat": 51.12423914,
+          "lon": 17.0448911
+        },
+        {
+          "stop_sequence": 14,
+          "stop_id": "822",
+          "stop_name": "Jedności Narodowej",
+          "arrival_time": "26:52:00",
+          "departure_time": "26:52:00",
+          "lat": 51.1215486,
+          "lon": 17.04345675
+        },
+        {
+          "stop_sequence": 15,
+          "stop_id": "823",
+          "stop_name": "Na Szańcach",
+          "arrival_time": "26:53:00",
+          "departure_time": "26:53:00",
+          "lat": 51.11940016,
+          "lon": 17.04201805
+        },
+        {
+          "stop_sequence": 16,
+          "stop_id": "2028",
+          "stop_name": "pl. Bema",
+          "arrival_time": "26:54:00",
+          "departure_time": "26:54:00",
+          "lat": 51.11751343,
+          "lon": 17.04104209
+        },
+        {
+          "stop_sequence": 17,
+          "stop_id": "5765",
+          "stop_name": "Dubois",
+          "arrival_time": "26:56:00",
+          "departure_time": "26:56:00",
+          "lat": 51.11702473,
+          "lon": 17.03380386
+        },
+        {
+          "stop_sequence": 18,
+          "stop_id": "839",
+          "stop_name": "Hala Targowa",
+          "arrival_time": "26:58:00",
+          "departure_time": "26:58:00",
+          "lat": 51.1126015,
+          "lon": 17.03948975
+        },
+        {
+          "stop_sequence": 19,
+          "stop_id": "1330",
+          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "arrival_time": "26:59:00",
+          "departure_time": "26:59:00",
+          "lat": 51.10670852,
+          "lon": 17.03827095
+        },
+        {
+          "stop_sequence": 20,
+          "stop_id": "5389",
+          "stop_name": "Bastion Sakwowy",
+          "arrival_time": "27:00:00",
+          "departure_time": "27:00:00",
+          "lat": 51.10428016,
+          "lon": 17.03740189
+        },
+        {
+          "stop_sequence": 21,
+          "stop_id": "5428",
+          "stop_name": "Dworzec Główny (MDK)",
+          "arrival_time": "27:01:00",
+          "departure_time": "27:01:00",
+          "lat": 51.10072906,
+          "lon": 17.03607078
+        },
+        {
+          "stop_sequence": 22,
+          "stop_id": "3517",
+          "stop_name": "DWORZEC GŁÓWNY",
+          "arrival_time": "27:02:00",
+          "departure_time": "27:02:00",
+          "lat": 51.09962703,
+          "lon": 17.03516167
+        },
+        {
+          "stop_sequence": 23,
+          "stop_id": "508",
+          "stop_name": "DWORZEC AUTOBUSOWY",
+          "arrival_time": "27:04:00",
+          "departure_time": "27:04:00",
+          "lat": 51.09726779,
+          "lon": 17.03228367
+        },
+        {
+          "stop_sequence": 24,
+          "stop_id": "29",
+          "stop_name": "Dyrekcyjna",
+          "arrival_time": "27:05:00",
+          "departure_time": "27:05:00",
+          "lat": 51.09430136,
+          "lon": 17.03222909
+        },
+        {
+          "stop_sequence": 25,
+          "stop_id": "5456",
+          "stop_name": "PETRUSEWICZA",
+          "arrival_time": "27:07:00",
+          "departure_time": "27:07:00",
+          "lat": 51.09213757,
+          "lon": 17.03100544
+        }
+      ]
+    },
+    {
+      "trip_id": "3_16576921",
+      "direction_id": "1",
+      "headsign": "KOWALE",
+      "service_id": "3",
+      "stops": [
+        {
+          "stop_sequence": 0,
+          "stop_id": "5456",
+          "stop_name": "PETRUSEWICZA",
+          "arrival_time": "27:45:00",
+          "departure_time": "27:45:00",
+          "lat": 51.09213757,
+          "lon": 17.03100544
+        },
+        {
+          "stop_sequence": 1,
+          "stop_id": "509",
+          "stop_name": "DWORZEC AUTOBUSOWY",
+          "arrival_time": "27:47:00",
+          "departure_time": "27:47:00",
+          "lat": 51.09657455,
+          "lon": 17.03298047
+        },
+        {
+          "stop_sequence": 2,
+          "stop_id": "3526",
+          "stop_name": "DWORZEC GŁÓWNY",
+          "arrival_time": "27:49:00",
+          "departure_time": "27:49:00",
+          "lat": 51.09969276,
+          "lon": 17.03551983
+        },
+        {
+          "stop_sequence": 3,
+          "stop_id": "5388",
+          "stop_name": "Bastion Sakwowy",
+          "arrival_time": "27:51:00",
+          "departure_time": "27:51:00",
+          "lat": 51.1036847,
+          "lon": 17.03728239
+        },
+        {
+          "stop_sequence": 4,
+          "stop_id": "841",
+          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "arrival_time": "27:53:00",
+          "departure_time": "27:53:00",
+          "lat": 51.10852894,
+          "lon": 17.03870108
+        },
+        {
+          "stop_sequence": 5,
+          "stop_id": "840",
+          "stop_name": "Hala Targowa",
+          "arrival_time": "27:54:00",
+          "departure_time": "27:54:00",
+          "lat": 51.11276951,
+          "lon": 17.03973594
+        },
+        {
+          "stop_sequence": 6,
+          "stop_id": "5766",
+          "stop_name": "Dubois",
+          "arrival_time": "27:56:00",
+          "departure_time": "27:56:00",
+          "lat": 51.11702473,
+          "lon": 17.03380386
+        },
+        {
+          "stop_sequence": 7,
+          "stop_id": "2029",
+          "stop_name": "pl. Bema",
+          "arrival_time": "27:58:00",
+          "departure_time": "27:58:00",
+          "lat": 51.11750259,
+          "lon": 17.04211691
+        },
+        {
+          "stop_sequence": 8,
+          "stop_id": "2116",
+          "stop_name": "Na Szańcach",
+          "arrival_time": "27:58:00",
+          "departure_time": "27:58:00",
+          "lat": 51.11890245,
+          "lon": 17.04204126
+        },
+        {
+          "stop_sequence": 9,
+          "stop_id": "2883",
+          "stop_name": "Jedności Narodowej",
+          "arrival_time": "27:59:00",
+          "departure_time": "27:59:00",
+          "lat": 51.12121224,
+          "lon": 17.04331711
+        },
+        {
+          "stop_sequence": 10,
+          "stop_id": "1313",
+          "stop_name": "Nowowiejska",
+          "arrival_time": "28:01:00",
+          "departure_time": "28:01:00",
+          "lat": 51.12436097,
+          "lon": 17.04513281
+        },
+        {
+          "stop_sequence": 11,
+          "stop_id": "1314",
+          "stop_name": "Daszyńskiego",
+          "arrival_time": "28:02:00",
+          "departure_time": "28:02:00",
+          "lat": 51.12632996,
+          "lon": 17.04766164
+        },
+        {
+          "stop_sequence": 12,
+          "stop_id": "2868",
+          "stop_name": "Mosty Warszawskie",
+          "arrival_time": "28:03:00",
+          "departure_time": "28:03:00",
+          "lat": 51.12863463,
+          "lon": 17.05609761
+        },
+        {
+          "stop_sequence": 13,
+          "stop_id": "1248",
+          "stop_name": "KROMERA",
+          "arrival_time": "28:05:00",
+          "departure_time": "28:05:00",
+          "lat": 51.13222406,
+          "lon": 17.06514893
+        },
+        {
+          "stop_sequence": 14,
+          "stop_id": "3461",
+          "stop_name": "Kromera (Czajkowskiego)",
+          "arrival_time": "28:06:00",
+          "departure_time": "28:06:00",
+          "lat": 51.13631426,
+          "lon": 17.07044445
+        },
+        {
+          "stop_sequence": 15,
+          "stop_id": "2594",
+          "stop_name": "Grudziądzka",
+          "arrival_time": "28:07:00",
+          "departure_time": "28:07:00",
+          "lat": 51.13794927,
+          "lon": 17.07506203
+        },
+        {
+          "stop_sequence": 16,
+          "stop_id": "1188",
+          "stop_name": "Brücknera",
+          "arrival_time": "28:08:00",
+          "departure_time": "28:08:00",
+          "lat": 51.13916827,
+          "lon": 17.08080603
+        },
+        {
+          "stop_sequence": 17,
+          "stop_id": "3766",
+          "stop_name": "Olsztyńska",
+          "arrival_time": "28:10:00",
+          "departure_time": "28:10:00",
+          "lat": 51.14044697,
+          "lon": 17.09408707
+        },
+        {
+          "stop_sequence": 18,
+          "stop_id": "4020",
+          "stop_name": "Kowalska 56",
+          "arrival_time": "28:11:00",
+          "departure_time": "28:11:00",
+          "lat": 51.13602378,
+          "lon": 17.09761647
+        },
+        {
+          "stop_sequence": 19,
+          "stop_id": "934",
+          "stop_name": "Kowale (Stacja kolejowa)",
+          "arrival_time": "28:12:00",
+          "departure_time": "28:12:00",
+          "lat": 51.13393676,
+          "lon": 17.10221243
+        },
+        {
+          "stop_sequence": 20,
+          "stop_id": "1028",
+          "stop_name": "Działdowska",
+          "arrival_time": "28:13:00",
+          "departure_time": "28:13:00",
+          "lat": 51.13317159,
+          "lon": 17.10543835
+        },
+        {
+          "stop_sequence": 21,
+          "stop_id": "3239",
+          "stop_name": "KOWALE",
+          "arrival_time": "28:14:00",
+          "departure_time": "28:14:00",
+          "lat": 51.12895888,
+          "lon": 17.10165474
+        },
+        {
+          "stop_sequence": 22,
+          "stop_id": "5430",
+          "stop_name": "KOWALE",
+          "arrival_time": "28:14:00",
+          "departure_time": "28:14:00",
+          "lat": 51.12796058,
+          "lon": 17.10253432
+        }
+      ]
+    },
+    {
+      "trip_id": "3_16576922",
+      "direction_id": "0",
+      "headsign": "Zajezdnia OBORNICKA",
+      "service_id": "3",
+      "stops": [
+        {
+          "stop_sequence": 0,
+          "stop_id": "5430",
+          "stop_name": "KOWALE",
+          "arrival_time": "28:19:00",
+          "departure_time": "28:19:00",
+          "lat": 51.12796058,
+          "lon": 17.10253432
+        },
+        {
+          "stop_sequence": 1,
+          "stop_id": "3240",
+          "stop_name": "KOWALE",
+          "arrival_time": "28:19:00",
+          "departure_time": "28:19:00",
+          "lat": 51.12896333,
+          "lon": 17.1018384
+        },
+        {
+          "stop_sequence": 2,
+          "stop_id": "1027",
+          "stop_name": "Działdowska",
+          "arrival_time": "28:20:00",
+          "departure_time": "28:20:00",
+          "lat": 51.13315884,
+          "lon": 17.10579419
+        },
+        {
+          "stop_sequence": 3,
+          "stop_id": "935",
+          "stop_name": "Kowale (Stacja kolejowa)",
+          "arrival_time": "28:21:00",
+          "departure_time": "28:21:00",
+          "lat": 51.13416856,
+          "lon": 17.1016776
+        },
+        {
+          "stop_sequence": 4,
+          "stop_id": "3225",
+          "stop_name": "Kowalska 56",
+          "arrival_time": "28:22:00",
+          "departure_time": "28:22:00",
+          "lat": 51.13647537,
+          "lon": 17.09740219
+        },
+        {
+          "stop_sequence": 5,
+          "stop_id": "2748",
+          "stop_name": "Olsztyńska",
+          "arrival_time": "28:23:00",
+          "departure_time": "28:23:00",
+          "lat": 51.13938597,
+          "lon": 17.0951032
+        },
+        {
+          "stop_sequence": 6,
+          "stop_id": "707",
+          "stop_name": "C.H. Korona",
+          "arrival_time": "28:24:00",
+          "departure_time": "28:24:00",
+          "lat": 51.14110423,
+          "lon": 17.08765021
+        },
+        {
+          "stop_sequence": 7,
+          "stop_id": "612",
+          "stop_name": "Brücknera",
+          "arrival_time": "28:25:00",
+          "departure_time": "28:25:00",
+          "lat": 51.13951485,
+          "lon": 17.08107914
+        },
+        {
+          "stop_sequence": 8,
+          "stop_id": "611",
+          "stop_name": "Grudziądzka",
+          "arrival_time": "28:26:00",
+          "departure_time": "28:26:00",
+          "lat": 51.13788049,
+          "lon": 17.07363454
+        },
+        {
+          "stop_sequence": 9,
+          "stop_id": "3460",
+          "stop_name": "Kromera (Czajkowskiego)",
+          "arrival_time": "28:27:00",
+          "departure_time": "28:27:00",
+          "lat": 51.13557581,
+          "lon": 17.06907505
+        },
+        {
+          "stop_sequence": 10,
+          "stop_id": "613",
+          "stop_name": "KROMERA",
+          "arrival_time": "28:28:00",
+          "departure_time": "28:28:00",
+          "lat": 51.13237794,
+          "lon": 17.06301095
+        },
+        {
+          "stop_sequence": 11,
+          "stop_id": "624",
+          "stop_name": "Berenta",
+          "arrival_time": "28:29:00",
+          "departure_time": "28:29:00",
+          "lat": 51.1349714,
+          "lon": 17.05777339
+        },
+        {
+          "stop_sequence": 12,
+          "stop_id": "623",
+          "stop_name": "Kasprowicza",
+          "arrival_time": "28:30:00",
+          "departure_time": "28:30:00",
+          "lat": 51.13744108,
+          "lon": 17.05290682
+        },
+        {
+          "stop_sequence": 13,
+          "stop_id": "4714",
+          "stop_name": "Syrokomli",
+          "arrival_time": "28:31:00",
+          "departure_time": "28:31:00",
+          "lat": 51.137273,
+          "lon": 17.047925
+        },
+        {
+          "stop_sequence": 14,
+          "stop_id": "626",
+          "stop_name": "Pola",
+          "arrival_time": "28:32:00",
+          "departure_time": "28:32:00",
+          "lat": 51.13671695,
+          "lon": 17.04317468
+        },
+        {
+          "stop_sequence": 15,
+          "stop_id": "637",
+          "stop_name": "Broniewskiego",
+          "arrival_time": "28:33:00",
+          "departure_time": "28:33:00",
+          "lat": 51.13590436,
+          "lon": 17.03532722
+        },
+        {
+          "stop_sequence": 16,
+          "stop_id": "644",
+          "stop_name": "Bałtycka",
+          "arrival_time": "28:35:00",
+          "departure_time": "28:35:00",
+          "lat": 51.1382819,
+          "lon": 17.02937414
+        },
+        {
+          "stop_sequence": 17,
+          "stop_id": "1165",
+          "stop_name": "Bezpieczna",
+          "arrival_time": "28:36:00",
+          "departure_time": "28:36:00",
+          "lat": 51.14245937,
+          "lon": 17.02567781
+        },
+        {
+          "stop_sequence": 18,
+          "stop_id": "668",
+          "stop_name": "Paprotna",
+          "arrival_time": "28:37:00",
+          "departure_time": "28:37:00",
+          "lat": 51.14818098,
+          "lon": 17.02062686
+        },
+        {
+          "stop_sequence": 19,
+          "stop_id": "5583",
+          "stop_name": "Zajezdnia OBORNICKA",
+          "arrival_time": "28:38:00",
+          "departure_time": "28:38:00",
+          "lat": 51.14873744,
+          "lon": 17.02106859
+        }
+      ]
+    },
+    {
+      "trip_id": "4_16580408",
+      "direction_id": "1",
+      "headsign": "KOWALE",
+      "service_id": "4",
+      "stops": [
+        {
+          "stop_sequence": 0,
+          "stop_id": "5456",
+          "stop_name": "PETRUSEWICZA",
+          "arrival_time": "23:45:00",
+          "departure_time": "23:45:00",
+          "lat": 51.09213757,
+          "lon": 17.03100544
+        },
+        {
+          "stop_sequence": 1,
+          "stop_id": "509",
+          "stop_name": "DWORZEC AUTOBUSOWY",
+          "arrival_time": "23:47:00",
+          "departure_time": "23:47:00",
+          "lat": 51.09657455,
+          "lon": 17.03298047
+        },
+        {
+          "stop_sequence": 2,
+          "stop_id": "3526",
+          "stop_name": "DWORZEC GŁÓWNY",
+          "arrival_time": "23:49:00",
+          "departure_time": "23:49:00",
+          "lat": 51.09969276,
+          "lon": 17.03551983
+        },
+        {
+          "stop_sequence": 3,
+          "stop_id": "5388",
+          "stop_name": "Bastion Sakwowy",
+          "arrival_time": "23:51:00",
+          "departure_time": "23:51:00",
+          "lat": 51.1036847,
+          "lon": 17.03728239
+        },
+        {
+          "stop_sequence": 4,
+          "stop_id": "841",
+          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "arrival_time": "23:53:00",
+          "departure_time": "23:53:00",
+          "lat": 51.10852894,
+          "lon": 17.03870108
+        },
+        {
+          "stop_sequence": 5,
+          "stop_id": "840",
+          "stop_name": "Hala Targowa",
+          "arrival_time": "23:54:00",
+          "departure_time": "23:54:00",
+          "lat": 51.11276951,
+          "lon": 17.03973594
+        },
+        {
+          "stop_sequence": 6,
+          "stop_id": "5766",
+          "stop_name": "Dubois",
+          "arrival_time": "23:56:00",
+          "departure_time": "23:56:00",
+          "lat": 51.11702473,
+          "lon": 17.03380386
+        },
+        {
+          "stop_sequence": 7,
+          "stop_id": "2029",
+          "stop_name": "pl. Bema",
+          "arrival_time": "23:58:00",
+          "departure_time": "23:58:00",
+          "lat": 51.11750259,
+          "lon": 17.04211691
+        },
+        {
+          "stop_sequence": 8,
+          "stop_id": "2116",
+          "stop_name": "Na Szańcach",
+          "arrival_time": "23:58:00",
+          "departure_time": "23:58:00",
+          "lat": 51.11890245,
+          "lon": 17.04204126
+        },
+        {
+          "stop_sequence": 9,
+          "stop_id": "2883",
+          "stop_name": "Jedności Narodowej",
+          "arrival_time": "23:59:00",
+          "departure_time": "23:59:00",
+          "lat": 51.12121224,
+          "lon": 17.04331711
+        },
+        {
+          "stop_sequence": 10,
+          "stop_id": "1313",
+          "stop_name": "Nowowiejska",
+          "arrival_time": "24:01:00",
+          "departure_time": "24:01:00",
+          "lat": 51.12436097,
+          "lon": 17.04513281
+        },
+        {
+          "stop_sequence": 11,
+          "stop_id": "1314",
+          "stop_name": "Daszyńskiego",
+          "arrival_time": "24:02:00",
+          "departure_time": "24:02:00",
+          "lat": 51.12632996,
+          "lon": 17.04766164
+        },
+        {
+          "stop_sequence": 12,
+          "stop_id": "2868",
+          "stop_name": "Mosty Warszawskie",
+          "arrival_time": "24:03:00",
+          "departure_time": "24:03:00",
+          "lat": 51.12863463,
+          "lon": 17.05609761
+        },
+        {
+          "stop_sequence": 13,
+          "stop_id": "1248",
+          "stop_name": "KROMERA",
+          "arrival_time": "24:05:00",
+          "departure_time": "24:05:00",
+          "lat": 51.13222406,
+          "lon": 17.06514893
+        },
+        {
+          "stop_sequence": 14,
+          "stop_id": "3461",
+          "stop_name": "Kromera (Czajkowskiego)",
+          "arrival_time": "24:06:00",
+          "departure_time": "24:06:00",
+          "lat": 51.13631426,
+          "lon": 17.07044445
+        },
+        {
+          "stop_sequence": 15,
+          "stop_id": "2594",
+          "stop_name": "Grudziądzka",
+          "arrival_time": "24:07:00",
+          "departure_time": "24:07:00",
+          "lat": 51.13794927,
+          "lon": 17.07506203
+        },
+        {
+          "stop_sequence": 16,
+          "stop_id": "1188",
+          "stop_name": "Brücknera",
+          "arrival_time": "24:08:00",
+          "departure_time": "24:08:00",
+          "lat": 51.13916827,
+          "lon": 17.08080603
+        },
+        {
+          "stop_sequence": 17,
+          "stop_id": "3766",
+          "stop_name": "Olsztyńska",
+          "arrival_time": "24:10:00",
+          "departure_time": "24:10:00",
+          "lat": 51.14044697,
+          "lon": 17.09408707
+        },
+        {
+          "stop_sequence": 18,
+          "stop_id": "4020",
+          "stop_name": "Kowalska 56",
+          "arrival_time": "24:11:00",
+          "departure_time": "24:11:00",
+          "lat": 51.13602378,
+          "lon": 17.09761647
+        },
+        {
+          "stop_sequence": 19,
+          "stop_id": "934",
+          "stop_name": "Kowale (Stacja kolejowa)",
+          "arrival_time": "24:12:00",
+          "departure_time": "24:12:00",
+          "lat": 51.13393676,
+          "lon": 17.10221243
+        },
+        {
+          "stop_sequence": 20,
+          "stop_id": "1028",
+          "stop_name": "Działdowska",
+          "arrival_time": "24:13:00",
+          "departure_time": "24:13:00",
+          "lat": 51.13317159,
+          "lon": 17.10543835
+        },
+        {
+          "stop_sequence": 21,
+          "stop_id": "3239",
+          "stop_name": "KOWALE",
+          "arrival_time": "24:14:00",
+          "departure_time": "24:14:00",
+          "lat": 51.12895888,
+          "lon": 17.10165474
+        },
+        {
+          "stop_sequence": 22,
+          "stop_id": "5430",
+          "stop_name": "KOWALE",
+          "arrival_time": "24:14:00",
+          "departure_time": "24:14:00",
+          "lat": 51.12796058,
+          "lon": 17.10253432
+        }
+      ]
+    },
+    {
+      "trip_id": "4_16580409",
+      "direction_id": "0",
+      "headsign": "Zajezdnia OBORNICKA",
+      "service_id": "4",
+      "stops": [
+        {
+          "stop_sequence": 0,
+          "stop_id": "5430",
+          "stop_name": "KOWALE",
+          "arrival_time": "24:14:00",
+          "departure_time": "24:14:00",
+          "lat": 51.12796058,
+          "lon": 17.10253432
+        },
+        {
+          "stop_sequence": 1,
+          "stop_id": "3240",
+          "stop_name": "KOWALE",
+          "arrival_time": "24:14:00",
+          "departure_time": "24:14:00",
+          "lat": 51.12896333,
+          "lon": 17.1018384
+        },
+        {
+          "stop_sequence": 2,
+          "stop_id": "1027",
+          "stop_name": "Działdowska",
+          "arrival_time": "24:15:00",
+          "departure_time": "24:15:00",
+          "lat": 51.13315884,
+          "lon": 17.10579419
+        },
+        {
+          "stop_sequence": 3,
+          "stop_id": "935",
+          "stop_name": "Kowale (Stacja kolejowa)",
+          "arrival_time": "24:16:00",
+          "departure_time": "24:16:00",
+          "lat": 51.13416856,
+          "lon": 17.1016776
+        },
+        {
+          "stop_sequence": 4,
+          "stop_id": "3225",
+          "stop_name": "Kowalska 56",
+          "arrival_time": "24:17:00",
+          "departure_time": "24:17:00",
+          "lat": 51.13647537,
+          "lon": 17.09740219
+        },
+        {
+          "stop_sequence": 5,
+          "stop_id": "2748",
+          "stop_name": "Olsztyńska",
+          "arrival_time": "24:18:00",
+          "departure_time": "24:18:00",
+          "lat": 51.13938597,
+          "lon": 17.0951032
+        },
+        {
+          "stop_sequence": 6,
+          "stop_id": "707",
+          "stop_name": "C.H. Korona",
+          "arrival_time": "24:19:00",
+          "departure_time": "24:19:00",
+          "lat": 51.14110423,
+          "lon": 17.08765021
+        },
+        {
+          "stop_sequence": 7,
+          "stop_id": "612",
+          "stop_name": "Brücknera",
+          "arrival_time": "24:20:00",
+          "departure_time": "24:20:00",
+          "lat": 51.13951485,
+          "lon": 17.08107914
+        },
+        {
+          "stop_sequence": 8,
+          "stop_id": "611",
+          "stop_name": "Grudziądzka",
+          "arrival_time": "24:21:00",
+          "departure_time": "24:21:00",
+          "lat": 51.13788049,
+          "lon": 17.07363454
+        },
+        {
+          "stop_sequence": 9,
+          "stop_id": "3460",
+          "stop_name": "Kromera (Czajkowskiego)",
+          "arrival_time": "24:22:00",
+          "departure_time": "24:22:00",
+          "lat": 51.13557581,
+          "lon": 17.06907505
+        },
+        {
+          "stop_sequence": 10,
+          "stop_id": "613",
+          "stop_name": "KROMERA",
+          "arrival_time": "24:23:00",
+          "departure_time": "24:23:00",
+          "lat": 51.13237794,
+          "lon": 17.06301095
+        },
+        {
+          "stop_sequence": 11,
+          "stop_id": "624",
+          "stop_name": "Berenta",
+          "arrival_time": "24:24:00",
+          "departure_time": "24:24:00",
+          "lat": 51.1349714,
+          "lon": 17.05777339
+        },
+        {
+          "stop_sequence": 12,
+          "stop_id": "623",
+          "stop_name": "Kasprowicza",
+          "arrival_time": "24:25:00",
+          "departure_time": "24:25:00",
+          "lat": 51.13744108,
+          "lon": 17.05290682
+        },
+        {
+          "stop_sequence": 13,
+          "stop_id": "4714",
+          "stop_name": "Syrokomli",
+          "arrival_time": "24:26:00",
+          "departure_time": "24:26:00",
+          "lat": 51.137273,
+          "lon": 17.047925
+        },
+        {
+          "stop_sequence": 14,
+          "stop_id": "626",
+          "stop_name": "Pola",
+          "arrival_time": "24:27:00",
+          "departure_time": "24:27:00",
+          "lat": 51.13671695,
+          "lon": 17.04317468
+        },
+        {
+          "stop_sequence": 15,
+          "stop_id": "637",
+          "stop_name": "Broniewskiego",
+          "arrival_time": "24:28:00",
+          "departure_time": "24:28:00",
+          "lat": 51.13590436,
+          "lon": 17.03532722
+        },
+        {
+          "stop_sequence": 16,
+          "stop_id": "644",
+          "stop_name": "Bałtycka",
+          "arrival_time": "24:30:00",
+          "departure_time": "24:30:00",
+          "lat": 51.1382819,
+          "lon": 17.02937414
+        },
+        {
+          "stop_sequence": 17,
+          "stop_id": "1165",
+          "stop_name": "Bezpieczna",
+          "arrival_time": "24:31:00",
+          "departure_time": "24:31:00",
+          "lat": 51.14245937,
+          "lon": 17.02567781
+        },
+        {
+          "stop_sequence": 18,
+          "stop_id": "668",
+          "stop_name": "Paprotna",
+          "arrival_time": "24:32:00",
+          "departure_time": "24:32:00",
+          "lat": 51.14818098,
+          "lon": 17.02062686
+        },
+        {
+          "stop_sequence": 19,
+          "stop_id": "5583",
+          "stop_name": "Zajezdnia OBORNICKA",
+          "arrival_time": "24:33:00",
+          "departure_time": "24:33:00",
+          "lat": 51.14873744,
+          "lon": 17.02106859
+        }
+      ]
+    },
+    {
+      "trip_id": "4_16581185",
+      "direction_id": "1",
+      "headsign": "KOWALE",
+      "service_id": "4",
+      "stops": [
+        {
+          "stop_sequence": 0,
+          "stop_id": "1893",
+          "stop_name": "KROMERA",
+          "arrival_time": "24:56:00",
+          "departure_time": "24:56:00",
+          "lat": 51.13202211,
+          "lon": 17.06568137
+        },
+        {
+          "stop_sequence": 1,
+          "stop_id": "1248",
+          "stop_name": "KROMERA",
+          "arrival_time": "24:57:00",
+          "departure_time": "24:57:00",
+          "lat": 51.13222406,
+          "lon": 17.06514893
+        },
+        {
+          "stop_sequence": 2,
+          "stop_id": "3461",
+          "stop_name": "Kromera (Czajkowskiego)",
+          "arrival_time": "24:58:00",
+          "departure_time": "24:58:00",
+          "lat": 51.13631426,
+          "lon": 17.07044445
+        },
+        {
+          "stop_sequence": 3,
+          "stop_id": "2594",
+          "stop_name": "Grudziądzka",
+          "arrival_time": "24:59:00",
+          "departure_time": "24:59:00",
+          "lat": 51.13794927,
+          "lon": 17.07506203
+        },
+        {
+          "stop_sequence": 4,
+          "stop_id": "1188",
+          "stop_name": "Brücknera",
+          "arrival_time": "25:00:00",
+          "departure_time": "25:00:00",
+          "lat": 51.13916827,
+          "lon": 17.08080603
+        },
+        {
+          "stop_sequence": 5,
+          "stop_id": "3766",
+          "stop_name": "Olsztyńska",
+          "arrival_time": "25:02:00",
+          "departure_time": "25:02:00",
+          "lat": 51.14044697,
+          "lon": 17.09408707
+        },
+        {
+          "stop_sequence": 6,
+          "stop_id": "4020",
+          "stop_name": "Kowalska 56",
+          "arrival_time": "25:03:00",
+          "departure_time": "25:03:00",
+          "lat": 51.13602378,
+          "lon": 17.09761647
+        },
+        {
+          "stop_sequence": 7,
+          "stop_id": "934",
+          "stop_name": "Kowale (Stacja kolejowa)",
+          "arrival_time": "25:04:00",
+          "departure_time": "25:04:00",
+          "lat": 51.13393676,
+          "lon": 17.10221243
+        },
+        {
+          "stop_sequence": 8,
+          "stop_id": "1028",
+          "stop_name": "Działdowska",
+          "arrival_time": "25:05:00",
+          "departure_time": "25:05:00",
+          "lat": 51.13317159,
+          "lon": 17.10543835
+        },
+        {
+          "stop_sequence": 9,
+          "stop_id": "3239",
+          "stop_name": "KOWALE",
+          "arrival_time": "25:06:00",
+          "departure_time": "25:06:00",
+          "lat": 51.12895888,
+          "lon": 17.10165474
+        },
+        {
+          "stop_sequence": 10,
+          "stop_id": "5430",
+          "stop_name": "KOWALE",
+          "arrival_time": "25:06:00",
+          "departure_time": "25:06:00",
+          "lat": 51.12796058,
+          "lon": 17.10253432
+        }
+      ]
+    },
+    {
+      "trip_id": "4_16581186",
+      "direction_id": "0",
+      "headsign": "PETRUSEWICZA",
+      "service_id": "4",
+      "stops": [
+        {
+          "stop_sequence": 0,
+          "stop_id": "5430",
+          "stop_name": "KOWALE",
+          "arrival_time": "25:09:00",
+          "departure_time": "25:09:00",
+          "lat": 51.12796058,
+          "lon": 17.10253432
+        },
+        {
+          "stop_sequence": 1,
+          "stop_id": "3240",
+          "stop_name": "KOWALE",
+          "arrival_time": "25:09:00",
+          "departure_time": "25:09:00",
+          "lat": 51.12896333,
+          "lon": 17.1018384
+        },
+        {
+          "stop_sequence": 2,
+          "stop_id": "1027",
+          "stop_name": "Działdowska",
+          "arrival_time": "25:10:00",
+          "departure_time": "25:10:00",
+          "lat": 51.13315884,
+          "lon": 17.10579419
+        },
+        {
+          "stop_sequence": 3,
+          "stop_id": "935",
+          "stop_name": "Kowale (Stacja kolejowa)",
+          "arrival_time": "25:11:00",
+          "departure_time": "25:11:00",
+          "lat": 51.13416856,
+          "lon": 17.1016776
+        },
+        {
+          "stop_sequence": 4,
+          "stop_id": "3225",
+          "stop_name": "Kowalska 56",
+          "arrival_time": "25:12:00",
+          "departure_time": "25:12:00",
+          "lat": 51.13647537,
+          "lon": 17.09740219
+        },
+        {
+          "stop_sequence": 5,
+          "stop_id": "2748",
+          "stop_name": "Olsztyńska",
+          "arrival_time": "25:13:00",
+          "departure_time": "25:13:00",
+          "lat": 51.13938597,
+          "lon": 17.0951032
+        },
+        {
+          "stop_sequence": 6,
+          "stop_id": "707",
+          "stop_name": "C.H. Korona",
+          "arrival_time": "25:14:00",
+          "departure_time": "25:14:00",
+          "lat": 51.14110423,
+          "lon": 17.08765021
+        },
+        {
+          "stop_sequence": 7,
+          "stop_id": "612",
+          "stop_name": "Brücknera",
+          "arrival_time": "25:15:00",
+          "departure_time": "25:15:00",
+          "lat": 51.13951485,
+          "lon": 17.08107914
+        },
+        {
+          "stop_sequence": 8,
+          "stop_id": "611",
+          "stop_name": "Grudziądzka",
+          "arrival_time": "25:16:00",
+          "departure_time": "25:16:00",
+          "lat": 51.13788049,
+          "lon": 17.07363454
+        },
+        {
+          "stop_sequence": 9,
+          "stop_id": "3460",
+          "stop_name": "Kromera (Czajkowskiego)",
+          "arrival_time": "25:17:00",
+          "departure_time": "25:17:00",
+          "lat": 51.13557581,
+          "lon": 17.06907505
+        },
+        {
+          "stop_sequence": 10,
+          "stop_id": "1819",
+          "stop_name": "KROMERA",
+          "arrival_time": "25:18:00",
+          "departure_time": "25:18:00",
+          "lat": 51.13164737,
+          "lon": 17.06263024
+        },
+        {
+          "stop_sequence": 11,
+          "stop_id": "1305",
+          "stop_name": "Mosty Warszawskie",
+          "arrival_time": "25:19:00",
+          "departure_time": "25:19:00",
+          "lat": 51.12838294,
+          "lon": 17.0538428
+        },
+        {
+          "stop_sequence": 12,
+          "stop_id": "1315",
+          "stop_name": "Daszyńskiego",
+          "arrival_time": "25:20:00",
+          "departure_time": "25:20:00",
+          "lat": 51.12674068,
+          "lon": 17.04844659
+        },
+        {
+          "stop_sequence": 13,
+          "stop_id": "1312",
+          "stop_name": "Nowowiejska",
+          "arrival_time": "25:21:00",
+          "departure_time": "25:21:00",
+          "lat": 51.12423914,
+          "lon": 17.0448911
+        },
+        {
+          "stop_sequence": 14,
+          "stop_id": "822",
+          "stop_name": "Jedności Narodowej",
+          "arrival_time": "25:22:00",
+          "departure_time": "25:22:00",
+          "lat": 51.1215486,
+          "lon": 17.04345675
+        },
+        {
+          "stop_sequence": 15,
+          "stop_id": "823",
+          "stop_name": "Na Szańcach",
+          "arrival_time": "25:23:00",
+          "departure_time": "25:23:00",
+          "lat": 51.11940016,
+          "lon": 17.04201805
+        },
+        {
+          "stop_sequence": 16,
+          "stop_id": "2028",
+          "stop_name": "pl. Bema",
+          "arrival_time": "25:24:00",
+          "departure_time": "25:24:00",
+          "lat": 51.11751343,
+          "lon": 17.04104209
+        },
+        {
+          "stop_sequence": 17,
+          "stop_id": "5765",
+          "stop_name": "Dubois",
+          "arrival_time": "25:26:00",
+          "departure_time": "25:26:00",
+          "lat": 51.11702473,
+          "lon": 17.03380386
+        },
+        {
+          "stop_sequence": 18,
+          "stop_id": "839",
+          "stop_name": "Hala Targowa",
+          "arrival_time": "25:28:00",
+          "departure_time": "25:28:00",
+          "lat": 51.1126015,
+          "lon": 17.03948975
+        },
+        {
+          "stop_sequence": 19,
+          "stop_id": "1330",
+          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "arrival_time": "25:29:00",
+          "departure_time": "25:29:00",
+          "lat": 51.10670852,
+          "lon": 17.03827095
+        },
+        {
+          "stop_sequence": 20,
+          "stop_id": "5389",
+          "stop_name": "Bastion Sakwowy",
+          "arrival_time": "25:30:00",
+          "departure_time": "25:30:00",
+          "lat": 51.10428016,
+          "lon": 17.03740189
+        },
+        {
+          "stop_sequence": 21,
+          "stop_id": "5428",
+          "stop_name": "Dworzec Główny (MDK)",
+          "arrival_time": "25:31:00",
+          "departure_time": "25:31:00",
+          "lat": 51.10072906,
+          "lon": 17.03607078
+        },
+        {
+          "stop_sequence": 22,
+          "stop_id": "3517",
+          "stop_name": "DWORZEC GŁÓWNY",
+          "arrival_time": "25:32:00",
+          "departure_time": "25:32:00",
+          "lat": 51.09962703,
+          "lon": 17.03516167
+        },
+        {
+          "stop_sequence": 23,
+          "stop_id": "508",
+          "stop_name": "DWORZEC AUTOBUSOWY",
+          "arrival_time": "25:34:00",
+          "departure_time": "25:34:00",
+          "lat": 51.09726779,
+          "lon": 17.03228367
+        },
+        {
+          "stop_sequence": 24,
+          "stop_id": "29",
+          "stop_name": "Dyrekcyjna",
+          "arrival_time": "25:35:00",
+          "departure_time": "25:35:00",
+          "lat": 51.09430136,
+          "lon": 17.03222909
+        },
+        {
+          "stop_sequence": 25,
+          "stop_id": "5456",
+          "stop_name": "PETRUSEWICZA",
+          "arrival_time": "25:37:00",
+          "departure_time": "25:37:00",
+          "lat": 51.09213757,
+          "lon": 17.03100544
+        }
+      ]
+    },
+    {
+      "trip_id": "4_16581187",
+      "direction_id": "1",
+      "headsign": "KOWALE",
+      "service_id": "4",
+      "stops": [
+        {
+          "stop_sequence": 0,
+          "stop_id": "5456",
+          "stop_name": "PETRUSEWICZA",
+          "arrival_time": "25:45:00",
+          "departure_time": "25:45:00",
+          "lat": 51.09213757,
+          "lon": 17.03100544
+        },
+        {
+          "stop_sequence": 1,
+          "stop_id": "509",
+          "stop_name": "DWORZEC AUTOBUSOWY",
+          "arrival_time": "25:47:00",
+          "departure_time": "25:47:00",
+          "lat": 51.09657455,
+          "lon": 17.03298047
+        },
+        {
+          "stop_sequence": 2,
+          "stop_id": "3526",
+          "stop_name": "DWORZEC GŁÓWNY",
+          "arrival_time": "25:49:00",
+          "departure_time": "25:49:00",
+          "lat": 51.09969276,
+          "lon": 17.03551983
+        },
+        {
+          "stop_sequence": 3,
+          "stop_id": "5388",
+          "stop_name": "Bastion Sakwowy",
+          "arrival_time": "25:51:00",
+          "departure_time": "25:51:00",
+          "lat": 51.1036847,
+          "lon": 17.03728239
+        },
+        {
+          "stop_sequence": 4,
+          "stop_id": "841",
+          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "arrival_time": "25:53:00",
+          "departure_time": "25:53:00",
+          "lat": 51.10852894,
+          "lon": 17.03870108
+        },
+        {
+          "stop_sequence": 5,
+          "stop_id": "840",
+          "stop_name": "Hala Targowa",
+          "arrival_time": "25:54:00",
+          "departure_time": "25:54:00",
+          "lat": 51.11276951,
+          "lon": 17.03973594
+        },
+        {
+          "stop_sequence": 6,
+          "stop_id": "5766",
+          "stop_name": "Dubois",
+          "arrival_time": "25:56:00",
+          "departure_time": "25:56:00",
+          "lat": 51.11702473,
+          "lon": 17.03380386
+        },
+        {
+          "stop_sequence": 7,
+          "stop_id": "2029",
+          "stop_name": "pl. Bema",
+          "arrival_time": "25:58:00",
+          "departure_time": "25:58:00",
+          "lat": 51.11750259,
+          "lon": 17.04211691
+        },
+        {
+          "stop_sequence": 8,
+          "stop_id": "2116",
+          "stop_name": "Na Szańcach",
+          "arrival_time": "25:58:00",
+          "departure_time": "25:58:00",
+          "lat": 51.11890245,
+          "lon": 17.04204126
+        },
+        {
+          "stop_sequence": 9,
+          "stop_id": "2883",
+          "stop_name": "Jedności Narodowej",
+          "arrival_time": "25:59:00",
+          "departure_time": "25:59:00",
+          "lat": 51.12121224,
+          "lon": 17.04331711
+        },
+        {
+          "stop_sequence": 10,
+          "stop_id": "1313",
+          "stop_name": "Nowowiejska",
+          "arrival_time": "26:01:00",
+          "departure_time": "26:01:00",
+          "lat": 51.12436097,
+          "lon": 17.04513281
+        },
+        {
+          "stop_sequence": 11,
+          "stop_id": "1314",
+          "stop_name": "Daszyńskiego",
+          "arrival_time": "26:02:00",
+          "departure_time": "26:02:00",
+          "lat": 51.12632996,
+          "lon": 17.04766164
+        },
+        {
+          "stop_sequence": 12,
+          "stop_id": "2868",
+          "stop_name": "Mosty Warszawskie",
+          "arrival_time": "26:03:00",
+          "departure_time": "26:03:00",
+          "lat": 51.12863463,
+          "lon": 17.05609761
+        },
+        {
+          "stop_sequence": 13,
+          "stop_id": "1248",
+          "stop_name": "KROMERA",
+          "arrival_time": "26:05:00",
+          "departure_time": "26:05:00",
+          "lat": 51.13222406,
+          "lon": 17.06514893
+        },
+        {
+          "stop_sequence": 14,
+          "stop_id": "3461",
+          "stop_name": "Kromera (Czajkowskiego)",
+          "arrival_time": "26:06:00",
+          "departure_time": "26:06:00",
+          "lat": 51.13631426,
+          "lon": 17.07044445
+        },
+        {
+          "stop_sequence": 15,
+          "stop_id": "2594",
+          "stop_name": "Grudziądzka",
+          "arrival_time": "26:07:00",
+          "departure_time": "26:07:00",
+          "lat": 51.13794927,
+          "lon": 17.07506203
+        },
+        {
+          "stop_sequence": 16,
+          "stop_id": "1188",
+          "stop_name": "Brücknera",
+          "arrival_time": "26:08:00",
+          "departure_time": "26:08:00",
+          "lat": 51.13916827,
+          "lon": 17.08080603
+        },
+        {
+          "stop_sequence": 17,
+          "stop_id": "3766",
+          "stop_name": "Olsztyńska",
+          "arrival_time": "26:10:00",
+          "departure_time": "26:10:00",
+          "lat": 51.14044697,
+          "lon": 17.09408707
+        },
+        {
+          "stop_sequence": 18,
+          "stop_id": "4020",
+          "stop_name": "Kowalska 56",
+          "arrival_time": "26:11:00",
+          "departure_time": "26:11:00",
+          "lat": 51.13602378,
+          "lon": 17.09761647
+        },
+        {
+          "stop_sequence": 19,
+          "stop_id": "934",
+          "stop_name": "Kowale (Stacja kolejowa)",
+          "arrival_time": "26:12:00",
+          "departure_time": "26:12:00",
+          "lat": 51.13393676,
+          "lon": 17.10221243
+        },
+        {
+          "stop_sequence": 20,
+          "stop_id": "1028",
+          "stop_name": "Działdowska",
+          "arrival_time": "26:13:00",
+          "departure_time": "26:13:00",
+          "lat": 51.13317159,
+          "lon": 17.10543835
+        },
+        {
+          "stop_sequence": 21,
+          "stop_id": "3239",
+          "stop_name": "KOWALE",
+          "arrival_time": "26:14:00",
+          "departure_time": "26:14:00",
+          "lat": 51.12895888,
+          "lon": 17.10165474
+        },
+        {
+          "stop_sequence": 22,
+          "stop_id": "5430",
+          "stop_name": "KOWALE",
+          "arrival_time": "26:14:00",
+          "departure_time": "26:14:00",
+          "lat": 51.12796058,
+          "lon": 17.10253432
+        }
+      ]
+    },
+    {
+      "trip_id": "4_16581188",
+      "direction_id": "0",
+      "headsign": "PETRUSEWICZA",
+      "service_id": "4",
+      "stops": [
+        {
+          "stop_sequence": 0,
+          "stop_id": "5430",
+          "stop_name": "KOWALE",
+          "arrival_time": "26:39:00",
+          "departure_time": "26:39:00",
+          "lat": 51.12796058,
+          "lon": 17.10253432
+        },
+        {
+          "stop_sequence": 1,
+          "stop_id": "3240",
+          "stop_name": "KOWALE",
+          "arrival_time": "26:39:00",
+          "departure_time": "26:39:00",
+          "lat": 51.12896333,
+          "lon": 17.1018384
+        },
+        {
+          "stop_sequence": 2,
+          "stop_id": "1027",
+          "stop_name": "Działdowska",
+          "arrival_time": "26:40:00",
+          "departure_time": "26:40:00",
+          "lat": 51.13315884,
+          "lon": 17.10579419
+        },
+        {
+          "stop_sequence": 3,
+          "stop_id": "935",
+          "stop_name": "Kowale (Stacja kolejowa)",
+          "arrival_time": "26:41:00",
+          "departure_time": "26:41:00",
+          "lat": 51.13416856,
+          "lon": 17.1016776
+        },
+        {
+          "stop_sequence": 4,
+          "stop_id": "3225",
+          "stop_name": "Kowalska 56",
+          "arrival_time": "26:42:00",
+          "departure_time": "26:42:00",
+          "lat": 51.13647537,
+          "lon": 17.09740219
+        },
+        {
+          "stop_sequence": 5,
+          "stop_id": "2748",
+          "stop_name": "Olsztyńska",
+          "arrival_time": "26:43:00",
+          "departure_time": "26:43:00",
+          "lat": 51.13938597,
+          "lon": 17.0951032
+        },
+        {
+          "stop_sequence": 6,
+          "stop_id": "707",
+          "stop_name": "C.H. Korona",
+          "arrival_time": "26:44:00",
+          "departure_time": "26:44:00",
+          "lat": 51.14110423,
+          "lon": 17.08765021
+        },
+        {
+          "stop_sequence": 7,
+          "stop_id": "612",
+          "stop_name": "Brücknera",
+          "arrival_time": "26:45:00",
+          "departure_time": "26:45:00",
+          "lat": 51.13951485,
+          "lon": 17.08107914
+        },
+        {
+          "stop_sequence": 8,
+          "stop_id": "611",
+          "stop_name": "Grudziądzka",
+          "arrival_time": "26:46:00",
+          "departure_time": "26:46:00",
+          "lat": 51.13788049,
+          "lon": 17.07363454
+        },
+        {
+          "stop_sequence": 9,
+          "stop_id": "3460",
+          "stop_name": "Kromera (Czajkowskiego)",
+          "arrival_time": "26:47:00",
+          "departure_time": "26:47:00",
+          "lat": 51.13557581,
+          "lon": 17.06907505
+        },
+        {
+          "stop_sequence": 10,
+          "stop_id": "1819",
+          "stop_name": "KROMERA",
+          "arrival_time": "26:48:00",
+          "departure_time": "26:48:00",
+          "lat": 51.13164737,
+          "lon": 17.06263024
+        },
+        {
+          "stop_sequence": 11,
+          "stop_id": "1305",
+          "stop_name": "Mosty Warszawskie",
+          "arrival_time": "26:49:00",
+          "departure_time": "26:49:00",
+          "lat": 51.12838294,
+          "lon": 17.0538428
+        },
+        {
+          "stop_sequence": 12,
+          "stop_id": "1315",
+          "stop_name": "Daszyńskiego",
+          "arrival_time": "26:50:00",
+          "departure_time": "26:50:00",
+          "lat": 51.12674068,
+          "lon": 17.04844659
+        },
+        {
+          "stop_sequence": 13,
+          "stop_id": "1312",
+          "stop_name": "Nowowiejska",
+          "arrival_time": "26:51:00",
+          "departure_time": "26:51:00",
+          "lat": 51.12423914,
+          "lon": 17.0448911
+        },
+        {
+          "stop_sequence": 14,
+          "stop_id": "822",
+          "stop_name": "Jedności Narodowej",
+          "arrival_time": "26:52:00",
+          "departure_time": "26:52:00",
+          "lat": 51.1215486,
+          "lon": 17.04345675
+        },
+        {
+          "stop_sequence": 15,
+          "stop_id": "823",
+          "stop_name": "Na Szańcach",
+          "arrival_time": "26:53:00",
+          "departure_time": "26:53:00",
+          "lat": 51.11940016,
+          "lon": 17.04201805
+        },
+        {
+          "stop_sequence": 16,
+          "stop_id": "2028",
+          "stop_name": "pl. Bema",
+          "arrival_time": "26:54:00",
+          "departure_time": "26:54:00",
+          "lat": 51.11751343,
+          "lon": 17.04104209
+        },
+        {
+          "stop_sequence": 17,
+          "stop_id": "5765",
+          "stop_name": "Dubois",
+          "arrival_time": "26:56:00",
+          "departure_time": "26:56:00",
+          "lat": 51.11702473,
+          "lon": 17.03380386
+        },
+        {
+          "stop_sequence": 18,
+          "stop_id": "839",
+          "stop_name": "Hala Targowa",
+          "arrival_time": "26:58:00",
+          "departure_time": "26:58:00",
+          "lat": 51.1126015,
+          "lon": 17.03948975
+        },
+        {
+          "stop_sequence": 19,
+          "stop_id": "1330",
+          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "arrival_time": "26:59:00",
+          "departure_time": "26:59:00",
+          "lat": 51.10670852,
+          "lon": 17.03827095
+        },
+        {
+          "stop_sequence": 20,
+          "stop_id": "5389",
+          "stop_name": "Bastion Sakwowy",
+          "arrival_time": "27:00:00",
+          "departure_time": "27:00:00",
+          "lat": 51.10428016,
+          "lon": 17.03740189
+        },
+        {
+          "stop_sequence": 21,
+          "stop_id": "5428",
+          "stop_name": "Dworzec Główny (MDK)",
+          "arrival_time": "27:01:00",
+          "departure_time": "27:01:00",
+          "lat": 51.10072906,
+          "lon": 17.03607078
+        },
+        {
+          "stop_sequence": 22,
+          "stop_id": "3517",
+          "stop_name": "DWORZEC GŁÓWNY",
+          "arrival_time": "27:02:00",
+          "departure_time": "27:02:00",
+          "lat": 51.09962703,
+          "lon": 17.03516167
+        },
+        {
+          "stop_sequence": 23,
+          "stop_id": "508",
+          "stop_name": "DWORZEC AUTOBUSOWY",
+          "arrival_time": "27:04:00",
+          "departure_time": "27:04:00",
+          "lat": 51.09726779,
+          "lon": 17.03228367
+        },
+        {
+          "stop_sequence": 24,
+          "stop_id": "29",
+          "stop_name": "Dyrekcyjna",
+          "arrival_time": "27:05:00",
+          "departure_time": "27:05:00",
+          "lat": 51.09430136,
+          "lon": 17.03222909
+        },
+        {
+          "stop_sequence": 25,
+          "stop_id": "5456",
+          "stop_name": "PETRUSEWICZA",
+          "arrival_time": "27:07:00",
+          "departure_time": "27:07:00",
+          "lat": 51.09213757,
+          "lon": 17.03100544
+        }
+      ]
+    },
+    {
+      "trip_id": "4_16581249",
+      "direction_id": "1",
+      "headsign": "KOWALE",
+      "service_id": "4",
+      "stops": [
+        {
+          "stop_sequence": 0,
+          "stop_id": "5456",
+          "stop_name": "PETRUSEWICZA",
+          "arrival_time": "27:45:00",
+          "departure_time": "27:45:00",
+          "lat": 51.09213757,
+          "lon": 17.03100544
+        },
+        {
+          "stop_sequence": 1,
+          "stop_id": "509",
+          "stop_name": "DWORZEC AUTOBUSOWY",
+          "arrival_time": "27:47:00",
+          "departure_time": "27:47:00",
+          "lat": 51.09657455,
+          "lon": 17.03298047
+        },
+        {
+          "stop_sequence": 2,
+          "stop_id": "3526",
+          "stop_name": "DWORZEC GŁÓWNY",
+          "arrival_time": "27:49:00",
+          "departure_time": "27:49:00",
+          "lat": 51.09969276,
+          "lon": 17.03551983
+        },
+        {
+          "stop_sequence": 3,
+          "stop_id": "5388",
+          "stop_name": "Bastion Sakwowy",
+          "arrival_time": "27:51:00",
+          "departure_time": "27:51:00",
+          "lat": 51.1036847,
+          "lon": 17.03728239
+        },
+        {
+          "stop_sequence": 4,
+          "stop_id": "841",
+          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "arrival_time": "27:53:00",
+          "departure_time": "27:53:00",
+          "lat": 51.10852894,
+          "lon": 17.03870108
+        },
+        {
+          "stop_sequence": 5,
+          "stop_id": "840",
+          "stop_name": "Hala Targowa",
+          "arrival_time": "27:54:00",
+          "departure_time": "27:54:00",
+          "lat": 51.11276951,
+          "lon": 17.03973594
+        },
+        {
+          "stop_sequence": 6,
+          "stop_id": "5766",
+          "stop_name": "Dubois",
+          "arrival_time": "27:56:00",
+          "departure_time": "27:56:00",
+          "lat": 51.11702473,
+          "lon": 17.03380386
+        },
+        {
+          "stop_sequence": 7,
+          "stop_id": "2029",
+          "stop_name": "pl. Bema",
+          "arrival_time": "27:58:00",
+          "departure_time": "27:58:00",
+          "lat": 51.11750259,
+          "lon": 17.04211691
+        },
+        {
+          "stop_sequence": 8,
+          "stop_id": "2116",
+          "stop_name": "Na Szańcach",
+          "arrival_time": "27:58:00",
+          "departure_time": "27:58:00",
+          "lat": 51.11890245,
+          "lon": 17.04204126
+        },
+        {
+          "stop_sequence": 9,
+          "stop_id": "2883",
+          "stop_name": "Jedności Narodowej",
+          "arrival_time": "27:59:00",
+          "departure_time": "27:59:00",
+          "lat": 51.12121224,
+          "lon": 17.04331711
+        },
+        {
+          "stop_sequence": 10,
+          "stop_id": "1313",
+          "stop_name": "Nowowiejska",
+          "arrival_time": "28:01:00",
+          "departure_time": "28:01:00",
+          "lat": 51.12436097,
+          "lon": 17.04513281
+        },
+        {
+          "stop_sequence": 11,
+          "stop_id": "1314",
+          "stop_name": "Daszyńskiego",
+          "arrival_time": "28:02:00",
+          "departure_time": "28:02:00",
+          "lat": 51.12632996,
+          "lon": 17.04766164
+        },
+        {
+          "stop_sequence": 12,
+          "stop_id": "2868",
+          "stop_name": "Mosty Warszawskie",
+          "arrival_time": "28:03:00",
+          "departure_time": "28:03:00",
+          "lat": 51.12863463,
+          "lon": 17.05609761
+        },
+        {
+          "stop_sequence": 13,
+          "stop_id": "1248",
+          "stop_name": "KROMERA",
+          "arrival_time": "28:05:00",
+          "departure_time": "28:05:00",
+          "lat": 51.13222406,
+          "lon": 17.06514893
+        },
+        {
+          "stop_sequence": 14,
+          "stop_id": "3461",
+          "stop_name": "Kromera (Czajkowskiego)",
+          "arrival_time": "28:06:00",
+          "departure_time": "28:06:00",
+          "lat": 51.13631426,
+          "lon": 17.07044445
+        },
+        {
+          "stop_sequence": 15,
+          "stop_id": "2594",
+          "stop_name": "Grudziądzka",
+          "arrival_time": "28:07:00",
+          "departure_time": "28:07:00",
+          "lat": 51.13794927,
+          "lon": 17.07506203
+        },
+        {
+          "stop_sequence": 16,
+          "stop_id": "1188",
+          "stop_name": "Brücknera",
+          "arrival_time": "28:08:00",
+          "departure_time": "28:08:00",
+          "lat": 51.13916827,
+          "lon": 17.08080603
+        },
+        {
+          "stop_sequence": 17,
+          "stop_id": "3766",
+          "stop_name": "Olsztyńska",
+          "arrival_time": "28:10:00",
+          "departure_time": "28:10:00",
+          "lat": 51.14044697,
+          "lon": 17.09408707
+        },
+        {
+          "stop_sequence": 18,
+          "stop_id": "4020",
+          "stop_name": "Kowalska 56",
+          "arrival_time": "28:11:00",
+          "departure_time": "28:11:00",
+          "lat": 51.13602378,
+          "lon": 17.09761647
+        },
+        {
+          "stop_sequence": 19,
+          "stop_id": "934",
+          "stop_name": "Kowale (Stacja kolejowa)",
+          "arrival_time": "28:12:00",
+          "departure_time": "28:12:00",
+          "lat": 51.13393676,
+          "lon": 17.10221243
+        },
+        {
+          "stop_sequence": 20,
+          "stop_id": "1028",
+          "stop_name": "Działdowska",
+          "arrival_time": "28:13:00",
+          "departure_time": "28:13:00",
+          "lat": 51.13317159,
+          "lon": 17.10543835
+        },
+        {
+          "stop_sequence": 21,
+          "stop_id": "3239",
+          "stop_name": "KOWALE",
+          "arrival_time": "28:14:00",
+          "departure_time": "28:14:00",
+          "lat": 51.12895888,
+          "lon": 17.10165474
+        },
+        {
+          "stop_sequence": 22,
+          "stop_id": "5430",
+          "stop_name": "KOWALE",
+          "arrival_time": "28:14:00",
+          "departure_time": "28:14:00",
+          "lat": 51.12796058,
+          "lon": 17.10253432
+        }
+      ]
+    },
+    {
+      "trip_id": "4_16581250",
+      "direction_id": "0",
+      "headsign": "Zajezdnia OBORNICKA",
+      "service_id": "4",
+      "stops": [
+        {
+          "stop_sequence": 0,
+          "stop_id": "5430",
+          "stop_name": "KOWALE",
+          "arrival_time": "28:19:00",
+          "departure_time": "28:19:00",
+          "lat": 51.12796058,
+          "lon": 17.10253432
+        },
+        {
+          "stop_sequence": 1,
+          "stop_id": "3240",
+          "stop_name": "KOWALE",
+          "arrival_time": "28:19:00",
+          "departure_time": "28:19:00",
+          "lat": 51.12896333,
+          "lon": 17.1018384
+        },
+        {
+          "stop_sequence": 2,
+          "stop_id": "1027",
+          "stop_name": "Działdowska",
+          "arrival_time": "28:20:00",
+          "departure_time": "28:20:00",
+          "lat": 51.13315884,
+          "lon": 17.10579419
+        },
+        {
+          "stop_sequence": 3,
+          "stop_id": "935",
+          "stop_name": "Kowale (Stacja kolejowa)",
+          "arrival_time": "28:21:00",
+          "departure_time": "28:21:00",
+          "lat": 51.13416856,
+          "lon": 17.1016776
+        },
+        {
+          "stop_sequence": 4,
+          "stop_id": "3225",
+          "stop_name": "Kowalska 56",
+          "arrival_time": "28:22:00",
+          "departure_time": "28:22:00",
+          "lat": 51.13647537,
+          "lon": 17.09740219
+        },
+        {
+          "stop_sequence": 5,
+          "stop_id": "2748",
+          "stop_name": "Olsztyńska",
+          "arrival_time": "28:23:00",
+          "departure_time": "28:23:00",
+          "lat": 51.13938597,
+          "lon": 17.0951032
+        },
+        {
+          "stop_sequence": 6,
+          "stop_id": "707",
+          "stop_name": "C.H. Korona",
+          "arrival_time": "28:24:00",
+          "departure_time": "28:24:00",
+          "lat": 51.14110423,
+          "lon": 17.08765021
+        },
+        {
+          "stop_sequence": 7,
+          "stop_id": "612",
+          "stop_name": "Brücknera",
+          "arrival_time": "28:25:00",
+          "departure_time": "28:25:00",
+          "lat": 51.13951485,
+          "lon": 17.08107914
+        },
+        {
+          "stop_sequence": 8,
+          "stop_id": "611",
+          "stop_name": "Grudziądzka",
+          "arrival_time": "28:26:00",
+          "departure_time": "28:26:00",
+          "lat": 51.13788049,
+          "lon": 17.07363454
+        },
+        {
+          "stop_sequence": 9,
+          "stop_id": "3460",
+          "stop_name": "Kromera (Czajkowskiego)",
+          "arrival_time": "28:27:00",
+          "departure_time": "28:27:00",
+          "lat": 51.13557581,
+          "lon": 17.06907505
+        },
+        {
+          "stop_sequence": 10,
+          "stop_id": "613",
+          "stop_name": "KROMERA",
+          "arrival_time": "28:28:00",
+          "departure_time": "28:28:00",
+          "lat": 51.13237794,
+          "lon": 17.06301095
+        },
+        {
+          "stop_sequence": 11,
+          "stop_id": "624",
+          "stop_name": "Berenta",
+          "arrival_time": "28:29:00",
+          "departure_time": "28:29:00",
+          "lat": 51.1349714,
+          "lon": 17.05777339
+        },
+        {
+          "stop_sequence": 12,
+          "stop_id": "623",
+          "stop_name": "Kasprowicza",
+          "arrival_time": "28:30:00",
+          "departure_time": "28:30:00",
+          "lat": 51.13744108,
+          "lon": 17.05290682
+        },
+        {
+          "stop_sequence": 13,
+          "stop_id": "4714",
+          "stop_name": "Syrokomli",
+          "arrival_time": "28:31:00",
+          "departure_time": "28:31:00",
+          "lat": 51.137273,
+          "lon": 17.047925
+        },
+        {
+          "stop_sequence": 14,
+          "stop_id": "626",
+          "stop_name": "Pola",
+          "arrival_time": "28:32:00",
+          "departure_time": "28:32:00",
+          "lat": 51.13671695,
+          "lon": 17.04317468
+        },
+        {
+          "stop_sequence": 15,
+          "stop_id": "637",
+          "stop_name": "Broniewskiego",
+          "arrival_time": "28:33:00",
+          "departure_time": "28:33:00",
+          "lat": 51.13590436,
+          "lon": 17.03532722
+        },
+        {
+          "stop_sequence": 16,
+          "stop_id": "644",
+          "stop_name": "Bałtycka",
+          "arrival_time": "28:35:00",
+          "departure_time": "28:35:00",
+          "lat": 51.1382819,
+          "lon": 17.02937414
+        },
+        {
+          "stop_sequence": 17,
+          "stop_id": "1165",
+          "stop_name": "Bezpieczna",
+          "arrival_time": "28:36:00",
+          "departure_time": "28:36:00",
+          "lat": 51.14245937,
+          "lon": 17.02567781
+        },
+        {
+          "stop_sequence": 18,
+          "stop_id": "668",
+          "stop_name": "Paprotna",
+          "arrival_time": "28:37:00",
+          "departure_time": "28:37:00",
+          "lat": 51.14818098,
+          "lon": 17.02062686
+        },
+        {
+          "stop_sequence": 19,
+          "stop_id": "5583",
+          "stop_name": "Zajezdnia OBORNICKA",
+          "arrival_time": "28:38:00",
+          "departure_time": "28:38:00",
+          "lat": 51.14873744,
+          "lon": 17.02106859
+        }
+      ]
+    },
+    {
+      "trip_id": "6_16583245",
+      "direction_id": "1",
+      "headsign": "KOWALE",
+      "service_id": "6",
+      "stops": [
+        {
+          "stop_sequence": 0,
+          "stop_id": "5456",
+          "stop_name": "PETRUSEWICZA",
+          "arrival_time": "23:45:00",
+          "departure_time": "23:45:00",
+          "lat": 51.09213757,
+          "lon": 17.03100544
+        },
+        {
+          "stop_sequence": 1,
+          "stop_id": "509",
+          "stop_name": "DWORZEC AUTOBUSOWY",
+          "arrival_time": "23:47:00",
+          "departure_time": "23:47:00",
+          "lat": 51.09657455,
+          "lon": 17.03298047
+        },
+        {
+          "stop_sequence": 2,
+          "stop_id": "3526",
+          "stop_name": "DWORZEC GŁÓWNY",
+          "arrival_time": "23:49:00",
+          "departure_time": "23:49:00",
+          "lat": 51.09969276,
+          "lon": 17.03551983
+        },
+        {
+          "stop_sequence": 3,
+          "stop_id": "5388",
+          "stop_name": "Bastion Sakwowy",
+          "arrival_time": "23:51:00",
+          "departure_time": "23:51:00",
+          "lat": 51.1036847,
+          "lon": 17.03728239
+        },
+        {
+          "stop_sequence": 4,
+          "stop_id": "841",
+          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "arrival_time": "23:53:00",
+          "departure_time": "23:53:00",
+          "lat": 51.10852894,
+          "lon": 17.03870108
+        },
+        {
+          "stop_sequence": 5,
+          "stop_id": "840",
+          "stop_name": "Hala Targowa",
+          "arrival_time": "23:54:00",
+          "departure_time": "23:54:00",
+          "lat": 51.11276951,
+          "lon": 17.03973594
+        },
+        {
+          "stop_sequence": 6,
+          "stop_id": "5766",
+          "stop_name": "Dubois",
+          "arrival_time": "23:56:00",
+          "departure_time": "23:56:00",
+          "lat": 51.11702473,
+          "lon": 17.03380386
+        },
+        {
+          "stop_sequence": 7,
+          "stop_id": "2029",
+          "stop_name": "pl. Bema",
+          "arrival_time": "23:58:00",
+          "departure_time": "23:58:00",
+          "lat": 51.11750259,
+          "lon": 17.04211691
+        },
+        {
+          "stop_sequence": 8,
+          "stop_id": "2116",
+          "stop_name": "Na Szańcach",
+          "arrival_time": "23:58:00",
+          "departure_time": "23:58:00",
+          "lat": 51.11890245,
+          "lon": 17.04204126
+        },
+        {
+          "stop_sequence": 9,
+          "stop_id": "2883",
+          "stop_name": "Jedności Narodowej",
+          "arrival_time": "23:59:00",
+          "departure_time": "23:59:00",
+          "lat": 51.12121224,
+          "lon": 17.04331711
+        },
+        {
+          "stop_sequence": 10,
+          "stop_id": "1313",
+          "stop_name": "Nowowiejska",
+          "arrival_time": "24:01:00",
+          "departure_time": "24:01:00",
+          "lat": 51.12436097,
+          "lon": 17.04513281
+        },
+        {
+          "stop_sequence": 11,
+          "stop_id": "1314",
+          "stop_name": "Daszyńskiego",
+          "arrival_time": "24:02:00",
+          "departure_time": "24:02:00",
+          "lat": 51.12632996,
+          "lon": 17.04766164
+        },
+        {
+          "stop_sequence": 12,
+          "stop_id": "2868",
+          "stop_name": "Mosty Warszawskie",
+          "arrival_time": "24:03:00",
+          "departure_time": "24:03:00",
+          "lat": 51.12863463,
+          "lon": 17.05609761
+        },
+        {
+          "stop_sequence": 13,
+          "stop_id": "1248",
+          "stop_name": "KROMERA",
+          "arrival_time": "24:05:00",
+          "departure_time": "24:05:00",
+          "lat": 51.13222406,
+          "lon": 17.06514893
+        },
+        {
+          "stop_sequence": 14,
+          "stop_id": "3461",
+          "stop_name": "Kromera (Czajkowskiego)",
+          "arrival_time": "24:06:00",
+          "departure_time": "24:06:00",
+          "lat": 51.13631426,
+          "lon": 17.07044445
+        },
+        {
+          "stop_sequence": 15,
+          "stop_id": "2594",
+          "stop_name": "Grudziądzka",
+          "arrival_time": "24:07:00",
+          "departure_time": "24:07:00",
+          "lat": 51.13794927,
+          "lon": 17.07506203
+        },
+        {
+          "stop_sequence": 16,
+          "stop_id": "1188",
+          "stop_name": "Brücknera",
+          "arrival_time": "24:08:00",
+          "departure_time": "24:08:00",
+          "lat": 51.13916827,
+          "lon": 17.08080603
+        },
+        {
+          "stop_sequence": 17,
+          "stop_id": "3766",
+          "stop_name": "Olsztyńska",
+          "arrival_time": "24:10:00",
+          "departure_time": "24:10:00",
+          "lat": 51.14044697,
+          "lon": 17.09408707
+        },
+        {
+          "stop_sequence": 18,
+          "stop_id": "4020",
+          "stop_name": "Kowalska 56",
+          "arrival_time": "24:11:00",
+          "departure_time": "24:11:00",
+          "lat": 51.13602378,
+          "lon": 17.09761647
+        },
+        {
+          "stop_sequence": 19,
+          "stop_id": "934",
+          "stop_name": "Kowale (Stacja kolejowa)",
+          "arrival_time": "24:12:00",
+          "departure_time": "24:12:00",
+          "lat": 51.13393676,
+          "lon": 17.10221243
+        },
+        {
+          "stop_sequence": 20,
+          "stop_id": "1028",
+          "stop_name": "Działdowska",
+          "arrival_time": "24:13:00",
+          "departure_time": "24:13:00",
+          "lat": 51.13317159,
+          "lon": 17.10543835
+        },
+        {
+          "stop_sequence": 21,
+          "stop_id": "3239",
+          "stop_name": "KOWALE",
+          "arrival_time": "24:14:00",
+          "departure_time": "24:14:00",
+          "lat": 51.12895888,
+          "lon": 17.10165474
+        },
+        {
+          "stop_sequence": 22,
+          "stop_id": "5430",
+          "stop_name": "KOWALE",
+          "arrival_time": "24:14:00",
+          "departure_time": "24:14:00",
+          "lat": 51.12796058,
+          "lon": 17.10253432
+        }
+      ]
+    },
+    {
+      "trip_id": "6_16583246",
+      "direction_id": "0",
+      "headsign": "Zajezdnia OBORNICKA",
+      "service_id": "6",
+      "stops": [
+        {
+          "stop_sequence": 0,
+          "stop_id": "5430",
+          "stop_name": "KOWALE",
+          "arrival_time": "24:14:00",
+          "departure_time": "24:14:00",
+          "lat": 51.12796058,
+          "lon": 17.10253432
+        },
+        {
+          "stop_sequence": 1,
+          "stop_id": "3240",
+          "stop_name": "KOWALE",
+          "arrival_time": "24:14:00",
+          "departure_time": "24:14:00",
+          "lat": 51.12896333,
+          "lon": 17.1018384
+        },
+        {
+          "stop_sequence": 2,
+          "stop_id": "1027",
+          "stop_name": "Działdowska",
+          "arrival_time": "24:15:00",
+          "departure_time": "24:15:00",
+          "lat": 51.13315884,
+          "lon": 17.10579419
+        },
+        {
+          "stop_sequence": 3,
+          "stop_id": "935",
+          "stop_name": "Kowale (Stacja kolejowa)",
+          "arrival_time": "24:16:00",
+          "departure_time": "24:16:00",
+          "lat": 51.13416856,
+          "lon": 17.1016776
+        },
+        {
+          "stop_sequence": 4,
+          "stop_id": "3225",
+          "stop_name": "Kowalska 56",
+          "arrival_time": "24:17:00",
+          "departure_time": "24:17:00",
+          "lat": 51.13647537,
+          "lon": 17.09740219
+        },
+        {
+          "stop_sequence": 5,
+          "stop_id": "2748",
+          "stop_name": "Olsztyńska",
+          "arrival_time": "24:18:00",
+          "departure_time": "24:18:00",
+          "lat": 51.13938597,
+          "lon": 17.0951032
+        },
+        {
+          "stop_sequence": 6,
+          "stop_id": "707",
+          "stop_name": "C.H. Korona",
+          "arrival_time": "24:19:00",
+          "departure_time": "24:19:00",
+          "lat": 51.14110423,
+          "lon": 17.08765021
+        },
+        {
+          "stop_sequence": 7,
+          "stop_id": "612",
+          "stop_name": "Brücknera",
+          "arrival_time": "24:20:00",
+          "departure_time": "24:20:00",
+          "lat": 51.13951485,
+          "lon": 17.08107914
+        },
+        {
+          "stop_sequence": 8,
+          "stop_id": "611",
+          "stop_name": "Grudziądzka",
+          "arrival_time": "24:21:00",
+          "departure_time": "24:21:00",
+          "lat": 51.13788049,
+          "lon": 17.07363454
+        },
+        {
+          "stop_sequence": 9,
+          "stop_id": "3460",
+          "stop_name": "Kromera (Czajkowskiego)",
+          "arrival_time": "24:22:00",
+          "departure_time": "24:22:00",
+          "lat": 51.13557581,
+          "lon": 17.06907505
+        },
+        {
+          "stop_sequence": 10,
+          "stop_id": "613",
+          "stop_name": "KROMERA",
+          "arrival_time": "24:23:00",
+          "departure_time": "24:23:00",
+          "lat": 51.13237794,
+          "lon": 17.06301095
+        },
+        {
+          "stop_sequence": 11,
+          "stop_id": "624",
+          "stop_name": "Berenta",
+          "arrival_time": "24:24:00",
+          "departure_time": "24:24:00",
+          "lat": 51.1349714,
+          "lon": 17.05777339
+        },
+        {
+          "stop_sequence": 12,
+          "stop_id": "623",
+          "stop_name": "Kasprowicza",
+          "arrival_time": "24:25:00",
+          "departure_time": "24:25:00",
+          "lat": 51.13744108,
+          "lon": 17.05290682
+        },
+        {
+          "stop_sequence": 13,
+          "stop_id": "4714",
+          "stop_name": "Syrokomli",
+          "arrival_time": "24:26:00",
+          "departure_time": "24:26:00",
+          "lat": 51.137273,
+          "lon": 17.047925
+        },
+        {
+          "stop_sequence": 14,
+          "stop_id": "626",
+          "stop_name": "Pola",
+          "arrival_time": "24:27:00",
+          "departure_time": "24:27:00",
+          "lat": 51.13671695,
+          "lon": 17.04317468
+        },
+        {
+          "stop_sequence": 15,
+          "stop_id": "637",
+          "stop_name": "Broniewskiego",
+          "arrival_time": "24:28:00",
+          "departure_time": "24:28:00",
+          "lat": 51.13590436,
+          "lon": 17.03532722
+        },
+        {
+          "stop_sequence": 16,
+          "stop_id": "644",
+          "stop_name": "Bałtycka",
+          "arrival_time": "24:30:00",
+          "departure_time": "24:30:00",
+          "lat": 51.1382819,
+          "lon": 17.02937414
+        },
+        {
+          "stop_sequence": 17,
+          "stop_id": "1165",
+          "stop_name": "Bezpieczna",
+          "arrival_time": "24:31:00",
+          "departure_time": "24:31:00",
+          "lat": 51.14245937,
+          "lon": 17.02567781
+        },
+        {
+          "stop_sequence": 18,
+          "stop_id": "668",
+          "stop_name": "Paprotna",
+          "arrival_time": "24:32:00",
+          "departure_time": "24:32:00",
+          "lat": 51.14818098,
+          "lon": 17.02062686
+        },
+        {
+          "stop_sequence": 19,
+          "stop_id": "5583",
+          "stop_name": "Zajezdnia OBORNICKA",
+          "arrival_time": "24:33:00",
+          "departure_time": "24:33:00",
+          "lat": 51.14873744,
+          "lon": 17.02106859
+        }
+      ]
+    },
+    {
+      "trip_id": "6_16587221",
+      "direction_id": "1",
+      "headsign": "KOWALE",
+      "service_id": "6",
+      "stops": [
+        {
+          "stop_sequence": 0,
+          "stop_id": "1893",
+          "stop_name": "KROMERA",
+          "arrival_time": "24:56:00",
+          "departure_time": "24:56:00",
+          "lat": 51.13202211,
+          "lon": 17.06568137
+        },
+        {
+          "stop_sequence": 1,
+          "stop_id": "1248",
+          "stop_name": "KROMERA",
+          "arrival_time": "24:57:00",
+          "departure_time": "24:57:00",
+          "lat": 51.13222406,
+          "lon": 17.06514893
+        },
+        {
+          "stop_sequence": 2,
+          "stop_id": "3461",
+          "stop_name": "Kromera (Czajkowskiego)",
+          "arrival_time": "24:58:00",
+          "departure_time": "24:58:00",
+          "lat": 51.13631426,
+          "lon": 17.07044445
+        },
+        {
+          "stop_sequence": 3,
+          "stop_id": "2594",
+          "stop_name": "Grudziądzka",
+          "arrival_time": "24:59:00",
+          "departure_time": "24:59:00",
+          "lat": 51.13794927,
+          "lon": 17.07506203
+        },
+        {
+          "stop_sequence": 4,
+          "stop_id": "1188",
+          "stop_name": "Brücknera",
+          "arrival_time": "25:00:00",
+          "departure_time": "25:00:00",
+          "lat": 51.13916827,
+          "lon": 17.08080603
+        },
+        {
+          "stop_sequence": 5,
+          "stop_id": "3766",
+          "stop_name": "Olsztyńska",
+          "arrival_time": "25:02:00",
+          "departure_time": "25:02:00",
+          "lat": 51.14044697,
+          "lon": 17.09408707
+        },
+        {
+          "stop_sequence": 6,
+          "stop_id": "4020",
+          "stop_name": "Kowalska 56",
+          "arrival_time": "25:03:00",
+          "departure_time": "25:03:00",
+          "lat": 51.13602378,
+          "lon": 17.09761647
+        },
+        {
+          "stop_sequence": 7,
+          "stop_id": "934",
+          "stop_name": "Kowale (Stacja kolejowa)",
+          "arrival_time": "25:04:00",
+          "departure_time": "25:04:00",
+          "lat": 51.13393676,
+          "lon": 17.10221243
+        },
+        {
+          "stop_sequence": 8,
+          "stop_id": "1028",
+          "stop_name": "Działdowska",
+          "arrival_time": "25:05:00",
+          "departure_time": "25:05:00",
+          "lat": 51.13317159,
+          "lon": 17.10543835
+        },
+        {
+          "stop_sequence": 9,
+          "stop_id": "3239",
+          "stop_name": "KOWALE",
+          "arrival_time": "25:06:00",
+          "departure_time": "25:06:00",
+          "lat": 51.12895888,
+          "lon": 17.10165474
+        },
+        {
+          "stop_sequence": 10,
+          "stop_id": "5430",
+          "stop_name": "KOWALE",
+          "arrival_time": "25:06:00",
+          "departure_time": "25:06:00",
+          "lat": 51.12796058,
+          "lon": 17.10253432
+        }
+      ]
+    },
+    {
+      "trip_id": "6_16587222",
+      "direction_id": "0",
+      "headsign": "PETRUSEWICZA",
+      "service_id": "6",
+      "stops": [
+        {
+          "stop_sequence": 0,
+          "stop_id": "5430",
+          "stop_name": "KOWALE",
+          "arrival_time": "25:09:00",
+          "departure_time": "25:09:00",
+          "lat": 51.12796058,
+          "lon": 17.10253432
+        },
+        {
+          "stop_sequence": 1,
+          "stop_id": "3240",
+          "stop_name": "KOWALE",
+          "arrival_time": "25:09:00",
+          "departure_time": "25:09:00",
+          "lat": 51.12896333,
+          "lon": 17.1018384
+        },
+        {
+          "stop_sequence": 2,
+          "stop_id": "1027",
+          "stop_name": "Działdowska",
+          "arrival_time": "25:10:00",
+          "departure_time": "25:10:00",
+          "lat": 51.13315884,
+          "lon": 17.10579419
+        },
+        {
+          "stop_sequence": 3,
+          "stop_id": "935",
+          "stop_name": "Kowale (Stacja kolejowa)",
+          "arrival_time": "25:11:00",
+          "departure_time": "25:11:00",
+          "lat": 51.13416856,
+          "lon": 17.1016776
+        },
+        {
+          "stop_sequence": 4,
+          "stop_id": "3225",
+          "stop_name": "Kowalska 56",
+          "arrival_time": "25:12:00",
+          "departure_time": "25:12:00",
+          "lat": 51.13647537,
+          "lon": 17.09740219
+        },
+        {
+          "stop_sequence": 5,
+          "stop_id": "2748",
+          "stop_name": "Olsztyńska",
+          "arrival_time": "25:13:00",
+          "departure_time": "25:13:00",
+          "lat": 51.13938597,
+          "lon": 17.0951032
+        },
+        {
+          "stop_sequence": 6,
+          "stop_id": "707",
+          "stop_name": "C.H. Korona",
+          "arrival_time": "25:14:00",
+          "departure_time": "25:14:00",
+          "lat": 51.14110423,
+          "lon": 17.08765021
+        },
+        {
+          "stop_sequence": 7,
+          "stop_id": "612",
+          "stop_name": "Brücknera",
+          "arrival_time": "25:15:00",
+          "departure_time": "25:15:00",
+          "lat": 51.13951485,
+          "lon": 17.08107914
+        },
+        {
+          "stop_sequence": 8,
+          "stop_id": "611",
+          "stop_name": "Grudziądzka",
+          "arrival_time": "25:16:00",
+          "departure_time": "25:16:00",
+          "lat": 51.13788049,
+          "lon": 17.07363454
+        },
+        {
+          "stop_sequence": 9,
+          "stop_id": "3460",
+          "stop_name": "Kromera (Czajkowskiego)",
+          "arrival_time": "25:17:00",
+          "departure_time": "25:17:00",
+          "lat": 51.13557581,
+          "lon": 17.06907505
+        },
+        {
+          "stop_sequence": 10,
+          "stop_id": "1819",
+          "stop_name": "KROMERA",
+          "arrival_time": "25:18:00",
+          "departure_time": "25:18:00",
+          "lat": 51.13164737,
+          "lon": 17.06263024
+        },
+        {
+          "stop_sequence": 11,
+          "stop_id": "1305",
+          "stop_name": "Mosty Warszawskie",
+          "arrival_time": "25:19:00",
+          "departure_time": "25:19:00",
+          "lat": 51.12838294,
+          "lon": 17.0538428
+        },
+        {
+          "stop_sequence": 12,
+          "stop_id": "1315",
+          "stop_name": "Daszyńskiego",
+          "arrival_time": "25:20:00",
+          "departure_time": "25:20:00",
+          "lat": 51.12674068,
+          "lon": 17.04844659
+        },
+        {
+          "stop_sequence": 13,
+          "stop_id": "1312",
+          "stop_name": "Nowowiejska",
+          "arrival_time": "25:21:00",
+          "departure_time": "25:21:00",
+          "lat": 51.12423914,
+          "lon": 17.0448911
+        },
+        {
+          "stop_sequence": 14,
+          "stop_id": "822",
+          "stop_name": "Jedności Narodowej",
+          "arrival_time": "25:22:00",
+          "departure_time": "25:22:00",
+          "lat": 51.1215486,
+          "lon": 17.04345675
+        },
+        {
+          "stop_sequence": 15,
+          "stop_id": "823",
+          "stop_name": "Na Szańcach",
+          "arrival_time": "25:23:00",
+          "departure_time": "25:23:00",
+          "lat": 51.11940016,
+          "lon": 17.04201805
+        },
+        {
+          "stop_sequence": 16,
+          "stop_id": "2028",
+          "stop_name": "pl. Bema",
+          "arrival_time": "25:24:00",
+          "departure_time": "25:24:00",
+          "lat": 51.11751343,
+          "lon": 17.04104209
+        },
+        {
+          "stop_sequence": 17,
+          "stop_id": "5765",
+          "stop_name": "Dubois",
+          "arrival_time": "25:26:00",
+          "departure_time": "25:26:00",
+          "lat": 51.11702473,
+          "lon": 17.03380386
+        },
+        {
+          "stop_sequence": 18,
+          "stop_id": "839",
+          "stop_name": "Hala Targowa",
+          "arrival_time": "25:28:00",
+          "departure_time": "25:28:00",
+          "lat": 51.1126015,
+          "lon": 17.03948975
+        },
+        {
+          "stop_sequence": 19,
+          "stop_id": "1330",
+          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "arrival_time": "25:29:00",
+          "departure_time": "25:29:00",
+          "lat": 51.10670852,
+          "lon": 17.03827095
+        },
+        {
+          "stop_sequence": 20,
+          "stop_id": "5389",
+          "stop_name": "Bastion Sakwowy",
+          "arrival_time": "25:30:00",
+          "departure_time": "25:30:00",
+          "lat": 51.10428016,
+          "lon": 17.03740189
+        },
+        {
+          "stop_sequence": 21,
+          "stop_id": "5428",
+          "stop_name": "Dworzec Główny (MDK)",
+          "arrival_time": "25:31:00",
+          "departure_time": "25:31:00",
+          "lat": 51.10072906,
+          "lon": 17.03607078
+        },
+        {
+          "stop_sequence": 22,
+          "stop_id": "3517",
+          "stop_name": "DWORZEC GŁÓWNY",
+          "arrival_time": "25:32:00",
+          "departure_time": "25:32:00",
+          "lat": 51.09962703,
+          "lon": 17.03516167
+        },
+        {
+          "stop_sequence": 23,
+          "stop_id": "508",
+          "stop_name": "DWORZEC AUTOBUSOWY",
+          "arrival_time": "25:34:00",
+          "departure_time": "25:34:00",
+          "lat": 51.09726779,
+          "lon": 17.03228367
+        },
+        {
+          "stop_sequence": 24,
+          "stop_id": "29",
+          "stop_name": "Dyrekcyjna",
+          "arrival_time": "25:35:00",
+          "departure_time": "25:35:00",
+          "lat": 51.09430136,
+          "lon": 17.03222909
+        },
+        {
+          "stop_sequence": 25,
+          "stop_id": "5456",
+          "stop_name": "PETRUSEWICZA",
+          "arrival_time": "25:37:00",
+          "departure_time": "25:37:00",
+          "lat": 51.09213757,
+          "lon": 17.03100544
+        }
+      ]
+    },
+    {
+      "trip_id": "6_16587223",
+      "direction_id": "1",
+      "headsign": "KOWALE",
+      "service_id": "6",
+      "stops": [
+        {
+          "stop_sequence": 0,
+          "stop_id": "5456",
+          "stop_name": "PETRUSEWICZA",
+          "arrival_time": "25:45:00",
+          "departure_time": "25:45:00",
+          "lat": 51.09213757,
+          "lon": 17.03100544
+        },
+        {
+          "stop_sequence": 1,
+          "stop_id": "509",
+          "stop_name": "DWORZEC AUTOBUSOWY",
+          "arrival_time": "25:47:00",
+          "departure_time": "25:47:00",
+          "lat": 51.09657455,
+          "lon": 17.03298047
+        },
+        {
+          "stop_sequence": 2,
+          "stop_id": "3526",
+          "stop_name": "DWORZEC GŁÓWNY",
+          "arrival_time": "25:49:00",
+          "departure_time": "25:49:00",
+          "lat": 51.09969276,
+          "lon": 17.03551983
+        },
+        {
+          "stop_sequence": 3,
+          "stop_id": "5388",
+          "stop_name": "Bastion Sakwowy",
+          "arrival_time": "25:51:00",
+          "departure_time": "25:51:00",
+          "lat": 51.1036847,
+          "lon": 17.03728239
+        },
+        {
+          "stop_sequence": 4,
+          "stop_id": "841",
+          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "arrival_time": "25:53:00",
+          "departure_time": "25:53:00",
+          "lat": 51.10852894,
+          "lon": 17.03870108
+        },
+        {
+          "stop_sequence": 5,
+          "stop_id": "840",
+          "stop_name": "Hala Targowa",
+          "arrival_time": "25:54:00",
+          "departure_time": "25:54:00",
+          "lat": 51.11276951,
+          "lon": 17.03973594
+        },
+        {
+          "stop_sequence": 6,
+          "stop_id": "5766",
+          "stop_name": "Dubois",
+          "arrival_time": "25:56:00",
+          "departure_time": "25:56:00",
+          "lat": 51.11702473,
+          "lon": 17.03380386
+        },
+        {
+          "stop_sequence": 7,
+          "stop_id": "2029",
+          "stop_name": "pl. Bema",
+          "arrival_time": "25:58:00",
+          "departure_time": "25:58:00",
+          "lat": 51.11750259,
+          "lon": 17.04211691
+        },
+        {
+          "stop_sequence": 8,
+          "stop_id": "2116",
+          "stop_name": "Na Szańcach",
+          "arrival_time": "25:58:00",
+          "departure_time": "25:58:00",
+          "lat": 51.11890245,
+          "lon": 17.04204126
+        },
+        {
+          "stop_sequence": 9,
+          "stop_id": "2883",
+          "stop_name": "Jedności Narodowej",
+          "arrival_time": "25:59:00",
+          "departure_time": "25:59:00",
+          "lat": 51.12121224,
+          "lon": 17.04331711
+        },
+        {
+          "stop_sequence": 10,
+          "stop_id": "1313",
+          "stop_name": "Nowowiejska",
+          "arrival_time": "26:01:00",
+          "departure_time": "26:01:00",
+          "lat": 51.12436097,
+          "lon": 17.04513281
+        },
+        {
+          "stop_sequence": 11,
+          "stop_id": "1314",
+          "stop_name": "Daszyńskiego",
+          "arrival_time": "26:02:00",
+          "departure_time": "26:02:00",
+          "lat": 51.12632996,
+          "lon": 17.04766164
+        },
+        {
+          "stop_sequence": 12,
+          "stop_id": "2868",
+          "stop_name": "Mosty Warszawskie",
+          "arrival_time": "26:03:00",
+          "departure_time": "26:03:00",
+          "lat": 51.12863463,
+          "lon": 17.05609761
+        },
+        {
+          "stop_sequence": 13,
+          "stop_id": "1248",
+          "stop_name": "KROMERA",
+          "arrival_time": "26:05:00",
+          "departure_time": "26:05:00",
+          "lat": 51.13222406,
+          "lon": 17.06514893
+        },
+        {
+          "stop_sequence": 14,
+          "stop_id": "3461",
+          "stop_name": "Kromera (Czajkowskiego)",
+          "arrival_time": "26:06:00",
+          "departure_time": "26:06:00",
+          "lat": 51.13631426,
+          "lon": 17.07044445
+        },
+        {
+          "stop_sequence": 15,
+          "stop_id": "2594",
+          "stop_name": "Grudziądzka",
+          "arrival_time": "26:07:00",
+          "departure_time": "26:07:00",
+          "lat": 51.13794927,
+          "lon": 17.07506203
+        },
+        {
+          "stop_sequence": 16,
+          "stop_id": "1188",
+          "stop_name": "Brücknera",
+          "arrival_time": "26:08:00",
+          "departure_time": "26:08:00",
+          "lat": 51.13916827,
+          "lon": 17.08080603
+        },
+        {
+          "stop_sequence": 17,
+          "stop_id": "3766",
+          "stop_name": "Olsztyńska",
+          "arrival_time": "26:10:00",
+          "departure_time": "26:10:00",
+          "lat": 51.14044697,
+          "lon": 17.09408707
+        },
+        {
+          "stop_sequence": 18,
+          "stop_id": "4020",
+          "stop_name": "Kowalska 56",
+          "arrival_time": "26:11:00",
+          "departure_time": "26:11:00",
+          "lat": 51.13602378,
+          "lon": 17.09761647
+        },
+        {
+          "stop_sequence": 19,
+          "stop_id": "934",
+          "stop_name": "Kowale (Stacja kolejowa)",
+          "arrival_time": "26:12:00",
+          "departure_time": "26:12:00",
+          "lat": 51.13393676,
+          "lon": 17.10221243
+        },
+        {
+          "stop_sequence": 20,
+          "stop_id": "1028",
+          "stop_name": "Działdowska",
+          "arrival_time": "26:13:00",
+          "departure_time": "26:13:00",
+          "lat": 51.13317159,
+          "lon": 17.10543835
+        },
+        {
+          "stop_sequence": 21,
+          "stop_id": "3239",
+          "stop_name": "KOWALE",
+          "arrival_time": "26:14:00",
+          "departure_time": "26:14:00",
+          "lat": 51.12895888,
+          "lon": 17.10165474
+        },
+        {
+          "stop_sequence": 22,
+          "stop_id": "5430",
+          "stop_name": "KOWALE",
+          "arrival_time": "26:14:00",
+          "departure_time": "26:14:00",
+          "lat": 51.12796058,
+          "lon": 17.10253432
+        }
+      ]
+    },
+    {
+      "trip_id": "6_16587224",
+      "direction_id": "0",
+      "headsign": "PETRUSEWICZA",
+      "service_id": "6",
+      "stops": [
+        {
+          "stop_sequence": 0,
+          "stop_id": "5430",
+          "stop_name": "KOWALE",
+          "arrival_time": "26:39:00",
+          "departure_time": "26:39:00",
+          "lat": 51.12796058,
+          "lon": 17.10253432
+        },
+        {
+          "stop_sequence": 1,
+          "stop_id": "3240",
+          "stop_name": "KOWALE",
+          "arrival_time": "26:39:00",
+          "departure_time": "26:39:00",
+          "lat": 51.12896333,
+          "lon": 17.1018384
+        },
+        {
+          "stop_sequence": 2,
+          "stop_id": "1027",
+          "stop_name": "Działdowska",
+          "arrival_time": "26:40:00",
+          "departure_time": "26:40:00",
+          "lat": 51.13315884,
+          "lon": 17.10579419
+        },
+        {
+          "stop_sequence": 3,
+          "stop_id": "935",
+          "stop_name": "Kowale (Stacja kolejowa)",
+          "arrival_time": "26:41:00",
+          "departure_time": "26:41:00",
+          "lat": 51.13416856,
+          "lon": 17.1016776
+        },
+        {
+          "stop_sequence": 4,
+          "stop_id": "3225",
+          "stop_name": "Kowalska 56",
+          "arrival_time": "26:42:00",
+          "departure_time": "26:42:00",
+          "lat": 51.13647537,
+          "lon": 17.09740219
+        },
+        {
+          "stop_sequence": 5,
+          "stop_id": "2748",
+          "stop_name": "Olsztyńska",
+          "arrival_time": "26:43:00",
+          "departure_time": "26:43:00",
+          "lat": 51.13938597,
+          "lon": 17.0951032
+        },
+        {
+          "stop_sequence": 6,
+          "stop_id": "707",
+          "stop_name": "C.H. Korona",
+          "arrival_time": "26:44:00",
+          "departure_time": "26:44:00",
+          "lat": 51.14110423,
+          "lon": 17.08765021
+        },
+        {
+          "stop_sequence": 7,
+          "stop_id": "612",
+          "stop_name": "Brücknera",
+          "arrival_time": "26:45:00",
+          "departure_time": "26:45:00",
+          "lat": 51.13951485,
+          "lon": 17.08107914
+        },
+        {
+          "stop_sequence": 8,
+          "stop_id": "611",
+          "stop_name": "Grudziądzka",
+          "arrival_time": "26:46:00",
+          "departure_time": "26:46:00",
+          "lat": 51.13788049,
+          "lon": 17.07363454
+        },
+        {
+          "stop_sequence": 9,
+          "stop_id": "3460",
+          "stop_name": "Kromera (Czajkowskiego)",
+          "arrival_time": "26:47:00",
+          "departure_time": "26:47:00",
+          "lat": 51.13557581,
+          "lon": 17.06907505
+        },
+        {
+          "stop_sequence": 10,
+          "stop_id": "1819",
+          "stop_name": "KROMERA",
+          "arrival_time": "26:48:00",
+          "departure_time": "26:48:00",
+          "lat": 51.13164737,
+          "lon": 17.06263024
+        },
+        {
+          "stop_sequence": 11,
+          "stop_id": "1305",
+          "stop_name": "Mosty Warszawskie",
+          "arrival_time": "26:49:00",
+          "departure_time": "26:49:00",
+          "lat": 51.12838294,
+          "lon": 17.0538428
+        },
+        {
+          "stop_sequence": 12,
+          "stop_id": "1315",
+          "stop_name": "Daszyńskiego",
+          "arrival_time": "26:50:00",
+          "departure_time": "26:50:00",
+          "lat": 51.12674068,
+          "lon": 17.04844659
+        },
+        {
+          "stop_sequence": 13,
+          "stop_id": "1312",
+          "stop_name": "Nowowiejska",
+          "arrival_time": "26:51:00",
+          "departure_time": "26:51:00",
+          "lat": 51.12423914,
+          "lon": 17.0448911
+        },
+        {
+          "stop_sequence": 14,
+          "stop_id": "822",
+          "stop_name": "Jedności Narodowej",
+          "arrival_time": "26:52:00",
+          "departure_time": "26:52:00",
+          "lat": 51.1215486,
+          "lon": 17.04345675
+        },
+        {
+          "stop_sequence": 15,
+          "stop_id": "823",
+          "stop_name": "Na Szańcach",
+          "arrival_time": "26:53:00",
+          "departure_time": "26:53:00",
+          "lat": 51.11940016,
+          "lon": 17.04201805
+        },
+        {
+          "stop_sequence": 16,
+          "stop_id": "2028",
+          "stop_name": "pl. Bema",
+          "arrival_time": "26:54:00",
+          "departure_time": "26:54:00",
+          "lat": 51.11751343,
+          "lon": 17.04104209
+        },
+        {
+          "stop_sequence": 17,
+          "stop_id": "5765",
+          "stop_name": "Dubois",
+          "arrival_time": "26:56:00",
+          "departure_time": "26:56:00",
+          "lat": 51.11702473,
+          "lon": 17.03380386
+        },
+        {
+          "stop_sequence": 18,
+          "stop_id": "839",
+          "stop_name": "Hala Targowa",
+          "arrival_time": "26:58:00",
+          "departure_time": "26:58:00",
+          "lat": 51.1126015,
+          "lon": 17.03948975
+        },
+        {
+          "stop_sequence": 19,
+          "stop_id": "1330",
+          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "arrival_time": "26:59:00",
+          "departure_time": "26:59:00",
+          "lat": 51.10670852,
+          "lon": 17.03827095
+        },
+        {
+          "stop_sequence": 20,
+          "stop_id": "5389",
+          "stop_name": "Bastion Sakwowy",
+          "arrival_time": "27:00:00",
+          "departure_time": "27:00:00",
+          "lat": 51.10428016,
+          "lon": 17.03740189
+        },
+        {
+          "stop_sequence": 21,
+          "stop_id": "5428",
+          "stop_name": "Dworzec Główny (MDK)",
+          "arrival_time": "27:01:00",
+          "departure_time": "27:01:00",
+          "lat": 51.10072906,
+          "lon": 17.03607078
+        },
+        {
+          "stop_sequence": 22,
+          "stop_id": "3517",
+          "stop_name": "DWORZEC GŁÓWNY",
+          "arrival_time": "27:02:00",
+          "departure_time": "27:02:00",
+          "lat": 51.09962703,
+          "lon": 17.03516167
+        },
+        {
+          "stop_sequence": 23,
+          "stop_id": "508",
+          "stop_name": "DWORZEC AUTOBUSOWY",
+          "arrival_time": "27:04:00",
+          "departure_time": "27:04:00",
+          "lat": 51.09726779,
+          "lon": 17.03228367
+        },
+        {
+          "stop_sequence": 24,
+          "stop_id": "29",
+          "stop_name": "Dyrekcyjna",
+          "arrival_time": "27:05:00",
+          "departure_time": "27:05:00",
+          "lat": 51.09430136,
+          "lon": 17.03222909
+        },
+        {
+          "stop_sequence": 25,
+          "stop_id": "5456",
+          "stop_name": "PETRUSEWICZA",
+          "arrival_time": "27:07:00",
+          "departure_time": "27:07:00",
+          "lat": 51.09213757,
+          "lon": 17.03100544
+        }
+      ]
+    },
+    {
+      "trip_id": "6_16587284",
+      "direction_id": "1",
+      "headsign": "KOWALE",
+      "service_id": "6",
+      "stops": [
+        {
+          "stop_sequence": 0,
+          "stop_id": "5456",
+          "stop_name": "PETRUSEWICZA",
+          "arrival_time": "27:45:00",
+          "departure_time": "27:45:00",
+          "lat": 51.09213757,
+          "lon": 17.03100544
+        },
+        {
+          "stop_sequence": 1,
+          "stop_id": "509",
+          "stop_name": "DWORZEC AUTOBUSOWY",
+          "arrival_time": "27:47:00",
+          "departure_time": "27:47:00",
+          "lat": 51.09657455,
+          "lon": 17.03298047
+        },
+        {
+          "stop_sequence": 2,
+          "stop_id": "3526",
+          "stop_name": "DWORZEC GŁÓWNY",
+          "arrival_time": "27:49:00",
+          "departure_time": "27:49:00",
+          "lat": 51.09969276,
+          "lon": 17.03551983
+        },
+        {
+          "stop_sequence": 3,
+          "stop_id": "5388",
+          "stop_name": "Bastion Sakwowy",
+          "arrival_time": "27:51:00",
+          "departure_time": "27:51:00",
+          "lat": 51.1036847,
+          "lon": 17.03728239
+        },
+        {
+          "stop_sequence": 4,
+          "stop_id": "841",
+          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "arrival_time": "27:53:00",
+          "departure_time": "27:53:00",
+          "lat": 51.10852894,
+          "lon": 17.03870108
+        },
+        {
+          "stop_sequence": 5,
+          "stop_id": "840",
+          "stop_name": "Hala Targowa",
+          "arrival_time": "27:54:00",
+          "departure_time": "27:54:00",
+          "lat": 51.11276951,
+          "lon": 17.03973594
+        },
+        {
+          "stop_sequence": 6,
+          "stop_id": "5766",
+          "stop_name": "Dubois",
+          "arrival_time": "27:56:00",
+          "departure_time": "27:56:00",
+          "lat": 51.11702473,
+          "lon": 17.03380386
+        },
+        {
+          "stop_sequence": 7,
+          "stop_id": "2029",
+          "stop_name": "pl. Bema",
+          "arrival_time": "27:58:00",
+          "departure_time": "27:58:00",
+          "lat": 51.11750259,
+          "lon": 17.04211691
+        },
+        {
+          "stop_sequence": 8,
+          "stop_id": "2116",
+          "stop_name": "Na Szańcach",
+          "arrival_time": "27:58:00",
+          "departure_time": "27:58:00",
+          "lat": 51.11890245,
+          "lon": 17.04204126
+        },
+        {
+          "stop_sequence": 9,
+          "stop_id": "2883",
+          "stop_name": "Jedności Narodowej",
+          "arrival_time": "27:59:00",
+          "departure_time": "27:59:00",
+          "lat": 51.12121224,
+          "lon": 17.04331711
+        },
+        {
+          "stop_sequence": 10,
+          "stop_id": "1313",
+          "stop_name": "Nowowiejska",
+          "arrival_time": "28:01:00",
+          "departure_time": "28:01:00",
+          "lat": 51.12436097,
+          "lon": 17.04513281
+        },
+        {
+          "stop_sequence": 11,
+          "stop_id": "1314",
+          "stop_name": "Daszyńskiego",
+          "arrival_time": "28:02:00",
+          "departure_time": "28:02:00",
+          "lat": 51.12632996,
+          "lon": 17.04766164
+        },
+        {
+          "stop_sequence": 12,
+          "stop_id": "2868",
+          "stop_name": "Mosty Warszawskie",
+          "arrival_time": "28:03:00",
+          "departure_time": "28:03:00",
+          "lat": 51.12863463,
+          "lon": 17.05609761
+        },
+        {
+          "stop_sequence": 13,
+          "stop_id": "1248",
+          "stop_name": "KROMERA",
+          "arrival_time": "28:05:00",
+          "departure_time": "28:05:00",
+          "lat": 51.13222406,
+          "lon": 17.06514893
+        },
+        {
+          "stop_sequence": 14,
+          "stop_id": "3461",
+          "stop_name": "Kromera (Czajkowskiego)",
+          "arrival_time": "28:06:00",
+          "departure_time": "28:06:00",
+          "lat": 51.13631426,
+          "lon": 17.07044445
+        },
+        {
+          "stop_sequence": 15,
+          "stop_id": "2594",
+          "stop_name": "Grudziądzka",
+          "arrival_time": "28:07:00",
+          "departure_time": "28:07:00",
+          "lat": 51.13794927,
+          "lon": 17.07506203
+        },
+        {
+          "stop_sequence": 16,
+          "stop_id": "1188",
+          "stop_name": "Brücknera",
+          "arrival_time": "28:08:00",
+          "departure_time": "28:08:00",
+          "lat": 51.13916827,
+          "lon": 17.08080603
+        },
+        {
+          "stop_sequence": 17,
+          "stop_id": "3766",
+          "stop_name": "Olsztyńska",
+          "arrival_time": "28:10:00",
+          "departure_time": "28:10:00",
+          "lat": 51.14044697,
+          "lon": 17.09408707
+        },
+        {
+          "stop_sequence": 18,
+          "stop_id": "4020",
+          "stop_name": "Kowalska 56",
+          "arrival_time": "28:11:00",
+          "departure_time": "28:11:00",
+          "lat": 51.13602378,
+          "lon": 17.09761647
+        },
+        {
+          "stop_sequence": 19,
+          "stop_id": "934",
+          "stop_name": "Kowale (Stacja kolejowa)",
+          "arrival_time": "28:12:00",
+          "departure_time": "28:12:00",
+          "lat": 51.13393676,
+          "lon": 17.10221243
+        },
+        {
+          "stop_sequence": 20,
+          "stop_id": "1028",
+          "stop_name": "Działdowska",
+          "arrival_time": "28:13:00",
+          "departure_time": "28:13:00",
+          "lat": 51.13317159,
+          "lon": 17.10543835
+        },
+        {
+          "stop_sequence": 21,
+          "stop_id": "3239",
+          "stop_name": "KOWALE",
+          "arrival_time": "28:14:00",
+          "departure_time": "28:14:00",
+          "lat": 51.12895888,
+          "lon": 17.10165474
+        },
+        {
+          "stop_sequence": 22,
+          "stop_id": "5430",
+          "stop_name": "KOWALE",
+          "arrival_time": "28:14:00",
+          "departure_time": "28:14:00",
+          "lat": 51.12796058,
+          "lon": 17.10253432
+        }
+      ]
+    },
+    {
+      "trip_id": "6_16587285",
+      "direction_id": "0",
+      "headsign": "Zajezdnia OBORNICKA",
+      "service_id": "6",
+      "stops": [
+        {
+          "stop_sequence": 0,
+          "stop_id": "5430",
+          "stop_name": "KOWALE",
+          "arrival_time": "28:19:00",
+          "departure_time": "28:19:00",
+          "lat": 51.12796058,
+          "lon": 17.10253432
+        },
+        {
+          "stop_sequence": 1,
+          "stop_id": "3240",
+          "stop_name": "KOWALE",
+          "arrival_time": "28:19:00",
+          "departure_time": "28:19:00",
+          "lat": 51.12896333,
+          "lon": 17.1018384
+        },
+        {
+          "stop_sequence": 2,
+          "stop_id": "1027",
+          "stop_name": "Działdowska",
+          "arrival_time": "28:20:00",
+          "departure_time": "28:20:00",
+          "lat": 51.13315884,
+          "lon": 17.10579419
+        },
+        {
+          "stop_sequence": 3,
+          "stop_id": "935",
+          "stop_name": "Kowale (Stacja kolejowa)",
+          "arrival_time": "28:21:00",
+          "departure_time": "28:21:00",
+          "lat": 51.13416856,
+          "lon": 17.1016776
+        },
+        {
+          "stop_sequence": 4,
+          "stop_id": "3225",
+          "stop_name": "Kowalska 56",
+          "arrival_time": "28:22:00",
+          "departure_time": "28:22:00",
+          "lat": 51.13647537,
+          "lon": 17.09740219
+        },
+        {
+          "stop_sequence": 5,
+          "stop_id": "2748",
+          "stop_name": "Olsztyńska",
+          "arrival_time": "28:23:00",
+          "departure_time": "28:23:00",
+          "lat": 51.13938597,
+          "lon": 17.0951032
+        },
+        {
+          "stop_sequence": 6,
+          "stop_id": "707",
+          "stop_name": "C.H. Korona",
+          "arrival_time": "28:24:00",
+          "departure_time": "28:24:00",
+          "lat": 51.14110423,
+          "lon": 17.08765021
+        },
+        {
+          "stop_sequence": 7,
+          "stop_id": "612",
+          "stop_name": "Brücknera",
+          "arrival_time": "28:25:00",
+          "departure_time": "28:25:00",
+          "lat": 51.13951485,
+          "lon": 17.08107914
+        },
+        {
+          "stop_sequence": 8,
+          "stop_id": "611",
+          "stop_name": "Grudziądzka",
+          "arrival_time": "28:26:00",
+          "departure_time": "28:26:00",
+          "lat": 51.13788049,
+          "lon": 17.07363454
+        },
+        {
+          "stop_sequence": 9,
+          "stop_id": "3460",
+          "stop_name": "Kromera (Czajkowskiego)",
+          "arrival_time": "28:27:00",
+          "departure_time": "28:27:00",
+          "lat": 51.13557581,
+          "lon": 17.06907505
+        },
+        {
+          "stop_sequence": 10,
+          "stop_id": "613",
+          "stop_name": "KROMERA",
+          "arrival_time": "28:28:00",
+          "departure_time": "28:28:00",
+          "lat": 51.13237794,
+          "lon": 17.06301095
+        },
+        {
+          "stop_sequence": 11,
+          "stop_id": "624",
+          "stop_name": "Berenta",
+          "arrival_time": "28:29:00",
+          "departure_time": "28:29:00",
+          "lat": 51.1349714,
+          "lon": 17.05777339
+        },
+        {
+          "stop_sequence": 12,
+          "stop_id": "623",
+          "stop_name": "Kasprowicza",
+          "arrival_time": "28:30:00",
+          "departure_time": "28:30:00",
+          "lat": 51.13744108,
+          "lon": 17.05290682
+        },
+        {
+          "stop_sequence": 13,
+          "stop_id": "4714",
+          "stop_name": "Syrokomli",
+          "arrival_time": "28:31:00",
+          "departure_time": "28:31:00",
+          "lat": 51.137273,
+          "lon": 17.047925
+        },
+        {
+          "stop_sequence": 14,
+          "stop_id": "626",
+          "stop_name": "Pola",
+          "arrival_time": "28:32:00",
+          "departure_time": "28:32:00",
+          "lat": 51.13671695,
+          "lon": 17.04317468
+        },
+        {
+          "stop_sequence": 15,
+          "stop_id": "637",
+          "stop_name": "Broniewskiego",
+          "arrival_time": "28:33:00",
+          "departure_time": "28:33:00",
+          "lat": 51.13590436,
+          "lon": 17.03532722
+        },
+        {
+          "stop_sequence": 16,
+          "stop_id": "644",
+          "stop_name": "Bałtycka",
+          "arrival_time": "28:35:00",
+          "departure_time": "28:35:00",
+          "lat": 51.1382819,
+          "lon": 17.02937414
+        },
+        {
+          "stop_sequence": 17,
+          "stop_id": "1165",
+          "stop_name": "Bezpieczna",
+          "arrival_time": "28:36:00",
+          "departure_time": "28:36:00",
+          "lat": 51.14245937,
+          "lon": 17.02567781
+        },
+        {
+          "stop_sequence": 18,
+          "stop_id": "668",
+          "stop_name": "Paprotna",
+          "arrival_time": "28:37:00",
+          "departure_time": "28:37:00",
+          "lat": 51.14818098,
+          "lon": 17.02062686
+        },
+        {
+          "stop_sequence": 19,
+          "stop_id": "5583",
+          "stop_name": "Zajezdnia OBORNICKA",
+          "arrival_time": "28:38:00",
+          "departure_time": "28:38:00",
+          "lat": 51.14873744,
+          "lon": 17.02106859
+        }
+      ]
+    },
+    {
+      "trip_id": "8_16589826",
+      "direction_id": "1",
+      "headsign": "KOWALE",
+      "service_id": "8",
+      "stops": [
+        {
+          "stop_sequence": 0,
+          "stop_id": "5456",
+          "stop_name": "PETRUSEWICZA",
+          "arrival_time": "23:45:00",
+          "departure_time": "23:45:00",
+          "lat": 51.09213757,
+          "lon": 17.03100544
+        },
+        {
+          "stop_sequence": 1,
+          "stop_id": "509",
+          "stop_name": "DWORZEC AUTOBUSOWY",
+          "arrival_time": "23:47:00",
+          "departure_time": "23:47:00",
+          "lat": 51.09657455,
+          "lon": 17.03298047
+        },
+        {
+          "stop_sequence": 2,
+          "stop_id": "3526",
+          "stop_name": "DWORZEC GŁÓWNY",
+          "arrival_time": "23:49:00",
+          "departure_time": "23:49:00",
+          "lat": 51.09969276,
+          "lon": 17.03551983
+        },
+        {
+          "stop_sequence": 3,
+          "stop_id": "5388",
+          "stop_name": "Bastion Sakwowy",
+          "arrival_time": "23:51:00",
+          "departure_time": "23:51:00",
+          "lat": 51.1036847,
+          "lon": 17.03728239
+        },
+        {
+          "stop_sequence": 4,
+          "stop_id": "841",
+          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "arrival_time": "23:53:00",
+          "departure_time": "23:53:00",
+          "lat": 51.10852894,
+          "lon": 17.03870108
+        },
+        {
+          "stop_sequence": 5,
+          "stop_id": "840",
+          "stop_name": "Hala Targowa",
+          "arrival_time": "23:54:00",
+          "departure_time": "23:54:00",
+          "lat": 51.11276951,
+          "lon": 17.03973594
+        },
+        {
+          "stop_sequence": 6,
+          "stop_id": "5766",
+          "stop_name": "Dubois",
+          "arrival_time": "23:56:00",
+          "departure_time": "23:56:00",
+          "lat": 51.11702473,
+          "lon": 17.03380386
+        },
+        {
+          "stop_sequence": 7,
+          "stop_id": "2029",
+          "stop_name": "pl. Bema",
+          "arrival_time": "23:58:00",
+          "departure_time": "23:58:00",
+          "lat": 51.11750259,
+          "lon": 17.04211691
+        },
+        {
+          "stop_sequence": 8,
+          "stop_id": "2116",
+          "stop_name": "Na Szańcach",
+          "arrival_time": "23:58:00",
+          "departure_time": "23:58:00",
+          "lat": 51.11890245,
+          "lon": 17.04204126
+        },
+        {
+          "stop_sequence": 9,
+          "stop_id": "2883",
+          "stop_name": "Jedności Narodowej",
+          "arrival_time": "23:59:00",
+          "departure_time": "23:59:00",
+          "lat": 51.12121224,
+          "lon": 17.04331711
+        },
+        {
+          "stop_sequence": 10,
+          "stop_id": "1313",
+          "stop_name": "Nowowiejska",
+          "arrival_time": "24:01:00",
+          "departure_time": "24:01:00",
+          "lat": 51.12436097,
+          "lon": 17.04513281
+        },
+        {
+          "stop_sequence": 11,
+          "stop_id": "1314",
+          "stop_name": "Daszyńskiego",
+          "arrival_time": "24:02:00",
+          "departure_time": "24:02:00",
+          "lat": 51.12632996,
+          "lon": 17.04766164
+        },
+        {
+          "stop_sequence": 12,
+          "stop_id": "2868",
+          "stop_name": "Mosty Warszawskie",
+          "arrival_time": "24:03:00",
+          "departure_time": "24:03:00",
+          "lat": 51.12863463,
+          "lon": 17.05609761
+        },
+        {
+          "stop_sequence": 13,
+          "stop_id": "1248",
+          "stop_name": "KROMERA",
+          "arrival_time": "24:05:00",
+          "departure_time": "24:05:00",
+          "lat": 51.13222406,
+          "lon": 17.06514893
+        },
+        {
+          "stop_sequence": 14,
+          "stop_id": "3461",
+          "stop_name": "Kromera (Czajkowskiego)",
+          "arrival_time": "24:06:00",
+          "departure_time": "24:06:00",
+          "lat": 51.13631426,
+          "lon": 17.07044445
+        },
+        {
+          "stop_sequence": 15,
+          "stop_id": "2594",
+          "stop_name": "Grudziądzka",
+          "arrival_time": "24:07:00",
+          "departure_time": "24:07:00",
+          "lat": 51.13794927,
+          "lon": 17.07506203
+        },
+        {
+          "stop_sequence": 16,
+          "stop_id": "1188",
+          "stop_name": "Brücknera",
+          "arrival_time": "24:08:00",
+          "departure_time": "24:08:00",
+          "lat": 51.13916827,
+          "lon": 17.08080603
+        },
+        {
+          "stop_sequence": 17,
+          "stop_id": "3766",
+          "stop_name": "Olsztyńska",
+          "arrival_time": "24:10:00",
+          "departure_time": "24:10:00",
+          "lat": 51.14044697,
+          "lon": 17.09408707
+        },
+        {
+          "stop_sequence": 18,
+          "stop_id": "4020",
+          "stop_name": "Kowalska 56",
+          "arrival_time": "24:11:00",
+          "departure_time": "24:11:00",
+          "lat": 51.13602378,
+          "lon": 17.09761647
+        },
+        {
+          "stop_sequence": 19,
+          "stop_id": "934",
+          "stop_name": "Kowale (Stacja kolejowa)",
+          "arrival_time": "24:12:00",
+          "departure_time": "24:12:00",
+          "lat": 51.13393676,
+          "lon": 17.10221243
+        },
+        {
+          "stop_sequence": 20,
+          "stop_id": "1028",
+          "stop_name": "Działdowska",
+          "arrival_time": "24:13:00",
+          "departure_time": "24:13:00",
+          "lat": 51.13317159,
+          "lon": 17.10543835
+        },
+        {
+          "stop_sequence": 21,
+          "stop_id": "3239",
+          "stop_name": "KOWALE",
+          "arrival_time": "24:14:00",
+          "departure_time": "24:14:00",
+          "lat": 51.12895888,
+          "lon": 17.10165474
+        },
+        {
+          "stop_sequence": 22,
+          "stop_id": "5430",
+          "stop_name": "KOWALE",
+          "arrival_time": "24:14:00",
+          "departure_time": "24:14:00",
+          "lat": 51.12796058,
+          "lon": 17.10253432
+        }
+      ]
+    },
+    {
+      "trip_id": "8_16589827",
+      "direction_id": "0",
+      "headsign": "Zajezdnia OBORNICKA",
+      "service_id": "8",
+      "stops": [
+        {
+          "stop_sequence": 0,
+          "stop_id": "5430",
+          "stop_name": "KOWALE",
+          "arrival_time": "24:14:00",
+          "departure_time": "24:14:00",
+          "lat": 51.12796058,
+          "lon": 17.10253432
+        },
+        {
+          "stop_sequence": 1,
+          "stop_id": "3240",
+          "stop_name": "KOWALE",
+          "arrival_time": "24:14:00",
+          "departure_time": "24:14:00",
+          "lat": 51.12896333,
+          "lon": 17.1018384
+        },
+        {
+          "stop_sequence": 2,
+          "stop_id": "1027",
+          "stop_name": "Działdowska",
+          "arrival_time": "24:15:00",
+          "departure_time": "24:15:00",
+          "lat": 51.13315884,
+          "lon": 17.10579419
+        },
+        {
+          "stop_sequence": 3,
+          "stop_id": "935",
+          "stop_name": "Kowale (Stacja kolejowa)",
+          "arrival_time": "24:16:00",
+          "departure_time": "24:16:00",
+          "lat": 51.13416856,
+          "lon": 17.1016776
+        },
+        {
+          "stop_sequence": 4,
+          "stop_id": "3225",
+          "stop_name": "Kowalska 56",
+          "arrival_time": "24:17:00",
+          "departure_time": "24:17:00",
+          "lat": 51.13647537,
+          "lon": 17.09740219
+        },
+        {
+          "stop_sequence": 5,
+          "stop_id": "2748",
+          "stop_name": "Olsztyńska",
+          "arrival_time": "24:18:00",
+          "departure_time": "24:18:00",
+          "lat": 51.13938597,
+          "lon": 17.0951032
+        },
+        {
+          "stop_sequence": 6,
+          "stop_id": "707",
+          "stop_name": "C.H. Korona",
+          "arrival_time": "24:19:00",
+          "departure_time": "24:19:00",
+          "lat": 51.14110423,
+          "lon": 17.08765021
+        },
+        {
+          "stop_sequence": 7,
+          "stop_id": "612",
+          "stop_name": "Brücknera",
+          "arrival_time": "24:20:00",
+          "departure_time": "24:20:00",
+          "lat": 51.13951485,
+          "lon": 17.08107914
+        },
+        {
+          "stop_sequence": 8,
+          "stop_id": "611",
+          "stop_name": "Grudziądzka",
+          "arrival_time": "24:21:00",
+          "departure_time": "24:21:00",
+          "lat": 51.13788049,
+          "lon": 17.07363454
+        },
+        {
+          "stop_sequence": 9,
+          "stop_id": "3460",
+          "stop_name": "Kromera (Czajkowskiego)",
+          "arrival_time": "24:22:00",
+          "departure_time": "24:22:00",
+          "lat": 51.13557581,
+          "lon": 17.06907505
+        },
+        {
+          "stop_sequence": 10,
+          "stop_id": "613",
+          "stop_name": "KROMERA",
+          "arrival_time": "24:23:00",
+          "departure_time": "24:23:00",
+          "lat": 51.13237794,
+          "lon": 17.06301095
+        },
+        {
+          "stop_sequence": 11,
+          "stop_id": "624",
+          "stop_name": "Berenta",
+          "arrival_time": "24:24:00",
+          "departure_time": "24:24:00",
+          "lat": 51.1349714,
+          "lon": 17.05777339
+        },
+        {
+          "stop_sequence": 12,
+          "stop_id": "623",
+          "stop_name": "Kasprowicza",
+          "arrival_time": "24:25:00",
+          "departure_time": "24:25:00",
+          "lat": 51.13744108,
+          "lon": 17.05290682
+        },
+        {
+          "stop_sequence": 13,
+          "stop_id": "4714",
+          "stop_name": "Syrokomli",
+          "arrival_time": "24:26:00",
+          "departure_time": "24:26:00",
+          "lat": 51.137273,
+          "lon": 17.047925
+        },
+        {
+          "stop_sequence": 14,
+          "stop_id": "626",
+          "stop_name": "Pola",
+          "arrival_time": "24:27:00",
+          "departure_time": "24:27:00",
+          "lat": 51.13671695,
+          "lon": 17.04317468
+        },
+        {
+          "stop_sequence": 15,
+          "stop_id": "637",
+          "stop_name": "Broniewskiego",
+          "arrival_time": "24:28:00",
+          "departure_time": "24:28:00",
+          "lat": 51.13590436,
+          "lon": 17.03532722
+        },
+        {
+          "stop_sequence": 16,
+          "stop_id": "644",
+          "stop_name": "Bałtycka",
+          "arrival_time": "24:30:00",
+          "departure_time": "24:30:00",
+          "lat": 51.1382819,
+          "lon": 17.02937414
+        },
+        {
+          "stop_sequence": 17,
+          "stop_id": "1165",
+          "stop_name": "Bezpieczna",
+          "arrival_time": "24:31:00",
+          "departure_time": "24:31:00",
+          "lat": 51.14245937,
+          "lon": 17.02567781
+        },
+        {
+          "stop_sequence": 18,
+          "stop_id": "668",
+          "stop_name": "Paprotna",
+          "arrival_time": "24:32:00",
+          "departure_time": "24:32:00",
+          "lat": 51.14818098,
+          "lon": 17.02062686
+        },
+        {
+          "stop_sequence": 19,
+          "stop_id": "5583",
+          "stop_name": "Zajezdnia OBORNICKA",
+          "arrival_time": "24:33:00",
+          "departure_time": "24:33:00",
+          "lat": 51.14873744,
+          "lon": 17.02106859
+        }
+      ]
+    },
+    {
+      "trip_id": "8_16593801",
+      "direction_id": "1",
+      "headsign": "KOWALE",
+      "service_id": "8",
+      "stops": [
+        {
+          "stop_sequence": 0,
+          "stop_id": "1893",
+          "stop_name": "KROMERA",
+          "arrival_time": "24:56:00",
+          "departure_time": "24:56:00",
+          "lat": 51.13202211,
+          "lon": 17.06568137
+        },
+        {
+          "stop_sequence": 1,
+          "stop_id": "1248",
+          "stop_name": "KROMERA",
+          "arrival_time": "24:57:00",
+          "departure_time": "24:57:00",
+          "lat": 51.13222406,
+          "lon": 17.06514893
+        },
+        {
+          "stop_sequence": 2,
+          "stop_id": "3461",
+          "stop_name": "Kromera (Czajkowskiego)",
+          "arrival_time": "24:58:00",
+          "departure_time": "24:58:00",
+          "lat": 51.13631426,
+          "lon": 17.07044445
+        },
+        {
+          "stop_sequence": 3,
+          "stop_id": "2594",
+          "stop_name": "Grudziądzka",
+          "arrival_time": "24:59:00",
+          "departure_time": "24:59:00",
+          "lat": 51.13794927,
+          "lon": 17.07506203
+        },
+        {
+          "stop_sequence": 4,
+          "stop_id": "1188",
+          "stop_name": "Brücknera",
+          "arrival_time": "25:00:00",
+          "departure_time": "25:00:00",
+          "lat": 51.13916827,
+          "lon": 17.08080603
+        },
+        {
+          "stop_sequence": 5,
+          "stop_id": "3766",
+          "stop_name": "Olsztyńska",
+          "arrival_time": "25:02:00",
+          "departure_time": "25:02:00",
+          "lat": 51.14044697,
+          "lon": 17.09408707
+        },
+        {
+          "stop_sequence": 6,
+          "stop_id": "4020",
+          "stop_name": "Kowalska 56",
+          "arrival_time": "25:03:00",
+          "departure_time": "25:03:00",
+          "lat": 51.13602378,
+          "lon": 17.09761647
+        },
+        {
+          "stop_sequence": 7,
+          "stop_id": "934",
+          "stop_name": "Kowale (Stacja kolejowa)",
+          "arrival_time": "25:04:00",
+          "departure_time": "25:04:00",
+          "lat": 51.13393676,
+          "lon": 17.10221243
+        },
+        {
+          "stop_sequence": 8,
+          "stop_id": "1028",
+          "stop_name": "Działdowska",
+          "arrival_time": "25:05:00",
+          "departure_time": "25:05:00",
+          "lat": 51.13317159,
+          "lon": 17.10543835
+        },
+        {
+          "stop_sequence": 9,
+          "stop_id": "3239",
+          "stop_name": "KOWALE",
+          "arrival_time": "25:06:00",
+          "departure_time": "25:06:00",
+          "lat": 51.12895888,
+          "lon": 17.10165474
+        },
+        {
+          "stop_sequence": 10,
+          "stop_id": "5430",
+          "stop_name": "KOWALE",
+          "arrival_time": "25:06:00",
+          "departure_time": "25:06:00",
+          "lat": 51.12796058,
+          "lon": 17.10253432
+        }
+      ]
+    },
+    {
+      "trip_id": "8_16593802",
+      "direction_id": "0",
+      "headsign": "PETRUSEWICZA",
+      "service_id": "8",
+      "stops": [
+        {
+          "stop_sequence": 0,
+          "stop_id": "5430",
+          "stop_name": "KOWALE",
+          "arrival_time": "25:09:00",
+          "departure_time": "25:09:00",
+          "lat": 51.12796058,
+          "lon": 17.10253432
+        },
+        {
+          "stop_sequence": 1,
+          "stop_id": "3240",
+          "stop_name": "KOWALE",
+          "arrival_time": "25:09:00",
+          "departure_time": "25:09:00",
+          "lat": 51.12896333,
+          "lon": 17.1018384
+        },
+        {
+          "stop_sequence": 2,
+          "stop_id": "1027",
+          "stop_name": "Działdowska",
+          "arrival_time": "25:10:00",
+          "departure_time": "25:10:00",
+          "lat": 51.13315884,
+          "lon": 17.10579419
+        },
+        {
+          "stop_sequence": 3,
+          "stop_id": "935",
+          "stop_name": "Kowale (Stacja kolejowa)",
+          "arrival_time": "25:11:00",
+          "departure_time": "25:11:00",
+          "lat": 51.13416856,
+          "lon": 17.1016776
+        },
+        {
+          "stop_sequence": 4,
+          "stop_id": "3225",
+          "stop_name": "Kowalska 56",
+          "arrival_time": "25:12:00",
+          "departure_time": "25:12:00",
+          "lat": 51.13647537,
+          "lon": 17.09740219
+        },
+        {
+          "stop_sequence": 5,
+          "stop_id": "2748",
+          "stop_name": "Olsztyńska",
+          "arrival_time": "25:13:00",
+          "departure_time": "25:13:00",
+          "lat": 51.13938597,
+          "lon": 17.0951032
+        },
+        {
+          "stop_sequence": 6,
+          "stop_id": "707",
+          "stop_name": "C.H. Korona",
+          "arrival_time": "25:14:00",
+          "departure_time": "25:14:00",
+          "lat": 51.14110423,
+          "lon": 17.08765021
+        },
+        {
+          "stop_sequence": 7,
+          "stop_id": "612",
+          "stop_name": "Brücknera",
+          "arrival_time": "25:15:00",
+          "departure_time": "25:15:00",
+          "lat": 51.13951485,
+          "lon": 17.08107914
+        },
+        {
+          "stop_sequence": 8,
+          "stop_id": "611",
+          "stop_name": "Grudziądzka",
+          "arrival_time": "25:16:00",
+          "departure_time": "25:16:00",
+          "lat": 51.13788049,
+          "lon": 17.07363454
+        },
+        {
+          "stop_sequence": 9,
+          "stop_id": "3460",
+          "stop_name": "Kromera (Czajkowskiego)",
+          "arrival_time": "25:17:00",
+          "departure_time": "25:17:00",
+          "lat": 51.13557581,
+          "lon": 17.06907505
+        },
+        {
+          "stop_sequence": 10,
+          "stop_id": "1819",
+          "stop_name": "KROMERA",
+          "arrival_time": "25:18:00",
+          "departure_time": "25:18:00",
+          "lat": 51.13164737,
+          "lon": 17.06263024
+        },
+        {
+          "stop_sequence": 11,
+          "stop_id": "1305",
+          "stop_name": "Mosty Warszawskie",
+          "arrival_time": "25:19:00",
+          "departure_time": "25:19:00",
+          "lat": 51.12838294,
+          "lon": 17.0538428
+        },
+        {
+          "stop_sequence": 12,
+          "stop_id": "1315",
+          "stop_name": "Daszyńskiego",
+          "arrival_time": "25:20:00",
+          "departure_time": "25:20:00",
+          "lat": 51.12674068,
+          "lon": 17.04844659
+        },
+        {
+          "stop_sequence": 13,
+          "stop_id": "1312",
+          "stop_name": "Nowowiejska",
+          "arrival_time": "25:21:00",
+          "departure_time": "25:21:00",
+          "lat": 51.12423914,
+          "lon": 17.0448911
+        },
+        {
+          "stop_sequence": 14,
+          "stop_id": "822",
+          "stop_name": "Jedności Narodowej",
+          "arrival_time": "25:22:00",
+          "departure_time": "25:22:00",
+          "lat": 51.1215486,
+          "lon": 17.04345675
+        },
+        {
+          "stop_sequence": 15,
+          "stop_id": "823",
+          "stop_name": "Na Szańcach",
+          "arrival_time": "25:23:00",
+          "departure_time": "25:23:00",
+          "lat": 51.11940016,
+          "lon": 17.04201805
+        },
+        {
+          "stop_sequence": 16,
+          "stop_id": "2028",
+          "stop_name": "pl. Bema",
+          "arrival_time": "25:24:00",
+          "departure_time": "25:24:00",
+          "lat": 51.11751343,
+          "lon": 17.04104209
+        },
+        {
+          "stop_sequence": 17,
+          "stop_id": "5765",
+          "stop_name": "Dubois",
+          "arrival_time": "25:26:00",
+          "departure_time": "25:26:00",
+          "lat": 51.11702473,
+          "lon": 17.03380386
+        },
+        {
+          "stop_sequence": 18,
+          "stop_id": "839",
+          "stop_name": "Hala Targowa",
+          "arrival_time": "25:28:00",
+          "departure_time": "25:28:00",
+          "lat": 51.1126015,
+          "lon": 17.03948975
+        },
+        {
+          "stop_sequence": 19,
+          "stop_id": "1330",
+          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "arrival_time": "25:29:00",
+          "departure_time": "25:29:00",
+          "lat": 51.10670852,
+          "lon": 17.03827095
+        },
+        {
+          "stop_sequence": 20,
+          "stop_id": "5389",
+          "stop_name": "Bastion Sakwowy",
+          "arrival_time": "25:30:00",
+          "departure_time": "25:30:00",
+          "lat": 51.10428016,
+          "lon": 17.03740189
+        },
+        {
+          "stop_sequence": 21,
+          "stop_id": "5428",
+          "stop_name": "Dworzec Główny (MDK)",
+          "arrival_time": "25:31:00",
+          "departure_time": "25:31:00",
+          "lat": 51.10072906,
+          "lon": 17.03607078
+        },
+        {
+          "stop_sequence": 22,
+          "stop_id": "3517",
+          "stop_name": "DWORZEC GŁÓWNY",
+          "arrival_time": "25:32:00",
+          "departure_time": "25:32:00",
+          "lat": 51.09962703,
+          "lon": 17.03516167
+        },
+        {
+          "stop_sequence": 23,
+          "stop_id": "508",
+          "stop_name": "DWORZEC AUTOBUSOWY",
+          "arrival_time": "25:34:00",
+          "departure_time": "25:34:00",
+          "lat": 51.09726779,
+          "lon": 17.03228367
+        },
+        {
+          "stop_sequence": 24,
+          "stop_id": "29",
+          "stop_name": "Dyrekcyjna",
+          "arrival_time": "25:35:00",
+          "departure_time": "25:35:00",
+          "lat": 51.09430136,
+          "lon": 17.03222909
+        },
+        {
+          "stop_sequence": 25,
+          "stop_id": "5456",
+          "stop_name": "PETRUSEWICZA",
+          "arrival_time": "25:37:00",
+          "departure_time": "25:37:00",
+          "lat": 51.09213757,
+          "lon": 17.03100544
+        }
+      ]
+    },
+    {
+      "trip_id": "8_16593803",
+      "direction_id": "1",
+      "headsign": "KOWALE",
+      "service_id": "8",
+      "stops": [
+        {
+          "stop_sequence": 0,
+          "stop_id": "5456",
+          "stop_name": "PETRUSEWICZA",
+          "arrival_time": "25:45:00",
+          "departure_time": "25:45:00",
+          "lat": 51.09213757,
+          "lon": 17.03100544
+        },
+        {
+          "stop_sequence": 1,
+          "stop_id": "509",
+          "stop_name": "DWORZEC AUTOBUSOWY",
+          "arrival_time": "25:47:00",
+          "departure_time": "25:47:00",
+          "lat": 51.09657455,
+          "lon": 17.03298047
+        },
+        {
+          "stop_sequence": 2,
+          "stop_id": "3526",
+          "stop_name": "DWORZEC GŁÓWNY",
+          "arrival_time": "25:49:00",
+          "departure_time": "25:49:00",
+          "lat": 51.09969276,
+          "lon": 17.03551983
+        },
+        {
+          "stop_sequence": 3,
+          "stop_id": "5388",
+          "stop_name": "Bastion Sakwowy",
+          "arrival_time": "25:51:00",
+          "departure_time": "25:51:00",
+          "lat": 51.1036847,
+          "lon": 17.03728239
+        },
+        {
+          "stop_sequence": 4,
+          "stop_id": "841",
+          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "arrival_time": "25:53:00",
+          "departure_time": "25:53:00",
+          "lat": 51.10852894,
+          "lon": 17.03870108
+        },
+        {
+          "stop_sequence": 5,
+          "stop_id": "840",
+          "stop_name": "Hala Targowa",
+          "arrival_time": "25:54:00",
+          "departure_time": "25:54:00",
+          "lat": 51.11276951,
+          "lon": 17.03973594
+        },
+        {
+          "stop_sequence": 6,
+          "stop_id": "5766",
+          "stop_name": "Dubois",
+          "arrival_time": "25:56:00",
+          "departure_time": "25:56:00",
+          "lat": 51.11702473,
+          "lon": 17.03380386
+        },
+        {
+          "stop_sequence": 7,
+          "stop_id": "2029",
+          "stop_name": "pl. Bema",
+          "arrival_time": "25:58:00",
+          "departure_time": "25:58:00",
+          "lat": 51.11750259,
+          "lon": 17.04211691
+        },
+        {
+          "stop_sequence": 8,
+          "stop_id": "2116",
+          "stop_name": "Na Szańcach",
+          "arrival_time": "25:58:00",
+          "departure_time": "25:58:00",
+          "lat": 51.11890245,
+          "lon": 17.04204126
+        },
+        {
+          "stop_sequence": 9,
+          "stop_id": "2883",
+          "stop_name": "Jedności Narodowej",
+          "arrival_time": "25:59:00",
+          "departure_time": "25:59:00",
+          "lat": 51.12121224,
+          "lon": 17.04331711
+        },
+        {
+          "stop_sequence": 10,
+          "stop_id": "1313",
+          "stop_name": "Nowowiejska",
+          "arrival_time": "26:01:00",
+          "departure_time": "26:01:00",
+          "lat": 51.12436097,
+          "lon": 17.04513281
+        },
+        {
+          "stop_sequence": 11,
+          "stop_id": "1314",
+          "stop_name": "Daszyńskiego",
+          "arrival_time": "26:02:00",
+          "departure_time": "26:02:00",
+          "lat": 51.12632996,
+          "lon": 17.04766164
+        },
+        {
+          "stop_sequence": 12,
+          "stop_id": "2868",
+          "stop_name": "Mosty Warszawskie",
+          "arrival_time": "26:03:00",
+          "departure_time": "26:03:00",
+          "lat": 51.12863463,
+          "lon": 17.05609761
+        },
+        {
+          "stop_sequence": 13,
+          "stop_id": "1248",
+          "stop_name": "KROMERA",
+          "arrival_time": "26:05:00",
+          "departure_time": "26:05:00",
+          "lat": 51.13222406,
+          "lon": 17.06514893
+        },
+        {
+          "stop_sequence": 14,
+          "stop_id": "3461",
+          "stop_name": "Kromera (Czajkowskiego)",
+          "arrival_time": "26:06:00",
+          "departure_time": "26:06:00",
+          "lat": 51.13631426,
+          "lon": 17.07044445
+        },
+        {
+          "stop_sequence": 15,
+          "stop_id": "2594",
+          "stop_name": "Grudziądzka",
+          "arrival_time": "26:07:00",
+          "departure_time": "26:07:00",
+          "lat": 51.13794927,
+          "lon": 17.07506203
+        },
+        {
+          "stop_sequence": 16,
+          "stop_id": "1188",
+          "stop_name": "Brücknera",
+          "arrival_time": "26:08:00",
+          "departure_time": "26:08:00",
+          "lat": 51.13916827,
+          "lon": 17.08080603
+        },
+        {
+          "stop_sequence": 17,
+          "stop_id": "3766",
+          "stop_name": "Olsztyńska",
+          "arrival_time": "26:10:00",
+          "departure_time": "26:10:00",
+          "lat": 51.14044697,
+          "lon": 17.09408707
+        },
+        {
+          "stop_sequence": 18,
+          "stop_id": "4020",
+          "stop_name": "Kowalska 56",
+          "arrival_time": "26:11:00",
+          "departure_time": "26:11:00",
+          "lat": 51.13602378,
+          "lon": 17.09761647
+        },
+        {
+          "stop_sequence": 19,
+          "stop_id": "934",
+          "stop_name": "Kowale (Stacja kolejowa)",
+          "arrival_time": "26:12:00",
+          "departure_time": "26:12:00",
+          "lat": 51.13393676,
+          "lon": 17.10221243
+        },
+        {
+          "stop_sequence": 20,
+          "stop_id": "1028",
+          "stop_name": "Działdowska",
+          "arrival_time": "26:13:00",
+          "departure_time": "26:13:00",
+          "lat": 51.13317159,
+          "lon": 17.10543835
+        },
+        {
+          "stop_sequence": 21,
+          "stop_id": "3239",
+          "stop_name": "KOWALE",
+          "arrival_time": "26:14:00",
+          "departure_time": "26:14:00",
+          "lat": 51.12895888,
+          "lon": 17.10165474
+        },
+        {
+          "stop_sequence": 22,
+          "stop_id": "5430",
+          "stop_name": "KOWALE",
+          "arrival_time": "26:14:00",
+          "departure_time": "26:14:00",
+          "lat": 51.12796058,
+          "lon": 17.10253432
+        }
+      ]
+    },
+    {
+      "trip_id": "8_16593804",
+      "direction_id": "0",
+      "headsign": "PETRUSEWICZA",
+      "service_id": "8",
+      "stops": [
+        {
+          "stop_sequence": 0,
+          "stop_id": "5430",
+          "stop_name": "KOWALE",
+          "arrival_time": "26:39:00",
+          "departure_time": "26:39:00",
+          "lat": 51.12796058,
+          "lon": 17.10253432
+        },
+        {
+          "stop_sequence": 1,
+          "stop_id": "3240",
+          "stop_name": "KOWALE",
+          "arrival_time": "26:39:00",
+          "departure_time": "26:39:00",
+          "lat": 51.12896333,
+          "lon": 17.1018384
+        },
+        {
+          "stop_sequence": 2,
+          "stop_id": "1027",
+          "stop_name": "Działdowska",
+          "arrival_time": "26:40:00",
+          "departure_time": "26:40:00",
+          "lat": 51.13315884,
+          "lon": 17.10579419
+        },
+        {
+          "stop_sequence": 3,
+          "stop_id": "935",
+          "stop_name": "Kowale (Stacja kolejowa)",
+          "arrival_time": "26:41:00",
+          "departure_time": "26:41:00",
+          "lat": 51.13416856,
+          "lon": 17.1016776
+        },
+        {
+          "stop_sequence": 4,
+          "stop_id": "3225",
+          "stop_name": "Kowalska 56",
+          "arrival_time": "26:42:00",
+          "departure_time": "26:42:00",
+          "lat": 51.13647537,
+          "lon": 17.09740219
+        },
+        {
+          "stop_sequence": 5,
+          "stop_id": "2748",
+          "stop_name": "Olsztyńska",
+          "arrival_time": "26:43:00",
+          "departure_time": "26:43:00",
+          "lat": 51.13938597,
+          "lon": 17.0951032
+        },
+        {
+          "stop_sequence": 6,
+          "stop_id": "707",
+          "stop_name": "C.H. Korona",
+          "arrival_time": "26:44:00",
+          "departure_time": "26:44:00",
+          "lat": 51.14110423,
+          "lon": 17.08765021
+        },
+        {
+          "stop_sequence": 7,
+          "stop_id": "612",
+          "stop_name": "Brücknera",
+          "arrival_time": "26:45:00",
+          "departure_time": "26:45:00",
+          "lat": 51.13951485,
+          "lon": 17.08107914
+        },
+        {
+          "stop_sequence": 8,
+          "stop_id": "611",
+          "stop_name": "Grudziądzka",
+          "arrival_time": "26:46:00",
+          "departure_time": "26:46:00",
+          "lat": 51.13788049,
+          "lon": 17.07363454
+        },
+        {
+          "stop_sequence": 9,
+          "stop_id": "3460",
+          "stop_name": "Kromera (Czajkowskiego)",
+          "arrival_time": "26:47:00",
+          "departure_time": "26:47:00",
+          "lat": 51.13557581,
+          "lon": 17.06907505
+        },
+        {
+          "stop_sequence": 10,
+          "stop_id": "1819",
+          "stop_name": "KROMERA",
+          "arrival_time": "26:48:00",
+          "departure_time": "26:48:00",
+          "lat": 51.13164737,
+          "lon": 17.06263024
+        },
+        {
+          "stop_sequence": 11,
+          "stop_id": "1305",
+          "stop_name": "Mosty Warszawskie",
+          "arrival_time": "26:49:00",
+          "departure_time": "26:49:00",
+          "lat": 51.12838294,
+          "lon": 17.0538428
+        },
+        {
+          "stop_sequence": 12,
+          "stop_id": "1315",
+          "stop_name": "Daszyńskiego",
+          "arrival_time": "26:50:00",
+          "departure_time": "26:50:00",
+          "lat": 51.12674068,
+          "lon": 17.04844659
+        },
+        {
+          "stop_sequence": 13,
+          "stop_id": "1312",
+          "stop_name": "Nowowiejska",
+          "arrival_time": "26:51:00",
+          "departure_time": "26:51:00",
+          "lat": 51.12423914,
+          "lon": 17.0448911
+        },
+        {
+          "stop_sequence": 14,
+          "stop_id": "822",
+          "stop_name": "Jedności Narodowej",
+          "arrival_time": "26:52:00",
+          "departure_time": "26:52:00",
+          "lat": 51.1215486,
+          "lon": 17.04345675
+        },
+        {
+          "stop_sequence": 15,
+          "stop_id": "823",
+          "stop_name": "Na Szańcach",
+          "arrival_time": "26:53:00",
+          "departure_time": "26:53:00",
+          "lat": 51.11940016,
+          "lon": 17.04201805
+        },
+        {
+          "stop_sequence": 16,
+          "stop_id": "2028",
+          "stop_name": "pl. Bema",
+          "arrival_time": "26:54:00",
+          "departure_time": "26:54:00",
+          "lat": 51.11751343,
+          "lon": 17.04104209
+        },
+        {
+          "stop_sequence": 17,
+          "stop_id": "5765",
+          "stop_name": "Dubois",
+          "arrival_time": "26:56:00",
+          "departure_time": "26:56:00",
+          "lat": 51.11702473,
+          "lon": 17.03380386
+        },
+        {
+          "stop_sequence": 18,
+          "stop_id": "839",
+          "stop_name": "Hala Targowa",
+          "arrival_time": "26:58:00",
+          "departure_time": "26:58:00",
+          "lat": 51.1126015,
+          "lon": 17.03948975
+        },
+        {
+          "stop_sequence": 19,
+          "stop_id": "1330",
+          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "arrival_time": "26:59:00",
+          "departure_time": "26:59:00",
+          "lat": 51.10670852,
+          "lon": 17.03827095
+        },
+        {
+          "stop_sequence": 20,
+          "stop_id": "5389",
+          "stop_name": "Bastion Sakwowy",
+          "arrival_time": "27:00:00",
+          "departure_time": "27:00:00",
+          "lat": 51.10428016,
+          "lon": 17.03740189
+        },
+        {
+          "stop_sequence": 21,
+          "stop_id": "5428",
+          "stop_name": "Dworzec Główny (MDK)",
+          "arrival_time": "27:01:00",
+          "departure_time": "27:01:00",
+          "lat": 51.10072906,
+          "lon": 17.03607078
+        },
+        {
+          "stop_sequence": 22,
+          "stop_id": "3517",
+          "stop_name": "DWORZEC GŁÓWNY",
+          "arrival_time": "27:02:00",
+          "departure_time": "27:02:00",
+          "lat": 51.09962703,
+          "lon": 17.03516167
+        },
+        {
+          "stop_sequence": 23,
+          "stop_id": "508",
+          "stop_name": "DWORZEC AUTOBUSOWY",
+          "arrival_time": "27:04:00",
+          "departure_time": "27:04:00",
+          "lat": 51.09726779,
+          "lon": 17.03228367
+        },
+        {
+          "stop_sequence": 24,
+          "stop_id": "29",
+          "stop_name": "Dyrekcyjna",
+          "arrival_time": "27:05:00",
+          "departure_time": "27:05:00",
+          "lat": 51.09430136,
+          "lon": 17.03222909
+        },
+        {
+          "stop_sequence": 25,
+          "stop_id": "5456",
+          "stop_name": "PETRUSEWICZA",
+          "arrival_time": "27:07:00",
+          "departure_time": "27:07:00",
+          "lat": 51.09213757,
+          "lon": 17.03100544
+        }
+      ]
+    },
+    {
+      "trip_id": "8_16593864",
+      "direction_id": "1",
+      "headsign": "KOWALE",
+      "service_id": "8",
+      "stops": [
+        {
+          "stop_sequence": 0,
+          "stop_id": "5456",
+          "stop_name": "PETRUSEWICZA",
+          "arrival_time": "27:45:00",
+          "departure_time": "27:45:00",
+          "lat": 51.09213757,
+          "lon": 17.03100544
+        },
+        {
+          "stop_sequence": 1,
+          "stop_id": "509",
+          "stop_name": "DWORZEC AUTOBUSOWY",
+          "arrival_time": "27:47:00",
+          "departure_time": "27:47:00",
+          "lat": 51.09657455,
+          "lon": 17.03298047
+        },
+        {
+          "stop_sequence": 2,
+          "stop_id": "3526",
+          "stop_name": "DWORZEC GŁÓWNY",
+          "arrival_time": "27:49:00",
+          "departure_time": "27:49:00",
+          "lat": 51.09969276,
+          "lon": 17.03551983
+        },
+        {
+          "stop_sequence": 3,
+          "stop_id": "5388",
+          "stop_name": "Bastion Sakwowy",
+          "arrival_time": "27:51:00",
+          "departure_time": "27:51:00",
+          "lat": 51.1036847,
+          "lon": 17.03728239
+        },
+        {
+          "stop_sequence": 4,
+          "stop_id": "841",
+          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "arrival_time": "27:53:00",
+          "departure_time": "27:53:00",
+          "lat": 51.10852894,
+          "lon": 17.03870108
+        },
+        {
+          "stop_sequence": 5,
+          "stop_id": "840",
+          "stop_name": "Hala Targowa",
+          "arrival_time": "27:54:00",
+          "departure_time": "27:54:00",
+          "lat": 51.11276951,
+          "lon": 17.03973594
+        },
+        {
+          "stop_sequence": 6,
+          "stop_id": "5766",
+          "stop_name": "Dubois",
+          "arrival_time": "27:56:00",
+          "departure_time": "27:56:00",
+          "lat": 51.11702473,
+          "lon": 17.03380386
+        },
+        {
+          "stop_sequence": 7,
+          "stop_id": "2029",
+          "stop_name": "pl. Bema",
+          "arrival_time": "27:58:00",
+          "departure_time": "27:58:00",
+          "lat": 51.11750259,
+          "lon": 17.04211691
+        },
+        {
+          "stop_sequence": 8,
+          "stop_id": "2116",
+          "stop_name": "Na Szańcach",
+          "arrival_time": "27:58:00",
+          "departure_time": "27:58:00",
+          "lat": 51.11890245,
+          "lon": 17.04204126
+        },
+        {
+          "stop_sequence": 9,
+          "stop_id": "2883",
+          "stop_name": "Jedności Narodowej",
+          "arrival_time": "27:59:00",
+          "departure_time": "27:59:00",
+          "lat": 51.12121224,
+          "lon": 17.04331711
+        },
+        {
+          "stop_sequence": 10,
+          "stop_id": "1313",
+          "stop_name": "Nowowiejska",
+          "arrival_time": "28:01:00",
+          "departure_time": "28:01:00",
+          "lat": 51.12436097,
+          "lon": 17.04513281
+        },
+        {
+          "stop_sequence": 11,
+          "stop_id": "1314",
+          "stop_name": "Daszyńskiego",
+          "arrival_time": "28:02:00",
+          "departure_time": "28:02:00",
+          "lat": 51.12632996,
+          "lon": 17.04766164
+        },
+        {
+          "stop_sequence": 12,
+          "stop_id": "2868",
+          "stop_name": "Mosty Warszawskie",
+          "arrival_time": "28:03:00",
+          "departure_time": "28:03:00",
+          "lat": 51.12863463,
+          "lon": 17.05609761
+        },
+        {
+          "stop_sequence": 13,
+          "stop_id": "1248",
+          "stop_name": "KROMERA",
+          "arrival_time": "28:05:00",
+          "departure_time": "28:05:00",
+          "lat": 51.13222406,
+          "lon": 17.06514893
+        },
+        {
+          "stop_sequence": 14,
+          "stop_id": "3461",
+          "stop_name": "Kromera (Czajkowskiego)",
+          "arrival_time": "28:06:00",
+          "departure_time": "28:06:00",
+          "lat": 51.13631426,
+          "lon": 17.07044445
+        },
+        {
+          "stop_sequence": 15,
+          "stop_id": "2594",
+          "stop_name": "Grudziądzka",
+          "arrival_time": "28:07:00",
+          "departure_time": "28:07:00",
+          "lat": 51.13794927,
+          "lon": 17.07506203
+        },
+        {
+          "stop_sequence": 16,
+          "stop_id": "1188",
+          "stop_name": "Brücknera",
+          "arrival_time": "28:08:00",
+          "departure_time": "28:08:00",
+          "lat": 51.13916827,
+          "lon": 17.08080603
+        },
+        {
+          "stop_sequence": 17,
+          "stop_id": "3766",
+          "stop_name": "Olsztyńska",
+          "arrival_time": "28:10:00",
+          "departure_time": "28:10:00",
+          "lat": 51.14044697,
+          "lon": 17.09408707
+        },
+        {
+          "stop_sequence": 18,
+          "stop_id": "4020",
+          "stop_name": "Kowalska 56",
+          "arrival_time": "28:11:00",
+          "departure_time": "28:11:00",
+          "lat": 51.13602378,
+          "lon": 17.09761647
+        },
+        {
+          "stop_sequence": 19,
+          "stop_id": "934",
+          "stop_name": "Kowale (Stacja kolejowa)",
+          "arrival_time": "28:12:00",
+          "departure_time": "28:12:00",
+          "lat": 51.13393676,
+          "lon": 17.10221243
+        },
+        {
+          "stop_sequence": 20,
+          "stop_id": "1028",
+          "stop_name": "Działdowska",
+          "arrival_time": "28:13:00",
+          "departure_time": "28:13:00",
+          "lat": 51.13317159,
+          "lon": 17.10543835
+        },
+        {
+          "stop_sequence": 21,
+          "stop_id": "3239",
+          "stop_name": "KOWALE",
+          "arrival_time": "28:14:00",
+          "departure_time": "28:14:00",
+          "lat": 51.12895888,
+          "lon": 17.10165474
+        },
+        {
+          "stop_sequence": 22,
+          "stop_id": "5430",
+          "stop_name": "KOWALE",
+          "arrival_time": "28:14:00",
+          "departure_time": "28:14:00",
+          "lat": 51.12796058,
+          "lon": 17.10253432
+        }
+      ]
+    },
+    {
+      "trip_id": "8_16593865",
+      "direction_id": "0",
+      "headsign": "Zajezdnia OBORNICKA",
+      "service_id": "8",
+      "stops": [
+        {
+          "stop_sequence": 0,
+          "stop_id": "5430",
+          "stop_name": "KOWALE",
+          "arrival_time": "28:19:00",
+          "departure_time": "28:19:00",
+          "lat": 51.12796058,
+          "lon": 17.10253432
+        },
+        {
+          "stop_sequence": 1,
+          "stop_id": "3240",
+          "stop_name": "KOWALE",
+          "arrival_time": "28:19:00",
+          "departure_time": "28:19:00",
+          "lat": 51.12896333,
+          "lon": 17.1018384
+        },
+        {
+          "stop_sequence": 2,
+          "stop_id": "1027",
+          "stop_name": "Działdowska",
+          "arrival_time": "28:20:00",
+          "departure_time": "28:20:00",
+          "lat": 51.13315884,
+          "lon": 17.10579419
+        },
+        {
+          "stop_sequence": 3,
+          "stop_id": "935",
+          "stop_name": "Kowale (Stacja kolejowa)",
+          "arrival_time": "28:21:00",
+          "departure_time": "28:21:00",
+          "lat": 51.13416856,
+          "lon": 17.1016776
+        },
+        {
+          "stop_sequence": 4,
+          "stop_id": "3225",
+          "stop_name": "Kowalska 56",
+          "arrival_time": "28:22:00",
+          "departure_time": "28:22:00",
+          "lat": 51.13647537,
+          "lon": 17.09740219
+        },
+        {
+          "stop_sequence": 5,
+          "stop_id": "2748",
+          "stop_name": "Olsztyńska",
+          "arrival_time": "28:23:00",
+          "departure_time": "28:23:00",
+          "lat": 51.13938597,
+          "lon": 17.0951032
+        },
+        {
+          "stop_sequence": 6,
+          "stop_id": "707",
+          "stop_name": "C.H. Korona",
+          "arrival_time": "28:24:00",
+          "departure_time": "28:24:00",
+          "lat": 51.14110423,
+          "lon": 17.08765021
+        },
+        {
+          "stop_sequence": 7,
+          "stop_id": "612",
+          "stop_name": "Brücknera",
+          "arrival_time": "28:25:00",
+          "departure_time": "28:25:00",
+          "lat": 51.13951485,
+          "lon": 17.08107914
+        },
+        {
+          "stop_sequence": 8,
+          "stop_id": "611",
+          "stop_name": "Grudziądzka",
+          "arrival_time": "28:26:00",
+          "departure_time": "28:26:00",
+          "lat": 51.13788049,
+          "lon": 17.07363454
+        },
+        {
+          "stop_sequence": 9,
+          "stop_id": "3460",
+          "stop_name": "Kromera (Czajkowskiego)",
+          "arrival_time": "28:27:00",
+          "departure_time": "28:27:00",
+          "lat": 51.13557581,
+          "lon": 17.06907505
+        },
+        {
+          "stop_sequence": 10,
+          "stop_id": "613",
+          "stop_name": "KROMERA",
+          "arrival_time": "28:28:00",
+          "departure_time": "28:28:00",
+          "lat": 51.13237794,
+          "lon": 17.06301095
+        },
+        {
+          "stop_sequence": 11,
+          "stop_id": "624",
+          "stop_name": "Berenta",
+          "arrival_time": "28:29:00",
+          "departure_time": "28:29:00",
+          "lat": 51.1349714,
+          "lon": 17.05777339
+        },
+        {
+          "stop_sequence": 12,
+          "stop_id": "623",
+          "stop_name": "Kasprowicza",
+          "arrival_time": "28:30:00",
+          "departure_time": "28:30:00",
+          "lat": 51.13744108,
+          "lon": 17.05290682
+        },
+        {
+          "stop_sequence": 13,
+          "stop_id": "4714",
+          "stop_name": "Syrokomli",
+          "arrival_time": "28:31:00",
+          "departure_time": "28:31:00",
+          "lat": 51.137273,
+          "lon": 17.047925
+        },
+        {
+          "stop_sequence": 14,
+          "stop_id": "626",
+          "stop_name": "Pola",
+          "arrival_time": "28:32:00",
+          "departure_time": "28:32:00",
+          "lat": 51.13671695,
+          "lon": 17.04317468
+        },
+        {
+          "stop_sequence": 15,
+          "stop_id": "637",
+          "stop_name": "Broniewskiego",
+          "arrival_time": "28:33:00",
+          "departure_time": "28:33:00",
+          "lat": 51.13590436,
+          "lon": 17.03532722
+        },
+        {
+          "stop_sequence": 16,
+          "stop_id": "644",
+          "stop_name": "Bałtycka",
+          "arrival_time": "28:35:00",
+          "departure_time": "28:35:00",
+          "lat": 51.1382819,
+          "lon": 17.02937414
+        },
+        {
+          "stop_sequence": 17,
+          "stop_id": "1165",
+          "stop_name": "Bezpieczna",
+          "arrival_time": "28:36:00",
+          "departure_time": "28:36:00",
+          "lat": 51.14245937,
+          "lon": 17.02567781
+        },
+        {
+          "stop_sequence": 18,
+          "stop_id": "668",
+          "stop_name": "Paprotna",
+          "arrival_time": "28:37:00",
+          "departure_time": "28:37:00",
+          "lat": 51.14818098,
+          "lon": 17.02062686
+        },
+        {
+          "stop_sequence": 19,
+          "stop_id": "5583",
+          "stop_name": "Zajezdnia OBORNICKA",
+          "arrival_time": "28:38:00",
+          "departure_time": "28:38:00",
+          "lat": 51.14873744,
+          "lon": 17.02106859
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,2921 @@
+{
+  "line": "948",
+  "trips": [
+    {
+      "trip_id": "6_16464148",
+      "direction_id": "1",
+      "headsign": "Miękinia - pętla",
+      "service_id": "6",
+      "stops": [
+        {
+          "stop_sequence": 0,
+          "stop_id": "4201",
+          "stop_name": "LEŚNICA",
+          "arrival_time": "06:10:00",
+          "departure_time": "06:10:00",
+          "lat": 51.14467373,
+          "lon": 16.87155482
+        },
+        {
+          "stop_sequence": 1,
+          "stop_id": "5608",
+          "stop_name": "Rubczaka (Stacja kolejowa)",
+          "arrival_time": "06:12:00",
+          "departure_time": "06:12:00",
+          "lat": 51.14330576,
+          "lon": 16.86637818
+        },
+        {
+          "stop_sequence": 2,
+          "stop_id": "3056",
+          "stop_name": "Rubczaka",
+          "arrival_time": "06:13:00",
+          "departure_time": "06:13:00",
+          "lat": 51.14419429,
+          "lon": 16.86596484
+        },
+        {
+          "stop_sequence": 3,
+          "stop_id": "142",
+          "stop_name": "Średzka",
+          "arrival_time": "06:14:00",
+          "departure_time": "06:14:00",
+          "lat": 51.14535622,
+          "lon": 16.86660794
+        },
+        {
+          "stop_sequence": 4,
+          "stop_id": "3889",
+          "stop_name": "Leśnica - Hermes",
+          "arrival_time": "06:16:00",
+          "departure_time": "06:16:00",
+          "lat": 51.14609505,
+          "lon": 16.86569237
+        },
+        {
+          "stop_sequence": 5,
+          "stop_id": "65",
+          "stop_name": "Mokrzańska",
+          "arrival_time": "06:17:00",
+          "departure_time": "06:17:00",
+          "lat": 51.14754299,
+          "lon": 16.85312245
+        },
+        {
+          "stop_sequence": 6,
+          "stop_id": "895",
+          "stop_name": "ŻAR",
+          "arrival_time": "06:19:00",
+          "departure_time": "06:19:00",
+          "lat": 51.149837,
+          "lon": 16.834517
+        },
+        {
+          "stop_sequence": 7,
+          "stop_id": "3939",
+          "stop_name": "Krępice",
+          "arrival_time": "06:21:00",
+          "departure_time": "06:21:00",
+          "lat": 51.154054,
+          "lon": 16.813043
+        },
+        {
+          "stop_sequence": 8,
+          "stop_id": "3941",
+          "stop_name": "Wróblowice",
+          "arrival_time": "06:23:00",
+          "departure_time": "06:23:00",
+          "lat": 51.158256,
+          "lon": 16.781077
+        },
+        {
+          "stop_sequence": 9,
+          "stop_id": "3943",
+          "stop_name": "Błonie",
+          "arrival_time": "06:26:00",
+          "departure_time": "06:26:00",
+          "lat": 51.158725,
+          "lon": 16.74746
+        },
+        {
+          "stop_sequence": 10,
+          "stop_id": "3945",
+          "stop_name": "Źródła",
+          "arrival_time": "06:28:00",
+          "departure_time": "06:28:00",
+          "lat": 51.159913,
+          "lon": 16.722536
+        },
+        {
+          "stop_sequence": 11,
+          "stop_id": "3984",
+          "stop_name": "Kadłub wieś",
+          "arrival_time": "06:31:00",
+          "departure_time": "06:31:00",
+          "lat": 51.17441596,
+          "lon": 16.69663098
+        },
+        {
+          "stop_sequence": 12,
+          "stop_id": "3982",
+          "stop_name": "Kadłub NŻ",
+          "arrival_time": "06:32:00",
+          "departure_time": "06:32:00",
+          "lat": 51.182951,
+          "lon": 16.704586
+        },
+        {
+          "stop_sequence": 13,
+          "stop_id": "3978",
+          "stop_name": "Miękinia Cegielnia",
+          "arrival_time": "06:34:00",
+          "departure_time": "06:34:00",
+          "lat": 51.188315,
+          "lon": 16.724634
+        },
+        {
+          "stop_sequence": 14,
+          "stop_id": "3976",
+          "stop_name": "Miękinia - stacja PKP",
+          "arrival_time": "06:35:00",
+          "departure_time": "06:35:00",
+          "lat": 51.18825506,
+          "lon": 16.7356126
+        },
+        {
+          "stop_sequence": 15,
+          "stop_id": "4016",
+          "stop_name": "Miękinia - pętla",
+          "arrival_time": "06:38:00",
+          "departure_time": "06:38:00",
+          "lat": 51.193844,
+          "lon": 16.739568
+        }
+      ]
+    },
+    {
+      "trip_id": "6_16464149",
+      "direction_id": "0",
+      "headsign": "LEŚNICA",
+      "service_id": "6",
+      "stops": [
+        {
+          "stop_sequence": 0,
+          "stop_id": "4016",
+          "stop_name": "Miękinia - pętla",
+          "arrival_time": "06:40:00",
+          "departure_time": "06:40:00",
+          "lat": 51.193844,
+          "lon": 16.739568
+        },
+        {
+          "stop_sequence": 1,
+          "stop_id": "3977",
+          "stop_name": "Miękinia - stacja PKP",
+          "arrival_time": "06:42:00",
+          "departure_time": "06:42:00",
+          "lat": 51.18836811,
+          "lon": 16.73578439
+        },
+        {
+          "stop_sequence": 2,
+          "stop_id": "3979",
+          "stop_name": "Miękinia Cegielnia",
+          "arrival_time": "06:43:00",
+          "departure_time": "06:43:00",
+          "lat": 51.188244,
+          "lon": 16.724656
+        },
+        {
+          "stop_sequence": 3,
+          "stop_id": "3983",
+          "stop_name": "Kadłub NŻ",
+          "arrival_time": "06:45:00",
+          "departure_time": "06:45:00",
+          "lat": 51.183051,
+          "lon": 16.704534
+        },
+        {
+          "stop_sequence": 4,
+          "stop_id": "3985",
+          "stop_name": "Kadłub wieś",
+          "arrival_time": "06:47:00",
+          "departure_time": "06:47:00",
+          "lat": 51.17472201,
+          "lon": 16.69679848
+        },
+        {
+          "stop_sequence": 5,
+          "stop_id": "3944",
+          "stop_name": "Źródła",
+          "arrival_time": "06:52:00",
+          "departure_time": "06:52:00",
+          "lat": 51.159681,
+          "lon": 16.724852
+        },
+        {
+          "stop_sequence": 6,
+          "stop_id": "4012",
+          "stop_name": "Błonie",
+          "arrival_time": "06:54:00",
+          "departure_time": "06:54:00",
+          "lat": 51.1586335,
+          "lon": 16.74980569
+        },
+        {
+          "stop_sequence": 7,
+          "stop_id": "3940",
+          "stop_name": "Wróblowice",
+          "arrival_time": "06:58:00",
+          "departure_time": "06:58:00",
+          "lat": 51.158314,
+          "lon": 16.785521
+        },
+        {
+          "stop_sequence": 8,
+          "stop_id": "3433",
+          "stop_name": "Krępice",
+          "arrival_time": "07:00:00",
+          "departure_time": "07:00:00",
+          "lat": 51.153186,
+          "lon": 16.816681
+        },
+        {
+          "stop_sequence": 9,
+          "stop_id": "992",
+          "stop_name": "ŻAR",
+          "arrival_time": "07:03:00",
+          "departure_time": "07:03:00",
+          "lat": 51.14969912,
+          "lon": 16.83453677
+        },
+        {
+          "stop_sequence": 10,
+          "stop_id": "64",
+          "stop_name": "Mokrzańska",
+          "arrival_time": "07:06:00",
+          "departure_time": "07:06:00",
+          "lat": 51.14730949,
+          "lon": 16.85418764
+        },
+        {
+          "stop_sequence": 11,
+          "stop_id": "3888",
+          "stop_name": "Leśnica - Hermes",
+          "arrival_time": "07:08:00",
+          "departure_time": "07:08:00",
+          "lat": 51.14587115,
+          "lon": 16.8663056
+        },
+        {
+          "stop_sequence": 12,
+          "stop_id": "143",
+          "stop_name": "Średzka",
+          "arrival_time": "07:09:00",
+          "departure_time": "07:09:00",
+          "lat": 51.14528565,
+          "lon": 16.86634894
+        },
+        {
+          "stop_sequence": 13,
+          "stop_id": "3057",
+          "stop_name": "Rubczaka",
+          "arrival_time": "07:10:00",
+          "departure_time": "07:10:00",
+          "lat": 51.14407174,
+          "lon": 16.86611126
+        },
+        {
+          "stop_sequence": 14,
+          "stop_id": "5609",
+          "stop_name": "Rubczaka (Stacja kolejowa)",
+          "arrival_time": "07:11:00",
+          "departure_time": "07:11:00",
+          "lat": 51.14303097,
+          "lon": 16.86689897
+        },
+        {
+          "stop_sequence": 15,
+          "stop_id": "4201",
+          "stop_name": "LEŚNICA",
+          "arrival_time": "07:12:00",
+          "departure_time": "07:12:00",
+          "lat": 51.14467373,
+          "lon": 16.87155482
+        }
+      ]
+    },
+    {
+      "trip_id": "6_16464164",
+      "direction_id": "1",
+      "headsign": "Miękinia - pętla",
+      "service_id": "6",
+      "stops": [
+        {
+          "stop_sequence": 0,
+          "stop_id": "4201",
+          "stop_name": "LEŚNICA",
+          "arrival_time": "16:20:00",
+          "departure_time": "16:20:00",
+          "lat": 51.14467373,
+          "lon": 16.87155482
+        },
+        {
+          "stop_sequence": 1,
+          "stop_id": "5608",
+          "stop_name": "Rubczaka (Stacja kolejowa)",
+          "arrival_time": "16:22:00",
+          "departure_time": "16:22:00",
+          "lat": 51.14330576,
+          "lon": 16.86637818
+        },
+        {
+          "stop_sequence": 2,
+          "stop_id": "3056",
+          "stop_name": "Rubczaka",
+          "arrival_time": "16:23:00",
+          "departure_time": "16:23:00",
+          "lat": 51.14419429,
+          "lon": 16.86596484
+        },
+        {
+          "stop_sequence": 3,
+          "stop_id": "142",
+          "stop_name": "Średzka",
+          "arrival_time": "16:24:00",
+          "departure_time": "16:24:00",
+          "lat": 51.14535622,
+          "lon": 16.86660794
+        },
+        {
+          "stop_sequence": 4,
+          "stop_id": "5403",
+          "stop_name": "Eluarda",
+          "arrival_time": "16:26:00",
+          "departure_time": "16:26:00",
+          "lat": 51.146228,
+          "lon": 16.86740811
+        },
+        {
+          "stop_sequence": 5,
+          "stop_id": "1780",
+          "stop_name": "Zajazdowa",
+          "arrival_time": "16:27:00",
+          "departure_time": "16:27:00",
+          "lat": 51.14809482,
+          "lon": 16.86536551
+        },
+        {
+          "stop_sequence": 6,
+          "stop_id": "2251",
+          "stop_name": "Krępicka - szkoła",
+          "arrival_time": "16:29:00",
+          "departure_time": "16:29:00",
+          "lat": 51.15019491,
+          "lon": 16.8600396
+        },
+        {
+          "stop_sequence": 7,
+          "stop_id": "1778",
+          "stop_name": "Krępicka",
+          "arrival_time": "16:30:00",
+          "departure_time": "16:30:00",
+          "lat": 51.15138318,
+          "lon": 16.85618358
+        },
+        {
+          "stop_sequence": 8,
+          "stop_id": "1779",
+          "stop_name": "Krępicka",
+          "arrival_time": "16:31:00",
+          "departure_time": "16:31:00",
+          "lat": 51.15051245,
+          "lon": 16.85525774
+        },
+        {
+          "stop_sequence": 9,
+          "stop_id": "65",
+          "stop_name": "Mokrzańska",
+          "arrival_time": "16:32:00",
+          "departure_time": "16:32:00",
+          "lat": 51.14754299,
+          "lon": 16.85312245
+        },
+        {
+          "stop_sequence": 10,
+          "stop_id": "895",
+          "stop_name": "ŻAR",
+          "arrival_time": "16:34:00",
+          "departure_time": "16:34:00",
+          "lat": 51.149837,
+          "lon": 16.834517
+        },
+        {
+          "stop_sequence": 11,
+          "stop_id": "3939",
+          "stop_name": "Krępice",
+          "arrival_time": "16:36:00",
+          "departure_time": "16:36:00",
+          "lat": 51.154054,
+          "lon": 16.813043
+        },
+        {
+          "stop_sequence": 12,
+          "stop_id": "3941",
+          "stop_name": "Wróblowice",
+          "arrival_time": "16:38:00",
+          "departure_time": "16:38:00",
+          "lat": 51.158256,
+          "lon": 16.781077
+        },
+        {
+          "stop_sequence": 13,
+          "stop_id": "3943",
+          "stop_name": "Błonie",
+          "arrival_time": "16:41:00",
+          "departure_time": "16:41:00",
+          "lat": 51.158725,
+          "lon": 16.74746
+        },
+        {
+          "stop_sequence": 14,
+          "stop_id": "3945",
+          "stop_name": "Źródła",
+          "arrival_time": "16:43:00",
+          "departure_time": "16:43:00",
+          "lat": 51.159913,
+          "lon": 16.722536
+        },
+        {
+          "stop_sequence": 15,
+          "stop_id": "3984",
+          "stop_name": "Kadłub wieś",
+          "arrival_time": "16:46:00",
+          "departure_time": "16:46:00",
+          "lat": 51.17441596,
+          "lon": 16.69663098
+        },
+        {
+          "stop_sequence": 16,
+          "stop_id": "3982",
+          "stop_name": "Kadłub NŻ",
+          "arrival_time": "16:47:00",
+          "departure_time": "16:47:00",
+          "lat": 51.182951,
+          "lon": 16.704586
+        },
+        {
+          "stop_sequence": 17,
+          "stop_id": "3978",
+          "stop_name": "Miękinia Cegielnia",
+          "arrival_time": "16:49:00",
+          "departure_time": "16:49:00",
+          "lat": 51.188315,
+          "lon": 16.724634
+        },
+        {
+          "stop_sequence": 18,
+          "stop_id": "3976",
+          "stop_name": "Miękinia - stacja PKP",
+          "arrival_time": "16:50:00",
+          "departure_time": "16:50:00",
+          "lat": 51.18825506,
+          "lon": 16.7356126
+        },
+        {
+          "stop_sequence": 19,
+          "stop_id": "4016",
+          "stop_name": "Miękinia - pętla",
+          "arrival_time": "16:53:00",
+          "departure_time": "16:53:00",
+          "lat": 51.193844,
+          "lon": 16.739568
+        }
+      ]
+    },
+    {
+      "trip_id": "6_16464165",
+      "direction_id": "0",
+      "headsign": "LEŚNICA",
+      "service_id": "6",
+      "stops": [
+        {
+          "stop_sequence": 0,
+          "stop_id": "4016",
+          "stop_name": "Miękinia - pętla",
+          "arrival_time": "17:12:00",
+          "departure_time": "17:12:00",
+          "lat": 51.193844,
+          "lon": 16.739568
+        },
+        {
+          "stop_sequence": 1,
+          "stop_id": "3977",
+          "stop_name": "Miękinia - stacja PKP",
+          "arrival_time": "17:14:00",
+          "departure_time": "17:14:00",
+          "lat": 51.18836811,
+          "lon": 16.73578439
+        },
+        {
+          "stop_sequence": 2,
+          "stop_id": "3979",
+          "stop_name": "Miękinia Cegielnia",
+          "arrival_time": "17:15:00",
+          "departure_time": "17:15:00",
+          "lat": 51.188244,
+          "lon": 16.724656
+        },
+        {
+          "stop_sequence": 3,
+          "stop_id": "3983",
+          "stop_name": "Kadłub NŻ",
+          "arrival_time": "17:17:00",
+          "departure_time": "17:17:00",
+          "lat": 51.183051,
+          "lon": 16.704534
+        },
+        {
+          "stop_sequence": 4,
+          "stop_id": "3985",
+          "stop_name": "Kadłub wieś",
+          "arrival_time": "17:19:00",
+          "departure_time": "17:19:00",
+          "lat": 51.17472201,
+          "lon": 16.69679848
+        },
+        {
+          "stop_sequence": 5,
+          "stop_id": "3944",
+          "stop_name": "Źródła",
+          "arrival_time": "17:23:00",
+          "departure_time": "17:23:00",
+          "lat": 51.159681,
+          "lon": 16.724852
+        },
+        {
+          "stop_sequence": 6,
+          "stop_id": "4012",
+          "stop_name": "Błonie",
+          "arrival_time": "17:25:00",
+          "departure_time": "17:25:00",
+          "lat": 51.1586335,
+          "lon": 16.74980569
+        },
+        {
+          "stop_sequence": 7,
+          "stop_id": "3940",
+          "stop_name": "Wróblowice",
+          "arrival_time": "17:29:00",
+          "departure_time": "17:29:00",
+          "lat": 51.158314,
+          "lon": 16.785521
+        },
+        {
+          "stop_sequence": 8,
+          "stop_id": "3433",
+          "stop_name": "Krępice",
+          "arrival_time": "17:31:00",
+          "departure_time": "17:31:00",
+          "lat": 51.153186,
+          "lon": 16.816681
+        },
+        {
+          "stop_sequence": 9,
+          "stop_id": "992",
+          "stop_name": "ŻAR",
+          "arrival_time": "17:34:00",
+          "departure_time": "17:34:00",
+          "lat": 51.14969912,
+          "lon": 16.83453677
+        },
+        {
+          "stop_sequence": 10,
+          "stop_id": "1776",
+          "stop_name": "Mokrzańska",
+          "arrival_time": "17:37:00",
+          "departure_time": "17:37:00",
+          "lat": 51.14920934,
+          "lon": 16.85466784
+        },
+        {
+          "stop_sequence": 11,
+          "stop_id": "1777",
+          "stop_name": "Krępicka",
+          "arrival_time": "17:38:00",
+          "departure_time": "17:38:00",
+          "lat": 51.1512331,
+          "lon": 16.85637445
+        },
+        {
+          "stop_sequence": 12,
+          "stop_id": "1015",
+          "stop_name": "Krępicka - szkoła",
+          "arrival_time": "17:39:00",
+          "departure_time": "17:39:00",
+          "lat": 51.15001334,
+          "lon": 16.86044907
+        },
+        {
+          "stop_sequence": 13,
+          "stop_id": "1781",
+          "stop_name": "Zajazdowa",
+          "arrival_time": "17:41:00",
+          "departure_time": "17:41:00",
+          "lat": 51.14783871,
+          "lon": 16.86561159
+        },
+        {
+          "stop_sequence": 14,
+          "stop_id": "5404",
+          "stop_name": "Eluarda",
+          "arrival_time": "17:42:00",
+          "departure_time": "17:42:00",
+          "lat": 51.146501,
+          "lon": 16.867291
+        },
+        {
+          "stop_sequence": 15,
+          "stop_id": "143",
+          "stop_name": "Średzka",
+          "arrival_time": "17:44:00",
+          "departure_time": "17:44:00",
+          "lat": 51.14528565,
+          "lon": 16.86634894
+        },
+        {
+          "stop_sequence": 16,
+          "stop_id": "3057",
+          "stop_name": "Rubczaka",
+          "arrival_time": "17:45:00",
+          "departure_time": "17:45:00",
+          "lat": 51.14407174,
+          "lon": 16.86611126
+        },
+        {
+          "stop_sequence": 17,
+          "stop_id": "5609",
+          "stop_name": "Rubczaka (Stacja kolejowa)",
+          "arrival_time": "17:46:00",
+          "departure_time": "17:46:00",
+          "lat": 51.14303097,
+          "lon": 16.86689897
+        },
+        {
+          "stop_sequence": 18,
+          "stop_id": "4144",
+          "stop_name": "LEŚNICA",
+          "arrival_time": "17:47:00",
+          "departure_time": "17:47:00",
+          "lat": 51.14486208,
+          "lon": 16.87195907
+        }
+      ]
+    },
+    {
+      "trip_id": "6_16464299",
+      "direction_id": "1",
+      "headsign": "Miękinia - pętla",
+      "service_id": "6",
+      "stops": [
+        {
+          "stop_sequence": 0,
+          "stop_id": "4201",
+          "stop_name": "LEŚNICA",
+          "arrival_time": "14:20:00",
+          "departure_time": "14:20:00",
+          "lat": 51.14467373,
+          "lon": 16.87155482
+        },
+        {
+          "stop_sequence": 1,
+          "stop_id": "5608",
+          "stop_name": "Rubczaka (Stacja kolejowa)",
+          "arrival_time": "14:22:00",
+          "departure_time": "14:22:00",
+          "lat": 51.14330576,
+          "lon": 16.86637818
+        },
+        {
+          "stop_sequence": 2,
+          "stop_id": "3056",
+          "stop_name": "Rubczaka",
+          "arrival_time": "14:23:00",
+          "departure_time": "14:23:00",
+          "lat": 51.14419429,
+          "lon": 16.86596484
+        },
+        {
+          "stop_sequence": 3,
+          "stop_id": "142",
+          "stop_name": "Średzka",
+          "arrival_time": "14:24:00",
+          "departure_time": "14:24:00",
+          "lat": 51.14535622,
+          "lon": 16.86660794
+        },
+        {
+          "stop_sequence": 4,
+          "stop_id": "3889",
+          "stop_name": "Leśnica - Hermes",
+          "arrival_time": "14:26:00",
+          "departure_time": "14:26:00",
+          "lat": 51.14609505,
+          "lon": 16.86569237
+        },
+        {
+          "stop_sequence": 5,
+          "stop_id": "65",
+          "stop_name": "Mokrzańska",
+          "arrival_time": "14:28:00",
+          "departure_time": "14:28:00",
+          "lat": 51.14754299,
+          "lon": 16.85312245
+        },
+        {
+          "stop_sequence": 6,
+          "stop_id": "895",
+          "stop_name": "ŻAR",
+          "arrival_time": "14:30:00",
+          "departure_time": "14:30:00",
+          "lat": 51.149837,
+          "lon": 16.834517
+        },
+        {
+          "stop_sequence": 7,
+          "stop_id": "3939",
+          "stop_name": "Krępice",
+          "arrival_time": "14:32:00",
+          "departure_time": "14:32:00",
+          "lat": 51.154054,
+          "lon": 16.813043
+        },
+        {
+          "stop_sequence": 8,
+          "stop_id": "3941",
+          "stop_name": "Wróblowice",
+          "arrival_time": "14:34:00",
+          "departure_time": "14:34:00",
+          "lat": 51.158256,
+          "lon": 16.781077
+        },
+        {
+          "stop_sequence": 9,
+          "stop_id": "3943",
+          "stop_name": "Błonie",
+          "arrival_time": "14:37:00",
+          "departure_time": "14:37:00",
+          "lat": 51.158725,
+          "lon": 16.74746
+        },
+        {
+          "stop_sequence": 10,
+          "stop_id": "3945",
+          "stop_name": "Źródła",
+          "arrival_time": "14:39:00",
+          "departure_time": "14:39:00",
+          "lat": 51.159913,
+          "lon": 16.722536
+        },
+        {
+          "stop_sequence": 11,
+          "stop_id": "3984",
+          "stop_name": "Kadłub wieś",
+          "arrival_time": "14:42:00",
+          "departure_time": "14:42:00",
+          "lat": 51.17441596,
+          "lon": 16.69663098
+        },
+        {
+          "stop_sequence": 12,
+          "stop_id": "3982",
+          "stop_name": "Kadłub NŻ",
+          "arrival_time": "14:43:00",
+          "departure_time": "14:43:00",
+          "lat": 51.182951,
+          "lon": 16.704586
+        },
+        {
+          "stop_sequence": 13,
+          "stop_id": "3978",
+          "stop_name": "Miękinia Cegielnia",
+          "arrival_time": "14:45:00",
+          "departure_time": "14:45:00",
+          "lat": 51.188315,
+          "lon": 16.724634
+        },
+        {
+          "stop_sequence": 14,
+          "stop_id": "3976",
+          "stop_name": "Miękinia - stacja PKP",
+          "arrival_time": "14:46:00",
+          "departure_time": "14:46:00",
+          "lat": 51.18825506,
+          "lon": 16.7356126
+        },
+        {
+          "stop_sequence": 15,
+          "stop_id": "4016",
+          "stop_name": "Miękinia - pętla",
+          "arrival_time": "14:49:00",
+          "departure_time": "14:49:00",
+          "lat": 51.193844,
+          "lon": 16.739568
+        }
+      ]
+    },
+    {
+      "trip_id": "6_16464300",
+      "direction_id": "0",
+      "headsign": "LEŚNICA",
+      "service_id": "6",
+      "stops": [
+        {
+          "stop_sequence": 0,
+          "stop_id": "4016",
+          "stop_name": "Miękinia - pętla",
+          "arrival_time": "15:04:00",
+          "departure_time": "15:04:00",
+          "lat": 51.193844,
+          "lon": 16.739568
+        },
+        {
+          "stop_sequence": 1,
+          "stop_id": "3977",
+          "stop_name": "Miękinia - stacja PKP",
+          "arrival_time": "15:06:00",
+          "departure_time": "15:06:00",
+          "lat": 51.18836811,
+          "lon": 16.73578439
+        },
+        {
+          "stop_sequence": 2,
+          "stop_id": "3979",
+          "stop_name": "Miękinia Cegielnia",
+          "arrival_time": "15:07:00",
+          "departure_time": "15:07:00",
+          "lat": 51.188244,
+          "lon": 16.724656
+        },
+        {
+          "stop_sequence": 3,
+          "stop_id": "3983",
+          "stop_name": "Kadłub NŻ",
+          "arrival_time": "15:09:00",
+          "departure_time": "15:09:00",
+          "lat": 51.183051,
+          "lon": 16.704534
+        },
+        {
+          "stop_sequence": 4,
+          "stop_id": "3985",
+          "stop_name": "Kadłub wieś",
+          "arrival_time": "15:11:00",
+          "departure_time": "15:11:00",
+          "lat": 51.17472201,
+          "lon": 16.69679848
+        },
+        {
+          "stop_sequence": 5,
+          "stop_id": "3944",
+          "stop_name": "Źródła",
+          "arrival_time": "15:15:00",
+          "departure_time": "15:15:00",
+          "lat": 51.159681,
+          "lon": 16.724852
+        },
+        {
+          "stop_sequence": 6,
+          "stop_id": "4012",
+          "stop_name": "Błonie",
+          "arrival_time": "15:17:00",
+          "departure_time": "15:17:00",
+          "lat": 51.1586335,
+          "lon": 16.74980569
+        },
+        {
+          "stop_sequence": 7,
+          "stop_id": "3940",
+          "stop_name": "Wróblowice",
+          "arrival_time": "15:21:00",
+          "departure_time": "15:21:00",
+          "lat": 51.158314,
+          "lon": 16.785521
+        },
+        {
+          "stop_sequence": 8,
+          "stop_id": "3433",
+          "stop_name": "Krępice",
+          "arrival_time": "15:23:00",
+          "departure_time": "15:23:00",
+          "lat": 51.153186,
+          "lon": 16.816681
+        },
+        {
+          "stop_sequence": 9,
+          "stop_id": "992",
+          "stop_name": "ŻAR",
+          "arrival_time": "15:26:00",
+          "departure_time": "15:26:00",
+          "lat": 51.14969912,
+          "lon": 16.83453677
+        },
+        {
+          "stop_sequence": 10,
+          "stop_id": "64",
+          "stop_name": "Mokrzańska",
+          "arrival_time": "15:29:00",
+          "departure_time": "15:29:00",
+          "lat": 51.14730949,
+          "lon": 16.85418764
+        },
+        {
+          "stop_sequence": 11,
+          "stop_id": "3888",
+          "stop_name": "Leśnica - Hermes",
+          "arrival_time": "15:31:00",
+          "departure_time": "15:31:00",
+          "lat": 51.14587115,
+          "lon": 16.8663056
+        },
+        {
+          "stop_sequence": 12,
+          "stop_id": "143",
+          "stop_name": "Średzka",
+          "arrival_time": "15:32:00",
+          "departure_time": "15:32:00",
+          "lat": 51.14528565,
+          "lon": 16.86634894
+        },
+        {
+          "stop_sequence": 13,
+          "stop_id": "3057",
+          "stop_name": "Rubczaka",
+          "arrival_time": "15:33:00",
+          "departure_time": "15:33:00",
+          "lat": 51.14407174,
+          "lon": 16.86611126
+        },
+        {
+          "stop_sequence": 14,
+          "stop_id": "5609",
+          "stop_name": "Rubczaka (Stacja kolejowa)",
+          "arrival_time": "15:34:00",
+          "departure_time": "15:34:00",
+          "lat": 51.14303097,
+          "lon": 16.86689897
+        },
+        {
+          "stop_sequence": 15,
+          "stop_id": "4201",
+          "stop_name": "LEŚNICA",
+          "arrival_time": "15:35:00",
+          "departure_time": "15:35:00",
+          "lat": 51.14467373,
+          "lon": 16.87155482
+        }
+      ]
+    },
+    {
+      "trip_id": "6_16464315",
+      "direction_id": "0",
+      "headsign": "LEŚNICA",
+      "service_id": "6",
+      "stops": [
+        {
+          "stop_sequence": 0,
+          "stop_id": "4016",
+          "stop_name": "Miękinia - pętla",
+          "arrival_time": "04:57:00",
+          "departure_time": "04:57:00",
+          "lat": 51.193844,
+          "lon": 16.739568
+        },
+        {
+          "stop_sequence": 1,
+          "stop_id": "3977",
+          "stop_name": "Miękinia - stacja PKP",
+          "arrival_time": "04:59:00",
+          "departure_time": "04:59:00",
+          "lat": 51.18836811,
+          "lon": 16.73578439
+        },
+        {
+          "stop_sequence": 2,
+          "stop_id": "3979",
+          "stop_name": "Miękinia Cegielnia",
+          "arrival_time": "05:00:00",
+          "departure_time": "05:00:00",
+          "lat": 51.188244,
+          "lon": 16.724656
+        },
+        {
+          "stop_sequence": 3,
+          "stop_id": "3983",
+          "stop_name": "Kadłub NŻ",
+          "arrival_time": "05:02:00",
+          "departure_time": "05:02:00",
+          "lat": 51.183051,
+          "lon": 16.704534
+        },
+        {
+          "stop_sequence": 4,
+          "stop_id": "3985",
+          "stop_name": "Kadłub wieś",
+          "arrival_time": "05:04:00",
+          "departure_time": "05:04:00",
+          "lat": 51.17472201,
+          "lon": 16.69679848
+        },
+        {
+          "stop_sequence": 5,
+          "stop_id": "3944",
+          "stop_name": "Źródła",
+          "arrival_time": "05:08:00",
+          "departure_time": "05:08:00",
+          "lat": 51.159681,
+          "lon": 16.724852
+        },
+        {
+          "stop_sequence": 6,
+          "stop_id": "4012",
+          "stop_name": "Błonie",
+          "arrival_time": "05:10:00",
+          "departure_time": "05:10:00",
+          "lat": 51.1586335,
+          "lon": 16.74980569
+        },
+        {
+          "stop_sequence": 7,
+          "stop_id": "3940",
+          "stop_name": "Wróblowice",
+          "arrival_time": "05:14:00",
+          "departure_time": "05:14:00",
+          "lat": 51.158314,
+          "lon": 16.785521
+        },
+        {
+          "stop_sequence": 8,
+          "stop_id": "3433",
+          "stop_name": "Krępice",
+          "arrival_time": "05:16:00",
+          "departure_time": "05:16:00",
+          "lat": 51.153186,
+          "lon": 16.816681
+        },
+        {
+          "stop_sequence": 9,
+          "stop_id": "992",
+          "stop_name": "ŻAR",
+          "arrival_time": "05:18:00",
+          "departure_time": "05:18:00",
+          "lat": 51.14969912,
+          "lon": 16.83453677
+        },
+        {
+          "stop_sequence": 10,
+          "stop_id": "64",
+          "stop_name": "Mokrzańska",
+          "arrival_time": "05:20:00",
+          "departure_time": "05:20:00",
+          "lat": 51.14730949,
+          "lon": 16.85418764
+        },
+        {
+          "stop_sequence": 11,
+          "stop_id": "3888",
+          "stop_name": "Leśnica - Hermes",
+          "arrival_time": "05:22:00",
+          "departure_time": "05:22:00",
+          "lat": 51.14587115,
+          "lon": 16.8663056
+        },
+        {
+          "stop_sequence": 12,
+          "stop_id": "143",
+          "stop_name": "Średzka",
+          "arrival_time": "05:23:00",
+          "departure_time": "05:23:00",
+          "lat": 51.14528565,
+          "lon": 16.86634894
+        },
+        {
+          "stop_sequence": 13,
+          "stop_id": "3057",
+          "stop_name": "Rubczaka",
+          "arrival_time": "05:24:00",
+          "departure_time": "05:24:00",
+          "lat": 51.14407174,
+          "lon": 16.86611126
+        },
+        {
+          "stop_sequence": 14,
+          "stop_id": "5609",
+          "stop_name": "Rubczaka (Stacja kolejowa)",
+          "arrival_time": "05:25:00",
+          "departure_time": "05:25:00",
+          "lat": 51.14303097,
+          "lon": 16.86689897
+        },
+        {
+          "stop_sequence": 15,
+          "stop_id": "4201",
+          "stop_name": "LEŚNICA",
+          "arrival_time": "05:26:00",
+          "departure_time": "05:26:00",
+          "lat": 51.14467373,
+          "lon": 16.87155482
+        }
+      ]
+    },
+    {
+      "trip_id": "6_16464450",
+      "direction_id": "1",
+      "headsign": "Miękinia - pętla",
+      "service_id": "6",
+      "stops": [
+        {
+          "stop_sequence": 0,
+          "stop_id": "4201",
+          "stop_name": "LEŚNICA",
+          "arrival_time": "10:25:00",
+          "departure_time": "10:25:00",
+          "lat": 51.14467373,
+          "lon": 16.87155482
+        },
+        {
+          "stop_sequence": 1,
+          "stop_id": "5608",
+          "stop_name": "Rubczaka (Stacja kolejowa)",
+          "arrival_time": "10:27:00",
+          "departure_time": "10:27:00",
+          "lat": 51.14330576,
+          "lon": 16.86637818
+        },
+        {
+          "stop_sequence": 2,
+          "stop_id": "3056",
+          "stop_name": "Rubczaka",
+          "arrival_time": "10:28:00",
+          "departure_time": "10:28:00",
+          "lat": 51.14419429,
+          "lon": 16.86596484
+        },
+        {
+          "stop_sequence": 3,
+          "stop_id": "142",
+          "stop_name": "Średzka",
+          "arrival_time": "10:29:00",
+          "departure_time": "10:29:00",
+          "lat": 51.14535622,
+          "lon": 16.86660794
+        },
+        {
+          "stop_sequence": 4,
+          "stop_id": "3889",
+          "stop_name": "Leśnica - Hermes",
+          "arrival_time": "10:31:00",
+          "departure_time": "10:31:00",
+          "lat": 51.14609505,
+          "lon": 16.86569237
+        },
+        {
+          "stop_sequence": 5,
+          "stop_id": "65",
+          "stop_name": "Mokrzańska",
+          "arrival_time": "10:32:00",
+          "departure_time": "10:32:00",
+          "lat": 51.14754299,
+          "lon": 16.85312245
+        },
+        {
+          "stop_sequence": 6,
+          "stop_id": "895",
+          "stop_name": "ŻAR",
+          "arrival_time": "10:34:00",
+          "departure_time": "10:34:00",
+          "lat": 51.149837,
+          "lon": 16.834517
+        },
+        {
+          "stop_sequence": 7,
+          "stop_id": "3939",
+          "stop_name": "Krępice",
+          "arrival_time": "10:36:00",
+          "departure_time": "10:36:00",
+          "lat": 51.154054,
+          "lon": 16.813043
+        },
+        {
+          "stop_sequence": 8,
+          "stop_id": "3941",
+          "stop_name": "Wróblowice",
+          "arrival_time": "10:38:00",
+          "departure_time": "10:38:00",
+          "lat": 51.158256,
+          "lon": 16.781077
+        },
+        {
+          "stop_sequence": 9,
+          "stop_id": "3943",
+          "stop_name": "Błonie",
+          "arrival_time": "10:41:00",
+          "departure_time": "10:41:00",
+          "lat": 51.158725,
+          "lon": 16.74746
+        },
+        {
+          "stop_sequence": 10,
+          "stop_id": "3945",
+          "stop_name": "Źródła",
+          "arrival_time": "10:43:00",
+          "departure_time": "10:43:00",
+          "lat": 51.159913,
+          "lon": 16.722536
+        },
+        {
+          "stop_sequence": 11,
+          "stop_id": "3984",
+          "stop_name": "Kadłub wieś",
+          "arrival_time": "10:46:00",
+          "departure_time": "10:46:00",
+          "lat": 51.17441596,
+          "lon": 16.69663098
+        },
+        {
+          "stop_sequence": 12,
+          "stop_id": "3982",
+          "stop_name": "Kadłub NŻ",
+          "arrival_time": "10:47:00",
+          "departure_time": "10:47:00",
+          "lat": 51.182951,
+          "lon": 16.704586
+        },
+        {
+          "stop_sequence": 13,
+          "stop_id": "3978",
+          "stop_name": "Miękinia Cegielnia",
+          "arrival_time": "10:49:00",
+          "departure_time": "10:49:00",
+          "lat": 51.188315,
+          "lon": 16.724634
+        },
+        {
+          "stop_sequence": 14,
+          "stop_id": "3976",
+          "stop_name": "Miękinia - stacja PKP",
+          "arrival_time": "10:50:00",
+          "departure_time": "10:50:00",
+          "lat": 51.18825506,
+          "lon": 16.7356126
+        },
+        {
+          "stop_sequence": 15,
+          "stop_id": "4016",
+          "stop_name": "Miękinia - pętla",
+          "arrival_time": "10:53:00",
+          "departure_time": "10:53:00",
+          "lat": 51.193844,
+          "lon": 16.739568
+        }
+      ]
+    },
+    {
+      "trip_id": "6_16464451",
+      "direction_id": "0",
+      "headsign": "LEŚNICA",
+      "service_id": "6",
+      "stops": [
+        {
+          "stop_sequence": 0,
+          "stop_id": "4016",
+          "stop_name": "Miękinia - pętla",
+          "arrival_time": "11:12:00",
+          "departure_time": "11:12:00",
+          "lat": 51.193844,
+          "lon": 16.739568
+        },
+        {
+          "stop_sequence": 1,
+          "stop_id": "3977",
+          "stop_name": "Miękinia - stacja PKP",
+          "arrival_time": "11:14:00",
+          "departure_time": "11:14:00",
+          "lat": 51.18836811,
+          "lon": 16.73578439
+        },
+        {
+          "stop_sequence": 2,
+          "stop_id": "3979",
+          "stop_name": "Miękinia Cegielnia",
+          "arrival_time": "11:15:00",
+          "departure_time": "11:15:00",
+          "lat": 51.188244,
+          "lon": 16.724656
+        },
+        {
+          "stop_sequence": 3,
+          "stop_id": "3983",
+          "stop_name": "Kadłub NŻ",
+          "arrival_time": "11:17:00",
+          "departure_time": "11:17:00",
+          "lat": 51.183051,
+          "lon": 16.704534
+        },
+        {
+          "stop_sequence": 4,
+          "stop_id": "3985",
+          "stop_name": "Kadłub wieś",
+          "arrival_time": "11:19:00",
+          "departure_time": "11:19:00",
+          "lat": 51.17472201,
+          "lon": 16.69679848
+        },
+        {
+          "stop_sequence": 5,
+          "stop_id": "3944",
+          "stop_name": "Źródła",
+          "arrival_time": "11:23:00",
+          "departure_time": "11:23:00",
+          "lat": 51.159681,
+          "lon": 16.724852
+        },
+        {
+          "stop_sequence": 6,
+          "stop_id": "4012",
+          "stop_name": "Błonie",
+          "arrival_time": "11:25:00",
+          "departure_time": "11:25:00",
+          "lat": 51.1586335,
+          "lon": 16.74980569
+        },
+        {
+          "stop_sequence": 7,
+          "stop_id": "3940",
+          "stop_name": "Wróblowice",
+          "arrival_time": "11:29:00",
+          "departure_time": "11:29:00",
+          "lat": 51.158314,
+          "lon": 16.785521
+        },
+        {
+          "stop_sequence": 8,
+          "stop_id": "3433",
+          "stop_name": "Krępice",
+          "arrival_time": "11:31:00",
+          "departure_time": "11:31:00",
+          "lat": 51.153186,
+          "lon": 16.816681
+        },
+        {
+          "stop_sequence": 9,
+          "stop_id": "992",
+          "stop_name": "ŻAR",
+          "arrival_time": "11:34:00",
+          "departure_time": "11:34:00",
+          "lat": 51.14969912,
+          "lon": 16.83453677
+        },
+        {
+          "stop_sequence": 10,
+          "stop_id": "1776",
+          "stop_name": "Mokrzańska",
+          "arrival_time": "11:37:00",
+          "departure_time": "11:37:00",
+          "lat": 51.14920934,
+          "lon": 16.85466784
+        },
+        {
+          "stop_sequence": 11,
+          "stop_id": "1777",
+          "stop_name": "Krępicka",
+          "arrival_time": "11:38:00",
+          "departure_time": "11:38:00",
+          "lat": 51.1512331,
+          "lon": 16.85637445
+        },
+        {
+          "stop_sequence": 12,
+          "stop_id": "1015",
+          "stop_name": "Krępicka - szkoła",
+          "arrival_time": "11:39:00",
+          "departure_time": "11:39:00",
+          "lat": 51.15001334,
+          "lon": 16.86044907
+        },
+        {
+          "stop_sequence": 13,
+          "stop_id": "1781",
+          "stop_name": "Zajazdowa",
+          "arrival_time": "11:41:00",
+          "departure_time": "11:41:00",
+          "lat": 51.14783871,
+          "lon": 16.86561159
+        },
+        {
+          "stop_sequence": 14,
+          "stop_id": "5404",
+          "stop_name": "Eluarda",
+          "arrival_time": "11:42:00",
+          "departure_time": "11:42:00",
+          "lat": 51.146501,
+          "lon": 16.867291
+        },
+        {
+          "stop_sequence": 15,
+          "stop_id": "143",
+          "stop_name": "Średzka",
+          "arrival_time": "11:43:00",
+          "departure_time": "11:43:00",
+          "lat": 51.14528565,
+          "lon": 16.86634894
+        },
+        {
+          "stop_sequence": 16,
+          "stop_id": "3057",
+          "stop_name": "Rubczaka",
+          "arrival_time": "11:44:00",
+          "departure_time": "11:44:00",
+          "lat": 51.14407174,
+          "lon": 16.86611126
+        },
+        {
+          "stop_sequence": 17,
+          "stop_id": "5609",
+          "stop_name": "Rubczaka (Stacja kolejowa)",
+          "arrival_time": "11:45:00",
+          "departure_time": "11:45:00",
+          "lat": 51.14303097,
+          "lon": 16.86689897
+        },
+        {
+          "stop_sequence": 18,
+          "stop_id": "4253",
+          "stop_name": "LEŚNICA",
+          "arrival_time": "11:46:00",
+          "departure_time": "11:46:00",
+          "lat": 51.14478929,
+          "lon": 16.87181353
+        }
+      ]
+    },
+    {
+      "trip_id": "8_16464564",
+      "direction_id": "1",
+      "headsign": "Miękinia - pętla",
+      "service_id": "8",
+      "stops": [
+        {
+          "stop_sequence": 0,
+          "stop_id": "4201",
+          "stop_name": "LEŚNICA",
+          "arrival_time": "06:10:00",
+          "departure_time": "06:10:00",
+          "lat": 51.14467373,
+          "lon": 16.87155482
+        },
+        {
+          "stop_sequence": 1,
+          "stop_id": "5608",
+          "stop_name": "Rubczaka (Stacja kolejowa)",
+          "arrival_time": "06:12:00",
+          "departure_time": "06:12:00",
+          "lat": 51.14330576,
+          "lon": 16.86637818
+        },
+        {
+          "stop_sequence": 2,
+          "stop_id": "3056",
+          "stop_name": "Rubczaka",
+          "arrival_time": "06:13:00",
+          "departure_time": "06:13:00",
+          "lat": 51.14419429,
+          "lon": 16.86596484
+        },
+        {
+          "stop_sequence": 3,
+          "stop_id": "142",
+          "stop_name": "Średzka",
+          "arrival_time": "06:14:00",
+          "departure_time": "06:14:00",
+          "lat": 51.14535622,
+          "lon": 16.86660794
+        },
+        {
+          "stop_sequence": 4,
+          "stop_id": "3889",
+          "stop_name": "Leśnica - Hermes",
+          "arrival_time": "06:16:00",
+          "departure_time": "06:16:00",
+          "lat": 51.14609505,
+          "lon": 16.86569237
+        },
+        {
+          "stop_sequence": 5,
+          "stop_id": "65",
+          "stop_name": "Mokrzańska",
+          "arrival_time": "06:17:00",
+          "departure_time": "06:17:00",
+          "lat": 51.14754299,
+          "lon": 16.85312245
+        },
+        {
+          "stop_sequence": 6,
+          "stop_id": "895",
+          "stop_name": "ŻAR",
+          "arrival_time": "06:19:00",
+          "departure_time": "06:19:00",
+          "lat": 51.149837,
+          "lon": 16.834517
+        },
+        {
+          "stop_sequence": 7,
+          "stop_id": "3939",
+          "stop_name": "Krępice",
+          "arrival_time": "06:21:00",
+          "departure_time": "06:21:00",
+          "lat": 51.154054,
+          "lon": 16.813043
+        },
+        {
+          "stop_sequence": 8,
+          "stop_id": "3941",
+          "stop_name": "Wróblowice",
+          "arrival_time": "06:23:00",
+          "departure_time": "06:23:00",
+          "lat": 51.158256,
+          "lon": 16.781077
+        },
+        {
+          "stop_sequence": 9,
+          "stop_id": "3943",
+          "stop_name": "Błonie",
+          "arrival_time": "06:26:00",
+          "departure_time": "06:26:00",
+          "lat": 51.158725,
+          "lon": 16.74746
+        },
+        {
+          "stop_sequence": 10,
+          "stop_id": "3945",
+          "stop_name": "Źródła",
+          "arrival_time": "06:28:00",
+          "departure_time": "06:28:00",
+          "lat": 51.159913,
+          "lon": 16.722536
+        },
+        {
+          "stop_sequence": 11,
+          "stop_id": "3984",
+          "stop_name": "Kadłub wieś",
+          "arrival_time": "06:31:00",
+          "departure_time": "06:31:00",
+          "lat": 51.17441596,
+          "lon": 16.69663098
+        },
+        {
+          "stop_sequence": 12,
+          "stop_id": "3982",
+          "stop_name": "Kadłub NŻ",
+          "arrival_time": "06:32:00",
+          "departure_time": "06:32:00",
+          "lat": 51.182951,
+          "lon": 16.704586
+        },
+        {
+          "stop_sequence": 13,
+          "stop_id": "3978",
+          "stop_name": "Miękinia Cegielnia",
+          "arrival_time": "06:34:00",
+          "departure_time": "06:34:00",
+          "lat": 51.188315,
+          "lon": 16.724634
+        },
+        {
+          "stop_sequence": 14,
+          "stop_id": "3976",
+          "stop_name": "Miękinia - stacja PKP",
+          "arrival_time": "06:35:00",
+          "departure_time": "06:35:00",
+          "lat": 51.18825506,
+          "lon": 16.7356126
+        },
+        {
+          "stop_sequence": 15,
+          "stop_id": "4016",
+          "stop_name": "Miękinia - pętla",
+          "arrival_time": "06:38:00",
+          "departure_time": "06:38:00",
+          "lat": 51.193844,
+          "lon": 16.739568
+        }
+      ]
+    },
+    {
+      "trip_id": "8_16464565",
+      "direction_id": "0",
+      "headsign": "LEŚNICA",
+      "service_id": "8",
+      "stops": [
+        {
+          "stop_sequence": 0,
+          "stop_id": "4016",
+          "stop_name": "Miękinia - pętla",
+          "arrival_time": "06:40:00",
+          "departure_time": "06:40:00",
+          "lat": 51.193844,
+          "lon": 16.739568
+        },
+        {
+          "stop_sequence": 1,
+          "stop_id": "3977",
+          "stop_name": "Miękinia - stacja PKP",
+          "arrival_time": "06:42:00",
+          "departure_time": "06:42:00",
+          "lat": 51.18836811,
+          "lon": 16.73578439
+        },
+        {
+          "stop_sequence": 2,
+          "stop_id": "3979",
+          "stop_name": "Miękinia Cegielnia",
+          "arrival_time": "06:43:00",
+          "departure_time": "06:43:00",
+          "lat": 51.188244,
+          "lon": 16.724656
+        },
+        {
+          "stop_sequence": 3,
+          "stop_id": "3983",
+          "stop_name": "Kadłub NŻ",
+          "arrival_time": "06:45:00",
+          "departure_time": "06:45:00",
+          "lat": 51.183051,
+          "lon": 16.704534
+        },
+        {
+          "stop_sequence": 4,
+          "stop_id": "3985",
+          "stop_name": "Kadłub wieś",
+          "arrival_time": "06:47:00",
+          "departure_time": "06:47:00",
+          "lat": 51.17472201,
+          "lon": 16.69679848
+        },
+        {
+          "stop_sequence": 5,
+          "stop_id": "3944",
+          "stop_name": "Źródła",
+          "arrival_time": "06:52:00",
+          "departure_time": "06:52:00",
+          "lat": 51.159681,
+          "lon": 16.724852
+        },
+        {
+          "stop_sequence": 6,
+          "stop_id": "4012",
+          "stop_name": "Błonie",
+          "arrival_time": "06:54:00",
+          "departure_time": "06:54:00",
+          "lat": 51.1586335,
+          "lon": 16.74980569
+        },
+        {
+          "stop_sequence": 7,
+          "stop_id": "3940",
+          "stop_name": "Wróblowice",
+          "arrival_time": "06:58:00",
+          "departure_time": "06:58:00",
+          "lat": 51.158314,
+          "lon": 16.785521
+        },
+        {
+          "stop_sequence": 8,
+          "stop_id": "3433",
+          "stop_name": "Krępice",
+          "arrival_time": "07:00:00",
+          "departure_time": "07:00:00",
+          "lat": 51.153186,
+          "lon": 16.816681
+        },
+        {
+          "stop_sequence": 9,
+          "stop_id": "992",
+          "stop_name": "ŻAR",
+          "arrival_time": "07:03:00",
+          "departure_time": "07:03:00",
+          "lat": 51.14969912,
+          "lon": 16.83453677
+        },
+        {
+          "stop_sequence": 10,
+          "stop_id": "64",
+          "stop_name": "Mokrzańska",
+          "arrival_time": "07:06:00",
+          "departure_time": "07:06:00",
+          "lat": 51.14730949,
+          "lon": 16.85418764
+        },
+        {
+          "stop_sequence": 11,
+          "stop_id": "3888",
+          "stop_name": "Leśnica - Hermes",
+          "arrival_time": "07:08:00",
+          "departure_time": "07:08:00",
+          "lat": 51.14587115,
+          "lon": 16.8663056
+        },
+        {
+          "stop_sequence": 12,
+          "stop_id": "143",
+          "stop_name": "Średzka",
+          "arrival_time": "07:09:00",
+          "departure_time": "07:09:00",
+          "lat": 51.14528565,
+          "lon": 16.86634894
+        },
+        {
+          "stop_sequence": 13,
+          "stop_id": "3057",
+          "stop_name": "Rubczaka",
+          "arrival_time": "07:10:00",
+          "departure_time": "07:10:00",
+          "lat": 51.14407174,
+          "lon": 16.86611126
+        },
+        {
+          "stop_sequence": 14,
+          "stop_id": "5609",
+          "stop_name": "Rubczaka (Stacja kolejowa)",
+          "arrival_time": "07:11:00",
+          "departure_time": "07:11:00",
+          "lat": 51.14303097,
+          "lon": 16.86689897
+        },
+        {
+          "stop_sequence": 15,
+          "stop_id": "4201",
+          "stop_name": "LEŚNICA",
+          "arrival_time": "07:12:00",
+          "departure_time": "07:12:00",
+          "lat": 51.14467373,
+          "lon": 16.87155482
+        }
+      ]
+    },
+    {
+      "trip_id": "8_16464580",
+      "direction_id": "1",
+      "headsign": "Miękinia - pętla",
+      "service_id": "8",
+      "stops": [
+        {
+          "stop_sequence": 0,
+          "stop_id": "4201",
+          "stop_name": "LEŚNICA",
+          "arrival_time": "16:20:00",
+          "departure_time": "16:20:00",
+          "lat": 51.14467373,
+          "lon": 16.87155482
+        },
+        {
+          "stop_sequence": 1,
+          "stop_id": "5608",
+          "stop_name": "Rubczaka (Stacja kolejowa)",
+          "arrival_time": "16:22:00",
+          "departure_time": "16:22:00",
+          "lat": 51.14330576,
+          "lon": 16.86637818
+        },
+        {
+          "stop_sequence": 2,
+          "stop_id": "3056",
+          "stop_name": "Rubczaka",
+          "arrival_time": "16:23:00",
+          "departure_time": "16:23:00",
+          "lat": 51.14419429,
+          "lon": 16.86596484
+        },
+        {
+          "stop_sequence": 3,
+          "stop_id": "142",
+          "stop_name": "Średzka",
+          "arrival_time": "16:24:00",
+          "departure_time": "16:24:00",
+          "lat": 51.14535622,
+          "lon": 16.86660794
+        },
+        {
+          "stop_sequence": 4,
+          "stop_id": "5403",
+          "stop_name": "Eluarda",
+          "arrival_time": "16:26:00",
+          "departure_time": "16:26:00",
+          "lat": 51.146228,
+          "lon": 16.86740811
+        },
+        {
+          "stop_sequence": 5,
+          "stop_id": "1780",
+          "stop_name": "Zajazdowa",
+          "arrival_time": "16:27:00",
+          "departure_time": "16:27:00",
+          "lat": 51.14809482,
+          "lon": 16.86536551
+        },
+        {
+          "stop_sequence": 6,
+          "stop_id": "2251",
+          "stop_name": "Krępicka - szkoła",
+          "arrival_time": "16:29:00",
+          "departure_time": "16:29:00",
+          "lat": 51.15019491,
+          "lon": 16.8600396
+        },
+        {
+          "stop_sequence": 7,
+          "stop_id": "1778",
+          "stop_name": "Krępicka",
+          "arrival_time": "16:30:00",
+          "departure_time": "16:30:00",
+          "lat": 51.15138318,
+          "lon": 16.85618358
+        },
+        {
+          "stop_sequence": 8,
+          "stop_id": "1779",
+          "stop_name": "Krępicka",
+          "arrival_time": "16:31:00",
+          "departure_time": "16:31:00",
+          "lat": 51.15051245,
+          "lon": 16.85525774
+        },
+        {
+          "stop_sequence": 9,
+          "stop_id": "65",
+          "stop_name": "Mokrzańska",
+          "arrival_time": "16:32:00",
+          "departure_time": "16:32:00",
+          "lat": 51.14754299,
+          "lon": 16.85312245
+        },
+        {
+          "stop_sequence": 10,
+          "stop_id": "895",
+          "stop_name": "ŻAR",
+          "arrival_time": "16:34:00",
+          "departure_time": "16:34:00",
+          "lat": 51.149837,
+          "lon": 16.834517
+        },
+        {
+          "stop_sequence": 11,
+          "stop_id": "3939",
+          "stop_name": "Krępice",
+          "arrival_time": "16:36:00",
+          "departure_time": "16:36:00",
+          "lat": 51.154054,
+          "lon": 16.813043
+        },
+        {
+          "stop_sequence": 12,
+          "stop_id": "3941",
+          "stop_name": "Wróblowice",
+          "arrival_time": "16:38:00",
+          "departure_time": "16:38:00",
+          "lat": 51.158256,
+          "lon": 16.781077
+        },
+        {
+          "stop_sequence": 13,
+          "stop_id": "3943",
+          "stop_name": "Błonie",
+          "arrival_time": "16:41:00",
+          "departure_time": "16:41:00",
+          "lat": 51.158725,
+          "lon": 16.74746
+        },
+        {
+          "stop_sequence": 14,
+          "stop_id": "3945",
+          "stop_name": "Źródła",
+          "arrival_time": "16:43:00",
+          "departure_time": "16:43:00",
+          "lat": 51.159913,
+          "lon": 16.722536
+        },
+        {
+          "stop_sequence": 15,
+          "stop_id": "3984",
+          "stop_name": "Kadłub wieś",
+          "arrival_time": "16:46:00",
+          "departure_time": "16:46:00",
+          "lat": 51.17441596,
+          "lon": 16.69663098
+        },
+        {
+          "stop_sequence": 16,
+          "stop_id": "3982",
+          "stop_name": "Kadłub NŻ",
+          "arrival_time": "16:47:00",
+          "departure_time": "16:47:00",
+          "lat": 51.182951,
+          "lon": 16.704586
+        },
+        {
+          "stop_sequence": 17,
+          "stop_id": "3978",
+          "stop_name": "Miękinia Cegielnia",
+          "arrival_time": "16:49:00",
+          "departure_time": "16:49:00",
+          "lat": 51.188315,
+          "lon": 16.724634
+        },
+        {
+          "stop_sequence": 18,
+          "stop_id": "3976",
+          "stop_name": "Miękinia - stacja PKP",
+          "arrival_time": "16:50:00",
+          "departure_time": "16:50:00",
+          "lat": 51.18825506,
+          "lon": 16.7356126
+        },
+        {
+          "stop_sequence": 19,
+          "stop_id": "4016",
+          "stop_name": "Miękinia - pętla",
+          "arrival_time": "16:53:00",
+          "departure_time": "16:53:00",
+          "lat": 51.193844,
+          "lon": 16.739568
+        }
+      ]
+    },
+    {
+      "trip_id": "8_16464581",
+      "direction_id": "0",
+      "headsign": "LEŚNICA",
+      "service_id": "8",
+      "stops": [
+        {
+          "stop_sequence": 0,
+          "stop_id": "4016",
+          "stop_name": "Miękinia - pętla",
+          "arrival_time": "17:12:00",
+          "departure_time": "17:12:00",
+          "lat": 51.193844,
+          "lon": 16.739568
+        },
+        {
+          "stop_sequence": 1,
+          "stop_id": "3977",
+          "stop_name": "Miękinia - stacja PKP",
+          "arrival_time": "17:14:00",
+          "departure_time": "17:14:00",
+          "lat": 51.18836811,
+          "lon": 16.73578439
+        },
+        {
+          "stop_sequence": 2,
+          "stop_id": "3979",
+          "stop_name": "Miękinia Cegielnia",
+          "arrival_time": "17:15:00",
+          "departure_time": "17:15:00",
+          "lat": 51.188244,
+          "lon": 16.724656
+        },
+        {
+          "stop_sequence": 3,
+          "stop_id": "3983",
+          "stop_name": "Kadłub NŻ",
+          "arrival_time": "17:17:00",
+          "departure_time": "17:17:00",
+          "lat": 51.183051,
+          "lon": 16.704534
+        },
+        {
+          "stop_sequence": 4,
+          "stop_id": "3985",
+          "stop_name": "Kadłub wieś",
+          "arrival_time": "17:19:00",
+          "departure_time": "17:19:00",
+          "lat": 51.17472201,
+          "lon": 16.69679848
+        },
+        {
+          "stop_sequence": 5,
+          "stop_id": "3944",
+          "stop_name": "Źródła",
+          "arrival_time": "17:23:00",
+          "departure_time": "17:23:00",
+          "lat": 51.159681,
+          "lon": 16.724852
+        },
+        {
+          "stop_sequence": 6,
+          "stop_id": "4012",
+          "stop_name": "Błonie",
+          "arrival_time": "17:25:00",
+          "departure_time": "17:25:00",
+          "lat": 51.1586335,
+          "lon": 16.74980569
+        },
+        {
+          "stop_sequence": 7,
+          "stop_id": "3940",
+          "stop_name": "Wróblowice",
+          "arrival_time": "17:29:00",
+          "departure_time": "17:29:00",
+          "lat": 51.158314,
+          "lon": 16.785521
+        },
+        {
+          "stop_sequence": 8,
+          "stop_id": "3433",
+          "stop_name": "Krępice",
+          "arrival_time": "17:31:00",
+          "departure_time": "17:31:00",
+          "lat": 51.153186,
+          "lon": 16.816681
+        },
+        {
+          "stop_sequence": 9,
+          "stop_id": "992",
+          "stop_name": "ŻAR",
+          "arrival_time": "17:34:00",
+          "departure_time": "17:34:00",
+          "lat": 51.14969912,
+          "lon": 16.83453677
+        },
+        {
+          "stop_sequence": 10,
+          "stop_id": "1776",
+          "stop_name": "Mokrzańska",
+          "arrival_time": "17:37:00",
+          "departure_time": "17:37:00",
+          "lat": 51.14920934,
+          "lon": 16.85466784
+        },
+        {
+          "stop_sequence": 11,
+          "stop_id": "1777",
+          "stop_name": "Krępicka",
+          "arrival_time": "17:38:00",
+          "departure_time": "17:38:00",
+          "lat": 51.1512331,
+          "lon": 16.85637445
+        },
+        {
+          "stop_sequence": 12,
+          "stop_id": "1015",
+          "stop_name": "Krępicka - szkoła",
+          "arrival_time": "17:39:00",
+          "departure_time": "17:39:00",
+          "lat": 51.15001334,
+          "lon": 16.86044907
+        },
+        {
+          "stop_sequence": 13,
+          "stop_id": "1781",
+          "stop_name": "Zajazdowa",
+          "arrival_time": "17:41:00",
+          "departure_time": "17:41:00",
+          "lat": 51.14783871,
+          "lon": 16.86561159
+        },
+        {
+          "stop_sequence": 14,
+          "stop_id": "5404",
+          "stop_name": "Eluarda",
+          "arrival_time": "17:42:00",
+          "departure_time": "17:42:00",
+          "lat": 51.146501,
+          "lon": 16.867291
+        },
+        {
+          "stop_sequence": 15,
+          "stop_id": "143",
+          "stop_name": "Średzka",
+          "arrival_time": "17:44:00",
+          "departure_time": "17:44:00",
+          "lat": 51.14528565,
+          "lon": 16.86634894
+        },
+        {
+          "stop_sequence": 16,
+          "stop_id": "3057",
+          "stop_name": "Rubczaka",
+          "arrival_time": "17:45:00",
+          "departure_time": "17:45:00",
+          "lat": 51.14407174,
+          "lon": 16.86611126
+        },
+        {
+          "stop_sequence": 17,
+          "stop_id": "5609",
+          "stop_name": "Rubczaka (Stacja kolejowa)",
+          "arrival_time": "17:46:00",
+          "departure_time": "17:46:00",
+          "lat": 51.14303097,
+          "lon": 16.86689897
+        },
+        {
+          "stop_sequence": 18,
+          "stop_id": "4144",
+          "stop_name": "LEŚNICA",
+          "arrival_time": "17:47:00",
+          "departure_time": "17:47:00",
+          "lat": 51.14486208,
+          "lon": 16.87195907
+        }
+      ]
+    },
+    {
+      "trip_id": "8_16464715",
+      "direction_id": "1",
+      "headsign": "Miękinia - pętla",
+      "service_id": "8",
+      "stops": [
+        {
+          "stop_sequence": 0,
+          "stop_id": "4201",
+          "stop_name": "LEŚNICA",
+          "arrival_time": "14:20:00",
+          "departure_time": "14:20:00",
+          "lat": 51.14467373,
+          "lon": 16.87155482
+        },
+        {
+          "stop_sequence": 1,
+          "stop_id": "5608",
+          "stop_name": "Rubczaka (Stacja kolejowa)",
+          "arrival_time": "14:22:00",
+          "departure_time": "14:22:00",
+          "lat": 51.14330576,
+          "lon": 16.86637818
+        },
+        {
+          "stop_sequence": 2,
+          "stop_id": "3056",
+          "stop_name": "Rubczaka",
+          "arrival_time": "14:23:00",
+          "departure_time": "14:23:00",
+          "lat": 51.14419429,
+          "lon": 16.86596484
+        },
+        {
+          "stop_sequence": 3,
+          "stop_id": "142",
+          "stop_name": "Średzka",
+          "arrival_time": "14:24:00",
+          "departure_time": "14:24:00",
+          "lat": 51.14535622,
+          "lon": 16.86660794
+        },
+        {
+          "stop_sequence": 4,
+          "stop_id": "3889",
+          "stop_name": "Leśnica - Hermes",
+          "arrival_time": "14:26:00",
+          "departure_time": "14:26:00",
+          "lat": 51.14609505,
+          "lon": 16.86569237
+        },
+        {
+          "stop_sequence": 5,
+          "stop_id": "65",
+          "stop_name": "Mokrzańska",
+          "arrival_time": "14:28:00",
+          "departure_time": "14:28:00",
+          "lat": 51.14754299,
+          "lon": 16.85312245
+        },
+        {
+          "stop_sequence": 6,
+          "stop_id": "895",
+          "stop_name": "ŻAR",
+          "arrival_time": "14:30:00",
+          "departure_time": "14:30:00",
+          "lat": 51.149837,
+          "lon": 16.834517
+        },
+        {
+          "stop_sequence": 7,
+          "stop_id": "3939",
+          "stop_name": "Krępice",
+          "arrival_time": "14:32:00",
+          "departure_time": "14:32:00",
+          "lat": 51.154054,
+          "lon": 16.813043
+        },
+        {
+          "stop_sequence": 8,
+          "stop_id": "3941",
+          "stop_name": "Wróblowice",
+          "arrival_time": "14:34:00",
+          "departure_time": "14:34:00",
+          "lat": 51.158256,
+          "lon": 16.781077
+        },
+        {
+          "stop_sequence": 9,
+          "stop_id": "3943",
+          "stop_name": "Błonie",
+          "arrival_time": "14:37:00",
+          "departure_time": "14:37:00",
+          "lat": 51.158725,
+          "lon": 16.74746
+        },
+        {
+          "stop_sequence": 10,
+          "stop_id": "3945",
+          "stop_name": "Źródła",
+          "arrival_time": "14:39:00",
+          "departure_time": "14:39:00",
+          "lat": 51.159913,
+          "lon": 16.722536
+        },
+        {
+          "stop_sequence": 11,
+          "stop_id": "3984",
+          "stop_name": "Kadłub wieś",
+          "arrival_time": "14:42:00",
+          "departure_time": "14:42:00",
+          "lat": 51.17441596,
+          "lon": 16.69663098
+        },
+        {
+          "stop_sequence": 12,
+          "stop_id": "3982",
+          "stop_name": "Kadłub NŻ",
+          "arrival_time": "14:43:00",
+          "departure_time": "14:43:00",
+          "lat": 51.182951,
+          "lon": 16.704586
+        },
+        {
+          "stop_sequence": 13,
+          "stop_id": "3978",
+          "stop_name": "Miękinia Cegielnia",
+          "arrival_time": "14:45:00",
+          "departure_time": "14:45:00",
+          "lat": 51.188315,
+          "lon": 16.724634
+        },
+        {
+          "stop_sequence": 14,
+          "stop_id": "3976",
+          "stop_name": "Miękinia - stacja PKP",
+          "arrival_time": "14:46:00",
+          "departure_time": "14:46:00",
+          "lat": 51.18825506,
+          "lon": 16.7356126
+        },
+        {
+          "stop_sequence": 15,
+          "stop_id": "4016",
+          "stop_name": "Miękinia - pętla",
+          "arrival_time": "14:49:00",
+          "departure_time": "14:49:00",
+          "lat": 51.193844,
+          "lon": 16.739568
+        }
+      ]
+    },
+    {
+      "trip_id": "8_16464716",
+      "direction_id": "0",
+      "headsign": "LEŚNICA",
+      "service_id": "8",
+      "stops": [
+        {
+          "stop_sequence": 0,
+          "stop_id": "4016",
+          "stop_name": "Miękinia - pętla",
+          "arrival_time": "15:04:00",
+          "departure_time": "15:04:00",
+          "lat": 51.193844,
+          "lon": 16.739568
+        },
+        {
+          "stop_sequence": 1,
+          "stop_id": "3977",
+          "stop_name": "Miękinia - stacja PKP",
+          "arrival_time": "15:06:00",
+          "departure_time": "15:06:00",
+          "lat": 51.18836811,
+          "lon": 16.73578439
+        },
+        {
+          "stop_sequence": 2,
+          "stop_id": "3979",
+          "stop_name": "Miękinia Cegielnia",
+          "arrival_time": "15:07:00",
+          "departure_time": "15:07:00",
+          "lat": 51.188244,
+          "lon": 16.724656
+        },
+        {
+          "stop_sequence": 3,
+          "stop_id": "3983",
+          "stop_name": "Kadłub NŻ",
+          "arrival_time": "15:09:00",
+          "departure_time": "15:09:00",
+          "lat": 51.183051,
+          "lon": 16.704534
+        },
+        {
+          "stop_sequence": 4,
+          "stop_id": "3985",
+          "stop_name": "Kadłub wieś",
+          "arrival_time": "15:11:00",
+          "departure_time": "15:11:00",
+          "lat": 51.17472201,
+          "lon": 16.69679848
+        },
+        {
+          "stop_sequence": 5,
+          "stop_id": "3944",
+          "stop_name": "Źródła",
+          "arrival_time": "15:15:00",
+          "departure_time": "15:15:00",
+          "lat": 51.159681,
+          "lon": 16.724852
+        },
+        {
+          "stop_sequence": 6,
+          "stop_id": "4012",
+          "stop_name": "Błonie",
+          "arrival_time": "15:17:00",
+          "departure_time": "15:17:00",
+          "lat": 51.1586335,
+          "lon": 16.74980569
+        },
+        {
+          "stop_sequence": 7,
+          "stop_id": "3940",
+          "stop_name": "Wróblowice",
+          "arrival_time": "15:21:00",
+          "departure_time": "15:21:00",
+          "lat": 51.158314,
+          "lon": 16.785521
+        },
+        {
+          "stop_sequence": 8,
+          "stop_id": "3433",
+          "stop_name": "Krępice",
+          "arrival_time": "15:23:00",
+          "departure_time": "15:23:00",
+          "lat": 51.153186,
+          "lon": 16.816681
+        },
+        {
+          "stop_sequence": 9,
+          "stop_id": "992",
+          "stop_name": "ŻAR",
+          "arrival_time": "15:26:00",
+          "departure_time": "15:26:00",
+          "lat": 51.14969912,
+          "lon": 16.83453677
+        },
+        {
+          "stop_sequence": 10,
+          "stop_id": "64",
+          "stop_name": "Mokrzańska",
+          "arrival_time": "15:29:00",
+          "departure_time": "15:29:00",
+          "lat": 51.14730949,
+          "lon": 16.85418764
+        },
+        {
+          "stop_sequence": 11,
+          "stop_id": "3888",
+          "stop_name": "Leśnica - Hermes",
+          "arrival_time": "15:31:00",
+          "departure_time": "15:31:00",
+          "lat": 51.14587115,
+          "lon": 16.8663056
+        },
+        {
+          "stop_sequence": 12,
+          "stop_id": "143",
+          "stop_name": "Średzka",
+          "arrival_time": "15:32:00",
+          "departure_time": "15:32:00",
+          "lat": 51.14528565,
+          "lon": 16.86634894
+        },
+        {
+          "stop_sequence": 13,
+          "stop_id": "3057",
+          "stop_name": "Rubczaka",
+          "arrival_time": "15:33:00",
+          "departure_time": "15:33:00",
+          "lat": 51.14407174,
+          "lon": 16.86611126
+        },
+        {
+          "stop_sequence": 14,
+          "stop_id": "5609",
+          "stop_name": "Rubczaka (Stacja kolejowa)",
+          "arrival_time": "15:34:00",
+          "departure_time": "15:34:00",
+          "lat": 51.14303097,
+          "lon": 16.86689897
+        },
+        {
+          "stop_sequence": 15,
+          "stop_id": "4201",
+          "stop_name": "LEŚNICA",
+          "arrival_time": "15:35:00",
+          "departure_time": "15:35:00",
+          "lat": 51.14467373,
+          "lon": 16.87155482
+        }
+      ]
+    },
+    {
+      "trip_id": "8_16464731",
+      "direction_id": "0",
+      "headsign": "LEŚNICA",
+      "service_id": "8",
+      "stops": [
+        {
+          "stop_sequence": 0,
+          "stop_id": "4016",
+          "stop_name": "Miękinia - pętla",
+          "arrival_time": "04:57:00",
+          "departure_time": "04:57:00",
+          "lat": 51.193844,
+          "lon": 16.739568
+        },
+        {
+          "stop_sequence": 1,
+          "stop_id": "3977",
+          "stop_name": "Miękinia - stacja PKP",
+          "arrival_time": "04:59:00",
+          "departure_time": "04:59:00",
+          "lat": 51.18836811,
+          "lon": 16.73578439
+        },
+        {
+          "stop_sequence": 2,
+          "stop_id": "3979",
+          "stop_name": "Miękinia Cegielnia",
+          "arrival_time": "05:00:00",
+          "departure_time": "05:00:00",
+          "lat": 51.188244,
+          "lon": 16.724656
+        },
+        {
+          "stop_sequence": 3,
+          "stop_id": "3983",
+          "stop_name": "Kadłub NŻ",
+          "arrival_time": "05:02:00",
+          "departure_time": "05:02:00",
+          "lat": 51.183051,
+          "lon": 16.704534
+        },
+        {
+          "stop_sequence": 4,
+          "stop_id": "3985",
+          "stop_name": "Kadłub wieś",
+          "arrival_time": "05:04:00",
+          "departure_time": "05:04:00",
+          "lat": 51.17472201,
+          "lon": 16.69679848
+        },
+        {
+          "stop_sequence": 5,
+          "stop_id": "3944",
+          "stop_name": "Źródła",
+          "arrival_time": "05:08:00",
+          "departure_time": "05:08:00",
+          "lat": 51.159681,
+          "lon": 16.724852
+        },
+        {
+          "stop_sequence": 6,
+          "stop_id": "4012",
+          "stop_name": "Błonie",
+          "arrival_time": "05:10:00",
+          "departure_time": "05:10:00",
+          "lat": 51.1586335,
+          "lon": 16.74980569
+        },
+        {
+          "stop_sequence": 7,
+          "stop_id": "3940",
+          "stop_name": "Wróblowice",
+          "arrival_time": "05:14:00",
+          "departure_time": "05:14:00",
+          "lat": 51.158314,
+          "lon": 16.785521
+        },
+        {
+          "stop_sequence": 8,
+          "stop_id": "3433",
+          "stop_name": "Krępice",
+          "arrival_time": "05:16:00",
+          "departure_time": "05:16:00",
+          "lat": 51.153186,
+          "lon": 16.816681
+        },
+        {
+          "stop_sequence": 9,
+          "stop_id": "992",
+          "stop_name": "ŻAR",
+          "arrival_time": "05:18:00",
+          "departure_time": "05:18:00",
+          "lat": 51.14969912,
+          "lon": 16.83453677
+        },
+        {
+          "stop_sequence": 10,
+          "stop_id": "64",
+          "stop_name": "Mokrzańska",
+          "arrival_time": "05:20:00",
+          "departure_time": "05:20:00",
+          "lat": 51.14730949,
+          "lon": 16.85418764
+        },
+        {
+          "stop_sequence": 11,
+          "stop_id": "3888",
+          "stop_name": "Leśnica - Hermes",
+          "arrival_time": "05:22:00",
+          "departure_time": "05:22:00",
+          "lat": 51.14587115,
+          "lon": 16.8663056
+        },
+        {
+          "stop_sequence": 12,
+          "stop_id": "143",
+          "stop_name": "Średzka",
+          "arrival_time": "05:23:00",
+          "departure_time": "05:23:00",
+          "lat": 51.14528565,
+          "lon": 16.86634894
+        },
+        {
+          "stop_sequence": 13,
+          "stop_id": "3057",
+          "stop_name": "Rubczaka",
+          "arrival_time": "05:24:00",
+          "departure_time": "05:24:00",
+          "lat": 51.14407174,
+          "lon": 16.86611126
+        },
+        {
+          "stop_sequence": 14,
+          "stop_id": "5609",
+          "stop_name": "Rubczaka (Stacja kolejowa)",
+          "arrival_time": "05:25:00",
+          "departure_time": "05:25:00",
+          "lat": 51.14303097,
+          "lon": 16.86689897
+        },
+        {
+          "stop_sequence": 15,
+          "stop_id": "4201",
+          "stop_name": "LEŚNICA",
+          "arrival_time": "05:26:00",
+          "departure_time": "05:26:00",
+          "lat": 51.14467373,
+          "lon": 16.87155482
+        }
+      ]
+    },
+    {
+      "trip_id": "8_16464866",
+      "direction_id": "1",
+      "headsign": "Miękinia - pętla",
+      "service_id": "8",
+      "stops": [
+        {
+          "stop_sequence": 0,
+          "stop_id": "4201",
+          "stop_name": "LEŚNICA",
+          "arrival_time": "10:25:00",
+          "departure_time": "10:25:00",
+          "lat": 51.14467373,
+          "lon": 16.87155482
+        },
+        {
+          "stop_sequence": 1,
+          "stop_id": "5608",
+          "stop_name": "Rubczaka (Stacja kolejowa)",
+          "arrival_time": "10:27:00",
+          "departure_time": "10:27:00",
+          "lat": 51.14330576,
+          "lon": 16.86637818
+        },
+        {
+          "stop_sequence": 2,
+          "stop_id": "3056",
+          "stop_name": "Rubczaka",
+          "arrival_time": "10:28:00",
+          "departure_time": "10:28:00",
+          "lat": 51.14419429,
+          "lon": 16.86596484
+        },
+        {
+          "stop_sequence": 3,
+          "stop_id": "142",
+          "stop_name": "Średzka",
+          "arrival_time": "10:29:00",
+          "departure_time": "10:29:00",
+          "lat": 51.14535622,
+          "lon": 16.86660794
+        },
+        {
+          "stop_sequence": 4,
+          "stop_id": "3889",
+          "stop_name": "Leśnica - Hermes",
+          "arrival_time": "10:31:00",
+          "departure_time": "10:31:00",
+          "lat": 51.14609505,
+          "lon": 16.86569237
+        },
+        {
+          "stop_sequence": 5,
+          "stop_id": "65",
+          "stop_name": "Mokrzańska",
+          "arrival_time": "10:32:00",
+          "departure_time": "10:32:00",
+          "lat": 51.14754299,
+          "lon": 16.85312245
+        },
+        {
+          "stop_sequence": 6,
+          "stop_id": "895",
+          "stop_name": "ŻAR",
+          "arrival_time": "10:34:00",
+          "departure_time": "10:34:00",
+          "lat": 51.149837,
+          "lon": 16.834517
+        },
+        {
+          "stop_sequence": 7,
+          "stop_id": "3939",
+          "stop_name": "Krępice",
+          "arrival_time": "10:36:00",
+          "departure_time": "10:36:00",
+          "lat": 51.154054,
+          "lon": 16.813043
+        },
+        {
+          "stop_sequence": 8,
+          "stop_id": "3941",
+          "stop_name": "Wróblowice",
+          "arrival_time": "10:38:00",
+          "departure_time": "10:38:00",
+          "lat": 51.158256,
+          "lon": 16.781077
+        },
+        {
+          "stop_sequence": 9,
+          "stop_id": "3943",
+          "stop_name": "Błonie",
+          "arrival_time": "10:41:00",
+          "departure_time": "10:41:00",
+          "lat": 51.158725,
+          "lon": 16.74746
+        },
+        {
+          "stop_sequence": 10,
+          "stop_id": "3945",
+          "stop_name": "Źródła",
+          "arrival_time": "10:43:00",
+          "departure_time": "10:43:00",
+          "lat": 51.159913,
+          "lon": 16.722536
+        },
+        {
+          "stop_sequence": 11,
+          "stop_id": "3984",
+          "stop_name": "Kadłub wieś",
+          "arrival_time": "10:46:00",
+          "departure_time": "10:46:00",
+          "lat": 51.17441596,
+          "lon": 16.69663098
+        },
+        {
+          "stop_sequence": 12,
+          "stop_id": "3982",
+          "stop_name": "Kadłub NŻ",
+          "arrival_time": "10:47:00",
+          "departure_time": "10:47:00",
+          "lat": 51.182951,
+          "lon": 16.704586
+        },
+        {
+          "stop_sequence": 13,
+          "stop_id": "3978",
+          "stop_name": "Miękinia Cegielnia",
+          "arrival_time": "10:49:00",
+          "departure_time": "10:49:00",
+          "lat": 51.188315,
+          "lon": 16.724634
+        },
+        {
+          "stop_sequence": 14,
+          "stop_id": "3976",
+          "stop_name": "Miękinia - stacja PKP",
+          "arrival_time": "10:50:00",
+          "departure_time": "10:50:00",
+          "lat": 51.18825506,
+          "lon": 16.7356126
+        },
+        {
+          "stop_sequence": 15,
+          "stop_id": "4016",
+          "stop_name": "Miękinia - pętla",
+          "arrival_time": "10:53:00",
+          "departure_time": "10:53:00",
+          "lat": 51.193844,
+          "lon": 16.739568
+        }
+      ]
+    },
+    {
+      "trip_id": "8_16464867",
+      "direction_id": "0",
+      "headsign": "LEŚNICA",
+      "service_id": "8",
+      "stops": [
+        {
+          "stop_sequence": 0,
+          "stop_id": "4016",
+          "stop_name": "Miękinia - pętla",
+          "arrival_time": "11:12:00",
+          "departure_time": "11:12:00",
+          "lat": 51.193844,
+          "lon": 16.739568
+        },
+        {
+          "stop_sequence": 1,
+          "stop_id": "3977",
+          "stop_name": "Miękinia - stacja PKP",
+          "arrival_time": "11:14:00",
+          "departure_time": "11:14:00",
+          "lat": 51.18836811,
+          "lon": 16.73578439
+        },
+        {
+          "stop_sequence": 2,
+          "stop_id": "3979",
+          "stop_name": "Miękinia Cegielnia",
+          "arrival_time": "11:15:00",
+          "departure_time": "11:15:00",
+          "lat": 51.188244,
+          "lon": 16.724656
+        },
+        {
+          "stop_sequence": 3,
+          "stop_id": "3983",
+          "stop_name": "Kadłub NŻ",
+          "arrival_time": "11:17:00",
+          "departure_time": "11:17:00",
+          "lat": 51.183051,
+          "lon": 16.704534
+        },
+        {
+          "stop_sequence": 4,
+          "stop_id": "3985",
+          "stop_name": "Kadłub wieś",
+          "arrival_time": "11:19:00",
+          "departure_time": "11:19:00",
+          "lat": 51.17472201,
+          "lon": 16.69679848
+        },
+        {
+          "stop_sequence": 5,
+          "stop_id": "3944",
+          "stop_name": "Źródła",
+          "arrival_time": "11:23:00",
+          "departure_time": "11:23:00",
+          "lat": 51.159681,
+          "lon": 16.724852
+        },
+        {
+          "stop_sequence": 6,
+          "stop_id": "4012",
+          "stop_name": "Błonie",
+          "arrival_time": "11:25:00",
+          "departure_time": "11:25:00",
+          "lat": 51.1586335,
+          "lon": 16.74980569
+        },
+        {
+          "stop_sequence": 7,
+          "stop_id": "3940",
+          "stop_name": "Wróblowice",
+          "arrival_time": "11:29:00",
+          "departure_time": "11:29:00",
+          "lat": 51.158314,
+          "lon": 16.785521
+        },
+        {
+          "stop_sequence": 8,
+          "stop_id": "3433",
+          "stop_name": "Krępice",
+          "arrival_time": "11:31:00",
+          "departure_time": "11:31:00",
+          "lat": 51.153186,
+          "lon": 16.816681
+        },
+        {
+          "stop_sequence": 9,
+          "stop_id": "992",
+          "stop_name": "ŻAR",
+          "arrival_time": "11:34:00",
+          "departure_time": "11:34:00",
+          "lat": 51.14969912,
+          "lon": 16.83453677
+        },
+        {
+          "stop_sequence": 10,
+          "stop_id": "1776",
+          "stop_name": "Mokrzańska",
+          "arrival_time": "11:37:00",
+          "departure_time": "11:37:00",
+          "lat": 51.14920934,
+          "lon": 16.85466784
+        },
+        {
+          "stop_sequence": 11,
+          "stop_id": "1777",
+          "stop_name": "Krępicka",
+          "arrival_time": "11:38:00",
+          "departure_time": "11:38:00",
+          "lat": 51.1512331,
+          "lon": 16.85637445
+        },
+        {
+          "stop_sequence": 12,
+          "stop_id": "1015",
+          "stop_name": "Krępicka - szkoła",
+          "arrival_time": "11:39:00",
+          "departure_time": "11:39:00",
+          "lat": 51.15001334,
+          "lon": 16.86044907
+        },
+        {
+          "stop_sequence": 13,
+          "stop_id": "1781",
+          "stop_name": "Zajazdowa",
+          "arrival_time": "11:41:00",
+          "departure_time": "11:41:00",
+          "lat": 51.14783871,
+          "lon": 16.86561159
+        },
+        {
+          "stop_sequence": 14,
+          "stop_id": "5404",
+          "stop_name": "Eluarda",
+          "arrival_time": "11:42:00",
+          "departure_time": "11:42:00",
+          "lat": 51.146501,
+          "lon": 16.867291
+        },
+        {
+          "stop_sequence": 15,
+          "stop_id": "143",
+          "stop_name": "Średzka",
+          "arrival_time": "11:43:00",
+          "departure_time": "11:43:00",
+          "lat": 51.14528565,
+          "lon": 16.86634894
+        },
+        {
+          "stop_sequence": 16,
+          "stop_id": "3057",
+          "stop_name": "Rubczaka",
+          "arrival_time": "11:44:00",
+          "departure_time": "11:44:00",
+          "lat": 51.14407174,
+          "lon": 16.86611126
+        },
+        {
+          "stop_sequence": 17,
+          "stop_id": "5609",
+          "stop_name": "Rubczaka (Stacja kolejowa)",
+          "arrival_time": "11:45:00",
+          "departure_time": "11:45:00",
+          "lat": 51.14303097,
+          "lon": 16.86689897
+        },
+        {
+          "stop_sequence": 18,
+          "stop_id": "4253",
+          "stop_name": "LEŚNICA",
+          "arrival_time": "11:46:00",
+          "departure_time": "11:46:00",
+          "lat": 51.14478929,
+          "lon": 16.87181353
+        }
+      ]
+    }
+  ]
+}

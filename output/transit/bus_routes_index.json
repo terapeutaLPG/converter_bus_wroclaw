@@ -1,0 +1,547 @@
+{
+  "100": {
+    "line": "100",
+    "file": "buses/line_100.json",
+    "trips_count": 176
+  },
+  "101": {
+    "line": "101",
+    "file": "buses/line_101.json",
+    "trips_count": 406
+  },
+  "102": {
+    "line": "102",
+    "file": "buses/line_102.json",
+    "trips_count": 524
+  },
+  "103": {
+    "line": "103",
+    "file": "buses/line_103.json",
+    "trips_count": 386
+  },
+  "104": {
+    "line": "104",
+    "file": "buses/line_104.json",
+    "trips_count": 312
+  },
+  "105": {
+    "line": "105",
+    "file": "buses/line_105.json",
+    "trips_count": 352
+  },
+  "106": {
+    "line": "106",
+    "file": "buses/line_106.json",
+    "trips_count": 666
+  },
+  "107": {
+    "line": "107",
+    "file": "buses/line_107.json",
+    "trips_count": 441
+  },
+  "108": {
+    "line": "108",
+    "file": "buses/line_108.json",
+    "trips_count": 319
+  },
+  "110": {
+    "line": "110",
+    "file": "buses/line_110.json",
+    "trips_count": 466
+  },
+  "111": {
+    "line": "111",
+    "file": "buses/line_111.json",
+    "trips_count": 492
+  },
+  "112": {
+    "line": "112",
+    "file": "buses/line_112.json",
+    "trips_count": 177
+  },
+  "113": {
+    "line": "113",
+    "file": "buses/line_113.json",
+    "trips_count": 490
+  },
+  "114": {
+    "line": "114",
+    "file": "buses/line_114.json",
+    "trips_count": 594
+  },
+  "115": {
+    "line": "115",
+    "file": "buses/line_115.json",
+    "trips_count": 658
+  },
+  "116": {
+    "line": "116",
+    "file": "buses/line_116.json",
+    "trips_count": 478
+  },
+  "117": {
+    "line": "117",
+    "file": "buses/line_117.json",
+    "trips_count": 204
+  },
+  "118": {
+    "line": "118",
+    "file": "buses/line_118.json",
+    "trips_count": 303
+  },
+  "119": {
+    "line": "119",
+    "file": "buses/line_119.json",
+    "trips_count": 359
+  },
+  "120": {
+    "line": "120",
+    "file": "buses/line_120.json",
+    "trips_count": 148
+  },
+  "121": {
+    "line": "121",
+    "file": "buses/line_121.json",
+    "trips_count": 329
+  },
+  "122": {
+    "line": "122",
+    "file": "buses/line_122.json",
+    "trips_count": 578
+  },
+  "123": {
+    "line": "123",
+    "file": "buses/line_123.json",
+    "trips_count": 302
+  },
+  "124": {
+    "line": "124",
+    "file": "buses/line_124.json",
+    "trips_count": 256
+  },
+  "125": {
+    "line": "125",
+    "file": "buses/line_125.json",
+    "trips_count": 484
+  },
+  "126": {
+    "line": "126",
+    "file": "buses/line_126.json",
+    "trips_count": 463
+  },
+  "127": {
+    "line": "127",
+    "file": "buses/line_127.json",
+    "trips_count": 593
+  },
+  "128": {
+    "line": "128",
+    "file": "buses/line_128.json",
+    "trips_count": 483
+  },
+  "129": {
+    "line": "129",
+    "file": "buses/line_129.json",
+    "trips_count": 436
+  },
+  "130": {
+    "line": "130",
+    "file": "buses/line_130.json",
+    "trips_count": 342
+  },
+  "131": {
+    "line": "131",
+    "file": "buses/line_131.json",
+    "trips_count": 354
+  },
+  "132": {
+    "line": "132",
+    "file": "buses/line_132.json",
+    "trips_count": 424
+  },
+  "133": {
+    "line": "133",
+    "file": "buses/line_133.json",
+    "trips_count": 430
+  },
+  "134": {
+    "line": "134",
+    "file": "buses/line_134.json",
+    "trips_count": 350
+  },
+  "136": {
+    "line": "136",
+    "file": "buses/line_136.json",
+    "trips_count": 464
+  },
+  "137": {
+    "line": "137",
+    "file": "buses/line_137.json",
+    "trips_count": 147
+  },
+  "138": {
+    "line": "138",
+    "file": "buses/line_138.json",
+    "trips_count": 83
+  },
+  "142": {
+    "line": "142",
+    "file": "buses/line_142.json",
+    "trips_count": 376
+  },
+  "143": {
+    "line": "143",
+    "file": "buses/line_143.json",
+    "trips_count": 489
+  },
+  "144": {
+    "line": "144",
+    "file": "buses/line_144.json",
+    "trips_count": 591
+  },
+  "145": {
+    "line": "145",
+    "file": "buses/line_145.json",
+    "trips_count": 490
+  },
+  "146": {
+    "line": "146",
+    "file": "buses/line_146.json",
+    "trips_count": 416
+  },
+  "147": {
+    "line": "147",
+    "file": "buses/line_147.json",
+    "trips_count": 380
+  },
+  "148": {
+    "line": "148",
+    "file": "buses/line_148.json",
+    "trips_count": 436
+  },
+  "149": {
+    "line": "149",
+    "file": "buses/line_149.json",
+    "trips_count": 316
+  },
+  "150": {
+    "line": "150",
+    "file": "buses/line_150.json",
+    "trips_count": 140
+  },
+  "151": {
+    "line": "151",
+    "file": "buses/line_151.json",
+    "trips_count": 436
+  },
+  "152": {
+    "line": "152",
+    "file": "buses/line_152.json",
+    "trips_count": 321
+  },
+  "206": {
+    "line": "206",
+    "file": "buses/line_206.json",
+    "trips_count": 48
+  },
+  "240": {
+    "line": "240",
+    "file": "buses/line_240.json",
+    "trips_count": 32
+  },
+  "241": {
+    "line": "241",
+    "file": "buses/line_241.json",
+    "trips_count": 98
+  },
+  "242": {
+    "line": "242",
+    "file": "buses/line_242.json",
+    "trips_count": 32
+  },
+  "243": {
+    "line": "243",
+    "file": "buses/line_243.json",
+    "trips_count": 56
+  },
+  "244": {
+    "line": "244",
+    "file": "buses/line_244.json",
+    "trips_count": 82
+  },
+  "245": {
+    "line": "245",
+    "file": "buses/line_245.json",
+    "trips_count": 72
+  },
+  "246": {
+    "line": "246",
+    "file": "buses/line_246.json",
+    "trips_count": 97
+  },
+  "247": {
+    "line": "247",
+    "file": "buses/line_247.json",
+    "trips_count": 58
+  },
+  "248": {
+    "line": "248",
+    "file": "buses/line_248.json",
+    "trips_count": 52
+  },
+  "249": {
+    "line": "249",
+    "file": "buses/line_249.json",
+    "trips_count": 60
+  },
+  "250": {
+    "line": "250",
+    "file": "buses/line_250.json",
+    "trips_count": 40
+  },
+  "251": {
+    "line": "251",
+    "file": "buses/line_251.json",
+    "trips_count": 64
+  },
+  "253": {
+    "line": "253",
+    "file": "buses/line_253.json",
+    "trips_count": 58
+  },
+  "255": {
+    "line": "255",
+    "file": "buses/line_255.json",
+    "trips_count": 56
+  },
+  "257": {
+    "line": "257",
+    "file": "buses/line_257.json",
+    "trips_count": 64
+  },
+  "259": {
+    "line": "259",
+    "file": "buses/line_259.json",
+    "trips_count": 68
+  },
+  "306": {
+    "line": "306",
+    "file": "buses/line_306.json",
+    "trips_count": 88
+  },
+  "310": {
+    "line": "310",
+    "file": "buses/line_310.json",
+    "trips_count": 268
+  },
+  "315": {
+    "line": "315",
+    "file": "buses/line_315.json",
+    "trips_count": 92
+  },
+  "319": {
+    "line": "319",
+    "file": "buses/line_319.json",
+    "trips_count": 94
+  },
+  "345": {
+    "line": "345",
+    "file": "buses/line_345.json",
+    "trips_count": 68
+  },
+  "602": {
+    "line": "602",
+    "file": "buses/line_602.json",
+    "trips_count": 74
+  },
+  "607": {
+    "line": "607",
+    "file": "buses/line_607.json",
+    "trips_count": 36
+  },
+  "612": {
+    "line": "612",
+    "file": "buses/line_612.json",
+    "trips_count": 145
+  },
+  "715": {
+    "line": "715",
+    "file": "buses/line_715.json",
+    "trips_count": 656
+  },
+  "903": {
+    "line": "903",
+    "file": "buses/line_903.json",
+    "trips_count": 91
+  },
+  "904": {
+    "line": "904",
+    "file": "buses/line_904.json",
+    "trips_count": 54
+  },
+  "905": {
+    "line": "905",
+    "file": "buses/line_905.json",
+    "trips_count": 103
+  },
+  "907": {
+    "line": "907",
+    "file": "buses/line_907.json",
+    "trips_count": 88
+  },
+  "908": {
+    "line": "908",
+    "file": "buses/line_908.json",
+    "trips_count": 248
+  },
+  "909": {
+    "line": "909",
+    "file": "buses/line_909.json",
+    "trips_count": 104
+  },
+  "911": {
+    "line": "911",
+    "file": "buses/line_911.json",
+    "trips_count": 192
+  },
+  "913": {
+    "line": "913",
+    "file": "buses/line_913.json",
+    "trips_count": 110
+  },
+  "914": {
+    "line": "914",
+    "file": "buses/line_914.json",
+    "trips_count": 204
+  },
+  "917": {
+    "line": "917",
+    "file": "buses/line_917.json",
+    "trips_count": 96
+  },
+  "920": {
+    "line": "920",
+    "file": "buses/line_920.json",
+    "trips_count": 60
+  },
+  "921": {
+    "line": "921",
+    "file": "buses/line_921.json",
+    "trips_count": 198
+  },
+  "923": {
+    "line": "923",
+    "file": "buses/line_923.json",
+    "trips_count": 188
+  },
+  "924": {
+    "line": "924",
+    "file": "buses/line_924.json",
+    "trips_count": 199
+  },
+  "927": {
+    "line": "927",
+    "file": "buses/line_927.json",
+    "trips_count": 174
+  },
+  "928": {
+    "line": "928",
+    "file": "buses/line_928.json",
+    "trips_count": 176
+  },
+  "930": {
+    "line": "930",
+    "file": "buses/line_930.json",
+    "trips_count": 184
+  },
+  "931": {
+    "line": "931",
+    "file": "buses/line_931.json",
+    "trips_count": 201
+  },
+  "933": {
+    "line": "933",
+    "file": "buses/line_933.json",
+    "trips_count": 102
+  },
+  "937": {
+    "line": "937",
+    "file": "buses/line_937.json",
+    "trips_count": 32
+  },
+  "938": {
+    "line": "938",
+    "file": "buses/line_938.json",
+    "trips_count": 124
+  },
+  "941": {
+    "line": "941",
+    "file": "buses/line_941.json",
+    "trips_count": 56
+  },
+  "944": {
+    "line": "944",
+    "file": "buses/line_944.json",
+    "trips_count": 76
+  },
+  "945": {
+    "line": "945",
+    "file": "buses/line_945.json",
+    "trips_count": 112
+  },
+  "947": {
+    "line": "947",
+    "file": "buses/line_947.json",
+    "trips_count": 82
+  },
+  "948": {
+    "line": "948",
+    "file": "buses/line_948.json",
+    "trips_count": 18
+  },
+  "955": {
+    "line": "955",
+    "file": "buses/line_955.json",
+    "trips_count": 112
+  },
+  "958": {
+    "line": "958",
+    "file": "buses/line_958.json",
+    "trips_count": 12
+  },
+  "961": {
+    "line": "961",
+    "file": "buses/line_961.json",
+    "trips_count": 186
+  },
+  "964": {
+    "line": "964",
+    "file": "buses/line_964.json",
+    "trips_count": 94
+  },
+  "967": {
+    "line": "967",
+    "file": "buses/line_967.json",
+    "trips_count": 36
+  },
+  "A": {
+    "line": "A",
+    "file": "buses/line_A.json",
+    "trips_count": 460
+  },
+  "D": {
+    "line": "D",
+    "file": "buses/line_D.json",
+    "trips_count": 632
+  },
+  "K": {
+    "line": "K",
+    "file": "buses/line_K.json",
+    "trips_count": 418
+  },
+  "N": {
+    "line": "N",
+    "file": "buses/line_N.json",
+    "trips_count": 694
+  }
+}

@@ -1,0 +1,3569 @@
+{
+  "line": "607",
+  "trips": [
+    {
+      "trip_id": "6_16584183",
+      "direction_id": "0",
+      "headsign": "Kwiska",
+      "service_id": "6",
+      "stops": [
+        {
+          "stop_sequence": 0,
+          "stop_id": "5583",
+          "stop_name": "Zajezdnia OBORNICKA",
+          "arrival_time": "05:22:00",
+          "departure_time": "05:22:00",
+          "lat": 51.14873744,
+          "lon": 17.02106859
+        },
+        {
+          "stop_sequence": 1,
+          "stop_id": "670",
+          "stop_name": "Irysowa",
+          "arrival_time": "05:24:00",
+          "departure_time": "05:24:00",
+          "lat": 51.1514322,
+          "lon": 17.01738486
+        },
+        {
+          "stop_sequence": 2,
+          "stop_id": "2174",
+          "stop_name": "Obornicka (Obwodnica)",
+          "arrival_time": "05:25:00",
+          "departure_time": "05:25:00",
+          "lat": 51.15747564,
+          "lon": 17.00940342
+        },
+        {
+          "stop_sequence": 3,
+          "stop_id": "2783",
+          "stop_name": "most Milenijny",
+          "arrival_time": "05:29:00",
+          "departure_time": "05:29:00",
+          "lat": 51.13651148,
+          "lon": 16.99927273
+        },
+        {
+          "stop_sequence": 4,
+          "stop_id": "5284",
+          "stop_name": "Milenijna (Hala Orbita)",
+          "arrival_time": "05:30:00",
+          "departure_time": "05:30:00",
+          "lat": 51.1323514,
+          "lon": 16.9894391
+        },
+        {
+          "stop_sequence": 5,
+          "stop_id": "5150",
+          "stop_name": "Wejherowska (Hala Orbita)",
+          "arrival_time": "05:33:00",
+          "departure_time": "05:33:00",
+          "lat": 51.12917185,
+          "lon": 16.98532848
+        },
+        {
+          "stop_sequence": 6,
+          "stop_id": "212",
+          "stop_name": "Kwiska",
+          "arrival_time": "05:35:00",
+          "departure_time": "05:35:00",
+          "lat": 51.12558237,
+          "lon": 16.98341998
+        }
+      ]
+    },
+    {
+      "trip_id": "6_16584184",
+      "direction_id": "1",
+      "headsign": "Biskupice Podg. LG Energy Solution Wr. I",
+      "service_id": "6",
+      "stops": [
+        {
+          "stop_sequence": 0,
+          "stop_id": "212",
+          "stop_name": "Kwiska",
+          "arrival_time": "05:36:00",
+          "departure_time": "05:36:00",
+          "lat": 51.12558237,
+          "lon": 16.98341998
+        },
+        {
+          "stop_sequence": 1,
+          "stop_id": "1239",
+          "stop_name": "Wrocławski Park Technologiczny",
+          "arrival_time": "05:41:00",
+          "departure_time": "05:41:00",
+          "lat": 51.10506383,
+          "lon": 16.97074816
+        },
+        {
+          "stop_sequence": 2,
+          "stop_id": "281",
+          "stop_name": "FAT",
+          "arrival_time": "05:44:00",
+          "departure_time": "05:44:00",
+          "lat": 51.09412632,
+          "lon": 16.9783528
+        },
+        {
+          "stop_sequence": 3,
+          "stop_id": "403",
+          "stop_name": "Wiejska",
+          "arrival_time": "05:48:00",
+          "departure_time": "05:48:00",
+          "lat": 51.07817456,
+          "lon": 16.96410835
+        },
+        {
+          "stop_sequence": 4,
+          "stop_id": "5625",
+          "stop_name": "Wałbrzyska",
+          "arrival_time": "05:52:00",
+          "departure_time": "05:52:00",
+          "lat": 51.06323004,
+          "lon": 16.97676339
+        },
+        {
+          "stop_sequence": 5,
+          "stop_id": "1816",
+          "stop_name": "Połabian",
+          "arrival_time": "05:54:00",
+          "departure_time": "05:54:00",
+          "lat": 51.05623724,
+          "lon": 16.97047495
+        },
+        {
+          "stop_sequence": 6,
+          "stop_id": "5522",
+          "stop_name": "Biskupice Podg. DSC Poland/Top Run Poland",
+          "arrival_time": "06:13:00",
+          "departure_time": "06:13:00",
+          "lat": 51.02071994,
+          "lon": 16.89616822
+        },
+        {
+          "stop_sequence": 7,
+          "stop_id": "4881",
+          "stop_name": "Biskupice Podg. LG Energy Solution Wr. II",
+          "arrival_time": "06:15:00",
+          "departure_time": "06:15:00",
+          "lat": 51.01694598,
+          "lon": 16.8881169
+        },
+        {
+          "stop_sequence": 8,
+          "stop_id": "4878",
+          "stop_name": "Biskupice Podg. LG Electronics",
+          "arrival_time": "06:19:00",
+          "departure_time": "06:19:00",
+          "lat": 51.02423499,
+          "lon": 16.8905038
+        },
+        {
+          "stop_sequence": 9,
+          "stop_id": "4880",
+          "stop_name": "Biskupice Podg. LG Energy Solution Wr. I",
+          "arrival_time": "06:23:00",
+          "departure_time": "06:23:00",
+          "lat": 51.01729023,
+          "lon": 16.88065121
+        }
+      ]
+    },
+    {
+      "trip_id": "6_16584185",
+      "direction_id": "0",
+      "headsign": "MUCHOBÓR WIELKI (Roślinna)",
+      "service_id": "6",
+      "stops": [
+        {
+          "stop_sequence": 0,
+          "stop_id": "4880",
+          "stop_name": "Biskupice Podg. LG Energy Solution Wr. I",
+          "arrival_time": "06:42:00",
+          "departure_time": "06:42:00",
+          "lat": 51.01729023,
+          "lon": 16.88065121
+        },
+        {
+          "stop_sequence": 1,
+          "stop_id": "1817",
+          "stop_name": "Połabian",
+          "arrival_time": "06:59:00",
+          "departure_time": "06:59:00",
+          "lat": 51.05671431,
+          "lon": 16.97131836
+        },
+        {
+          "stop_sequence": 2,
+          "stop_id": "5626",
+          "stop_name": "Wałbrzyska",
+          "arrival_time": "07:04:00",
+          "departure_time": "07:04:00",
+          "lat": 51.06489636,
+          "lon": 16.97613239
+        },
+        {
+          "stop_sequence": 3,
+          "stop_id": "1963",
+          "stop_name": "Wiejska",
+          "arrival_time": "07:08:00",
+          "departure_time": "07:08:00",
+          "lat": 51.07763602,
+          "lon": 16.96391602
+        },
+        {
+          "stop_sequence": 4,
+          "stop_id": "2855",
+          "stop_name": "FAT",
+          "arrival_time": "07:16:00",
+          "departure_time": "07:16:00",
+          "lat": 51.09514288,
+          "lon": 16.97946312
+        },
+        {
+          "stop_sequence": 5,
+          "stop_id": "1240",
+          "stop_name": "Wrocławski Park Technologiczny",
+          "arrival_time": "07:19:00",
+          "departure_time": "07:19:00",
+          "lat": 51.10611537,
+          "lon": 16.97068638
+        },
+        {
+          "stop_sequence": 6,
+          "stop_id": "1174",
+          "stop_name": "Szkocka",
+          "arrival_time": "07:21:00",
+          "departure_time": "07:21:00",
+          "lat": 51.11014182,
+          "lon": 16.9688408
+        },
+        {
+          "stop_sequence": 7,
+          "stop_id": "2885",
+          "stop_name": "Nowodworska",
+          "arrival_time": "07:24:00",
+          "departure_time": "07:24:00",
+          "lat": 51.113793,
+          "lon": 16.964569
+        },
+        {
+          "stop_sequence": 8,
+          "stop_id": "5296",
+          "stop_name": "Strzegomska (krzyżówka)",
+          "arrival_time": "07:25:00",
+          "departure_time": "07:25:00",
+          "lat": 51.112407,
+          "lon": 16.960639
+        },
+        {
+          "stop_sequence": 9,
+          "stop_id": "5276",
+          "stop_name": "Rogowska (P+R)",
+          "arrival_time": "07:27:00",
+          "departure_time": "07:27:00",
+          "lat": 51.110391,
+          "lon": 16.95572
+        },
+        {
+          "stop_sequence": 10,
+          "stop_id": "5613",
+          "stop_name": "Mińska (Rondo Rotm. Pileckiego)",
+          "arrival_time": "07:29:00",
+          "departure_time": "07:29:00",
+          "lat": 51.10530939,
+          "lon": 16.94892826
+        },
+        {
+          "stop_sequence": 11,
+          "stop_id": "2722",
+          "stop_name": "Tyrmanda",
+          "arrival_time": "07:31:00",
+          "departure_time": "07:31:00",
+          "lat": 51.10282257,
+          "lon": 16.94521253
+        },
+        {
+          "stop_sequence": 12,
+          "stop_id": "3111",
+          "stop_name": "Zagony",
+          "arrival_time": "07:32:00",
+          "departure_time": "07:32:00",
+          "lat": 51.10087942,
+          "lon": 16.94224152
+        },
+        {
+          "stop_sequence": 13,
+          "stop_id": "5635",
+          "stop_name": "MUCHOBÓR WIELKI (Roślinna)",
+          "arrival_time": "07:34:00",
+          "departure_time": "07:34:00",
+          "lat": 51.1017633,
+          "lon": 16.94403119
+        }
+      ]
+    },
+    {
+      "trip_id": "6_16587806",
+      "direction_id": "0",
+      "headsign": "Kwiska",
+      "service_id": "6",
+      "stops": [
+        {
+          "stop_sequence": 0,
+          "stop_id": "5583",
+          "stop_name": "Zajezdnia OBORNICKA",
+          "arrival_time": "05:30:00",
+          "departure_time": "05:30:00",
+          "lat": 51.14873744,
+          "lon": 17.02106859
+        },
+        {
+          "stop_sequence": 1,
+          "stop_id": "670",
+          "stop_name": "Irysowa",
+          "arrival_time": "05:32:00",
+          "departure_time": "05:32:00",
+          "lat": 51.1514322,
+          "lon": 17.01738486
+        },
+        {
+          "stop_sequence": 2,
+          "stop_id": "2174",
+          "stop_name": "Obornicka (Obwodnica)",
+          "arrival_time": "05:33:00",
+          "departure_time": "05:33:00",
+          "lat": 51.15747564,
+          "lon": 17.00940342
+        },
+        {
+          "stop_sequence": 3,
+          "stop_id": "2783",
+          "stop_name": "most Milenijny",
+          "arrival_time": "05:37:00",
+          "departure_time": "05:37:00",
+          "lat": 51.13651148,
+          "lon": 16.99927273
+        },
+        {
+          "stop_sequence": 4,
+          "stop_id": "5284",
+          "stop_name": "Milenijna (Hala Orbita)",
+          "arrival_time": "05:38:00",
+          "departure_time": "05:38:00",
+          "lat": 51.1323514,
+          "lon": 16.9894391
+        },
+        {
+          "stop_sequence": 5,
+          "stop_id": "5150",
+          "stop_name": "Wejherowska (Hala Orbita)",
+          "arrival_time": "05:41:00",
+          "departure_time": "05:41:00",
+          "lat": 51.12917185,
+          "lon": 16.98532848
+        },
+        {
+          "stop_sequence": 6,
+          "stop_id": "212",
+          "stop_name": "Kwiska",
+          "arrival_time": "05:43:00",
+          "departure_time": "05:43:00",
+          "lat": 51.12558237,
+          "lon": 16.98341998
+        }
+      ]
+    },
+    {
+      "trip_id": "6_16587807",
+      "direction_id": "1",
+      "headsign": "Biskupice Podg. LG Energy Solution Wr. I",
+      "service_id": "6",
+      "stops": [
+        {
+          "stop_sequence": 0,
+          "stop_id": "212",
+          "stop_name": "Kwiska",
+          "arrival_time": "05:45:00",
+          "departure_time": "05:45:00",
+          "lat": 51.12558237,
+          "lon": 16.98341998
+        },
+        {
+          "stop_sequence": 1,
+          "stop_id": "1239",
+          "stop_name": "Wrocławski Park Technologiczny",
+          "arrival_time": "05:50:00",
+          "departure_time": "05:50:00",
+          "lat": 51.10506383,
+          "lon": 16.97074816
+        },
+        {
+          "stop_sequence": 2,
+          "stop_id": "281",
+          "stop_name": "FAT",
+          "arrival_time": "05:53:00",
+          "departure_time": "05:53:00",
+          "lat": 51.09412632,
+          "lon": 16.9783528
+        },
+        {
+          "stop_sequence": 3,
+          "stop_id": "403",
+          "stop_name": "Wiejska",
+          "arrival_time": "05:57:00",
+          "departure_time": "05:57:00",
+          "lat": 51.07817456,
+          "lon": 16.96410835
+        },
+        {
+          "stop_sequence": 4,
+          "stop_id": "5625",
+          "stop_name": "Wałbrzyska",
+          "arrival_time": "06:01:00",
+          "departure_time": "06:01:00",
+          "lat": 51.06323004,
+          "lon": 16.97676339
+        },
+        {
+          "stop_sequence": 5,
+          "stop_id": "1816",
+          "stop_name": "Połabian",
+          "arrival_time": "06:03:00",
+          "departure_time": "06:03:00",
+          "lat": 51.05623724,
+          "lon": 16.97047495
+        },
+        {
+          "stop_sequence": 6,
+          "stop_id": "5522",
+          "stop_name": "Biskupice Podg. DSC Poland/Top Run Poland",
+          "arrival_time": "06:22:00",
+          "departure_time": "06:22:00",
+          "lat": 51.02071994,
+          "lon": 16.89616822
+        },
+        {
+          "stop_sequence": 7,
+          "stop_id": "4881",
+          "stop_name": "Biskupice Podg. LG Energy Solution Wr. II",
+          "arrival_time": "06:24:00",
+          "departure_time": "06:24:00",
+          "lat": 51.01694598,
+          "lon": 16.8881169
+        },
+        {
+          "stop_sequence": 8,
+          "stop_id": "4878",
+          "stop_name": "Biskupice Podg. LG Electronics",
+          "arrival_time": "06:28:00",
+          "departure_time": "06:28:00",
+          "lat": 51.02423499,
+          "lon": 16.8905038
+        },
+        {
+          "stop_sequence": 9,
+          "stop_id": "4880",
+          "stop_name": "Biskupice Podg. LG Energy Solution Wr. I",
+          "arrival_time": "06:32:00",
+          "departure_time": "06:32:00",
+          "lat": 51.01729023,
+          "lon": 16.88065121
+        }
+      ]
+    },
+    {
+      "trip_id": "6_16587808",
+      "direction_id": "0",
+      "headsign": "Zajezdnia OBORNICKA",
+      "service_id": "6",
+      "stops": [
+        {
+          "stop_sequence": 0,
+          "stop_id": "4880",
+          "stop_name": "Biskupice Podg. LG Energy Solution Wr. I",
+          "arrival_time": "07:15:00",
+          "departure_time": "07:15:00",
+          "lat": 51.01729023,
+          "lon": 16.88065121
+        },
+        {
+          "stop_sequence": 1,
+          "stop_id": "4873",
+          "stop_name": "Biskupice Podg. LG Electronics",
+          "arrival_time": "07:19:00",
+          "departure_time": "07:19:00",
+          "lat": 51.02364482,
+          "lon": 16.89104075
+        },
+        {
+          "stop_sequence": 2,
+          "stop_id": "4875",
+          "stop_name": "Biskupice Podg. LG Innotek",
+          "arrival_time": "07:24:00",
+          "departure_time": "07:24:00",
+          "lat": 51.01838302,
+          "lon": 16.88883209
+        },
+        {
+          "stop_sequence": 3,
+          "stop_id": "5413",
+          "stop_name": "Biskupice Podg. DSC Poland/Top Run Poland",
+          "arrival_time": "07:26:00",
+          "departure_time": "07:26:00",
+          "lat": 51.02088034,
+          "lon": 16.89624554
+        },
+        {
+          "stop_sequence": 4,
+          "stop_id": "1817",
+          "stop_name": "Połabian",
+          "arrival_time": "07:49:00",
+          "departure_time": "07:49:00",
+          "lat": 51.05671431,
+          "lon": 16.97131836
+        },
+        {
+          "stop_sequence": 5,
+          "stop_id": "5626",
+          "stop_name": "Wałbrzyska",
+          "arrival_time": "07:54:00",
+          "departure_time": "07:54:00",
+          "lat": 51.06489636,
+          "lon": 16.97613239
+        },
+        {
+          "stop_sequence": 6,
+          "stop_id": "1963",
+          "stop_name": "Wiejska",
+          "arrival_time": "07:58:00",
+          "departure_time": "07:58:00",
+          "lat": 51.07763602,
+          "lon": 16.96391602
+        },
+        {
+          "stop_sequence": 7,
+          "stop_id": "2855",
+          "stop_name": "FAT",
+          "arrival_time": "08:06:00",
+          "departure_time": "08:06:00",
+          "lat": 51.09514288,
+          "lon": 16.97946312
+        },
+        {
+          "stop_sequence": 8,
+          "stop_id": "1240",
+          "stop_name": "Wrocławski Park Technologiczny",
+          "arrival_time": "08:09:00",
+          "departure_time": "08:09:00",
+          "lat": 51.10611537,
+          "lon": 16.97068638
+        },
+        {
+          "stop_sequence": 9,
+          "stop_id": "1142",
+          "stop_name": "Kwiska",
+          "arrival_time": "08:16:00",
+          "departure_time": "08:16:00",
+          "lat": 51.125275,
+          "lon": 16.98351443
+        },
+        {
+          "stop_sequence": 10,
+          "stop_id": "5151",
+          "stop_name": "Wejherowska (Hala Orbita)",
+          "arrival_time": "08:19:00",
+          "departure_time": "08:19:00",
+          "lat": 51.1298272,
+          "lon": 16.98512598
+        },
+        {
+          "stop_sequence": 11,
+          "stop_id": "5285",
+          "stop_name": "Milenijna (Hala Orbita)",
+          "arrival_time": "08:21:00",
+          "departure_time": "08:21:00",
+          "lat": 51.13220682,
+          "lon": 16.98975923
+        },
+        {
+          "stop_sequence": 12,
+          "stop_id": "2784",
+          "stop_name": "most Milenijny",
+          "arrival_time": "08:22:00",
+          "departure_time": "08:22:00",
+          "lat": 51.13666865,
+          "lon": 17.0004071
+        },
+        {
+          "stop_sequence": 13,
+          "stop_id": "2173",
+          "stop_name": "Obornicka (Obwodnica)",
+          "arrival_time": "08:26:00",
+          "departure_time": "08:26:00",
+          "lat": 51.15705253,
+          "lon": 17.0106856
+        },
+        {
+          "stop_sequence": 14,
+          "stop_id": "669",
+          "stop_name": "Irysowa",
+          "arrival_time": "08:27:00",
+          "departure_time": "08:27:00",
+          "lat": 51.15064715,
+          "lon": 17.01789534
+        },
+        {
+          "stop_sequence": 15,
+          "stop_id": "5583",
+          "stop_name": "Zajezdnia OBORNICKA",
+          "arrival_time": "08:29:00",
+          "departure_time": "08:29:00",
+          "lat": 51.14873744,
+          "lon": 17.02106859
+        }
+      ]
+    },
+    {
+      "trip_id": "6_16587809",
+      "direction_id": "0",
+      "headsign": "Kwiska",
+      "service_id": "6",
+      "stops": [
+        {
+          "stop_sequence": 0,
+          "stop_id": "5583",
+          "stop_name": "Zajezdnia OBORNICKA",
+          "arrival_time": "13:15:00",
+          "departure_time": "13:15:00",
+          "lat": 51.14873744,
+          "lon": 17.02106859
+        },
+        {
+          "stop_sequence": 1,
+          "stop_id": "670",
+          "stop_name": "Irysowa",
+          "arrival_time": "13:17:00",
+          "departure_time": "13:17:00",
+          "lat": 51.1514322,
+          "lon": 17.01738486
+        },
+        {
+          "stop_sequence": 2,
+          "stop_id": "2174",
+          "stop_name": "Obornicka (Obwodnica)",
+          "arrival_time": "13:18:00",
+          "departure_time": "13:18:00",
+          "lat": 51.15747564,
+          "lon": 17.00940342
+        },
+        {
+          "stop_sequence": 3,
+          "stop_id": "2783",
+          "stop_name": "most Milenijny",
+          "arrival_time": "13:22:00",
+          "departure_time": "13:22:00",
+          "lat": 51.13651148,
+          "lon": 16.99927273
+        },
+        {
+          "stop_sequence": 4,
+          "stop_id": "5284",
+          "stop_name": "Milenijna (Hala Orbita)",
+          "arrival_time": "13:23:00",
+          "departure_time": "13:23:00",
+          "lat": 51.1323514,
+          "lon": 16.9894391
+        },
+        {
+          "stop_sequence": 5,
+          "stop_id": "5150",
+          "stop_name": "Wejherowska (Hala Orbita)",
+          "arrival_time": "13:26:00",
+          "departure_time": "13:26:00",
+          "lat": 51.12917185,
+          "lon": 16.98532848
+        },
+        {
+          "stop_sequence": 6,
+          "stop_id": "212",
+          "stop_name": "Kwiska",
+          "arrival_time": "13:28:00",
+          "departure_time": "13:28:00",
+          "lat": 51.12558237,
+          "lon": 16.98341998
+        }
+      ]
+    },
+    {
+      "trip_id": "6_16587810",
+      "direction_id": "1",
+      "headsign": "Biskupice Podg. LG Energy Solution Wr. I",
+      "service_id": "6",
+      "stops": [
+        {
+          "stop_sequence": 0,
+          "stop_id": "212",
+          "stop_name": "Kwiska",
+          "arrival_time": "13:29:00",
+          "departure_time": "13:29:00",
+          "lat": 51.12558237,
+          "lon": 16.98341998
+        },
+        {
+          "stop_sequence": 1,
+          "stop_id": "1239",
+          "stop_name": "Wrocławski Park Technologiczny",
+          "arrival_time": "13:36:00",
+          "departure_time": "13:36:00",
+          "lat": 51.10506383,
+          "lon": 16.97074816
+        },
+        {
+          "stop_sequence": 2,
+          "stop_id": "281",
+          "stop_name": "FAT",
+          "arrival_time": "13:40:00",
+          "departure_time": "13:40:00",
+          "lat": 51.09412632,
+          "lon": 16.9783528
+        },
+        {
+          "stop_sequence": 3,
+          "stop_id": "403",
+          "stop_name": "Wiejska",
+          "arrival_time": "13:44:00",
+          "departure_time": "13:44:00",
+          "lat": 51.07817456,
+          "lon": 16.96410835
+        },
+        {
+          "stop_sequence": 4,
+          "stop_id": "5625",
+          "stop_name": "Wałbrzyska",
+          "arrival_time": "13:49:00",
+          "departure_time": "13:49:00",
+          "lat": 51.06323004,
+          "lon": 16.97676339
+        },
+        {
+          "stop_sequence": 5,
+          "stop_id": "1816",
+          "stop_name": "Połabian",
+          "arrival_time": "13:51:00",
+          "departure_time": "13:51:00",
+          "lat": 51.05623724,
+          "lon": 16.97047495
+        },
+        {
+          "stop_sequence": 6,
+          "stop_id": "5522",
+          "stop_name": "Biskupice Podg. DSC Poland/Top Run Poland",
+          "arrival_time": "14:10:00",
+          "departure_time": "14:10:00",
+          "lat": 51.02071994,
+          "lon": 16.89616822
+        },
+        {
+          "stop_sequence": 7,
+          "stop_id": "4881",
+          "stop_name": "Biskupice Podg. LG Energy Solution Wr. II",
+          "arrival_time": "14:12:00",
+          "departure_time": "14:12:00",
+          "lat": 51.01694598,
+          "lon": 16.8881169
+        },
+        {
+          "stop_sequence": 8,
+          "stop_id": "4878",
+          "stop_name": "Biskupice Podg. LG Electronics",
+          "arrival_time": "14:16:00",
+          "departure_time": "14:16:00",
+          "lat": 51.02423499,
+          "lon": 16.8905038
+        },
+        {
+          "stop_sequence": 9,
+          "stop_id": "4880",
+          "stop_name": "Biskupice Podg. LG Energy Solution Wr. I",
+          "arrival_time": "14:20:00",
+          "departure_time": "14:20:00",
+          "lat": 51.01729023,
+          "lon": 16.88065121
+        }
+      ]
+    },
+    {
+      "trip_id": "6_16587811",
+      "direction_id": "0",
+      "headsign": "Zajezdnia OBORNICKA",
+      "service_id": "6",
+      "stops": [
+        {
+          "stop_sequence": 0,
+          "stop_id": "4880",
+          "stop_name": "Biskupice Podg. LG Energy Solution Wr. I",
+          "arrival_time": "14:57:00",
+          "departure_time": "14:57:00",
+          "lat": 51.01729023,
+          "lon": 16.88065121
+        },
+        {
+          "stop_sequence": 1,
+          "stop_id": "4873",
+          "stop_name": "Biskupice Podg. LG Electronics",
+          "arrival_time": "15:01:00",
+          "departure_time": "15:01:00",
+          "lat": 51.02364482,
+          "lon": 16.89104075
+        },
+        {
+          "stop_sequence": 2,
+          "stop_id": "4875",
+          "stop_name": "Biskupice Podg. LG Innotek",
+          "arrival_time": "15:06:00",
+          "departure_time": "15:06:00",
+          "lat": 51.01838302,
+          "lon": 16.88883209
+        },
+        {
+          "stop_sequence": 3,
+          "stop_id": "5413",
+          "stop_name": "Biskupice Podg. DSC Poland/Top Run Poland",
+          "arrival_time": "15:08:00",
+          "departure_time": "15:08:00",
+          "lat": 51.02088034,
+          "lon": 16.89624554
+        },
+        {
+          "stop_sequence": 4,
+          "stop_id": "1817",
+          "stop_name": "Połabian",
+          "arrival_time": "15:31:00",
+          "departure_time": "15:31:00",
+          "lat": 51.05671431,
+          "lon": 16.97131836
+        },
+        {
+          "stop_sequence": 5,
+          "stop_id": "5626",
+          "stop_name": "Wałbrzyska",
+          "arrival_time": "15:37:00",
+          "departure_time": "15:37:00",
+          "lat": 51.06489636,
+          "lon": 16.97613239
+        },
+        {
+          "stop_sequence": 6,
+          "stop_id": "1963",
+          "stop_name": "Wiejska",
+          "arrival_time": "15:43:00",
+          "departure_time": "15:43:00",
+          "lat": 51.07763602,
+          "lon": 16.96391602
+        },
+        {
+          "stop_sequence": 7,
+          "stop_id": "2855",
+          "stop_name": "FAT",
+          "arrival_time": "15:51:00",
+          "departure_time": "15:51:00",
+          "lat": 51.09514288,
+          "lon": 16.97946312
+        },
+        {
+          "stop_sequence": 8,
+          "stop_id": "1240",
+          "stop_name": "Wrocławski Park Technologiczny",
+          "arrival_time": "15:54:00",
+          "departure_time": "15:54:00",
+          "lat": 51.10611537,
+          "lon": 16.97068638
+        },
+        {
+          "stop_sequence": 9,
+          "stop_id": "1142",
+          "stop_name": "Kwiska",
+          "arrival_time": "16:01:00",
+          "departure_time": "16:01:00",
+          "lat": 51.125275,
+          "lon": 16.98351443
+        },
+        {
+          "stop_sequence": 10,
+          "stop_id": "5151",
+          "stop_name": "Wejherowska (Hala Orbita)",
+          "arrival_time": "16:04:00",
+          "departure_time": "16:04:00",
+          "lat": 51.1298272,
+          "lon": 16.98512598
+        },
+        {
+          "stop_sequence": 11,
+          "stop_id": "5285",
+          "stop_name": "Milenijna (Hala Orbita)",
+          "arrival_time": "16:06:00",
+          "departure_time": "16:06:00",
+          "lat": 51.13220682,
+          "lon": 16.98975923
+        },
+        {
+          "stop_sequence": 12,
+          "stop_id": "2784",
+          "stop_name": "most Milenijny",
+          "arrival_time": "16:07:00",
+          "departure_time": "16:07:00",
+          "lat": 51.13666865,
+          "lon": 17.0004071
+        },
+        {
+          "stop_sequence": 13,
+          "stop_id": "2173",
+          "stop_name": "Obornicka (Obwodnica)",
+          "arrival_time": "16:11:00",
+          "departure_time": "16:11:00",
+          "lat": 51.15705253,
+          "lon": 17.0106856
+        },
+        {
+          "stop_sequence": 14,
+          "stop_id": "669",
+          "stop_name": "Irysowa",
+          "arrival_time": "16:12:00",
+          "departure_time": "16:12:00",
+          "lat": 51.15064715,
+          "lon": 17.01789534
+        },
+        {
+          "stop_sequence": 15,
+          "stop_id": "5583",
+          "stop_name": "Zajezdnia OBORNICKA",
+          "arrival_time": "16:14:00",
+          "departure_time": "16:14:00",
+          "lat": 51.14873744,
+          "lon": 17.02106859
+        }
+      ]
+    },
+    {
+      "trip_id": "6_16587812",
+      "direction_id": "0",
+      "headsign": "Kwiska",
+      "service_id": "6",
+      "stops": [
+        {
+          "stop_sequence": 0,
+          "stop_id": "5583",
+          "stop_name": "Zajezdnia OBORNICKA",
+          "arrival_time": "06:28:00",
+          "departure_time": "06:28:00",
+          "lat": 51.14873744,
+          "lon": 17.02106859
+        },
+        {
+          "stop_sequence": 1,
+          "stop_id": "670",
+          "stop_name": "Irysowa",
+          "arrival_time": "06:30:00",
+          "departure_time": "06:30:00",
+          "lat": 51.1514322,
+          "lon": 17.01738486
+        },
+        {
+          "stop_sequence": 2,
+          "stop_id": "2174",
+          "stop_name": "Obornicka (Obwodnica)",
+          "arrival_time": "06:31:00",
+          "departure_time": "06:31:00",
+          "lat": 51.15747564,
+          "lon": 17.00940342
+        },
+        {
+          "stop_sequence": 3,
+          "stop_id": "2783",
+          "stop_name": "most Milenijny",
+          "arrival_time": "06:35:00",
+          "departure_time": "06:35:00",
+          "lat": 51.13651148,
+          "lon": 16.99927273
+        },
+        {
+          "stop_sequence": 4,
+          "stop_id": "5284",
+          "stop_name": "Milenijna (Hala Orbita)",
+          "arrival_time": "06:36:00",
+          "departure_time": "06:36:00",
+          "lat": 51.1323514,
+          "lon": 16.9894391
+        },
+        {
+          "stop_sequence": 5,
+          "stop_id": "5150",
+          "stop_name": "Wejherowska (Hala Orbita)",
+          "arrival_time": "06:39:00",
+          "departure_time": "06:39:00",
+          "lat": 51.12917185,
+          "lon": 16.98532848
+        },
+        {
+          "stop_sequence": 6,
+          "stop_id": "212",
+          "stop_name": "Kwiska",
+          "arrival_time": "06:41:00",
+          "departure_time": "06:41:00",
+          "lat": 51.12558237,
+          "lon": 16.98341998
+        }
+      ]
+    },
+    {
+      "trip_id": "6_16587813",
+      "direction_id": "1",
+      "headsign": "Biskupice Podg. LG Energy Solution Wr. I",
+      "service_id": "6",
+      "stops": [
+        {
+          "stop_sequence": 0,
+          "stop_id": "212",
+          "stop_name": "Kwiska",
+          "arrival_time": "06:42:00",
+          "departure_time": "06:42:00",
+          "lat": 51.12558237,
+          "lon": 16.98341998
+        },
+        {
+          "stop_sequence": 1,
+          "stop_id": "1239",
+          "stop_name": "Wrocławski Park Technologiczny",
+          "arrival_time": "06:47:00",
+          "departure_time": "06:47:00",
+          "lat": 51.10506383,
+          "lon": 16.97074816
+        },
+        {
+          "stop_sequence": 2,
+          "stop_id": "281",
+          "stop_name": "FAT",
+          "arrival_time": "06:51:00",
+          "departure_time": "06:51:00",
+          "lat": 51.09412632,
+          "lon": 16.9783528
+        },
+        {
+          "stop_sequence": 3,
+          "stop_id": "403",
+          "stop_name": "Wiejska",
+          "arrival_time": "06:55:00",
+          "departure_time": "06:55:00",
+          "lat": 51.07817456,
+          "lon": 16.96410835
+        },
+        {
+          "stop_sequence": 4,
+          "stop_id": "5625",
+          "stop_name": "Wałbrzyska",
+          "arrival_time": "06:59:00",
+          "departure_time": "06:59:00",
+          "lat": 51.06323004,
+          "lon": 16.97676339
+        },
+        {
+          "stop_sequence": 5,
+          "stop_id": "1816",
+          "stop_name": "Połabian",
+          "arrival_time": "07:01:00",
+          "departure_time": "07:01:00",
+          "lat": 51.05623724,
+          "lon": 16.97047495
+        },
+        {
+          "stop_sequence": 6,
+          "stop_id": "5522",
+          "stop_name": "Biskupice Podg. DSC Poland/Top Run Poland",
+          "arrival_time": "07:20:00",
+          "departure_time": "07:20:00",
+          "lat": 51.02071994,
+          "lon": 16.89616822
+        },
+        {
+          "stop_sequence": 7,
+          "stop_id": "4881",
+          "stop_name": "Biskupice Podg. LG Energy Solution Wr. II",
+          "arrival_time": "07:22:00",
+          "departure_time": "07:22:00",
+          "lat": 51.01694598,
+          "lon": 16.8881169
+        },
+        {
+          "stop_sequence": 8,
+          "stop_id": "4878",
+          "stop_name": "Biskupice Podg. LG Electronics",
+          "arrival_time": "07:26:00",
+          "departure_time": "07:26:00",
+          "lat": 51.02423499,
+          "lon": 16.8905038
+        },
+        {
+          "stop_sequence": 9,
+          "stop_id": "4880",
+          "stop_name": "Biskupice Podg. LG Energy Solution Wr. I",
+          "arrival_time": "07:30:00",
+          "departure_time": "07:30:00",
+          "lat": 51.01729023,
+          "lon": 16.88065121
+        }
+      ]
+    },
+    {
+      "trip_id": "6_16587814",
+      "direction_id": "0",
+      "headsign": "Zajezdnia OBORNICKA",
+      "service_id": "6",
+      "stops": [
+        {
+          "stop_sequence": 0,
+          "stop_id": "4880",
+          "stop_name": "Biskupice Podg. LG Energy Solution Wr. I",
+          "arrival_time": "07:55:00",
+          "departure_time": "07:55:00",
+          "lat": 51.01729023,
+          "lon": 16.88065121
+        },
+        {
+          "stop_sequence": 1,
+          "stop_id": "1817",
+          "stop_name": "Połabian",
+          "arrival_time": "08:18:00",
+          "departure_time": "08:18:00",
+          "lat": 51.05671431,
+          "lon": 16.97131836
+        },
+        {
+          "stop_sequence": 2,
+          "stop_id": "5626",
+          "stop_name": "Wałbrzyska",
+          "arrival_time": "08:23:00",
+          "departure_time": "08:23:00",
+          "lat": 51.06489636,
+          "lon": 16.97613239
+        },
+        {
+          "stop_sequence": 3,
+          "stop_id": "1963",
+          "stop_name": "Wiejska",
+          "arrival_time": "08:27:00",
+          "departure_time": "08:27:00",
+          "lat": 51.07763602,
+          "lon": 16.96391602
+        },
+        {
+          "stop_sequence": 4,
+          "stop_id": "2855",
+          "stop_name": "FAT",
+          "arrival_time": "08:35:00",
+          "departure_time": "08:35:00",
+          "lat": 51.09514288,
+          "lon": 16.97946312
+        },
+        {
+          "stop_sequence": 5,
+          "stop_id": "1240",
+          "stop_name": "Wrocławski Park Technologiczny",
+          "arrival_time": "08:38:00",
+          "departure_time": "08:38:00",
+          "lat": 51.10611537,
+          "lon": 16.97068638
+        },
+        {
+          "stop_sequence": 6,
+          "stop_id": "1142",
+          "stop_name": "Kwiska",
+          "arrival_time": "08:45:00",
+          "departure_time": "08:45:00",
+          "lat": 51.125275,
+          "lon": 16.98351443
+        },
+        {
+          "stop_sequence": 7,
+          "stop_id": "5151",
+          "stop_name": "Wejherowska (Hala Orbita)",
+          "arrival_time": "08:48:00",
+          "departure_time": "08:48:00",
+          "lat": 51.1298272,
+          "lon": 16.98512598
+        },
+        {
+          "stop_sequence": 8,
+          "stop_id": "5285",
+          "stop_name": "Milenijna (Hala Orbita)",
+          "arrival_time": "08:50:00",
+          "departure_time": "08:50:00",
+          "lat": 51.13220682,
+          "lon": 16.98975923
+        },
+        {
+          "stop_sequence": 9,
+          "stop_id": "2784",
+          "stop_name": "most Milenijny",
+          "arrival_time": "08:51:00",
+          "departure_time": "08:51:00",
+          "lat": 51.13666865,
+          "lon": 17.0004071
+        },
+        {
+          "stop_sequence": 10,
+          "stop_id": "2173",
+          "stop_name": "Obornicka (Obwodnica)",
+          "arrival_time": "08:55:00",
+          "departure_time": "08:55:00",
+          "lat": 51.15705253,
+          "lon": 17.0106856
+        },
+        {
+          "stop_sequence": 11,
+          "stop_id": "669",
+          "stop_name": "Irysowa",
+          "arrival_time": "08:56:00",
+          "departure_time": "08:56:00",
+          "lat": 51.15064715,
+          "lon": 17.01789534
+        },
+        {
+          "stop_sequence": 12,
+          "stop_id": "5583",
+          "stop_name": "Zajezdnia OBORNICKA",
+          "arrival_time": "08:58:00",
+          "departure_time": "08:58:00",
+          "lat": 51.14873744,
+          "lon": 17.02106859
+        }
+      ]
+    },
+    {
+      "trip_id": "6_16587815",
+      "direction_id": "0",
+      "headsign": "Kwiska",
+      "service_id": "6",
+      "stops": [
+        {
+          "stop_sequence": 0,
+          "stop_id": "5583",
+          "stop_name": "Zajezdnia OBORNICKA",
+          "arrival_time": "14:07:00",
+          "departure_time": "14:07:00",
+          "lat": 51.14873744,
+          "lon": 17.02106859
+        },
+        {
+          "stop_sequence": 1,
+          "stop_id": "670",
+          "stop_name": "Irysowa",
+          "arrival_time": "14:09:00",
+          "departure_time": "14:09:00",
+          "lat": 51.1514322,
+          "lon": 17.01738486
+        },
+        {
+          "stop_sequence": 2,
+          "stop_id": "2174",
+          "stop_name": "Obornicka (Obwodnica)",
+          "arrival_time": "14:10:00",
+          "departure_time": "14:10:00",
+          "lat": 51.15747564,
+          "lon": 17.00940342
+        },
+        {
+          "stop_sequence": 3,
+          "stop_id": "2783",
+          "stop_name": "most Milenijny",
+          "arrival_time": "14:14:00",
+          "departure_time": "14:14:00",
+          "lat": 51.13651148,
+          "lon": 16.99927273
+        },
+        {
+          "stop_sequence": 4,
+          "stop_id": "5284",
+          "stop_name": "Milenijna (Hala Orbita)",
+          "arrival_time": "14:15:00",
+          "departure_time": "14:15:00",
+          "lat": 51.1323514,
+          "lon": 16.9894391
+        },
+        {
+          "stop_sequence": 5,
+          "stop_id": "5150",
+          "stop_name": "Wejherowska (Hala Orbita)",
+          "arrival_time": "14:19:00",
+          "departure_time": "14:19:00",
+          "lat": 51.12917185,
+          "lon": 16.98532848
+        },
+        {
+          "stop_sequence": 6,
+          "stop_id": "212",
+          "stop_name": "Kwiska",
+          "arrival_time": "14:21:00",
+          "departure_time": "14:21:00",
+          "lat": 51.12558237,
+          "lon": 16.98341998
+        }
+      ]
+    },
+    {
+      "trip_id": "6_16587816",
+      "direction_id": "1",
+      "headsign": "Biskupice Podg. LG Energy Solution Wr. I",
+      "service_id": "6",
+      "stops": [
+        {
+          "stop_sequence": 0,
+          "stop_id": "212",
+          "stop_name": "Kwiska",
+          "arrival_time": "14:23:00",
+          "departure_time": "14:23:00",
+          "lat": 51.12558237,
+          "lon": 16.98341998
+        },
+        {
+          "stop_sequence": 1,
+          "stop_id": "1239",
+          "stop_name": "Wrocławski Park Technologiczny",
+          "arrival_time": "14:30:00",
+          "departure_time": "14:30:00",
+          "lat": 51.10506383,
+          "lon": 16.97074816
+        },
+        {
+          "stop_sequence": 2,
+          "stop_id": "281",
+          "stop_name": "FAT",
+          "arrival_time": "14:34:00",
+          "departure_time": "14:34:00",
+          "lat": 51.09412632,
+          "lon": 16.9783528
+        },
+        {
+          "stop_sequence": 3,
+          "stop_id": "403",
+          "stop_name": "Wiejska",
+          "arrival_time": "14:39:00",
+          "departure_time": "14:39:00",
+          "lat": 51.07817456,
+          "lon": 16.96410835
+        },
+        {
+          "stop_sequence": 4,
+          "stop_id": "5625",
+          "stop_name": "Wałbrzyska",
+          "arrival_time": "14:44:00",
+          "departure_time": "14:44:00",
+          "lat": 51.06323004,
+          "lon": 16.97676339
+        },
+        {
+          "stop_sequence": 5,
+          "stop_id": "1816",
+          "stop_name": "Połabian",
+          "arrival_time": "14:46:00",
+          "departure_time": "14:46:00",
+          "lat": 51.05623724,
+          "lon": 16.97047495
+        },
+        {
+          "stop_sequence": 6,
+          "stop_id": "4880",
+          "stop_name": "Biskupice Podg. LG Energy Solution Wr. I",
+          "arrival_time": "15:05:00",
+          "departure_time": "15:05:00",
+          "lat": 51.01729023,
+          "lon": 16.88065121
+        }
+      ]
+    },
+    {
+      "trip_id": "6_16587817",
+      "direction_id": "0",
+      "headsign": "Kwiska",
+      "service_id": "6",
+      "stops": [
+        {
+          "stop_sequence": 0,
+          "stop_id": "4880",
+          "stop_name": "Biskupice Podg. LG Energy Solution Wr. I",
+          "arrival_time": "15:30:00",
+          "departure_time": "15:30:00",
+          "lat": 51.01729023,
+          "lon": 16.88065121
+        },
+        {
+          "stop_sequence": 1,
+          "stop_id": "4873",
+          "stop_name": "Biskupice Podg. LG Electronics",
+          "arrival_time": "15:34:00",
+          "departure_time": "15:34:00",
+          "lat": 51.02364482,
+          "lon": 16.89104075
+        },
+        {
+          "stop_sequence": 2,
+          "stop_id": "4875",
+          "stop_name": "Biskupice Podg. LG Innotek",
+          "arrival_time": "15:39:00",
+          "departure_time": "15:39:00",
+          "lat": 51.01838302,
+          "lon": 16.88883209
+        },
+        {
+          "stop_sequence": 3,
+          "stop_id": "5413",
+          "stop_name": "Biskupice Podg. DSC Poland/Top Run Poland",
+          "arrival_time": "15:41:00",
+          "departure_time": "15:41:00",
+          "lat": 51.02088034,
+          "lon": 16.89624554
+        },
+        {
+          "stop_sequence": 4,
+          "stop_id": "1817",
+          "stop_name": "Połabian",
+          "arrival_time": "16:04:00",
+          "departure_time": "16:04:00",
+          "lat": 51.05671431,
+          "lon": 16.97131836
+        },
+        {
+          "stop_sequence": 5,
+          "stop_id": "5626",
+          "stop_name": "Wałbrzyska",
+          "arrival_time": "16:10:00",
+          "departure_time": "16:10:00",
+          "lat": 51.06489636,
+          "lon": 16.97613239
+        },
+        {
+          "stop_sequence": 6,
+          "stop_id": "1963",
+          "stop_name": "Wiejska",
+          "arrival_time": "16:16:00",
+          "departure_time": "16:16:00",
+          "lat": 51.07763602,
+          "lon": 16.96391602
+        },
+        {
+          "stop_sequence": 7,
+          "stop_id": "2855",
+          "stop_name": "FAT",
+          "arrival_time": "16:24:00",
+          "departure_time": "16:24:00",
+          "lat": 51.09514288,
+          "lon": 16.97946312
+        },
+        {
+          "stop_sequence": 8,
+          "stop_id": "1240",
+          "stop_name": "Wrocławski Park Technologiczny",
+          "arrival_time": "16:27:00",
+          "departure_time": "16:27:00",
+          "lat": 51.10611537,
+          "lon": 16.97068638
+        },
+        {
+          "stop_sequence": 9,
+          "stop_id": "5150",
+          "stop_name": "Wejherowska (Hala Orbita)",
+          "arrival_time": "16:35:00",
+          "departure_time": "16:35:00",
+          "lat": 51.12917185,
+          "lon": 16.98532848
+        },
+        {
+          "stop_sequence": 10,
+          "stop_id": "212",
+          "stop_name": "Kwiska",
+          "arrival_time": "16:37:00",
+          "departure_time": "16:37:00",
+          "lat": 51.12558237,
+          "lon": 16.98341998
+        }
+      ]
+    },
+    {
+      "trip_id": "6_16587822",
+      "direction_id": "0",
+      "headsign": "Kwiska",
+      "service_id": "6",
+      "stops": [
+        {
+          "stop_sequence": 0,
+          "stop_id": "5583",
+          "stop_name": "Zajezdnia OBORNICKA",
+          "arrival_time": "15:03:00",
+          "departure_time": "15:03:00",
+          "lat": 51.14873744,
+          "lon": 17.02106859
+        },
+        {
+          "stop_sequence": 1,
+          "stop_id": "670",
+          "stop_name": "Irysowa",
+          "arrival_time": "15:05:00",
+          "departure_time": "15:05:00",
+          "lat": 51.1514322,
+          "lon": 17.01738486
+        },
+        {
+          "stop_sequence": 2,
+          "stop_id": "2174",
+          "stop_name": "Obornicka (Obwodnica)",
+          "arrival_time": "15:06:00",
+          "departure_time": "15:06:00",
+          "lat": 51.15747564,
+          "lon": 17.00940342
+        },
+        {
+          "stop_sequence": 3,
+          "stop_id": "2783",
+          "stop_name": "most Milenijny",
+          "arrival_time": "15:10:00",
+          "departure_time": "15:10:00",
+          "lat": 51.13651148,
+          "lon": 16.99927273
+        },
+        {
+          "stop_sequence": 4,
+          "stop_id": "5284",
+          "stop_name": "Milenijna (Hala Orbita)",
+          "arrival_time": "15:13:00",
+          "departure_time": "15:13:00",
+          "lat": 51.1323514,
+          "lon": 16.9894391
+        },
+        {
+          "stop_sequence": 5,
+          "stop_id": "5150",
+          "stop_name": "Wejherowska (Hala Orbita)",
+          "arrival_time": "15:18:00",
+          "departure_time": "15:18:00",
+          "lat": 51.12917185,
+          "lon": 16.98532848
+        },
+        {
+          "stop_sequence": 6,
+          "stop_id": "212",
+          "stop_name": "Kwiska",
+          "arrival_time": "15:20:00",
+          "departure_time": "15:20:00",
+          "lat": 51.12558237,
+          "lon": 16.98341998
+        }
+      ]
+    },
+    {
+      "trip_id": "6_16587823",
+      "direction_id": "1",
+      "headsign": "Biskupice Podg. LG Energy Solution Wr. I",
+      "service_id": "6",
+      "stops": [
+        {
+          "stop_sequence": 0,
+          "stop_id": "212",
+          "stop_name": "Kwiska",
+          "arrival_time": "15:22:00",
+          "departure_time": "15:22:00",
+          "lat": 51.12558237,
+          "lon": 16.98341998
+        },
+        {
+          "stop_sequence": 1,
+          "stop_id": "1239",
+          "stop_name": "Wrocławski Park Technologiczny",
+          "arrival_time": "15:30:00",
+          "departure_time": "15:30:00",
+          "lat": 51.10506383,
+          "lon": 16.97074816
+        },
+        {
+          "stop_sequence": 2,
+          "stop_id": "281",
+          "stop_name": "FAT",
+          "arrival_time": "15:37:00",
+          "departure_time": "15:37:00",
+          "lat": 51.09412632,
+          "lon": 16.9783528
+        },
+        {
+          "stop_sequence": 3,
+          "stop_id": "403",
+          "stop_name": "Wiejska",
+          "arrival_time": "15:42:00",
+          "departure_time": "15:42:00",
+          "lat": 51.07817456,
+          "lon": 16.96410835
+        },
+        {
+          "stop_sequence": 4,
+          "stop_id": "5625",
+          "stop_name": "Wałbrzyska",
+          "arrival_time": "15:47:00",
+          "departure_time": "15:47:00",
+          "lat": 51.06323004,
+          "lon": 16.97676339
+        },
+        {
+          "stop_sequence": 5,
+          "stop_id": "1816",
+          "stop_name": "Połabian",
+          "arrival_time": "15:49:00",
+          "departure_time": "15:49:00",
+          "lat": 51.05623724,
+          "lon": 16.97047495
+        },
+        {
+          "stop_sequence": 6,
+          "stop_id": "4880",
+          "stop_name": "Biskupice Podg. LG Energy Solution Wr. I",
+          "arrival_time": "16:08:00",
+          "departure_time": "16:08:00",
+          "lat": 51.01729023,
+          "lon": 16.88065121
+        }
+      ]
+    },
+    {
+      "trip_id": "6_16587824",
+      "direction_id": "0",
+      "headsign": "Zajezdnia OBORNICKA",
+      "service_id": "6",
+      "stops": [
+        {
+          "stop_sequence": 0,
+          "stop_id": "4880",
+          "stop_name": "Biskupice Podg. LG Energy Solution Wr. I",
+          "arrival_time": "16:30:00",
+          "departure_time": "16:30:00",
+          "lat": 51.01729023,
+          "lon": 16.88065121
+        },
+        {
+          "stop_sequence": 1,
+          "stop_id": "4873",
+          "stop_name": "Biskupice Podg. LG Electronics",
+          "arrival_time": "16:34:00",
+          "departure_time": "16:34:00",
+          "lat": 51.02364482,
+          "lon": 16.89104075
+        },
+        {
+          "stop_sequence": 2,
+          "stop_id": "4875",
+          "stop_name": "Biskupice Podg. LG Innotek",
+          "arrival_time": "16:39:00",
+          "departure_time": "16:39:00",
+          "lat": 51.01838302,
+          "lon": 16.88883209
+        },
+        {
+          "stop_sequence": 3,
+          "stop_id": "5413",
+          "stop_name": "Biskupice Podg. DSC Poland/Top Run Poland",
+          "arrival_time": "16:41:00",
+          "departure_time": "16:41:00",
+          "lat": 51.02088034,
+          "lon": 16.89624554
+        },
+        {
+          "stop_sequence": 4,
+          "stop_id": "1817",
+          "stop_name": "Połabian",
+          "arrival_time": "17:04:00",
+          "departure_time": "17:04:00",
+          "lat": 51.05671431,
+          "lon": 16.97131836
+        },
+        {
+          "stop_sequence": 5,
+          "stop_id": "5626",
+          "stop_name": "Wałbrzyska",
+          "arrival_time": "17:09:00",
+          "departure_time": "17:09:00",
+          "lat": 51.06489636,
+          "lon": 16.97613239
+        },
+        {
+          "stop_sequence": 6,
+          "stop_id": "1963",
+          "stop_name": "Wiejska",
+          "arrival_time": "17:12:00",
+          "departure_time": "17:12:00",
+          "lat": 51.07763602,
+          "lon": 16.96391602
+        },
+        {
+          "stop_sequence": 7,
+          "stop_id": "2855",
+          "stop_name": "FAT",
+          "arrival_time": "17:20:00",
+          "departure_time": "17:20:00",
+          "lat": 51.09514288,
+          "lon": 16.97946312
+        },
+        {
+          "stop_sequence": 8,
+          "stop_id": "1240",
+          "stop_name": "Wrocławski Park Technologiczny",
+          "arrival_time": "17:23:00",
+          "departure_time": "17:23:00",
+          "lat": 51.10611537,
+          "lon": 16.97068638
+        },
+        {
+          "stop_sequence": 9,
+          "stop_id": "1142",
+          "stop_name": "Kwiska",
+          "arrival_time": "17:30:00",
+          "departure_time": "17:30:00",
+          "lat": 51.125275,
+          "lon": 16.98351443
+        },
+        {
+          "stop_sequence": 10,
+          "stop_id": "5151",
+          "stop_name": "Wejherowska (Hala Orbita)",
+          "arrival_time": "17:33:00",
+          "departure_time": "17:33:00",
+          "lat": 51.1298272,
+          "lon": 16.98512598
+        },
+        {
+          "stop_sequence": 11,
+          "stop_id": "5285",
+          "stop_name": "Milenijna (Hala Orbita)",
+          "arrival_time": "17:35:00",
+          "departure_time": "17:35:00",
+          "lat": 51.13220682,
+          "lon": 16.98975923
+        },
+        {
+          "stop_sequence": 12,
+          "stop_id": "2784",
+          "stop_name": "most Milenijny",
+          "arrival_time": "17:36:00",
+          "departure_time": "17:36:00",
+          "lat": 51.13666865,
+          "lon": 17.0004071
+        },
+        {
+          "stop_sequence": 13,
+          "stop_id": "2173",
+          "stop_name": "Obornicka (Obwodnica)",
+          "arrival_time": "17:40:00",
+          "departure_time": "17:40:00",
+          "lat": 51.15705253,
+          "lon": 17.0106856
+        },
+        {
+          "stop_sequence": 14,
+          "stop_id": "669",
+          "stop_name": "Irysowa",
+          "arrival_time": "17:41:00",
+          "departure_time": "17:41:00",
+          "lat": 51.15064715,
+          "lon": 17.01789534
+        },
+        {
+          "stop_sequence": 15,
+          "stop_id": "5583",
+          "stop_name": "Zajezdnia OBORNICKA",
+          "arrival_time": "17:43:00",
+          "departure_time": "17:43:00",
+          "lat": 51.14873744,
+          "lon": 17.02106859
+        }
+      ]
+    },
+    {
+      "trip_id": "8_16590764",
+      "direction_id": "0",
+      "headsign": "Kwiska",
+      "service_id": "8",
+      "stops": [
+        {
+          "stop_sequence": 0,
+          "stop_id": "5583",
+          "stop_name": "Zajezdnia OBORNICKA",
+          "arrival_time": "05:22:00",
+          "departure_time": "05:22:00",
+          "lat": 51.14873744,
+          "lon": 17.02106859
+        },
+        {
+          "stop_sequence": 1,
+          "stop_id": "670",
+          "stop_name": "Irysowa",
+          "arrival_time": "05:24:00",
+          "departure_time": "05:24:00",
+          "lat": 51.1514322,
+          "lon": 17.01738486
+        },
+        {
+          "stop_sequence": 2,
+          "stop_id": "2174",
+          "stop_name": "Obornicka (Obwodnica)",
+          "arrival_time": "05:25:00",
+          "departure_time": "05:25:00",
+          "lat": 51.15747564,
+          "lon": 17.00940342
+        },
+        {
+          "stop_sequence": 3,
+          "stop_id": "2783",
+          "stop_name": "most Milenijny",
+          "arrival_time": "05:29:00",
+          "departure_time": "05:29:00",
+          "lat": 51.13651148,
+          "lon": 16.99927273
+        },
+        {
+          "stop_sequence": 4,
+          "stop_id": "5284",
+          "stop_name": "Milenijna (Hala Orbita)",
+          "arrival_time": "05:30:00",
+          "departure_time": "05:30:00",
+          "lat": 51.1323514,
+          "lon": 16.9894391
+        },
+        {
+          "stop_sequence": 5,
+          "stop_id": "5150",
+          "stop_name": "Wejherowska (Hala Orbita)",
+          "arrival_time": "05:33:00",
+          "departure_time": "05:33:00",
+          "lat": 51.12917185,
+          "lon": 16.98532848
+        },
+        {
+          "stop_sequence": 6,
+          "stop_id": "212",
+          "stop_name": "Kwiska",
+          "arrival_time": "05:35:00",
+          "departure_time": "05:35:00",
+          "lat": 51.12558237,
+          "lon": 16.98341998
+        }
+      ]
+    },
+    {
+      "trip_id": "8_16590765",
+      "direction_id": "1",
+      "headsign": "Biskupice Podg. LG Energy Solution Wr. I",
+      "service_id": "8",
+      "stops": [
+        {
+          "stop_sequence": 0,
+          "stop_id": "212",
+          "stop_name": "Kwiska",
+          "arrival_time": "05:36:00",
+          "departure_time": "05:36:00",
+          "lat": 51.12558237,
+          "lon": 16.98341998
+        },
+        {
+          "stop_sequence": 1,
+          "stop_id": "1239",
+          "stop_name": "Wrocławski Park Technologiczny",
+          "arrival_time": "05:41:00",
+          "departure_time": "05:41:00",
+          "lat": 51.10506383,
+          "lon": 16.97074816
+        },
+        {
+          "stop_sequence": 2,
+          "stop_id": "281",
+          "stop_name": "FAT",
+          "arrival_time": "05:44:00",
+          "departure_time": "05:44:00",
+          "lat": 51.09412632,
+          "lon": 16.9783528
+        },
+        {
+          "stop_sequence": 3,
+          "stop_id": "403",
+          "stop_name": "Wiejska",
+          "arrival_time": "05:48:00",
+          "departure_time": "05:48:00",
+          "lat": 51.07817456,
+          "lon": 16.96410835
+        },
+        {
+          "stop_sequence": 4,
+          "stop_id": "5625",
+          "stop_name": "Wałbrzyska",
+          "arrival_time": "05:52:00",
+          "departure_time": "05:52:00",
+          "lat": 51.06323004,
+          "lon": 16.97676339
+        },
+        {
+          "stop_sequence": 5,
+          "stop_id": "1816",
+          "stop_name": "Połabian",
+          "arrival_time": "05:54:00",
+          "departure_time": "05:54:00",
+          "lat": 51.05623724,
+          "lon": 16.97047495
+        },
+        {
+          "stop_sequence": 6,
+          "stop_id": "5522",
+          "stop_name": "Biskupice Podg. DSC Poland/Top Run Poland",
+          "arrival_time": "06:13:00",
+          "departure_time": "06:13:00",
+          "lat": 51.02071994,
+          "lon": 16.89616822
+        },
+        {
+          "stop_sequence": 7,
+          "stop_id": "4881",
+          "stop_name": "Biskupice Podg. LG Energy Solution Wr. II",
+          "arrival_time": "06:15:00",
+          "departure_time": "06:15:00",
+          "lat": 51.01694598,
+          "lon": 16.8881169
+        },
+        {
+          "stop_sequence": 8,
+          "stop_id": "4878",
+          "stop_name": "Biskupice Podg. LG Electronics",
+          "arrival_time": "06:19:00",
+          "departure_time": "06:19:00",
+          "lat": 51.02423499,
+          "lon": 16.8905038
+        },
+        {
+          "stop_sequence": 9,
+          "stop_id": "4880",
+          "stop_name": "Biskupice Podg. LG Energy Solution Wr. I",
+          "arrival_time": "06:23:00",
+          "departure_time": "06:23:00",
+          "lat": 51.01729023,
+          "lon": 16.88065121
+        }
+      ]
+    },
+    {
+      "trip_id": "8_16590766",
+      "direction_id": "0",
+      "headsign": "MUCHOBÓR WIELKI (Roślinna)",
+      "service_id": "8",
+      "stops": [
+        {
+          "stop_sequence": 0,
+          "stop_id": "4880",
+          "stop_name": "Biskupice Podg. LG Energy Solution Wr. I",
+          "arrival_time": "06:42:00",
+          "departure_time": "06:42:00",
+          "lat": 51.01729023,
+          "lon": 16.88065121
+        },
+        {
+          "stop_sequence": 1,
+          "stop_id": "1817",
+          "stop_name": "Połabian",
+          "arrival_time": "06:59:00",
+          "departure_time": "06:59:00",
+          "lat": 51.05671431,
+          "lon": 16.97131836
+        },
+        {
+          "stop_sequence": 2,
+          "stop_id": "5626",
+          "stop_name": "Wałbrzyska",
+          "arrival_time": "07:04:00",
+          "departure_time": "07:04:00",
+          "lat": 51.06489636,
+          "lon": 16.97613239
+        },
+        {
+          "stop_sequence": 3,
+          "stop_id": "1963",
+          "stop_name": "Wiejska",
+          "arrival_time": "07:08:00",
+          "departure_time": "07:08:00",
+          "lat": 51.07763602,
+          "lon": 16.96391602
+        },
+        {
+          "stop_sequence": 4,
+          "stop_id": "2855",
+          "stop_name": "FAT",
+          "arrival_time": "07:16:00",
+          "departure_time": "07:16:00",
+          "lat": 51.09514288,
+          "lon": 16.97946312
+        },
+        {
+          "stop_sequence": 5,
+          "stop_id": "1240",
+          "stop_name": "Wrocławski Park Technologiczny",
+          "arrival_time": "07:19:00",
+          "departure_time": "07:19:00",
+          "lat": 51.10611537,
+          "lon": 16.97068638
+        },
+        {
+          "stop_sequence": 6,
+          "stop_id": "1174",
+          "stop_name": "Szkocka",
+          "arrival_time": "07:21:00",
+          "departure_time": "07:21:00",
+          "lat": 51.11014182,
+          "lon": 16.9688408
+        },
+        {
+          "stop_sequence": 7,
+          "stop_id": "2885",
+          "stop_name": "Nowodworska",
+          "arrival_time": "07:24:00",
+          "departure_time": "07:24:00",
+          "lat": 51.113793,
+          "lon": 16.964569
+        },
+        {
+          "stop_sequence": 8,
+          "stop_id": "5296",
+          "stop_name": "Strzegomska (krzyżówka)",
+          "arrival_time": "07:25:00",
+          "departure_time": "07:25:00",
+          "lat": 51.112407,
+          "lon": 16.960639
+        },
+        {
+          "stop_sequence": 9,
+          "stop_id": "5276",
+          "stop_name": "Rogowska (P+R)",
+          "arrival_time": "07:27:00",
+          "departure_time": "07:27:00",
+          "lat": 51.110391,
+          "lon": 16.95572
+        },
+        {
+          "stop_sequence": 10,
+          "stop_id": "5613",
+          "stop_name": "Mińska (Rondo Rotm. Pileckiego)",
+          "arrival_time": "07:29:00",
+          "departure_time": "07:29:00",
+          "lat": 51.10530939,
+          "lon": 16.94892826
+        },
+        {
+          "stop_sequence": 11,
+          "stop_id": "2722",
+          "stop_name": "Tyrmanda",
+          "arrival_time": "07:31:00",
+          "departure_time": "07:31:00",
+          "lat": 51.10282257,
+          "lon": 16.94521253
+        },
+        {
+          "stop_sequence": 12,
+          "stop_id": "3111",
+          "stop_name": "Zagony",
+          "arrival_time": "07:32:00",
+          "departure_time": "07:32:00",
+          "lat": 51.10087942,
+          "lon": 16.94224152
+        },
+        {
+          "stop_sequence": 13,
+          "stop_id": "5635",
+          "stop_name": "MUCHOBÓR WIELKI (Roślinna)",
+          "arrival_time": "07:34:00",
+          "departure_time": "07:34:00",
+          "lat": 51.1017633,
+          "lon": 16.94403119
+        }
+      ]
+    },
+    {
+      "trip_id": "8_16594391",
+      "direction_id": "0",
+      "headsign": "Kwiska",
+      "service_id": "8",
+      "stops": [
+        {
+          "stop_sequence": 0,
+          "stop_id": "5583",
+          "stop_name": "Zajezdnia OBORNICKA",
+          "arrival_time": "05:30:00",
+          "departure_time": "05:30:00",
+          "lat": 51.14873744,
+          "lon": 17.02106859
+        },
+        {
+          "stop_sequence": 1,
+          "stop_id": "670",
+          "stop_name": "Irysowa",
+          "arrival_time": "05:32:00",
+          "departure_time": "05:32:00",
+          "lat": 51.1514322,
+          "lon": 17.01738486
+        },
+        {
+          "stop_sequence": 2,
+          "stop_id": "2174",
+          "stop_name": "Obornicka (Obwodnica)",
+          "arrival_time": "05:33:00",
+          "departure_time": "05:33:00",
+          "lat": 51.15747564,
+          "lon": 17.00940342
+        },
+        {
+          "stop_sequence": 3,
+          "stop_id": "2783",
+          "stop_name": "most Milenijny",
+          "arrival_time": "05:37:00",
+          "departure_time": "05:37:00",
+          "lat": 51.13651148,
+          "lon": 16.99927273
+        },
+        {
+          "stop_sequence": 4,
+          "stop_id": "5284",
+          "stop_name": "Milenijna (Hala Orbita)",
+          "arrival_time": "05:38:00",
+          "departure_time": "05:38:00",
+          "lat": 51.1323514,
+          "lon": 16.9894391
+        },
+        {
+          "stop_sequence": 5,
+          "stop_id": "5150",
+          "stop_name": "Wejherowska (Hala Orbita)",
+          "arrival_time": "05:41:00",
+          "departure_time": "05:41:00",
+          "lat": 51.12917185,
+          "lon": 16.98532848
+        },
+        {
+          "stop_sequence": 6,
+          "stop_id": "212",
+          "stop_name": "Kwiska",
+          "arrival_time": "05:43:00",
+          "departure_time": "05:43:00",
+          "lat": 51.12558237,
+          "lon": 16.98341998
+        }
+      ]
+    },
+    {
+      "trip_id": "8_16594392",
+      "direction_id": "1",
+      "headsign": "Biskupice Podg. LG Energy Solution Wr. I",
+      "service_id": "8",
+      "stops": [
+        {
+          "stop_sequence": 0,
+          "stop_id": "212",
+          "stop_name": "Kwiska",
+          "arrival_time": "05:45:00",
+          "departure_time": "05:45:00",
+          "lat": 51.12558237,
+          "lon": 16.98341998
+        },
+        {
+          "stop_sequence": 1,
+          "stop_id": "1239",
+          "stop_name": "Wrocławski Park Technologiczny",
+          "arrival_time": "05:50:00",
+          "departure_time": "05:50:00",
+          "lat": 51.10506383,
+          "lon": 16.97074816
+        },
+        {
+          "stop_sequence": 2,
+          "stop_id": "281",
+          "stop_name": "FAT",
+          "arrival_time": "05:53:00",
+          "departure_time": "05:53:00",
+          "lat": 51.09412632,
+          "lon": 16.9783528
+        },
+        {
+          "stop_sequence": 3,
+          "stop_id": "403",
+          "stop_name": "Wiejska",
+          "arrival_time": "05:57:00",
+          "departure_time": "05:57:00",
+          "lat": 51.07817456,
+          "lon": 16.96410835
+        },
+        {
+          "stop_sequence": 4,
+          "stop_id": "5625",
+          "stop_name": "Wałbrzyska",
+          "arrival_time": "06:01:00",
+          "departure_time": "06:01:00",
+          "lat": 51.06323004,
+          "lon": 16.97676339
+        },
+        {
+          "stop_sequence": 5,
+          "stop_id": "1816",
+          "stop_name": "Połabian",
+          "arrival_time": "06:03:00",
+          "departure_time": "06:03:00",
+          "lat": 51.05623724,
+          "lon": 16.97047495
+        },
+        {
+          "stop_sequence": 6,
+          "stop_id": "5522",
+          "stop_name": "Biskupice Podg. DSC Poland/Top Run Poland",
+          "arrival_time": "06:22:00",
+          "departure_time": "06:22:00",
+          "lat": 51.02071994,
+          "lon": 16.89616822
+        },
+        {
+          "stop_sequence": 7,
+          "stop_id": "4881",
+          "stop_name": "Biskupice Podg. LG Energy Solution Wr. II",
+          "arrival_time": "06:24:00",
+          "departure_time": "06:24:00",
+          "lat": 51.01694598,
+          "lon": 16.8881169
+        },
+        {
+          "stop_sequence": 8,
+          "stop_id": "4878",
+          "stop_name": "Biskupice Podg. LG Electronics",
+          "arrival_time": "06:28:00",
+          "departure_time": "06:28:00",
+          "lat": 51.02423499,
+          "lon": 16.8905038
+        },
+        {
+          "stop_sequence": 9,
+          "stop_id": "4880",
+          "stop_name": "Biskupice Podg. LG Energy Solution Wr. I",
+          "arrival_time": "06:32:00",
+          "departure_time": "06:32:00",
+          "lat": 51.01729023,
+          "lon": 16.88065121
+        }
+      ]
+    },
+    {
+      "trip_id": "8_16594393",
+      "direction_id": "0",
+      "headsign": "Zajezdnia OBORNICKA",
+      "service_id": "8",
+      "stops": [
+        {
+          "stop_sequence": 0,
+          "stop_id": "4880",
+          "stop_name": "Biskupice Podg. LG Energy Solution Wr. I",
+          "arrival_time": "07:15:00",
+          "departure_time": "07:15:00",
+          "lat": 51.01729023,
+          "lon": 16.88065121
+        },
+        {
+          "stop_sequence": 1,
+          "stop_id": "4873",
+          "stop_name": "Biskupice Podg. LG Electronics",
+          "arrival_time": "07:19:00",
+          "departure_time": "07:19:00",
+          "lat": 51.02364482,
+          "lon": 16.89104075
+        },
+        {
+          "stop_sequence": 2,
+          "stop_id": "4875",
+          "stop_name": "Biskupice Podg. LG Innotek",
+          "arrival_time": "07:24:00",
+          "departure_time": "07:24:00",
+          "lat": 51.01838302,
+          "lon": 16.88883209
+        },
+        {
+          "stop_sequence": 3,
+          "stop_id": "5413",
+          "stop_name": "Biskupice Podg. DSC Poland/Top Run Poland",
+          "arrival_time": "07:26:00",
+          "departure_time": "07:26:00",
+          "lat": 51.02088034,
+          "lon": 16.89624554
+        },
+        {
+          "stop_sequence": 4,
+          "stop_id": "1817",
+          "stop_name": "Połabian",
+          "arrival_time": "07:49:00",
+          "departure_time": "07:49:00",
+          "lat": 51.05671431,
+          "lon": 16.97131836
+        },
+        {
+          "stop_sequence": 5,
+          "stop_id": "5626",
+          "stop_name": "Wałbrzyska",
+          "arrival_time": "07:54:00",
+          "departure_time": "07:54:00",
+          "lat": 51.06489636,
+          "lon": 16.97613239
+        },
+        {
+          "stop_sequence": 6,
+          "stop_id": "1963",
+          "stop_name": "Wiejska",
+          "arrival_time": "07:58:00",
+          "departure_time": "07:58:00",
+          "lat": 51.07763602,
+          "lon": 16.96391602
+        },
+        {
+          "stop_sequence": 7,
+          "stop_id": "2855",
+          "stop_name": "FAT",
+          "arrival_time": "08:06:00",
+          "departure_time": "08:06:00",
+          "lat": 51.09514288,
+          "lon": 16.97946312
+        },
+        {
+          "stop_sequence": 8,
+          "stop_id": "1240",
+          "stop_name": "Wrocławski Park Technologiczny",
+          "arrival_time": "08:09:00",
+          "departure_time": "08:09:00",
+          "lat": 51.10611537,
+          "lon": 16.97068638
+        },
+        {
+          "stop_sequence": 9,
+          "stop_id": "1142",
+          "stop_name": "Kwiska",
+          "arrival_time": "08:16:00",
+          "departure_time": "08:16:00",
+          "lat": 51.125275,
+          "lon": 16.98351443
+        },
+        {
+          "stop_sequence": 10,
+          "stop_id": "5151",
+          "stop_name": "Wejherowska (Hala Orbita)",
+          "arrival_time": "08:19:00",
+          "departure_time": "08:19:00",
+          "lat": 51.1298272,
+          "lon": 16.98512598
+        },
+        {
+          "stop_sequence": 11,
+          "stop_id": "5285",
+          "stop_name": "Milenijna (Hala Orbita)",
+          "arrival_time": "08:21:00",
+          "departure_time": "08:21:00",
+          "lat": 51.13220682,
+          "lon": 16.98975923
+        },
+        {
+          "stop_sequence": 12,
+          "stop_id": "2784",
+          "stop_name": "most Milenijny",
+          "arrival_time": "08:22:00",
+          "departure_time": "08:22:00",
+          "lat": 51.13666865,
+          "lon": 17.0004071
+        },
+        {
+          "stop_sequence": 13,
+          "stop_id": "2173",
+          "stop_name": "Obornicka (Obwodnica)",
+          "arrival_time": "08:26:00",
+          "departure_time": "08:26:00",
+          "lat": 51.15705253,
+          "lon": 17.0106856
+        },
+        {
+          "stop_sequence": 14,
+          "stop_id": "669",
+          "stop_name": "Irysowa",
+          "arrival_time": "08:27:00",
+          "departure_time": "08:27:00",
+          "lat": 51.15064715,
+          "lon": 17.01789534
+        },
+        {
+          "stop_sequence": 15,
+          "stop_id": "5583",
+          "stop_name": "Zajezdnia OBORNICKA",
+          "arrival_time": "08:29:00",
+          "departure_time": "08:29:00",
+          "lat": 51.14873744,
+          "lon": 17.02106859
+        }
+      ]
+    },
+    {
+      "trip_id": "8_16594394",
+      "direction_id": "0",
+      "headsign": "Kwiska",
+      "service_id": "8",
+      "stops": [
+        {
+          "stop_sequence": 0,
+          "stop_id": "5583",
+          "stop_name": "Zajezdnia OBORNICKA",
+          "arrival_time": "13:15:00",
+          "departure_time": "13:15:00",
+          "lat": 51.14873744,
+          "lon": 17.02106859
+        },
+        {
+          "stop_sequence": 1,
+          "stop_id": "670",
+          "stop_name": "Irysowa",
+          "arrival_time": "13:17:00",
+          "departure_time": "13:17:00",
+          "lat": 51.1514322,
+          "lon": 17.01738486
+        },
+        {
+          "stop_sequence": 2,
+          "stop_id": "2174",
+          "stop_name": "Obornicka (Obwodnica)",
+          "arrival_time": "13:18:00",
+          "departure_time": "13:18:00",
+          "lat": 51.15747564,
+          "lon": 17.00940342
+        },
+        {
+          "stop_sequence": 3,
+          "stop_id": "2783",
+          "stop_name": "most Milenijny",
+          "arrival_time": "13:22:00",
+          "departure_time": "13:22:00",
+          "lat": 51.13651148,
+          "lon": 16.99927273
+        },
+        {
+          "stop_sequence": 4,
+          "stop_id": "5284",
+          "stop_name": "Milenijna (Hala Orbita)",
+          "arrival_time": "13:23:00",
+          "departure_time": "13:23:00",
+          "lat": 51.1323514,
+          "lon": 16.9894391
+        },
+        {
+          "stop_sequence": 5,
+          "stop_id": "5150",
+          "stop_name": "Wejherowska (Hala Orbita)",
+          "arrival_time": "13:26:00",
+          "departure_time": "13:26:00",
+          "lat": 51.12917185,
+          "lon": 16.98532848
+        },
+        {
+          "stop_sequence": 6,
+          "stop_id": "212",
+          "stop_name": "Kwiska",
+          "arrival_time": "13:28:00",
+          "departure_time": "13:28:00",
+          "lat": 51.12558237,
+          "lon": 16.98341998
+        }
+      ]
+    },
+    {
+      "trip_id": "8_16594395",
+      "direction_id": "1",
+      "headsign": "Biskupice Podg. LG Energy Solution Wr. I",
+      "service_id": "8",
+      "stops": [
+        {
+          "stop_sequence": 0,
+          "stop_id": "212",
+          "stop_name": "Kwiska",
+          "arrival_time": "13:29:00",
+          "departure_time": "13:29:00",
+          "lat": 51.12558237,
+          "lon": 16.98341998
+        },
+        {
+          "stop_sequence": 1,
+          "stop_id": "1239",
+          "stop_name": "Wrocławski Park Technologiczny",
+          "arrival_time": "13:36:00",
+          "departure_time": "13:36:00",
+          "lat": 51.10506383,
+          "lon": 16.97074816
+        },
+        {
+          "stop_sequence": 2,
+          "stop_id": "281",
+          "stop_name": "FAT",
+          "arrival_time": "13:40:00",
+          "departure_time": "13:40:00",
+          "lat": 51.09412632,
+          "lon": 16.9783528
+        },
+        {
+          "stop_sequence": 3,
+          "stop_id": "403",
+          "stop_name": "Wiejska",
+          "arrival_time": "13:44:00",
+          "departure_time": "13:44:00",
+          "lat": 51.07817456,
+          "lon": 16.96410835
+        },
+        {
+          "stop_sequence": 4,
+          "stop_id": "5625",
+          "stop_name": "Wałbrzyska",
+          "arrival_time": "13:49:00",
+          "departure_time": "13:49:00",
+          "lat": 51.06323004,
+          "lon": 16.97676339
+        },
+        {
+          "stop_sequence": 5,
+          "stop_id": "1816",
+          "stop_name": "Połabian",
+          "arrival_time": "13:51:00",
+          "departure_time": "13:51:00",
+          "lat": 51.05623724,
+          "lon": 16.97047495
+        },
+        {
+          "stop_sequence": 6,
+          "stop_id": "5522",
+          "stop_name": "Biskupice Podg. DSC Poland/Top Run Poland",
+          "arrival_time": "14:10:00",
+          "departure_time": "14:10:00",
+          "lat": 51.02071994,
+          "lon": 16.89616822
+        },
+        {
+          "stop_sequence": 7,
+          "stop_id": "4881",
+          "stop_name": "Biskupice Podg. LG Energy Solution Wr. II",
+          "arrival_time": "14:12:00",
+          "departure_time": "14:12:00",
+          "lat": 51.01694598,
+          "lon": 16.8881169
+        },
+        {
+          "stop_sequence": 8,
+          "stop_id": "4878",
+          "stop_name": "Biskupice Podg. LG Electronics",
+          "arrival_time": "14:16:00",
+          "departure_time": "14:16:00",
+          "lat": 51.02423499,
+          "lon": 16.8905038
+        },
+        {
+          "stop_sequence": 9,
+          "stop_id": "4880",
+          "stop_name": "Biskupice Podg. LG Energy Solution Wr. I",
+          "arrival_time": "14:20:00",
+          "departure_time": "14:20:00",
+          "lat": 51.01729023,
+          "lon": 16.88065121
+        }
+      ]
+    },
+    {
+      "trip_id": "8_16594396",
+      "direction_id": "0",
+      "headsign": "Zajezdnia OBORNICKA",
+      "service_id": "8",
+      "stops": [
+        {
+          "stop_sequence": 0,
+          "stop_id": "4880",
+          "stop_name": "Biskupice Podg. LG Energy Solution Wr. I",
+          "arrival_time": "14:57:00",
+          "departure_time": "14:57:00",
+          "lat": 51.01729023,
+          "lon": 16.88065121
+        },
+        {
+          "stop_sequence": 1,
+          "stop_id": "4873",
+          "stop_name": "Biskupice Podg. LG Electronics",
+          "arrival_time": "15:01:00",
+          "departure_time": "15:01:00",
+          "lat": 51.02364482,
+          "lon": 16.89104075
+        },
+        {
+          "stop_sequence": 2,
+          "stop_id": "4875",
+          "stop_name": "Biskupice Podg. LG Innotek",
+          "arrival_time": "15:06:00",
+          "departure_time": "15:06:00",
+          "lat": 51.01838302,
+          "lon": 16.88883209
+        },
+        {
+          "stop_sequence": 3,
+          "stop_id": "5413",
+          "stop_name": "Biskupice Podg. DSC Poland/Top Run Poland",
+          "arrival_time": "15:08:00",
+          "departure_time": "15:08:00",
+          "lat": 51.02088034,
+          "lon": 16.89624554
+        },
+        {
+          "stop_sequence": 4,
+          "stop_id": "1817",
+          "stop_name": "Połabian",
+          "arrival_time": "15:31:00",
+          "departure_time": "15:31:00",
+          "lat": 51.05671431,
+          "lon": 16.97131836
+        },
+        {
+          "stop_sequence": 5,
+          "stop_id": "5626",
+          "stop_name": "Wałbrzyska",
+          "arrival_time": "15:37:00",
+          "departure_time": "15:37:00",
+          "lat": 51.06489636,
+          "lon": 16.97613239
+        },
+        {
+          "stop_sequence": 6,
+          "stop_id": "1963",
+          "stop_name": "Wiejska",
+          "arrival_time": "15:43:00",
+          "departure_time": "15:43:00",
+          "lat": 51.07763602,
+          "lon": 16.96391602
+        },
+        {
+          "stop_sequence": 7,
+          "stop_id": "2855",
+          "stop_name": "FAT",
+          "arrival_time": "15:51:00",
+          "departure_time": "15:51:00",
+          "lat": 51.09514288,
+          "lon": 16.97946312
+        },
+        {
+          "stop_sequence": 8,
+          "stop_id": "1240",
+          "stop_name": "Wrocławski Park Technologiczny",
+          "arrival_time": "15:54:00",
+          "departure_time": "15:54:00",
+          "lat": 51.10611537,
+          "lon": 16.97068638
+        },
+        {
+          "stop_sequence": 9,
+          "stop_id": "1142",
+          "stop_name": "Kwiska",
+          "arrival_time": "16:01:00",
+          "departure_time": "16:01:00",
+          "lat": 51.125275,
+          "lon": 16.98351443
+        },
+        {
+          "stop_sequence": 10,
+          "stop_id": "5151",
+          "stop_name": "Wejherowska (Hala Orbita)",
+          "arrival_time": "16:04:00",
+          "departure_time": "16:04:00",
+          "lat": 51.1298272,
+          "lon": 16.98512598
+        },
+        {
+          "stop_sequence": 11,
+          "stop_id": "5285",
+          "stop_name": "Milenijna (Hala Orbita)",
+          "arrival_time": "16:06:00",
+          "departure_time": "16:06:00",
+          "lat": 51.13220682,
+          "lon": 16.98975923
+        },
+        {
+          "stop_sequence": 12,
+          "stop_id": "2784",
+          "stop_name": "most Milenijny",
+          "arrival_time": "16:07:00",
+          "departure_time": "16:07:00",
+          "lat": 51.13666865,
+          "lon": 17.0004071
+        },
+        {
+          "stop_sequence": 13,
+          "stop_id": "2173",
+          "stop_name": "Obornicka (Obwodnica)",
+          "arrival_time": "16:11:00",
+          "departure_time": "16:11:00",
+          "lat": 51.15705253,
+          "lon": 17.0106856
+        },
+        {
+          "stop_sequence": 14,
+          "stop_id": "669",
+          "stop_name": "Irysowa",
+          "arrival_time": "16:12:00",
+          "departure_time": "16:12:00",
+          "lat": 51.15064715,
+          "lon": 17.01789534
+        },
+        {
+          "stop_sequence": 15,
+          "stop_id": "5583",
+          "stop_name": "Zajezdnia OBORNICKA",
+          "arrival_time": "16:14:00",
+          "departure_time": "16:14:00",
+          "lat": 51.14873744,
+          "lon": 17.02106859
+        }
+      ]
+    },
+    {
+      "trip_id": "8_16594397",
+      "direction_id": "0",
+      "headsign": "Kwiska",
+      "service_id": "8",
+      "stops": [
+        {
+          "stop_sequence": 0,
+          "stop_id": "5583",
+          "stop_name": "Zajezdnia OBORNICKA",
+          "arrival_time": "06:28:00",
+          "departure_time": "06:28:00",
+          "lat": 51.14873744,
+          "lon": 17.02106859
+        },
+        {
+          "stop_sequence": 1,
+          "stop_id": "670",
+          "stop_name": "Irysowa",
+          "arrival_time": "06:30:00",
+          "departure_time": "06:30:00",
+          "lat": 51.1514322,
+          "lon": 17.01738486
+        },
+        {
+          "stop_sequence": 2,
+          "stop_id": "2174",
+          "stop_name": "Obornicka (Obwodnica)",
+          "arrival_time": "06:31:00",
+          "departure_time": "06:31:00",
+          "lat": 51.15747564,
+          "lon": 17.00940342
+        },
+        {
+          "stop_sequence": 3,
+          "stop_id": "2783",
+          "stop_name": "most Milenijny",
+          "arrival_time": "06:35:00",
+          "departure_time": "06:35:00",
+          "lat": 51.13651148,
+          "lon": 16.99927273
+        },
+        {
+          "stop_sequence": 4,
+          "stop_id": "5284",
+          "stop_name": "Milenijna (Hala Orbita)",
+          "arrival_time": "06:36:00",
+          "departure_time": "06:36:00",
+          "lat": 51.1323514,
+          "lon": 16.9894391
+        },
+        {
+          "stop_sequence": 5,
+          "stop_id": "5150",
+          "stop_name": "Wejherowska (Hala Orbita)",
+          "arrival_time": "06:39:00",
+          "departure_time": "06:39:00",
+          "lat": 51.12917185,
+          "lon": 16.98532848
+        },
+        {
+          "stop_sequence": 6,
+          "stop_id": "212",
+          "stop_name": "Kwiska",
+          "arrival_time": "06:41:00",
+          "departure_time": "06:41:00",
+          "lat": 51.12558237,
+          "lon": 16.98341998
+        }
+      ]
+    },
+    {
+      "trip_id": "8_16594398",
+      "direction_id": "1",
+      "headsign": "Biskupice Podg. LG Energy Solution Wr. I",
+      "service_id": "8",
+      "stops": [
+        {
+          "stop_sequence": 0,
+          "stop_id": "212",
+          "stop_name": "Kwiska",
+          "arrival_time": "06:42:00",
+          "departure_time": "06:42:00",
+          "lat": 51.12558237,
+          "lon": 16.98341998
+        },
+        {
+          "stop_sequence": 1,
+          "stop_id": "1239",
+          "stop_name": "Wrocławski Park Technologiczny",
+          "arrival_time": "06:47:00",
+          "departure_time": "06:47:00",
+          "lat": 51.10506383,
+          "lon": 16.97074816
+        },
+        {
+          "stop_sequence": 2,
+          "stop_id": "281",
+          "stop_name": "FAT",
+          "arrival_time": "06:51:00",
+          "departure_time": "06:51:00",
+          "lat": 51.09412632,
+          "lon": 16.9783528
+        },
+        {
+          "stop_sequence": 3,
+          "stop_id": "403",
+          "stop_name": "Wiejska",
+          "arrival_time": "06:55:00",
+          "departure_time": "06:55:00",
+          "lat": 51.07817456,
+          "lon": 16.96410835
+        },
+        {
+          "stop_sequence": 4,
+          "stop_id": "5625",
+          "stop_name": "Wałbrzyska",
+          "arrival_time": "06:59:00",
+          "departure_time": "06:59:00",
+          "lat": 51.06323004,
+          "lon": 16.97676339
+        },
+        {
+          "stop_sequence": 5,
+          "stop_id": "1816",
+          "stop_name": "Połabian",
+          "arrival_time": "07:01:00",
+          "departure_time": "07:01:00",
+          "lat": 51.05623724,
+          "lon": 16.97047495
+        },
+        {
+          "stop_sequence": 6,
+          "stop_id": "5522",
+          "stop_name": "Biskupice Podg. DSC Poland/Top Run Poland",
+          "arrival_time": "07:20:00",
+          "departure_time": "07:20:00",
+          "lat": 51.02071994,
+          "lon": 16.89616822
+        },
+        {
+          "stop_sequence": 7,
+          "stop_id": "4881",
+          "stop_name": "Biskupice Podg. LG Energy Solution Wr. II",
+          "arrival_time": "07:22:00",
+          "departure_time": "07:22:00",
+          "lat": 51.01694598,
+          "lon": 16.8881169
+        },
+        {
+          "stop_sequence": 8,
+          "stop_id": "4878",
+          "stop_name": "Biskupice Podg. LG Electronics",
+          "arrival_time": "07:26:00",
+          "departure_time": "07:26:00",
+          "lat": 51.02423499,
+          "lon": 16.8905038
+        },
+        {
+          "stop_sequence": 9,
+          "stop_id": "4880",
+          "stop_name": "Biskupice Podg. LG Energy Solution Wr. I",
+          "arrival_time": "07:30:00",
+          "departure_time": "07:30:00",
+          "lat": 51.01729023,
+          "lon": 16.88065121
+        }
+      ]
+    },
+    {
+      "trip_id": "8_16594399",
+      "direction_id": "0",
+      "headsign": "Zajezdnia OBORNICKA",
+      "service_id": "8",
+      "stops": [
+        {
+          "stop_sequence": 0,
+          "stop_id": "4880",
+          "stop_name": "Biskupice Podg. LG Energy Solution Wr. I",
+          "arrival_time": "07:55:00",
+          "departure_time": "07:55:00",
+          "lat": 51.01729023,
+          "lon": 16.88065121
+        },
+        {
+          "stop_sequence": 1,
+          "stop_id": "1817",
+          "stop_name": "Połabian",
+          "arrival_time": "08:18:00",
+          "departure_time": "08:18:00",
+          "lat": 51.05671431,
+          "lon": 16.97131836
+        },
+        {
+          "stop_sequence": 2,
+          "stop_id": "5626",
+          "stop_name": "Wałbrzyska",
+          "arrival_time": "08:23:00",
+          "departure_time": "08:23:00",
+          "lat": 51.06489636,
+          "lon": 16.97613239
+        },
+        {
+          "stop_sequence": 3,
+          "stop_id": "1963",
+          "stop_name": "Wiejska",
+          "arrival_time": "08:27:00",
+          "departure_time": "08:27:00",
+          "lat": 51.07763602,
+          "lon": 16.96391602
+        },
+        {
+          "stop_sequence": 4,
+          "stop_id": "2855",
+          "stop_name": "FAT",
+          "arrival_time": "08:35:00",
+          "departure_time": "08:35:00",
+          "lat": 51.09514288,
+          "lon": 16.97946312
+        },
+        {
+          "stop_sequence": 5,
+          "stop_id": "1240",
+          "stop_name": "Wrocławski Park Technologiczny",
+          "arrival_time": "08:38:00",
+          "departure_time": "08:38:00",
+          "lat": 51.10611537,
+          "lon": 16.97068638
+        },
+        {
+          "stop_sequence": 6,
+          "stop_id": "1142",
+          "stop_name": "Kwiska",
+          "arrival_time": "08:45:00",
+          "departure_time": "08:45:00",
+          "lat": 51.125275,
+          "lon": 16.98351443
+        },
+        {
+          "stop_sequence": 7,
+          "stop_id": "5151",
+          "stop_name": "Wejherowska (Hala Orbita)",
+          "arrival_time": "08:48:00",
+          "departure_time": "08:48:00",
+          "lat": 51.1298272,
+          "lon": 16.98512598
+        },
+        {
+          "stop_sequence": 8,
+          "stop_id": "5285",
+          "stop_name": "Milenijna (Hala Orbita)",
+          "arrival_time": "08:50:00",
+          "departure_time": "08:50:00",
+          "lat": 51.13220682,
+          "lon": 16.98975923
+        },
+        {
+          "stop_sequence": 9,
+          "stop_id": "2784",
+          "stop_name": "most Milenijny",
+          "arrival_time": "08:51:00",
+          "departure_time": "08:51:00",
+          "lat": 51.13666865,
+          "lon": 17.0004071
+        },
+        {
+          "stop_sequence": 10,
+          "stop_id": "2173",
+          "stop_name": "Obornicka (Obwodnica)",
+          "arrival_time": "08:55:00",
+          "departure_time": "08:55:00",
+          "lat": 51.15705253,
+          "lon": 17.0106856
+        },
+        {
+          "stop_sequence": 11,
+          "stop_id": "669",
+          "stop_name": "Irysowa",
+          "arrival_time": "08:56:00",
+          "departure_time": "08:56:00",
+          "lat": 51.15064715,
+          "lon": 17.01789534
+        },
+        {
+          "stop_sequence": 12,
+          "stop_id": "5583",
+          "stop_name": "Zajezdnia OBORNICKA",
+          "arrival_time": "08:58:00",
+          "departure_time": "08:58:00",
+          "lat": 51.14873744,
+          "lon": 17.02106859
+        }
+      ]
+    },
+    {
+      "trip_id": "8_16594400",
+      "direction_id": "0",
+      "headsign": "Kwiska",
+      "service_id": "8",
+      "stops": [
+        {
+          "stop_sequence": 0,
+          "stop_id": "5583",
+          "stop_name": "Zajezdnia OBORNICKA",
+          "arrival_time": "14:07:00",
+          "departure_time": "14:07:00",
+          "lat": 51.14873744,
+          "lon": 17.02106859
+        },
+        {
+          "stop_sequence": 1,
+          "stop_id": "670",
+          "stop_name": "Irysowa",
+          "arrival_time": "14:09:00",
+          "departure_time": "14:09:00",
+          "lat": 51.1514322,
+          "lon": 17.01738486
+        },
+        {
+          "stop_sequence": 2,
+          "stop_id": "2174",
+          "stop_name": "Obornicka (Obwodnica)",
+          "arrival_time": "14:10:00",
+          "departure_time": "14:10:00",
+          "lat": 51.15747564,
+          "lon": 17.00940342
+        },
+        {
+          "stop_sequence": 3,
+          "stop_id": "2783",
+          "stop_name": "most Milenijny",
+          "arrival_time": "14:14:00",
+          "departure_time": "14:14:00",
+          "lat": 51.13651148,
+          "lon": 16.99927273
+        },
+        {
+          "stop_sequence": 4,
+          "stop_id": "5284",
+          "stop_name": "Milenijna (Hala Orbita)",
+          "arrival_time": "14:15:00",
+          "departure_time": "14:15:00",
+          "lat": 51.1323514,
+          "lon": 16.9894391
+        },
+        {
+          "stop_sequence": 5,
+          "stop_id": "5150",
+          "stop_name": "Wejherowska (Hala Orbita)",
+          "arrival_time": "14:19:00",
+          "departure_time": "14:19:00",
+          "lat": 51.12917185,
+          "lon": 16.98532848
+        },
+        {
+          "stop_sequence": 6,
+          "stop_id": "212",
+          "stop_name": "Kwiska",
+          "arrival_time": "14:21:00",
+          "departure_time": "14:21:00",
+          "lat": 51.12558237,
+          "lon": 16.98341998
+        }
+      ]
+    },
+    {
+      "trip_id": "8_16594401",
+      "direction_id": "1",
+      "headsign": "Biskupice Podg. LG Energy Solution Wr. I",
+      "service_id": "8",
+      "stops": [
+        {
+          "stop_sequence": 0,
+          "stop_id": "212",
+          "stop_name": "Kwiska",
+          "arrival_time": "14:23:00",
+          "departure_time": "14:23:00",
+          "lat": 51.12558237,
+          "lon": 16.98341998
+        },
+        {
+          "stop_sequence": 1,
+          "stop_id": "1239",
+          "stop_name": "Wrocławski Park Technologiczny",
+          "arrival_time": "14:30:00",
+          "departure_time": "14:30:00",
+          "lat": 51.10506383,
+          "lon": 16.97074816
+        },
+        {
+          "stop_sequence": 2,
+          "stop_id": "281",
+          "stop_name": "FAT",
+          "arrival_time": "14:34:00",
+          "departure_time": "14:34:00",
+          "lat": 51.09412632,
+          "lon": 16.9783528
+        },
+        {
+          "stop_sequence": 3,
+          "stop_id": "403",
+          "stop_name": "Wiejska",
+          "arrival_time": "14:39:00",
+          "departure_time": "14:39:00",
+          "lat": 51.07817456,
+          "lon": 16.96410835
+        },
+        {
+          "stop_sequence": 4,
+          "stop_id": "5625",
+          "stop_name": "Wałbrzyska",
+          "arrival_time": "14:44:00",
+          "departure_time": "14:44:00",
+          "lat": 51.06323004,
+          "lon": 16.97676339
+        },
+        {
+          "stop_sequence": 5,
+          "stop_id": "1816",
+          "stop_name": "Połabian",
+          "arrival_time": "14:46:00",
+          "departure_time": "14:46:00",
+          "lat": 51.05623724,
+          "lon": 16.97047495
+        },
+        {
+          "stop_sequence": 6,
+          "stop_id": "4880",
+          "stop_name": "Biskupice Podg. LG Energy Solution Wr. I",
+          "arrival_time": "15:05:00",
+          "departure_time": "15:05:00",
+          "lat": 51.01729023,
+          "lon": 16.88065121
+        }
+      ]
+    },
+    {
+      "trip_id": "8_16594402",
+      "direction_id": "0",
+      "headsign": "Kwiska",
+      "service_id": "8",
+      "stops": [
+        {
+          "stop_sequence": 0,
+          "stop_id": "4880",
+          "stop_name": "Biskupice Podg. LG Energy Solution Wr. I",
+          "arrival_time": "15:30:00",
+          "departure_time": "15:30:00",
+          "lat": 51.01729023,
+          "lon": 16.88065121
+        },
+        {
+          "stop_sequence": 1,
+          "stop_id": "4873",
+          "stop_name": "Biskupice Podg. LG Electronics",
+          "arrival_time": "15:34:00",
+          "departure_time": "15:34:00",
+          "lat": 51.02364482,
+          "lon": 16.89104075
+        },
+        {
+          "stop_sequence": 2,
+          "stop_id": "4875",
+          "stop_name": "Biskupice Podg. LG Innotek",
+          "arrival_time": "15:39:00",
+          "departure_time": "15:39:00",
+          "lat": 51.01838302,
+          "lon": 16.88883209
+        },
+        {
+          "stop_sequence": 3,
+          "stop_id": "5413",
+          "stop_name": "Biskupice Podg. DSC Poland/Top Run Poland",
+          "arrival_time": "15:41:00",
+          "departure_time": "15:41:00",
+          "lat": 51.02088034,
+          "lon": 16.89624554
+        },
+        {
+          "stop_sequence": 4,
+          "stop_id": "1817",
+          "stop_name": "Połabian",
+          "arrival_time": "16:04:00",
+          "departure_time": "16:04:00",
+          "lat": 51.05671431,
+          "lon": 16.97131836
+        },
+        {
+          "stop_sequence": 5,
+          "stop_id": "5626",
+          "stop_name": "Wałbrzyska",
+          "arrival_time": "16:10:00",
+          "departure_time": "16:10:00",
+          "lat": 51.06489636,
+          "lon": 16.97613239
+        },
+        {
+          "stop_sequence": 6,
+          "stop_id": "1963",
+          "stop_name": "Wiejska",
+          "arrival_time": "16:16:00",
+          "departure_time": "16:16:00",
+          "lat": 51.07763602,
+          "lon": 16.96391602
+        },
+        {
+          "stop_sequence": 7,
+          "stop_id": "2855",
+          "stop_name": "FAT",
+          "arrival_time": "16:24:00",
+          "departure_time": "16:24:00",
+          "lat": 51.09514288,
+          "lon": 16.97946312
+        },
+        {
+          "stop_sequence": 8,
+          "stop_id": "1240",
+          "stop_name": "Wrocławski Park Technologiczny",
+          "arrival_time": "16:27:00",
+          "departure_time": "16:27:00",
+          "lat": 51.10611537,
+          "lon": 16.97068638
+        },
+        {
+          "stop_sequence": 9,
+          "stop_id": "5150",
+          "stop_name": "Wejherowska (Hala Orbita)",
+          "arrival_time": "16:35:00",
+          "departure_time": "16:35:00",
+          "lat": 51.12917185,
+          "lon": 16.98532848
+        },
+        {
+          "stop_sequence": 10,
+          "stop_id": "212",
+          "stop_name": "Kwiska",
+          "arrival_time": "16:37:00",
+          "departure_time": "16:37:00",
+          "lat": 51.12558237,
+          "lon": 16.98341998
+        }
+      ]
+    },
+    {
+      "trip_id": "8_16594407",
+      "direction_id": "0",
+      "headsign": "Kwiska",
+      "service_id": "8",
+      "stops": [
+        {
+          "stop_sequence": 0,
+          "stop_id": "5583",
+          "stop_name": "Zajezdnia OBORNICKA",
+          "arrival_time": "15:03:00",
+          "departure_time": "15:03:00",
+          "lat": 51.14873744,
+          "lon": 17.02106859
+        },
+        {
+          "stop_sequence": 1,
+          "stop_id": "670",
+          "stop_name": "Irysowa",
+          "arrival_time": "15:05:00",
+          "departure_time": "15:05:00",
+          "lat": 51.1514322,
+          "lon": 17.01738486
+        },
+        {
+          "stop_sequence": 2,
+          "stop_id": "2174",
+          "stop_name": "Obornicka (Obwodnica)",
+          "arrival_time": "15:06:00",
+          "departure_time": "15:06:00",
+          "lat": 51.15747564,
+          "lon": 17.00940342
+        },
+        {
+          "stop_sequence": 3,
+          "stop_id": "2783",
+          "stop_name": "most Milenijny",
+          "arrival_time": "15:10:00",
+          "departure_time": "15:10:00",
+          "lat": 51.13651148,
+          "lon": 16.99927273
+        },
+        {
+          "stop_sequence": 4,
+          "stop_id": "5284",
+          "stop_name": "Milenijna (Hala Orbita)",
+          "arrival_time": "15:13:00",
+          "departure_time": "15:13:00",
+          "lat": 51.1323514,
+          "lon": 16.9894391
+        },
+        {
+          "stop_sequence": 5,
+          "stop_id": "5150",
+          "stop_name": "Wejherowska (Hala Orbita)",
+          "arrival_time": "15:18:00",
+          "departure_time": "15:18:00",
+          "lat": 51.12917185,
+          "lon": 16.98532848
+        },
+        {
+          "stop_sequence": 6,
+          "stop_id": "212",
+          "stop_name": "Kwiska",
+          "arrival_time": "15:20:00",
+          "departure_time": "15:20:00",
+          "lat": 51.12558237,
+          "lon": 16.98341998
+        }
+      ]
+    },
+    {
+      "trip_id": "8_16594408",
+      "direction_id": "1",
+      "headsign": "Biskupice Podg. LG Energy Solution Wr. I",
+      "service_id": "8",
+      "stops": [
+        {
+          "stop_sequence": 0,
+          "stop_id": "212",
+          "stop_name": "Kwiska",
+          "arrival_time": "15:22:00",
+          "departure_time": "15:22:00",
+          "lat": 51.12558237,
+          "lon": 16.98341998
+        },
+        {
+          "stop_sequence": 1,
+          "stop_id": "1239",
+          "stop_name": "Wrocławski Park Technologiczny",
+          "arrival_time": "15:30:00",
+          "departure_time": "15:30:00",
+          "lat": 51.10506383,
+          "lon": 16.97074816
+        },
+        {
+          "stop_sequence": 2,
+          "stop_id": "281",
+          "stop_name": "FAT",
+          "arrival_time": "15:37:00",
+          "departure_time": "15:37:00",
+          "lat": 51.09412632,
+          "lon": 16.9783528
+        },
+        {
+          "stop_sequence": 3,
+          "stop_id": "403",
+          "stop_name": "Wiejska",
+          "arrival_time": "15:42:00",
+          "departure_time": "15:42:00",
+          "lat": 51.07817456,
+          "lon": 16.96410835
+        },
+        {
+          "stop_sequence": 4,
+          "stop_id": "5625",
+          "stop_name": "Wałbrzyska",
+          "arrival_time": "15:47:00",
+          "departure_time": "15:47:00",
+          "lat": 51.06323004,
+          "lon": 16.97676339
+        },
+        {
+          "stop_sequence": 5,
+          "stop_id": "1816",
+          "stop_name": "Połabian",
+          "arrival_time": "15:49:00",
+          "departure_time": "15:49:00",
+          "lat": 51.05623724,
+          "lon": 16.97047495
+        },
+        {
+          "stop_sequence": 6,
+          "stop_id": "4880",
+          "stop_name": "Biskupice Podg. LG Energy Solution Wr. I",
+          "arrival_time": "16:08:00",
+          "departure_time": "16:08:00",
+          "lat": 51.01729023,
+          "lon": 16.88065121
+        }
+      ]
+    },
+    {
+      "trip_id": "8_16594409",
+      "direction_id": "0",
+      "headsign": "Zajezdnia OBORNICKA",
+      "service_id": "8",
+      "stops": [
+        {
+          "stop_sequence": 0,
+          "stop_id": "4880",
+          "stop_name": "Biskupice Podg. LG Energy Solution Wr. I",
+          "arrival_time": "16:30:00",
+          "departure_time": "16:30:00",
+          "lat": 51.01729023,
+          "lon": 16.88065121
+        },
+        {
+          "stop_sequence": 1,
+          "stop_id": "4873",
+          "stop_name": "Biskupice Podg. LG Electronics",
+          "arrival_time": "16:34:00",
+          "departure_time": "16:34:00",
+          "lat": 51.02364482,
+          "lon": 16.89104075
+        },
+        {
+          "stop_sequence": 2,
+          "stop_id": "4875",
+          "stop_name": "Biskupice Podg. LG Innotek",
+          "arrival_time": "16:39:00",
+          "departure_time": "16:39:00",
+          "lat": 51.01838302,
+          "lon": 16.88883209
+        },
+        {
+          "stop_sequence": 3,
+          "stop_id": "5413",
+          "stop_name": "Biskupice Podg. DSC Poland/Top Run Poland",
+          "arrival_time": "16:41:00",
+          "departure_time": "16:41:00",
+          "lat": 51.02088034,
+          "lon": 16.89624554
+        },
+        {
+          "stop_sequence": 4,
+          "stop_id": "1817",
+          "stop_name": "Połabian",
+          "arrival_time": "17:04:00",
+          "departure_time": "17:04:00",
+          "lat": 51.05671431,
+          "lon": 16.97131836
+        },
+        {
+          "stop_sequence": 5,
+          "stop_id": "5626",
+          "stop_name": "Wałbrzyska",
+          "arrival_time": "17:09:00",
+          "departure_time": "17:09:00",
+          "lat": 51.06489636,
+          "lon": 16.97613239
+        },
+        {
+          "stop_sequence": 6,
+          "stop_id": "1963",
+          "stop_name": "Wiejska",
+          "arrival_time": "17:12:00",
+          "departure_time": "17:12:00",
+          "lat": 51.07763602,
+          "lon": 16.96391602
+        },
+        {
+          "stop_sequence": 7,
+          "stop_id": "2855",
+          "stop_name": "FAT",
+          "arrival_time": "17:20:00",
+          "departure_time": "17:20:00",
+          "lat": 51.09514288,
+          "lon": 16.97946312
+        },
+        {
+          "stop_sequence": 8,
+          "stop_id": "1240",
+          "stop_name": "Wrocławski Park Technologiczny",
+          "arrival_time": "17:23:00",
+          "departure_time": "17:23:00",
+          "lat": 51.10611537,
+          "lon": 16.97068638
+        },
+        {
+          "stop_sequence": 9,
+          "stop_id": "1142",
+          "stop_name": "Kwiska",
+          "arrival_time": "17:30:00",
+          "departure_time": "17:30:00",
+          "lat": 51.125275,
+          "lon": 16.98351443
+        },
+        {
+          "stop_sequence": 10,
+          "stop_id": "5151",
+          "stop_name": "Wejherowska (Hala Orbita)",
+          "arrival_time": "17:33:00",
+          "departure_time": "17:33:00",
+          "lat": 51.1298272,
+          "lon": 16.98512598
+        },
+        {
+          "stop_sequence": 11,
+          "stop_id": "5285",
+          "stop_name": "Milenijna (Hala Orbita)",
+          "arrival_time": "17:35:00",
+          "departure_time": "17:35:00",
+          "lat": 51.13220682,
+          "lon": 16.98975923
+        },
+        {
+          "stop_sequence": 12,
+          "stop_id": "2784",
+          "stop_name": "most Milenijny",
+          "arrival_time": "17:36:00",
+          "departure_time": "17:36:00",
+          "lat": 51.13666865,
+          "lon": 17.0004071
+        },
+        {
+          "stop_sequence": 13,
+          "stop_id": "2173",
+          "stop_name": "Obornicka (Obwodnica)",
+          "arrival_time": "17:40:00",
+          "departure_time": "17:40:00",
+          "lat": 51.15705253,
+          "lon": 17.0106856
+        },
+        {
+          "stop_sequence": 14,
+          "stop_id": "669",
+          "stop_name": "Irysowa",
+          "arrival_time": "17:41:00",
+          "departure_time": "17:41:00",
+          "lat": 51.15064715,
+          "lon": 17.01789534
+        },
+        {
+          "stop_sequence": 15,
+          "stop_id": "5583",
+          "stop_name": "Zajezdnia OBORNICKA",
+          "arrival_time": "17:43:00",
+          "departure_time": "17:43:00",
+          "lat": 51.14873744,
+          "lon": 17.02106859
+        }
+      ]
+    }
+  ]
+}

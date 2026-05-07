@@ -1,0 +1,7 @@
+{
+  "source_format": "GTFS",
+  "vehicle_type": "bus",
+  "route_type": "3",
+  "calendar_included": true,
+  "calendar_dates_included": true
+}
