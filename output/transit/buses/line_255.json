@@ -2,17 +2,17 @@
   "line": "255",
   "trips": [
     {
-      "trip_id": "3_16577104",
+      "trip_id": "3_17599182",
       "direction_id": "1",
       "headsign": "IWINY - rondo",
       "service_id": "3",
       "stops": [
         {
           "stop_sequence": 0,
-          "stop_id": "2047",
-          "stop_name": "GAJ - pętla",
-          "arrival_time": "23:58:00",
-          "departure_time": "23:58:00",
+          "stop_id": "6103",
+          "stop_name": "GAJ pętla",
+          "arrival_time": "23:57:00",
+          "departure_time": "23:57:00",
           "lat": 51.07712309,
           "lon": 17.04959717
         },
@@ -20,8 +20,8 @@
           "stop_sequence": 1,
           "stop_id": "5523",
           "stop_name": "Morwowa",
-          "arrival_time": "23:59:00",
-          "departure_time": "23:59:00",
+          "arrival_time": "23:58:00",
+          "departure_time": "23:58:00",
           "lat": 51.07606334,
           "lon": 17.05210444
         },
@@ -29,8 +29,8 @@
           "stop_sequence": 2,
           "stop_id": "5646",
           "stop_name": "Bardzka (Cmentarz)",
-          "arrival_time": "24:00:00",
-          "departure_time": "24:00:00",
+          "arrival_time": "23:59:00",
+          "departure_time": "23:59:00",
           "lat": 51.07236919,
           "lon": 17.05275873
         },
@@ -38,8 +38,8 @@
           "stop_sequence": 3,
           "stop_id": "5672",
           "stop_name": "Buforowa (Rondo)",
-          "arrival_time": "24:01:00",
-          "departure_time": "24:01:00",
+          "arrival_time": "24:00:00",
+          "departure_time": "24:00:00",
           "lat": 51.06931861,
           "lon": 17.05349348
         },
@@ -47,8 +47,8 @@
           "stop_sequence": 4,
           "stop_id": "5526",
           "stop_name": "Konduktorska",
-          "arrival_time": "24:01:00",
-          "departure_time": "24:01:00",
+          "arrival_time": "24:00:00",
+          "departure_time": "24:00:00",
           "lat": 51.06703978,
           "lon": 17.0542876
         },
@@ -56,8 +56,8 @@
           "stop_sequence": 5,
           "stop_id": "5705",
           "stop_name": "Lutosławskiego",
-          "arrival_time": "24:02:00",
-          "departure_time": "24:02:00",
+          "arrival_time": "24:01:00",
+          "departure_time": "24:01:00",
           "lat": 51.06217854,
           "lon": 17.05479717
         },
@@ -65,8 +65,8 @@
           "stop_sequence": 6,
           "stop_id": "5656",
           "stop_name": "Kopycińskiego",
-          "arrival_time": "24:04:00",
-          "departure_time": "24:04:00",
+          "arrival_time": "24:03:00",
+          "departure_time": "24:03:00",
           "lat": 51.05763027,
           "lon": 17.05643882
         },
@@ -74,8 +74,8 @@
           "stop_sequence": 7,
           "stop_id": "5692",
           "stop_name": "JAGODNO (P+R)",
-          "arrival_time": "24:05:00",
-          "departure_time": "24:05:00",
+          "arrival_time": "24:04:00",
+          "departure_time": "24:04:00",
           "lat": 51.05368172,
           "lon": 17.05702336
         },
@@ -83,8 +83,8 @@
           "stop_sequence": 8,
           "stop_id": "5686",
           "stop_name": "JAGODNO (P+R)",
-          "arrival_time": "24:06:00",
-          "departure_time": "24:06:00",
+          "arrival_time": "24:05:00",
+          "departure_time": "24:05:00",
           "lat": 51.052833,
           "lon": 17.05786333
         },
@@ -92,8 +92,8 @@
           "stop_sequence": 9,
           "stop_id": "4124",
           "stop_name": "Vivaldiego",
-          "arrival_time": "24:07:00",
-          "departure_time": "24:07:00",
+          "arrival_time": "24:06:00",
+          "departure_time": "24:06:00",
           "lat": 51.04931381,
           "lon": 17.05928802
         },
@@ -101,15 +101,15 @@
           "stop_sequence": 10,
           "stop_id": "5680",
           "stop_name": "IWINY - rondo",
-          "arrival_time": "24:08:00",
-          "departure_time": "24:08:00",
+          "arrival_time": "24:07:00",
+          "departure_time": "24:07:00",
           "lat": 51.04447674,
           "lon": 17.06089456
         }
       ]
     },
     {
-      "trip_id": "3_16577105",
+      "trip_id": "3_17599183",
       "direction_id": "0",
       "headsign": "BARTOSZOWICE",
       "service_id": "3",
@@ -129,8 +129,8 @@
           "stop_name": "Vivaldiego",
           "arrival_time": "24:38:00",
           "departure_time": "24:38:00",
-          "lat": 51.05009367,
-          "lon": 17.05910045
+          "lat": 51.05055564,
+          "lon": 17.0588198
         },
         {
           "stop_sequence": 2,
@@ -188,8 +188,8 @@
         },
         {
           "stop_sequence": 8,
-          "stop_id": "5445",
-          "stop_name": "GAJ - pętla",
+          "stop_id": "6105",
+          "stop_name": "GAJ pętla",
           "arrival_time": "24:46:00",
           "departure_time": "24:46:00",
           "lat": 51.0767824,
@@ -264,8 +264,8 @@
           "stop_name": "DWORZEC AUTOBUSOWY",
           "arrival_time": "25:02:00",
           "departure_time": "25:02:00",
-          "lat": 51.09657455,
-          "lon": 17.03298047
+          "lat": 51.09661319,
+          "lon": 17.03290179
         },
         {
           "stop_sequence": 17,
@@ -414,7 +414,7 @@
       ]
     },
     {
-      "trip_id": "3_16577106",
+      "trip_id": "3_17599184",
       "direction_id": "1",
       "headsign": "IWINY - rondo",
       "service_id": "3",
@@ -773,7 +773,7 @@
       ]
     },
     {
-      "trip_id": "3_16577107",
+      "trip_id": "3_17599185",
       "direction_id": "0",
       "headsign": "BARTOSZOWICE",
       "service_id": "3",
@@ -793,8 +793,8 @@
           "stop_name": "Vivaldiego",
           "arrival_time": "27:38:00",
           "departure_time": "27:38:00",
-          "lat": 51.05009367,
-          "lon": 17.05910045
+          "lat": 51.05055564,
+          "lon": 17.0588198
         },
         {
           "stop_sequence": 2,
@@ -852,8 +852,8 @@
         },
         {
           "stop_sequence": 8,
-          "stop_id": "5445",
-          "stop_name": "GAJ - pętla",
+          "stop_id": "6105",
+          "stop_name": "GAJ pętla",
           "arrival_time": "27:46:00",
           "departure_time": "27:46:00",
           "lat": 51.0767824,
@@ -928,8 +928,8 @@
           "stop_name": "DWORZEC AUTOBUSOWY",
           "arrival_time": "28:02:00",
           "departure_time": "28:02:00",
-          "lat": 51.09657455,
-          "lon": 17.03298047
+          "lat": 51.09661319,
+          "lon": 17.03290179
         },
         {
           "stop_sequence": 17,
@@ -1078,14 +1078,14 @@
       ]
     },
     {
-      "trip_id": "3_16577113",
+      "trip_id": "3_17599191",
       "direction_id": "0",
       "headsign": "BARTOSZOWICE",
       "service_id": "3",
       "stops": [
         {
           "stop_sequence": 0,
-          "stop_id": "5720",
+          "stop_id": "5909",
           "stop_name": "KROMERA",
           "arrival_time": "23:33:00",
           "departure_time": "23:33:00",
@@ -1221,7 +1221,7 @@
       ]
     },
     {
-      "trip_id": "3_16577114",
+      "trip_id": "3_17599192",
       "direction_id": "1",
       "headsign": "IWINY - rondo",
       "service_id": "3",
@@ -1580,7 +1580,7 @@
       ]
     },
     {
-      "trip_id": "3_16577115",
+      "trip_id": "3_17599193",
       "direction_id": "0",
       "headsign": "BARTOSZOWICE",
       "service_id": "3",
@@ -1600,8 +1600,8 @@
           "stop_name": "Vivaldiego",
           "arrival_time": "25:38:00",
           "departure_time": "25:38:00",
-          "lat": 51.05009367,
-          "lon": 17.05910045
+          "lat": 51.05055564,
+          "lon": 17.0588198
         },
         {
           "stop_sequence": 2,
@@ -1659,8 +1659,8 @@
         },
         {
           "stop_sequence": 8,
-          "stop_id": "5445",
-          "stop_name": "GAJ - pętla",
+          "stop_id": "6105",
+          "stop_name": "GAJ pętla",
           "arrival_time": "25:46:00",
           "departure_time": "25:46:00",
           "lat": 51.0767824,
@@ -1735,8 +1735,8 @@
           "stop_name": "DWORZEC AUTOBUSOWY",
           "arrival_time": "26:02:00",
           "departure_time": "26:02:00",
-          "lat": 51.09657455,
-          "lon": 17.03298047
+          "lat": 51.09661319,
+          "lon": 17.03290179
         },
         {
           "stop_sequence": 17,
@@ -1885,7 +1885,7 @@
       ]
     },
     {
-      "trip_id": "3_16577116",
+      "trip_id": "3_17599194",
       "direction_id": "1",
       "headsign": "IWINY - rondo",
       "service_id": "3",
@@ -2244,7 +2244,7 @@
       ]
     },
     {
-      "trip_id": "3_16577117",
+      "trip_id": "3_17599195",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "3",
@@ -2264,8 +2264,8 @@
           "stop_name": "Vivaldiego",
           "arrival_time": "28:25:00",
           "departure_time": "28:25:00",
-          "lat": 51.05009367,
-          "lon": 17.05910045
+          "lat": 51.05055564,
+          "lon": 17.0588198
         },
         {
           "stop_sequence": 2,
@@ -2323,8 +2323,8 @@
         },
         {
           "stop_sequence": 8,
-          "stop_id": "5445",
-          "stop_name": "GAJ - pętla",
+          "stop_id": "6105",
+          "stop_name": "GAJ pętla",
           "arrival_time": "28:33:00",
           "departure_time": "28:33:00",
           "lat": 51.0767824,
@@ -2390,8 +2390,8 @@
           "stop_name": "DWORZEC AUTOBUSOWY",
           "arrival_time": "28:42:00",
           "departure_time": "28:42:00",
-          "lat": 51.09657455,
-          "lon": 17.03298047
+          "lat": 51.09661319,
+          "lon": 17.03290179
         },
         {
           "stop_sequence": 16,
@@ -2476,8 +2476,8 @@
         },
         {
           "stop_sequence": 25,
-          "stop_id": "1163",
-          "stop_name": "most Osobowicki",
+          "stop_id": "6143",
+          "stop_name": "Most Osobowicki",
           "arrival_time": "28:58:00",
           "departure_time": "28:58:00",
           "lat": 51.13316389,
@@ -2540,7 +2540,7 @@
       ]
     },
     {
-      "trip_id": "3_16577120",
+      "trip_id": "3_17599198",
       "direction_id": "0",
       "headsign": "BARTOSZOWICE",
       "service_id": "3",
@@ -2601,8 +2601,8 @@
         },
         {
           "stop_sequence": 6,
-          "stop_id": "5445",
-          "stop_name": "GAJ - pętla",
+          "stop_id": "6105",
+          "stop_name": "GAJ pętla",
           "arrival_time": "23:46:00",
           "departure_time": "23:46:00",
           "lat": 51.0767824,
@@ -2677,8 +2677,8 @@
           "stop_name": "DWORZEC AUTOBUSOWY",
           "arrival_time": "24:02:00",
           "departure_time": "24:02:00",
-          "lat": 51.09657455,
-          "lon": 17.03298047
+          "lat": 51.09661319,
+          "lon": 17.03290179
         },
         {
           "stop_sequence": 15,
@@ -2827,7 +2827,7 @@
       ]
     },
     {
-      "trip_id": "3_16577121",
+      "trip_id": "3_17599199",
       "direction_id": "1",
       "headsign": "IWINY - rondo",
       "service_id": "3",
@@ -3186,7 +3186,7 @@
       ]
     },
     {
-      "trip_id": "3_16577122",
+      "trip_id": "3_17599200",
       "direction_id": "0",
       "headsign": "BARTOSZOWICE",
       "service_id": "3",
@@ -3206,8 +3206,8 @@
           "stop_name": "Vivaldiego",
           "arrival_time": "26:38:00",
           "departure_time": "26:38:00",
-          "lat": 51.05009367,
-          "lon": 17.05910045
+          "lat": 51.05055564,
+          "lon": 17.0588198
         },
         {
           "stop_sequence": 2,
@@ -3265,8 +3265,8 @@
         },
         {
           "stop_sequence": 8,
-          "stop_id": "5445",
-          "stop_name": "GAJ - pętla",
+          "stop_id": "6105",
+          "stop_name": "GAJ pętla",
           "arrival_time": "26:46:00",
           "departure_time": "26:46:00",
           "lat": 51.0767824,
@@ -3341,8 +3341,8 @@
           "stop_name": "DWORZEC AUTOBUSOWY",
           "arrival_time": "27:02:00",
           "departure_time": "27:02:00",
-          "lat": 51.09657455,
-          "lon": 17.03298047
+          "lat": 51.09661319,
+          "lon": 17.03290179
         },
         {
           "stop_sequence": 17,
@@ -3491,7 +3491,7 @@
       ]
     },
     {
-      "trip_id": "3_16577123",
+      "trip_id": "3_17599201",
       "direction_id": "1",
       "headsign": "PETRUSEWICZA",
       "service_id": "3",
@@ -3715,7 +3715,7 @@
       ]
     },
     {
-      "trip_id": "3_16577124",
+      "trip_id": "3_17599202",
       "direction_id": "0",
       "headsign": "Zajezdnia TYSKA",
       "service_id": "3",
@@ -3735,8 +3735,8 @@
           "stop_name": "DWORZEC AUTOBUSOWY",
           "arrival_time": "28:32:00",
           "departure_time": "28:32:00",
-          "lat": 51.09657455,
-          "lon": 17.03298047
+          "lat": 51.09661319,
+          "lon": 17.03290179
         },
         {
           "stop_sequence": 2,
@@ -3868,8 +3868,8 @@
           "stop_sequence": 16,
           "stop_id": "3555",
           "stop_name": "Armii Krajowej (Bogedaina)",
-          "arrival_time": "28:55:00",
-          "departure_time": "28:55:00",
+          "arrival_time": "28:54:00",
+          "departure_time": "28:54:00",
           "lat": 51.08534694,
           "lon": 17.06528881
         },
@@ -3877,8 +3877,8 @@
           "stop_sequence": 17,
           "stop_id": "439",
           "stop_name": "Klimasa",
-          "arrival_time": "28:57:00",
-          "departure_time": "28:57:00",
+          "arrival_time": "28:56:00",
+          "departure_time": "28:56:00",
           "lat": 51.07990021,
           "lon": 17.06237296
         },
@@ -3886,88 +3886,97 @@
           "stop_sequence": 18,
           "stop_id": "1249",
           "stop_name": "TARNOGAJ",
-          "arrival_time": "28:58:00",
-          "departure_time": "28:58:00",
+          "arrival_time": "28:57:00",
+          "departure_time": "28:57:00",
           "lat": 51.07779233,
           "lon": 17.06466995
         },
         {
           "stop_sequence": 19,
-          "stop_id": "442",
-          "stop_name": "Gazowa",
-          "arrival_time": "28:59:00",
-          "departure_time": "28:59:00",
-          "lat": 51.07815182,
-          "lon": 17.07041118
+          "stop_id": "3556",
+          "stop_name": "Armii Krajowej (Bogedaina)",
+          "arrival_time": "29:00:00",
+          "departure_time": "29:00:00",
+          "lat": 51.08552632,
+          "lon": 17.06622813
         },
         {
           "stop_sequence": 20,
+          "stop_id": "857",
+          "stop_name": "Park Wschodni",
+          "arrival_time": "29:01:00",
+          "departure_time": "29:01:00",
+          "lat": 51.08488586,
+          "lon": 17.07219405
+        },
+        {
+          "stop_sequence": 21,
           "stop_id": "5738",
           "stop_name": "Karwińska (Dawna Pralnia)",
-          "arrival_time": "29:00:00",
-          "departure_time": "29:00:00",
+          "arrival_time": "29:02:00",
+          "departure_time": "29:02:00",
           "lat": 51.0813706,
           "lon": 17.07818456
         },
         {
-          "stop_sequence": 21,
+          "stop_sequence": 22,
           "stop_id": "27",
           "stop_name": "KSIĘŻE MAŁE",
-          "arrival_time": "29:01:00",
-          "departure_time": "29:01:00",
+          "arrival_time": "29:03:00",
+          "departure_time": "29:03:00",
           "lat": 51.0769998,
           "lon": 17.0844074
         },
         {
-          "stop_sequence": 22,
+          "stop_sequence": 23,
           "stop_id": "422",
           "stop_name": "Zagłębiowska",
-          "arrival_time": "29:02:00",
-          "departure_time": "29:02:00",
+          "arrival_time": "29:04:00",
+          "departure_time": "29:04:00",
           "lat": 51.07275516,
           "lon": 17.08914075
         },
         {
-          "stop_sequence": 23,
+          "stop_sequence": 24,
           "stop_id": "3019",
           "stop_name": "Sosnowiecka",
-          "arrival_time": "29:03:00",
-          "departure_time": "29:03:00",
+          "arrival_time": "29:05:00",
+          "departure_time": "29:05:00",
           "lat": 51.07045986,
           "lon": 17.09154329
         },
         {
-          "stop_sequence": 24,
+          "stop_sequence": 25,
           "stop_id": "425",
           "stop_name": "Brochowska",
-          "arrival_time": "29:04:00",
-          "departure_time": "29:04:00",
+          "arrival_time": "29:06:00",
+          "departure_time": "29:06:00",
           "lat": 51.06911568,
           "lon": 17.09293957
         },
         {
-          "stop_sequence": 25,
+          "stop_sequence": 26,
           "stop_id": "5645",
           "stop_name": "Zajezdnia TYSKA",
-          "arrival_time": "29:06:00",
-          "departure_time": "29:06:00",
+          "arrival_time": "29:08:00",
+          "departure_time": "29:08:00",
           "lat": 51.06678646,
           "lon": 17.09890316
         }
       ]
     },
     {
-      "trip_id": "4_16581425",
+      "trip_id": "4_17603589",
       "direction_id": "1",
       "headsign": "IWINY - rondo",
       "service_id": "4",
       "stops": [
         {
           "stop_sequence": 0,
-          "stop_id": "2047",
-          "stop_name": "GAJ - pętla",
-          "arrival_time": "23:58:00",
-          "departure_time": "23:58:00",
+          "stop_id": "6103",
+          "stop_name": "GAJ pętla",
+          "arrival_time": "23:57:00",
+          "departure_time": "23:57:00",
           "lat": 51.07712309,
           "lon": 17.04959717
         },
@@ -3975,8 +3984,8 @@
           "stop_sequence": 1,
           "stop_id": "5523",
           "stop_name": "Morwowa",
-          "arrival_time": "23:59:00",
-          "departure_time": "23:59:00",
+          "arrival_time": "23:58:00",
+          "departure_time": "23:58:00",
           "lat": 51.07606334,
           "lon": 17.05210444
         },
@@ -3984,8 +3993,8 @@
           "stop_sequence": 2,
           "stop_id": "5646",
           "stop_name": "Bardzka (Cmentarz)",
-          "arrival_time": "24:00:00",
-          "departure_time": "24:00:00",
+          "arrival_time": "23:59:00",
+          "departure_time": "23:59:00",
           "lat": 51.07236919,
           "lon": 17.05275873
         },
@@ -3993,8 +4002,8 @@
           "stop_sequence": 3,
           "stop_id": "5672",
           "stop_name": "Buforowa (Rondo)",
-          "arrival_time": "24:01:00",
-          "departure_time": "24:01:00",
+          "arrival_time": "24:00:00",
+          "departure_time": "24:00:00",
           "lat": 51.06931861,
           "lon": 17.05349348
         },
@@ -4002,8 +4011,8 @@
           "stop_sequence": 4,
           "stop_id": "5526",
           "stop_name": "Konduktorska",
-          "arrival_time": "24:01:00",
-          "departure_time": "24:01:00",
+          "arrival_time": "24:00:00",
+          "departure_time": "24:00:00",
           "lat": 51.06703978,
           "lon": 17.0542876
         },
@@ -4011,8 +4020,8 @@
           "stop_sequence": 5,
           "stop_id": "5705",
           "stop_name": "Lutosławskiego",
-          "arrival_time": "24:02:00",
-          "departure_time": "24:02:00",
+          "arrival_time": "24:01:00",
+          "departure_time": "24:01:00",
           "lat": 51.06217854,
           "lon": 17.05479717
         },
@@ -4020,8 +4029,8 @@
           "stop_sequence": 6,
           "stop_id": "5656",
           "stop_name": "Kopycińskiego",
-          "arrival_time": "24:04:00",
-          "departure_time": "24:04:00",
+          "arrival_time": "24:03:00",
+          "departure_time": "24:03:00",
           "lat": 51.05763027,
           "lon": 17.05643882
         },
@@ -4029,8 +4038,8 @@
           "stop_sequence": 7,
           "stop_id": "5692",
           "stop_name": "JAGODNO (P+R)",
-          "arrival_time": "24:05:00",
-          "departure_time": "24:05:00",
+          "arrival_time": "24:04:00",
+          "departure_time": "24:04:00",
           "lat": 51.05368172,
           "lon": 17.05702336
         },
@@ -4038,8 +4047,8 @@
           "stop_sequence": 8,
           "stop_id": "5686",
           "stop_name": "JAGODNO (P+R)",
-          "arrival_time": "24:06:00",
-          "departure_time": "24:06:00",
+          "arrival_time": "24:05:00",
+          "departure_time": "24:05:00",
           "lat": 51.052833,
           "lon": 17.05786333
         },
@@ -4047,8 +4056,8 @@
           "stop_sequence": 9,
           "stop_id": "4124",
           "stop_name": "Vivaldiego",
-          "arrival_time": "24:07:00",
-          "departure_time": "24:07:00",
+          "arrival_time": "24:06:00",
+          "departure_time": "24:06:00",
           "lat": 51.04931381,
           "lon": 17.05928802
         },
@@ -4056,15 +4065,15 @@
           "stop_sequence": 10,
           "stop_id": "5680",
           "stop_name": "IWINY - rondo",
-          "arrival_time": "24:08:00",
-          "departure_time": "24:08:00",
+          "arrival_time": "24:07:00",
+          "departure_time": "24:07:00",
           "lat": 51.04447674,
           "lon": 17.06089456
         }
       ]
     },
     {
-      "trip_id": "4_16581426",
+      "trip_id": "4_17603590",
       "direction_id": "0",
       "headsign": "BARTOSZOWICE",
       "service_id": "4",
@@ -4084,8 +4093,8 @@
           "stop_name": "Vivaldiego",
           "arrival_time": "24:38:00",
           "departure_time": "24:38:00",
-          "lat": 51.05009367,
-          "lon": 17.05910045
+          "lat": 51.05055564,
+          "lon": 17.0588198
         },
         {
           "stop_sequence": 2,
@@ -4143,8 +4152,8 @@
         },
         {
           "stop_sequence": 8,
-          "stop_id": "5445",
-          "stop_name": "GAJ - pętla",
+          "stop_id": "6105",
+          "stop_name": "GAJ pętla",
           "arrival_time": "24:46:00",
           "departure_time": "24:46:00",
           "lat": 51.0767824,
@@ -4219,8 +4228,8 @@
           "stop_name": "DWORZEC AUTOBUSOWY",
           "arrival_time": "25:02:00",
           "departure_time": "25:02:00",
-          "lat": 51.09657455,
-          "lon": 17.03298047
+          "lat": 51.09661319,
+          "lon": 17.03290179
         },
         {
           "stop_sequence": 17,
@@ -4369,7 +4378,7 @@
       ]
     },
     {
-      "trip_id": "4_16581427",
+      "trip_id": "4_17603591",
       "direction_id": "1",
       "headsign": "IWINY - rondo",
       "service_id": "4",
@@ -4728,7 +4737,7 @@
       ]
     },
     {
-      "trip_id": "4_16581428",
+      "trip_id": "4_17603592",
       "direction_id": "0",
       "headsign": "BARTOSZOWICE",
       "service_id": "4",
@@ -4748,8 +4757,8 @@
           "stop_name": "Vivaldiego",
           "arrival_time": "27:38:00",
           "departure_time": "27:38:00",
-          "lat": 51.05009367,
-          "lon": 17.05910045
+          "lat": 51.05055564,
+          "lon": 17.0588198
         },
         {
           "stop_sequence": 2,
@@ -4807,8 +4816,8 @@
         },
         {
           "stop_sequence": 8,
-          "stop_id": "5445",
-          "stop_name": "GAJ - pętla",
+          "stop_id": "6105",
+          "stop_name": "GAJ pętla",
           "arrival_time": "27:46:00",
           "departure_time": "27:46:00",
           "lat": 51.0767824,
@@ -4883,8 +4892,8 @@
           "stop_name": "DWORZEC AUTOBUSOWY",
           "arrival_time": "28:02:00",
           "departure_time": "28:02:00",
-          "lat": 51.09657455,
-          "lon": 17.03298047
+          "lat": 51.09661319,
+          "lon": 17.03290179
         },
         {
           "stop_sequence": 17,
@@ -5033,14 +5042,14 @@
       ]
     },
     {
-      "trip_id": "4_16581434",
+      "trip_id": "4_17603598",
       "direction_id": "0",
       "headsign": "BARTOSZOWICE",
       "service_id": "4",
       "stops": [
         {
           "stop_sequence": 0,
-          "stop_id": "5720",
+          "stop_id": "5909",
           "stop_name": "KROMERA",
           "arrival_time": "23:33:00",
           "departure_time": "23:33:00",
@@ -5176,7 +5185,7 @@
       ]
     },
     {
-      "trip_id": "4_16581435",
+      "trip_id": "4_17603599",
       "direction_id": "1",
       "headsign": "IWINY - rondo",
       "service_id": "4",
@@ -5535,7 +5544,7 @@
       ]
     },
     {
-      "trip_id": "4_16581436",
+      "trip_id": "4_17603600",
       "direction_id": "0",
       "headsign": "BARTOSZOWICE",
       "service_id": "4",
@@ -5555,8 +5564,8 @@
           "stop_name": "Vivaldiego",
           "arrival_time": "25:38:00",
           "departure_time": "25:38:00",
-          "lat": 51.05009367,
-          "lon": 17.05910045
+          "lat": 51.05055564,
+          "lon": 17.0588198
         },
         {
           "stop_sequence": 2,
@@ -5614,8 +5623,8 @@
         },
         {
           "stop_sequence": 8,
-          "stop_id": "5445",
-          "stop_name": "GAJ - pętla",
+          "stop_id": "6105",
+          "stop_name": "GAJ pętla",
           "arrival_time": "25:46:00",
           "departure_time": "25:46:00",
           "lat": 51.0767824,
@@ -5690,8 +5699,8 @@
           "stop_name": "DWORZEC AUTOBUSOWY",
           "arrival_time": "26:02:00",
           "departure_time": "26:02:00",
-          "lat": 51.09657455,
-          "lon": 17.03298047
+          "lat": 51.09661319,
+          "lon": 17.03290179
         },
         {
           "stop_sequence": 17,
@@ -5840,7 +5849,7 @@
       ]
     },
     {
-      "trip_id": "4_16581437",
+      "trip_id": "4_17603601",
       "direction_id": "1",
       "headsign": "IWINY - rondo",
       "service_id": "4",
@@ -6199,7 +6208,7 @@
       ]
     },
     {
-      "trip_id": "4_16581438",
+      "trip_id": "4_17603602",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "4",
@@ -6219,8 +6228,8 @@
           "stop_name": "Vivaldiego",
           "arrival_time": "28:25:00",
           "departure_time": "28:25:00",
-          "lat": 51.05009367,
-          "lon": 17.05910045
+          "lat": 51.05055564,
+          "lon": 17.0588198
         },
         {
           "stop_sequence": 2,
@@ -6278,8 +6287,8 @@
         },
         {
           "stop_sequence": 8,
-          "stop_id": "5445",
-          "stop_name": "GAJ - pętla",
+          "stop_id": "6105",
+          "stop_name": "GAJ pętla",
           "arrival_time": "28:33:00",
           "departure_time": "28:33:00",
           "lat": 51.0767824,
@@ -6345,8 +6354,8 @@
           "stop_name": "DWORZEC AUTOBUSOWY",
           "arrival_time": "28:42:00",
           "departure_time": "28:42:00",
-          "lat": 51.09657455,
-          "lon": 17.03298047
+          "lat": 51.09661319,
+          "lon": 17.03290179
         },
         {
           "stop_sequence": 16,
@@ -6431,8 +6440,8 @@
         },
         {
           "stop_sequence": 25,
-          "stop_id": "1163",
-          "stop_name": "most Osobowicki",
+          "stop_id": "6143",
+          "stop_name": "Most Osobowicki",
           "arrival_time": "28:58:00",
           "departure_time": "28:58:00",
           "lat": 51.13316389,
@@ -6495,7 +6504,7 @@
       ]
     },
     {
-      "trip_id": "4_16581441",
+      "trip_id": "4_17603605",
       "direction_id": "0",
       "headsign": "BARTOSZOWICE",
       "service_id": "4",
@@ -6556,8 +6565,8 @@
         },
         {
           "stop_sequence": 6,
-          "stop_id": "5445",
-          "stop_name": "GAJ - pętla",
+          "stop_id": "6105",
+          "stop_name": "GAJ pętla",
           "arrival_time": "23:46:00",
           "departure_time": "23:46:00",
           "lat": 51.0767824,
@@ -6632,8 +6641,8 @@
           "stop_name": "DWORZEC AUTOBUSOWY",
           "arrival_time": "24:02:00",
           "departure_time": "24:02:00",
-          "lat": 51.09657455,
-          "lon": 17.03298047
+          "lat": 51.09661319,
+          "lon": 17.03290179
         },
         {
           "stop_sequence": 15,
@@ -6782,7 +6791,7 @@
       ]
     },
     {
-      "trip_id": "4_16581442",
+      "trip_id": "4_17603606",
       "direction_id": "1",
       "headsign": "IWINY - rondo",
       "service_id": "4",
@@ -7141,7 +7150,7 @@
       ]
     },
     {
-      "trip_id": "4_16581443",
+      "trip_id": "4_17603607",
       "direction_id": "0",
       "headsign": "BARTOSZOWICE",
       "service_id": "4",
@@ -7161,8 +7170,8 @@
           "stop_name": "Vivaldiego",
           "arrival_time": "26:38:00",
           "departure_time": "26:38:00",
-          "lat": 51.05009367,
-          "lon": 17.05910045
+          "lat": 51.05055564,
+          "lon": 17.0588198
         },
         {
           "stop_sequence": 2,
@@ -7220,8 +7229,8 @@
         },
         {
           "stop_sequence": 8,
-          "stop_id": "5445",
-          "stop_name": "GAJ - pętla",
+          "stop_id": "6105",
+          "stop_name": "GAJ pętla",
           "arrival_time": "26:46:00",
           "departure_time": "26:46:00",
           "lat": 51.0767824,
@@ -7296,8 +7305,8 @@
           "stop_name": "DWORZEC AUTOBUSOWY",
           "arrival_time": "27:02:00",
           "departure_time": "27:02:00",
-          "lat": 51.09657455,
-          "lon": 17.03298047
+          "lat": 51.09661319,
+          "lon": 17.03290179
         },
         {
           "stop_sequence": 17,
@@ -7446,7 +7455,7 @@
       ]
     },
     {
-      "trip_id": "4_16581444",
+      "trip_id": "4_17603608",
       "direction_id": "1",
       "headsign": "PETRUSEWICZA",
       "service_id": "4",
@@ -7670,7 +7679,7 @@
       ]
     },
     {
-      "trip_id": "4_16581445",
+      "trip_id": "4_17603609",
       "direction_id": "0",
       "headsign": "Zajezdnia TYSKA",
       "service_id": "4",
@@ -7690,8 +7699,8 @@
           "stop_name": "DWORZEC AUTOBUSOWY",
           "arrival_time": "28:32:00",
           "departure_time": "28:32:00",
-          "lat": 51.09657455,
-          "lon": 17.03298047
+          "lat": 51.09661319,
+          "lon": 17.03290179
         },
         {
           "stop_sequence": 2,
@@ -7823,8 +7832,8 @@
           "stop_sequence": 16,
           "stop_id": "3555",
           "stop_name": "Armii Krajowej (Bogedaina)",
-          "arrival_time": "28:55:00",
-          "departure_time": "28:55:00",
+          "arrival_time": "28:54:00",
+          "departure_time": "28:54:00",
           "lat": 51.08534694,
           "lon": 17.06528881
         },
@@ -7832,8 +7841,8 @@
           "stop_sequence": 17,
           "stop_id": "439",
           "stop_name": "Klimasa",
-          "arrival_time": "28:57:00",
-          "departure_time": "28:57:00",
+          "arrival_time": "28:56:00",
+          "departure_time": "28:56:00",
           "lat": 51.07990021,
           "lon": 17.06237296
         },
@@ -7841,88 +7850,97 @@
           "stop_sequence": 18,
           "stop_id": "1249",
           "stop_name": "TARNOGAJ",
-          "arrival_time": "28:58:00",
-          "departure_time": "28:58:00",
+          "arrival_time": "28:57:00",
+          "departure_time": "28:57:00",
           "lat": 51.07779233,
           "lon": 17.06466995
         },
         {
           "stop_sequence": 19,
-          "stop_id": "442",
-          "stop_name": "Gazowa",
-          "arrival_time": "28:59:00",
-          "departure_time": "28:59:00",
-          "lat": 51.07815182,
-          "lon": 17.07041118
+          "stop_id": "3556",
+          "stop_name": "Armii Krajowej (Bogedaina)",
+          "arrival_time": "29:00:00",
+          "departure_time": "29:00:00",
+          "lat": 51.08552632,
+          "lon": 17.06622813
         },
         {
           "stop_sequence": 20,
+          "stop_id": "857",
+          "stop_name": "Park Wschodni",
+          "arrival_time": "29:01:00",
+          "departure_time": "29:01:00",
+          "lat": 51.08488586,
+          "lon": 17.07219405
+        },
+        {
+          "stop_sequence": 21,
           "stop_id": "5738",
           "stop_name": "Karwińska (Dawna Pralnia)",
-          "arrival_time": "29:00:00",
-          "departure_time": "29:00:00",
+          "arrival_time": "29:02:00",
+          "departure_time": "29:02:00",
           "lat": 51.0813706,
           "lon": 17.07818456
         },
         {
-          "stop_sequence": 21,
+          "stop_sequence": 22,
           "stop_id": "27",
           "stop_name": "KSIĘŻE MAŁE",
-          "arrival_time": "29:01:00",
-          "departure_time": "29:01:00",
+          "arrival_time": "29:03:00",
+          "departure_time": "29:03:00",
           "lat": 51.0769998,
           "lon": 17.0844074
         },
         {
-          "stop_sequence": 22,
+          "stop_sequence": 23,
           "stop_id": "422",
           "stop_name": "Zagłębiowska",
-          "arrival_time": "29:02:00",
-          "departure_time": "29:02:00",
+          "arrival_time": "29:04:00",
+          "departure_time": "29:04:00",
           "lat": 51.07275516,
           "lon": 17.08914075
         },
         {
-          "stop_sequence": 23,
+          "stop_sequence": 24,
           "stop_id": "3019",
           "stop_name": "Sosnowiecka",
-          "arrival_time": "29:03:00",
-          "departure_time": "29:03:00",
+          "arrival_time": "29:05:00",
+          "departure_time": "29:05:00",
           "lat": 51.07045986,
           "lon": 17.09154329
         },
         {
-          "stop_sequence": 24,
+          "stop_sequence": 25,
           "stop_id": "425",
           "stop_name": "Brochowska",
-          "arrival_time": "29:04:00",
-          "departure_time": "29:04:00",
+          "arrival_time": "29:06:00",
+          "departure_time": "29:06:00",
           "lat": 51.06911568,
           "lon": 17.09293957
         },
         {
-          "stop_sequence": 25,
+          "stop_sequence": 26,
           "stop_id": "5645",
           "stop_name": "Zajezdnia TYSKA",
-          "arrival_time": "29:06:00",
-          "departure_time": "29:06:00",
+          "arrival_time": "29:08:00",
+          "departure_time": "29:08:00",
           "lat": 51.06678646,
           "lon": 17.09890316
         }
       ]
     },
     {
-      "trip_id": "6_16587450",
+      "trip_id": "6_17609779",
       "direction_id": "1",
       "headsign": "IWINY - rondo",
       "service_id": "6",
       "stops": [
         {
           "stop_sequence": 0,
-          "stop_id": "2047",
-          "stop_name": "GAJ - pętla",
-          "arrival_time": "23:58:00",
-          "departure_time": "23:58:00",
+          "stop_id": "6103",
+          "stop_name": "GAJ pętla",
+          "arrival_time": "23:57:00",
+          "departure_time": "23:57:00",
           "lat": 51.07712309,
           "lon": 17.04959717
         },
@@ -7930,8 +7948,8 @@
           "stop_sequence": 1,
           "stop_id": "5523",
           "stop_name": "Morwowa",
-          "arrival_time": "23:59:00",
-          "departure_time": "23:59:00",
+          "arrival_time": "23:58:00",
+          "departure_time": "23:58:00",
           "lat": 51.07606334,
           "lon": 17.05210444
         },
@@ -7939,8 +7957,8 @@
           "stop_sequence": 2,
           "stop_id": "5646",
           "stop_name": "Bardzka (Cmentarz)",
-          "arrival_time": "24:00:00",
-          "departure_time": "24:00:00",
+          "arrival_time": "23:59:00",
+          "departure_time": "23:59:00",
           "lat": 51.07236919,
           "lon": 17.05275873
         },
@@ -7948,8 +7966,8 @@
           "stop_sequence": 3,
           "stop_id": "5672",
           "stop_name": "Buforowa (Rondo)",
-          "arrival_time": "24:01:00",
-          "departure_time": "24:01:00",
+          "arrival_time": "24:00:00",
+          "departure_time": "24:00:00",
           "lat": 51.06931861,
           "lon": 17.05349348
         },
@@ -7957,8 +7975,8 @@
           "stop_sequence": 4,
           "stop_id": "5526",
           "stop_name": "Konduktorska",
-          "arrival_time": "24:01:00",
-          "departure_time": "24:01:00",
+          "arrival_time": "24:00:00",
+          "departure_time": "24:00:00",
           "lat": 51.06703978,
           "lon": 17.0542876
         },
@@ -7966,8 +7984,8 @@
           "stop_sequence": 5,
           "stop_id": "5705",
           "stop_name": "Lutosławskiego",
-          "arrival_time": "24:02:00",
-          "departure_time": "24:02:00",
+          "arrival_time": "24:01:00",
+          "departure_time": "24:01:00",
           "lat": 51.06217854,
           "lon": 17.05479717
         },
@@ -7975,8 +7993,8 @@
           "stop_sequence": 6,
           "stop_id": "5656",
           "stop_name": "Kopycińskiego",
-          "arrival_time": "24:04:00",
-          "departure_time": "24:04:00",
+          "arrival_time": "24:03:00",
+          "departure_time": "24:03:00",
           "lat": 51.05763027,
           "lon": 17.05643882
         },
@@ -7984,8 +8002,8 @@
           "stop_sequence": 7,
           "stop_id": "5692",
           "stop_name": "JAGODNO (P+R)",
-          "arrival_time": "24:05:00",
-          "departure_time": "24:05:00",
+          "arrival_time": "24:04:00",
+          "departure_time": "24:04:00",
           "lat": 51.05368172,
           "lon": 17.05702336
         },
@@ -7993,8 +8011,8 @@
           "stop_sequence": 8,
           "stop_id": "5686",
           "stop_name": "JAGODNO (P+R)",
-          "arrival_time": "24:06:00",
-          "departure_time": "24:06:00",
+          "arrival_time": "24:05:00",
+          "departure_time": "24:05:00",
           "lat": 51.052833,
           "lon": 17.05786333
         },
@@ -8002,8 +8020,8 @@
           "stop_sequence": 9,
           "stop_id": "4124",
           "stop_name": "Vivaldiego",
-          "arrival_time": "24:07:00",
-          "departure_time": "24:07:00",
+          "arrival_time": "24:06:00",
+          "departure_time": "24:06:00",
           "lat": 51.04931381,
           "lon": 17.05928802
         },
@@ -8011,15 +8029,15 @@
           "stop_sequence": 10,
           "stop_id": "5680",
           "stop_name": "IWINY - rondo",
-          "arrival_time": "24:08:00",
-          "departure_time": "24:08:00",
+          "arrival_time": "24:07:00",
+          "departure_time": "24:07:00",
           "lat": 51.04447674,
           "lon": 17.06089456
         }
       ]
     },
     {
-      "trip_id": "6_16587451",
+      "trip_id": "6_17609780",
       "direction_id": "0",
       "headsign": "BARTOSZOWICE",
       "service_id": "6",
@@ -8039,8 +8057,8 @@
           "stop_name": "Vivaldiego",
           "arrival_time": "24:38:00",
           "departure_time": "24:38:00",
-          "lat": 51.05009367,
-          "lon": 17.05910045
+          "lat": 51.05055564,
+          "lon": 17.0588198
         },
         {
           "stop_sequence": 2,
@@ -8098,8 +8116,8 @@
         },
         {
           "stop_sequence": 8,
-          "stop_id": "5445",
-          "stop_name": "GAJ - pętla",
+          "stop_id": "6105",
+          "stop_name": "GAJ pętla",
           "arrival_time": "24:46:00",
           "departure_time": "24:46:00",
           "lat": 51.0767824,
@@ -8174,8 +8192,8 @@
           "stop_name": "DWORZEC AUTOBUSOWY",
           "arrival_time": "25:02:00",
           "departure_time": "25:02:00",
-          "lat": 51.09657455,
-          "lon": 17.03298047
+          "lat": 51.09661319,
+          "lon": 17.03290179
         },
         {
           "stop_sequence": 17,
@@ -8324,7 +8342,7 @@
       ]
     },
     {
-      "trip_id": "6_16587452",
+      "trip_id": "6_17609781",
       "direction_id": "1",
       "headsign": "IWINY - rondo",
       "service_id": "6",
@@ -8683,7 +8701,7 @@
       ]
     },
     {
-      "trip_id": "6_16587453",
+      "trip_id": "6_17609782",
       "direction_id": "0",
       "headsign": "BARTOSZOWICE",
       "service_id": "6",
@@ -8703,8 +8721,8 @@
           "stop_name": "Vivaldiego",
           "arrival_time": "27:38:00",
           "departure_time": "27:38:00",
-          "lat": 51.05009367,
-          "lon": 17.05910045
+          "lat": 51.05055564,
+          "lon": 17.0588198
         },
         {
           "stop_sequence": 2,
@@ -8762,8 +8780,8 @@
         },
         {
           "stop_sequence": 8,
-          "stop_id": "5445",
-          "stop_name": "GAJ - pętla",
+          "stop_id": "6105",
+          "stop_name": "GAJ pętla",
           "arrival_time": "27:46:00",
           "departure_time": "27:46:00",
           "lat": 51.0767824,
@@ -8838,8 +8856,8 @@
           "stop_name": "DWORZEC AUTOBUSOWY",
           "arrival_time": "28:02:00",
           "departure_time": "28:02:00",
-          "lat": 51.09657455,
-          "lon": 17.03298047
+          "lat": 51.09661319,
+          "lon": 17.03290179
         },
         {
           "stop_sequence": 17,
@@ -8988,14 +9006,14 @@
       ]
     },
     {
-      "trip_id": "6_16587459",
+      "trip_id": "6_17609788",
       "direction_id": "0",
       "headsign": "BARTOSZOWICE",
       "service_id": "6",
       "stops": [
         {
           "stop_sequence": 0,
-          "stop_id": "5720",
+          "stop_id": "5909",
           "stop_name": "KROMERA",
           "arrival_time": "23:33:00",
           "departure_time": "23:33:00",
@@ -9131,7 +9149,7 @@
       ]
     },
     {
-      "trip_id": "6_16587460",
+      "trip_id": "6_17609789",
       "direction_id": "1",
       "headsign": "IWINY - rondo",
       "service_id": "6",
@@ -9490,7 +9508,7 @@
       ]
     },
     {
-      "trip_id": "6_16587461",
+      "trip_id": "6_17609790",
       "direction_id": "0",
       "headsign": "BARTOSZOWICE",
       "service_id": "6",
@@ -9510,8 +9528,8 @@
           "stop_name": "Vivaldiego",
           "arrival_time": "25:38:00",
           "departure_time": "25:38:00",
-          "lat": 51.05009367,
-          "lon": 17.05910045
+          "lat": 51.05055564,
+          "lon": 17.0588198
         },
         {
           "stop_sequence": 2,
@@ -9569,8 +9587,8 @@
         },
         {
           "stop_sequence": 8,
-          "stop_id": "5445",
-          "stop_name": "GAJ - pętla",
+          "stop_id": "6105",
+          "stop_name": "GAJ pętla",
           "arrival_time": "25:46:00",
           "departure_time": "25:46:00",
           "lat": 51.0767824,
@@ -9645,8 +9663,8 @@
           "stop_name": "DWORZEC AUTOBUSOWY",
           "arrival_time": "26:02:00",
           "departure_time": "26:02:00",
-          "lat": 51.09657455,
-          "lon": 17.03298047
+          "lat": 51.09661319,
+          "lon": 17.03290179
         },
         {
           "stop_sequence": 17,
@@ -9795,7 +9813,7 @@
       ]
     },
     {
-      "trip_id": "6_16587462",
+      "trip_id": "6_17609791",
       "direction_id": "1",
       "headsign": "IWINY - rondo",
       "service_id": "6",
@@ -10154,7 +10172,7 @@
       ]
     },
     {
-      "trip_id": "6_16587463",
+      "trip_id": "6_17609792",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "6",
@@ -10174,8 +10192,8 @@
           "stop_name": "Vivaldiego",
           "arrival_time": "28:25:00",
           "departure_time": "28:25:00",
-          "lat": 51.05009367,
-          "lon": 17.05910045
+          "lat": 51.05055564,
+          "lon": 17.0588198
         },
         {
           "stop_sequence": 2,
@@ -10233,8 +10251,8 @@
         },
         {
           "stop_sequence": 8,
-          "stop_id": "5445",
-          "stop_name": "GAJ - pętla",
+          "stop_id": "6105",
+          "stop_name": "GAJ pętla",
           "arrival_time": "28:33:00",
           "departure_time": "28:33:00",
           "lat": 51.0767824,
@@ -10300,8 +10318,8 @@
           "stop_name": "DWORZEC AUTOBUSOWY",
           "arrival_time": "28:42:00",
           "departure_time": "28:42:00",
-          "lat": 51.09657455,
-          "lon": 17.03298047
+          "lat": 51.09661319,
+          "lon": 17.03290179
         },
         {
           "stop_sequence": 16,
@@ -10386,8 +10404,8 @@
         },
         {
           "stop_sequence": 25,
-          "stop_id": "1163",
-          "stop_name": "most Osobowicki",
+          "stop_id": "6143",
+          "stop_name": "Most Osobowicki",
           "arrival_time": "28:58:00",
           "departure_time": "28:58:00",
           "lat": 51.13316389,
@@ -10450,7 +10468,7 @@
       ]
     },
     {
-      "trip_id": "6_16587466",
+      "trip_id": "6_17609795",
       "direction_id": "0",
       "headsign": "BARTOSZOWICE",
       "service_id": "6",
@@ -10511,8 +10529,8 @@
         },
         {
           "stop_sequence": 6,
-          "stop_id": "5445",
-          "stop_name": "GAJ - pętla",
+          "stop_id": "6105",
+          "stop_name": "GAJ pętla",
           "arrival_time": "23:46:00",
           "departure_time": "23:46:00",
           "lat": 51.0767824,
@@ -10587,8 +10605,8 @@
           "stop_name": "DWORZEC AUTOBUSOWY",
           "arrival_time": "24:02:00",
           "departure_time": "24:02:00",
-          "lat": 51.09657455,
-          "lon": 17.03298047
+          "lat": 51.09661319,
+          "lon": 17.03290179
         },
         {
           "stop_sequence": 15,
@@ -10737,7 +10755,7 @@
       ]
     },
     {
-      "trip_id": "6_16587467",
+      "trip_id": "6_17609796",
       "direction_id": "1",
       "headsign": "IWINY - rondo",
       "service_id": "6",
@@ -11096,7 +11114,7 @@
       ]
     },
     {
-      "trip_id": "6_16587468",
+      "trip_id": "6_17609797",
       "direction_id": "0",
       "headsign": "BARTOSZOWICE",
       "service_id": "6",
@@ -11116,8 +11134,8 @@
           "stop_name": "Vivaldiego",
           "arrival_time": "26:38:00",
           "departure_time": "26:38:00",
-          "lat": 51.05009367,
-          "lon": 17.05910045
+          "lat": 51.05055564,
+          "lon": 17.0588198
         },
         {
           "stop_sequence": 2,
@@ -11175,8 +11193,8 @@
         },
         {
           "stop_sequence": 8,
-          "stop_id": "5445",
-          "stop_name": "GAJ - pętla",
+          "stop_id": "6105",
+          "stop_name": "GAJ pętla",
           "arrival_time": "26:46:00",
           "departure_time": "26:46:00",
           "lat": 51.0767824,
@@ -11251,8 +11269,8 @@
           "stop_name": "DWORZEC AUTOBUSOWY",
           "arrival_time": "27:02:00",
           "departure_time": "27:02:00",
-          "lat": 51.09657455,
-          "lon": 17.03298047
+          "lat": 51.09661319,
+          "lon": 17.03290179
         },
         {
           "stop_sequence": 17,
@@ -11401,7 +11419,7 @@
       ]
     },
     {
-      "trip_id": "6_16587469",
+      "trip_id": "6_17609798",
       "direction_id": "1",
       "headsign": "PETRUSEWICZA",
       "service_id": "6",
@@ -11625,7 +11643,7 @@
       ]
     },
     {
-      "trip_id": "6_16587470",
+      "trip_id": "6_17609799",
       "direction_id": "0",
       "headsign": "Zajezdnia TYSKA",
       "service_id": "6",
@@ -11645,8 +11663,8 @@
           "stop_name": "DWORZEC AUTOBUSOWY",
           "arrival_time": "28:32:00",
           "departure_time": "28:32:00",
-          "lat": 51.09657455,
-          "lon": 17.03298047
+          "lat": 51.09661319,
+          "lon": 17.03290179
         },
         {
           "stop_sequence": 2,
@@ -11778,8 +11796,8 @@
           "stop_sequence": 16,
           "stop_id": "3555",
           "stop_name": "Armii Krajowej (Bogedaina)",
-          "arrival_time": "28:55:00",
-          "departure_time": "28:55:00",
+          "arrival_time": "28:54:00",
+          "departure_time": "28:54:00",
           "lat": 51.08534694,
           "lon": 17.06528881
         },
@@ -11787,8 +11805,8 @@
           "stop_sequence": 17,
           "stop_id": "439",
           "stop_name": "Klimasa",
-          "arrival_time": "28:57:00",
-          "departure_time": "28:57:00",
+          "arrival_time": "28:56:00",
+          "departure_time": "28:56:00",
           "lat": 51.07990021,
           "lon": 17.06237296
         },
@@ -11796,88 +11814,97 @@
           "stop_sequence": 18,
           "stop_id": "1249",
           "stop_name": "TARNOGAJ",
-          "arrival_time": "28:58:00",
-          "departure_time": "28:58:00",
+          "arrival_time": "28:57:00",
+          "departure_time": "28:57:00",
           "lat": 51.07779233,
           "lon": 17.06466995
         },
         {
           "stop_sequence": 19,
-          "stop_id": "442",
-          "stop_name": "Gazowa",
-          "arrival_time": "28:59:00",
-          "departure_time": "28:59:00",
-          "lat": 51.07815182,
-          "lon": 17.07041118
+          "stop_id": "3556",
+          "stop_name": "Armii Krajowej (Bogedaina)",
+          "arrival_time": "29:00:00",
+          "departure_time": "29:00:00",
+          "lat": 51.08552632,
+          "lon": 17.06622813
         },
         {
           "stop_sequence": 20,
+          "stop_id": "857",
+          "stop_name": "Park Wschodni",
+          "arrival_time": "29:01:00",
+          "departure_time": "29:01:00",
+          "lat": 51.08488586,
+          "lon": 17.07219405
+        },
+        {
+          "stop_sequence": 21,
           "stop_id": "5738",
           "stop_name": "Karwińska (Dawna Pralnia)",
-          "arrival_time": "29:00:00",
-          "departure_time": "29:00:00",
+          "arrival_time": "29:02:00",
+          "departure_time": "29:02:00",
           "lat": 51.0813706,
           "lon": 17.07818456
         },
         {
-          "stop_sequence": 21,
+          "stop_sequence": 22,
           "stop_id": "27",
           "stop_name": "KSIĘŻE MAŁE",
-          "arrival_time": "29:01:00",
-          "departure_time": "29:01:00",
+          "arrival_time": "29:03:00",
+          "departure_time": "29:03:00",
           "lat": 51.0769998,
           "lon": 17.0844074
         },
         {
-          "stop_sequence": 22,
+          "stop_sequence": 23,
           "stop_id": "422",
           "stop_name": "Zagłębiowska",
-          "arrival_time": "29:02:00",
-          "departure_time": "29:02:00",
+          "arrival_time": "29:04:00",
+          "departure_time": "29:04:00",
           "lat": 51.07275516,
           "lon": 17.08914075
         },
         {
-          "stop_sequence": 23,
+          "stop_sequence": 24,
           "stop_id": "3019",
           "stop_name": "Sosnowiecka",
-          "arrival_time": "29:03:00",
-          "departure_time": "29:03:00",
+          "arrival_time": "29:05:00",
+          "departure_time": "29:05:00",
           "lat": 51.07045986,
           "lon": 17.09154329
         },
         {
-          "stop_sequence": 24,
+          "stop_sequence": 25,
           "stop_id": "425",
           "stop_name": "Brochowska",
-          "arrival_time": "29:04:00",
-          "departure_time": "29:04:00",
+          "arrival_time": "29:06:00",
+          "departure_time": "29:06:00",
           "lat": 51.06911568,
           "lon": 17.09293957
         },
         {
-          "stop_sequence": 25,
+          "stop_sequence": 26,
           "stop_id": "5645",
           "stop_name": "Zajezdnia TYSKA",
-          "arrival_time": "29:06:00",
-          "departure_time": "29:06:00",
+          "arrival_time": "29:08:00",
+          "departure_time": "29:08:00",
           "lat": 51.06678646,
           "lon": 17.09890316
         }
       ]
     },
     {
-      "trip_id": "8_16594037",
+      "trip_id": "8_17616610",
       "direction_id": "1",
       "headsign": "IWINY - rondo",
       "service_id": "8",
       "stops": [
         {
           "stop_sequence": 0,
-          "stop_id": "2047",
-          "stop_name": "GAJ - pętla",
-          "arrival_time": "23:58:00",
-          "departure_time": "23:58:00",
+          "stop_id": "6103",
+          "stop_name": "GAJ pętla",
+          "arrival_time": "23:57:00",
+          "departure_time": "23:57:00",
           "lat": 51.07712309,
           "lon": 17.04959717
         },
@@ -11885,8 +11912,8 @@
           "stop_sequence": 1,
           "stop_id": "5523",
           "stop_name": "Morwowa",
-          "arrival_time": "23:59:00",
-          "departure_time": "23:59:00",
+          "arrival_time": "23:58:00",
+          "departure_time": "23:58:00",
           "lat": 51.07606334,
           "lon": 17.05210444
         },
@@ -11894,8 +11921,8 @@
           "stop_sequence": 2,
           "stop_id": "5646",
           "stop_name": "Bardzka (Cmentarz)",
-          "arrival_time": "24:00:00",
-          "departure_time": "24:00:00",
+          "arrival_time": "23:59:00",
+          "departure_time": "23:59:00",
           "lat": 51.07236919,
           "lon": 17.05275873
         },
@@ -11903,8 +11930,8 @@
           "stop_sequence": 3,
           "stop_id": "5672",
           "stop_name": "Buforowa (Rondo)",
-          "arrival_time": "24:01:00",
-          "departure_time": "24:01:00",
+          "arrival_time": "24:00:00",
+          "departure_time": "24:00:00",
           "lat": 51.06931861,
           "lon": 17.05349348
         },
@@ -11912,8 +11939,8 @@
           "stop_sequence": 4,
           "stop_id": "5526",
           "stop_name": "Konduktorska",
-          "arrival_time": "24:01:00",
-          "departure_time": "24:01:00",
+          "arrival_time": "24:00:00",
+          "departure_time": "24:00:00",
           "lat": 51.06703978,
           "lon": 17.0542876
         },
@@ -11921,8 +11948,8 @@
           "stop_sequence": 5,
           "stop_id": "5705",
           "stop_name": "Lutosławskiego",
-          "arrival_time": "24:02:00",
-          "departure_time": "24:02:00",
+          "arrival_time": "24:01:00",
+          "departure_time": "24:01:00",
           "lat": 51.06217854,
           "lon": 17.05479717
         },
@@ -11930,8 +11957,8 @@
           "stop_sequence": 6,
           "stop_id": "5656",
           "stop_name": "Kopycińskiego",
-          "arrival_time": "24:04:00",
-          "departure_time": "24:04:00",
+          "arrival_time": "24:03:00",
+          "departure_time": "24:03:00",
           "lat": 51.05763027,
           "lon": 17.05643882
         },
@@ -11939,8 +11966,8 @@
           "stop_sequence": 7,
           "stop_id": "5692",
           "stop_name": "JAGODNO (P+R)",
-          "arrival_time": "24:05:00",
-          "departure_time": "24:05:00",
+          "arrival_time": "24:04:00",
+          "departure_time": "24:04:00",
           "lat": 51.05368172,
           "lon": 17.05702336
         },
@@ -11948,8 +11975,8 @@
           "stop_sequence": 8,
           "stop_id": "5686",
           "stop_name": "JAGODNO (P+R)",
-          "arrival_time": "24:06:00",
-          "departure_time": "24:06:00",
+          "arrival_time": "24:05:00",
+          "departure_time": "24:05:00",
           "lat": 51.052833,
           "lon": 17.05786333
         },
@@ -11957,8 +11984,8 @@
           "stop_sequence": 9,
           "stop_id": "4124",
           "stop_name": "Vivaldiego",
-          "arrival_time": "24:07:00",
-          "departure_time": "24:07:00",
+          "arrival_time": "24:06:00",
+          "departure_time": "24:06:00",
           "lat": 51.04931381,
           "lon": 17.05928802
         },
@@ -11966,15 +11993,15 @@
           "stop_sequence": 10,
           "stop_id": "5680",
           "stop_name": "IWINY - rondo",
-          "arrival_time": "24:08:00",
-          "departure_time": "24:08:00",
+          "arrival_time": "24:07:00",
+          "departure_time": "24:07:00",
           "lat": 51.04447674,
           "lon": 17.06089456
         }
       ]
     },
     {
-      "trip_id": "8_16594038",
+      "trip_id": "8_17616611",
       "direction_id": "0",
       "headsign": "BARTOSZOWICE",
       "service_id": "8",
@@ -11994,8 +12021,8 @@
           "stop_name": "Vivaldiego",
           "arrival_time": "24:38:00",
           "departure_time": "24:38:00",
-          "lat": 51.05009367,
-          "lon": 17.05910045
+          "lat": 51.05055564,
+          "lon": 17.0588198
         },
         {
           "stop_sequence": 2,
@@ -12053,8 +12080,8 @@
         },
         {
           "stop_sequence": 8,
-          "stop_id": "5445",
-          "stop_name": "GAJ - pętla",
+          "stop_id": "6105",
+          "stop_name": "GAJ pętla",
           "arrival_time": "24:46:00",
           "departure_time": "24:46:00",
           "lat": 51.0767824,
@@ -12129,8 +12156,8 @@
           "stop_name": "DWORZEC AUTOBUSOWY",
           "arrival_time": "25:02:00",
           "departure_time": "25:02:00",
-          "lat": 51.09657455,
-          "lon": 17.03298047
+          "lat": 51.09661319,
+          "lon": 17.03290179
         },
         {
           "stop_sequence": 17,
@@ -12279,7 +12306,7 @@
       ]
     },
     {
-      "trip_id": "8_16594039",
+      "trip_id": "8_17616612",
       "direction_id": "1",
       "headsign": "IWINY - rondo",
       "service_id": "8",
@@ -12638,7 +12665,7 @@
       ]
     },
     {
-      "trip_id": "8_16594040",
+      "trip_id": "8_17616613",
       "direction_id": "0",
       "headsign": "BARTOSZOWICE",
       "service_id": "8",
@@ -12658,8 +12685,8 @@
           "stop_name": "Vivaldiego",
           "arrival_time": "27:38:00",
           "departure_time": "27:38:00",
-          "lat": 51.05009367,
-          "lon": 17.05910045
+          "lat": 51.05055564,
+          "lon": 17.0588198
         },
         {
           "stop_sequence": 2,
@@ -12717,8 +12744,8 @@
         },
         {
           "stop_sequence": 8,
-          "stop_id": "5445",
-          "stop_name": "GAJ - pętla",
+          "stop_id": "6105",
+          "stop_name": "GAJ pętla",
           "arrival_time": "27:46:00",
           "departure_time": "27:46:00",
           "lat": 51.0767824,
@@ -12793,8 +12820,8 @@
           "stop_name": "DWORZEC AUTOBUSOWY",
           "arrival_time": "28:02:00",
           "departure_time": "28:02:00",
-          "lat": 51.09657455,
-          "lon": 17.03298047
+          "lat": 51.09661319,
+          "lon": 17.03290179
         },
         {
           "stop_sequence": 17,
@@ -12943,14 +12970,14 @@
       ]
     },
     {
-      "trip_id": "8_16594046",
+      "trip_id": "8_17616619",
       "direction_id": "0",
       "headsign": "BARTOSZOWICE",
       "service_id": "8",
       "stops": [
         {
           "stop_sequence": 0,
-          "stop_id": "5720",
+          "stop_id": "5909",
           "stop_name": "KROMERA",
           "arrival_time": "23:33:00",
           "departure_time": "23:33:00",
@@ -13086,7 +13113,7 @@
       ]
     },
     {
-      "trip_id": "8_16594047",
+      "trip_id": "8_17616620",
       "direction_id": "1",
       "headsign": "IWINY - rondo",
       "service_id": "8",
@@ -13445,7 +13472,7 @@
       ]
     },
     {
-      "trip_id": "8_16594048",
+      "trip_id": "8_17616621",
       "direction_id": "0",
       "headsign": "BARTOSZOWICE",
       "service_id": "8",
@@ -13465,8 +13492,8 @@
           "stop_name": "Vivaldiego",
           "arrival_time": "25:38:00",
           "departure_time": "25:38:00",
-          "lat": 51.05009367,
-          "lon": 17.05910045
+          "lat": 51.05055564,
+          "lon": 17.0588198
         },
         {
           "stop_sequence": 2,
@@ -13524,8 +13551,8 @@
         },
         {
           "stop_sequence": 8,
-          "stop_id": "5445",
-          "stop_name": "GAJ - pętla",
+          "stop_id": "6105",
+          "stop_name": "GAJ pętla",
           "arrival_time": "25:46:00",
           "departure_time": "25:46:00",
           "lat": 51.0767824,
@@ -13600,8 +13627,8 @@
           "stop_name": "DWORZEC AUTOBUSOWY",
           "arrival_time": "26:02:00",
           "departure_time": "26:02:00",
-          "lat": 51.09657455,
-          "lon": 17.03298047
+          "lat": 51.09661319,
+          "lon": 17.03290179
         },
         {
           "stop_sequence": 17,
@@ -13750,7 +13777,7 @@
       ]
     },
     {
-      "trip_id": "8_16594049",
+      "trip_id": "8_17616622",
       "direction_id": "1",
       "headsign": "IWINY - rondo",
       "service_id": "8",
@@ -14109,7 +14136,7 @@
       ]
     },
     {
-      "trip_id": "8_16594050",
+      "trip_id": "8_17616623",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "8",
@@ -14129,8 +14156,8 @@
           "stop_name": "Vivaldiego",
           "arrival_time": "28:25:00",
           "departure_time": "28:25:00",
-          "lat": 51.05009367,
-          "lon": 17.05910045
+          "lat": 51.05055564,
+          "lon": 17.0588198
         },
         {
           "stop_sequence": 2,
@@ -14188,8 +14215,8 @@
         },
         {
           "stop_sequence": 8,
-          "stop_id": "5445",
-          "stop_name": "GAJ - pętla",
+          "stop_id": "6105",
+          "stop_name": "GAJ pętla",
           "arrival_time": "28:33:00",
           "departure_time": "28:33:00",
           "lat": 51.0767824,
@@ -14255,8 +14282,8 @@
           "stop_name": "DWORZEC AUTOBUSOWY",
           "arrival_time": "28:42:00",
           "departure_time": "28:42:00",
-          "lat": 51.09657455,
-          "lon": 17.03298047
+          "lat": 51.09661319,
+          "lon": 17.03290179
         },
         {
           "stop_sequence": 16,
@@ -14341,8 +14368,8 @@
         },
         {
           "stop_sequence": 25,
-          "stop_id": "1163",
-          "stop_name": "most Osobowicki",
+          "stop_id": "6143",
+          "stop_name": "Most Osobowicki",
           "arrival_time": "28:58:00",
           "departure_time": "28:58:00",
           "lat": 51.13316389,
@@ -14405,7 +14432,7 @@
       ]
     },
     {
-      "trip_id": "8_16594053",
+      "trip_id": "8_17616626",
       "direction_id": "0",
       "headsign": "BARTOSZOWICE",
       "service_id": "8",
@@ -14466,8 +14493,8 @@
         },
         {
           "stop_sequence": 6,
-          "stop_id": "5445",
-          "stop_name": "GAJ - pętla",
+          "stop_id": "6105",
+          "stop_name": "GAJ pętla",
           "arrival_time": "23:46:00",
           "departure_time": "23:46:00",
           "lat": 51.0767824,
@@ -14542,8 +14569,8 @@
           "stop_name": "DWORZEC AUTOBUSOWY",
           "arrival_time": "24:02:00",
           "departure_time": "24:02:00",
-          "lat": 51.09657455,
-          "lon": 17.03298047
+          "lat": 51.09661319,
+          "lon": 17.03290179
         },
         {
           "stop_sequence": 15,
@@ -14692,7 +14719,7 @@
       ]
     },
     {
-      "trip_id": "8_16594054",
+      "trip_id": "8_17616627",
       "direction_id": "1",
       "headsign": "IWINY - rondo",
       "service_id": "8",
@@ -15051,7 +15078,7 @@
       ]
     },
     {
-      "trip_id": "8_16594055",
+      "trip_id": "8_17616628",
       "direction_id": "0",
       "headsign": "BARTOSZOWICE",
       "service_id": "8",
@@ -15071,8 +15098,8 @@
           "stop_name": "Vivaldiego",
           "arrival_time": "26:38:00",
           "departure_time": "26:38:00",
-          "lat": 51.05009367,
-          "lon": 17.05910045
+          "lat": 51.05055564,
+          "lon": 17.0588198
         },
         {
           "stop_sequence": 2,
@@ -15130,8 +15157,8 @@
         },
         {
           "stop_sequence": 8,
-          "stop_id": "5445",
-          "stop_name": "GAJ - pętla",
+          "stop_id": "6105",
+          "stop_name": "GAJ pętla",
           "arrival_time": "26:46:00",
           "departure_time": "26:46:00",
           "lat": 51.0767824,
@@ -15206,8 +15233,8 @@
           "stop_name": "DWORZEC AUTOBUSOWY",
           "arrival_time": "27:02:00",
           "departure_time": "27:02:00",
-          "lat": 51.09657455,
-          "lon": 17.03298047
+          "lat": 51.09661319,
+          "lon": 17.03290179
         },
         {
           "stop_sequence": 17,
@@ -15356,7 +15383,7 @@
       ]
     },
     {
-      "trip_id": "8_16594056",
+      "trip_id": "8_17616629",
       "direction_id": "1",
       "headsign": "PETRUSEWICZA",
       "service_id": "8",
@@ -15580,7 +15607,7 @@
       ]
     },
     {
-      "trip_id": "8_16594057",
+      "trip_id": "8_17616630",
       "direction_id": "0",
       "headsign": "Zajezdnia TYSKA",
       "service_id": "8",
@@ -15600,8 +15627,8 @@
           "stop_name": "DWORZEC AUTOBUSOWY",
           "arrival_time": "28:32:00",
           "departure_time": "28:32:00",
-          "lat": 51.09657455,
-          "lon": 17.03298047
+          "lat": 51.09661319,
+          "lon": 17.03290179
         },
         {
           "stop_sequence": 2,
@@ -15733,8 +15760,8 @@
           "stop_sequence": 16,
           "stop_id": "3555",
           "stop_name": "Armii Krajowej (Bogedaina)",
-          "arrival_time": "28:55:00",
-          "departure_time": "28:55:00",
+          "arrival_time": "28:54:00",
+          "departure_time": "28:54:00",
           "lat": 51.08534694,
           "lon": 17.06528881
         },
@@ -15742,8 +15769,8 @@
           "stop_sequence": 17,
           "stop_id": "439",
           "stop_name": "Klimasa",
-          "arrival_time": "28:57:00",
-          "departure_time": "28:57:00",
+          "arrival_time": "28:56:00",
+          "departure_time": "28:56:00",
           "lat": 51.07990021,
           "lon": 17.06237296
         },
@@ -15751,71 +15778,80 @@
           "stop_sequence": 18,
           "stop_id": "1249",
           "stop_name": "TARNOGAJ",
-          "arrival_time": "28:58:00",
-          "departure_time": "28:58:00",
+          "arrival_time": "28:57:00",
+          "departure_time": "28:57:00",
           "lat": 51.07779233,
           "lon": 17.06466995
         },
         {
           "stop_sequence": 19,
-          "stop_id": "442",
-          "stop_name": "Gazowa",
-          "arrival_time": "28:59:00",
-          "departure_time": "28:59:00",
-          "lat": 51.07815182,
-          "lon": 17.07041118
+          "stop_id": "3556",
+          "stop_name": "Armii Krajowej (Bogedaina)",
+          "arrival_time": "29:00:00",
+          "departure_time": "29:00:00",
+          "lat": 51.08552632,
+          "lon": 17.06622813
         },
         {
           "stop_sequence": 20,
+          "stop_id": "857",
+          "stop_name": "Park Wschodni",
+          "arrival_time": "29:01:00",
+          "departure_time": "29:01:00",
+          "lat": 51.08488586,
+          "lon": 17.07219405
+        },
+        {
+          "stop_sequence": 21,
           "stop_id": "5738",
           "stop_name": "Karwińska (Dawna Pralnia)",
-          "arrival_time": "29:00:00",
-          "departure_time": "29:00:00",
+          "arrival_time": "29:02:00",
+          "departure_time": "29:02:00",
           "lat": 51.0813706,
           "lon": 17.07818456
         },
         {
-          "stop_sequence": 21,
+          "stop_sequence": 22,
           "stop_id": "27",
           "stop_name": "KSIĘŻE MAŁE",
-          "arrival_time": "29:01:00",
-          "departure_time": "29:01:00",
+          "arrival_time": "29:03:00",
+          "departure_time": "29:03:00",
           "lat": 51.0769998,
           "lon": 17.0844074
         },
         {
-          "stop_sequence": 22,
+          "stop_sequence": 23,
           "stop_id": "422",
           "stop_name": "Zagłębiowska",
-          "arrival_time": "29:02:00",
-          "departure_time": "29:02:00",
+          "arrival_time": "29:04:00",
+          "departure_time": "29:04:00",
           "lat": 51.07275516,
           "lon": 17.08914075
         },
         {
-          "stop_sequence": 23,
+          "stop_sequence": 24,
           "stop_id": "3019",
           "stop_name": "Sosnowiecka",
-          "arrival_time": "29:03:00",
-          "departure_time": "29:03:00",
+          "arrival_time": "29:05:00",
+          "departure_time": "29:05:00",
           "lat": 51.07045986,
           "lon": 17.09154329
         },
         {
-          "stop_sequence": 24,
+          "stop_sequence": 25,
           "stop_id": "425",
           "stop_name": "Brochowska",
-          "arrival_time": "29:04:00",
-          "departure_time": "29:04:00",
+          "arrival_time": "29:06:00",
+          "departure_time": "29:06:00",
           "lat": 51.06911568,
           "lon": 17.09293957
         },
         {
-          "stop_sequence": 25,
+          "stop_sequence": 26,
           "stop_id": "5645",
           "stop_name": "Zajezdnia TYSKA",
-          "arrival_time": "29:06:00",
-          "departure_time": "29:06:00",
+          "arrival_time": "29:08:00",
+          "departure_time": "29:08:00",
           "lat": 51.06678646,
           "lon": 17.09890316
         }

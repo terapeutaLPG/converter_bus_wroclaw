@@ -2,7 +2,7 @@
   "100": {
     "line": "100",
     "file": "buses/line_100.json",
-    "trips_count": 176
+    "trips_count": 184
   },
   "101": {
     "line": "101",
@@ -17,22 +17,22 @@
   "103": {
     "line": "103",
     "file": "buses/line_103.json",
-    "trips_count": 386
+    "trips_count": 382
   },
   "104": {
     "line": "104",
     "file": "buses/line_104.json",
-    "trips_count": 312
+    "trips_count": 314
   },
   "105": {
     "line": "105",
     "file": "buses/line_105.json",
-    "trips_count": 352
+    "trips_count": 348
   },
   "106": {
     "line": "106",
     "file": "buses/line_106.json",
-    "trips_count": 666
+    "trips_count": 678
   },
   "107": {
     "line": "107",
@@ -52,22 +52,22 @@
   "111": {
     "line": "111",
     "file": "buses/line_111.json",
-    "trips_count": 492
+    "trips_count": 490
   },
   "112": {
     "line": "112",
     "file": "buses/line_112.json",
-    "trips_count": 177
+    "trips_count": 171
   },
   "113": {
     "line": "113",
     "file": "buses/line_113.json",
-    "trips_count": 490
+    "trips_count": 500
   },
   "114": {
     "line": "114",
     "file": "buses/line_114.json",
-    "trips_count": 594
+    "trips_count": 598
   },
   "115": {
     "line": "115",
@@ -92,7 +92,7 @@
   "119": {
     "line": "119",
     "file": "buses/line_119.json",
-    "trips_count": 359
+    "trips_count": 357
   },
   "120": {
     "line": "120",
@@ -107,7 +107,7 @@
   "122": {
     "line": "122",
     "file": "buses/line_122.json",
-    "trips_count": 578
+    "trips_count": 584
   },
   "123": {
     "line": "123",
@@ -117,7 +117,7 @@
   "124": {
     "line": "124",
     "file": "buses/line_124.json",
-    "trips_count": 256
+    "trips_count": 253
   },
   "125": {
     "line": "125",
@@ -127,12 +127,12 @@
   "126": {
     "line": "126",
     "file": "buses/line_126.json",
-    "trips_count": 463
+    "trips_count": 466
   },
   "127": {
     "line": "127",
     "file": "buses/line_127.json",
-    "trips_count": 593
+    "trips_count": 589
   },
   "128": {
     "line": "128",
@@ -142,7 +142,7 @@
   "129": {
     "line": "129",
     "file": "buses/line_129.json",
-    "trips_count": 436
+    "trips_count": 442
   },
   "130": {
     "line": "130",
@@ -152,27 +152,27 @@
   "131": {
     "line": "131",
     "file": "buses/line_131.json",
-    "trips_count": 354
+    "trips_count": 356
   },
   "132": {
     "line": "132",
     "file": "buses/line_132.json",
-    "trips_count": 424
+    "trips_count": 428
   },
   "133": {
     "line": "133",
     "file": "buses/line_133.json",
-    "trips_count": 430
+    "trips_count": 436
   },
   "134": {
     "line": "134",
     "file": "buses/line_134.json",
-    "trips_count": 350
+    "trips_count": 349
   },
   "136": {
     "line": "136",
     "file": "buses/line_136.json",
-    "trips_count": 464
+    "trips_count": 479
   },
   "137": {
     "line": "137",
@@ -182,7 +182,7 @@
   "138": {
     "line": "138",
     "file": "buses/line_138.json",
-    "trips_count": 83
+    "trips_count": 81
   },
   "142": {
     "line": "142",
@@ -192,17 +192,17 @@
   "143": {
     "line": "143",
     "file": "buses/line_143.json",
-    "trips_count": 489
+    "trips_count": 452
   },
   "144": {
     "line": "144",
     "file": "buses/line_144.json",
-    "trips_count": 591
+    "trips_count": 584
   },
   "145": {
     "line": "145",
     "file": "buses/line_145.json",
-    "trips_count": 490
+    "trips_count": 486
   },
   "146": {
     "line": "146",
@@ -212,12 +212,12 @@
   "147": {
     "line": "147",
     "file": "buses/line_147.json",
-    "trips_count": 380
+    "trips_count": 382
   },
   "148": {
     "line": "148",
     "file": "buses/line_148.json",
-    "trips_count": 436
+    "trips_count": 420
   },
   "149": {
     "line": "149",
@@ -232,17 +232,22 @@
   "151": {
     "line": "151",
     "file": "buses/line_151.json",
-    "trips_count": 436
+    "trips_count": 444
   },
   "152": {
     "line": "152",
     "file": "buses/line_152.json",
-    "trips_count": 321
+    "trips_count": 325
+  },
+  "153": {
+    "line": "153",
+    "file": "buses/line_153.json",
+    "trips_count": 491
   },
   "206": {
     "line": "206",
     "file": "buses/line_206.json",
-    "trips_count": 48
+    "trips_count": 68
   },
   "240": {
     "line": "240",
@@ -252,7 +257,7 @@
   "241": {
     "line": "241",
     "file": "buses/line_241.json",
-    "trips_count": 98
+    "trips_count": 94
   },
   "242": {
     "line": "242",
@@ -277,7 +282,7 @@
   "246": {
     "line": "246",
     "file": "buses/line_246.json",
-    "trips_count": 97
+    "trips_count": 93
   },
   "247": {
     "line": "247",
@@ -307,7 +312,7 @@
   "253": {
     "line": "253",
     "file": "buses/line_253.json",
-    "trips_count": 58
+    "trips_count": 59
   },
   "255": {
     "line": "255",
@@ -332,17 +337,22 @@
   "310": {
     "line": "310",
     "file": "buses/line_310.json",
-    "trips_count": 268
+    "trips_count": 274
   },
   "315": {
     "line": "315",
     "file": "buses/line_315.json",
-    "trips_count": 92
+    "trips_count": 100
   },
   "319": {
     "line": "319",
     "file": "buses/line_319.json",
     "trips_count": 94
+  },
+  "343": {
+    "line": "343",
+    "file": "buses/line_343.json",
+    "trips_count": 124
   },
   "345": {
     "line": "345",
@@ -369,10 +379,15 @@
     "file": "buses/line_715.json",
     "trips_count": 656
   },
+  "747": {
+    "line": "747",
+    "file": "buses/line_747.json",
+    "trips_count": 380
+  },
   "903": {
     "line": "903",
     "file": "buses/line_903.json",
-    "trips_count": 91
+    "trips_count": 93
   },
   "904": {
     "line": "904",
@@ -387,7 +402,7 @@
   "907": {
     "line": "907",
     "file": "buses/line_907.json",
-    "trips_count": 88
+    "trips_count": 87
   },
   "908": {
     "line": "908",
@@ -397,7 +412,7 @@
   "909": {
     "line": "909",
     "file": "buses/line_909.json",
-    "trips_count": 104
+    "trips_count": 100
   },
   "911": {
     "line": "911",
@@ -422,7 +437,7 @@
   "920": {
     "line": "920",
     "file": "buses/line_920.json",
-    "trips_count": 60
+    "trips_count": 98
   },
   "921": {
     "line": "921",
@@ -447,22 +462,22 @@
   "928": {
     "line": "928",
     "file": "buses/line_928.json",
-    "trips_count": 176
+    "trips_count": 178
   },
   "930": {
     "line": "930",
     "file": "buses/line_930.json",
-    "trips_count": 184
+    "trips_count": 182
   },
   "931": {
     "line": "931",
     "file": "buses/line_931.json",
-    "trips_count": 201
+    "trips_count": 203
   },
   "933": {
     "line": "933",
     "file": "buses/line_933.json",
-    "trips_count": 102
+    "trips_count": 142
   },
   "937": {
     "line": "937",
@@ -472,7 +487,7 @@
   "938": {
     "line": "938",
     "file": "buses/line_938.json",
-    "trips_count": 124
+    "trips_count": 126
   },
   "941": {
     "line": "941",
@@ -492,7 +507,7 @@
   "947": {
     "line": "947",
     "file": "buses/line_947.json",
-    "trips_count": 82
+    "trips_count": 79
   },
   "948": {
     "line": "948",
@@ -527,7 +542,7 @@
   "A": {
     "line": "A",
     "file": "buses/line_A.json",
-    "trips_count": 460
+    "trips_count": 456
   },
   "D": {
     "line": "D",
@@ -542,6 +557,6 @@
   "N": {
     "line": "N",
     "file": "buses/line_N.json",
-    "trips_count": 694
+    "trips_count": 710
   }
 }
