@@ -2,7 +2,7 @@
   "line": "250",
   "trips": [
     {
-      "trip_id": "3_16573597",
+      "trip_id": "3_17595582",
       "direction_id": "0",
       "headsign": "DWORZEC AUTOBUSOWY",
       "service_id": "3",
@@ -18,8 +18,8 @@
         },
         {
           "stop_sequence": 1,
-          "stop_id": "493",
-          "stop_name": "pl. Orląt Lwowskich",
+          "stop_id": "5894",
+          "stop_name": "Pl. Orląt Lwowskich",
           "arrival_time": "23:24:00",
           "departure_time": "23:24:00",
           "lat": 51.10729913,
@@ -27,8 +27,8 @@
         },
         {
           "stop_sequence": 2,
-          "stop_id": "494",
-          "stop_name": "pl. Legionów",
+          "stop_id": "5859",
+          "stop_name": "Pl. Legionów",
           "arrival_time": "23:25:00",
           "departure_time": "23:25:00",
           "lat": 51.10371385,
@@ -64,9 +64,9 @@
       ]
     },
     {
-      "trip_id": "3_16573598",
+      "trip_id": "3_17595583",
       "direction_id": "1",
-      "headsign": "DWORZEC GŁÓWNY",
+      "headsign": "DWORZEC AUTOBUSOWY",
       "service_id": "3",
       "stops": [
         {
@@ -98,8 +98,8 @@
         },
         {
           "stop_sequence": 3,
-          "stop_id": "33",
-          "stop_name": "pl. Wróblewskiego",
+          "stop_id": "5846",
+          "stop_name": "Pl. Wróblewskiego",
           "arrival_time": "23:39:00",
           "departure_time": "23:39:00",
           "lat": 51.1053429,
@@ -116,8 +116,8 @@
         },
         {
           "stop_sequence": 5,
-          "stop_id": "1277",
-          "stop_name": "most Grunwaldzki",
+          "stop_id": "6145",
+          "stop_name": "Most Grunwaldzki",
           "arrival_time": "23:41:00",
           "departure_time": "23:41:00",
           "lat": 51.11013812,
@@ -188,12 +188,12 @@
         },
         {
           "stop_sequence": 13,
-          "stop_id": "817",
+          "stop_id": "6164",
           "stop_name": "Paulińska",
           "arrival_time": "23:51:00",
           "departure_time": "23:51:00",
-          "lat": 51.12097073,
-          "lon": 17.03509933
+          "lat": 51.12076896,
+          "lon": 17.03650148
         },
         {
           "stop_sequence": 14,
@@ -233,8 +233,8 @@
         },
         {
           "stop_sequence": 18,
-          "stop_id": "493",
-          "stop_name": "pl. Orląt Lwowskich",
+          "stop_id": "5894",
+          "stop_name": "Pl. Orląt Lwowskich",
           "arrival_time": "24:00:00",
           "departure_time": "24:00:00",
           "lat": 51.10729913,
@@ -242,8 +242,8 @@
         },
         {
           "stop_sequence": 19,
-          "stop_id": "494",
-          "stop_name": "pl. Legionów",
+          "stop_id": "5859",
+          "stop_name": "Pl. Legionów",
           "arrival_time": "24:01:00",
           "departure_time": "24:01:00",
           "lat": 51.10371385,
@@ -269,17 +269,17 @@
         },
         {
           "stop_sequence": 22,
-          "stop_id": "3512",
-          "stop_name": "DWORZEC GŁÓWNY",
+          "stop_id": "3518",
+          "stop_name": "DWORZEC AUTOBUSOWY",
           "arrival_time": "24:06:00",
           "departure_time": "24:06:00",
-          "lat": 51.09918778,
-          "lon": 17.03433441
+          "lat": 51.0970988,
+          "lon": 17.03642981
         }
       ]
     },
     {
-      "trip_id": "3_16573907",
+      "trip_id": "3_17595584",
       "direction_id": "1",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "3",
@@ -313,8 +313,8 @@
         },
         {
           "stop_sequence": 3,
-          "stop_id": "33",
-          "stop_name": "pl. Wróblewskiego",
+          "stop_id": "5846",
+          "stop_name": "Pl. Wróblewskiego",
           "arrival_time": "24:34:00",
           "departure_time": "24:34:00",
           "lat": 51.1053429,
@@ -331,8 +331,8 @@
         },
         {
           "stop_sequence": 5,
-          "stop_id": "1277",
-          "stop_name": "most Grunwaldzki",
+          "stop_id": "6145",
+          "stop_name": "Most Grunwaldzki",
           "arrival_time": "24:36:00",
           "departure_time": "24:36:00",
           "lat": 51.11013812,
@@ -416,8 +416,8 @@
           "stop_name": "Trzebnicka",
           "arrival_time": "24:46:00",
           "departure_time": "24:46:00",
-          "lat": 51.12869465,
-          "lon": 17.03684362
+          "lat": 51.12813406,
+          "lon": 17.03666443
         },
         {
           "stop_sequence": 15,
@@ -467,7 +467,7 @@
       ]
     },
     {
-      "trip_id": "3_16577054",
+      "trip_id": "3_17599132",
       "direction_id": "1",
       "headsign": "DWORZEC AUTOBUSOWY",
       "service_id": "3",
@@ -537,12 +537,12 @@
         },
         {
           "stop_sequence": 7,
-          "stop_id": "817",
+          "stop_id": "6164",
           "stop_name": "Paulińska",
           "arrival_time": "24:23:00",
           "departure_time": "24:23:00",
-          "lat": 51.12097073,
-          "lon": 17.03509933
+          "lat": 51.12076896,
+          "lon": 17.03650148
         },
         {
           "stop_sequence": 8,
@@ -582,8 +582,8 @@
         },
         {
           "stop_sequence": 12,
-          "stop_id": "493",
-          "stop_name": "pl. Orląt Lwowskich",
+          "stop_id": "5894",
+          "stop_name": "Pl. Orląt Lwowskich",
           "arrival_time": "24:32:00",
           "departure_time": "24:32:00",
           "lat": 51.10729913,
@@ -591,8 +591,8 @@
         },
         {
           "stop_sequence": 13,
-          "stop_id": "494",
-          "stop_name": "pl. Legionów",
+          "stop_id": "5859",
+          "stop_name": "Pl. Legionów",
           "arrival_time": "24:33:00",
           "departure_time": "24:33:00",
           "lat": 51.10371385,
@@ -628,7 +628,7 @@
       ]
     },
     {
-      "trip_id": "3_16577055",
+      "trip_id": "3_17599133",
       "direction_id": "1",
       "headsign": "DWORZEC AUTOBUSOWY",
       "service_id": "3",
@@ -662,8 +662,8 @@
         },
         {
           "stop_sequence": 3,
-          "stop_id": "33",
-          "stop_name": "pl. Wróblewskiego",
+          "stop_id": "5846",
+          "stop_name": "Pl. Wróblewskiego",
           "arrival_time": "24:59:00",
           "departure_time": "24:59:00",
           "lat": 51.1053429,
@@ -680,8 +680,8 @@
         },
         {
           "stop_sequence": 5,
-          "stop_id": "1277",
-          "stop_name": "most Grunwaldzki",
+          "stop_id": "6145",
+          "stop_name": "Most Grunwaldzki",
           "arrival_time": "25:01:00",
           "departure_time": "25:01:00",
           "lat": 51.11013812,
@@ -752,12 +752,12 @@
         },
         {
           "stop_sequence": 13,
-          "stop_id": "817",
+          "stop_id": "6164",
           "stop_name": "Paulińska",
           "arrival_time": "25:11:00",
           "departure_time": "25:11:00",
-          "lat": 51.12097073,
-          "lon": 17.03509933
+          "lat": 51.12076896,
+          "lon": 17.03650148
         },
         {
           "stop_sequence": 14,
@@ -797,8 +797,8 @@
         },
         {
           "stop_sequence": 18,
-          "stop_id": "493",
-          "stop_name": "pl. Orląt Lwowskich",
+          "stop_id": "5894",
+          "stop_name": "Pl. Orląt Lwowskich",
           "arrival_time": "25:20:00",
           "departure_time": "25:20:00",
           "lat": 51.10729913,
@@ -806,8 +806,8 @@
         },
         {
           "stop_sequence": 19,
-          "stop_id": "494",
-          "stop_name": "pl. Legionów",
+          "stop_id": "5859",
+          "stop_name": "Pl. Legionów",
           "arrival_time": "25:21:00",
           "departure_time": "25:21:00",
           "lat": 51.10371385,
@@ -843,7 +843,7 @@
       ]
     },
     {
-      "trip_id": "3_16577056",
+      "trip_id": "3_17599134",
       "direction_id": "1",
       "headsign": "DWORZEC AUTOBUSOWY",
       "service_id": "3",
@@ -877,8 +877,8 @@
         },
         {
           "stop_sequence": 3,
-          "stop_id": "33",
-          "stop_name": "pl. Wróblewskiego",
+          "stop_id": "5846",
+          "stop_name": "Pl. Wróblewskiego",
           "arrival_time": "25:39:00",
           "departure_time": "25:39:00",
           "lat": 51.1053429,
@@ -895,8 +895,8 @@
         },
         {
           "stop_sequence": 5,
-          "stop_id": "1277",
-          "stop_name": "most Grunwaldzki",
+          "stop_id": "6145",
+          "stop_name": "Most Grunwaldzki",
           "arrival_time": "25:41:00",
           "departure_time": "25:41:00",
           "lat": 51.11013812,
@@ -967,12 +967,12 @@
         },
         {
           "stop_sequence": 13,
-          "stop_id": "817",
+          "stop_id": "6164",
           "stop_name": "Paulińska",
           "arrival_time": "25:51:00",
           "departure_time": "25:51:00",
-          "lat": 51.12097073,
-          "lon": 17.03509933
+          "lat": 51.12076896,
+          "lon": 17.03650148
         },
         {
           "stop_sequence": 14,
@@ -1012,8 +1012,8 @@
         },
         {
           "stop_sequence": 18,
-          "stop_id": "493",
-          "stop_name": "pl. Orląt Lwowskich",
+          "stop_id": "5894",
+          "stop_name": "Pl. Orląt Lwowskich",
           "arrival_time": "26:00:00",
           "departure_time": "26:00:00",
           "lat": 51.10729913,
@@ -1021,8 +1021,8 @@
         },
         {
           "stop_sequence": 19,
-          "stop_id": "494",
-          "stop_name": "pl. Legionów",
+          "stop_id": "5859",
+          "stop_name": "Pl. Legionów",
           "arrival_time": "26:01:00",
           "departure_time": "26:01:00",
           "lat": 51.10371385,
@@ -1058,7 +1058,7 @@
       ]
     },
     {
-      "trip_id": "3_16577057",
+      "trip_id": "3_17599135",
       "direction_id": "1",
       "headsign": "DWORZEC AUTOBUSOWY",
       "service_id": "3",
@@ -1092,8 +1092,8 @@
         },
         {
           "stop_sequence": 3,
-          "stop_id": "33",
-          "stop_name": "pl. Wróblewskiego",
+          "stop_id": "5846",
+          "stop_name": "Pl. Wróblewskiego",
           "arrival_time": "26:24:00",
           "departure_time": "26:24:00",
           "lat": 51.1053429,
@@ -1110,8 +1110,8 @@
         },
         {
           "stop_sequence": 5,
-          "stop_id": "1277",
-          "stop_name": "most Grunwaldzki",
+          "stop_id": "6145",
+          "stop_name": "Most Grunwaldzki",
           "arrival_time": "26:26:00",
           "departure_time": "26:26:00",
           "lat": 51.11013812,
@@ -1182,12 +1182,12 @@
         },
         {
           "stop_sequence": 13,
-          "stop_id": "817",
+          "stop_id": "6164",
           "stop_name": "Paulińska",
           "arrival_time": "26:36:00",
           "departure_time": "26:36:00",
-          "lat": 51.12097073,
-          "lon": 17.03509933
+          "lat": 51.12076896,
+          "lon": 17.03650148
         },
         {
           "stop_sequence": 14,
@@ -1227,8 +1227,8 @@
         },
         {
           "stop_sequence": 18,
-          "stop_id": "493",
-          "stop_name": "pl. Orląt Lwowskich",
+          "stop_id": "5894",
+          "stop_name": "Pl. Orląt Lwowskich",
           "arrival_time": "26:45:00",
           "departure_time": "26:45:00",
           "lat": 51.10729913,
@@ -1236,8 +1236,8 @@
         },
         {
           "stop_sequence": 19,
-          "stop_id": "494",
-          "stop_name": "pl. Legionów",
+          "stop_id": "5859",
+          "stop_name": "Pl. Legionów",
           "arrival_time": "26:46:00",
           "departure_time": "26:46:00",
           "lat": 51.10371385,
@@ -1273,7 +1273,7 @@
       ]
     },
     {
-      "trip_id": "3_16577058",
+      "trip_id": "3_17599136",
       "direction_id": "1",
       "headsign": "DWORZEC AUTOBUSOWY",
       "service_id": "3",
@@ -1307,8 +1307,8 @@
         },
         {
           "stop_sequence": 3,
-          "stop_id": "33",
-          "stop_name": "pl. Wróblewskiego",
+          "stop_id": "5846",
+          "stop_name": "Pl. Wróblewskiego",
           "arrival_time": "27:09:00",
           "departure_time": "27:09:00",
           "lat": 51.1053429,
@@ -1325,8 +1325,8 @@
         },
         {
           "stop_sequence": 5,
-          "stop_id": "1277",
-          "stop_name": "most Grunwaldzki",
+          "stop_id": "6145",
+          "stop_name": "Most Grunwaldzki",
           "arrival_time": "27:11:00",
           "departure_time": "27:11:00",
           "lat": 51.11013812,
@@ -1397,12 +1397,12 @@
         },
         {
           "stop_sequence": 13,
-          "stop_id": "817",
+          "stop_id": "6164",
           "stop_name": "Paulińska",
           "arrival_time": "27:21:00",
           "departure_time": "27:21:00",
-          "lat": 51.12097073,
-          "lon": 17.03509933
+          "lat": 51.12076896,
+          "lon": 17.03650148
         },
         {
           "stop_sequence": 14,
@@ -1442,8 +1442,8 @@
         },
         {
           "stop_sequence": 18,
-          "stop_id": "493",
-          "stop_name": "pl. Orląt Lwowskich",
+          "stop_id": "5894",
+          "stop_name": "Pl. Orląt Lwowskich",
           "arrival_time": "27:30:00",
           "departure_time": "27:30:00",
           "lat": 51.10729913,
@@ -1451,8 +1451,8 @@
         },
         {
           "stop_sequence": 19,
-          "stop_id": "494",
-          "stop_name": "pl. Legionów",
+          "stop_id": "5859",
+          "stop_name": "Pl. Legionów",
           "arrival_time": "27:31:00",
           "departure_time": "27:31:00",
           "lat": 51.10371385,
@@ -1488,7 +1488,7 @@
       ]
     },
     {
-      "trip_id": "3_16577059",
+      "trip_id": "3_17599137",
       "direction_id": "1",
       "headsign": "DWORZEC AUTOBUSOWY",
       "service_id": "3",
@@ -1522,8 +1522,8 @@
         },
         {
           "stop_sequence": 3,
-          "stop_id": "33",
-          "stop_name": "pl. Wróblewskiego",
+          "stop_id": "5846",
+          "stop_name": "Pl. Wróblewskiego",
           "arrival_time": "27:54:00",
           "departure_time": "27:54:00",
           "lat": 51.1053429,
@@ -1540,8 +1540,8 @@
         },
         {
           "stop_sequence": 5,
-          "stop_id": "1277",
-          "stop_name": "most Grunwaldzki",
+          "stop_id": "6145",
+          "stop_name": "Most Grunwaldzki",
           "arrival_time": "27:56:00",
           "departure_time": "27:56:00",
           "lat": 51.11013812,
@@ -1612,12 +1612,12 @@
         },
         {
           "stop_sequence": 13,
-          "stop_id": "817",
+          "stop_id": "6164",
           "stop_name": "Paulińska",
           "arrival_time": "28:06:00",
           "departure_time": "28:06:00",
-          "lat": 51.12097073,
-          "lon": 17.03509933
+          "lat": 51.12076896,
+          "lon": 17.03650148
         },
         {
           "stop_sequence": 14,
@@ -1657,8 +1657,8 @@
         },
         {
           "stop_sequence": 18,
-          "stop_id": "493",
-          "stop_name": "pl. Orląt Lwowskich",
+          "stop_id": "5894",
+          "stop_name": "Pl. Orląt Lwowskich",
           "arrival_time": "28:15:00",
           "departure_time": "28:15:00",
           "lat": 51.10729913,
@@ -1666,8 +1666,8 @@
         },
         {
           "stop_sequence": 19,
-          "stop_id": "494",
-          "stop_name": "pl. Legionów",
+          "stop_id": "5859",
+          "stop_name": "Pl. Legionów",
           "arrival_time": "28:16:00",
           "departure_time": "28:16:00",
           "lat": 51.10371385,
@@ -1703,7 +1703,7 @@
       ]
     },
     {
-      "trip_id": "3_16577060",
+      "trip_id": "3_17599138",
       "direction_id": "1",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "3",
@@ -1737,8 +1737,8 @@
         },
         {
           "stop_sequence": 3,
-          "stop_id": "33",
-          "stop_name": "pl. Wróblewskiego",
+          "stop_id": "5846",
+          "stop_name": "Pl. Wróblewskiego",
           "arrival_time": "28:29:00",
           "departure_time": "28:29:00",
           "lat": 51.1053429,
@@ -1755,8 +1755,8 @@
         },
         {
           "stop_sequence": 5,
-          "stop_id": "1277",
-          "stop_name": "most Grunwaldzki",
+          "stop_id": "6145",
+          "stop_name": "Most Grunwaldzki",
           "arrival_time": "28:31:00",
           "departure_time": "28:31:00",
           "lat": 51.11013812,
@@ -1840,8 +1840,8 @@
           "stop_name": "Trzebnicka",
           "arrival_time": "28:41:00",
           "departure_time": "28:41:00",
-          "lat": 51.12869465,
-          "lon": 17.03684362
+          "lat": 51.12813406,
+          "lon": 17.03666443
         },
         {
           "stop_sequence": 15,
@@ -1891,7 +1891,7 @@
       ]
     },
     {
-      "trip_id": "4_16578071",
+      "trip_id": "4_17600139",
       "direction_id": "0",
       "headsign": "DWORZEC AUTOBUSOWY",
       "service_id": "4",
@@ -1907,8 +1907,8 @@
         },
         {
           "stop_sequence": 1,
-          "stop_id": "493",
-          "stop_name": "pl. Orląt Lwowskich",
+          "stop_id": "5894",
+          "stop_name": "Pl. Orląt Lwowskich",
           "arrival_time": "23:24:00",
           "departure_time": "23:24:00",
           "lat": 51.10729913,
@@ -1916,8 +1916,8 @@
         },
         {
           "stop_sequence": 2,
-          "stop_id": "494",
-          "stop_name": "pl. Legionów",
+          "stop_id": "5859",
+          "stop_name": "Pl. Legionów",
           "arrival_time": "23:25:00",
           "departure_time": "23:25:00",
           "lat": 51.10371385,
@@ -1953,9 +1953,9 @@
       ]
     },
     {
-      "trip_id": "4_16578072",
+      "trip_id": "4_17600140",
       "direction_id": "1",
-      "headsign": "DWORZEC GŁÓWNY",
+      "headsign": "DWORZEC AUTOBUSOWY",
       "service_id": "4",
       "stops": [
         {
@@ -1987,8 +1987,8 @@
         },
         {
           "stop_sequence": 3,
-          "stop_id": "33",
-          "stop_name": "pl. Wróblewskiego",
+          "stop_id": "5846",
+          "stop_name": "Pl. Wróblewskiego",
           "arrival_time": "23:39:00",
           "departure_time": "23:39:00",
           "lat": 51.1053429,
@@ -2005,8 +2005,8 @@
         },
         {
           "stop_sequence": 5,
-          "stop_id": "1277",
-          "stop_name": "most Grunwaldzki",
+          "stop_id": "6145",
+          "stop_name": "Most Grunwaldzki",
           "arrival_time": "23:41:00",
           "departure_time": "23:41:00",
           "lat": 51.11013812,
@@ -2077,12 +2077,12 @@
         },
         {
           "stop_sequence": 13,
-          "stop_id": "817",
+          "stop_id": "6164",
           "stop_name": "Paulińska",
           "arrival_time": "23:51:00",
           "departure_time": "23:51:00",
-          "lat": 51.12097073,
-          "lon": 17.03509933
+          "lat": 51.12076896,
+          "lon": 17.03650148
         },
         {
           "stop_sequence": 14,
@@ -2122,8 +2122,8 @@
         },
         {
           "stop_sequence": 18,
-          "stop_id": "493",
-          "stop_name": "pl. Orląt Lwowskich",
+          "stop_id": "5894",
+          "stop_name": "Pl. Orląt Lwowskich",
           "arrival_time": "24:00:00",
           "departure_time": "24:00:00",
           "lat": 51.10729913,
@@ -2131,8 +2131,8 @@
         },
         {
           "stop_sequence": 19,
-          "stop_id": "494",
-          "stop_name": "pl. Legionów",
+          "stop_id": "5859",
+          "stop_name": "Pl. Legionów",
           "arrival_time": "24:01:00",
           "departure_time": "24:01:00",
           "lat": 51.10371385,
@@ -2158,17 +2158,17 @@
         },
         {
           "stop_sequence": 22,
-          "stop_id": "3512",
-          "stop_name": "DWORZEC GŁÓWNY",
+          "stop_id": "3518",
+          "stop_name": "DWORZEC AUTOBUSOWY",
           "arrival_time": "24:06:00",
           "departure_time": "24:06:00",
-          "lat": 51.09918778,
-          "lon": 17.03433441
+          "lat": 51.0970988,
+          "lon": 17.03642981
         }
       ]
     },
     {
-      "trip_id": "4_16578381",
+      "trip_id": "4_17600141",
       "direction_id": "1",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "4",
@@ -2202,8 +2202,8 @@
         },
         {
           "stop_sequence": 3,
-          "stop_id": "33",
-          "stop_name": "pl. Wróblewskiego",
+          "stop_id": "5846",
+          "stop_name": "Pl. Wróblewskiego",
           "arrival_time": "24:34:00",
           "departure_time": "24:34:00",
           "lat": 51.1053429,
@@ -2220,8 +2220,8 @@
         },
         {
           "stop_sequence": 5,
-          "stop_id": "1277",
-          "stop_name": "most Grunwaldzki",
+          "stop_id": "6145",
+          "stop_name": "Most Grunwaldzki",
           "arrival_time": "24:36:00",
           "departure_time": "24:36:00",
           "lat": 51.11013812,
@@ -2305,8 +2305,8 @@
           "stop_name": "Trzebnicka",
           "arrival_time": "24:46:00",
           "departure_time": "24:46:00",
-          "lat": 51.12869465,
-          "lon": 17.03684362
+          "lat": 51.12813406,
+          "lon": 17.03666443
         },
         {
           "stop_sequence": 15,
@@ -2356,7 +2356,7 @@
       ]
     },
     {
-      "trip_id": "4_16581376",
+      "trip_id": "4_17603540",
       "direction_id": "1",
       "headsign": "DWORZEC AUTOBUSOWY",
       "service_id": "4",
@@ -2426,12 +2426,12 @@
         },
         {
           "stop_sequence": 7,
-          "stop_id": "817",
+          "stop_id": "6164",
           "stop_name": "Paulińska",
           "arrival_time": "24:23:00",
           "departure_time": "24:23:00",
-          "lat": 51.12097073,
-          "lon": 17.03509933
+          "lat": 51.12076896,
+          "lon": 17.03650148
         },
         {
           "stop_sequence": 8,
@@ -2471,8 +2471,8 @@
         },
         {
           "stop_sequence": 12,
-          "stop_id": "493",
-          "stop_name": "pl. Orląt Lwowskich",
+          "stop_id": "5894",
+          "stop_name": "Pl. Orląt Lwowskich",
           "arrival_time": "24:32:00",
           "departure_time": "24:32:00",
           "lat": 51.10729913,
@@ -2480,8 +2480,8 @@
         },
         {
           "stop_sequence": 13,
-          "stop_id": "494",
-          "stop_name": "pl. Legionów",
+          "stop_id": "5859",
+          "stop_name": "Pl. Legionów",
           "arrival_time": "24:33:00",
           "departure_time": "24:33:00",
           "lat": 51.10371385,
@@ -2517,7 +2517,7 @@
       ]
     },
     {
-      "trip_id": "4_16581377",
+      "trip_id": "4_17603541",
       "direction_id": "1",
       "headsign": "DWORZEC AUTOBUSOWY",
       "service_id": "4",
@@ -2551,8 +2551,8 @@
         },
         {
           "stop_sequence": 3,
-          "stop_id": "33",
-          "stop_name": "pl. Wróblewskiego",
+          "stop_id": "5846",
+          "stop_name": "Pl. Wróblewskiego",
           "arrival_time": "24:59:00",
           "departure_time": "24:59:00",
           "lat": 51.1053429,
@@ -2569,8 +2569,8 @@
         },
         {
           "stop_sequence": 5,
-          "stop_id": "1277",
-          "stop_name": "most Grunwaldzki",
+          "stop_id": "6145",
+          "stop_name": "Most Grunwaldzki",
           "arrival_time": "25:01:00",
           "departure_time": "25:01:00",
           "lat": 51.11013812,
@@ -2641,12 +2641,12 @@
         },
         {
           "stop_sequence": 13,
-          "stop_id": "817",
+          "stop_id": "6164",
           "stop_name": "Paulińska",
           "arrival_time": "25:11:00",
           "departure_time": "25:11:00",
-          "lat": 51.12097073,
-          "lon": 17.03509933
+          "lat": 51.12076896,
+          "lon": 17.03650148
         },
         {
           "stop_sequence": 14,
@@ -2686,8 +2686,8 @@
         },
         {
           "stop_sequence": 18,
-          "stop_id": "493",
-          "stop_name": "pl. Orląt Lwowskich",
+          "stop_id": "5894",
+          "stop_name": "Pl. Orląt Lwowskich",
           "arrival_time": "25:20:00",
           "departure_time": "25:20:00",
           "lat": 51.10729913,
@@ -2695,8 +2695,8 @@
         },
         {
           "stop_sequence": 19,
-          "stop_id": "494",
-          "stop_name": "pl. Legionów",
+          "stop_id": "5859",
+          "stop_name": "Pl. Legionów",
           "arrival_time": "25:21:00",
           "departure_time": "25:21:00",
           "lat": 51.10371385,
@@ -2732,7 +2732,7 @@
       ]
     },
     {
-      "trip_id": "4_16581378",
+      "trip_id": "4_17603542",
       "direction_id": "1",
       "headsign": "DWORZEC AUTOBUSOWY",
       "service_id": "4",
@@ -2766,8 +2766,8 @@
         },
         {
           "stop_sequence": 3,
-          "stop_id": "33",
-          "stop_name": "pl. Wróblewskiego",
+          "stop_id": "5846",
+          "stop_name": "Pl. Wróblewskiego",
           "arrival_time": "25:39:00",
           "departure_time": "25:39:00",
           "lat": 51.1053429,
@@ -2784,8 +2784,8 @@
         },
         {
           "stop_sequence": 5,
-          "stop_id": "1277",
-          "stop_name": "most Grunwaldzki",
+          "stop_id": "6145",
+          "stop_name": "Most Grunwaldzki",
           "arrival_time": "25:41:00",
           "departure_time": "25:41:00",
           "lat": 51.11013812,
@@ -2856,12 +2856,12 @@
         },
         {
           "stop_sequence": 13,
-          "stop_id": "817",
+          "stop_id": "6164",
           "stop_name": "Paulińska",
           "arrival_time": "25:51:00",
           "departure_time": "25:51:00",
-          "lat": 51.12097073,
-          "lon": 17.03509933
+          "lat": 51.12076896,
+          "lon": 17.03650148
         },
         {
           "stop_sequence": 14,
@@ -2901,8 +2901,8 @@
         },
         {
           "stop_sequence": 18,
-          "stop_id": "493",
-          "stop_name": "pl. Orląt Lwowskich",
+          "stop_id": "5894",
+          "stop_name": "Pl. Orląt Lwowskich",
           "arrival_time": "26:00:00",
           "departure_time": "26:00:00",
           "lat": 51.10729913,
@@ -2910,8 +2910,8 @@
         },
         {
           "stop_sequence": 19,
-          "stop_id": "494",
-          "stop_name": "pl. Legionów",
+          "stop_id": "5859",
+          "stop_name": "Pl. Legionów",
           "arrival_time": "26:01:00",
           "departure_time": "26:01:00",
           "lat": 51.10371385,
@@ -2947,7 +2947,7 @@
       ]
     },
     {
-      "trip_id": "4_16581379",
+      "trip_id": "4_17603543",
       "direction_id": "1",
       "headsign": "DWORZEC AUTOBUSOWY",
       "service_id": "4",
@@ -2981,8 +2981,8 @@
         },
         {
           "stop_sequence": 3,
-          "stop_id": "33",
-          "stop_name": "pl. Wróblewskiego",
+          "stop_id": "5846",
+          "stop_name": "Pl. Wróblewskiego",
           "arrival_time": "26:24:00",
           "departure_time": "26:24:00",
           "lat": 51.1053429,
@@ -2999,8 +2999,8 @@
         },
         {
           "stop_sequence": 5,
-          "stop_id": "1277",
-          "stop_name": "most Grunwaldzki",
+          "stop_id": "6145",
+          "stop_name": "Most Grunwaldzki",
           "arrival_time": "26:26:00",
           "departure_time": "26:26:00",
           "lat": 51.11013812,
@@ -3071,12 +3071,12 @@
         },
         {
           "stop_sequence": 13,
-          "stop_id": "817",
+          "stop_id": "6164",
           "stop_name": "Paulińska",
           "arrival_time": "26:36:00",
           "departure_time": "26:36:00",
-          "lat": 51.12097073,
-          "lon": 17.03509933
+          "lat": 51.12076896,
+          "lon": 17.03650148
         },
         {
           "stop_sequence": 14,
@@ -3116,8 +3116,8 @@
         },
         {
           "stop_sequence": 18,
-          "stop_id": "493",
-          "stop_name": "pl. Orląt Lwowskich",
+          "stop_id": "5894",
+          "stop_name": "Pl. Orląt Lwowskich",
           "arrival_time": "26:45:00",
           "departure_time": "26:45:00",
           "lat": 51.10729913,
@@ -3125,8 +3125,8 @@
         },
         {
           "stop_sequence": 19,
-          "stop_id": "494",
-          "stop_name": "pl. Legionów",
+          "stop_id": "5859",
+          "stop_name": "Pl. Legionów",
           "arrival_time": "26:46:00",
           "departure_time": "26:46:00",
           "lat": 51.10371385,
@@ -3162,7 +3162,7 @@
       ]
     },
     {
-      "trip_id": "4_16581380",
+      "trip_id": "4_17603544",
       "direction_id": "1",
       "headsign": "DWORZEC AUTOBUSOWY",
       "service_id": "4",
@@ -3196,8 +3196,8 @@
         },
         {
           "stop_sequence": 3,
-          "stop_id": "33",
-          "stop_name": "pl. Wróblewskiego",
+          "stop_id": "5846",
+          "stop_name": "Pl. Wróblewskiego",
           "arrival_time": "27:09:00",
           "departure_time": "27:09:00",
           "lat": 51.1053429,
@@ -3214,8 +3214,8 @@
         },
         {
           "stop_sequence": 5,
-          "stop_id": "1277",
-          "stop_name": "most Grunwaldzki",
+          "stop_id": "6145",
+          "stop_name": "Most Grunwaldzki",
           "arrival_time": "27:11:00",
           "departure_time": "27:11:00",
           "lat": 51.11013812,
@@ -3286,12 +3286,12 @@
         },
         {
           "stop_sequence": 13,
-          "stop_id": "817",
+          "stop_id": "6164",
           "stop_name": "Paulińska",
           "arrival_time": "27:21:00",
           "departure_time": "27:21:00",
-          "lat": 51.12097073,
-          "lon": 17.03509933
+          "lat": 51.12076896,
+          "lon": 17.03650148
         },
         {
           "stop_sequence": 14,
@@ -3331,8 +3331,8 @@
         },
         {
           "stop_sequence": 18,
-          "stop_id": "493",
-          "stop_name": "pl. Orląt Lwowskich",
+          "stop_id": "5894",
+          "stop_name": "Pl. Orląt Lwowskich",
           "arrival_time": "27:30:00",
           "departure_time": "27:30:00",
           "lat": 51.10729913,
@@ -3340,8 +3340,8 @@
         },
         {
           "stop_sequence": 19,
-          "stop_id": "494",
-          "stop_name": "pl. Legionów",
+          "stop_id": "5859",
+          "stop_name": "Pl. Legionów",
           "arrival_time": "27:31:00",
           "departure_time": "27:31:00",
           "lat": 51.10371385,
@@ -3377,7 +3377,7 @@
       ]
     },
     {
-      "trip_id": "4_16581381",
+      "trip_id": "4_17603545",
       "direction_id": "1",
       "headsign": "DWORZEC AUTOBUSOWY",
       "service_id": "4",
@@ -3411,8 +3411,8 @@
         },
         {
           "stop_sequence": 3,
-          "stop_id": "33",
-          "stop_name": "pl. Wróblewskiego",
+          "stop_id": "5846",
+          "stop_name": "Pl. Wróblewskiego",
           "arrival_time": "27:54:00",
           "departure_time": "27:54:00",
           "lat": 51.1053429,
@@ -3429,8 +3429,8 @@
         },
         {
           "stop_sequence": 5,
-          "stop_id": "1277",
-          "stop_name": "most Grunwaldzki",
+          "stop_id": "6145",
+          "stop_name": "Most Grunwaldzki",
           "arrival_time": "27:56:00",
           "departure_time": "27:56:00",
           "lat": 51.11013812,
@@ -3501,12 +3501,12 @@
         },
         {
           "stop_sequence": 13,
-          "stop_id": "817",
+          "stop_id": "6164",
           "stop_name": "Paulińska",
           "arrival_time": "28:06:00",
           "departure_time": "28:06:00",
-          "lat": 51.12097073,
-          "lon": 17.03509933
+          "lat": 51.12076896,
+          "lon": 17.03650148
         },
         {
           "stop_sequence": 14,
@@ -3546,8 +3546,8 @@
         },
         {
           "stop_sequence": 18,
-          "stop_id": "493",
-          "stop_name": "pl. Orląt Lwowskich",
+          "stop_id": "5894",
+          "stop_name": "Pl. Orląt Lwowskich",
           "arrival_time": "28:15:00",
           "departure_time": "28:15:00",
           "lat": 51.10729913,
@@ -3555,8 +3555,8 @@
         },
         {
           "stop_sequence": 19,
-          "stop_id": "494",
-          "stop_name": "pl. Legionów",
+          "stop_id": "5859",
+          "stop_name": "Pl. Legionów",
           "arrival_time": "28:16:00",
           "departure_time": "28:16:00",
           "lat": 51.10371385,
@@ -3592,7 +3592,7 @@
       ]
     },
     {
-      "trip_id": "4_16581382",
+      "trip_id": "4_17603546",
       "direction_id": "1",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "4",
@@ -3626,8 +3626,8 @@
         },
         {
           "stop_sequence": 3,
-          "stop_id": "33",
-          "stop_name": "pl. Wróblewskiego",
+          "stop_id": "5846",
+          "stop_name": "Pl. Wróblewskiego",
           "arrival_time": "28:29:00",
           "departure_time": "28:29:00",
           "lat": 51.1053429,
@@ -3644,8 +3644,8 @@
         },
         {
           "stop_sequence": 5,
-          "stop_id": "1277",
-          "stop_name": "most Grunwaldzki",
+          "stop_id": "6145",
+          "stop_name": "Most Grunwaldzki",
           "arrival_time": "28:31:00",
           "departure_time": "28:31:00",
           "lat": 51.11013812,
@@ -3729,8 +3729,8 @@
           "stop_name": "Trzebnicka",
           "arrival_time": "28:41:00",
           "departure_time": "28:41:00",
-          "lat": 51.12869465,
-          "lon": 17.03684362
+          "lat": 51.12813406,
+          "lon": 17.03666443
         },
         {
           "stop_sequence": 15,
@@ -3780,7 +3780,7 @@
       ]
     },
     {
-      "trip_id": "6_16582423",
+      "trip_id": "6_17604423",
       "direction_id": "0",
       "headsign": "DWORZEC AUTOBUSOWY",
       "service_id": "6",
@@ -3796,8 +3796,8 @@
         },
         {
           "stop_sequence": 1,
-          "stop_id": "493",
-          "stop_name": "pl. Orląt Lwowskich",
+          "stop_id": "5894",
+          "stop_name": "Pl. Orląt Lwowskich",
           "arrival_time": "23:24:00",
           "departure_time": "23:24:00",
           "lat": 51.10729913,
@@ -3805,8 +3805,8 @@
         },
         {
           "stop_sequence": 2,
-          "stop_id": "494",
-          "stop_name": "pl. Legionów",
+          "stop_id": "5859",
+          "stop_name": "Pl. Legionów",
           "arrival_time": "23:25:00",
           "departure_time": "23:25:00",
           "lat": 51.10371385,
@@ -3842,9 +3842,9 @@
       ]
     },
     {
-      "trip_id": "6_16582424",
+      "trip_id": "6_17604424",
       "direction_id": "1",
-      "headsign": "DWORZEC GŁÓWNY",
+      "headsign": "DWORZEC AUTOBUSOWY",
       "service_id": "6",
       "stops": [
         {
@@ -3876,8 +3876,8 @@
         },
         {
           "stop_sequence": 3,
-          "stop_id": "33",
-          "stop_name": "pl. Wróblewskiego",
+          "stop_id": "5846",
+          "stop_name": "Pl. Wróblewskiego",
           "arrival_time": "23:39:00",
           "departure_time": "23:39:00",
           "lat": 51.1053429,
@@ -3894,8 +3894,8 @@
         },
         {
           "stop_sequence": 5,
-          "stop_id": "1277",
-          "stop_name": "most Grunwaldzki",
+          "stop_id": "6145",
+          "stop_name": "Most Grunwaldzki",
           "arrival_time": "23:41:00",
           "departure_time": "23:41:00",
           "lat": 51.11013812,
@@ -3966,12 +3966,12 @@
         },
         {
           "stop_sequence": 13,
-          "stop_id": "817",
+          "stop_id": "6164",
           "stop_name": "Paulińska",
           "arrival_time": "23:51:00",
           "departure_time": "23:51:00",
-          "lat": 51.12097073,
-          "lon": 17.03509933
+          "lat": 51.12076896,
+          "lon": 17.03650148
         },
         {
           "stop_sequence": 14,
@@ -4011,8 +4011,8 @@
         },
         {
           "stop_sequence": 18,
-          "stop_id": "493",
-          "stop_name": "pl. Orląt Lwowskich",
+          "stop_id": "5894",
+          "stop_name": "Pl. Orląt Lwowskich",
           "arrival_time": "24:00:00",
           "departure_time": "24:00:00",
           "lat": 51.10729913,
@@ -4020,8 +4020,8 @@
         },
         {
           "stop_sequence": 19,
-          "stop_id": "494",
-          "stop_name": "pl. Legionów",
+          "stop_id": "5859",
+          "stop_name": "Pl. Legionów",
           "arrival_time": "24:01:00",
           "departure_time": "24:01:00",
           "lat": 51.10371385,
@@ -4047,17 +4047,17 @@
         },
         {
           "stop_sequence": 22,
-          "stop_id": "3512",
-          "stop_name": "DWORZEC GŁÓWNY",
+          "stop_id": "3518",
+          "stop_name": "DWORZEC AUTOBUSOWY",
           "arrival_time": "24:06:00",
           "departure_time": "24:06:00",
-          "lat": 51.09918778,
-          "lon": 17.03433441
+          "lat": 51.0970988,
+          "lon": 17.03642981
         }
       ]
     },
     {
-      "trip_id": "6_16582708",
+      "trip_id": "6_17604425",
       "direction_id": "1",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "6",
@@ -4091,8 +4091,8 @@
         },
         {
           "stop_sequence": 3,
-          "stop_id": "33",
-          "stop_name": "pl. Wróblewskiego",
+          "stop_id": "5846",
+          "stop_name": "Pl. Wróblewskiego",
           "arrival_time": "24:34:00",
           "departure_time": "24:34:00",
           "lat": 51.1053429,
@@ -4109,8 +4109,8 @@
         },
         {
           "stop_sequence": 5,
-          "stop_id": "1277",
-          "stop_name": "most Grunwaldzki",
+          "stop_id": "6145",
+          "stop_name": "Most Grunwaldzki",
           "arrival_time": "24:36:00",
           "departure_time": "24:36:00",
           "lat": 51.11013812,
@@ -4194,8 +4194,8 @@
           "stop_name": "Trzebnicka",
           "arrival_time": "24:46:00",
           "departure_time": "24:46:00",
-          "lat": 51.12869465,
-          "lon": 17.03684362
+          "lat": 51.12813406,
+          "lon": 17.03666443
         },
         {
           "stop_sequence": 15,
@@ -4245,7 +4245,7 @@
       ]
     },
     {
-      "trip_id": "6_16587402",
+      "trip_id": "6_17609730",
       "direction_id": "1",
       "headsign": "DWORZEC AUTOBUSOWY",
       "service_id": "6",
@@ -4315,12 +4315,12 @@
         },
         {
           "stop_sequence": 7,
-          "stop_id": "817",
+          "stop_id": "6164",
           "stop_name": "Paulińska",
           "arrival_time": "24:23:00",
           "departure_time": "24:23:00",
-          "lat": 51.12097073,
-          "lon": 17.03509933
+          "lat": 51.12076896,
+          "lon": 17.03650148
         },
         {
           "stop_sequence": 8,
@@ -4360,8 +4360,8 @@
         },
         {
           "stop_sequence": 12,
-          "stop_id": "493",
-          "stop_name": "pl. Orląt Lwowskich",
+          "stop_id": "5894",
+          "stop_name": "Pl. Orląt Lwowskich",
           "arrival_time": "24:32:00",
           "departure_time": "24:32:00",
           "lat": 51.10729913,
@@ -4369,8 +4369,8 @@
         },
         {
           "stop_sequence": 13,
-          "stop_id": "494",
-          "stop_name": "pl. Legionów",
+          "stop_id": "5859",
+          "stop_name": "Pl. Legionów",
           "arrival_time": "24:33:00",
           "departure_time": "24:33:00",
           "lat": 51.10371385,
@@ -4406,7 +4406,7 @@
       ]
     },
     {
-      "trip_id": "6_16587403",
+      "trip_id": "6_17609731",
       "direction_id": "1",
       "headsign": "DWORZEC AUTOBUSOWY",
       "service_id": "6",
@@ -4440,8 +4440,8 @@
         },
         {
           "stop_sequence": 3,
-          "stop_id": "33",
-          "stop_name": "pl. Wróblewskiego",
+          "stop_id": "5846",
+          "stop_name": "Pl. Wróblewskiego",
           "arrival_time": "24:59:00",
           "departure_time": "24:59:00",
           "lat": 51.1053429,
@@ -4458,8 +4458,8 @@
         },
         {
           "stop_sequence": 5,
-          "stop_id": "1277",
-          "stop_name": "most Grunwaldzki",
+          "stop_id": "6145",
+          "stop_name": "Most Grunwaldzki",
           "arrival_time": "25:01:00",
           "departure_time": "25:01:00",
           "lat": 51.11013812,
@@ -4530,12 +4530,12 @@
         },
         {
           "stop_sequence": 13,
-          "stop_id": "817",
+          "stop_id": "6164",
           "stop_name": "Paulińska",
           "arrival_time": "25:11:00",
           "departure_time": "25:11:00",
-          "lat": 51.12097073,
-          "lon": 17.03509933
+          "lat": 51.12076896,
+          "lon": 17.03650148
         },
         {
           "stop_sequence": 14,
@@ -4575,8 +4575,8 @@
         },
         {
           "stop_sequence": 18,
-          "stop_id": "493",
-          "stop_name": "pl. Orląt Lwowskich",
+          "stop_id": "5894",
+          "stop_name": "Pl. Orląt Lwowskich",
           "arrival_time": "25:20:00",
           "departure_time": "25:20:00",
           "lat": 51.10729913,
@@ -4584,8 +4584,8 @@
         },
         {
           "stop_sequence": 19,
-          "stop_id": "494",
-          "stop_name": "pl. Legionów",
+          "stop_id": "5859",
+          "stop_name": "Pl. Legionów",
           "arrival_time": "25:21:00",
           "departure_time": "25:21:00",
           "lat": 51.10371385,
@@ -4621,7 +4621,7 @@
       ]
     },
     {
-      "trip_id": "6_16587404",
+      "trip_id": "6_17609732",
       "direction_id": "1",
       "headsign": "DWORZEC AUTOBUSOWY",
       "service_id": "6",
@@ -4655,8 +4655,8 @@
         },
         {
           "stop_sequence": 3,
-          "stop_id": "33",
-          "stop_name": "pl. Wróblewskiego",
+          "stop_id": "5846",
+          "stop_name": "Pl. Wróblewskiego",
           "arrival_time": "25:39:00",
           "departure_time": "25:39:00",
           "lat": 51.1053429,
@@ -4673,8 +4673,8 @@
         },
         {
           "stop_sequence": 5,
-          "stop_id": "1277",
-          "stop_name": "most Grunwaldzki",
+          "stop_id": "6145",
+          "stop_name": "Most Grunwaldzki",
           "arrival_time": "25:41:00",
           "departure_time": "25:41:00",
           "lat": 51.11013812,
@@ -4745,12 +4745,12 @@
         },
         {
           "stop_sequence": 13,
-          "stop_id": "817",
+          "stop_id": "6164",
           "stop_name": "Paulińska",
           "arrival_time": "25:51:00",
           "departure_time": "25:51:00",
-          "lat": 51.12097073,
-          "lon": 17.03509933
+          "lat": 51.12076896,
+          "lon": 17.03650148
         },
         {
           "stop_sequence": 14,
@@ -4790,8 +4790,8 @@
         },
         {
           "stop_sequence": 18,
-          "stop_id": "493",
-          "stop_name": "pl. Orląt Lwowskich",
+          "stop_id": "5894",
+          "stop_name": "Pl. Orląt Lwowskich",
           "arrival_time": "26:00:00",
           "departure_time": "26:00:00",
           "lat": 51.10729913,
@@ -4799,8 +4799,8 @@
         },
         {
           "stop_sequence": 19,
-          "stop_id": "494",
-          "stop_name": "pl. Legionów",
+          "stop_id": "5859",
+          "stop_name": "Pl. Legionów",
           "arrival_time": "26:01:00",
           "departure_time": "26:01:00",
           "lat": 51.10371385,
@@ -4836,7 +4836,7 @@
       ]
     },
     {
-      "trip_id": "6_16587405",
+      "trip_id": "6_17609733",
       "direction_id": "1",
       "headsign": "DWORZEC AUTOBUSOWY",
       "service_id": "6",
@@ -4870,8 +4870,8 @@
         },
         {
           "stop_sequence": 3,
-          "stop_id": "33",
-          "stop_name": "pl. Wróblewskiego",
+          "stop_id": "5846",
+          "stop_name": "Pl. Wróblewskiego",
           "arrival_time": "26:24:00",
           "departure_time": "26:24:00",
           "lat": 51.1053429,
@@ -4888,8 +4888,8 @@
         },
         {
           "stop_sequence": 5,
-          "stop_id": "1277",
-          "stop_name": "most Grunwaldzki",
+          "stop_id": "6145",
+          "stop_name": "Most Grunwaldzki",
           "arrival_time": "26:26:00",
           "departure_time": "26:26:00",
           "lat": 51.11013812,
@@ -4960,12 +4960,12 @@
         },
         {
           "stop_sequence": 13,
-          "stop_id": "817",
+          "stop_id": "6164",
           "stop_name": "Paulińska",
           "arrival_time": "26:36:00",
           "departure_time": "26:36:00",
-          "lat": 51.12097073,
-          "lon": 17.03509933
+          "lat": 51.12076896,
+          "lon": 17.03650148
         },
         {
           "stop_sequence": 14,
@@ -5005,8 +5005,8 @@
         },
         {
           "stop_sequence": 18,
-          "stop_id": "493",
-          "stop_name": "pl. Orląt Lwowskich",
+          "stop_id": "5894",
+          "stop_name": "Pl. Orląt Lwowskich",
           "arrival_time": "26:45:00",
           "departure_time": "26:45:00",
           "lat": 51.10729913,
@@ -5014,8 +5014,8 @@
         },
         {
           "stop_sequence": 19,
-          "stop_id": "494",
-          "stop_name": "pl. Legionów",
+          "stop_id": "5859",
+          "stop_name": "Pl. Legionów",
           "arrival_time": "26:46:00",
           "departure_time": "26:46:00",
           "lat": 51.10371385,
@@ -5051,7 +5051,7 @@
       ]
     },
     {
-      "trip_id": "6_16587406",
+      "trip_id": "6_17609734",
       "direction_id": "1",
       "headsign": "DWORZEC AUTOBUSOWY",
       "service_id": "6",
@@ -5085,8 +5085,8 @@
         },
         {
           "stop_sequence": 3,
-          "stop_id": "33",
-          "stop_name": "pl. Wróblewskiego",
+          "stop_id": "5846",
+          "stop_name": "Pl. Wróblewskiego",
           "arrival_time": "27:09:00",
           "departure_time": "27:09:00",
           "lat": 51.1053429,
@@ -5103,8 +5103,8 @@
         },
         {
           "stop_sequence": 5,
-          "stop_id": "1277",
-          "stop_name": "most Grunwaldzki",
+          "stop_id": "6145",
+          "stop_name": "Most Grunwaldzki",
           "arrival_time": "27:11:00",
           "departure_time": "27:11:00",
           "lat": 51.11013812,
@@ -5175,12 +5175,12 @@
         },
         {
           "stop_sequence": 13,
-          "stop_id": "817",
+          "stop_id": "6164",
           "stop_name": "Paulińska",
           "arrival_time": "27:21:00",
           "departure_time": "27:21:00",
-          "lat": 51.12097073,
-          "lon": 17.03509933
+          "lat": 51.12076896,
+          "lon": 17.03650148
         },
         {
           "stop_sequence": 14,
@@ -5220,8 +5220,8 @@
         },
         {
           "stop_sequence": 18,
-          "stop_id": "493",
-          "stop_name": "pl. Orląt Lwowskich",
+          "stop_id": "5894",
+          "stop_name": "Pl. Orląt Lwowskich",
           "arrival_time": "27:30:00",
           "departure_time": "27:30:00",
           "lat": 51.10729913,
@@ -5229,8 +5229,8 @@
         },
         {
           "stop_sequence": 19,
-          "stop_id": "494",
-          "stop_name": "pl. Legionów",
+          "stop_id": "5859",
+          "stop_name": "Pl. Legionów",
           "arrival_time": "27:31:00",
           "departure_time": "27:31:00",
           "lat": 51.10371385,
@@ -5266,7 +5266,7 @@
       ]
     },
     {
-      "trip_id": "6_16587407",
+      "trip_id": "6_17609735",
       "direction_id": "1",
       "headsign": "DWORZEC AUTOBUSOWY",
       "service_id": "6",
@@ -5300,8 +5300,8 @@
         },
         {
           "stop_sequence": 3,
-          "stop_id": "33",
-          "stop_name": "pl. Wróblewskiego",
+          "stop_id": "5846",
+          "stop_name": "Pl. Wróblewskiego",
           "arrival_time": "27:54:00",
           "departure_time": "27:54:00",
           "lat": 51.1053429,
@@ -5318,8 +5318,8 @@
         },
         {
           "stop_sequence": 5,
-          "stop_id": "1277",
-          "stop_name": "most Grunwaldzki",
+          "stop_id": "6145",
+          "stop_name": "Most Grunwaldzki",
           "arrival_time": "27:56:00",
           "departure_time": "27:56:00",
           "lat": 51.11013812,
@@ -5390,12 +5390,12 @@
         },
         {
           "stop_sequence": 13,
-          "stop_id": "817",
+          "stop_id": "6164",
           "stop_name": "Paulińska",
           "arrival_time": "28:06:00",
           "departure_time": "28:06:00",
-          "lat": 51.12097073,
-          "lon": 17.03509933
+          "lat": 51.12076896,
+          "lon": 17.03650148
         },
         {
           "stop_sequence": 14,
@@ -5435,8 +5435,8 @@
         },
         {
           "stop_sequence": 18,
-          "stop_id": "493",
-          "stop_name": "pl. Orląt Lwowskich",
+          "stop_id": "5894",
+          "stop_name": "Pl. Orląt Lwowskich",
           "arrival_time": "28:15:00",
           "departure_time": "28:15:00",
           "lat": 51.10729913,
@@ -5444,8 +5444,8 @@
         },
         {
           "stop_sequence": 19,
-          "stop_id": "494",
-          "stop_name": "pl. Legionów",
+          "stop_id": "5859",
+          "stop_name": "Pl. Legionów",
           "arrival_time": "28:16:00",
           "departure_time": "28:16:00",
           "lat": 51.10371385,
@@ -5481,7 +5481,7 @@
       ]
     },
     {
-      "trip_id": "6_16587408",
+      "trip_id": "6_17609736",
       "direction_id": "1",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "6",
@@ -5515,8 +5515,8 @@
         },
         {
           "stop_sequence": 3,
-          "stop_id": "33",
-          "stop_name": "pl. Wróblewskiego",
+          "stop_id": "5846",
+          "stop_name": "Pl. Wróblewskiego",
           "arrival_time": "28:29:00",
           "departure_time": "28:29:00",
           "lat": 51.1053429,
@@ -5533,8 +5533,8 @@
         },
         {
           "stop_sequence": 5,
-          "stop_id": "1277",
-          "stop_name": "most Grunwaldzki",
+          "stop_id": "6145",
+          "stop_name": "Most Grunwaldzki",
           "arrival_time": "28:31:00",
           "departure_time": "28:31:00",
           "lat": 51.11013812,
@@ -5618,8 +5618,8 @@
           "stop_name": "Trzebnicka",
           "arrival_time": "28:41:00",
           "departure_time": "28:41:00",
-          "lat": 51.12869465,
-          "lon": 17.03684362
+          "lat": 51.12813406,
+          "lon": 17.03666443
         },
         {
           "stop_sequence": 15,
@@ -5669,7 +5669,7 @@
       ]
     },
     {
-      "trip_id": "8_16589004",
+      "trip_id": "8_17611249",
       "direction_id": "0",
       "headsign": "DWORZEC AUTOBUSOWY",
       "service_id": "8",
@@ -5685,8 +5685,8 @@
         },
         {
           "stop_sequence": 1,
-          "stop_id": "493",
-          "stop_name": "pl. Orląt Lwowskich",
+          "stop_id": "5894",
+          "stop_name": "Pl. Orląt Lwowskich",
           "arrival_time": "23:24:00",
           "departure_time": "23:24:00",
           "lat": 51.10729913,
@@ -5694,8 +5694,8 @@
         },
         {
           "stop_sequence": 2,
-          "stop_id": "494",
-          "stop_name": "pl. Legionów",
+          "stop_id": "5859",
+          "stop_name": "Pl. Legionów",
           "arrival_time": "23:25:00",
           "departure_time": "23:25:00",
           "lat": 51.10371385,
@@ -5731,9 +5731,9 @@
       ]
     },
     {
-      "trip_id": "8_16589005",
+      "trip_id": "8_17611250",
       "direction_id": "1",
-      "headsign": "DWORZEC GŁÓWNY",
+      "headsign": "DWORZEC AUTOBUSOWY",
       "service_id": "8",
       "stops": [
         {
@@ -5765,8 +5765,8 @@
         },
         {
           "stop_sequence": 3,
-          "stop_id": "33",
-          "stop_name": "pl. Wróblewskiego",
+          "stop_id": "5846",
+          "stop_name": "Pl. Wróblewskiego",
           "arrival_time": "23:39:00",
           "departure_time": "23:39:00",
           "lat": 51.1053429,
@@ -5783,8 +5783,8 @@
         },
         {
           "stop_sequence": 5,
-          "stop_id": "1277",
-          "stop_name": "most Grunwaldzki",
+          "stop_id": "6145",
+          "stop_name": "Most Grunwaldzki",
           "arrival_time": "23:41:00",
           "departure_time": "23:41:00",
           "lat": 51.11013812,
@@ -5855,12 +5855,12 @@
         },
         {
           "stop_sequence": 13,
-          "stop_id": "817",
+          "stop_id": "6164",
           "stop_name": "Paulińska",
           "arrival_time": "23:51:00",
           "departure_time": "23:51:00",
-          "lat": 51.12097073,
-          "lon": 17.03509933
+          "lat": 51.12076896,
+          "lon": 17.03650148
         },
         {
           "stop_sequence": 14,
@@ -5900,8 +5900,8 @@
         },
         {
           "stop_sequence": 18,
-          "stop_id": "493",
-          "stop_name": "pl. Orląt Lwowskich",
+          "stop_id": "5894",
+          "stop_name": "Pl. Orląt Lwowskich",
           "arrival_time": "24:00:00",
           "departure_time": "24:00:00",
           "lat": 51.10729913,
@@ -5909,8 +5909,8 @@
         },
         {
           "stop_sequence": 19,
-          "stop_id": "494",
-          "stop_name": "pl. Legionów",
+          "stop_id": "5859",
+          "stop_name": "Pl. Legionów",
           "arrival_time": "24:01:00",
           "departure_time": "24:01:00",
           "lat": 51.10371385,
@@ -5936,17 +5936,17 @@
         },
         {
           "stop_sequence": 22,
-          "stop_id": "3512",
-          "stop_name": "DWORZEC GŁÓWNY",
+          "stop_id": "3518",
+          "stop_name": "DWORZEC AUTOBUSOWY",
           "arrival_time": "24:06:00",
           "departure_time": "24:06:00",
-          "lat": 51.09918778,
-          "lon": 17.03433441
+          "lat": 51.0970988,
+          "lon": 17.03642981
         }
       ]
     },
     {
-      "trip_id": "8_16589289",
+      "trip_id": "8_17611251",
       "direction_id": "1",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "8",
@@ -5980,8 +5980,8 @@
         },
         {
           "stop_sequence": 3,
-          "stop_id": "33",
-          "stop_name": "pl. Wróblewskiego",
+          "stop_id": "5846",
+          "stop_name": "Pl. Wróblewskiego",
           "arrival_time": "24:34:00",
           "departure_time": "24:34:00",
           "lat": 51.1053429,
@@ -5998,8 +5998,8 @@
         },
         {
           "stop_sequence": 5,
-          "stop_id": "1277",
-          "stop_name": "most Grunwaldzki",
+          "stop_id": "6145",
+          "stop_name": "Most Grunwaldzki",
           "arrival_time": "24:36:00",
           "departure_time": "24:36:00",
           "lat": 51.11013812,
@@ -6083,8 +6083,8 @@
           "stop_name": "Trzebnicka",
           "arrival_time": "24:46:00",
           "departure_time": "24:46:00",
-          "lat": 51.12869465,
-          "lon": 17.03684362
+          "lat": 51.12813406,
+          "lon": 17.03666443
         },
         {
           "stop_sequence": 15,
@@ -6134,7 +6134,7 @@
       ]
     },
     {
-      "trip_id": "8_16593988",
+      "trip_id": "8_17616560",
       "direction_id": "1",
       "headsign": "DWORZEC AUTOBUSOWY",
       "service_id": "8",
@@ -6204,12 +6204,12 @@
         },
         {
           "stop_sequence": 7,
-          "stop_id": "817",
+          "stop_id": "6164",
           "stop_name": "Paulińska",
           "arrival_time": "24:23:00",
           "departure_time": "24:23:00",
-          "lat": 51.12097073,
-          "lon": 17.03509933
+          "lat": 51.12076896,
+          "lon": 17.03650148
         },
         {
           "stop_sequence": 8,
@@ -6249,8 +6249,8 @@
         },
         {
           "stop_sequence": 12,
-          "stop_id": "493",
-          "stop_name": "pl. Orląt Lwowskich",
+          "stop_id": "5894",
+          "stop_name": "Pl. Orląt Lwowskich",
           "arrival_time": "24:32:00",
           "departure_time": "24:32:00",
           "lat": 51.10729913,
@@ -6258,8 +6258,8 @@
         },
         {
           "stop_sequence": 13,
-          "stop_id": "494",
-          "stop_name": "pl. Legionów",
+          "stop_id": "5859",
+          "stop_name": "Pl. Legionów",
           "arrival_time": "24:33:00",
           "departure_time": "24:33:00",
           "lat": 51.10371385,
@@ -6295,7 +6295,7 @@
       ]
     },
     {
-      "trip_id": "8_16593989",
+      "trip_id": "8_17616561",
       "direction_id": "1",
       "headsign": "DWORZEC AUTOBUSOWY",
       "service_id": "8",
@@ -6329,8 +6329,8 @@
         },
         {
           "stop_sequence": 3,
-          "stop_id": "33",
-          "stop_name": "pl. Wróblewskiego",
+          "stop_id": "5846",
+          "stop_name": "Pl. Wróblewskiego",
           "arrival_time": "24:59:00",
           "departure_time": "24:59:00",
           "lat": 51.1053429,
@@ -6347,8 +6347,8 @@
         },
         {
           "stop_sequence": 5,
-          "stop_id": "1277",
-          "stop_name": "most Grunwaldzki",
+          "stop_id": "6145",
+          "stop_name": "Most Grunwaldzki",
           "arrival_time": "25:01:00",
           "departure_time": "25:01:00",
           "lat": 51.11013812,
@@ -6419,12 +6419,12 @@
         },
         {
           "stop_sequence": 13,
-          "stop_id": "817",
+          "stop_id": "6164",
           "stop_name": "Paulińska",
           "arrival_time": "25:11:00",
           "departure_time": "25:11:00",
-          "lat": 51.12097073,
-          "lon": 17.03509933
+          "lat": 51.12076896,
+          "lon": 17.03650148
         },
         {
           "stop_sequence": 14,
@@ -6464,8 +6464,8 @@
         },
         {
           "stop_sequence": 18,
-          "stop_id": "493",
-          "stop_name": "pl. Orląt Lwowskich",
+          "stop_id": "5894",
+          "stop_name": "Pl. Orląt Lwowskich",
           "arrival_time": "25:20:00",
           "departure_time": "25:20:00",
           "lat": 51.10729913,
@@ -6473,8 +6473,8 @@
         },
         {
           "stop_sequence": 19,
-          "stop_id": "494",
-          "stop_name": "pl. Legionów",
+          "stop_id": "5859",
+          "stop_name": "Pl. Legionów",
           "arrival_time": "25:21:00",
           "departure_time": "25:21:00",
           "lat": 51.10371385,
@@ -6510,7 +6510,7 @@
       ]
     },
     {
-      "trip_id": "8_16593990",
+      "trip_id": "8_17616562",
       "direction_id": "1",
       "headsign": "DWORZEC AUTOBUSOWY",
       "service_id": "8",
@@ -6544,8 +6544,8 @@
         },
         {
           "stop_sequence": 3,
-          "stop_id": "33",
-          "stop_name": "pl. Wróblewskiego",
+          "stop_id": "5846",
+          "stop_name": "Pl. Wróblewskiego",
           "arrival_time": "25:39:00",
           "departure_time": "25:39:00",
           "lat": 51.1053429,
@@ -6562,8 +6562,8 @@
         },
         {
           "stop_sequence": 5,
-          "stop_id": "1277",
-          "stop_name": "most Grunwaldzki",
+          "stop_id": "6145",
+          "stop_name": "Most Grunwaldzki",
           "arrival_time": "25:41:00",
           "departure_time": "25:41:00",
           "lat": 51.11013812,
@@ -6634,12 +6634,12 @@
         },
         {
           "stop_sequence": 13,
-          "stop_id": "817",
+          "stop_id": "6164",
           "stop_name": "Paulińska",
           "arrival_time": "25:51:00",
           "departure_time": "25:51:00",
-          "lat": 51.12097073,
-          "lon": 17.03509933
+          "lat": 51.12076896,
+          "lon": 17.03650148
         },
         {
           "stop_sequence": 14,
@@ -6679,8 +6679,8 @@
         },
         {
           "stop_sequence": 18,
-          "stop_id": "493",
-          "stop_name": "pl. Orląt Lwowskich",
+          "stop_id": "5894",
+          "stop_name": "Pl. Orląt Lwowskich",
           "arrival_time": "26:00:00",
           "departure_time": "26:00:00",
           "lat": 51.10729913,
@@ -6688,8 +6688,8 @@
         },
         {
           "stop_sequence": 19,
-          "stop_id": "494",
-          "stop_name": "pl. Legionów",
+          "stop_id": "5859",
+          "stop_name": "Pl. Legionów",
           "arrival_time": "26:01:00",
           "departure_time": "26:01:00",
           "lat": 51.10371385,
@@ -6725,7 +6725,7 @@
       ]
     },
     {
-      "trip_id": "8_16593991",
+      "trip_id": "8_17616563",
       "direction_id": "1",
       "headsign": "DWORZEC AUTOBUSOWY",
       "service_id": "8",
@@ -6759,8 +6759,8 @@
         },
         {
           "stop_sequence": 3,
-          "stop_id": "33",
-          "stop_name": "pl. Wróblewskiego",
+          "stop_id": "5846",
+          "stop_name": "Pl. Wróblewskiego",
           "arrival_time": "26:24:00",
           "departure_time": "26:24:00",
           "lat": 51.1053429,
@@ -6777,8 +6777,8 @@
         },
         {
           "stop_sequence": 5,
-          "stop_id": "1277",
-          "stop_name": "most Grunwaldzki",
+          "stop_id": "6145",
+          "stop_name": "Most Grunwaldzki",
           "arrival_time": "26:26:00",
           "departure_time": "26:26:00",
           "lat": 51.11013812,
@@ -6849,12 +6849,12 @@
         },
         {
           "stop_sequence": 13,
-          "stop_id": "817",
+          "stop_id": "6164",
           "stop_name": "Paulińska",
           "arrival_time": "26:36:00",
           "departure_time": "26:36:00",
-          "lat": 51.12097073,
-          "lon": 17.03509933
+          "lat": 51.12076896,
+          "lon": 17.03650148
         },
         {
           "stop_sequence": 14,
@@ -6894,8 +6894,8 @@
         },
         {
           "stop_sequence": 18,
-          "stop_id": "493",
-          "stop_name": "pl. Orląt Lwowskich",
+          "stop_id": "5894",
+          "stop_name": "Pl. Orląt Lwowskich",
           "arrival_time": "26:45:00",
           "departure_time": "26:45:00",
           "lat": 51.10729913,
@@ -6903,8 +6903,8 @@
         },
         {
           "stop_sequence": 19,
-          "stop_id": "494",
-          "stop_name": "pl. Legionów",
+          "stop_id": "5859",
+          "stop_name": "Pl. Legionów",
           "arrival_time": "26:46:00",
           "departure_time": "26:46:00",
           "lat": 51.10371385,
@@ -6940,7 +6940,7 @@
       ]
     },
     {
-      "trip_id": "8_16593992",
+      "trip_id": "8_17616564",
       "direction_id": "1",
       "headsign": "DWORZEC AUTOBUSOWY",
       "service_id": "8",
@@ -6974,8 +6974,8 @@
         },
         {
           "stop_sequence": 3,
-          "stop_id": "33",
-          "stop_name": "pl. Wróblewskiego",
+          "stop_id": "5846",
+          "stop_name": "Pl. Wróblewskiego",
           "arrival_time": "27:09:00",
           "departure_time": "27:09:00",
           "lat": 51.1053429,
@@ -6992,8 +6992,8 @@
         },
         {
           "stop_sequence": 5,
-          "stop_id": "1277",
-          "stop_name": "most Grunwaldzki",
+          "stop_id": "6145",
+          "stop_name": "Most Grunwaldzki",
           "arrival_time": "27:11:00",
           "departure_time": "27:11:00",
           "lat": 51.11013812,
@@ -7064,12 +7064,12 @@
         },
         {
           "stop_sequence": 13,
-          "stop_id": "817",
+          "stop_id": "6164",
           "stop_name": "Paulińska",
           "arrival_time": "27:21:00",
           "departure_time": "27:21:00",
-          "lat": 51.12097073,
-          "lon": 17.03509933
+          "lat": 51.12076896,
+          "lon": 17.03650148
         },
         {
           "stop_sequence": 14,
@@ -7109,8 +7109,8 @@
         },
         {
           "stop_sequence": 18,
-          "stop_id": "493",
-          "stop_name": "pl. Orląt Lwowskich",
+          "stop_id": "5894",
+          "stop_name": "Pl. Orląt Lwowskich",
           "arrival_time": "27:30:00",
           "departure_time": "27:30:00",
           "lat": 51.10729913,
@@ -7118,8 +7118,8 @@
         },
         {
           "stop_sequence": 19,
-          "stop_id": "494",
-          "stop_name": "pl. Legionów",
+          "stop_id": "5859",
+          "stop_name": "Pl. Legionów",
           "arrival_time": "27:31:00",
           "departure_time": "27:31:00",
           "lat": 51.10371385,
@@ -7155,7 +7155,7 @@
       ]
     },
     {
-      "trip_id": "8_16593993",
+      "trip_id": "8_17616565",
       "direction_id": "1",
       "headsign": "DWORZEC AUTOBUSOWY",
       "service_id": "8",
@@ -7189,8 +7189,8 @@
         },
         {
           "stop_sequence": 3,
-          "stop_id": "33",
-          "stop_name": "pl. Wróblewskiego",
+          "stop_id": "5846",
+          "stop_name": "Pl. Wróblewskiego",
           "arrival_time": "27:54:00",
           "departure_time": "27:54:00",
           "lat": 51.1053429,
@@ -7207,8 +7207,8 @@
         },
         {
           "stop_sequence": 5,
-          "stop_id": "1277",
-          "stop_name": "most Grunwaldzki",
+          "stop_id": "6145",
+          "stop_name": "Most Grunwaldzki",
           "arrival_time": "27:56:00",
           "departure_time": "27:56:00",
           "lat": 51.11013812,
@@ -7279,12 +7279,12 @@
         },
         {
           "stop_sequence": 13,
-          "stop_id": "817",
+          "stop_id": "6164",
           "stop_name": "Paulińska",
           "arrival_time": "28:06:00",
           "departure_time": "28:06:00",
-          "lat": 51.12097073,
-          "lon": 17.03509933
+          "lat": 51.12076896,
+          "lon": 17.03650148
         },
         {
           "stop_sequence": 14,
@@ -7324,8 +7324,8 @@
         },
         {
           "stop_sequence": 18,
-          "stop_id": "493",
-          "stop_name": "pl. Orląt Lwowskich",
+          "stop_id": "5894",
+          "stop_name": "Pl. Orląt Lwowskich",
           "arrival_time": "28:15:00",
           "departure_time": "28:15:00",
           "lat": 51.10729913,
@@ -7333,8 +7333,8 @@
         },
         {
           "stop_sequence": 19,
-          "stop_id": "494",
-          "stop_name": "pl. Legionów",
+          "stop_id": "5859",
+          "stop_name": "Pl. Legionów",
           "arrival_time": "28:16:00",
           "departure_time": "28:16:00",
           "lat": 51.10371385,
@@ -7370,7 +7370,7 @@
       ]
     },
     {
-      "trip_id": "8_16593994",
+      "trip_id": "8_17616566",
       "direction_id": "1",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "8",
@@ -7404,8 +7404,8 @@
         },
         {
           "stop_sequence": 3,
-          "stop_id": "33",
-          "stop_name": "pl. Wróblewskiego",
+          "stop_id": "5846",
+          "stop_name": "Pl. Wróblewskiego",
           "arrival_time": "28:29:00",
           "departure_time": "28:29:00",
           "lat": 51.1053429,
@@ -7422,8 +7422,8 @@
         },
         {
           "stop_sequence": 5,
-          "stop_id": "1277",
-          "stop_name": "most Grunwaldzki",
+          "stop_id": "6145",
+          "stop_name": "Most Grunwaldzki",
           "arrival_time": "28:31:00",
           "departure_time": "28:31:00",
           "lat": 51.11013812,
@@ -7507,8 +7507,8 @@
           "stop_name": "Trzebnicka",
           "arrival_time": "28:41:00",
           "departure_time": "28:41:00",
-          "lat": 51.12869465,
-          "lon": 17.03684362
+          "lat": 51.12813406,
+          "lon": 17.03666443
         },
         {
           "stop_sequence": 15,

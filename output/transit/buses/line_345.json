@@ -2,7 +2,7 @@
   "line": "345",
   "trips": [
     {
-      "trip_id": "6_16464498",
+      "trip_id": "6_17535375",
       "direction_id": "1",
       "headsign": "BARTOSZOWICE",
       "service_id": "6",
@@ -13,8 +13,8 @@
           "stop_name": "Stadion Olimpijski",
           "arrival_time": "06:39:00",
           "departure_time": "06:39:00",
-          "lat": 51.11682539,
-          "lon": 17.09007458
+          "lat": 51.116942,
+          "lon": 17.09016741
         },
         {
           "stop_sequence": 1,
@@ -100,7 +100,7 @@
       ]
     },
     {
-      "trip_id": "6_16464499",
+      "trip_id": "6_17535376",
       "direction_id": "1",
       "headsign": "Stadion Olimpijski",
       "service_id": "6",
@@ -228,13 +228,13 @@
           "stop_name": "Stadion Olimpijski",
           "arrival_time": "07:07:00",
           "departure_time": "07:07:00",
-          "lat": 51.11682539,
-          "lon": 17.09007458
+          "lat": 51.116942,
+          "lon": 17.09016741
         }
       ]
     },
     {
-      "trip_id": "6_16464500",
+      "trip_id": "6_17535377",
       "direction_id": "1",
       "headsign": "BARTOSZOWICE",
       "service_id": "6",
@@ -245,8 +245,8 @@
           "stop_name": "Stadion Olimpijski",
           "arrival_time": "07:17:00",
           "departure_time": "07:17:00",
-          "lat": 51.11682539,
-          "lon": 17.09007458
+          "lat": 51.116942,
+          "lon": 17.09016741
         },
         {
           "stop_sequence": 1,
@@ -332,7 +332,7 @@
       ]
     },
     {
-      "trip_id": "6_16464501",
+      "trip_id": "6_17535378",
       "direction_id": "1",
       "headsign": "Stadion Olimpijski",
       "service_id": "6",
@@ -460,13 +460,13 @@
           "stop_name": "Stadion Olimpijski",
           "arrival_time": "07:45:00",
           "departure_time": "07:45:00",
-          "lat": 51.11682539,
-          "lon": 17.09007458
+          "lat": 51.116942,
+          "lon": 17.09016741
         }
       ]
     },
     {
-      "trip_id": "6_16464502",
+      "trip_id": "6_17535379",
       "direction_id": "1",
       "headsign": "BARTOSZOWICE",
       "service_id": "6",
@@ -477,8 +477,8 @@
           "stop_name": "Stadion Olimpijski",
           "arrival_time": "08:00:00",
           "departure_time": "08:00:00",
-          "lat": 51.11682539,
-          "lon": 17.09007458
+          "lat": 51.116942,
+          "lon": 17.09016741
         },
         {
           "stop_sequence": 1,
@@ -564,7 +564,7 @@
       ]
     },
     {
-      "trip_id": "6_16464503",
+      "trip_id": "6_17535380",
       "direction_id": "1",
       "headsign": "Stadion Olimpijski",
       "service_id": "6",
@@ -692,13 +692,13 @@
           "stop_name": "Stadion Olimpijski",
           "arrival_time": "08:28:00",
           "departure_time": "08:28:00",
-          "lat": 51.11682539,
-          "lon": 17.09007458
+          "lat": 51.116942,
+          "lon": 17.09016741
         }
       ]
     },
     {
-      "trip_id": "6_16464504",
+      "trip_id": "6_17535381",
       "direction_id": "1",
       "headsign": "BARTOSZOWICE",
       "service_id": "6",
@@ -709,8 +709,8 @@
           "stop_name": "Stadion Olimpijski",
           "arrival_time": "09:00:00",
           "departure_time": "09:00:00",
-          "lat": 51.11682539,
-          "lon": 17.09007458
+          "lat": 51.116942,
+          "lon": 17.09016741
         },
         {
           "stop_sequence": 1,
@@ -796,7 +796,7 @@
       ]
     },
     {
-      "trip_id": "6_16464505",
+      "trip_id": "6_17535382",
       "direction_id": "1",
       "headsign": "Stadion Olimpijski",
       "service_id": "6",
@@ -924,13 +924,13 @@
           "stop_name": "Stadion Olimpijski",
           "arrival_time": "09:28:00",
           "departure_time": "09:28:00",
-          "lat": 51.11682539,
-          "lon": 17.09007458
+          "lat": 51.116942,
+          "lon": 17.09016741
         }
       ]
     },
     {
-      "trip_id": "6_16464506",
+      "trip_id": "6_17535383",
       "direction_id": "1",
       "headsign": "BARTOSZOWICE",
       "service_id": "6",
@@ -941,8 +941,8 @@
           "stop_name": "Stadion Olimpijski",
           "arrival_time": "09:40:00",
           "departure_time": "09:40:00",
-          "lat": 51.11682539,
-          "lon": 17.09007458
+          "lat": 51.116942,
+          "lon": 17.09016741
         },
         {
           "stop_sequence": 1,
@@ -1028,7 +1028,7 @@
       ]
     },
     {
-      "trip_id": "6_16464507",
+      "trip_id": "6_17535384",
       "direction_id": "1",
       "headsign": "Stadion Olimpijski",
       "service_id": "6",
@@ -1156,13 +1156,13 @@
           "stop_name": "Stadion Olimpijski",
           "arrival_time": "10:08:00",
           "departure_time": "10:08:00",
-          "lat": 51.11682539,
-          "lon": 17.09007458
+          "lat": 51.116942,
+          "lon": 17.09016741
         }
       ]
     },
     {
-      "trip_id": "6_16464508",
+      "trip_id": "6_17535385",
       "direction_id": "1",
       "headsign": "BARTOSZOWICE",
       "service_id": "6",
@@ -1173,8 +1173,8 @@
           "stop_name": "Stadion Olimpijski",
           "arrival_time": "10:20:00",
           "departure_time": "10:20:00",
-          "lat": 51.11682539,
-          "lon": 17.09007458
+          "lat": 51.116942,
+          "lon": 17.09016741
         },
         {
           "stop_sequence": 1,
@@ -1260,7 +1260,7 @@
       ]
     },
     {
-      "trip_id": "6_16464509",
+      "trip_id": "6_17535386",
       "direction_id": "1",
       "headsign": "Stadion Olimpijski",
       "service_id": "6",
@@ -1388,13 +1388,13 @@
           "stop_name": "Stadion Olimpijski",
           "arrival_time": "10:48:00",
           "departure_time": "10:48:00",
-          "lat": 51.11682539,
-          "lon": 17.09007458
+          "lat": 51.116942,
+          "lon": 17.09016741
         }
       ]
     },
     {
-      "trip_id": "6_16464510",
+      "trip_id": "6_17535387",
       "direction_id": "1",
       "headsign": "BARTOSZOWICE",
       "service_id": "6",
@@ -1405,8 +1405,8 @@
           "stop_name": "Stadion Olimpijski",
           "arrival_time": "11:00:00",
           "departure_time": "11:00:00",
-          "lat": 51.11682539,
-          "lon": 17.09007458
+          "lat": 51.116942,
+          "lon": 17.09016741
         },
         {
           "stop_sequence": 1,
@@ -1492,7 +1492,7 @@
       ]
     },
     {
-      "trip_id": "6_16464511",
+      "trip_id": "6_17535388",
       "direction_id": "1",
       "headsign": "Stadion Olimpijski",
       "service_id": "6",
@@ -1620,13 +1620,13 @@
           "stop_name": "Stadion Olimpijski",
           "arrival_time": "11:28:00",
           "departure_time": "11:28:00",
-          "lat": 51.11682539,
-          "lon": 17.09007458
+          "lat": 51.116942,
+          "lon": 17.09016741
         }
       ]
     },
     {
-      "trip_id": "6_16464512",
+      "trip_id": "6_17535389",
       "direction_id": "1",
       "headsign": "BARTOSZOWICE",
       "service_id": "6",
@@ -1637,8 +1637,8 @@
           "stop_name": "Stadion Olimpijski",
           "arrival_time": "11:40:00",
           "departure_time": "11:40:00",
-          "lat": 51.11682539,
-          "lon": 17.09007458
+          "lat": 51.116942,
+          "lon": 17.09016741
         },
         {
           "stop_sequence": 1,
@@ -1724,7 +1724,7 @@
       ]
     },
     {
-      "trip_id": "6_16464513",
+      "trip_id": "6_17535390",
       "direction_id": "1",
       "headsign": "Stadion Olimpijski",
       "service_id": "6",
@@ -1852,13 +1852,13 @@
           "stop_name": "Stadion Olimpijski",
           "arrival_time": "12:08:00",
           "departure_time": "12:08:00",
-          "lat": 51.11682539,
-          "lon": 17.09007458
+          "lat": 51.116942,
+          "lon": 17.09016741
         }
       ]
     },
     {
-      "trip_id": "6_16464514",
+      "trip_id": "6_17535391",
       "direction_id": "1",
       "headsign": "BARTOSZOWICE",
       "service_id": "6",
@@ -1869,8 +1869,8 @@
           "stop_name": "Stadion Olimpijski",
           "arrival_time": "12:20:00",
           "departure_time": "12:20:00",
-          "lat": 51.11682539,
-          "lon": 17.09007458
+          "lat": 51.116942,
+          "lon": 17.09016741
         },
         {
           "stop_sequence": 1,
@@ -1956,7 +1956,7 @@
       ]
     },
     {
-      "trip_id": "6_16464515",
+      "trip_id": "6_17535392",
       "direction_id": "1",
       "headsign": "Stadion Olimpijski",
       "service_id": "6",
@@ -2084,13 +2084,13 @@
           "stop_name": "Stadion Olimpijski",
           "arrival_time": "12:48:00",
           "departure_time": "12:48:00",
-          "lat": 51.11682539,
-          "lon": 17.09007458
+          "lat": 51.116942,
+          "lon": 17.09016741
         }
       ]
     },
     {
-      "trip_id": "6_16464516",
+      "trip_id": "6_17535393",
       "direction_id": "1",
       "headsign": "BARTOSZOWICE",
       "service_id": "6",
@@ -2101,8 +2101,8 @@
           "stop_name": "Stadion Olimpijski",
           "arrival_time": "13:20:00",
           "departure_time": "13:20:00",
-          "lat": 51.11682539,
-          "lon": 17.09007458
+          "lat": 51.116942,
+          "lon": 17.09016741
         },
         {
           "stop_sequence": 1,
@@ -2188,7 +2188,7 @@
       ]
     },
     {
-      "trip_id": "6_16464517",
+      "trip_id": "6_17535394",
       "direction_id": "1",
       "headsign": "Stadion Olimpijski",
       "service_id": "6",
@@ -2316,13 +2316,13 @@
           "stop_name": "Stadion Olimpijski",
           "arrival_time": "13:48:00",
           "departure_time": "13:48:00",
-          "lat": 51.11682539,
-          "lon": 17.09007458
+          "lat": 51.116942,
+          "lon": 17.09016741
         }
       ]
     },
     {
-      "trip_id": "6_16464518",
+      "trip_id": "6_17535395",
       "direction_id": "1",
       "headsign": "BARTOSZOWICE",
       "service_id": "6",
@@ -2333,8 +2333,8 @@
           "stop_name": "Stadion Olimpijski",
           "arrival_time": "14:00:00",
           "departure_time": "14:00:00",
-          "lat": 51.11682539,
-          "lon": 17.09007458
+          "lat": 51.116942,
+          "lon": 17.09016741
         },
         {
           "stop_sequence": 1,
@@ -2420,7 +2420,7 @@
       ]
     },
     {
-      "trip_id": "6_16464519",
+      "trip_id": "6_17535396",
       "direction_id": "1",
       "headsign": "Stadion Olimpijski",
       "service_id": "6",
@@ -2548,13 +2548,13 @@
           "stop_name": "Stadion Olimpijski",
           "arrival_time": "14:28:00",
           "departure_time": "14:28:00",
-          "lat": 51.11682539,
-          "lon": 17.09007458
+          "lat": 51.116942,
+          "lon": 17.09016741
         }
       ]
     },
     {
-      "trip_id": "6_16464520",
+      "trip_id": "6_17535397",
       "direction_id": "1",
       "headsign": "BARTOSZOWICE",
       "service_id": "6",
@@ -2565,8 +2565,8 @@
           "stop_name": "Stadion Olimpijski",
           "arrival_time": "14:40:00",
           "departure_time": "14:40:00",
-          "lat": 51.11682539,
-          "lon": 17.09007458
+          "lat": 51.116942,
+          "lon": 17.09016741
         },
         {
           "stop_sequence": 1,
@@ -2652,7 +2652,7 @@
       ]
     },
     {
-      "trip_id": "6_16464521",
+      "trip_id": "6_17535398",
       "direction_id": "1",
       "headsign": "Stadion Olimpijski",
       "service_id": "6",
@@ -2780,13 +2780,13 @@
           "stop_name": "Stadion Olimpijski",
           "arrival_time": "15:08:00",
           "departure_time": "15:08:00",
-          "lat": 51.11682539,
-          "lon": 17.09007458
+          "lat": 51.116942,
+          "lon": 17.09016741
         }
       ]
     },
     {
-      "trip_id": "6_16464522",
+      "trip_id": "6_17535399",
       "direction_id": "1",
       "headsign": "BARTOSZOWICE",
       "service_id": "6",
@@ -2797,8 +2797,8 @@
           "stop_name": "Stadion Olimpijski",
           "arrival_time": "15:20:00",
           "departure_time": "15:20:00",
-          "lat": 51.11682539,
-          "lon": 17.09007458
+          "lat": 51.116942,
+          "lon": 17.09016741
         },
         {
           "stop_sequence": 1,
@@ -2884,7 +2884,7 @@
       ]
     },
     {
-      "trip_id": "6_16464523",
+      "trip_id": "6_17535400",
       "direction_id": "1",
       "headsign": "Stadion Olimpijski",
       "service_id": "6",
@@ -3012,13 +3012,13 @@
           "stop_name": "Stadion Olimpijski",
           "arrival_time": "15:48:00",
           "departure_time": "15:48:00",
-          "lat": 51.11682539,
-          "lon": 17.09007458
+          "lat": 51.116942,
+          "lon": 17.09016741
         }
       ]
     },
     {
-      "trip_id": "6_16464524",
+      "trip_id": "6_17535401",
       "direction_id": "1",
       "headsign": "BARTOSZOWICE",
       "service_id": "6",
@@ -3029,8 +3029,8 @@
           "stop_name": "Stadion Olimpijski",
           "arrival_time": "16:00:00",
           "departure_time": "16:00:00",
-          "lat": 51.11682539,
-          "lon": 17.09007458
+          "lat": 51.116942,
+          "lon": 17.09016741
         },
         {
           "stop_sequence": 1,
@@ -3116,7 +3116,7 @@
       ]
     },
     {
-      "trip_id": "6_16464525",
+      "trip_id": "6_17535402",
       "direction_id": "1",
       "headsign": "Stadion Olimpijski",
       "service_id": "6",
@@ -3244,13 +3244,13 @@
           "stop_name": "Stadion Olimpijski",
           "arrival_time": "16:28:00",
           "departure_time": "16:28:00",
-          "lat": 51.11682539,
-          "lon": 17.09007458
+          "lat": 51.116942,
+          "lon": 17.09016741
         }
       ]
     },
     {
-      "trip_id": "6_16464526",
+      "trip_id": "6_17535403",
       "direction_id": "1",
       "headsign": "BARTOSZOWICE",
       "service_id": "6",
@@ -3261,8 +3261,8 @@
           "stop_name": "Stadion Olimpijski",
           "arrival_time": "16:40:00",
           "departure_time": "16:40:00",
-          "lat": 51.11682539,
-          "lon": 17.09007458
+          "lat": 51.116942,
+          "lon": 17.09016741
         },
         {
           "stop_sequence": 1,
@@ -3348,7 +3348,7 @@
       ]
     },
     {
-      "trip_id": "6_16464527",
+      "trip_id": "6_17535404",
       "direction_id": "1",
       "headsign": "Stadion Olimpijski",
       "service_id": "6",
@@ -3476,13 +3476,13 @@
           "stop_name": "Stadion Olimpijski",
           "arrival_time": "17:08:00",
           "departure_time": "17:08:00",
-          "lat": 51.11682539,
-          "lon": 17.09007458
+          "lat": 51.116942,
+          "lon": 17.09016741
         }
       ]
     },
     {
-      "trip_id": "6_16464528",
+      "trip_id": "6_17535405",
       "direction_id": "1",
       "headsign": "BARTOSZOWICE",
       "service_id": "6",
@@ -3493,8 +3493,8 @@
           "stop_name": "Stadion Olimpijski",
           "arrival_time": "17:30:00",
           "departure_time": "17:30:00",
-          "lat": 51.11682539,
-          "lon": 17.09007458
+          "lat": 51.116942,
+          "lon": 17.09016741
         },
         {
           "stop_sequence": 1,
@@ -3580,7 +3580,7 @@
       ]
     },
     {
-      "trip_id": "6_16464529",
+      "trip_id": "6_17535406",
       "direction_id": "1",
       "headsign": "Stadion Olimpijski",
       "service_id": "6",
@@ -3708,13 +3708,13 @@
           "stop_name": "Stadion Olimpijski",
           "arrival_time": "17:58:00",
           "departure_time": "17:58:00",
-          "lat": 51.11682539,
-          "lon": 17.09007458
+          "lat": 51.116942,
+          "lon": 17.09016741
         }
       ]
     },
     {
-      "trip_id": "6_16464530",
+      "trip_id": "6_17535407",
       "direction_id": "1",
       "headsign": "BARTOSZOWICE",
       "service_id": "6",
@@ -3725,8 +3725,8 @@
           "stop_name": "Stadion Olimpijski",
           "arrival_time": "18:10:00",
           "departure_time": "18:10:00",
-          "lat": 51.11682539,
-          "lon": 17.09007458
+          "lat": 51.116942,
+          "lon": 17.09016741
         },
         {
           "stop_sequence": 1,
@@ -3812,7 +3812,7 @@
       ]
     },
     {
-      "trip_id": "6_16464531",
+      "trip_id": "6_17535408",
       "direction_id": "1",
       "headsign": "Stadion Olimpijski",
       "service_id": "6",
@@ -3940,13 +3940,13 @@
           "stop_name": "Stadion Olimpijski",
           "arrival_time": "18:37:00",
           "departure_time": "18:37:00",
-          "lat": 51.11682539,
-          "lon": 17.09007458
+          "lat": 51.116942,
+          "lon": 17.09016741
         }
       ]
     },
     {
-      "trip_id": "8_16464914",
+      "trip_id": "8_17535721",
       "direction_id": "1",
       "headsign": "BARTOSZOWICE",
       "service_id": "8",
@@ -3957,8 +3957,8 @@
           "stop_name": "Stadion Olimpijski",
           "arrival_time": "06:39:00",
           "departure_time": "06:39:00",
-          "lat": 51.11682539,
-          "lon": 17.09007458
+          "lat": 51.116942,
+          "lon": 17.09016741
         },
         {
           "stop_sequence": 1,
@@ -4044,7 +4044,7 @@
       ]
     },
     {
-      "trip_id": "8_16464915",
+      "trip_id": "8_17535722",
       "direction_id": "1",
       "headsign": "Stadion Olimpijski",
       "service_id": "8",
@@ -4172,13 +4172,13 @@
           "stop_name": "Stadion Olimpijski",
           "arrival_time": "07:07:00",
           "departure_time": "07:07:00",
-          "lat": 51.11682539,
-          "lon": 17.09007458
+          "lat": 51.116942,
+          "lon": 17.09016741
         }
       ]
     },
     {
-      "trip_id": "8_16464916",
+      "trip_id": "8_17535723",
       "direction_id": "1",
       "headsign": "BARTOSZOWICE",
       "service_id": "8",
@@ -4189,8 +4189,8 @@
           "stop_name": "Stadion Olimpijski",
           "arrival_time": "07:17:00",
           "departure_time": "07:17:00",
-          "lat": 51.11682539,
-          "lon": 17.09007458
+          "lat": 51.116942,
+          "lon": 17.09016741
         },
         {
           "stop_sequence": 1,
@@ -4276,7 +4276,7 @@
       ]
     },
     {
-      "trip_id": "8_16464917",
+      "trip_id": "8_17535724",
       "direction_id": "1",
       "headsign": "Stadion Olimpijski",
       "service_id": "8",
@@ -4404,13 +4404,13 @@
           "stop_name": "Stadion Olimpijski",
           "arrival_time": "07:45:00",
           "departure_time": "07:45:00",
-          "lat": 51.11682539,
-          "lon": 17.09007458
+          "lat": 51.116942,
+          "lon": 17.09016741
         }
       ]
     },
     {
-      "trip_id": "8_16464918",
+      "trip_id": "8_17535725",
       "direction_id": "1",
       "headsign": "BARTOSZOWICE",
       "service_id": "8",
@@ -4421,8 +4421,8 @@
           "stop_name": "Stadion Olimpijski",
           "arrival_time": "08:00:00",
           "departure_time": "08:00:00",
-          "lat": 51.11682539,
-          "lon": 17.09007458
+          "lat": 51.116942,
+          "lon": 17.09016741
         },
         {
           "stop_sequence": 1,
@@ -4508,7 +4508,7 @@
       ]
     },
     {
-      "trip_id": "8_16464919",
+      "trip_id": "8_17535726",
       "direction_id": "1",
       "headsign": "Stadion Olimpijski",
       "service_id": "8",
@@ -4636,13 +4636,13 @@
           "stop_name": "Stadion Olimpijski",
           "arrival_time": "08:28:00",
           "departure_time": "08:28:00",
-          "lat": 51.11682539,
-          "lon": 17.09007458
+          "lat": 51.116942,
+          "lon": 17.09016741
         }
       ]
     },
     {
-      "trip_id": "8_16464920",
+      "trip_id": "8_17535727",
       "direction_id": "1",
       "headsign": "BARTOSZOWICE",
       "service_id": "8",
@@ -4653,8 +4653,8 @@
           "stop_name": "Stadion Olimpijski",
           "arrival_time": "09:00:00",
           "departure_time": "09:00:00",
-          "lat": 51.11682539,
-          "lon": 17.09007458
+          "lat": 51.116942,
+          "lon": 17.09016741
         },
         {
           "stop_sequence": 1,
@@ -4740,7 +4740,7 @@
       ]
     },
     {
-      "trip_id": "8_16464921",
+      "trip_id": "8_17535728",
       "direction_id": "1",
       "headsign": "Stadion Olimpijski",
       "service_id": "8",
@@ -4868,13 +4868,13 @@
           "stop_name": "Stadion Olimpijski",
           "arrival_time": "09:28:00",
           "departure_time": "09:28:00",
-          "lat": 51.11682539,
-          "lon": 17.09007458
+          "lat": 51.116942,
+          "lon": 17.09016741
         }
       ]
     },
     {
-      "trip_id": "8_16464922",
+      "trip_id": "8_17535729",
       "direction_id": "1",
       "headsign": "BARTOSZOWICE",
       "service_id": "8",
@@ -4885,8 +4885,8 @@
           "stop_name": "Stadion Olimpijski",
           "arrival_time": "09:40:00",
           "departure_time": "09:40:00",
-          "lat": 51.11682539,
-          "lon": 17.09007458
+          "lat": 51.116942,
+          "lon": 17.09016741
         },
         {
           "stop_sequence": 1,
@@ -4972,7 +4972,7 @@
       ]
     },
     {
-      "trip_id": "8_16464923",
+      "trip_id": "8_17535730",
       "direction_id": "1",
       "headsign": "Stadion Olimpijski",
       "service_id": "8",
@@ -5100,13 +5100,13 @@
           "stop_name": "Stadion Olimpijski",
           "arrival_time": "10:08:00",
           "departure_time": "10:08:00",
-          "lat": 51.11682539,
-          "lon": 17.09007458
+          "lat": 51.116942,
+          "lon": 17.09016741
         }
       ]
     },
     {
-      "trip_id": "8_16464924",
+      "trip_id": "8_17535731",
       "direction_id": "1",
       "headsign": "BARTOSZOWICE",
       "service_id": "8",
@@ -5117,8 +5117,8 @@
           "stop_name": "Stadion Olimpijski",
           "arrival_time": "10:20:00",
           "departure_time": "10:20:00",
-          "lat": 51.11682539,
-          "lon": 17.09007458
+          "lat": 51.116942,
+          "lon": 17.09016741
         },
         {
           "stop_sequence": 1,
@@ -5204,7 +5204,7 @@
       ]
     },
     {
-      "trip_id": "8_16464925",
+      "trip_id": "8_17535732",
       "direction_id": "1",
       "headsign": "Stadion Olimpijski",
       "service_id": "8",
@@ -5332,13 +5332,13 @@
           "stop_name": "Stadion Olimpijski",
           "arrival_time": "10:48:00",
           "departure_time": "10:48:00",
-          "lat": 51.11682539,
-          "lon": 17.09007458
+          "lat": 51.116942,
+          "lon": 17.09016741
         }
       ]
     },
     {
-      "trip_id": "8_16464926",
+      "trip_id": "8_17535733",
       "direction_id": "1",
       "headsign": "BARTOSZOWICE",
       "service_id": "8",
@@ -5349,8 +5349,8 @@
           "stop_name": "Stadion Olimpijski",
           "arrival_time": "11:00:00",
           "departure_time": "11:00:00",
-          "lat": 51.11682539,
-          "lon": 17.09007458
+          "lat": 51.116942,
+          "lon": 17.09016741
         },
         {
           "stop_sequence": 1,
@@ -5436,7 +5436,7 @@
       ]
     },
     {
-      "trip_id": "8_16464927",
+      "trip_id": "8_17535734",
       "direction_id": "1",
       "headsign": "Stadion Olimpijski",
       "service_id": "8",
@@ -5564,13 +5564,13 @@
           "stop_name": "Stadion Olimpijski",
           "arrival_time": "11:28:00",
           "departure_time": "11:28:00",
-          "lat": 51.11682539,
-          "lon": 17.09007458
+          "lat": 51.116942,
+          "lon": 17.09016741
         }
       ]
     },
     {
-      "trip_id": "8_16464928",
+      "trip_id": "8_17535735",
       "direction_id": "1",
       "headsign": "BARTOSZOWICE",
       "service_id": "8",
@@ -5581,8 +5581,8 @@
           "stop_name": "Stadion Olimpijski",
           "arrival_time": "11:40:00",
           "departure_time": "11:40:00",
-          "lat": 51.11682539,
-          "lon": 17.09007458
+          "lat": 51.116942,
+          "lon": 17.09016741
         },
         {
           "stop_sequence": 1,
@@ -5668,7 +5668,7 @@
       ]
     },
     {
-      "trip_id": "8_16464929",
+      "trip_id": "8_17535736",
       "direction_id": "1",
       "headsign": "Stadion Olimpijski",
       "service_id": "8",
@@ -5796,13 +5796,13 @@
           "stop_name": "Stadion Olimpijski",
           "arrival_time": "12:08:00",
           "departure_time": "12:08:00",
-          "lat": 51.11682539,
-          "lon": 17.09007458
+          "lat": 51.116942,
+          "lon": 17.09016741
         }
       ]
     },
     {
-      "trip_id": "8_16464930",
+      "trip_id": "8_17535737",
       "direction_id": "1",
       "headsign": "BARTOSZOWICE",
       "service_id": "8",
@@ -5813,8 +5813,8 @@
           "stop_name": "Stadion Olimpijski",
           "arrival_time": "12:20:00",
           "departure_time": "12:20:00",
-          "lat": 51.11682539,
-          "lon": 17.09007458
+          "lat": 51.116942,
+          "lon": 17.09016741
         },
         {
           "stop_sequence": 1,
@@ -5900,7 +5900,7 @@
       ]
     },
     {
-      "trip_id": "8_16464931",
+      "trip_id": "8_17535738",
       "direction_id": "1",
       "headsign": "Stadion Olimpijski",
       "service_id": "8",
@@ -6028,13 +6028,13 @@
           "stop_name": "Stadion Olimpijski",
           "arrival_time": "12:48:00",
           "departure_time": "12:48:00",
-          "lat": 51.11682539,
-          "lon": 17.09007458
+          "lat": 51.116942,
+          "lon": 17.09016741
         }
       ]
     },
     {
-      "trip_id": "8_16464932",
+      "trip_id": "8_17535739",
       "direction_id": "1",
       "headsign": "BARTOSZOWICE",
       "service_id": "8",
@@ -6045,8 +6045,8 @@
           "stop_name": "Stadion Olimpijski",
           "arrival_time": "13:20:00",
           "departure_time": "13:20:00",
-          "lat": 51.11682539,
-          "lon": 17.09007458
+          "lat": 51.116942,
+          "lon": 17.09016741
         },
         {
           "stop_sequence": 1,
@@ -6132,7 +6132,7 @@
       ]
     },
     {
-      "trip_id": "8_16464933",
+      "trip_id": "8_17535740",
       "direction_id": "1",
       "headsign": "Stadion Olimpijski",
       "service_id": "8",
@@ -6260,13 +6260,13 @@
           "stop_name": "Stadion Olimpijski",
           "arrival_time": "13:48:00",
           "departure_time": "13:48:00",
-          "lat": 51.11682539,
-          "lon": 17.09007458
+          "lat": 51.116942,
+          "lon": 17.09016741
         }
       ]
     },
     {
-      "trip_id": "8_16464934",
+      "trip_id": "8_17535741",
       "direction_id": "1",
       "headsign": "BARTOSZOWICE",
       "service_id": "8",
@@ -6277,8 +6277,8 @@
           "stop_name": "Stadion Olimpijski",
           "arrival_time": "14:00:00",
           "departure_time": "14:00:00",
-          "lat": 51.11682539,
-          "lon": 17.09007458
+          "lat": 51.116942,
+          "lon": 17.09016741
         },
         {
           "stop_sequence": 1,
@@ -6364,7 +6364,7 @@
       ]
     },
     {
-      "trip_id": "8_16464935",
+      "trip_id": "8_17535742",
       "direction_id": "1",
       "headsign": "Stadion Olimpijski",
       "service_id": "8",
@@ -6492,13 +6492,13 @@
           "stop_name": "Stadion Olimpijski",
           "arrival_time": "14:28:00",
           "departure_time": "14:28:00",
-          "lat": 51.11682539,
-          "lon": 17.09007458
+          "lat": 51.116942,
+          "lon": 17.09016741
         }
       ]
     },
     {
-      "trip_id": "8_16464936",
+      "trip_id": "8_17535743",
       "direction_id": "1",
       "headsign": "BARTOSZOWICE",
       "service_id": "8",
@@ -6509,8 +6509,8 @@
           "stop_name": "Stadion Olimpijski",
           "arrival_time": "14:40:00",
           "departure_time": "14:40:00",
-          "lat": 51.11682539,
-          "lon": 17.09007458
+          "lat": 51.116942,
+          "lon": 17.09016741
         },
         {
           "stop_sequence": 1,
@@ -6596,7 +6596,7 @@
       ]
     },
     {
-      "trip_id": "8_16464937",
+      "trip_id": "8_17535744",
       "direction_id": "1",
       "headsign": "Stadion Olimpijski",
       "service_id": "8",
@@ -6724,13 +6724,13 @@
           "stop_name": "Stadion Olimpijski",
           "arrival_time": "15:08:00",
           "departure_time": "15:08:00",
-          "lat": 51.11682539,
-          "lon": 17.09007458
+          "lat": 51.116942,
+          "lon": 17.09016741
         }
       ]
     },
     {
-      "trip_id": "8_16464938",
+      "trip_id": "8_17535745",
       "direction_id": "1",
       "headsign": "BARTOSZOWICE",
       "service_id": "8",
@@ -6741,8 +6741,8 @@
           "stop_name": "Stadion Olimpijski",
           "arrival_time": "15:20:00",
           "departure_time": "15:20:00",
-          "lat": 51.11682539,
-          "lon": 17.09007458
+          "lat": 51.116942,
+          "lon": 17.09016741
         },
         {
           "stop_sequence": 1,
@@ -6828,7 +6828,7 @@
       ]
     },
     {
-      "trip_id": "8_16464939",
+      "trip_id": "8_17535746",
       "direction_id": "1",
       "headsign": "Stadion Olimpijski",
       "service_id": "8",
@@ -6956,13 +6956,13 @@
           "stop_name": "Stadion Olimpijski",
           "arrival_time": "15:48:00",
           "departure_time": "15:48:00",
-          "lat": 51.11682539,
-          "lon": 17.09007458
+          "lat": 51.116942,
+          "lon": 17.09016741
         }
       ]
     },
     {
-      "trip_id": "8_16464940",
+      "trip_id": "8_17535747",
       "direction_id": "1",
       "headsign": "BARTOSZOWICE",
       "service_id": "8",
@@ -6973,8 +6973,8 @@
           "stop_name": "Stadion Olimpijski",
           "arrival_time": "16:00:00",
           "departure_time": "16:00:00",
-          "lat": 51.11682539,
-          "lon": 17.09007458
+          "lat": 51.116942,
+          "lon": 17.09016741
         },
         {
           "stop_sequence": 1,
@@ -7060,7 +7060,7 @@
       ]
     },
     {
-      "trip_id": "8_16464941",
+      "trip_id": "8_17535748",
       "direction_id": "1",
       "headsign": "Stadion Olimpijski",
       "service_id": "8",
@@ -7188,13 +7188,13 @@
           "stop_name": "Stadion Olimpijski",
           "arrival_time": "16:28:00",
           "departure_time": "16:28:00",
-          "lat": 51.11682539,
-          "lon": 17.09007458
+          "lat": 51.116942,
+          "lon": 17.09016741
         }
       ]
     },
     {
-      "trip_id": "8_16464942",
+      "trip_id": "8_17535749",
       "direction_id": "1",
       "headsign": "BARTOSZOWICE",
       "service_id": "8",
@@ -7205,8 +7205,8 @@
           "stop_name": "Stadion Olimpijski",
           "arrival_time": "16:40:00",
           "departure_time": "16:40:00",
-          "lat": 51.11682539,
-          "lon": 17.09007458
+          "lat": 51.116942,
+          "lon": 17.09016741
         },
         {
           "stop_sequence": 1,
@@ -7292,7 +7292,7 @@
       ]
     },
     {
-      "trip_id": "8_16464943",
+      "trip_id": "8_17535750",
       "direction_id": "1",
       "headsign": "Stadion Olimpijski",
       "service_id": "8",
@@ -7420,13 +7420,13 @@
           "stop_name": "Stadion Olimpijski",
           "arrival_time": "17:08:00",
           "departure_time": "17:08:00",
-          "lat": 51.11682539,
-          "lon": 17.09007458
+          "lat": 51.116942,
+          "lon": 17.09016741
         }
       ]
     },
     {
-      "trip_id": "8_16464944",
+      "trip_id": "8_17535751",
       "direction_id": "1",
       "headsign": "BARTOSZOWICE",
       "service_id": "8",
@@ -7437,8 +7437,8 @@
           "stop_name": "Stadion Olimpijski",
           "arrival_time": "17:30:00",
           "departure_time": "17:30:00",
-          "lat": 51.11682539,
-          "lon": 17.09007458
+          "lat": 51.116942,
+          "lon": 17.09016741
         },
         {
           "stop_sequence": 1,
@@ -7524,7 +7524,7 @@
       ]
     },
     {
-      "trip_id": "8_16464945",
+      "trip_id": "8_17535752",
       "direction_id": "1",
       "headsign": "Stadion Olimpijski",
       "service_id": "8",
@@ -7652,13 +7652,13 @@
           "stop_name": "Stadion Olimpijski",
           "arrival_time": "17:58:00",
           "departure_time": "17:58:00",
-          "lat": 51.11682539,
-          "lon": 17.09007458
+          "lat": 51.116942,
+          "lon": 17.09016741
         }
       ]
     },
     {
-      "trip_id": "8_16464946",
+      "trip_id": "8_17535753",
       "direction_id": "1",
       "headsign": "BARTOSZOWICE",
       "service_id": "8",
@@ -7669,8 +7669,8 @@
           "stop_name": "Stadion Olimpijski",
           "arrival_time": "18:10:00",
           "departure_time": "18:10:00",
-          "lat": 51.11682539,
-          "lon": 17.09007458
+          "lat": 51.116942,
+          "lon": 17.09016741
         },
         {
           "stop_sequence": 1,
@@ -7756,7 +7756,7 @@
       ]
     },
     {
-      "trip_id": "8_16464947",
+      "trip_id": "8_17535754",
       "direction_id": "1",
       "headsign": "Stadion Olimpijski",
       "service_id": "8",
@@ -7884,8 +7884,8 @@
           "stop_name": "Stadion Olimpijski",
           "arrival_time": "18:37:00",
           "departure_time": "18:37:00",
-          "lat": 51.11682539,
-          "lon": 17.09007458
+          "lat": 51.116942,
+          "lon": 17.09016741
         }
       ]
     }
