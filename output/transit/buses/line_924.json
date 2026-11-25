@@ -2,7 +2,7 @@
   "line": "924",
   "trips": [
     {
-      "trip_id": "3_17617968",
+      "trip_id": "3_17636643",
       "direction_id": "1",
       "headsign": "Stępin - Kościół",
       "service_id": "3",
@@ -10,7 +10,7 @@
         {
           "stop_sequence": 0,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "05:43:00",
           "departure_time": "05:43:00",
           "lat": 51.10891574,
@@ -325,7 +325,7 @@
       ]
     },
     {
-      "trip_id": "3_17617969",
+      "trip_id": "3_17636644",
       "direction_id": "0",
       "headsign": "GALERIA DOMINIKAŃSKA",
       "service_id": "3",
@@ -657,7 +657,7 @@
         {
           "stop_sequence": 36,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "07:40:00",
           "departure_time": "07:40:00",
           "lat": 51.10891574,
@@ -666,7 +666,7 @@
       ]
     },
     {
-      "trip_id": "3_17617972",
+      "trip_id": "3_17636647",
       "direction_id": "1",
       "headsign": "Stępin - Kościół",
       "service_id": "3",
@@ -674,7 +674,7 @@
         {
           "stop_sequence": 0,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "10:38:00",
           "departure_time": "10:38:00",
           "lat": 51.10891574,
@@ -989,7 +989,7 @@
       ]
     },
     {
-      "trip_id": "3_17617973",
+      "trip_id": "3_17636648",
       "direction_id": "0",
       "headsign": "GALERIA DOMINIKAŃSKA",
       "service_id": "3",
@@ -1321,7 +1321,7 @@
         {
           "stop_sequence": 36,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "12:39:00",
           "departure_time": "12:39:00",
           "lat": 51.10891574,
@@ -1330,7 +1330,7 @@
       ]
     },
     {
-      "trip_id": "3_17617974",
+      "trip_id": "3_17636649",
       "direction_id": "1",
       "headsign": "Kamień - Diamentowa",
       "service_id": "3",
@@ -1338,7 +1338,7 @@
         {
           "stop_sequence": 0,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "12:53:00",
           "departure_time": "12:53:00",
           "lat": 51.10891574,
@@ -1608,7 +1608,7 @@
       ]
     },
     {
-      "trip_id": "3_17617975",
+      "trip_id": "3_17636650",
       "direction_id": "0",
       "headsign": "GALERIA DOMINIKAŃSKA",
       "service_id": "3",
@@ -1895,7 +1895,7 @@
         {
           "stop_sequence": 31,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "15:05:00",
           "departure_time": "15:05:00",
           "lat": 51.10891574,
@@ -1904,7 +1904,7 @@
       ]
     },
     {
-      "trip_id": "3_17617976",
+      "trip_id": "3_17636651",
       "direction_id": "1",
       "headsign": "Stępin - Kościół",
       "service_id": "3",
@@ -1912,7 +1912,7 @@
         {
           "stop_sequence": 0,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "15:23:00",
           "departure_time": "15:23:00",
           "lat": 51.10891574,
@@ -2227,7 +2227,7 @@
       ]
     },
     {
-      "trip_id": "3_17617977",
+      "trip_id": "3_17636652",
       "direction_id": "0",
       "headsign": "GALERIA DOMINIKAŃSKA",
       "service_id": "3",
@@ -2559,7 +2559,7 @@
         {
           "stop_sequence": 36,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "17:39:00",
           "departure_time": "17:39:00",
           "lat": 51.10891574,
@@ -2568,7 +2568,7 @@
       ]
     },
     {
-      "trip_id": "3_17617980",
+      "trip_id": "3_17636655",
       "direction_id": "1",
       "headsign": "Stępin - Kościół",
       "service_id": "3",
@@ -2576,7 +2576,7 @@
         {
           "stop_sequence": 0,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "20:38:00",
           "departure_time": "20:38:00",
           "lat": 51.10891574,
@@ -2891,7 +2891,7 @@
       ]
     },
     {
-      "trip_id": "3_17617981",
+      "trip_id": "3_17636656",
       "direction_id": "0",
       "headsign": "GALERIA DOMINIKAŃSKA",
       "service_id": "3",
@@ -3223,7 +3223,7 @@
         {
           "stop_sequence": 36,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "22:29:00",
           "departure_time": "22:29:00",
           "lat": 51.10891574,
@@ -3232,7 +3232,7 @@
       ]
     },
     {
-      "trip_id": "3_17617983",
+      "trip_id": "3_17636658",
       "direction_id": "0",
       "headsign": "GALERIA DOMINIKAŃSKA",
       "service_id": "3",
@@ -3564,7 +3564,7 @@
         {
           "stop_sequence": 36,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "06:15:00",
           "departure_time": "06:15:00",
           "lat": 51.10891574,
@@ -3573,7 +3573,7 @@
       ]
     },
     {
-      "trip_id": "3_17617984",
+      "trip_id": "3_17636659",
       "direction_id": "1",
       "headsign": "Stępin - Kościół",
       "service_id": "3",
@@ -3581,7 +3581,7 @@
         {
           "stop_sequence": 0,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "06:43:00",
           "departure_time": "06:43:00",
           "lat": 51.10891574,
@@ -3896,7 +3896,7 @@
       ]
     },
     {
-      "trip_id": "3_17617985",
+      "trip_id": "3_17636660",
       "direction_id": "0",
       "headsign": "GALERIA DOMINIKAŃSKA",
       "service_id": "3",
@@ -4228,7 +4228,7 @@
         {
           "stop_sequence": 36,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "08:40:00",
           "departure_time": "08:40:00",
           "lat": 51.10891574,
@@ -4237,7 +4237,7 @@
       ]
     },
     {
-      "trip_id": "3_17617994",
+      "trip_id": "3_17636669",
       "direction_id": "1",
       "headsign": "Stępin - Kościół",
       "service_id": "3",
@@ -4245,7 +4245,7 @@
         {
           "stop_sequence": 0,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "18:38:00",
           "departure_time": "18:38:00",
           "lat": 51.10891574,
@@ -4560,7 +4560,7 @@
       ]
     },
     {
-      "trip_id": "3_17617995",
+      "trip_id": "3_17636670",
       "direction_id": "0",
       "headsign": "GALERIA DOMINIKAŃSKA",
       "service_id": "3",
@@ -4892,7 +4892,7 @@
         {
           "stop_sequence": 36,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "20:33:00",
           "departure_time": "20:33:00",
           "lat": 51.10891574,
@@ -4901,7 +4901,7 @@
       ]
     },
     {
-      "trip_id": "3_17617998",
+      "trip_id": "3_17636673",
       "direction_id": "1",
       "headsign": "Stępin - Kościół",
       "service_id": "3",
@@ -4909,7 +4909,7 @@
         {
           "stop_sequence": 0,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "23:27:00",
           "departure_time": "23:27:00",
           "lat": 51.10891574,
@@ -5224,7 +5224,7 @@
       ]
     },
     {
-      "trip_id": "3_17618099",
+      "trip_id": "3_17636774",
       "direction_id": "1",
       "headsign": "Stępin - Kościół",
       "service_id": "3",
@@ -5232,7 +5232,7 @@
         {
           "stop_sequence": 0,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "07:43:00",
           "departure_time": "07:43:00",
           "lat": 51.10891574,
@@ -5547,7 +5547,7 @@
       ]
     },
     {
-      "trip_id": "3_17618100",
+      "trip_id": "3_17636775",
       "direction_id": "0",
       "headsign": "GALERIA DOMINIKAŃSKA",
       "service_id": "3",
@@ -5879,7 +5879,7 @@
         {
           "stop_sequence": 36,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "09:40:00",
           "departure_time": "09:40:00",
           "lat": 51.10891574,
@@ -5888,7 +5888,7 @@
       ]
     },
     {
-      "trip_id": "3_17618107",
+      "trip_id": "3_17636782",
       "direction_id": "0",
       "headsign": "GALERIA DOMINIKAŃSKA",
       "service_id": "3",
@@ -6175,7 +6175,7 @@
         {
           "stop_sequence": 31,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "11:05:00",
           "departure_time": "11:05:00",
           "lat": 51.10891574,
@@ -6184,7 +6184,7 @@
       ]
     },
     {
-      "trip_id": "3_17618108",
+      "trip_id": "3_17636783",
       "direction_id": "1",
       "headsign": "Stępin - Kościół",
       "service_id": "3",
@@ -6192,7 +6192,7 @@
         {
           "stop_sequence": 0,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "11:23:00",
           "departure_time": "11:23:00",
           "lat": 51.10891574,
@@ -6507,7 +6507,7 @@
       ]
     },
     {
-      "trip_id": "3_17618109",
+      "trip_id": "3_17636784",
       "direction_id": "0",
       "headsign": "GALERIA DOMINIKAŃSKA",
       "service_id": "3",
@@ -6839,7 +6839,7 @@
         {
           "stop_sequence": 36,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "13:39:00",
           "departure_time": "13:39:00",
           "lat": 51.10891574,
@@ -6848,7 +6848,7 @@
       ]
     },
     {
-      "trip_id": "3_17618110",
+      "trip_id": "3_17636785",
       "direction_id": "1",
       "headsign": "Kamień - Diamentowa",
       "service_id": "3",
@@ -6856,7 +6856,7 @@
         {
           "stop_sequence": 0,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "13:53:00",
           "departure_time": "13:53:00",
           "lat": 51.10891574,
@@ -7126,7 +7126,7 @@
       ]
     },
     {
-      "trip_id": "3_17618111",
+      "trip_id": "3_17636786",
       "direction_id": "0",
       "headsign": "GALERIA DOMINIKAŃSKA",
       "service_id": "3",
@@ -7413,7 +7413,7 @@
         {
           "stop_sequence": 31,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "16:05:00",
           "departure_time": "16:05:00",
           "lat": 51.10891574,
@@ -7422,7 +7422,7 @@
       ]
     },
     {
-      "trip_id": "3_17618112",
+      "trip_id": "3_17636787",
       "direction_id": "1",
       "headsign": "Stępin - Kościół",
       "service_id": "3",
@@ -7430,7 +7430,7 @@
         {
           "stop_sequence": 0,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "16:23:00",
           "departure_time": "16:23:00",
           "lat": 51.10891574,
@@ -7745,7 +7745,7 @@
       ]
     },
     {
-      "trip_id": "3_17618113",
+      "trip_id": "3_17636788",
       "direction_id": "0",
       "headsign": "GALERIA DOMINIKAŃSKA",
       "service_id": "3",
@@ -8077,7 +8077,7 @@
         {
           "stop_sequence": 36,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "18:39:00",
           "departure_time": "18:39:00",
           "lat": 51.10891574,
@@ -8086,7 +8086,7 @@
       ]
     },
     {
-      "trip_id": "3_17618307",
+      "trip_id": "3_17636987",
       "direction_id": "1",
       "headsign": "Stępin - Kościół",
       "service_id": "3",
@@ -8094,7 +8094,7 @@
         {
           "stop_sequence": 0,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "09:38:00",
           "departure_time": "09:38:00",
           "lat": 51.10891574,
@@ -8409,7 +8409,7 @@
       ]
     },
     {
-      "trip_id": "3_17618308",
+      "trip_id": "3_17636988",
       "direction_id": "0",
       "headsign": "GALERIA DOMINIKAŃSKA",
       "service_id": "3",
@@ -8741,7 +8741,7 @@
         {
           "stop_sequence": 36,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "11:39:00",
           "departure_time": "11:39:00",
           "lat": 51.10891574,
@@ -8750,7 +8750,7 @@
       ]
     },
     {
-      "trip_id": "3_17618309",
+      "trip_id": "3_17636989",
       "direction_id": "1",
       "headsign": "Kamień - Diamentowa",
       "service_id": "3",
@@ -8758,7 +8758,7 @@
         {
           "stop_sequence": 0,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "11:53:00",
           "departure_time": "11:53:00",
           "lat": 51.10891574,
@@ -9028,7 +9028,7 @@
       ]
     },
     {
-      "trip_id": "3_17618310",
+      "trip_id": "3_17636990",
       "direction_id": "0",
       "headsign": "GALERIA DOMINIKAŃSKA",
       "service_id": "3",
@@ -9315,7 +9315,7 @@
         {
           "stop_sequence": 31,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "14:05:00",
           "departure_time": "14:05:00",
           "lat": 51.10891574,
@@ -9324,7 +9324,7 @@
       ]
     },
     {
-      "trip_id": "3_17618311",
+      "trip_id": "3_17636991",
       "direction_id": "1",
       "headsign": "Stępin - Kościół",
       "service_id": "3",
@@ -9332,7 +9332,7 @@
         {
           "stop_sequence": 0,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "14:23:00",
           "departure_time": "14:23:00",
           "lat": 51.10891574,
@@ -9647,7 +9647,7 @@
       ]
     },
     {
-      "trip_id": "3_17618312",
+      "trip_id": "3_17636992",
       "direction_id": "0",
       "headsign": "GALERIA DOMINIKAŃSKA",
       "service_id": "3",
@@ -9979,7 +9979,7 @@
         {
           "stop_sequence": 36,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "16:39:00",
           "departure_time": "16:39:00",
           "lat": 51.10891574,
@@ -9988,7 +9988,7 @@
       ]
     },
     {
-      "trip_id": "3_17618313",
+      "trip_id": "3_17636993",
       "direction_id": "1",
       "headsign": "Kamień - Diamentowa",
       "service_id": "3",
@@ -9996,7 +9996,7 @@
         {
           "stop_sequence": 0,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "16:53:00",
           "departure_time": "16:53:00",
           "lat": 51.10891574,
@@ -10266,7 +10266,7 @@
       ]
     },
     {
-      "trip_id": "3_17618316",
+      "trip_id": "3_17636996",
       "direction_id": "1",
       "headsign": "Stępin - Kościół",
       "service_id": "3",
@@ -10274,7 +10274,7 @@
         {
           "stop_sequence": 0,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "08:42:00",
           "departure_time": "08:42:00",
           "lat": 51.10891574,
@@ -10589,7 +10589,7 @@
       ]
     },
     {
-      "trip_id": "3_17618317",
+      "trip_id": "3_17636997",
       "direction_id": "0",
       "headsign": "GALERIA DOMINIKAŃSKA",
       "service_id": "3",
@@ -10921,7 +10921,7 @@
         {
           "stop_sequence": 36,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "10:40:00",
           "departure_time": "10:40:00",
           "lat": 51.10891574,
@@ -10930,7 +10930,7 @@
       ]
     },
     {
-      "trip_id": "3_17618318",
+      "trip_id": "3_17636998",
       "direction_id": "1",
       "headsign": "Kamień - Diamentowa",
       "service_id": "3",
@@ -10938,7 +10938,7 @@
         {
           "stop_sequence": 0,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "10:53:00",
           "departure_time": "10:53:00",
           "lat": 51.10891574,
@@ -11208,7 +11208,7 @@
       ]
     },
     {
-      "trip_id": "3_17618319",
+      "trip_id": "3_17636999",
       "direction_id": "0",
       "headsign": "GALERIA DOMINIKAŃSKA",
       "service_id": "3",
@@ -11495,7 +11495,7 @@
         {
           "stop_sequence": 31,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "13:05:00",
           "departure_time": "13:05:00",
           "lat": 51.10891574,
@@ -11504,7 +11504,7 @@
       ]
     },
     {
-      "trip_id": "3_17618320",
+      "trip_id": "3_17637000",
       "direction_id": "1",
       "headsign": "Stępin - Kościół",
       "service_id": "3",
@@ -11512,7 +11512,7 @@
         {
           "stop_sequence": 0,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "13:23:00",
           "departure_time": "13:23:00",
           "lat": 51.10891574,
@@ -11827,7 +11827,7 @@
       ]
     },
     {
-      "trip_id": "3_17618321",
+      "trip_id": "3_17637001",
       "direction_id": "0",
       "headsign": "GALERIA DOMINIKAŃSKA",
       "service_id": "3",
@@ -12159,7 +12159,7 @@
         {
           "stop_sequence": 36,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "15:39:00",
           "departure_time": "15:39:00",
           "lat": 51.10891574,
@@ -12168,7 +12168,7 @@
       ]
     },
     {
-      "trip_id": "3_17618322",
+      "trip_id": "3_17637002",
       "direction_id": "1",
       "headsign": "Kamień - Diamentowa",
       "service_id": "3",
@@ -12176,7 +12176,7 @@
         {
           "stop_sequence": 0,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "15:53:00",
           "departure_time": "15:53:00",
           "lat": 51.10891574,
@@ -12446,7 +12446,7 @@
       ]
     },
     {
-      "trip_id": "3_17618323",
+      "trip_id": "3_17637003",
       "direction_id": "0",
       "headsign": "GALERIA DOMINIKAŃSKA",
       "service_id": "3",
@@ -12733,7 +12733,7 @@
         {
           "stop_sequence": 31,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "18:05:00",
           "departure_time": "18:05:00",
           "lat": 51.10891574,
@@ -12742,7 +12742,7 @@
       ]
     },
     {
-      "trip_id": "3_17618324",
+      "trip_id": "3_17637004",
       "direction_id": "0",
       "headsign": "GALERIA DOMINIKAŃSKA",
       "service_id": "3",
@@ -13029,7 +13029,7 @@
         {
           "stop_sequence": 31,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "12:05:00",
           "departure_time": "12:05:00",
           "lat": 51.10891574,
@@ -13038,7 +13038,7 @@
       ]
     },
     {
-      "trip_id": "3_17618325",
+      "trip_id": "3_17637005",
       "direction_id": "1",
       "headsign": "Stępin - Kościół",
       "service_id": "3",
@@ -13046,7 +13046,7 @@
         {
           "stop_sequence": 0,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "12:23:00",
           "departure_time": "12:23:00",
           "lat": 51.10891574,
@@ -13361,7 +13361,7 @@
       ]
     },
     {
-      "trip_id": "3_17618326",
+      "trip_id": "3_17637006",
       "direction_id": "0",
       "headsign": "GALERIA DOMINIKAŃSKA",
       "service_id": "3",
@@ -13693,7 +13693,7 @@
         {
           "stop_sequence": 36,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "14:39:00",
           "departure_time": "14:39:00",
           "lat": 51.10891574,
@@ -13702,7 +13702,7 @@
       ]
     },
     {
-      "trip_id": "3_17618327",
+      "trip_id": "3_17637007",
       "direction_id": "1",
       "headsign": "Kamień - Diamentowa",
       "service_id": "3",
@@ -13710,7 +13710,7 @@
         {
           "stop_sequence": 0,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "14:53:00",
           "departure_time": "14:53:00",
           "lat": 51.10891574,
@@ -13980,7 +13980,7 @@
       ]
     },
     {
-      "trip_id": "3_17618328",
+      "trip_id": "3_17637008",
       "direction_id": "0",
       "headsign": "GALERIA DOMINIKAŃSKA",
       "service_id": "3",
@@ -14267,7 +14267,7 @@
         {
           "stop_sequence": 31,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "17:05:00",
           "departure_time": "17:05:00",
           "lat": 51.10891574,
@@ -14276,7 +14276,7 @@
       ]
     },
     {
-      "trip_id": "3_17618329",
+      "trip_id": "3_17637009",
       "direction_id": "1",
       "headsign": "Stępin - Kościół",
       "service_id": "3",
@@ -14284,7 +14284,7 @@
         {
           "stop_sequence": 0,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "17:38:00",
           "departure_time": "17:38:00",
           "lat": 51.10891574,
@@ -14599,7 +14599,7 @@
       ]
     },
     {
-      "trip_id": "3_17618330",
+      "trip_id": "3_17637010",
       "direction_id": "0",
       "headsign": "GALERIA DOMINIKAŃSKA",
       "service_id": "3",
@@ -14931,7 +14931,7 @@
         {
           "stop_sequence": 36,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "19:39:00",
           "departure_time": "19:39:00",
           "lat": 51.10891574,
@@ -14940,7 +14940,7 @@
       ]
     },
     {
-      "trip_id": "3_17618333",
+      "trip_id": "3_17637013",
       "direction_id": "1",
       "headsign": "Stępin - Kościół",
       "service_id": "3",
@@ -14948,7 +14948,7 @@
         {
           "stop_sequence": 0,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "22:27:00",
           "departure_time": "22:27:00",
           "lat": 51.10891574,
@@ -15263,7 +15263,7 @@
       ]
     },
     {
-      "trip_id": "3_17618511",
+      "trip_id": "3_17637186",
       "direction_id": "1",
       "headsign": "Stępin - Kościół",
       "service_id": "3",
@@ -15271,7 +15271,7 @@
         {
           "stop_sequence": 0,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "21:27:00",
           "departure_time": "21:27:00",
           "lat": 51.10891574,
@@ -15586,7 +15586,7 @@
       ]
     },
     {
-      "trip_id": "3_17618512",
+      "trip_id": "3_17637187",
       "direction_id": "0",
       "headsign": "GALERIA DOMINIKAŃSKA",
       "service_id": "3",
@@ -15918,7 +15918,7 @@
         {
           "stop_sequence": 36,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "23:30:00",
           "departure_time": "23:30:00",
           "lat": 51.10891574,
@@ -15927,7 +15927,7 @@
       ]
     },
     {
-      "trip_id": "3_17618529",
+      "trip_id": "3_17637204",
       "direction_id": "1",
       "headsign": "Stępin - Kościół",
       "service_id": "3",
@@ -15935,7 +15935,7 @@
         {
           "stop_sequence": 0,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "19:38:00",
           "departure_time": "19:38:00",
           "lat": 51.10891574,
@@ -16250,7 +16250,7 @@
       ]
     },
     {
-      "trip_id": "3_17618530",
+      "trip_id": "3_17637205",
       "direction_id": "0",
       "headsign": "GALERIA DOMINIKAŃSKA",
       "service_id": "3",
@@ -16582,7 +16582,7 @@
         {
           "stop_sequence": 36,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "21:29:00",
           "departure_time": "21:29:00",
           "lat": 51.10891574,
@@ -16591,7 +16591,7 @@
       ]
     },
     {
-      "trip_id": "4_17618632",
+      "trip_id": "4_17637307",
       "direction_id": "0",
       "headsign": "GALERIA DOMINIKAŃSKA",
       "service_id": "4",
@@ -16923,7 +16923,7 @@
         {
           "stop_sequence": 36,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "06:15:00",
           "departure_time": "06:15:00",
           "lat": 51.10891574,
@@ -16932,7 +16932,7 @@
       ]
     },
     {
-      "trip_id": "4_17618633",
+      "trip_id": "4_17637308",
       "direction_id": "1",
       "headsign": "Stępin - Kościół",
       "service_id": "4",
@@ -16940,7 +16940,7 @@
         {
           "stop_sequence": 0,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "06:43:00",
           "departure_time": "06:43:00",
           "lat": 51.10891574,
@@ -17255,7 +17255,7 @@
       ]
     },
     {
-      "trip_id": "4_17618634",
+      "trip_id": "4_17637309",
       "direction_id": "0",
       "headsign": "GALERIA DOMINIKAŃSKA",
       "service_id": "4",
@@ -17587,7 +17587,7 @@
         {
           "stop_sequence": 36,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "08:40:00",
           "departure_time": "08:40:00",
           "lat": 51.10891574,
@@ -17596,7 +17596,7 @@
       ]
     },
     {
-      "trip_id": "4_17618637",
+      "trip_id": "4_17637312",
       "direction_id": "1",
       "headsign": "Stępin - Kościół",
       "service_id": "4",
@@ -17604,7 +17604,7 @@
         {
           "stop_sequence": 0,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "11:38:00",
           "departure_time": "11:38:00",
           "lat": 51.10891574,
@@ -17919,7 +17919,7 @@
       ]
     },
     {
-      "trip_id": "4_17618638",
+      "trip_id": "4_17637313",
       "direction_id": "0",
       "headsign": "GALERIA DOMINIKAŃSKA",
       "service_id": "4",
@@ -18251,7 +18251,7 @@
         {
           "stop_sequence": 36,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "13:39:00",
           "departure_time": "13:39:00",
           "lat": 51.10891574,
@@ -18260,7 +18260,7 @@
       ]
     },
     {
-      "trip_id": "4_17618880",
+      "trip_id": "4_17637555",
       "direction_id": "1",
       "headsign": "Stępin - Kościół",
       "service_id": "4",
@@ -18268,7 +18268,7 @@
         {
           "stop_sequence": 0,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "16:38:00",
           "departure_time": "16:38:00",
           "lat": 51.10891574,
@@ -18583,7 +18583,7 @@
       ]
     },
     {
-      "trip_id": "4_17618881",
+      "trip_id": "4_17637556",
       "direction_id": "0",
       "headsign": "GALERIA DOMINIKAŃSKA",
       "service_id": "4",
@@ -18915,7 +18915,7 @@
         {
           "stop_sequence": 36,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "18:39:00",
           "departure_time": "18:39:00",
           "lat": 51.10891574,
@@ -18924,7 +18924,7 @@
       ]
     },
     {
-      "trip_id": "4_17618884",
+      "trip_id": "4_17637559",
       "direction_id": "1",
       "headsign": "Stępin - Kościół",
       "service_id": "4",
@@ -18932,7 +18932,7 @@
         {
           "stop_sequence": 0,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "21:27:00",
           "departure_time": "21:27:00",
           "lat": 51.10891574,
@@ -19247,7 +19247,7 @@
       ]
     },
     {
-      "trip_id": "4_17618885",
+      "trip_id": "4_17637560",
       "direction_id": "0",
       "headsign": "GALERIA DOMINIKAŃSKA",
       "service_id": "4",
@@ -19579,7 +19579,7 @@
         {
           "stop_sequence": 36,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "23:30:00",
           "departure_time": "23:30:00",
           "lat": 51.10891574,
@@ -19588,7 +19588,7 @@
       ]
     },
     {
-      "trip_id": "4_17618890",
+      "trip_id": "4_17637565",
       "direction_id": "1",
       "headsign": "Stępin - Kościół",
       "service_id": "4",
@@ -19596,7 +19596,7 @@
         {
           "stop_sequence": 0,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "09:38:00",
           "departure_time": "09:38:00",
           "lat": 51.10891574,
@@ -19911,7 +19911,7 @@
       ]
     },
     {
-      "trip_id": "4_17618891",
+      "trip_id": "4_17637566",
       "direction_id": "0",
       "headsign": "GALERIA DOMINIKAŃSKA",
       "service_id": "4",
@@ -20243,7 +20243,7 @@
         {
           "stop_sequence": 36,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "11:39:00",
           "departure_time": "11:39:00",
           "lat": 51.10891574,
@@ -20252,7 +20252,7 @@
       ]
     },
     {
-      "trip_id": "4_17618894",
+      "trip_id": "4_17637569",
       "direction_id": "1",
       "headsign": "Stępin - Kościół",
       "service_id": "4",
@@ -20260,7 +20260,7 @@
         {
           "stop_sequence": 0,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "14:38:00",
           "departure_time": "14:38:00",
           "lat": 51.10891574,
@@ -20575,7 +20575,7 @@
       ]
     },
     {
-      "trip_id": "4_17618895",
+      "trip_id": "4_17637570",
       "direction_id": "0",
       "headsign": "GALERIA DOMINIKAŃSKA",
       "service_id": "4",
@@ -20907,7 +20907,7 @@
         {
           "stop_sequence": 36,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "16:39:00",
           "departure_time": "16:39:00",
           "lat": 51.10891574,
@@ -20916,7 +20916,7 @@
       ]
     },
     {
-      "trip_id": "4_17618898",
+      "trip_id": "4_17637573",
       "direction_id": "1",
       "headsign": "Stępin - Kościół",
       "service_id": "4",
@@ -20924,7 +20924,7 @@
         {
           "stop_sequence": 0,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "19:38:00",
           "departure_time": "19:38:00",
           "lat": 51.10891574,
@@ -21239,7 +21239,7 @@
       ]
     },
     {
-      "trip_id": "4_17618899",
+      "trip_id": "4_17637574",
       "direction_id": "0",
       "headsign": "GALERIA DOMINIKAŃSKA",
       "service_id": "4",
@@ -21571,7 +21571,7 @@
         {
           "stop_sequence": 36,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "21:29:00",
           "departure_time": "21:29:00",
           "lat": 51.10891574,
@@ -21580,7 +21580,7 @@
       ]
     },
     {
-      "trip_id": "4_17618903",
+      "trip_id": "4_17637578",
       "direction_id": "1",
       "headsign": "Stępin - Kościół",
       "service_id": "4",
@@ -21588,7 +21588,7 @@
         {
           "stop_sequence": 0,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "07:43:00",
           "departure_time": "07:43:00",
           "lat": 51.10891574,
@@ -21903,7 +21903,7 @@
       ]
     },
     {
-      "trip_id": "4_17618904",
+      "trip_id": "4_17637579",
       "direction_id": "0",
       "headsign": "GALERIA DOMINIKAŃSKA",
       "service_id": "4",
@@ -22235,7 +22235,7 @@
         {
           "stop_sequence": 36,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "09:40:00",
           "departure_time": "09:40:00",
           "lat": 51.10891574,
@@ -22244,7 +22244,7 @@
       ]
     },
     {
-      "trip_id": "4_17618907",
+      "trip_id": "4_17637582",
       "direction_id": "1",
       "headsign": "Stępin - Kościół",
       "service_id": "4",
@@ -22252,7 +22252,7 @@
         {
           "stop_sequence": 0,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "12:38:00",
           "departure_time": "12:38:00",
           "lat": 51.10891574,
@@ -22567,7 +22567,7 @@
       ]
     },
     {
-      "trip_id": "4_17618908",
+      "trip_id": "4_17637583",
       "direction_id": "0",
       "headsign": "GALERIA DOMINIKAŃSKA",
       "service_id": "4",
@@ -22899,7 +22899,7 @@
         {
           "stop_sequence": 36,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "14:39:00",
           "departure_time": "14:39:00",
           "lat": 51.10891574,
@@ -22908,7 +22908,7 @@
       ]
     },
     {
-      "trip_id": "4_17618911",
+      "trip_id": "4_17637586",
       "direction_id": "1",
       "headsign": "Stępin - Kościół",
       "service_id": "4",
@@ -22916,7 +22916,7 @@
         {
           "stop_sequence": 0,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "17:38:00",
           "departure_time": "17:38:00",
           "lat": 51.10891574,
@@ -23231,7 +23231,7 @@
       ]
     },
     {
-      "trip_id": "4_17618912",
+      "trip_id": "4_17637587",
       "direction_id": "0",
       "headsign": "GALERIA DOMINIKAŃSKA",
       "service_id": "4",
@@ -23563,7 +23563,7 @@
         {
           "stop_sequence": 36,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "19:39:00",
           "departure_time": "19:39:00",
           "lat": 51.10891574,
@@ -23572,7 +23572,7 @@
       ]
     },
     {
-      "trip_id": "4_17618915",
+      "trip_id": "4_17637590",
       "direction_id": "1",
       "headsign": "Stępin - Kościół",
       "service_id": "4",
@@ -23580,7 +23580,7 @@
         {
           "stop_sequence": 0,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "22:27:00",
           "departure_time": "22:27:00",
           "lat": 51.10891574,
@@ -23895,7 +23895,7 @@
       ]
     },
     {
-      "trip_id": "4_17619022",
+      "trip_id": "4_17637697",
       "direction_id": "1",
       "headsign": "Stępin - Kościół",
       "service_id": "4",
@@ -23903,7 +23903,7 @@
         {
           "stop_sequence": 0,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "05:43:00",
           "departure_time": "05:43:00",
           "lat": 51.10891574,
@@ -24218,7 +24218,7 @@
       ]
     },
     {
-      "trip_id": "4_17619023",
+      "trip_id": "4_17637698",
       "direction_id": "0",
       "headsign": "GALERIA DOMINIKAŃSKA",
       "service_id": "4",
@@ -24550,7 +24550,7 @@
         {
           "stop_sequence": 36,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "07:40:00",
           "departure_time": "07:40:00",
           "lat": 51.10891574,
@@ -24559,7 +24559,7 @@
       ]
     },
     {
-      "trip_id": "4_17619026",
+      "trip_id": "4_17637701",
       "direction_id": "1",
       "headsign": "Stępin - Kościół",
       "service_id": "4",
@@ -24567,7 +24567,7 @@
         {
           "stop_sequence": 0,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "10:38:00",
           "departure_time": "10:38:00",
           "lat": 51.10891574,
@@ -24882,7 +24882,7 @@
       ]
     },
     {
-      "trip_id": "4_17619027",
+      "trip_id": "4_17637702",
       "direction_id": "0",
       "headsign": "GALERIA DOMINIKAŃSKA",
       "service_id": "4",
@@ -25214,7 +25214,7 @@
         {
           "stop_sequence": 36,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "12:39:00",
           "departure_time": "12:39:00",
           "lat": 51.10891574,
@@ -25223,7 +25223,7 @@
       ]
     },
     {
-      "trip_id": "4_17619030",
+      "trip_id": "4_17637705",
       "direction_id": "1",
       "headsign": "Stępin - Kościół",
       "service_id": "4",
@@ -25231,7 +25231,7 @@
         {
           "stop_sequence": 0,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "15:38:00",
           "departure_time": "15:38:00",
           "lat": 51.10891574,
@@ -25546,7 +25546,7 @@
       ]
     },
     {
-      "trip_id": "4_17619031",
+      "trip_id": "4_17637706",
       "direction_id": "0",
       "headsign": "GALERIA DOMINIKAŃSKA",
       "service_id": "4",
@@ -25878,7 +25878,7 @@
         {
           "stop_sequence": 36,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "17:39:00",
           "departure_time": "17:39:00",
           "lat": 51.10891574,
@@ -25887,7 +25887,7 @@
       ]
     },
     {
-      "trip_id": "4_17619034",
+      "trip_id": "4_17637709",
       "direction_id": "1",
       "headsign": "Stępin - Kościół",
       "service_id": "4",
@@ -25895,7 +25895,7 @@
         {
           "stop_sequence": 0,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "20:38:00",
           "departure_time": "20:38:00",
           "lat": 51.10891574,
@@ -26210,7 +26210,7 @@
       ]
     },
     {
-      "trip_id": "4_17619035",
+      "trip_id": "4_17637710",
       "direction_id": "0",
       "headsign": "GALERIA DOMINIKAŃSKA",
       "service_id": "4",
@@ -26542,7 +26542,7 @@
         {
           "stop_sequence": 36,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "22:29:00",
           "departure_time": "22:29:00",
           "lat": 51.10891574,
@@ -26551,7 +26551,7 @@
       ]
     },
     {
-      "trip_id": "4_17619040",
+      "trip_id": "4_17637715",
       "direction_id": "1",
       "headsign": "Stępin - Kościół",
       "service_id": "4",
@@ -26559,7 +26559,7 @@
         {
           "stop_sequence": 0,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "08:42:00",
           "departure_time": "08:42:00",
           "lat": 51.10891574,
@@ -26874,7 +26874,7 @@
       ]
     },
     {
-      "trip_id": "4_17619041",
+      "trip_id": "4_17637716",
       "direction_id": "0",
       "headsign": "GALERIA DOMINIKAŃSKA",
       "service_id": "4",
@@ -27206,7 +27206,7 @@
         {
           "stop_sequence": 36,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "10:40:00",
           "departure_time": "10:40:00",
           "lat": 51.10891574,
@@ -27215,7 +27215,7 @@
       ]
     },
     {
-      "trip_id": "4_17619044",
+      "trip_id": "4_17637719",
       "direction_id": "1",
       "headsign": "Stępin - Kościół",
       "service_id": "4",
@@ -27223,7 +27223,7 @@
         {
           "stop_sequence": 0,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "13:38:00",
           "departure_time": "13:38:00",
           "lat": 51.10891574,
@@ -27538,7 +27538,7 @@
       ]
     },
     {
-      "trip_id": "4_17619045",
+      "trip_id": "4_17637720",
       "direction_id": "0",
       "headsign": "GALERIA DOMINIKAŃSKA",
       "service_id": "4",
@@ -27870,7 +27870,7 @@
         {
           "stop_sequence": 36,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "15:39:00",
           "departure_time": "15:39:00",
           "lat": 51.10891574,
@@ -27879,7 +27879,7 @@
       ]
     },
     {
-      "trip_id": "4_17619048",
+      "trip_id": "4_17637723",
       "direction_id": "1",
       "headsign": "Stępin - Kościół",
       "service_id": "4",
@@ -27887,7 +27887,7 @@
         {
           "stop_sequence": 0,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "18:38:00",
           "departure_time": "18:38:00",
           "lat": 51.10891574,
@@ -28202,7 +28202,7 @@
       ]
     },
     {
-      "trip_id": "4_17619049",
+      "trip_id": "4_17637724",
       "direction_id": "0",
       "headsign": "GALERIA DOMINIKAŃSKA",
       "service_id": "4",
@@ -28534,7 +28534,7 @@
         {
           "stop_sequence": 36,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "20:33:00",
           "departure_time": "20:33:00",
           "lat": 51.10891574,
@@ -28543,7 +28543,7 @@
       ]
     },
     {
-      "trip_id": "4_17619052",
+      "trip_id": "4_17637727",
       "direction_id": "1",
       "headsign": "Stępin - Kościół",
       "service_id": "4",
@@ -28551,7 +28551,7 @@
         {
           "stop_sequence": 0,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "23:27:00",
           "departure_time": "23:27:00",
           "lat": 51.10891574,
@@ -28866,7 +28866,7 @@
       ]
     },
     {
-      "trip_id": "6_17619469",
+      "trip_id": "6_17638144",
       "direction_id": "1",
       "headsign": "Kamień - Diamentowa",
       "service_id": "6",
@@ -28874,7 +28874,7 @@
         {
           "stop_sequence": 0,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "05:45:00",
           "departure_time": "05:45:00",
           "lat": 51.10891574,
@@ -29144,7 +29144,7 @@
       ]
     },
     {
-      "trip_id": "6_17619470",
+      "trip_id": "6_17638145",
       "direction_id": "0",
       "headsign": "GALERIA DOMINIKAŃSKA",
       "service_id": "6",
@@ -29431,7 +29431,7 @@
         {
           "stop_sequence": 31,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "07:52:00",
           "departure_time": "07:52:00",
           "lat": 51.10891574,
@@ -29440,7 +29440,7 @@
       ]
     },
     {
-      "trip_id": "6_17619471",
+      "trip_id": "6_17638146",
       "direction_id": "1",
       "headsign": "Kamień - Diamentowa",
       "service_id": "6",
@@ -29448,7 +29448,7 @@
         {
           "stop_sequence": 0,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "08:10:00",
           "departure_time": "08:10:00",
           "lat": 51.10891574,
@@ -29718,7 +29718,7 @@
       ]
     },
     {
-      "trip_id": "6_17619474",
+      "trip_id": "6_17638149",
       "direction_id": "1",
       "headsign": "Stępin - Kościół",
       "service_id": "6",
@@ -29726,7 +29726,7 @@
         {
           "stop_sequence": 0,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "16:31:00",
           "departure_time": "16:31:00",
           "lat": 51.10891574,
@@ -30041,7 +30041,7 @@
       ]
     },
     {
-      "trip_id": "6_17619475",
+      "trip_id": "6_17638150",
       "direction_id": "0",
       "headsign": "GALERIA DOMINIKAŃSKA",
       "service_id": "6",
@@ -30373,7 +30373,7 @@
         {
           "stop_sequence": 36,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "18:48:00",
           "departure_time": "18:48:00",
           "lat": 51.10891574,
@@ -30382,7 +30382,7 @@
       ]
     },
     {
-      "trip_id": "6_17619586",
+      "trip_id": "6_17638261",
       "direction_id": "1",
       "headsign": "Stępin - Kościół",
       "service_id": "6",
@@ -30390,7 +30390,7 @@
         {
           "stop_sequence": 0,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "07:10:00",
           "departure_time": "07:10:00",
           "lat": 51.10891574,
@@ -30705,7 +30705,7 @@
       ]
     },
     {
-      "trip_id": "6_17619587",
+      "trip_id": "6_17638262",
       "direction_id": "0",
       "headsign": "GALERIA DOMINIKAŃSKA",
       "service_id": "6",
@@ -31037,7 +31037,7 @@
         {
           "stop_sequence": 36,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "09:18:00",
           "departure_time": "09:18:00",
           "lat": 51.10891574,
@@ -31046,7 +31046,7 @@
       ]
     },
     {
-      "trip_id": "6_17619588",
+      "trip_id": "6_17638263",
       "direction_id": "1",
       "headsign": "Stępin - Kościół",
       "service_id": "6",
@@ -31054,7 +31054,7 @@
         {
           "stop_sequence": 0,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "09:40:00",
           "departure_time": "09:40:00",
           "lat": 51.10891574,
@@ -31369,7 +31369,7 @@
       ]
     },
     {
-      "trip_id": "6_17619589",
+      "trip_id": "6_17638264",
       "direction_id": "0",
       "headsign": "GALERIA DOMINIKAŃSKA",
       "service_id": "6",
@@ -31701,7 +31701,7 @@
         {
           "stop_sequence": 36,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "11:48:00",
           "departure_time": "11:48:00",
           "lat": 51.10891574,
@@ -31710,7 +31710,7 @@
       ]
     },
     {
-      "trip_id": "6_17619594",
+      "trip_id": "6_17638269",
       "direction_id": "1",
       "headsign": "Stępin - Kościół",
       "service_id": "6",
@@ -31718,7 +31718,7 @@
         {
           "stop_sequence": 0,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "17:31:00",
           "departure_time": "17:31:00",
           "lat": 51.10891574,
@@ -32033,7 +32033,7 @@
       ]
     },
     {
-      "trip_id": "6_17619595",
+      "trip_id": "6_17638270",
       "direction_id": "0",
       "headsign": "GALERIA DOMINIKAŃSKA",
       "service_id": "6",
@@ -32365,7 +32365,7 @@
         {
           "stop_sequence": 36,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "19:48:00",
           "departure_time": "19:48:00",
           "lat": 51.10891574,
@@ -32374,7 +32374,7 @@
       ]
     },
     {
-      "trip_id": "6_17619638",
+      "trip_id": "6_17638313",
       "direction_id": "1",
       "headsign": "Kamień - Diamentowa",
       "service_id": "6",
@@ -32382,7 +32382,7 @@
         {
           "stop_sequence": 0,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "06:45:00",
           "departure_time": "06:45:00",
           "lat": 51.10891574,
@@ -32652,7 +32652,7 @@
       ]
     },
     {
-      "trip_id": "6_17619639",
+      "trip_id": "6_17638314",
       "direction_id": "0",
       "headsign": "GALERIA DOMINIKAŃSKA",
       "service_id": "6",
@@ -32939,7 +32939,7 @@
         {
           "stop_sequence": 31,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "08:51:00",
           "departure_time": "08:51:00",
           "lat": 51.10891574,
@@ -32948,7 +32948,7 @@
       ]
     },
     {
-      "trip_id": "6_17619739",
+      "trip_id": "6_17638414",
       "direction_id": "1",
       "headsign": "Kamień - Diamentowa",
       "service_id": "6",
@@ -32956,7 +32956,7 @@
         {
           "stop_sequence": 0,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "14:00:00",
           "departure_time": "14:00:00",
           "lat": 51.10891574,
@@ -33226,7 +33226,7 @@
       ]
     },
     {
-      "trip_id": "6_17619740",
+      "trip_id": "6_17638415",
       "direction_id": "0",
       "headsign": "GALERIA DOMINIKAŃSKA",
       "service_id": "6",
@@ -33513,7 +33513,7 @@
         {
           "stop_sequence": 31,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "16:22:00",
           "departure_time": "16:22:00",
           "lat": 51.10891574,
@@ -33522,7 +33522,7 @@
       ]
     },
     {
-      "trip_id": "6_17619750",
+      "trip_id": "6_17638425",
       "direction_id": "1",
       "headsign": "Stępin - Kościół",
       "service_id": "6",
@@ -33530,7 +33530,7 @@
         {
           "stop_sequence": 0,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "10:40:00",
           "departure_time": "10:40:00",
           "lat": 51.10891574,
@@ -33845,7 +33845,7 @@
       ]
     },
     {
-      "trip_id": "6_17619751",
+      "trip_id": "6_17638426",
       "direction_id": "0",
       "headsign": "GALERIA DOMINIKAŃSKA",
       "service_id": "6",
@@ -34177,7 +34177,7 @@
         {
           "stop_sequence": 36,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "12:48:00",
           "departure_time": "12:48:00",
           "lat": 51.10891574,
@@ -34186,7 +34186,7 @@
       ]
     },
     {
-      "trip_id": "6_17619754",
+      "trip_id": "6_17638429",
       "direction_id": "1",
       "headsign": "Kamień - Diamentowa",
       "service_id": "6",
@@ -34194,7 +34194,7 @@
         {
           "stop_sequence": 0,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "16:01:00",
           "departure_time": "16:01:00",
           "lat": 51.10891574,
@@ -34464,7 +34464,7 @@
       ]
     },
     {
-      "trip_id": "6_17619755",
+      "trip_id": "6_17638430",
       "direction_id": "0",
       "headsign": "GALERIA DOMINIKAŃSKA",
       "service_id": "6",
@@ -34751,7 +34751,7 @@
         {
           "stop_sequence": 31,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "18:19:00",
           "departure_time": "18:19:00",
           "lat": 51.10891574,
@@ -34760,7 +34760,7 @@
       ]
     },
     {
-      "trip_id": "6_17619756",
+      "trip_id": "6_17638431",
       "direction_id": "1",
       "headsign": "Stępin - Kościół",
       "service_id": "6",
@@ -34768,7 +34768,7 @@
         {
           "stop_sequence": 0,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "18:45:00",
           "departure_time": "18:45:00",
           "lat": 51.10891574,
@@ -35083,7 +35083,7 @@
       ]
     },
     {
-      "trip_id": "6_17619757",
+      "trip_id": "6_17638432",
       "direction_id": "0",
       "headsign": "GALERIA DOMINIKAŃSKA",
       "service_id": "6",
@@ -35415,7 +35415,7 @@
         {
           "stop_sequence": 36,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "20:44:00",
           "departure_time": "20:44:00",
           "lat": 51.10891574,
@@ -35424,7 +35424,7 @@
       ]
     },
     {
-      "trip_id": "6_17619761",
+      "trip_id": "6_17638436",
       "direction_id": "0",
       "headsign": "GALERIA DOMINIKAŃSKA",
       "service_id": "6",
@@ -35756,7 +35756,7 @@
         {
           "stop_sequence": 36,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "06:15:00",
           "departure_time": "06:15:00",
           "lat": 51.10891574,
@@ -35765,7 +35765,7 @@
       ]
     },
     {
-      "trip_id": "6_17619766",
+      "trip_id": "6_17638441",
       "direction_id": "1",
       "headsign": "Stępin - Kościół",
       "service_id": "6",
@@ -35773,7 +35773,7 @@
         {
           "stop_sequence": 0,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "11:40:00",
           "departure_time": "11:40:00",
           "lat": 51.10891574,
@@ -36088,7 +36088,7 @@
       ]
     },
     {
-      "trip_id": "6_17619767",
+      "trip_id": "6_17638442",
       "direction_id": "0",
       "headsign": "GALERIA DOMINIKAŃSKA",
       "service_id": "6",
@@ -36420,7 +36420,7 @@
         {
           "stop_sequence": 36,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "13:48:00",
           "departure_time": "13:48:00",
           "lat": 51.10891574,
@@ -36429,7 +36429,7 @@
       ]
     },
     {
-      "trip_id": "6_17619770",
+      "trip_id": "6_17638445",
       "direction_id": "1",
       "headsign": "Kamień - Diamentowa",
       "service_id": "6",
@@ -36437,7 +36437,7 @@
         {
           "stop_sequence": 0,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "17:01:00",
           "departure_time": "17:01:00",
           "lat": 51.10891574,
@@ -36707,7 +36707,7 @@
       ]
     },
     {
-      "trip_id": "6_17619771",
+      "trip_id": "6_17638446",
       "direction_id": "0",
       "headsign": "GALERIA DOMINIKAŃSKA",
       "service_id": "6",
@@ -37039,7 +37039,7 @@
         {
           "stop_sequence": 36,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "05:14:00",
           "departure_time": "05:14:00",
           "lat": 51.10891574,
@@ -37048,7 +37048,7 @@
       ]
     },
     {
-      "trip_id": "6_17619776",
+      "trip_id": "6_17638451",
       "direction_id": "1",
       "headsign": "Stępin - Kościół",
       "service_id": "6",
@@ -37056,7 +37056,7 @@
         {
           "stop_sequence": 0,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "15:31:00",
           "departure_time": "15:31:00",
           "lat": 51.10891574,
@@ -37371,7 +37371,7 @@
       ]
     },
     {
-      "trip_id": "6_17619777",
+      "trip_id": "6_17638452",
       "direction_id": "0",
       "headsign": "GALERIA DOMINIKAŃSKA",
       "service_id": "6",
@@ -37703,7 +37703,7 @@
         {
           "stop_sequence": 36,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "17:50:00",
           "departure_time": "17:50:00",
           "lat": 51.10891574,
@@ -37712,7 +37712,7 @@
       ]
     },
     {
-      "trip_id": "6_17619985",
+      "trip_id": "6_17638660",
       "direction_id": "1",
       "headsign": "Kamień - Diamentowa",
       "service_id": "6",
@@ -37936,7 +37936,7 @@
       ]
     },
     {
-      "trip_id": "6_17619986",
+      "trip_id": "6_17638661",
       "direction_id": "0",
       "headsign": "GALERIA DOMINIKAŃSKA",
       "service_id": "6",
@@ -38223,7 +38223,7 @@
         {
           "stop_sequence": 31,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "06:49:00",
           "departure_time": "06:49:00",
           "lat": 51.10891574,
@@ -38232,7 +38232,7 @@
       ]
     },
     {
-      "trip_id": "6_17619993",
+      "trip_id": "6_17638668",
       "direction_id": "1",
       "headsign": "Stępin - Kościół",
       "service_id": "6",
@@ -38240,7 +38240,7 @@
         {
           "stop_sequence": 0,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "06:07:00",
           "departure_time": "06:07:00",
           "lat": 51.10891574,
@@ -38555,7 +38555,7 @@
       ]
     },
     {
-      "trip_id": "6_17619994",
+      "trip_id": "6_17638669",
       "direction_id": "0",
       "headsign": "GALERIA DOMINIKAŃSKA",
       "service_id": "6",
@@ -38887,7 +38887,7 @@
         {
           "stop_sequence": 36,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "08:22:00",
           "departure_time": "08:22:00",
           "lat": 51.10891574,
@@ -38896,7 +38896,7 @@
       ]
     },
     {
-      "trip_id": "6_17619995",
+      "trip_id": "6_17638670",
       "direction_id": "1",
       "headsign": "Stępin - Kościół",
       "service_id": "6",
@@ -38904,7 +38904,7 @@
         {
           "stop_sequence": 0,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "08:40:00",
           "departure_time": "08:40:00",
           "lat": 51.10891574,
@@ -39219,7 +39219,7 @@
       ]
     },
     {
-      "trip_id": "6_17619996",
+      "trip_id": "6_17638671",
       "direction_id": "0",
       "headsign": "GALERIA DOMINIKAŃSKA",
       "service_id": "6",
@@ -39551,7 +39551,7 @@
         {
           "stop_sequence": 36,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "10:48:00",
           "departure_time": "10:48:00",
           "lat": 51.10891574,
@@ -39560,7 +39560,7 @@
       ]
     },
     {
-      "trip_id": "6_17619997",
+      "trip_id": "6_17638672",
       "direction_id": "1",
       "headsign": "Stępin - Kościół",
       "service_id": "6",
@@ -39568,7 +39568,7 @@
         {
           "stop_sequence": 0,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "13:30:00",
           "departure_time": "13:30:00",
           "lat": 51.10891574,
@@ -39883,7 +39883,7 @@
       ]
     },
     {
-      "trip_id": "6_17619998",
+      "trip_id": "6_17638673",
       "direction_id": "0",
       "headsign": "GALERIA DOMINIKAŃSKA",
       "service_id": "6",
@@ -40215,7 +40215,7 @@
         {
           "stop_sequence": 36,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "15:52:00",
           "departure_time": "15:52:00",
           "lat": 51.10891574,
@@ -40224,7 +40224,7 @@
       ]
     },
     {
-      "trip_id": "6_17620008",
+      "trip_id": "6_17638683",
       "direction_id": "1",
       "headsign": "Kamień - Diamentowa",
       "service_id": "6",
@@ -40232,7 +40232,7 @@
         {
           "stop_sequence": 0,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "18:01:00",
           "departure_time": "18:01:00",
           "lat": 51.10891574,
@@ -40502,7 +40502,7 @@
       ]
     },
     {
-      "trip_id": "6_17620014",
+      "trip_id": "6_17638689",
       "direction_id": "0",
       "headsign": "GALERIA DOMINIKAŃSKA",
       "service_id": "6",
@@ -40789,7 +40789,7 @@
         {
           "stop_sequence": 31,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "15:22:00",
           "departure_time": "15:22:00",
           "lat": 51.10891574,
@@ -40798,7 +40798,7 @@
       ]
     },
     {
-      "trip_id": "6_17620019",
+      "trip_id": "6_17638694",
       "direction_id": "1",
       "headsign": "Stępin - Kościół",
       "service_id": "6",
@@ -40806,7 +40806,7 @@
         {
           "stop_sequence": 0,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "20:45:00",
           "departure_time": "20:45:00",
           "lat": 51.10891574,
@@ -41121,7 +41121,7 @@
       ]
     },
     {
-      "trip_id": "6_17620020",
+      "trip_id": "6_17638695",
       "direction_id": "0",
       "headsign": "GALERIA DOMINIKAŃSKA",
       "service_id": "6",
@@ -41453,7 +41453,7 @@
         {
           "stop_sequence": 36,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "22:39:00",
           "departure_time": "22:39:00",
           "lat": 51.10891574,
@@ -41462,7 +41462,7 @@
       ]
     },
     {
-      "trip_id": "6_17620021",
+      "trip_id": "6_17638696",
       "direction_id": "1",
       "headsign": "Stępin - Kościół",
       "service_id": "6",
@@ -41470,7 +41470,7 @@
         {
           "stop_sequence": 0,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "22:45:00",
           "departure_time": "22:45:00",
           "lat": 51.10891574,
@@ -41785,7 +41785,7 @@
       ]
     },
     {
-      "trip_id": "6_17620043",
+      "trip_id": "6_17638718",
       "direction_id": "1",
       "headsign": "Stępin - Kościół",
       "service_id": "6",
@@ -41793,7 +41793,7 @@
         {
           "stop_sequence": 0,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "05:15:00",
           "departure_time": "05:15:00",
           "lat": 51.10891574,
@@ -42108,7 +42108,7 @@
       ]
     },
     {
-      "trip_id": "6_17620044",
+      "trip_id": "6_17638719",
       "direction_id": "0",
       "headsign": "GALERIA DOMINIKAŃSKA",
       "service_id": "6",
@@ -42440,7 +42440,7 @@
         {
           "stop_sequence": 36,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "07:22:00",
           "departure_time": "07:22:00",
           "lat": 51.10891574,
@@ -42449,7 +42449,7 @@
       ]
     },
     {
-      "trip_id": "6_17620045",
+      "trip_id": "6_17638720",
       "direction_id": "1",
       "headsign": "Stępin - Kościół",
       "service_id": "6",
@@ -42457,7 +42457,7 @@
         {
           "stop_sequence": 0,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "07:40:00",
           "departure_time": "07:40:00",
           "lat": 51.10891574,
@@ -42772,7 +42772,7 @@
       ]
     },
     {
-      "trip_id": "6_17620046",
+      "trip_id": "6_17638721",
       "direction_id": "0",
       "headsign": "GALERIA DOMINIKAŃSKA",
       "service_id": "6",
@@ -43104,7 +43104,7 @@
         {
           "stop_sequence": 36,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "09:48:00",
           "departure_time": "09:48:00",
           "lat": 51.10891574,
@@ -43113,7 +43113,7 @@
       ]
     },
     {
-      "trip_id": "6_17620049",
+      "trip_id": "6_17638724",
       "direction_id": "1",
       "headsign": "Stępin - Kościół",
       "service_id": "6",
@@ -43121,7 +43121,7 @@
         {
           "stop_sequence": 0,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "12:40:00",
           "departure_time": "12:40:00",
           "lat": 51.10891574,
@@ -43436,7 +43436,7 @@
       ]
     },
     {
-      "trip_id": "6_17620050",
+      "trip_id": "6_17638725",
       "direction_id": "0",
       "headsign": "GALERIA DOMINIKAŃSKA",
       "service_id": "6",
@@ -43768,7 +43768,7 @@
         {
           "stop_sequence": 36,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "14:49:00",
           "departure_time": "14:49:00",
           "lat": 51.10891574,
@@ -43777,7 +43777,7 @@
       ]
     },
     {
-      "trip_id": "6_17620051",
+      "trip_id": "6_17638726",
       "direction_id": "1",
       "headsign": "Kamień - Diamentowa",
       "service_id": "6",
@@ -43785,7 +43785,7 @@
         {
           "stop_sequence": 0,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "15:01:00",
           "departure_time": "15:01:00",
           "lat": 51.10891574,
@@ -44055,7 +44055,7 @@
       ]
     },
     {
-      "trip_id": "6_17620052",
+      "trip_id": "6_17638727",
       "direction_id": "0",
       "headsign": "GALERIA DOMINIKAŃSKA",
       "service_id": "6",
@@ -44342,7 +44342,7 @@
         {
           "stop_sequence": 31,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "17:20:00",
           "departure_time": "17:20:00",
           "lat": 51.10891574,
@@ -44351,7 +44351,7 @@
       ]
     },
     {
-      "trip_id": "6_17620103",
+      "trip_id": "6_17638778",
       "direction_id": "1",
       "headsign": "Stępin - Kościół",
       "service_id": "6",
@@ -44359,7 +44359,7 @@
         {
           "stop_sequence": 0,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "14:30:00",
           "departure_time": "14:30:00",
           "lat": 51.10891574,
@@ -44674,7 +44674,7 @@
       ]
     },
     {
-      "trip_id": "6_17620104",
+      "trip_id": "6_17638779",
       "direction_id": "0",
       "headsign": "GALERIA DOMINIKAŃSKA",
       "service_id": "6",
@@ -45006,7 +45006,7 @@
         {
           "stop_sequence": 36,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "16:52:00",
           "departure_time": "16:52:00",
           "lat": 51.10891574,
@@ -45015,7 +45015,7 @@
       ]
     },
     {
-      "trip_id": "6_17620107",
+      "trip_id": "6_17638782",
       "direction_id": "1",
       "headsign": "Stępin - Kościół",
       "service_id": "6",
@@ -45023,7 +45023,7 @@
         {
           "stop_sequence": 0,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "19:45:00",
           "departure_time": "19:45:00",
           "lat": 51.10891574,
@@ -45338,7 +45338,7 @@
       ]
     },
     {
-      "trip_id": "6_17620108",
+      "trip_id": "6_17638783",
       "direction_id": "0",
       "headsign": "GALERIA DOMINIKAŃSKA",
       "service_id": "6",
@@ -45670,7 +45670,7 @@
         {
           "stop_sequence": 36,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "21:39:00",
           "departure_time": "21:39:00",
           "lat": 51.10891574,
@@ -45679,7 +45679,7 @@
       ]
     },
     {
-      "trip_id": "6_17620109",
+      "trip_id": "6_17638784",
       "direction_id": "1",
       "headsign": "Stępin - Kościół",
       "service_id": "6",
@@ -45687,7 +45687,7 @@
         {
           "stop_sequence": 0,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "21:45:00",
           "departure_time": "21:45:00",
           "lat": 51.10891574,
@@ -46002,7 +46002,7 @@
       ]
     },
     {
-      "trip_id": "6_17620110",
+      "trip_id": "6_17638785",
       "direction_id": "0",
       "headsign": "GALERIA DOMINIKAŃSKA",
       "service_id": "6",
@@ -46334,7 +46334,7 @@
         {
           "stop_sequence": 36,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "23:34:00",
           "departure_time": "23:34:00",
           "lat": 51.10891574,
@@ -46343,7 +46343,7 @@
       ]
     },
     {
-      "trip_id": "8_17620515",
+      "trip_id": "8_17639190",
       "direction_id": "1",
       "headsign": "Kamień - Diamentowa",
       "service_id": "8",
@@ -46351,7 +46351,7 @@
         {
           "stop_sequence": 0,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "05:45:00",
           "departure_time": "05:45:00",
           "lat": 51.10891574,
@@ -46621,7 +46621,7 @@
       ]
     },
     {
-      "trip_id": "8_17620516",
+      "trip_id": "8_17639191",
       "direction_id": "0",
       "headsign": "GALERIA DOMINIKAŃSKA",
       "service_id": "8",
@@ -46908,7 +46908,7 @@
         {
           "stop_sequence": 31,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "07:52:00",
           "departure_time": "07:52:00",
           "lat": 51.10891574,
@@ -46917,7 +46917,7 @@
       ]
     },
     {
-      "trip_id": "8_17620517",
+      "trip_id": "8_17639192",
       "direction_id": "1",
       "headsign": "Kamień - Diamentowa",
       "service_id": "8",
@@ -46925,7 +46925,7 @@
         {
           "stop_sequence": 0,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "08:10:00",
           "departure_time": "08:10:00",
           "lat": 51.10891574,
@@ -47195,7 +47195,7 @@
       ]
     },
     {
-      "trip_id": "8_17620520",
+      "trip_id": "8_17639195",
       "direction_id": "1",
       "headsign": "Stępin - Kościół",
       "service_id": "8",
@@ -47203,7 +47203,7 @@
         {
           "stop_sequence": 0,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "16:31:00",
           "departure_time": "16:31:00",
           "lat": 51.10891574,
@@ -47518,7 +47518,7 @@
       ]
     },
     {
-      "trip_id": "8_17620521",
+      "trip_id": "8_17639196",
       "direction_id": "0",
       "headsign": "GALERIA DOMINIKAŃSKA",
       "service_id": "8",
@@ -47850,7 +47850,7 @@
         {
           "stop_sequence": 36,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "18:48:00",
           "departure_time": "18:48:00",
           "lat": 51.10891574,
@@ -47859,7 +47859,7 @@
       ]
     },
     {
-      "trip_id": "8_17620632",
+      "trip_id": "8_17639307",
       "direction_id": "1",
       "headsign": "Stępin - Kościół",
       "service_id": "8",
@@ -47867,7 +47867,7 @@
         {
           "stop_sequence": 0,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "07:10:00",
           "departure_time": "07:10:00",
           "lat": 51.10891574,
@@ -48182,7 +48182,7 @@
       ]
     },
     {
-      "trip_id": "8_17620633",
+      "trip_id": "8_17639308",
       "direction_id": "0",
       "headsign": "GALERIA DOMINIKAŃSKA",
       "service_id": "8",
@@ -48514,7 +48514,7 @@
         {
           "stop_sequence": 36,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "09:18:00",
           "departure_time": "09:18:00",
           "lat": 51.10891574,
@@ -48523,7 +48523,7 @@
       ]
     },
     {
-      "trip_id": "8_17620634",
+      "trip_id": "8_17639309",
       "direction_id": "1",
       "headsign": "Stępin - Kościół",
       "service_id": "8",
@@ -48531,7 +48531,7 @@
         {
           "stop_sequence": 0,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "09:40:00",
           "departure_time": "09:40:00",
           "lat": 51.10891574,
@@ -48846,7 +48846,7 @@
       ]
     },
     {
-      "trip_id": "8_17620635",
+      "trip_id": "8_17639310",
       "direction_id": "0",
       "headsign": "GALERIA DOMINIKAŃSKA",
       "service_id": "8",
@@ -49178,7 +49178,7 @@
         {
           "stop_sequence": 36,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "11:48:00",
           "departure_time": "11:48:00",
           "lat": 51.10891574,
@@ -49187,7 +49187,7 @@
       ]
     },
     {
-      "trip_id": "8_17620640",
+      "trip_id": "8_17639315",
       "direction_id": "1",
       "headsign": "Stępin - Kościół",
       "service_id": "8",
@@ -49195,7 +49195,7 @@
         {
           "stop_sequence": 0,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "17:31:00",
           "departure_time": "17:31:00",
           "lat": 51.10891574,
@@ -49510,7 +49510,7 @@
       ]
     },
     {
-      "trip_id": "8_17620641",
+      "trip_id": "8_17639316",
       "direction_id": "0",
       "headsign": "GALERIA DOMINIKAŃSKA",
       "service_id": "8",
@@ -49842,7 +49842,7 @@
         {
           "stop_sequence": 36,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "19:48:00",
           "departure_time": "19:48:00",
           "lat": 51.10891574,
@@ -49851,7 +49851,7 @@
       ]
     },
     {
-      "trip_id": "8_17620684",
+      "trip_id": "8_17639359",
       "direction_id": "1",
       "headsign": "Kamień - Diamentowa",
       "service_id": "8",
@@ -49859,7 +49859,7 @@
         {
           "stop_sequence": 0,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "06:45:00",
           "departure_time": "06:45:00",
           "lat": 51.10891574,
@@ -50129,7 +50129,7 @@
       ]
     },
     {
-      "trip_id": "8_17620685",
+      "trip_id": "8_17639360",
       "direction_id": "0",
       "headsign": "GALERIA DOMINIKAŃSKA",
       "service_id": "8",
@@ -50416,7 +50416,7 @@
         {
           "stop_sequence": 31,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "08:51:00",
           "departure_time": "08:51:00",
           "lat": 51.10891574,
@@ -50425,7 +50425,7 @@
       ]
     },
     {
-      "trip_id": "8_17620785",
+      "trip_id": "8_17639460",
       "direction_id": "1",
       "headsign": "Kamień - Diamentowa",
       "service_id": "8",
@@ -50433,7 +50433,7 @@
         {
           "stop_sequence": 0,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "14:00:00",
           "departure_time": "14:00:00",
           "lat": 51.10891574,
@@ -50703,7 +50703,7 @@
       ]
     },
     {
-      "trip_id": "8_17620786",
+      "trip_id": "8_17639461",
       "direction_id": "0",
       "headsign": "GALERIA DOMINIKAŃSKA",
       "service_id": "8",
@@ -50990,7 +50990,7 @@
         {
           "stop_sequence": 31,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "16:22:00",
           "departure_time": "16:22:00",
           "lat": 51.10891574,
@@ -50999,7 +50999,7 @@
       ]
     },
     {
-      "trip_id": "8_17620796",
+      "trip_id": "8_17639471",
       "direction_id": "1",
       "headsign": "Stępin - Kościół",
       "service_id": "8",
@@ -51007,7 +51007,7 @@
         {
           "stop_sequence": 0,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "10:40:00",
           "departure_time": "10:40:00",
           "lat": 51.10891574,
@@ -51322,7 +51322,7 @@
       ]
     },
     {
-      "trip_id": "8_17620797",
+      "trip_id": "8_17639472",
       "direction_id": "0",
       "headsign": "GALERIA DOMINIKAŃSKA",
       "service_id": "8",
@@ -51654,7 +51654,7 @@
         {
           "stop_sequence": 36,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "12:48:00",
           "departure_time": "12:48:00",
           "lat": 51.10891574,
@@ -51663,7 +51663,7 @@
       ]
     },
     {
-      "trip_id": "8_17620800",
+      "trip_id": "8_17639475",
       "direction_id": "1",
       "headsign": "Kamień - Diamentowa",
       "service_id": "8",
@@ -51671,7 +51671,7 @@
         {
           "stop_sequence": 0,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "16:01:00",
           "departure_time": "16:01:00",
           "lat": 51.10891574,
@@ -51941,7 +51941,7 @@
       ]
     },
     {
-      "trip_id": "8_17620801",
+      "trip_id": "8_17639476",
       "direction_id": "0",
       "headsign": "GALERIA DOMINIKAŃSKA",
       "service_id": "8",
@@ -52228,7 +52228,7 @@
         {
           "stop_sequence": 31,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "18:19:00",
           "departure_time": "18:19:00",
           "lat": 51.10891574,
@@ -52237,7 +52237,7 @@
       ]
     },
     {
-      "trip_id": "8_17620802",
+      "trip_id": "8_17639477",
       "direction_id": "1",
       "headsign": "Stępin - Kościół",
       "service_id": "8",
@@ -52245,7 +52245,7 @@
         {
           "stop_sequence": 0,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "18:45:00",
           "departure_time": "18:45:00",
           "lat": 51.10891574,
@@ -52560,7 +52560,7 @@
       ]
     },
     {
-      "trip_id": "8_17620803",
+      "trip_id": "8_17639478",
       "direction_id": "0",
       "headsign": "GALERIA DOMINIKAŃSKA",
       "service_id": "8",
@@ -52892,7 +52892,7 @@
         {
           "stop_sequence": 36,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "20:44:00",
           "departure_time": "20:44:00",
           "lat": 51.10891574,
@@ -52901,7 +52901,7 @@
       ]
     },
     {
-      "trip_id": "8_17620807",
+      "trip_id": "8_17639482",
       "direction_id": "0",
       "headsign": "GALERIA DOMINIKAŃSKA",
       "service_id": "8",
@@ -53233,7 +53233,7 @@
         {
           "stop_sequence": 36,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "06:15:00",
           "departure_time": "06:15:00",
           "lat": 51.10891574,
@@ -53242,7 +53242,7 @@
       ]
     },
     {
-      "trip_id": "8_17620812",
+      "trip_id": "8_17639487",
       "direction_id": "1",
       "headsign": "Stępin - Kościół",
       "service_id": "8",
@@ -53250,7 +53250,7 @@
         {
           "stop_sequence": 0,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "11:40:00",
           "departure_time": "11:40:00",
           "lat": 51.10891574,
@@ -53565,7 +53565,7 @@
       ]
     },
     {
-      "trip_id": "8_17620813",
+      "trip_id": "8_17639488",
       "direction_id": "0",
       "headsign": "GALERIA DOMINIKAŃSKA",
       "service_id": "8",
@@ -53897,7 +53897,7 @@
         {
           "stop_sequence": 36,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "13:48:00",
           "departure_time": "13:48:00",
           "lat": 51.10891574,
@@ -53906,7 +53906,7 @@
       ]
     },
     {
-      "trip_id": "8_17620816",
+      "trip_id": "8_17639491",
       "direction_id": "1",
       "headsign": "Kamień - Diamentowa",
       "service_id": "8",
@@ -53914,7 +53914,7 @@
         {
           "stop_sequence": 0,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "17:01:00",
           "departure_time": "17:01:00",
           "lat": 51.10891574,
@@ -54184,7 +54184,7 @@
       ]
     },
     {
-      "trip_id": "8_17620817",
+      "trip_id": "8_17639492",
       "direction_id": "0",
       "headsign": "GALERIA DOMINIKAŃSKA",
       "service_id": "8",
@@ -54516,7 +54516,7 @@
         {
           "stop_sequence": 36,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "05:14:00",
           "departure_time": "05:14:00",
           "lat": 51.10891574,
@@ -54525,7 +54525,7 @@
       ]
     },
     {
-      "trip_id": "8_17620822",
+      "trip_id": "8_17639497",
       "direction_id": "1",
       "headsign": "Stępin - Kościół",
       "service_id": "8",
@@ -54533,7 +54533,7 @@
         {
           "stop_sequence": 0,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "15:31:00",
           "departure_time": "15:31:00",
           "lat": 51.10891574,
@@ -54848,7 +54848,7 @@
       ]
     },
     {
-      "trip_id": "8_17620823",
+      "trip_id": "8_17639498",
       "direction_id": "0",
       "headsign": "GALERIA DOMINIKAŃSKA",
       "service_id": "8",
@@ -55180,7 +55180,7 @@
         {
           "stop_sequence": 36,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "17:50:00",
           "departure_time": "17:50:00",
           "lat": 51.10891574,
@@ -55189,7 +55189,7 @@
       ]
     },
     {
-      "trip_id": "8_17621031",
+      "trip_id": "8_17639706",
       "direction_id": "1",
       "headsign": "Kamień - Diamentowa",
       "service_id": "8",
@@ -55413,7 +55413,7 @@
       ]
     },
     {
-      "trip_id": "8_17621032",
+      "trip_id": "8_17639707",
       "direction_id": "0",
       "headsign": "GALERIA DOMINIKAŃSKA",
       "service_id": "8",
@@ -55700,7 +55700,7 @@
         {
           "stop_sequence": 31,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "06:49:00",
           "departure_time": "06:49:00",
           "lat": 51.10891574,
@@ -55709,7 +55709,7 @@
       ]
     },
     {
-      "trip_id": "8_17621039",
+      "trip_id": "8_17639714",
       "direction_id": "1",
       "headsign": "Stępin - Kościół",
       "service_id": "8",
@@ -55717,7 +55717,7 @@
         {
           "stop_sequence": 0,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "06:07:00",
           "departure_time": "06:07:00",
           "lat": 51.10891574,
@@ -56032,7 +56032,7 @@
       ]
     },
     {
-      "trip_id": "8_17621040",
+      "trip_id": "8_17639715",
       "direction_id": "0",
       "headsign": "GALERIA DOMINIKAŃSKA",
       "service_id": "8",
@@ -56364,7 +56364,7 @@
         {
           "stop_sequence": 36,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "08:22:00",
           "departure_time": "08:22:00",
           "lat": 51.10891574,
@@ -56373,7 +56373,7 @@
       ]
     },
     {
-      "trip_id": "8_17621041",
+      "trip_id": "8_17639716",
       "direction_id": "1",
       "headsign": "Stępin - Kościół",
       "service_id": "8",
@@ -56381,7 +56381,7 @@
         {
           "stop_sequence": 0,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "08:40:00",
           "departure_time": "08:40:00",
           "lat": 51.10891574,
@@ -56696,7 +56696,7 @@
       ]
     },
     {
-      "trip_id": "8_17621042",
+      "trip_id": "8_17639717",
       "direction_id": "0",
       "headsign": "GALERIA DOMINIKAŃSKA",
       "service_id": "8",
@@ -57028,7 +57028,7 @@
         {
           "stop_sequence": 36,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "10:48:00",
           "departure_time": "10:48:00",
           "lat": 51.10891574,
@@ -57037,7 +57037,7 @@
       ]
     },
     {
-      "trip_id": "8_17621043",
+      "trip_id": "8_17639718",
       "direction_id": "1",
       "headsign": "Stępin - Kościół",
       "service_id": "8",
@@ -57045,7 +57045,7 @@
         {
           "stop_sequence": 0,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "13:30:00",
           "departure_time": "13:30:00",
           "lat": 51.10891574,
@@ -57360,7 +57360,7 @@
       ]
     },
     {
-      "trip_id": "8_17621044",
+      "trip_id": "8_17639719",
       "direction_id": "0",
       "headsign": "GALERIA DOMINIKAŃSKA",
       "service_id": "8",
@@ -57692,7 +57692,7 @@
         {
           "stop_sequence": 36,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "15:52:00",
           "departure_time": "15:52:00",
           "lat": 51.10891574,
@@ -57701,7 +57701,7 @@
       ]
     },
     {
-      "trip_id": "8_17621054",
+      "trip_id": "8_17639729",
       "direction_id": "1",
       "headsign": "Kamień - Diamentowa",
       "service_id": "8",
@@ -57709,7 +57709,7 @@
         {
           "stop_sequence": 0,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "18:01:00",
           "departure_time": "18:01:00",
           "lat": 51.10891574,
@@ -57979,7 +57979,7 @@
       ]
     },
     {
-      "trip_id": "8_17621060",
+      "trip_id": "8_17639735",
       "direction_id": "0",
       "headsign": "GALERIA DOMINIKAŃSKA",
       "service_id": "8",
@@ -58266,7 +58266,7 @@
         {
           "stop_sequence": 31,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "15:22:00",
           "departure_time": "15:22:00",
           "lat": 51.10891574,
@@ -58275,7 +58275,7 @@
       ]
     },
     {
-      "trip_id": "8_17621065",
+      "trip_id": "8_17639740",
       "direction_id": "1",
       "headsign": "Stępin - Kościół",
       "service_id": "8",
@@ -58283,7 +58283,7 @@
         {
           "stop_sequence": 0,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "20:45:00",
           "departure_time": "20:45:00",
           "lat": 51.10891574,
@@ -58598,7 +58598,7 @@
       ]
     },
     {
-      "trip_id": "8_17621066",
+      "trip_id": "8_17639741",
       "direction_id": "0",
       "headsign": "GALERIA DOMINIKAŃSKA",
       "service_id": "8",
@@ -58930,7 +58930,7 @@
         {
           "stop_sequence": 36,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "22:39:00",
           "departure_time": "22:39:00",
           "lat": 51.10891574,
@@ -58939,7 +58939,7 @@
       ]
     },
     {
-      "trip_id": "8_17621067",
+      "trip_id": "8_17639742",
       "direction_id": "1",
       "headsign": "Stępin - Kościół",
       "service_id": "8",
@@ -58947,7 +58947,7 @@
         {
           "stop_sequence": 0,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "22:45:00",
           "departure_time": "22:45:00",
           "lat": 51.10891574,
@@ -59262,7 +59262,7 @@
       ]
     },
     {
-      "trip_id": "8_17621089",
+      "trip_id": "8_17639764",
       "direction_id": "1",
       "headsign": "Stępin - Kościół",
       "service_id": "8",
@@ -59270,7 +59270,7 @@
         {
           "stop_sequence": 0,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "05:15:00",
           "departure_time": "05:15:00",
           "lat": 51.10891574,
@@ -59585,7 +59585,7 @@
       ]
     },
     {
-      "trip_id": "8_17621090",
+      "trip_id": "8_17639765",
       "direction_id": "0",
       "headsign": "GALERIA DOMINIKAŃSKA",
       "service_id": "8",
@@ -59917,7 +59917,7 @@
         {
           "stop_sequence": 36,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "07:22:00",
           "departure_time": "07:22:00",
           "lat": 51.10891574,
@@ -59926,7 +59926,7 @@
       ]
     },
     {
-      "trip_id": "8_17621091",
+      "trip_id": "8_17639766",
       "direction_id": "1",
       "headsign": "Stępin - Kościół",
       "service_id": "8",
@@ -59934,7 +59934,7 @@
         {
           "stop_sequence": 0,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "07:40:00",
           "departure_time": "07:40:00",
           "lat": 51.10891574,
@@ -60249,7 +60249,7 @@
       ]
     },
     {
-      "trip_id": "8_17621092",
+      "trip_id": "8_17639767",
       "direction_id": "0",
       "headsign": "GALERIA DOMINIKAŃSKA",
       "service_id": "8",
@@ -60581,7 +60581,7 @@
         {
           "stop_sequence": 36,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "09:48:00",
           "departure_time": "09:48:00",
           "lat": 51.10891574,
@@ -60590,7 +60590,7 @@
       ]
     },
     {
-      "trip_id": "8_17621095",
+      "trip_id": "8_17639770",
       "direction_id": "1",
       "headsign": "Stępin - Kościół",
       "service_id": "8",
@@ -60598,7 +60598,7 @@
         {
           "stop_sequence": 0,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "12:40:00",
           "departure_time": "12:40:00",
           "lat": 51.10891574,
@@ -60913,7 +60913,7 @@
       ]
     },
     {
-      "trip_id": "8_17621096",
+      "trip_id": "8_17639771",
       "direction_id": "0",
       "headsign": "GALERIA DOMINIKAŃSKA",
       "service_id": "8",
@@ -61245,7 +61245,7 @@
         {
           "stop_sequence": 36,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "14:49:00",
           "departure_time": "14:49:00",
           "lat": 51.10891574,
@@ -61254,7 +61254,7 @@
       ]
     },
     {
-      "trip_id": "8_17621097",
+      "trip_id": "8_17639772",
       "direction_id": "1",
       "headsign": "Kamień - Diamentowa",
       "service_id": "8",
@@ -61262,7 +61262,7 @@
         {
           "stop_sequence": 0,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "15:01:00",
           "departure_time": "15:01:00",
           "lat": 51.10891574,
@@ -61532,7 +61532,7 @@
       ]
     },
     {
-      "trip_id": "8_17621098",
+      "trip_id": "8_17639773",
       "direction_id": "0",
       "headsign": "GALERIA DOMINIKAŃSKA",
       "service_id": "8",
@@ -61819,7 +61819,7 @@
         {
           "stop_sequence": 31,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "17:20:00",
           "departure_time": "17:20:00",
           "lat": 51.10891574,
@@ -61828,7 +61828,7 @@
       ]
     },
     {
-      "trip_id": "8_17621149",
+      "trip_id": "8_17639824",
       "direction_id": "1",
       "headsign": "Stępin - Kościół",
       "service_id": "8",
@@ -61836,7 +61836,7 @@
         {
           "stop_sequence": 0,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "14:30:00",
           "departure_time": "14:30:00",
           "lat": 51.10891574,
@@ -62151,7 +62151,7 @@
       ]
     },
     {
-      "trip_id": "8_17621150",
+      "trip_id": "8_17639825",
       "direction_id": "0",
       "headsign": "GALERIA DOMINIKAŃSKA",
       "service_id": "8",
@@ -62483,7 +62483,7 @@
         {
           "stop_sequence": 36,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "16:52:00",
           "departure_time": "16:52:00",
           "lat": 51.10891574,
@@ -62492,7 +62492,7 @@
       ]
     },
     {
-      "trip_id": "8_17621153",
+      "trip_id": "8_17639828",
       "direction_id": "1",
       "headsign": "Stępin - Kościół",
       "service_id": "8",
@@ -62500,7 +62500,7 @@
         {
           "stop_sequence": 0,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "19:45:00",
           "departure_time": "19:45:00",
           "lat": 51.10891574,
@@ -62815,7 +62815,7 @@
       ]
     },
     {
-      "trip_id": "8_17621154",
+      "trip_id": "8_17639829",
       "direction_id": "0",
       "headsign": "GALERIA DOMINIKAŃSKA",
       "service_id": "8",
@@ -63147,7 +63147,7 @@
         {
           "stop_sequence": 36,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "21:39:00",
           "departure_time": "21:39:00",
           "lat": 51.10891574,
@@ -63156,7 +63156,7 @@
       ]
     },
     {
-      "trip_id": "8_17621155",
+      "trip_id": "8_17639830",
       "direction_id": "1",
       "headsign": "Stępin - Kościół",
       "service_id": "8",
@@ -63164,7 +63164,7 @@
         {
           "stop_sequence": 0,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "21:45:00",
           "departure_time": "21:45:00",
           "lat": 51.10891574,
@@ -63479,7 +63479,7 @@
       ]
     },
     {
-      "trip_id": "8_17621156",
+      "trip_id": "8_17639831",
       "direction_id": "0",
       "headsign": "GALERIA DOMINIKAŃSKA",
       "service_id": "8",
@@ -63811,7 +63811,7 @@
         {
           "stop_sequence": 36,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "23:34:00",
           "departure_time": "23:34:00",
           "lat": 51.10891574,

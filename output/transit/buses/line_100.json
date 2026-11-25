@@ -2,7 +2,7 @@
   "line": "100",
   "trips": [
     {
-      "trip_id": "3_17595269",
+      "trip_id": "3_17699282",
       "direction_id": "0",
       "headsign": "GAJ pętla",
       "service_id": "3",
@@ -127,7 +127,7 @@
       ]
     },
     {
-      "trip_id": "3_17595270",
+      "trip_id": "3_17699283",
       "direction_id": "1",
       "headsign": "MOKRY DWÓR",
       "service_id": "3",
@@ -261,7 +261,7 @@
       ]
     },
     {
-      "trip_id": "3_17595271",
+      "trip_id": "3_17699284",
       "direction_id": "0",
       "headsign": "GAJ pętla",
       "service_id": "3",
@@ -395,7 +395,7 @@
       ]
     },
     {
-      "trip_id": "3_17595272",
+      "trip_id": "3_17699285",
       "direction_id": "1",
       "headsign": "MOKRY DWÓR",
       "service_id": "3",
@@ -529,7 +529,7 @@
       ]
     },
     {
-      "trip_id": "3_17595273",
+      "trip_id": "3_17699286",
       "direction_id": "0",
       "headsign": "GAJ pętla",
       "service_id": "3",
@@ -663,7 +663,7 @@
       ]
     },
     {
-      "trip_id": "3_17595274",
+      "trip_id": "3_17699287",
       "direction_id": "1",
       "headsign": "MOKRY DWÓR",
       "service_id": "3",
@@ -797,7 +797,7 @@
       ]
     },
     {
-      "trip_id": "3_17595275",
+      "trip_id": "3_17699288",
       "direction_id": "0",
       "headsign": "GAJ pętla",
       "service_id": "3",
@@ -931,7 +931,7 @@
       ]
     },
     {
-      "trip_id": "3_17595276",
+      "trip_id": "3_17699289",
       "direction_id": "1",
       "headsign": "MOKRY DWÓR",
       "service_id": "3",
@@ -1065,7 +1065,7 @@
       ]
     },
     {
-      "trip_id": "3_17595277",
+      "trip_id": "3_17699290",
       "direction_id": "0",
       "headsign": "GAJ pętla",
       "service_id": "3",
@@ -1199,7 +1199,7 @@
       ]
     },
     {
-      "trip_id": "3_17595278",
+      "trip_id": "3_17699291",
       "direction_id": "1",
       "headsign": "MOKRY DWÓR",
       "service_id": "3",
@@ -1333,7 +1333,7 @@
       ]
     },
     {
-      "trip_id": "3_17595279",
+      "trip_id": "3_17699292",
       "direction_id": "0",
       "headsign": "GAJ pętla",
       "service_id": "3",
@@ -1467,7 +1467,7 @@
       ]
     },
     {
-      "trip_id": "3_17595280",
+      "trip_id": "3_17699293",
       "direction_id": "1",
       "headsign": "MOKRY DWÓR",
       "service_id": "3",
@@ -1601,7 +1601,7 @@
       ]
     },
     {
-      "trip_id": "3_17595281",
+      "trip_id": "3_17699294",
       "direction_id": "0",
       "headsign": "GAJ pętla",
       "service_id": "3",
@@ -1735,7 +1735,7 @@
       ]
     },
     {
-      "trip_id": "3_17595282",
+      "trip_id": "3_17699295",
       "direction_id": "1",
       "headsign": "MOKRY DWÓR",
       "service_id": "3",
@@ -1869,7 +1869,7 @@
       ]
     },
     {
-      "trip_id": "3_17595283",
+      "trip_id": "3_17699296",
       "direction_id": "0",
       "headsign": "GAJ pętla",
       "service_id": "3",
@@ -2003,7 +2003,7 @@
       ]
     },
     {
-      "trip_id": "3_17595284",
+      "trip_id": "3_17699297",
       "direction_id": "1",
       "headsign": "MOKRY DWÓR",
       "service_id": "3",
@@ -2137,7 +2137,7 @@
       ]
     },
     {
-      "trip_id": "3_17595285",
+      "trip_id": "3_17699298",
       "direction_id": "0",
       "headsign": "GAJ pętla",
       "service_id": "3",
@@ -2271,7 +2271,7 @@
       ]
     },
     {
-      "trip_id": "3_17595286",
+      "trip_id": "3_17699299",
       "direction_id": "1",
       "headsign": "MOKRY DWÓR",
       "service_id": "3",
@@ -2405,7 +2405,7 @@
       ]
     },
     {
-      "trip_id": "3_17595287",
+      "trip_id": "3_17699300",
       "direction_id": "0",
       "headsign": "GAJ pętla",
       "service_id": "3",
@@ -2539,7 +2539,7 @@
       ]
     },
     {
-      "trip_id": "3_17595288",
+      "trip_id": "3_17699301",
       "direction_id": "1",
       "headsign": "MOKRY DWÓR",
       "service_id": "3",
@@ -2673,7 +2673,7 @@
       ]
     },
     {
-      "trip_id": "3_17595289",
+      "trip_id": "3_17699302",
       "direction_id": "0",
       "headsign": "GAJ pętla",
       "service_id": "3",
@@ -2807,7 +2807,7 @@
       ]
     },
     {
-      "trip_id": "3_17595290",
+      "trip_id": "3_17699303",
       "direction_id": "1",
       "headsign": "MOKRY DWÓR",
       "service_id": "3",
@@ -2941,7 +2941,7 @@
       ]
     },
     {
-      "trip_id": "3_17595291",
+      "trip_id": "3_17699304",
       "direction_id": "0",
       "headsign": "GAJ pętla",
       "service_id": "3",
@@ -3075,7 +3075,7 @@
       ]
     },
     {
-      "trip_id": "3_17595292",
+      "trip_id": "3_17699305",
       "direction_id": "1",
       "headsign": "MOKRY DWÓR",
       "service_id": "3",
@@ -3209,7 +3209,7 @@
       ]
     },
     {
-      "trip_id": "3_17595293",
+      "trip_id": "3_17699306",
       "direction_id": "0",
       "headsign": "GAJ pętla",
       "service_id": "3",
@@ -3343,7 +3343,7 @@
       ]
     },
     {
-      "trip_id": "3_17595294",
+      "trip_id": "3_17699307",
       "direction_id": "1",
       "headsign": "MOKRY DWÓR",
       "service_id": "3",
@@ -3477,7 +3477,7 @@
       ]
     },
     {
-      "trip_id": "3_17595295",
+      "trip_id": "3_17699308",
       "direction_id": "0",
       "headsign": "GAJ pętla",
       "service_id": "3",
@@ -3611,7 +3611,7 @@
       ]
     },
     {
-      "trip_id": "3_17595296",
+      "trip_id": "3_17699309",
       "direction_id": "1",
       "headsign": "MOKRY DWÓR",
       "service_id": "3",
@@ -3745,7 +3745,7 @@
       ]
     },
     {
-      "trip_id": "3_17595297",
+      "trip_id": "3_17699310",
       "direction_id": "0",
       "headsign": "GAJ pętla",
       "service_id": "3",
@@ -3879,7 +3879,7 @@
       ]
     },
     {
-      "trip_id": "3_17595298",
+      "trip_id": "3_17699311",
       "direction_id": "1",
       "headsign": "MOKRY DWÓR",
       "service_id": "3",
@@ -4013,7 +4013,7 @@
       ]
     },
     {
-      "trip_id": "3_17595299",
+      "trip_id": "3_17699312",
       "direction_id": "0",
       "headsign": "GAJ pętla",
       "service_id": "3",
@@ -4147,7 +4147,7 @@
       ]
     },
     {
-      "trip_id": "3_17595300",
+      "trip_id": "3_17699313",
       "direction_id": "1",
       "headsign": "MOKRY DWÓR",
       "service_id": "3",
@@ -4281,7 +4281,7 @@
       ]
     },
     {
-      "trip_id": "3_17595301",
+      "trip_id": "3_17699314",
       "direction_id": "0",
       "headsign": "GAJ pętla",
       "service_id": "3",
@@ -4415,7 +4415,7 @@
       ]
     },
     {
-      "trip_id": "3_17595302",
+      "trip_id": "3_17699315",
       "direction_id": "1",
       "headsign": "MOKRY DWÓR",
       "service_id": "3",
@@ -4549,7 +4549,7 @@
       ]
     },
     {
-      "trip_id": "3_17595303",
+      "trip_id": "3_17699316",
       "direction_id": "0",
       "headsign": "GAJ pętla",
       "service_id": "3",
@@ -4683,7 +4683,7 @@
       ]
     },
     {
-      "trip_id": "3_17595304",
+      "trip_id": "3_17699317",
       "direction_id": "1",
       "headsign": "MOKRY DWÓR",
       "service_id": "3",
@@ -4817,7 +4817,7 @@
       ]
     },
     {
-      "trip_id": "3_17595305",
+      "trip_id": "3_17699318",
       "direction_id": "0",
       "headsign": "GAJ pętla",
       "service_id": "3",
@@ -4951,7 +4951,7 @@
       ]
     },
     {
-      "trip_id": "3_17595306",
+      "trip_id": "3_17699319",
       "direction_id": "1",
       "headsign": "Zajezdnia TYSKA",
       "service_id": "3",
@@ -5076,7 +5076,7 @@
       ]
     },
     {
-      "trip_id": "4_17599828",
+      "trip_id": "4_17703841",
       "direction_id": "0",
       "headsign": "GAJ pętla",
       "service_id": "4",
@@ -5201,7 +5201,7 @@
       ]
     },
     {
-      "trip_id": "4_17599829",
+      "trip_id": "4_17703842",
       "direction_id": "1",
       "headsign": "MOKRY DWÓR",
       "service_id": "4",
@@ -5335,7 +5335,7 @@
       ]
     },
     {
-      "trip_id": "4_17599830",
+      "trip_id": "4_17703843",
       "direction_id": "0",
       "headsign": "GAJ pętla",
       "service_id": "4",
@@ -5469,7 +5469,7 @@
       ]
     },
     {
-      "trip_id": "4_17599831",
+      "trip_id": "4_17703844",
       "direction_id": "1",
       "headsign": "MOKRY DWÓR",
       "service_id": "4",
@@ -5603,7 +5603,7 @@
       ]
     },
     {
-      "trip_id": "4_17599832",
+      "trip_id": "4_17703845",
       "direction_id": "0",
       "headsign": "GAJ pętla",
       "service_id": "4",
@@ -5737,7 +5737,7 @@
       ]
     },
     {
-      "trip_id": "4_17599833",
+      "trip_id": "4_17703846",
       "direction_id": "1",
       "headsign": "MOKRY DWÓR",
       "service_id": "4",
@@ -5871,7 +5871,7 @@
       ]
     },
     {
-      "trip_id": "4_17599834",
+      "trip_id": "4_17703847",
       "direction_id": "0",
       "headsign": "GAJ pętla",
       "service_id": "4",
@@ -6005,7 +6005,7 @@
       ]
     },
     {
-      "trip_id": "4_17599835",
+      "trip_id": "4_17703848",
       "direction_id": "1",
       "headsign": "MOKRY DWÓR",
       "service_id": "4",
@@ -6139,7 +6139,7 @@
       ]
     },
     {
-      "trip_id": "4_17599836",
+      "trip_id": "4_17703849",
       "direction_id": "0",
       "headsign": "GAJ pętla",
       "service_id": "4",
@@ -6273,7 +6273,7 @@
       ]
     },
     {
-      "trip_id": "4_17599837",
+      "trip_id": "4_17703850",
       "direction_id": "1",
       "headsign": "MOKRY DWÓR",
       "service_id": "4",
@@ -6407,7 +6407,7 @@
       ]
     },
     {
-      "trip_id": "4_17599838",
+      "trip_id": "4_17703851",
       "direction_id": "0",
       "headsign": "GAJ pętla",
       "service_id": "4",
@@ -6541,7 +6541,7 @@
       ]
     },
     {
-      "trip_id": "4_17599839",
+      "trip_id": "4_17703852",
       "direction_id": "1",
       "headsign": "MOKRY DWÓR",
       "service_id": "4",
@@ -6675,7 +6675,7 @@
       ]
     },
     {
-      "trip_id": "4_17599840",
+      "trip_id": "4_17703853",
       "direction_id": "0",
       "headsign": "GAJ pętla",
       "service_id": "4",
@@ -6809,7 +6809,7 @@
       ]
     },
     {
-      "trip_id": "4_17599841",
+      "trip_id": "4_17703854",
       "direction_id": "1",
       "headsign": "MOKRY DWÓR",
       "service_id": "4",
@@ -6943,7 +6943,7 @@
       ]
     },
     {
-      "trip_id": "4_17599842",
+      "trip_id": "4_17703855",
       "direction_id": "0",
       "headsign": "GAJ pętla",
       "service_id": "4",
@@ -7077,7 +7077,7 @@
       ]
     },
     {
-      "trip_id": "4_17599843",
+      "trip_id": "4_17703856",
       "direction_id": "1",
       "headsign": "MOKRY DWÓR",
       "service_id": "4",
@@ -7211,7 +7211,7 @@
       ]
     },
     {
-      "trip_id": "4_17599844",
+      "trip_id": "4_17703857",
       "direction_id": "0",
       "headsign": "GAJ pętla",
       "service_id": "4",
@@ -7345,7 +7345,7 @@
       ]
     },
     {
-      "trip_id": "4_17599845",
+      "trip_id": "4_17703858",
       "direction_id": "1",
       "headsign": "MOKRY DWÓR",
       "service_id": "4",
@@ -7479,7 +7479,7 @@
       ]
     },
     {
-      "trip_id": "4_17599846",
+      "trip_id": "4_17703859",
       "direction_id": "0",
       "headsign": "GAJ pętla",
       "service_id": "4",
@@ -7613,7 +7613,7 @@
       ]
     },
     {
-      "trip_id": "4_17599847",
+      "trip_id": "4_17703860",
       "direction_id": "1",
       "headsign": "MOKRY DWÓR",
       "service_id": "4",
@@ -7747,7 +7747,7 @@
       ]
     },
     {
-      "trip_id": "4_17599848",
+      "trip_id": "4_17703861",
       "direction_id": "0",
       "headsign": "GAJ pętla",
       "service_id": "4",
@@ -7881,7 +7881,7 @@
       ]
     },
     {
-      "trip_id": "4_17599849",
+      "trip_id": "4_17703862",
       "direction_id": "1",
       "headsign": "MOKRY DWÓR",
       "service_id": "4",
@@ -8015,7 +8015,7 @@
       ]
     },
     {
-      "trip_id": "4_17599850",
+      "trip_id": "4_17703863",
       "direction_id": "0",
       "headsign": "GAJ pętla",
       "service_id": "4",
@@ -8149,7 +8149,7 @@
       ]
     },
     {
-      "trip_id": "4_17599851",
+      "trip_id": "4_17703864",
       "direction_id": "1",
       "headsign": "MOKRY DWÓR",
       "service_id": "4",
@@ -8283,7 +8283,7 @@
       ]
     },
     {
-      "trip_id": "4_17599852",
+      "trip_id": "4_17703865",
       "direction_id": "0",
       "headsign": "GAJ pętla",
       "service_id": "4",
@@ -8417,7 +8417,7 @@
       ]
     },
     {
-      "trip_id": "4_17599853",
+      "trip_id": "4_17703866",
       "direction_id": "1",
       "headsign": "MOKRY DWÓR",
       "service_id": "4",
@@ -8551,7 +8551,7 @@
       ]
     },
     {
-      "trip_id": "4_17599854",
+      "trip_id": "4_17703867",
       "direction_id": "0",
       "headsign": "GAJ pętla",
       "service_id": "4",
@@ -8685,7 +8685,7 @@
       ]
     },
     {
-      "trip_id": "4_17599855",
+      "trip_id": "4_17703868",
       "direction_id": "1",
       "headsign": "MOKRY DWÓR",
       "service_id": "4",
@@ -8819,7 +8819,7 @@
       ]
     },
     {
-      "trip_id": "4_17599856",
+      "trip_id": "4_17703869",
       "direction_id": "0",
       "headsign": "GAJ pętla",
       "service_id": "4",
@@ -8953,7 +8953,7 @@
       ]
     },
     {
-      "trip_id": "4_17599857",
+      "trip_id": "4_17703870",
       "direction_id": "1",
       "headsign": "MOKRY DWÓR",
       "service_id": "4",
@@ -9087,7 +9087,7 @@
       ]
     },
     {
-      "trip_id": "4_17599858",
+      "trip_id": "4_17703871",
       "direction_id": "0",
       "headsign": "GAJ pętla",
       "service_id": "4",
@@ -9221,7 +9221,7 @@
       ]
     },
     {
-      "trip_id": "4_17599859",
+      "trip_id": "4_17703872",
       "direction_id": "1",
       "headsign": "MOKRY DWÓR",
       "service_id": "4",
@@ -9355,7 +9355,7 @@
       ]
     },
     {
-      "trip_id": "4_17599860",
+      "trip_id": "4_17703873",
       "direction_id": "0",
       "headsign": "GAJ pętla",
       "service_id": "4",
@@ -9489,7 +9489,7 @@
       ]
     },
     {
-      "trip_id": "4_17599861",
+      "trip_id": "4_17703874",
       "direction_id": "1",
       "headsign": "MOKRY DWÓR",
       "service_id": "4",
@@ -9623,7 +9623,7 @@
       ]
     },
     {
-      "trip_id": "4_17599862",
+      "trip_id": "4_17703875",
       "direction_id": "0",
       "headsign": "GAJ pętla",
       "service_id": "4",
@@ -9757,7 +9757,7 @@
       ]
     },
     {
-      "trip_id": "4_17599863",
+      "trip_id": "4_17703876",
       "direction_id": "1",
       "headsign": "MOKRY DWÓR",
       "service_id": "4",
@@ -9891,7 +9891,7 @@
       ]
     },
     {
-      "trip_id": "4_17599864",
+      "trip_id": "4_17703877",
       "direction_id": "0",
       "headsign": "GAJ pętla",
       "service_id": "4",
@@ -10025,7 +10025,7 @@
       ]
     },
     {
-      "trip_id": "4_17599865",
+      "trip_id": "4_17703878",
       "direction_id": "1",
       "headsign": "Zajezdnia TYSKA",
       "service_id": "4",
@@ -10150,7 +10150,7 @@
       ]
     },
     {
-      "trip_id": "6_17604237",
+      "trip_id": "6_17708250",
       "direction_id": "0",
       "headsign": "GAJ pętla",
       "service_id": "6",
@@ -10275,7 +10275,7 @@
       ]
     },
     {
-      "trip_id": "6_17604238",
+      "trip_id": "6_17708251",
       "direction_id": "1",
       "headsign": "MOKRY DWÓR",
       "service_id": "6",
@@ -10409,7 +10409,7 @@
       ]
     },
     {
-      "trip_id": "6_17604239",
+      "trip_id": "6_17708252",
       "direction_id": "0",
       "headsign": "GAJ pętla",
       "service_id": "6",
@@ -10543,7 +10543,7 @@
       ]
     },
     {
-      "trip_id": "6_17604240",
+      "trip_id": "6_17708253",
       "direction_id": "1",
       "headsign": "MOKRY DWÓR",
       "service_id": "6",
@@ -10677,7 +10677,7 @@
       ]
     },
     {
-      "trip_id": "6_17604241",
+      "trip_id": "6_17708254",
       "direction_id": "0",
       "headsign": "GAJ pętla",
       "service_id": "6",
@@ -10811,7 +10811,7 @@
       ]
     },
     {
-      "trip_id": "6_17604242",
+      "trip_id": "6_17708255",
       "direction_id": "1",
       "headsign": "MOKRY DWÓR",
       "service_id": "6",
@@ -10945,7 +10945,7 @@
       ]
     },
     {
-      "trip_id": "6_17604243",
+      "trip_id": "6_17708256",
       "direction_id": "0",
       "headsign": "GAJ pętla",
       "service_id": "6",
@@ -11079,7 +11079,7 @@
       ]
     },
     {
-      "trip_id": "6_17604244",
+      "trip_id": "6_17708257",
       "direction_id": "1",
       "headsign": "MOKRY DWÓR",
       "service_id": "6",
@@ -11213,7 +11213,7 @@
       ]
     },
     {
-      "trip_id": "6_17604245",
+      "trip_id": "6_17708258",
       "direction_id": "0",
       "headsign": "GAJ pętla",
       "service_id": "6",
@@ -11347,7 +11347,7 @@
       ]
     },
     {
-      "trip_id": "6_17604246",
+      "trip_id": "6_17708259",
       "direction_id": "1",
       "headsign": "MOKRY DWÓR",
       "service_id": "6",
@@ -11481,7 +11481,7 @@
       ]
     },
     {
-      "trip_id": "6_17604247",
+      "trip_id": "6_17708260",
       "direction_id": "0",
       "headsign": "GAJ pętla",
       "service_id": "6",
@@ -11615,7 +11615,7 @@
       ]
     },
     {
-      "trip_id": "6_17604248",
+      "trip_id": "6_17708261",
       "direction_id": "1",
       "headsign": "MOKRY DWÓR",
       "service_id": "6",
@@ -11749,7 +11749,7 @@
       ]
     },
     {
-      "trip_id": "6_17604249",
+      "trip_id": "6_17708262",
       "direction_id": "0",
       "headsign": "GAJ pętla",
       "service_id": "6",
@@ -11883,7 +11883,7 @@
       ]
     },
     {
-      "trip_id": "6_17604250",
+      "trip_id": "6_17708263",
       "direction_id": "1",
       "headsign": "MOKRY DWÓR",
       "service_id": "6",
@@ -12017,7 +12017,7 @@
       ]
     },
     {
-      "trip_id": "6_17604251",
+      "trip_id": "6_17708264",
       "direction_id": "0",
       "headsign": "GAJ pętla",
       "service_id": "6",
@@ -12151,7 +12151,7 @@
       ]
     },
     {
-      "trip_id": "6_17604252",
+      "trip_id": "6_17708265",
       "direction_id": "1",
       "headsign": "MOKRY DWÓR",
       "service_id": "6",
@@ -12285,7 +12285,7 @@
       ]
     },
     {
-      "trip_id": "6_17604253",
+      "trip_id": "6_17708266",
       "direction_id": "0",
       "headsign": "GAJ pętla",
       "service_id": "6",
@@ -12419,7 +12419,7 @@
       ]
     },
     {
-      "trip_id": "6_17604254",
+      "trip_id": "6_17708267",
       "direction_id": "1",
       "headsign": "MOKRY DWÓR",
       "service_id": "6",
@@ -12553,7 +12553,7 @@
       ]
     },
     {
-      "trip_id": "6_17604255",
+      "trip_id": "6_17708268",
       "direction_id": "0",
       "headsign": "GAJ pętla",
       "service_id": "6",
@@ -12687,7 +12687,7 @@
       ]
     },
     {
-      "trip_id": "6_17604256",
+      "trip_id": "6_17708269",
       "direction_id": "1",
       "headsign": "MOKRY DWÓR",
       "service_id": "6",
@@ -12821,7 +12821,7 @@
       ]
     },
     {
-      "trip_id": "6_17604257",
+      "trip_id": "6_17708270",
       "direction_id": "0",
       "headsign": "GAJ pętla",
       "service_id": "6",
@@ -12955,7 +12955,7 @@
       ]
     },
     {
-      "trip_id": "6_17604258",
+      "trip_id": "6_17708271",
       "direction_id": "1",
       "headsign": "MOKRY DWÓR",
       "service_id": "6",
@@ -13089,7 +13089,7 @@
       ]
     },
     {
-      "trip_id": "6_17604259",
+      "trip_id": "6_17708272",
       "direction_id": "0",
       "headsign": "GAJ pętla",
       "service_id": "6",
@@ -13223,7 +13223,7 @@
       ]
     },
     {
-      "trip_id": "6_17604260",
+      "trip_id": "6_17708273",
       "direction_id": "1",
       "headsign": "MOKRY DWÓR",
       "service_id": "6",
@@ -13357,7 +13357,7 @@
       ]
     },
     {
-      "trip_id": "6_17604261",
+      "trip_id": "6_17708274",
       "direction_id": "0",
       "headsign": "GAJ pętla",
       "service_id": "6",
@@ -13491,7 +13491,7 @@
       ]
     },
     {
-      "trip_id": "6_17604262",
+      "trip_id": "6_17708275",
       "direction_id": "1",
       "headsign": "MOKRY DWÓR",
       "service_id": "6",
@@ -13625,7 +13625,7 @@
       ]
     },
     {
-      "trip_id": "6_17604263",
+      "trip_id": "6_17708276",
       "direction_id": "0",
       "headsign": "GAJ pętla",
       "service_id": "6",
@@ -13759,7 +13759,7 @@
       ]
     },
     {
-      "trip_id": "6_17604264",
+      "trip_id": "6_17708277",
       "direction_id": "1",
       "headsign": "MOKRY DWÓR",
       "service_id": "6",
@@ -13893,7 +13893,7 @@
       ]
     },
     {
-      "trip_id": "6_17604265",
+      "trip_id": "6_17708278",
       "direction_id": "0",
       "headsign": "GAJ pętla",
       "service_id": "6",
@@ -14027,7 +14027,7 @@
       ]
     },
     {
-      "trip_id": "6_17604266",
+      "trip_id": "6_17708279",
       "direction_id": "1",
       "headsign": "MOKRY DWÓR",
       "service_id": "6",
@@ -14161,7 +14161,7 @@
       ]
     },
     {
-      "trip_id": "6_17604267",
+      "trip_id": "6_17708280",
       "direction_id": "0",
       "headsign": "GAJ pętla",
       "service_id": "6",
@@ -14295,7 +14295,7 @@
       ]
     },
     {
-      "trip_id": "6_17604268",
+      "trip_id": "6_17708281",
       "direction_id": "1",
       "headsign": "MOKRY DWÓR",
       "service_id": "6",
@@ -14429,7 +14429,7 @@
       ]
     },
     {
-      "trip_id": "6_17604269",
+      "trip_id": "6_17708282",
       "direction_id": "0",
       "headsign": "GAJ pętla",
       "service_id": "6",
@@ -14563,7 +14563,7 @@
       ]
     },
     {
-      "trip_id": "6_17604270",
+      "trip_id": "6_17708283",
       "direction_id": "1",
       "headsign": "MOKRY DWÓR",
       "service_id": "6",
@@ -14697,7 +14697,7 @@
       ]
     },
     {
-      "trip_id": "6_17604271",
+      "trip_id": "6_17708284",
       "direction_id": "0",
       "headsign": "GAJ pętla",
       "service_id": "6",
@@ -14831,7 +14831,7 @@
       ]
     },
     {
-      "trip_id": "6_17604272",
+      "trip_id": "6_17708285",
       "direction_id": "1",
       "headsign": "MOKRY DWÓR",
       "service_id": "6",
@@ -14965,7 +14965,7 @@
       ]
     },
     {
-      "trip_id": "6_17604273",
+      "trip_id": "6_17708286",
       "direction_id": "0",
       "headsign": "GAJ pętla",
       "service_id": "6",
@@ -15099,7 +15099,7 @@
       ]
     },
     {
-      "trip_id": "6_17604274",
+      "trip_id": "6_17708287",
       "direction_id": "1",
       "headsign": "Zajezdnia TYSKA",
       "service_id": "6",
@@ -15224,7 +15224,7 @@
       ]
     },
     {
-      "trip_id": "6_17604275",
+      "trip_id": "6_17708288",
       "direction_id": "0",
       "headsign": "GAJ pętla",
       "service_id": "6",
@@ -15349,7 +15349,7 @@
       ]
     },
     {
-      "trip_id": "6_17604276",
+      "trip_id": "6_17708289",
       "direction_id": "1",
       "headsign": "MOKRY DWÓR",
       "service_id": "6",
@@ -15483,7 +15483,7 @@
       ]
     },
     {
-      "trip_id": "6_17604277",
+      "trip_id": "6_17708290",
       "direction_id": "0",
       "headsign": "GAJ pętla",
       "service_id": "6",
@@ -15617,7 +15617,7 @@
       ]
     },
     {
-      "trip_id": "6_17604278",
+      "trip_id": "6_17708291",
       "direction_id": "1",
       "headsign": "MOKRY DWÓR",
       "service_id": "6",
@@ -15751,7 +15751,7 @@
       ]
     },
     {
-      "trip_id": "6_17604279",
+      "trip_id": "6_17708292",
       "direction_id": "0",
       "headsign": "GAJ pętla",
       "service_id": "6",
@@ -15885,7 +15885,7 @@
       ]
     },
     {
-      "trip_id": "6_17604280",
+      "trip_id": "6_17708293",
       "direction_id": "1",
       "headsign": "MOKRY DWÓR",
       "service_id": "6",
@@ -16019,7 +16019,7 @@
       ]
     },
     {
-      "trip_id": "6_17604281",
+      "trip_id": "6_17708294",
       "direction_id": "0",
       "headsign": "GAJ pętla",
       "service_id": "6",
@@ -16153,7 +16153,7 @@
       ]
     },
     {
-      "trip_id": "6_17604282",
+      "trip_id": "6_17708295",
       "direction_id": "1",
       "headsign": "Zajezdnia TYSKA",
       "service_id": "6",
@@ -16278,7 +16278,7 @@
       ]
     },
     {
-      "trip_id": "6_17604283",
+      "trip_id": "6_17708296",
       "direction_id": "0",
       "headsign": "GAJ pętla",
       "service_id": "6",
@@ -16403,7 +16403,7 @@
       ]
     },
     {
-      "trip_id": "6_17604284",
+      "trip_id": "6_17708297",
       "direction_id": "1",
       "headsign": "MOKRY DWÓR",
       "service_id": "6",
@@ -16537,7 +16537,7 @@
       ]
     },
     {
-      "trip_id": "6_17604285",
+      "trip_id": "6_17708298",
       "direction_id": "0",
       "headsign": "GAJ pętla",
       "service_id": "6",
@@ -16671,7 +16671,7 @@
       ]
     },
     {
-      "trip_id": "6_17604286",
+      "trip_id": "6_17708299",
       "direction_id": "1",
       "headsign": "MOKRY DWÓR",
       "service_id": "6",
@@ -16805,7 +16805,7 @@
       ]
     },
     {
-      "trip_id": "6_17604287",
+      "trip_id": "6_17708300",
       "direction_id": "0",
       "headsign": "GAJ pętla",
       "service_id": "6",
@@ -16939,7 +16939,7 @@
       ]
     },
     {
-      "trip_id": "6_17604288",
+      "trip_id": "6_17708301",
       "direction_id": "1",
       "headsign": "MOKRY DWÓR",
       "service_id": "6",
@@ -17073,7 +17073,7 @@
       ]
     },
     {
-      "trip_id": "6_17604289",
+      "trip_id": "6_17708302",
       "direction_id": "0",
       "headsign": "GAJ pętla",
       "service_id": "6",
@@ -17207,7 +17207,7 @@
       ]
     },
     {
-      "trip_id": "6_17604290",
+      "trip_id": "6_17708303",
       "direction_id": "1",
       "headsign": "Zajezdnia TYSKA",
       "service_id": "6",
@@ -17332,7 +17332,7 @@
       ]
     },
     {
-      "trip_id": "8_17611063",
+      "trip_id": "8_17715076",
       "direction_id": "0",
       "headsign": "GAJ pętla",
       "service_id": "8",
@@ -17457,7 +17457,7 @@
       ]
     },
     {
-      "trip_id": "8_17611064",
+      "trip_id": "8_17715077",
       "direction_id": "1",
       "headsign": "MOKRY DWÓR",
       "service_id": "8",
@@ -17591,7 +17591,7 @@
       ]
     },
     {
-      "trip_id": "8_17611065",
+      "trip_id": "8_17715078",
       "direction_id": "0",
       "headsign": "GAJ pętla",
       "service_id": "8",
@@ -17725,7 +17725,7 @@
       ]
     },
     {
-      "trip_id": "8_17611066",
+      "trip_id": "8_17715079",
       "direction_id": "1",
       "headsign": "MOKRY DWÓR",
       "service_id": "8",
@@ -17859,7 +17859,7 @@
       ]
     },
     {
-      "trip_id": "8_17611067",
+      "trip_id": "8_17715080",
       "direction_id": "0",
       "headsign": "GAJ pętla",
       "service_id": "8",
@@ -17993,7 +17993,7 @@
       ]
     },
     {
-      "trip_id": "8_17611068",
+      "trip_id": "8_17715081",
       "direction_id": "1",
       "headsign": "MOKRY DWÓR",
       "service_id": "8",
@@ -18127,7 +18127,7 @@
       ]
     },
     {
-      "trip_id": "8_17611069",
+      "trip_id": "8_17715082",
       "direction_id": "0",
       "headsign": "GAJ pętla",
       "service_id": "8",
@@ -18261,7 +18261,7 @@
       ]
     },
     {
-      "trip_id": "8_17611070",
+      "trip_id": "8_17715083",
       "direction_id": "1",
       "headsign": "MOKRY DWÓR",
       "service_id": "8",
@@ -18395,7 +18395,7 @@
       ]
     },
     {
-      "trip_id": "8_17611071",
+      "trip_id": "8_17715084",
       "direction_id": "0",
       "headsign": "GAJ pętla",
       "service_id": "8",
@@ -18529,7 +18529,7 @@
       ]
     },
     {
-      "trip_id": "8_17611072",
+      "trip_id": "8_17715085",
       "direction_id": "1",
       "headsign": "MOKRY DWÓR",
       "service_id": "8",
@@ -18663,7 +18663,7 @@
       ]
     },
     {
-      "trip_id": "8_17611073",
+      "trip_id": "8_17715086",
       "direction_id": "0",
       "headsign": "GAJ pętla",
       "service_id": "8",
@@ -18797,7 +18797,7 @@
       ]
     },
     {
-      "trip_id": "8_17611074",
+      "trip_id": "8_17715087",
       "direction_id": "1",
       "headsign": "MOKRY DWÓR",
       "service_id": "8",
@@ -18931,7 +18931,7 @@
       ]
     },
     {
-      "trip_id": "8_17611075",
+      "trip_id": "8_17715088",
       "direction_id": "0",
       "headsign": "GAJ pętla",
       "service_id": "8",
@@ -19065,7 +19065,7 @@
       ]
     },
     {
-      "trip_id": "8_17611076",
+      "trip_id": "8_17715089",
       "direction_id": "1",
       "headsign": "MOKRY DWÓR",
       "service_id": "8",
@@ -19199,7 +19199,7 @@
       ]
     },
     {
-      "trip_id": "8_17611077",
+      "trip_id": "8_17715090",
       "direction_id": "0",
       "headsign": "GAJ pętla",
       "service_id": "8",
@@ -19333,7 +19333,7 @@
       ]
     },
     {
-      "trip_id": "8_17611078",
+      "trip_id": "8_17715091",
       "direction_id": "1",
       "headsign": "MOKRY DWÓR",
       "service_id": "8",
@@ -19467,7 +19467,7 @@
       ]
     },
     {
-      "trip_id": "8_17611079",
+      "trip_id": "8_17715092",
       "direction_id": "0",
       "headsign": "GAJ pętla",
       "service_id": "8",
@@ -19601,7 +19601,7 @@
       ]
     },
     {
-      "trip_id": "8_17611080",
+      "trip_id": "8_17715093",
       "direction_id": "1",
       "headsign": "MOKRY DWÓR",
       "service_id": "8",
@@ -19735,7 +19735,7 @@
       ]
     },
     {
-      "trip_id": "8_17611081",
+      "trip_id": "8_17715094",
       "direction_id": "0",
       "headsign": "GAJ pętla",
       "service_id": "8",
@@ -19869,7 +19869,7 @@
       ]
     },
     {
-      "trip_id": "8_17611082",
+      "trip_id": "8_17715095",
       "direction_id": "1",
       "headsign": "MOKRY DWÓR",
       "service_id": "8",
@@ -20003,7 +20003,7 @@
       ]
     },
     {
-      "trip_id": "8_17611083",
+      "trip_id": "8_17715096",
       "direction_id": "0",
       "headsign": "GAJ pętla",
       "service_id": "8",
@@ -20137,7 +20137,7 @@
       ]
     },
     {
-      "trip_id": "8_17611084",
+      "trip_id": "8_17715097",
       "direction_id": "1",
       "headsign": "MOKRY DWÓR",
       "service_id": "8",
@@ -20271,7 +20271,7 @@
       ]
     },
     {
-      "trip_id": "8_17611085",
+      "trip_id": "8_17715098",
       "direction_id": "0",
       "headsign": "GAJ pętla",
       "service_id": "8",
@@ -20405,7 +20405,7 @@
       ]
     },
     {
-      "trip_id": "8_17611086",
+      "trip_id": "8_17715099",
       "direction_id": "1",
       "headsign": "MOKRY DWÓR",
       "service_id": "8",
@@ -20539,7 +20539,7 @@
       ]
     },
     {
-      "trip_id": "8_17611087",
+      "trip_id": "8_17715100",
       "direction_id": "0",
       "headsign": "GAJ pętla",
       "service_id": "8",
@@ -20673,7 +20673,7 @@
       ]
     },
     {
-      "trip_id": "8_17611088",
+      "trip_id": "8_17715101",
       "direction_id": "1",
       "headsign": "MOKRY DWÓR",
       "service_id": "8",
@@ -20807,7 +20807,7 @@
       ]
     },
     {
-      "trip_id": "8_17611089",
+      "trip_id": "8_17715102",
       "direction_id": "0",
       "headsign": "GAJ pętla",
       "service_id": "8",
@@ -20941,7 +20941,7 @@
       ]
     },
     {
-      "trip_id": "8_17611090",
+      "trip_id": "8_17715103",
       "direction_id": "1",
       "headsign": "MOKRY DWÓR",
       "service_id": "8",
@@ -21075,7 +21075,7 @@
       ]
     },
     {
-      "trip_id": "8_17611091",
+      "trip_id": "8_17715104",
       "direction_id": "0",
       "headsign": "GAJ pętla",
       "service_id": "8",
@@ -21209,7 +21209,7 @@
       ]
     },
     {
-      "trip_id": "8_17611092",
+      "trip_id": "8_17715105",
       "direction_id": "1",
       "headsign": "MOKRY DWÓR",
       "service_id": "8",
@@ -21343,7 +21343,7 @@
       ]
     },
     {
-      "trip_id": "8_17611093",
+      "trip_id": "8_17715106",
       "direction_id": "0",
       "headsign": "GAJ pętla",
       "service_id": "8",
@@ -21477,7 +21477,7 @@
       ]
     },
     {
-      "trip_id": "8_17611094",
+      "trip_id": "8_17715107",
       "direction_id": "1",
       "headsign": "MOKRY DWÓR",
       "service_id": "8",
@@ -21611,7 +21611,7 @@
       ]
     },
     {
-      "trip_id": "8_17611095",
+      "trip_id": "8_17715108",
       "direction_id": "0",
       "headsign": "GAJ pętla",
       "service_id": "8",
@@ -21745,7 +21745,7 @@
       ]
     },
     {
-      "trip_id": "8_17611096",
+      "trip_id": "8_17715109",
       "direction_id": "1",
       "headsign": "MOKRY DWÓR",
       "service_id": "8",
@@ -21879,7 +21879,7 @@
       ]
     },
     {
-      "trip_id": "8_17611097",
+      "trip_id": "8_17715110",
       "direction_id": "0",
       "headsign": "GAJ pętla",
       "service_id": "8",
@@ -22013,7 +22013,7 @@
       ]
     },
     {
-      "trip_id": "8_17611098",
+      "trip_id": "8_17715111",
       "direction_id": "1",
       "headsign": "MOKRY DWÓR",
       "service_id": "8",
@@ -22147,7 +22147,7 @@
       ]
     },
     {
-      "trip_id": "8_17611099",
+      "trip_id": "8_17715112",
       "direction_id": "0",
       "headsign": "GAJ pętla",
       "service_id": "8",
@@ -22281,7 +22281,7 @@
       ]
     },
     {
-      "trip_id": "8_17611100",
+      "trip_id": "8_17715113",
       "direction_id": "1",
       "headsign": "Zajezdnia TYSKA",
       "service_id": "8",
@@ -22406,7 +22406,7 @@
       ]
     },
     {
-      "trip_id": "8_17611101",
+      "trip_id": "8_17715114",
       "direction_id": "0",
       "headsign": "GAJ pętla",
       "service_id": "8",
@@ -22531,7 +22531,7 @@
       ]
     },
     {
-      "trip_id": "8_17611102",
+      "trip_id": "8_17715115",
       "direction_id": "1",
       "headsign": "MOKRY DWÓR",
       "service_id": "8",
@@ -22665,7 +22665,7 @@
       ]
     },
     {
-      "trip_id": "8_17611103",
+      "trip_id": "8_17715116",
       "direction_id": "0",
       "headsign": "GAJ pętla",
       "service_id": "8",
@@ -22799,7 +22799,7 @@
       ]
     },
     {
-      "trip_id": "8_17611104",
+      "trip_id": "8_17715117",
       "direction_id": "1",
       "headsign": "MOKRY DWÓR",
       "service_id": "8",
@@ -22933,7 +22933,7 @@
       ]
     },
     {
-      "trip_id": "8_17611105",
+      "trip_id": "8_17715118",
       "direction_id": "0",
       "headsign": "GAJ pętla",
       "service_id": "8",
@@ -23067,7 +23067,7 @@
       ]
     },
     {
-      "trip_id": "8_17611106",
+      "trip_id": "8_17715119",
       "direction_id": "1",
       "headsign": "MOKRY DWÓR",
       "service_id": "8",
@@ -23201,7 +23201,7 @@
       ]
     },
     {
-      "trip_id": "8_17611107",
+      "trip_id": "8_17715120",
       "direction_id": "0",
       "headsign": "GAJ pętla",
       "service_id": "8",
@@ -23335,7 +23335,7 @@
       ]
     },
     {
-      "trip_id": "8_17611108",
+      "trip_id": "8_17715121",
       "direction_id": "1",
       "headsign": "Zajezdnia TYSKA",
       "service_id": "8",
@@ -23460,7 +23460,7 @@
       ]
     },
     {
-      "trip_id": "8_17611109",
+      "trip_id": "8_17715122",
       "direction_id": "0",
       "headsign": "GAJ pętla",
       "service_id": "8",
@@ -23585,7 +23585,7 @@
       ]
     },
     {
-      "trip_id": "8_17611110",
+      "trip_id": "8_17715123",
       "direction_id": "1",
       "headsign": "MOKRY DWÓR",
       "service_id": "8",
@@ -23719,7 +23719,7 @@
       ]
     },
     {
-      "trip_id": "8_17611111",
+      "trip_id": "8_17715124",
       "direction_id": "0",
       "headsign": "GAJ pętla",
       "service_id": "8",
@@ -23853,7 +23853,7 @@
       ]
     },
     {
-      "trip_id": "8_17611112",
+      "trip_id": "8_17715125",
       "direction_id": "1",
       "headsign": "MOKRY DWÓR",
       "service_id": "8",
@@ -23987,7 +23987,7 @@
       ]
     },
     {
-      "trip_id": "8_17611113",
+      "trip_id": "8_17715126",
       "direction_id": "0",
       "headsign": "GAJ pętla",
       "service_id": "8",
@@ -24121,7 +24121,7 @@
       ]
     },
     {
-      "trip_id": "8_17611114",
+      "trip_id": "8_17715127",
       "direction_id": "1",
       "headsign": "MOKRY DWÓR",
       "service_id": "8",
@@ -24255,7 +24255,7 @@
       ]
     },
     {
-      "trip_id": "8_17611115",
+      "trip_id": "8_17715128",
       "direction_id": "0",
       "headsign": "GAJ pętla",
       "service_id": "8",
@@ -24389,7 +24389,7 @@
       ]
     },
     {
-      "trip_id": "8_17611116",
+      "trip_id": "8_17715129",
       "direction_id": "1",
       "headsign": "Zajezdnia TYSKA",
       "service_id": "8",

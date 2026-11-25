@@ -2,7 +2,7 @@
   "line": "121",
   "trips": [
     {
-      "trip_id": "3_17618229",
+      "trip_id": "3_17636909",
       "direction_id": "1",
       "headsign": "KIEŁCZOWSKA (Cmentarz)",
       "service_id": "3",
@@ -181,7 +181,7 @@
       ]
     },
     {
-      "trip_id": "3_17618232",
+      "trip_id": "3_17636912",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "3",
@@ -387,7 +387,7 @@
       ]
     },
     {
-      "trip_id": "3_17618233",
+      "trip_id": "3_17636913",
       "direction_id": "1",
       "headsign": "KIEŁCZOWSKA (Cmentarz)",
       "service_id": "3",
@@ -566,7 +566,7 @@
       ]
     },
     {
-      "trip_id": "3_17618234",
+      "trip_id": "3_17636914",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "3",
@@ -772,7 +772,7 @@
       ]
     },
     {
-      "trip_id": "3_17618235",
+      "trip_id": "3_17636915",
       "direction_id": "1",
       "headsign": "KIEŁCZOWSKA (Cmentarz)",
       "service_id": "3",
@@ -951,7 +951,7 @@
       ]
     },
     {
-      "trip_id": "3_17618238",
+      "trip_id": "3_17636918",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "3",
@@ -1157,7 +1157,7 @@
       ]
     },
     {
-      "trip_id": "3_17618239",
+      "trip_id": "3_17636919",
       "direction_id": "1",
       "headsign": "KIEŁCZOWSKA (Cmentarz)",
       "service_id": "3",
@@ -1336,7 +1336,7 @@
       ]
     },
     {
-      "trip_id": "3_17618242",
+      "trip_id": "3_17636922",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "3",
@@ -1542,7 +1542,7 @@
       ]
     },
     {
-      "trip_id": "3_17618243",
+      "trip_id": "3_17636923",
       "direction_id": "1",
       "headsign": "KIEŁCZOWSKA (Cmentarz)",
       "service_id": "3",
@@ -1721,7 +1721,7 @@
       ]
     },
     {
-      "trip_id": "3_17618246",
+      "trip_id": "3_17636926",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "3",
@@ -1927,7 +1927,7 @@
       ]
     },
     {
-      "trip_id": "3_17618247",
+      "trip_id": "3_17636927",
       "direction_id": "1",
       "headsign": "KIEŁCZOWSKA (Cmentarz)",
       "service_id": "3",
@@ -2106,7 +2106,7 @@
       ]
     },
     {
-      "trip_id": "3_17618250",
+      "trip_id": "3_17636930",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "3",
@@ -2312,7 +2312,7 @@
       ]
     },
     {
-      "trip_id": "3_17618251",
+      "trip_id": "3_17636931",
       "direction_id": "1",
       "headsign": "KIEŁCZOWSKA (Cmentarz)",
       "service_id": "3",
@@ -2491,7 +2491,7 @@
       ]
     },
     {
-      "trip_id": "3_17618254",
+      "trip_id": "3_17636934",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "3",
@@ -2697,7 +2697,7 @@
       ]
     },
     {
-      "trip_id": "3_17618255",
+      "trip_id": "3_17636935",
       "direction_id": "1",
       "headsign": "KIEŁCZOWSKA (Cmentarz)",
       "service_id": "3",
@@ -2876,7 +2876,7 @@
       ]
     },
     {
-      "trip_id": "3_17618258",
+      "trip_id": "3_17636938",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "3",
@@ -3082,7 +3082,7 @@
       ]
     },
     {
-      "trip_id": "3_17618259",
+      "trip_id": "3_17636939",
       "direction_id": "1",
       "headsign": "KIEŁCZOWSKA (Cmentarz)",
       "service_id": "3",
@@ -3261,7 +3261,7 @@
       ]
     },
     {
-      "trip_id": "3_17618262",
+      "trip_id": "3_17636942",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "3",
@@ -3467,7 +3467,7 @@
       ]
     },
     {
-      "trip_id": "3_17618263",
+      "trip_id": "3_17636943",
       "direction_id": "1",
       "headsign": "KIEŁCZOWSKA (Cmentarz)",
       "service_id": "3",
@@ -3646,7 +3646,7 @@
       ]
     },
     {
-      "trip_id": "3_17618265",
+      "trip_id": "3_17636945",
       "direction_id": "1",
       "headsign": "KIEŁCZOWSKA (Cmentarz)",
       "service_id": "3",
@@ -3825,7 +3825,7 @@
       ]
     },
     {
-      "trip_id": "3_17618268",
+      "trip_id": "3_17636948",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "3",
@@ -4031,7 +4031,7 @@
       ]
     },
     {
-      "trip_id": "3_17618269",
+      "trip_id": "3_17636949",
       "direction_id": "1",
       "headsign": "KIEŁCZOWSKA (Cmentarz)",
       "service_id": "3",
@@ -4210,7 +4210,7 @@
       ]
     },
     {
-      "trip_id": "3_17618272",
+      "trip_id": "3_17636952",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "3",
@@ -4416,7 +4416,7 @@
       ]
     },
     {
-      "trip_id": "3_17618273",
+      "trip_id": "3_17636953",
       "direction_id": "1",
       "headsign": "KIEŁCZOWSKA (Cmentarz)",
       "service_id": "3",
@@ -4595,7 +4595,7 @@
       ]
     },
     {
-      "trip_id": "3_17618276",
+      "trip_id": "3_17636956",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "3",
@@ -4801,7 +4801,7 @@
       ]
     },
     {
-      "trip_id": "3_17618277",
+      "trip_id": "3_17636957",
       "direction_id": "1",
       "headsign": "KIEŁCZOWSKA (Cmentarz)",
       "service_id": "3",
@@ -4980,7 +4980,7 @@
       ]
     },
     {
-      "trip_id": "3_17618280",
+      "trip_id": "3_17636960",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "3",
@@ -5186,7 +5186,7 @@
       ]
     },
     {
-      "trip_id": "3_17618281",
+      "trip_id": "3_17636961",
       "direction_id": "1",
       "headsign": "KIEŁCZOWSKA (Cmentarz)",
       "service_id": "3",
@@ -5365,7 +5365,7 @@
       ]
     },
     {
-      "trip_id": "3_17618284",
+      "trip_id": "3_17636964",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "3",
@@ -5571,7 +5571,7 @@
       ]
     },
     {
-      "trip_id": "3_17618285",
+      "trip_id": "3_17636965",
       "direction_id": "1",
       "headsign": "KIEŁCZOWSKA (Cmentarz)",
       "service_id": "3",
@@ -5750,7 +5750,7 @@
       ]
     },
     {
-      "trip_id": "3_17618288",
+      "trip_id": "3_17636968",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "3",
@@ -5956,7 +5956,7 @@
       ]
     },
     {
-      "trip_id": "3_17618289",
+      "trip_id": "3_17636969",
       "direction_id": "1",
       "headsign": "KIEŁCZOWSKA (Cmentarz)",
       "service_id": "3",
@@ -6135,7 +6135,7 @@
       ]
     },
     {
-      "trip_id": "3_17618292",
+      "trip_id": "3_17636972",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "3",
@@ -6341,7 +6341,7 @@
       ]
     },
     {
-      "trip_id": "3_17618293",
+      "trip_id": "3_17636973",
       "direction_id": "1",
       "headsign": "KIEŁCZOWSKA (Cmentarz)",
       "service_id": "3",
@@ -6520,7 +6520,7 @@
       ]
     },
     {
-      "trip_id": "3_17618294",
+      "trip_id": "3_17636974",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "3",
@@ -6726,7 +6726,7 @@
       ]
     },
     {
-      "trip_id": "3_17618295",
+      "trip_id": "3_17636975",
       "direction_id": "1",
       "headsign": "KIEŁCZOWSKA (Cmentarz)",
       "service_id": "3",
@@ -6905,7 +6905,7 @@
       ]
     },
     {
-      "trip_id": "3_17618298",
+      "trip_id": "3_17636978",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "3",
@@ -7111,7 +7111,7 @@
       ]
     },
     {
-      "trip_id": "3_17618299",
+      "trip_id": "3_17636979",
       "direction_id": "1",
       "headsign": "KIEŁCZOWSKA (Cmentarz)",
       "service_id": "3",
@@ -7290,7 +7290,7 @@
       ]
     },
     {
-      "trip_id": "3_17618302",
+      "trip_id": "3_17636982",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "3",
@@ -7496,7 +7496,7 @@
       ]
     },
     {
-      "trip_id": "3_17618354",
+      "trip_id": "3_17637034",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "3",
@@ -7702,7 +7702,7 @@
       ]
     },
     {
-      "trip_id": "3_17618428",
+      "trip_id": "3_17637108",
       "direction_id": "1",
       "headsign": "KIEŁCZOWSKA (Cmentarz)",
       "service_id": "3",
@@ -7881,7 +7881,7 @@
       ]
     },
     {
-      "trip_id": "3_17618431",
+      "trip_id": "3_17637111",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "3",
@@ -8087,7 +8087,7 @@
       ]
     },
     {
-      "trip_id": "3_17618432",
+      "trip_id": "3_17637112",
       "direction_id": "1",
       "headsign": "KIEŁCZOWSKA (Cmentarz)",
       "service_id": "3",
@@ -8266,7 +8266,7 @@
       ]
     },
     {
-      "trip_id": "3_17618435",
+      "trip_id": "3_17637115",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "3",
@@ -8472,7 +8472,7 @@
       ]
     },
     {
-      "trip_id": "3_17618436",
+      "trip_id": "3_17637116",
       "direction_id": "1",
       "headsign": "KIEŁCZOWSKA (Cmentarz)",
       "service_id": "3",
@@ -8651,7 +8651,7 @@
       ]
     },
     {
-      "trip_id": "3_17618439",
+      "trip_id": "3_17637119",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "3",
@@ -8857,7 +8857,7 @@
       ]
     },
     {
-      "trip_id": "3_17618440",
+      "trip_id": "3_17637120",
       "direction_id": "1",
       "headsign": "KIEŁCZOWSKA (Cmentarz)",
       "service_id": "3",
@@ -9036,7 +9036,7 @@
       ]
     },
     {
-      "trip_id": "3_17618443",
+      "trip_id": "3_17637123",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "3",
@@ -9242,7 +9242,7 @@
       ]
     },
     {
-      "trip_id": "3_17618444",
+      "trip_id": "3_17637124",
       "direction_id": "1",
       "headsign": "KIEŁCZOWSKA (Cmentarz)",
       "service_id": "3",
@@ -9421,7 +9421,7 @@
       ]
     },
     {
-      "trip_id": "3_17618447",
+      "trip_id": "3_17637127",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "3",
@@ -9627,7 +9627,7 @@
       ]
     },
     {
-      "trip_id": "3_17618448",
+      "trip_id": "3_17637128",
       "direction_id": "1",
       "headsign": "KIEŁCZOWSKA (Cmentarz)",
       "service_id": "3",
@@ -9806,7 +9806,7 @@
       ]
     },
     {
-      "trip_id": "3_17618451",
+      "trip_id": "3_17637131",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "3",
@@ -10012,7 +10012,7 @@
       ]
     },
     {
-      "trip_id": "3_17618481",
+      "trip_id": "3_17637156",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "3",
@@ -10218,7 +10218,7 @@
       ]
     },
     {
-      "trip_id": "3_17618482",
+      "trip_id": "3_17637157",
       "direction_id": "1",
       "headsign": "KIEŁCZOWSKA (Cmentarz)",
       "service_id": "3",
@@ -10397,7 +10397,7 @@
       ]
     },
     {
-      "trip_id": "3_17618485",
+      "trip_id": "3_17637160",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "3",
@@ -10603,7 +10603,7 @@
       ]
     },
     {
-      "trip_id": "3_17618486",
+      "trip_id": "3_17637161",
       "direction_id": "1",
       "headsign": "KIEŁCZOWSKA (Cmentarz)",
       "service_id": "3",
@@ -10782,7 +10782,7 @@
       ]
     },
     {
-      "trip_id": "3_17618489",
+      "trip_id": "3_17637164",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "3",
@@ -10988,7 +10988,7 @@
       ]
     },
     {
-      "trip_id": "3_17618490",
+      "trip_id": "3_17637165",
       "direction_id": "1",
       "headsign": "KIEŁCZOWSKA (Cmentarz)",
       "service_id": "3",
@@ -11167,7 +11167,7 @@
       ]
     },
     {
-      "trip_id": "3_17618493",
+      "trip_id": "3_17637168",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "3",
@@ -11373,7 +11373,7 @@
       ]
     },
     {
-      "trip_id": "3_17618494",
+      "trip_id": "3_17637169",
       "direction_id": "1",
       "headsign": "KIEŁCZOWSKA (Cmentarz)",
       "service_id": "3",
@@ -11552,7 +11552,7 @@
       ]
     },
     {
-      "trip_id": "3_17618497",
+      "trip_id": "3_17637172",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "3",
@@ -11758,7 +11758,7 @@
       ]
     },
     {
-      "trip_id": "3_17618498",
+      "trip_id": "3_17637173",
       "direction_id": "1",
       "headsign": "KIEŁCZOWSKA (Cmentarz)",
       "service_id": "3",
@@ -11937,7 +11937,7 @@
       ]
     },
     {
-      "trip_id": "4_17618538",
+      "trip_id": "4_17637213",
       "direction_id": "1",
       "headsign": "KIEŁCZOWSKA (Cmentarz)",
       "service_id": "4",
@@ -12116,7 +12116,7 @@
       ]
     },
     {
-      "trip_id": "4_17618541",
+      "trip_id": "4_17637216",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "4",
@@ -12322,7 +12322,7 @@
       ]
     },
     {
-      "trip_id": "4_17618542",
+      "trip_id": "4_17637217",
       "direction_id": "1",
       "headsign": "KIEŁCZOWSKA (Cmentarz)",
       "service_id": "4",
@@ -12501,7 +12501,7 @@
       ]
     },
     {
-      "trip_id": "4_17618545",
+      "trip_id": "4_17637220",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "4",
@@ -12707,7 +12707,7 @@
       ]
     },
     {
-      "trip_id": "4_17618546",
+      "trip_id": "4_17637221",
       "direction_id": "1",
       "headsign": "KIEŁCZOWSKA (Cmentarz)",
       "service_id": "4",
@@ -12886,7 +12886,7 @@
       ]
     },
     {
-      "trip_id": "4_17618547",
+      "trip_id": "4_17637222",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "4",
@@ -13092,7 +13092,7 @@
       ]
     },
     {
-      "trip_id": "4_17618548",
+      "trip_id": "4_17637223",
       "direction_id": "1",
       "headsign": "KIEŁCZOWSKA (Cmentarz)",
       "service_id": "4",
@@ -13271,7 +13271,7 @@
       ]
     },
     {
-      "trip_id": "4_17618551",
+      "trip_id": "4_17637226",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "4",
@@ -13477,7 +13477,7 @@
       ]
     },
     {
-      "trip_id": "4_17618552",
+      "trip_id": "4_17637227",
       "direction_id": "1",
       "headsign": "KIEŁCZOWSKA (Cmentarz)",
       "service_id": "4",
@@ -13656,7 +13656,7 @@
       ]
     },
     {
-      "trip_id": "4_17618553",
+      "trip_id": "4_17637228",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "4",
@@ -13862,7 +13862,7 @@
       ]
     },
     {
-      "trip_id": "4_17618554",
+      "trip_id": "4_17637229",
       "direction_id": "1",
       "headsign": "KIEŁCZOWSKA (Cmentarz)",
       "service_id": "4",
@@ -14041,7 +14041,7 @@
       ]
     },
     {
-      "trip_id": "4_17618557",
+      "trip_id": "4_17637232",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "4",
@@ -14247,7 +14247,7 @@
       ]
     },
     {
-      "trip_id": "4_17618558",
+      "trip_id": "4_17637233",
       "direction_id": "1",
       "headsign": "KIEŁCZOWSKA (Cmentarz)",
       "service_id": "4",
@@ -14426,7 +14426,7 @@
       ]
     },
     {
-      "trip_id": "4_17618559",
+      "trip_id": "4_17637234",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "4",
@@ -14632,7 +14632,7 @@
       ]
     },
     {
-      "trip_id": "4_17618560",
+      "trip_id": "4_17637235",
       "direction_id": "1",
       "headsign": "KIEŁCZOWSKA (Cmentarz)",
       "service_id": "4",
@@ -14811,7 +14811,7 @@
       ]
     },
     {
-      "trip_id": "4_17618563",
+      "trip_id": "4_17637238",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "4",
@@ -15017,7 +15017,7 @@
       ]
     },
     {
-      "trip_id": "4_17618564",
+      "trip_id": "4_17637239",
       "direction_id": "1",
       "headsign": "KIEŁCZOWSKA (Cmentarz)",
       "service_id": "4",
@@ -15196,7 +15196,7 @@
       ]
     },
     {
-      "trip_id": "4_17618565",
+      "trip_id": "4_17637240",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "4",
@@ -15402,7 +15402,7 @@
       ]
     },
     {
-      "trip_id": "4_17618566",
+      "trip_id": "4_17637241",
       "direction_id": "1",
       "headsign": "KIEŁCZOWSKA (Cmentarz)",
       "service_id": "4",
@@ -15581,7 +15581,7 @@
       ]
     },
     {
-      "trip_id": "4_17618569",
+      "trip_id": "4_17637244",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "4",
@@ -15787,7 +15787,7 @@
       ]
     },
     {
-      "trip_id": "4_17618570",
+      "trip_id": "4_17637245",
       "direction_id": "1",
       "headsign": "KIEŁCZOWSKA (Cmentarz)",
       "service_id": "4",
@@ -15966,7 +15966,7 @@
       ]
     },
     {
-      "trip_id": "4_17618573",
+      "trip_id": "4_17637248",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "4",
@@ -16172,7 +16172,7 @@
       ]
     },
     {
-      "trip_id": "4_17618737",
+      "trip_id": "4_17637412",
       "direction_id": "1",
       "headsign": "KIEŁCZOWSKA (Cmentarz)",
       "service_id": "4",
@@ -16351,7 +16351,7 @@
       ]
     },
     {
-      "trip_id": "4_17618740",
+      "trip_id": "4_17637415",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "4",
@@ -16557,7 +16557,7 @@
       ]
     },
     {
-      "trip_id": "4_17618741",
+      "trip_id": "4_17637416",
       "direction_id": "1",
       "headsign": "KIEŁCZOWSKA (Cmentarz)",
       "service_id": "4",
@@ -16736,7 +16736,7 @@
       ]
     },
     {
-      "trip_id": "4_17618742",
+      "trip_id": "4_17637417",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "4",
@@ -16942,7 +16942,7 @@
       ]
     },
     {
-      "trip_id": "4_17618743",
+      "trip_id": "4_17637418",
       "direction_id": "1",
       "headsign": "KIEŁCZOWSKA (Cmentarz)",
       "service_id": "4",
@@ -17121,7 +17121,7 @@
       ]
     },
     {
-      "trip_id": "4_17618746",
+      "trip_id": "4_17637421",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "4",
@@ -17327,7 +17327,7 @@
       ]
     },
     {
-      "trip_id": "4_17618747",
+      "trip_id": "4_17637422",
       "direction_id": "1",
       "headsign": "KIEŁCZOWSKA (Cmentarz)",
       "service_id": "4",
@@ -17506,7 +17506,7 @@
       ]
     },
     {
-      "trip_id": "4_17618748",
+      "trip_id": "4_17637423",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "4",
@@ -17712,7 +17712,7 @@
       ]
     },
     {
-      "trip_id": "4_17618749",
+      "trip_id": "4_17637424",
       "direction_id": "1",
       "headsign": "KIEŁCZOWSKA (Cmentarz)",
       "service_id": "4",
@@ -17891,7 +17891,7 @@
       ]
     },
     {
-      "trip_id": "4_17618752",
+      "trip_id": "4_17637427",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "4",
@@ -18097,7 +18097,7 @@
       ]
     },
     {
-      "trip_id": "4_17618753",
+      "trip_id": "4_17637428",
       "direction_id": "1",
       "headsign": "KIEŁCZOWSKA (Cmentarz)",
       "service_id": "4",
@@ -18276,7 +18276,7 @@
       ]
     },
     {
-      "trip_id": "4_17618754",
+      "trip_id": "4_17637429",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "4",
@@ -18482,7 +18482,7 @@
       ]
     },
     {
-      "trip_id": "4_17618755",
+      "trip_id": "4_17637430",
       "direction_id": "1",
       "headsign": "KIEŁCZOWSKA (Cmentarz)",
       "service_id": "4",
@@ -18661,7 +18661,7 @@
       ]
     },
     {
-      "trip_id": "4_17618758",
+      "trip_id": "4_17637433",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "4",
@@ -18867,7 +18867,7 @@
       ]
     },
     {
-      "trip_id": "4_17618759",
+      "trip_id": "4_17637434",
       "direction_id": "1",
       "headsign": "KIEŁCZOWSKA (Cmentarz)",
       "service_id": "4",
@@ -19046,7 +19046,7 @@
       ]
     },
     {
-      "trip_id": "4_17618760",
+      "trip_id": "4_17637435",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "4",
@@ -19252,7 +19252,7 @@
       ]
     },
     {
-      "trip_id": "4_17618844",
+      "trip_id": "4_17637519",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "4",
@@ -19458,7 +19458,7 @@
       ]
     },
     {
-      "trip_id": "4_17618845",
+      "trip_id": "4_17637520",
       "direction_id": "1",
       "headsign": "KIEŁCZOWSKA (Cmentarz)",
       "service_id": "4",
@@ -19637,7 +19637,7 @@
       ]
     },
     {
-      "trip_id": "4_17618848",
+      "trip_id": "4_17637523",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "4",
@@ -19843,7 +19843,7 @@
       ]
     },
     {
-      "trip_id": "4_17618849",
+      "trip_id": "4_17637524",
       "direction_id": "1",
       "headsign": "KIEŁCZOWSKA (Cmentarz)",
       "service_id": "4",
@@ -20022,7 +20022,7 @@
       ]
     },
     {
-      "trip_id": "4_17618850",
+      "trip_id": "4_17637525",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "4",
@@ -20228,7 +20228,7 @@
       ]
     },
     {
-      "trip_id": "4_17618851",
+      "trip_id": "4_17637526",
       "direction_id": "1",
       "headsign": "KIEŁCZOWSKA (Cmentarz)",
       "service_id": "4",
@@ -20407,7 +20407,7 @@
       ]
     },
     {
-      "trip_id": "4_17618854",
+      "trip_id": "4_17637529",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "4",
@@ -20613,7 +20613,7 @@
       ]
     },
     {
-      "trip_id": "4_17618855",
+      "trip_id": "4_17637530",
       "direction_id": "1",
       "headsign": "KIEŁCZOWSKA (Cmentarz)",
       "service_id": "4",
@@ -20792,7 +20792,7 @@
       ]
     },
     {
-      "trip_id": "4_17618856",
+      "trip_id": "4_17637531",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "4",
@@ -20998,7 +20998,7 @@
       ]
     },
     {
-      "trip_id": "4_17618857",
+      "trip_id": "4_17637532",
       "direction_id": "1",
       "headsign": "KIEŁCZOWSKA (Cmentarz)",
       "service_id": "4",
@@ -21177,7 +21177,7 @@
       ]
     },
     {
-      "trip_id": "4_17618860",
+      "trip_id": "4_17637535",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "4",
@@ -21383,7 +21383,7 @@
       ]
     },
     {
-      "trip_id": "4_17618861",
+      "trip_id": "4_17637536",
       "direction_id": "1",
       "headsign": "KIEŁCZOWSKA (Cmentarz)",
       "service_id": "4",
@@ -21562,7 +21562,7 @@
       ]
     },
     {
-      "trip_id": "4_17618862",
+      "trip_id": "4_17637537",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "4",
@@ -21768,7 +21768,7 @@
       ]
     },
     {
-      "trip_id": "4_17618863",
+      "trip_id": "4_17637538",
       "direction_id": "1",
       "headsign": "KIEŁCZOWSKA (Cmentarz)",
       "service_id": "4",
@@ -21947,7 +21947,7 @@
       ]
     },
     {
-      "trip_id": "4_17618866",
+      "trip_id": "4_17637541",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "4",
@@ -22153,7 +22153,7 @@
       ]
     },
     {
-      "trip_id": "4_17618867",
+      "trip_id": "4_17637542",
       "direction_id": "1",
       "headsign": "KIEŁCZOWSKA (Cmentarz)",
       "service_id": "4",
@@ -22332,7 +22332,7 @@
       ]
     },
     {
-      "trip_id": "4_17618868",
+      "trip_id": "4_17637543",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "4",
@@ -22538,7 +22538,7 @@
       ]
     },
     {
-      "trip_id": "4_17618869",
+      "trip_id": "4_17637544",
       "direction_id": "1",
       "headsign": "KIEŁCZOWSKA (Cmentarz)",
       "service_id": "4",
@@ -22717,7 +22717,7 @@
       ]
     },
     {
-      "trip_id": "4_17618872",
+      "trip_id": "4_17637547",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "4",
@@ -22923,7 +22923,7 @@
       ]
     },
     {
-      "trip_id": "4_17618873",
+      "trip_id": "4_17637548",
       "direction_id": "1",
       "headsign": "KIEŁCZOWSKA (Cmentarz)",
       "service_id": "4",
@@ -23102,7 +23102,7 @@
       ]
     },
     {
-      "trip_id": "4_17618876",
+      "trip_id": "4_17637551",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "4",
@@ -23308,7 +23308,7 @@
       ]
     },
     {
-      "trip_id": "4_17618877",
+      "trip_id": "4_17637552",
       "direction_id": "1",
       "headsign": "KIEŁCZOWSKA (Cmentarz)",
       "service_id": "4",
@@ -23487,7 +23487,7 @@
       ]
     },
     {
-      "trip_id": "4_17618878",
+      "trip_id": "4_17637553",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "4",
@@ -23693,7 +23693,7 @@
       ]
     },
     {
-      "trip_id": "6_17619214",
+      "trip_id": "6_17637889",
       "direction_id": "1",
       "headsign": "KIEŁCZOWSKA (Cmentarz)",
       "service_id": "6",
@@ -23872,7 +23872,7 @@
       ]
     },
     {
-      "trip_id": "6_17619217",
+      "trip_id": "6_17637892",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "6",
@@ -24078,7 +24078,7 @@
       ]
     },
     {
-      "trip_id": "6_17619218",
+      "trip_id": "6_17637893",
       "direction_id": "1",
       "headsign": "KIEŁCZOWSKA (Cmentarz)",
       "service_id": "6",
@@ -24257,7 +24257,7 @@
       ]
     },
     {
-      "trip_id": "6_17619219",
+      "trip_id": "6_17637894",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "6",
@@ -24463,7 +24463,7 @@
       ]
     },
     {
-      "trip_id": "6_17619220",
+      "trip_id": "6_17637895",
       "direction_id": "1",
       "headsign": "KIEŁCZOWSKA (Cmentarz)",
       "service_id": "6",
@@ -24642,7 +24642,7 @@
       ]
     },
     {
-      "trip_id": "6_17619223",
+      "trip_id": "6_17637898",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "6",
@@ -24848,7 +24848,7 @@
       ]
     },
     {
-      "trip_id": "6_17619224",
+      "trip_id": "6_17637899",
       "direction_id": "1",
       "headsign": "KIEŁCZOWSKA (Cmentarz)",
       "service_id": "6",
@@ -25027,7 +25027,7 @@
       ]
     },
     {
-      "trip_id": "6_17619227",
+      "trip_id": "6_17637902",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "6",
@@ -25233,7 +25233,7 @@
       ]
     },
     {
-      "trip_id": "6_17619228",
+      "trip_id": "6_17637903",
       "direction_id": "1",
       "headsign": "KIEŁCZOWSKA (Cmentarz)",
       "service_id": "6",
@@ -25412,7 +25412,7 @@
       ]
     },
     {
-      "trip_id": "6_17619231",
+      "trip_id": "6_17637906",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "6",
@@ -25618,7 +25618,7 @@
       ]
     },
     {
-      "trip_id": "6_17619232",
+      "trip_id": "6_17637907",
       "direction_id": "1",
       "headsign": "KIEŁCZOWSKA (Cmentarz)",
       "service_id": "6",
@@ -25797,7 +25797,7 @@
       ]
     },
     {
-      "trip_id": "6_17619235",
+      "trip_id": "6_17637910",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "6",
@@ -26003,7 +26003,7 @@
       ]
     },
     {
-      "trip_id": "6_17619236",
+      "trip_id": "6_17637911",
       "direction_id": "1",
       "headsign": "KIEŁCZOWSKA (Cmentarz)",
       "service_id": "6",
@@ -26182,7 +26182,7 @@
       ]
     },
     {
-      "trip_id": "6_17619237",
+      "trip_id": "6_17637912",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "6",
@@ -26388,7 +26388,7 @@
       ]
     },
     {
-      "trip_id": "6_17619238",
+      "trip_id": "6_17637913",
       "direction_id": "1",
       "headsign": "KIEŁCZOWSKA (Cmentarz)",
       "service_id": "6",
@@ -26567,7 +26567,7 @@
       ]
     },
     {
-      "trip_id": "6_17619241",
+      "trip_id": "6_17637916",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "6",
@@ -26773,7 +26773,7 @@
       ]
     },
     {
-      "trip_id": "6_17619242",
+      "trip_id": "6_17637917",
       "direction_id": "1",
       "headsign": "KIEŁCZOWSKA (Cmentarz)",
       "service_id": "6",
@@ -26952,7 +26952,7 @@
       ]
     },
     {
-      "trip_id": "6_17619243",
+      "trip_id": "6_17637918",
       "direction_id": "1",
       "headsign": "KIEŁCZOWSKA (Cmentarz)",
       "service_id": "6",
@@ -27131,7 +27131,7 @@
       ]
     },
     {
-      "trip_id": "6_17619246",
+      "trip_id": "6_17637921",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "6",
@@ -27337,7 +27337,7 @@
       ]
     },
     {
-      "trip_id": "6_17619247",
+      "trip_id": "6_17637922",
       "direction_id": "1",
       "headsign": "KIEŁCZOWSKA (Cmentarz)",
       "service_id": "6",
@@ -27516,7 +27516,7 @@
       ]
     },
     {
-      "trip_id": "6_17619248",
+      "trip_id": "6_17637923",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "6",
@@ -27722,7 +27722,7 @@
       ]
     },
     {
-      "trip_id": "6_17619249",
+      "trip_id": "6_17637924",
       "direction_id": "1",
       "headsign": "KIEŁCZOWSKA (Cmentarz)",
       "service_id": "6",
@@ -27901,7 +27901,7 @@
       ]
     },
     {
-      "trip_id": "6_17619250",
+      "trip_id": "6_17637925",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "6",
@@ -28107,7 +28107,7 @@
       ]
     },
     {
-      "trip_id": "6_17619251",
+      "trip_id": "6_17637926",
       "direction_id": "1",
       "headsign": "KIEŁCZOWSKA (Cmentarz)",
       "service_id": "6",
@@ -28286,7 +28286,7 @@
       ]
     },
     {
-      "trip_id": "6_17619254",
+      "trip_id": "6_17637929",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "6",
@@ -28492,7 +28492,7 @@
       ]
     },
     {
-      "trip_id": "6_17619255",
+      "trip_id": "6_17637930",
       "direction_id": "1",
       "headsign": "KIEŁCZOWSKA (Cmentarz)",
       "service_id": "6",
@@ -28671,7 +28671,7 @@
       ]
     },
     {
-      "trip_id": "6_17619256",
+      "trip_id": "6_17637931",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "6",
@@ -28877,7 +28877,7 @@
       ]
     },
     {
-      "trip_id": "6_17619257",
+      "trip_id": "6_17637932",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "6",
@@ -29083,7 +29083,7 @@
       ]
     },
     {
-      "trip_id": "6_17619258",
+      "trip_id": "6_17637933",
       "direction_id": "1",
       "headsign": "KIEŁCZOWSKA (Cmentarz)",
       "service_id": "6",
@@ -29262,7 +29262,7 @@
       ]
     },
     {
-      "trip_id": "6_17619261",
+      "trip_id": "6_17637936",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "6",
@@ -29468,7 +29468,7 @@
       ]
     },
     {
-      "trip_id": "6_17619262",
+      "trip_id": "6_17637937",
       "direction_id": "1",
       "headsign": "KIEŁCZOWSKA (Cmentarz)",
       "service_id": "6",
@@ -29647,7 +29647,7 @@
       ]
     },
     {
-      "trip_id": "6_17619265",
+      "trip_id": "6_17637940",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "6",
@@ -29853,7 +29853,7 @@
       ]
     },
     {
-      "trip_id": "6_17619266",
+      "trip_id": "6_17637941",
       "direction_id": "1",
       "headsign": "KIEŁCZOWSKA (Cmentarz)",
       "service_id": "6",
@@ -30032,7 +30032,7 @@
       ]
     },
     {
-      "trip_id": "6_17619269",
+      "trip_id": "6_17637944",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "6",
@@ -30238,7 +30238,7 @@
       ]
     },
     {
-      "trip_id": "6_17619270",
+      "trip_id": "6_17637945",
       "direction_id": "1",
       "headsign": "KIEŁCZOWSKA (Cmentarz)",
       "service_id": "6",
@@ -30417,7 +30417,7 @@
       ]
     },
     {
-      "trip_id": "6_17619273",
+      "trip_id": "6_17637948",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "6",
@@ -30623,7 +30623,7 @@
       ]
     },
     {
-      "trip_id": "6_17619274",
+      "trip_id": "6_17637949",
       "direction_id": "1",
       "headsign": "KIEŁCZOWSKA (Cmentarz)",
       "service_id": "6",
@@ -30802,7 +30802,7 @@
       ]
     },
     {
-      "trip_id": "6_17619277",
+      "trip_id": "6_17637952",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "6",
@@ -31008,7 +31008,7 @@
       ]
     },
     {
-      "trip_id": "6_17619278",
+      "trip_id": "6_17637953",
       "direction_id": "1",
       "headsign": "KIEŁCZOWSKA (Cmentarz)",
       "service_id": "6",
@@ -31187,7 +31187,7 @@
       ]
     },
     {
-      "trip_id": "6_17619279",
+      "trip_id": "6_17637954",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "6",
@@ -31393,7 +31393,7 @@
       ]
     },
     {
-      "trip_id": "6_17619280",
+      "trip_id": "6_17637955",
       "direction_id": "1",
       "headsign": "KIEŁCZOWSKA (Cmentarz)",
       "service_id": "6",
@@ -31572,7 +31572,7 @@
       ]
     },
     {
-      "trip_id": "6_17619283",
+      "trip_id": "6_17637958",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "6",
@@ -31778,7 +31778,7 @@
       ]
     },
     {
-      "trip_id": "6_17619284",
+      "trip_id": "6_17637959",
       "direction_id": "1",
       "headsign": "KIEŁCZOWSKA (Cmentarz)",
       "service_id": "6",
@@ -31957,7 +31957,7 @@
       ]
     },
     {
-      "trip_id": "6_17619285",
+      "trip_id": "6_17637960",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "6",
@@ -32163,7 +32163,7 @@
       ]
     },
     {
-      "trip_id": "6_17619286",
+      "trip_id": "6_17637961",
       "direction_id": "1",
       "headsign": "KIEŁCZOWSKA (Cmentarz)",
       "service_id": "6",
@@ -32342,7 +32342,7 @@
       ]
     },
     {
-      "trip_id": "6_17619289",
+      "trip_id": "6_17637964",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "6",
@@ -32548,7 +32548,7 @@
       ]
     },
     {
-      "trip_id": "6_17619290",
+      "trip_id": "6_17637965",
       "direction_id": "1",
       "headsign": "KIEŁCZOWSKA (Cmentarz)",
       "service_id": "6",
@@ -32727,7 +32727,7 @@
       ]
     },
     {
-      "trip_id": "6_17619291",
+      "trip_id": "6_17637966",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "6",
@@ -32933,7 +32933,7 @@
       ]
     },
     {
-      "trip_id": "6_17619292",
+      "trip_id": "6_17637967",
       "direction_id": "1",
       "headsign": "KIEŁCZOWSKA (Cmentarz)",
       "service_id": "6",
@@ -33112,7 +33112,7 @@
       ]
     },
     {
-      "trip_id": "6_17619295",
+      "trip_id": "6_17637970",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "6",
@@ -33318,7 +33318,7 @@
       ]
     },
     {
-      "trip_id": "6_17619296",
+      "trip_id": "6_17637971",
       "direction_id": "1",
       "headsign": "KIEŁCZOWSKA (Cmentarz)",
       "service_id": "6",
@@ -33497,7 +33497,7 @@
       ]
     },
     {
-      "trip_id": "6_17619297",
+      "trip_id": "6_17637972",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "6",
@@ -33703,7 +33703,7 @@
       ]
     },
     {
-      "trip_id": "6_17619298",
+      "trip_id": "6_17637973",
       "direction_id": "1",
       "headsign": "KIEŁCZOWSKA (Cmentarz)",
       "service_id": "6",
@@ -33882,7 +33882,7 @@
       ]
     },
     {
-      "trip_id": "6_17619301",
+      "trip_id": "6_17637976",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "6",
@@ -34088,7 +34088,7 @@
       ]
     },
     {
-      "trip_id": "6_17619302",
+      "trip_id": "6_17637977",
       "direction_id": "1",
       "headsign": "KIEŁCZOWSKA (Cmentarz)",
       "service_id": "6",
@@ -34267,7 +34267,7 @@
       ]
     },
     {
-      "trip_id": "6_17619303",
+      "trip_id": "6_17637978",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "6",
@@ -34473,7 +34473,7 @@
       ]
     },
     {
-      "trip_id": "6_17619304",
+      "trip_id": "6_17637979",
       "direction_id": "1",
       "headsign": "KIEŁCZOWSKA (Cmentarz)",
       "service_id": "6",
@@ -34652,7 +34652,7 @@
       ]
     },
     {
-      "trip_id": "6_17619305",
+      "trip_id": "6_17637980",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "6",
@@ -34858,7 +34858,7 @@
       ]
     },
     {
-      "trip_id": "6_17619306",
+      "trip_id": "6_17637981",
       "direction_id": "1",
       "headsign": "KIEŁCZOWSKA (Cmentarz)",
       "service_id": "6",
@@ -35037,7 +35037,7 @@
       ]
     },
     {
-      "trip_id": "6_17619307",
+      "trip_id": "6_17637982",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "6",
@@ -35243,7 +35243,7 @@
       ]
     },
     {
-      "trip_id": "6_17619308",
+      "trip_id": "6_17637983",
       "direction_id": "1",
       "headsign": "KIEŁCZOWSKA (Cmentarz)",
       "service_id": "6",
@@ -35422,7 +35422,7 @@
       ]
     },
     {
-      "trip_id": "6_17619311",
+      "trip_id": "6_17637986",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "6",
@@ -35628,7 +35628,7 @@
       ]
     },
     {
-      "trip_id": "6_17619312",
+      "trip_id": "6_17637987",
       "direction_id": "1",
       "headsign": "KIEŁCZOWSKA (Cmentarz)",
       "service_id": "6",
@@ -35807,7 +35807,7 @@
       ]
     },
     {
-      "trip_id": "6_17619313",
+      "trip_id": "6_17637988",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "6",
@@ -36013,7 +36013,7 @@
       ]
     },
     {
-      "trip_id": "6_17619314",
+      "trip_id": "6_17637989",
       "direction_id": "1",
       "headsign": "KIEŁCZOWSKA (Cmentarz)",
       "service_id": "6",
@@ -36192,7 +36192,7 @@
       ]
     },
     {
-      "trip_id": "6_17619317",
+      "trip_id": "6_17637992",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "6",
@@ -36398,7 +36398,7 @@
       ]
     },
     {
-      "trip_id": "6_17619318",
+      "trip_id": "6_17637993",
       "direction_id": "1",
       "headsign": "KIEŁCZOWSKA (Cmentarz)",
       "service_id": "6",
@@ -36577,7 +36577,7 @@
       ]
     },
     {
-      "trip_id": "6_17619319",
+      "trip_id": "6_17637994",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "6",
@@ -36783,7 +36783,7 @@
       ]
     },
     {
-      "trip_id": "6_17619320",
+      "trip_id": "6_17637995",
       "direction_id": "1",
       "headsign": "KIEŁCZOWSKA (Cmentarz)",
       "service_id": "6",
@@ -36962,7 +36962,7 @@
       ]
     },
     {
-      "trip_id": "6_17619323",
+      "trip_id": "6_17637998",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "6",
@@ -37168,7 +37168,7 @@
       ]
     },
     {
-      "trip_id": "6_17619324",
+      "trip_id": "6_17637999",
       "direction_id": "1",
       "headsign": "KIEŁCZOWSKA (Cmentarz)",
       "service_id": "6",
@@ -37347,7 +37347,7 @@
       ]
     },
     {
-      "trip_id": "6_17619325",
+      "trip_id": "6_17638000",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "6",
@@ -37553,7 +37553,7 @@
       ]
     },
     {
-      "trip_id": "6_17619340",
+      "trip_id": "6_17638015",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "6",
@@ -37759,7 +37759,7 @@
       ]
     },
     {
-      "trip_id": "6_17619341",
+      "trip_id": "6_17638016",
       "direction_id": "1",
       "headsign": "KIEŁCZOWSKA (Cmentarz)",
       "service_id": "6",
@@ -37938,7 +37938,7 @@
       ]
     },
     {
-      "trip_id": "6_17619344",
+      "trip_id": "6_17638019",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "6",
@@ -38144,7 +38144,7 @@
       ]
     },
     {
-      "trip_id": "6_17619345",
+      "trip_id": "6_17638020",
       "direction_id": "1",
       "headsign": "KIEŁCZOWSKA (Cmentarz)",
       "service_id": "6",
@@ -38323,7 +38323,7 @@
       ]
     },
     {
-      "trip_id": "6_17619346",
+      "trip_id": "6_17638021",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "6",
@@ -38529,7 +38529,7 @@
       ]
     },
     {
-      "trip_id": "6_17619347",
+      "trip_id": "6_17638022",
       "direction_id": "1",
       "headsign": "KIEŁCZOWSKA (Cmentarz)",
       "service_id": "6",
@@ -38708,7 +38708,7 @@
       ]
     },
     {
-      "trip_id": "6_17619348",
+      "trip_id": "6_17638023",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "6",
@@ -38914,7 +38914,7 @@
       ]
     },
     {
-      "trip_id": "6_17619349",
+      "trip_id": "6_17638024",
       "direction_id": "1",
       "headsign": "KIEŁCZOWSKA (Cmentarz)",
       "service_id": "6",
@@ -39093,7 +39093,7 @@
       ]
     },
     {
-      "trip_id": "6_17619350",
+      "trip_id": "6_17638025",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "6",
@@ -39299,7 +39299,7 @@
       ]
     },
     {
-      "trip_id": "6_17619351",
+      "trip_id": "6_17638026",
       "direction_id": "1",
       "headsign": "KIEŁCZOWSKA (Cmentarz)",
       "service_id": "6",
@@ -39478,7 +39478,7 @@
       ]
     },
     {
-      "trip_id": "6_17619354",
+      "trip_id": "6_17638029",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "6",
@@ -39684,7 +39684,7 @@
       ]
     },
     {
-      "trip_id": "6_17619355",
+      "trip_id": "6_17638030",
       "direction_id": "1",
       "headsign": "KIEŁCZOWSKA (Cmentarz)",
       "service_id": "6",
@@ -39863,7 +39863,7 @@
       ]
     },
     {
-      "trip_id": "6_17619356",
+      "trip_id": "6_17638031",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "6",
@@ -40069,7 +40069,7 @@
       ]
     },
     {
-      "trip_id": "6_17619357",
+      "trip_id": "6_17638032",
       "direction_id": "1",
       "headsign": "KIEŁCZOWSKA (Cmentarz)",
       "service_id": "6",
@@ -40248,7 +40248,7 @@
       ]
     },
     {
-      "trip_id": "6_17619360",
+      "trip_id": "6_17638035",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "6",
@@ -40454,7 +40454,7 @@
       ]
     },
     {
-      "trip_id": "6_17619361",
+      "trip_id": "6_17638036",
       "direction_id": "1",
       "headsign": "KIEŁCZOWSKA (Cmentarz)",
       "service_id": "6",
@@ -40633,7 +40633,7 @@
       ]
     },
     {
-      "trip_id": "6_17619364",
+      "trip_id": "6_17638039",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "6",
@@ -40839,7 +40839,7 @@
       ]
     },
     {
-      "trip_id": "6_17619365",
+      "trip_id": "6_17638040",
       "direction_id": "1",
       "headsign": "KIEŁCZOWSKA (Cmentarz)",
       "service_id": "6",
@@ -41018,7 +41018,7 @@
       ]
     },
     {
-      "trip_id": "6_17619366",
+      "trip_id": "6_17638041",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "6",
@@ -41224,7 +41224,7 @@
       ]
     },
     {
-      "trip_id": "6_17619367",
+      "trip_id": "6_17638042",
       "direction_id": "1",
       "headsign": "KIEŁCZOWSKA (Cmentarz)",
       "service_id": "6",
@@ -41403,7 +41403,7 @@
       ]
     },
     {
-      "trip_id": "6_17619370",
+      "trip_id": "6_17638045",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "6",
@@ -41609,7 +41609,7 @@
       ]
     },
     {
-      "trip_id": "6_17620023",
+      "trip_id": "6_17638698",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "6",
@@ -41815,7 +41815,7 @@
       ]
     },
     {
-      "trip_id": "6_17620024",
+      "trip_id": "6_17638699",
       "direction_id": "1",
       "headsign": "KIEŁCZOWSKA (Cmentarz)",
       "service_id": "6",
@@ -41994,7 +41994,7 @@
       ]
     },
     {
-      "trip_id": "6_17620025",
+      "trip_id": "6_17638700",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "6",
@@ -42200,7 +42200,7 @@
       ]
     },
     {
-      "trip_id": "6_17620028",
+      "trip_id": "6_17638703",
       "direction_id": "1",
       "headsign": "KIEŁCZOWSKA (Cmentarz)",
       "service_id": "6",
@@ -42379,7 +42379,7 @@
       ]
     },
     {
-      "trip_id": "6_17620029",
+      "trip_id": "6_17638704",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "6",
@@ -42585,7 +42585,7 @@
       ]
     },
     {
-      "trip_id": "6_17620030",
+      "trip_id": "6_17638705",
       "direction_id": "1",
       "headsign": "KIEŁCZOWSKA (Cmentarz)",
       "service_id": "6",
@@ -42764,7 +42764,7 @@
       ]
     },
     {
-      "trip_id": "6_17620033",
+      "trip_id": "6_17638708",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "6",
@@ -42970,7 +42970,7 @@
       ]
     },
     {
-      "trip_id": "6_17620034",
+      "trip_id": "6_17638709",
       "direction_id": "1",
       "headsign": "KIEŁCZOWSKA (Cmentarz)",
       "service_id": "6",
@@ -43149,7 +43149,7 @@
       ]
     },
     {
-      "trip_id": "6_17620035",
+      "trip_id": "6_17638710",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "6",
@@ -43355,7 +43355,7 @@
       ]
     },
     {
-      "trip_id": "6_17620036",
+      "trip_id": "6_17638711",
       "direction_id": "1",
       "headsign": "KIEŁCZOWSKA (Cmentarz)",
       "service_id": "6",
@@ -43534,7 +43534,7 @@
       ]
     },
     {
-      "trip_id": "8_17620260",
+      "trip_id": "8_17638935",
       "direction_id": "1",
       "headsign": "KIEŁCZOWSKA (Cmentarz)",
       "service_id": "8",
@@ -43713,7 +43713,7 @@
       ]
     },
     {
-      "trip_id": "8_17620263",
+      "trip_id": "8_17638938",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "8",
@@ -43919,7 +43919,7 @@
       ]
     },
     {
-      "trip_id": "8_17620264",
+      "trip_id": "8_17638939",
       "direction_id": "1",
       "headsign": "KIEŁCZOWSKA (Cmentarz)",
       "service_id": "8",
@@ -44098,7 +44098,7 @@
       ]
     },
     {
-      "trip_id": "8_17620265",
+      "trip_id": "8_17638940",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "8",
@@ -44304,7 +44304,7 @@
       ]
     },
     {
-      "trip_id": "8_17620266",
+      "trip_id": "8_17638941",
       "direction_id": "1",
       "headsign": "KIEŁCZOWSKA (Cmentarz)",
       "service_id": "8",
@@ -44483,7 +44483,7 @@
       ]
     },
     {
-      "trip_id": "8_17620269",
+      "trip_id": "8_17638944",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "8",
@@ -44689,7 +44689,7 @@
       ]
     },
     {
-      "trip_id": "8_17620270",
+      "trip_id": "8_17638945",
       "direction_id": "1",
       "headsign": "KIEŁCZOWSKA (Cmentarz)",
       "service_id": "8",
@@ -44868,7 +44868,7 @@
       ]
     },
     {
-      "trip_id": "8_17620273",
+      "trip_id": "8_17638948",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "8",
@@ -45074,7 +45074,7 @@
       ]
     },
     {
-      "trip_id": "8_17620274",
+      "trip_id": "8_17638949",
       "direction_id": "1",
       "headsign": "KIEŁCZOWSKA (Cmentarz)",
       "service_id": "8",
@@ -45253,7 +45253,7 @@
       ]
     },
     {
-      "trip_id": "8_17620277",
+      "trip_id": "8_17638952",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "8",
@@ -45459,7 +45459,7 @@
       ]
     },
     {
-      "trip_id": "8_17620278",
+      "trip_id": "8_17638953",
       "direction_id": "1",
       "headsign": "KIEŁCZOWSKA (Cmentarz)",
       "service_id": "8",
@@ -45638,7 +45638,7 @@
       ]
     },
     {
-      "trip_id": "8_17620281",
+      "trip_id": "8_17638956",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "8",
@@ -45844,7 +45844,7 @@
       ]
     },
     {
-      "trip_id": "8_17620282",
+      "trip_id": "8_17638957",
       "direction_id": "1",
       "headsign": "KIEŁCZOWSKA (Cmentarz)",
       "service_id": "8",
@@ -46023,7 +46023,7 @@
       ]
     },
     {
-      "trip_id": "8_17620283",
+      "trip_id": "8_17638958",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "8",
@@ -46229,7 +46229,7 @@
       ]
     },
     {
-      "trip_id": "8_17620284",
+      "trip_id": "8_17638959",
       "direction_id": "1",
       "headsign": "KIEŁCZOWSKA (Cmentarz)",
       "service_id": "8",
@@ -46408,7 +46408,7 @@
       ]
     },
     {
-      "trip_id": "8_17620287",
+      "trip_id": "8_17638962",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "8",
@@ -46614,7 +46614,7 @@
       ]
     },
     {
-      "trip_id": "8_17620288",
+      "trip_id": "8_17638963",
       "direction_id": "1",
       "headsign": "KIEŁCZOWSKA (Cmentarz)",
       "service_id": "8",
@@ -46793,7 +46793,7 @@
       ]
     },
     {
-      "trip_id": "8_17620289",
+      "trip_id": "8_17638964",
       "direction_id": "1",
       "headsign": "KIEŁCZOWSKA (Cmentarz)",
       "service_id": "8",
@@ -46972,7 +46972,7 @@
       ]
     },
     {
-      "trip_id": "8_17620292",
+      "trip_id": "8_17638967",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "8",
@@ -47178,7 +47178,7 @@
       ]
     },
     {
-      "trip_id": "8_17620293",
+      "trip_id": "8_17638968",
       "direction_id": "1",
       "headsign": "KIEŁCZOWSKA (Cmentarz)",
       "service_id": "8",
@@ -47357,7 +47357,7 @@
       ]
     },
     {
-      "trip_id": "8_17620294",
+      "trip_id": "8_17638969",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "8",
@@ -47563,7 +47563,7 @@
       ]
     },
     {
-      "trip_id": "8_17620295",
+      "trip_id": "8_17638970",
       "direction_id": "1",
       "headsign": "KIEŁCZOWSKA (Cmentarz)",
       "service_id": "8",
@@ -47742,7 +47742,7 @@
       ]
     },
     {
-      "trip_id": "8_17620296",
+      "trip_id": "8_17638971",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "8",
@@ -47948,7 +47948,7 @@
       ]
     },
     {
-      "trip_id": "8_17620297",
+      "trip_id": "8_17638972",
       "direction_id": "1",
       "headsign": "KIEŁCZOWSKA (Cmentarz)",
       "service_id": "8",
@@ -48127,7 +48127,7 @@
       ]
     },
     {
-      "trip_id": "8_17620300",
+      "trip_id": "8_17638975",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "8",
@@ -48333,7 +48333,7 @@
       ]
     },
     {
-      "trip_id": "8_17620301",
+      "trip_id": "8_17638976",
       "direction_id": "1",
       "headsign": "KIEŁCZOWSKA (Cmentarz)",
       "service_id": "8",
@@ -48512,7 +48512,7 @@
       ]
     },
     {
-      "trip_id": "8_17620302",
+      "trip_id": "8_17638977",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "8",
@@ -48718,7 +48718,7 @@
       ]
     },
     {
-      "trip_id": "8_17620303",
+      "trip_id": "8_17638978",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "8",
@@ -48924,7 +48924,7 @@
       ]
     },
     {
-      "trip_id": "8_17620304",
+      "trip_id": "8_17638979",
       "direction_id": "1",
       "headsign": "KIEŁCZOWSKA (Cmentarz)",
       "service_id": "8",
@@ -49103,7 +49103,7 @@
       ]
     },
     {
-      "trip_id": "8_17620307",
+      "trip_id": "8_17638982",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "8",
@@ -49309,7 +49309,7 @@
       ]
     },
     {
-      "trip_id": "8_17620308",
+      "trip_id": "8_17638983",
       "direction_id": "1",
       "headsign": "KIEŁCZOWSKA (Cmentarz)",
       "service_id": "8",
@@ -49488,7 +49488,7 @@
       ]
     },
     {
-      "trip_id": "8_17620311",
+      "trip_id": "8_17638986",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "8",
@@ -49694,7 +49694,7 @@
       ]
     },
     {
-      "trip_id": "8_17620312",
+      "trip_id": "8_17638987",
       "direction_id": "1",
       "headsign": "KIEŁCZOWSKA (Cmentarz)",
       "service_id": "8",
@@ -49873,7 +49873,7 @@
       ]
     },
     {
-      "trip_id": "8_17620315",
+      "trip_id": "8_17638990",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "8",
@@ -50079,7 +50079,7 @@
       ]
     },
     {
-      "trip_id": "8_17620316",
+      "trip_id": "8_17638991",
       "direction_id": "1",
       "headsign": "KIEŁCZOWSKA (Cmentarz)",
       "service_id": "8",
@@ -50258,7 +50258,7 @@
       ]
     },
     {
-      "trip_id": "8_17620319",
+      "trip_id": "8_17638994",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "8",
@@ -50464,7 +50464,7 @@
       ]
     },
     {
-      "trip_id": "8_17620320",
+      "trip_id": "8_17638995",
       "direction_id": "1",
       "headsign": "KIEŁCZOWSKA (Cmentarz)",
       "service_id": "8",
@@ -50643,7 +50643,7 @@
       ]
     },
     {
-      "trip_id": "8_17620323",
+      "trip_id": "8_17638998",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "8",
@@ -50849,7 +50849,7 @@
       ]
     },
     {
-      "trip_id": "8_17620324",
+      "trip_id": "8_17638999",
       "direction_id": "1",
       "headsign": "KIEŁCZOWSKA (Cmentarz)",
       "service_id": "8",
@@ -51028,7 +51028,7 @@
       ]
     },
     {
-      "trip_id": "8_17620325",
+      "trip_id": "8_17639000",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "8",
@@ -51234,7 +51234,7 @@
       ]
     },
     {
-      "trip_id": "8_17620326",
+      "trip_id": "8_17639001",
       "direction_id": "1",
       "headsign": "KIEŁCZOWSKA (Cmentarz)",
       "service_id": "8",
@@ -51413,7 +51413,7 @@
       ]
     },
     {
-      "trip_id": "8_17620329",
+      "trip_id": "8_17639004",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "8",
@@ -51619,7 +51619,7 @@
       ]
     },
     {
-      "trip_id": "8_17620330",
+      "trip_id": "8_17639005",
       "direction_id": "1",
       "headsign": "KIEŁCZOWSKA (Cmentarz)",
       "service_id": "8",
@@ -51798,7 +51798,7 @@
       ]
     },
     {
-      "trip_id": "8_17620331",
+      "trip_id": "8_17639006",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "8",
@@ -52004,7 +52004,7 @@
       ]
     },
     {
-      "trip_id": "8_17620332",
+      "trip_id": "8_17639007",
       "direction_id": "1",
       "headsign": "KIEŁCZOWSKA (Cmentarz)",
       "service_id": "8",
@@ -52183,7 +52183,7 @@
       ]
     },
     {
-      "trip_id": "8_17620335",
+      "trip_id": "8_17639010",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "8",
@@ -52389,7 +52389,7 @@
       ]
     },
     {
-      "trip_id": "8_17620336",
+      "trip_id": "8_17639011",
       "direction_id": "1",
       "headsign": "KIEŁCZOWSKA (Cmentarz)",
       "service_id": "8",
@@ -52568,7 +52568,7 @@
       ]
     },
     {
-      "trip_id": "8_17620337",
+      "trip_id": "8_17639012",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "8",
@@ -52774,7 +52774,7 @@
       ]
     },
     {
-      "trip_id": "8_17620338",
+      "trip_id": "8_17639013",
       "direction_id": "1",
       "headsign": "KIEŁCZOWSKA (Cmentarz)",
       "service_id": "8",
@@ -52953,7 +52953,7 @@
       ]
     },
     {
-      "trip_id": "8_17620341",
+      "trip_id": "8_17639016",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "8",
@@ -53159,7 +53159,7 @@
       ]
     },
     {
-      "trip_id": "8_17620342",
+      "trip_id": "8_17639017",
       "direction_id": "1",
       "headsign": "KIEŁCZOWSKA (Cmentarz)",
       "service_id": "8",
@@ -53338,7 +53338,7 @@
       ]
     },
     {
-      "trip_id": "8_17620343",
+      "trip_id": "8_17639018",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "8",
@@ -53544,7 +53544,7 @@
       ]
     },
     {
-      "trip_id": "8_17620344",
+      "trip_id": "8_17639019",
       "direction_id": "1",
       "headsign": "KIEŁCZOWSKA (Cmentarz)",
       "service_id": "8",
@@ -53723,7 +53723,7 @@
       ]
     },
     {
-      "trip_id": "8_17620347",
+      "trip_id": "8_17639022",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "8",
@@ -53929,7 +53929,7 @@
       ]
     },
     {
-      "trip_id": "8_17620348",
+      "trip_id": "8_17639023",
       "direction_id": "1",
       "headsign": "KIEŁCZOWSKA (Cmentarz)",
       "service_id": "8",
@@ -54108,7 +54108,7 @@
       ]
     },
     {
-      "trip_id": "8_17620349",
+      "trip_id": "8_17639024",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "8",
@@ -54314,7 +54314,7 @@
       ]
     },
     {
-      "trip_id": "8_17620350",
+      "trip_id": "8_17639025",
       "direction_id": "1",
       "headsign": "KIEŁCZOWSKA (Cmentarz)",
       "service_id": "8",
@@ -54493,7 +54493,7 @@
       ]
     },
     {
-      "trip_id": "8_17620351",
+      "trip_id": "8_17639026",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "8",
@@ -54699,7 +54699,7 @@
       ]
     },
     {
-      "trip_id": "8_17620352",
+      "trip_id": "8_17639027",
       "direction_id": "1",
       "headsign": "KIEŁCZOWSKA (Cmentarz)",
       "service_id": "8",
@@ -54878,7 +54878,7 @@
       ]
     },
     {
-      "trip_id": "8_17620353",
+      "trip_id": "8_17639028",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "8",
@@ -55084,7 +55084,7 @@
       ]
     },
     {
-      "trip_id": "8_17620354",
+      "trip_id": "8_17639029",
       "direction_id": "1",
       "headsign": "KIEŁCZOWSKA (Cmentarz)",
       "service_id": "8",
@@ -55263,7 +55263,7 @@
       ]
     },
     {
-      "trip_id": "8_17620357",
+      "trip_id": "8_17639032",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "8",
@@ -55469,7 +55469,7 @@
       ]
     },
     {
-      "trip_id": "8_17620358",
+      "trip_id": "8_17639033",
       "direction_id": "1",
       "headsign": "KIEŁCZOWSKA (Cmentarz)",
       "service_id": "8",
@@ -55648,7 +55648,7 @@
       ]
     },
     {
-      "trip_id": "8_17620359",
+      "trip_id": "8_17639034",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "8",
@@ -55854,7 +55854,7 @@
       ]
     },
     {
-      "trip_id": "8_17620360",
+      "trip_id": "8_17639035",
       "direction_id": "1",
       "headsign": "KIEŁCZOWSKA (Cmentarz)",
       "service_id": "8",
@@ -56033,7 +56033,7 @@
       ]
     },
     {
-      "trip_id": "8_17620363",
+      "trip_id": "8_17639038",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "8",
@@ -56239,7 +56239,7 @@
       ]
     },
     {
-      "trip_id": "8_17620364",
+      "trip_id": "8_17639039",
       "direction_id": "1",
       "headsign": "KIEŁCZOWSKA (Cmentarz)",
       "service_id": "8",
@@ -56418,7 +56418,7 @@
       ]
     },
     {
-      "trip_id": "8_17620365",
+      "trip_id": "8_17639040",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "8",
@@ -56624,7 +56624,7 @@
       ]
     },
     {
-      "trip_id": "8_17620366",
+      "trip_id": "8_17639041",
       "direction_id": "1",
       "headsign": "KIEŁCZOWSKA (Cmentarz)",
       "service_id": "8",
@@ -56803,7 +56803,7 @@
       ]
     },
     {
-      "trip_id": "8_17620369",
+      "trip_id": "8_17639044",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "8",
@@ -57009,7 +57009,7 @@
       ]
     },
     {
-      "trip_id": "8_17620370",
+      "trip_id": "8_17639045",
       "direction_id": "1",
       "headsign": "KIEŁCZOWSKA (Cmentarz)",
       "service_id": "8",
@@ -57188,7 +57188,7 @@
       ]
     },
     {
-      "trip_id": "8_17620371",
+      "trip_id": "8_17639046",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "8",
@@ -57394,7 +57394,7 @@
       ]
     },
     {
-      "trip_id": "8_17620386",
+      "trip_id": "8_17639061",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "8",
@@ -57600,7 +57600,7 @@
       ]
     },
     {
-      "trip_id": "8_17620387",
+      "trip_id": "8_17639062",
       "direction_id": "1",
       "headsign": "KIEŁCZOWSKA (Cmentarz)",
       "service_id": "8",
@@ -57779,7 +57779,7 @@
       ]
     },
     {
-      "trip_id": "8_17620390",
+      "trip_id": "8_17639065",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "8",
@@ -57985,7 +57985,7 @@
       ]
     },
     {
-      "trip_id": "8_17620391",
+      "trip_id": "8_17639066",
       "direction_id": "1",
       "headsign": "KIEŁCZOWSKA (Cmentarz)",
       "service_id": "8",
@@ -58164,7 +58164,7 @@
       ]
     },
     {
-      "trip_id": "8_17620392",
+      "trip_id": "8_17639067",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "8",
@@ -58370,7 +58370,7 @@
       ]
     },
     {
-      "trip_id": "8_17620393",
+      "trip_id": "8_17639068",
       "direction_id": "1",
       "headsign": "KIEŁCZOWSKA (Cmentarz)",
       "service_id": "8",
@@ -58549,7 +58549,7 @@
       ]
     },
     {
-      "trip_id": "8_17620394",
+      "trip_id": "8_17639069",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "8",
@@ -58755,7 +58755,7 @@
       ]
     },
     {
-      "trip_id": "8_17620395",
+      "trip_id": "8_17639070",
       "direction_id": "1",
       "headsign": "KIEŁCZOWSKA (Cmentarz)",
       "service_id": "8",
@@ -58934,7 +58934,7 @@
       ]
     },
     {
-      "trip_id": "8_17620396",
+      "trip_id": "8_17639071",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "8",
@@ -59140,7 +59140,7 @@
       ]
     },
     {
-      "trip_id": "8_17620397",
+      "trip_id": "8_17639072",
       "direction_id": "1",
       "headsign": "KIEŁCZOWSKA (Cmentarz)",
       "service_id": "8",
@@ -59319,7 +59319,7 @@
       ]
     },
     {
-      "trip_id": "8_17620400",
+      "trip_id": "8_17639075",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "8",
@@ -59525,7 +59525,7 @@
       ]
     },
     {
-      "trip_id": "8_17620401",
+      "trip_id": "8_17639076",
       "direction_id": "1",
       "headsign": "KIEŁCZOWSKA (Cmentarz)",
       "service_id": "8",
@@ -59704,7 +59704,7 @@
       ]
     },
     {
-      "trip_id": "8_17620402",
+      "trip_id": "8_17639077",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "8",
@@ -59910,7 +59910,7 @@
       ]
     },
     {
-      "trip_id": "8_17620403",
+      "trip_id": "8_17639078",
       "direction_id": "1",
       "headsign": "KIEŁCZOWSKA (Cmentarz)",
       "service_id": "8",
@@ -60089,7 +60089,7 @@
       ]
     },
     {
-      "trip_id": "8_17620406",
+      "trip_id": "8_17639081",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "8",
@@ -60295,7 +60295,7 @@
       ]
     },
     {
-      "trip_id": "8_17620407",
+      "trip_id": "8_17639082",
       "direction_id": "1",
       "headsign": "KIEŁCZOWSKA (Cmentarz)",
       "service_id": "8",
@@ -60474,7 +60474,7 @@
       ]
     },
     {
-      "trip_id": "8_17620410",
+      "trip_id": "8_17639085",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "8",
@@ -60680,7 +60680,7 @@
       ]
     },
     {
-      "trip_id": "8_17620411",
+      "trip_id": "8_17639086",
       "direction_id": "1",
       "headsign": "KIEŁCZOWSKA (Cmentarz)",
       "service_id": "8",
@@ -60859,7 +60859,7 @@
       ]
     },
     {
-      "trip_id": "8_17620412",
+      "trip_id": "8_17639087",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "8",
@@ -61065,7 +61065,7 @@
       ]
     },
     {
-      "trip_id": "8_17620413",
+      "trip_id": "8_17639088",
       "direction_id": "1",
       "headsign": "KIEŁCZOWSKA (Cmentarz)",
       "service_id": "8",
@@ -61244,7 +61244,7 @@
       ]
     },
     {
-      "trip_id": "8_17620416",
+      "trip_id": "8_17639091",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "8",
@@ -61450,7 +61450,7 @@
       ]
     },
     {
-      "trip_id": "8_17621069",
+      "trip_id": "8_17639744",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "8",
@@ -61656,7 +61656,7 @@
       ]
     },
     {
-      "trip_id": "8_17621070",
+      "trip_id": "8_17639745",
       "direction_id": "1",
       "headsign": "KIEŁCZOWSKA (Cmentarz)",
       "service_id": "8",
@@ -61835,7 +61835,7 @@
       ]
     },
     {
-      "trip_id": "8_17621071",
+      "trip_id": "8_17639746",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "8",
@@ -62041,7 +62041,7 @@
       ]
     },
     {
-      "trip_id": "8_17621074",
+      "trip_id": "8_17639749",
       "direction_id": "1",
       "headsign": "KIEŁCZOWSKA (Cmentarz)",
       "service_id": "8",
@@ -62220,7 +62220,7 @@
       ]
     },
     {
-      "trip_id": "8_17621075",
+      "trip_id": "8_17639750",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "8",
@@ -62426,7 +62426,7 @@
       ]
     },
     {
-      "trip_id": "8_17621076",
+      "trip_id": "8_17639751",
       "direction_id": "1",
       "headsign": "KIEŁCZOWSKA (Cmentarz)",
       "service_id": "8",
@@ -62605,7 +62605,7 @@
       ]
     },
     {
-      "trip_id": "8_17621079",
+      "trip_id": "8_17639754",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "8",
@@ -62811,7 +62811,7 @@
       ]
     },
     {
-      "trip_id": "8_17621080",
+      "trip_id": "8_17639755",
       "direction_id": "1",
       "headsign": "KIEŁCZOWSKA (Cmentarz)",
       "service_id": "8",
@@ -62990,7 +62990,7 @@
       ]
     },
     {
-      "trip_id": "8_17621081",
+      "trip_id": "8_17639756",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "8",
@@ -63196,7 +63196,7 @@
       ]
     },
     {
-      "trip_id": "8_17621082",
+      "trip_id": "8_17639757",
       "direction_id": "1",
       "headsign": "KIEŁCZOWSKA (Cmentarz)",
       "service_id": "8",

@@ -2,7 +2,7 @@
   "line": "145",
   "trips": [
     {
-      "trip_id": "3_17598221",
+      "trip_id": "3_17702234",
       "direction_id": "1",
       "headsign": "BARTOSZOWICE",
       "service_id": "3",
@@ -235,7 +235,7 @@
       ]
     },
     {
-      "trip_id": "3_17598222",
+      "trip_id": "3_17702235",
       "direction_id": "0",
       "headsign": "Vivaldiego",
       "service_id": "3",
@@ -540,7 +540,7 @@
       ]
     },
     {
-      "trip_id": "3_17598223",
+      "trip_id": "3_17702236",
       "direction_id": "1",
       "headsign": "BARTOSZOWICE",
       "service_id": "3",
@@ -827,7 +827,7 @@
       ]
     },
     {
-      "trip_id": "3_17598224",
+      "trip_id": "3_17702237",
       "direction_id": "0",
       "headsign": "Vivaldiego",
       "service_id": "3",
@@ -1132,7 +1132,7 @@
       ]
     },
     {
-      "trip_id": "3_17598225",
+      "trip_id": "3_17702238",
       "direction_id": "1",
       "headsign": "BARTOSZOWICE",
       "service_id": "3",
@@ -1419,7 +1419,7 @@
       ]
     },
     {
-      "trip_id": "3_17598226",
+      "trip_id": "3_17702239",
       "direction_id": "0",
       "headsign": "Vivaldiego",
       "service_id": "3",
@@ -1724,7 +1724,7 @@
       ]
     },
     {
-      "trip_id": "3_17598227",
+      "trip_id": "3_17702240",
       "direction_id": "1",
       "headsign": "BARTOSZOWICE",
       "service_id": "3",
@@ -2011,7 +2011,7 @@
       ]
     },
     {
-      "trip_id": "3_17598228",
+      "trip_id": "3_17702241",
       "direction_id": "0",
       "headsign": "Vivaldiego",
       "service_id": "3",
@@ -2316,7 +2316,7 @@
       ]
     },
     {
-      "trip_id": "3_17598229",
+      "trip_id": "3_17702242",
       "direction_id": "1",
       "headsign": "BARTOSZOWICE",
       "service_id": "3",
@@ -2603,7 +2603,7 @@
       ]
     },
     {
-      "trip_id": "3_17598230",
+      "trip_id": "3_17702243",
       "direction_id": "0",
       "headsign": "Vivaldiego",
       "service_id": "3",
@@ -2908,7 +2908,7 @@
       ]
     },
     {
-      "trip_id": "3_17598231",
+      "trip_id": "3_17702244",
       "direction_id": "1",
       "headsign": "BARTOSZOWICE",
       "service_id": "3",
@@ -3195,7 +3195,7 @@
       ]
     },
     {
-      "trip_id": "3_17598232",
+      "trip_id": "3_17702245",
       "direction_id": "0",
       "headsign": "Vivaldiego",
       "service_id": "3",
@@ -3500,7 +3500,7 @@
       ]
     },
     {
-      "trip_id": "3_17598233",
+      "trip_id": "3_17702246",
       "direction_id": "1",
       "headsign": "BARTOSZOWICE",
       "service_id": "3",
@@ -3787,7 +3787,7 @@
       ]
     },
     {
-      "trip_id": "3_17598234",
+      "trip_id": "3_17702247",
       "direction_id": "0",
       "headsign": "Vivaldiego",
       "service_id": "3",
@@ -4092,7 +4092,7 @@
       ]
     },
     {
-      "trip_id": "3_17598235",
+      "trip_id": "3_17702248",
       "direction_id": "1",
       "headsign": "BARTOSZOWICE",
       "service_id": "3",
@@ -4379,7 +4379,7 @@
       ]
     },
     {
-      "trip_id": "3_17598236",
+      "trip_id": "3_17702249",
       "direction_id": "0",
       "headsign": "Vivaldiego",
       "service_id": "3",
@@ -4684,7 +4684,7 @@
       ]
     },
     {
-      "trip_id": "3_17598237",
+      "trip_id": "3_17702250",
       "direction_id": "1",
       "headsign": "BARTOSZOWICE",
       "service_id": "3",
@@ -4971,7 +4971,7 @@
       ]
     },
     {
-      "trip_id": "3_17598238",
+      "trip_id": "3_17702251",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "3",
@@ -5213,7 +5213,7 @@
       ]
     },
     {
-      "trip_id": "3_17598239",
+      "trip_id": "3_17702252",
       "direction_id": "0",
       "headsign": "Vivaldiego",
       "service_id": "3",
@@ -5563,7 +5563,7 @@
       ]
     },
     {
-      "trip_id": "3_17598240",
+      "trip_id": "3_17702253",
       "direction_id": "1",
       "headsign": "BARTOSZOWICE",
       "service_id": "3",
@@ -5850,7 +5850,7 @@
       ]
     },
     {
-      "trip_id": "3_17598241",
+      "trip_id": "3_17702254",
       "direction_id": "0",
       "headsign": "Vivaldiego",
       "service_id": "3",
@@ -6155,7 +6155,7 @@
       ]
     },
     {
-      "trip_id": "3_17598242",
+      "trip_id": "3_17702255",
       "direction_id": "1",
       "headsign": "BARTOSZOWICE",
       "service_id": "3",
@@ -6442,7 +6442,7 @@
       ]
     },
     {
-      "trip_id": "3_17598243",
+      "trip_id": "3_17702256",
       "direction_id": "0",
       "headsign": "Vivaldiego",
       "service_id": "3",
@@ -6747,7 +6747,7 @@
       ]
     },
     {
-      "trip_id": "3_17598244",
+      "trip_id": "3_17702257",
       "direction_id": "1",
       "headsign": "BARTOSZOWICE",
       "service_id": "3",
@@ -7034,7 +7034,7 @@
       ]
     },
     {
-      "trip_id": "3_17598245",
+      "trip_id": "3_17702258",
       "direction_id": "0",
       "headsign": "Vivaldiego",
       "service_id": "3",
@@ -7339,7 +7339,7 @@
       ]
     },
     {
-      "trip_id": "3_17598246",
+      "trip_id": "3_17702259",
       "direction_id": "1",
       "headsign": "BARTOSZOWICE",
       "service_id": "3",
@@ -7626,7 +7626,7 @@
       ]
     },
     {
-      "trip_id": "3_17598247",
+      "trip_id": "3_17702260",
       "direction_id": "0",
       "headsign": "Vivaldiego",
       "service_id": "3",
@@ -7931,7 +7931,7 @@
       ]
     },
     {
-      "trip_id": "3_17598248",
+      "trip_id": "3_17702261",
       "direction_id": "1",
       "headsign": "BARTOSZOWICE",
       "service_id": "3",
@@ -8218,7 +8218,7 @@
       ]
     },
     {
-      "trip_id": "3_17598249",
+      "trip_id": "3_17702262",
       "direction_id": "0",
       "headsign": "Vivaldiego",
       "service_id": "3",
@@ -8523,7 +8523,7 @@
       ]
     },
     {
-      "trip_id": "3_17598250",
+      "trip_id": "3_17702263",
       "direction_id": "1",
       "headsign": "BARTOSZOWICE",
       "service_id": "3",
@@ -8810,7 +8810,7 @@
       ]
     },
     {
-      "trip_id": "3_17598251",
+      "trip_id": "3_17702264",
       "direction_id": "0",
       "headsign": "Vivaldiego",
       "service_id": "3",
@@ -9115,7 +9115,7 @@
       ]
     },
     {
-      "trip_id": "3_17598252",
+      "trip_id": "3_17702265",
       "direction_id": "1",
       "headsign": "BARTOSZOWICE",
       "service_id": "3",
@@ -9402,7 +9402,7 @@
       ]
     },
     {
-      "trip_id": "3_17598253",
+      "trip_id": "3_17702266",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "3",
@@ -9644,7 +9644,7 @@
       ]
     },
     {
-      "trip_id": "3_17598254",
+      "trip_id": "3_17702267",
       "direction_id": "1",
       "headsign": "BARTOSZOWICE",
       "service_id": "3",
@@ -9796,7 +9796,7 @@
       ]
     },
     {
-      "trip_id": "3_17598255",
+      "trip_id": "3_17702268",
       "direction_id": "0",
       "headsign": "Vivaldiego",
       "service_id": "3",
@@ -10101,7 +10101,7 @@
       ]
     },
     {
-      "trip_id": "3_17598256",
+      "trip_id": "3_17702269",
       "direction_id": "1",
       "headsign": "BARTOSZOWICE",
       "service_id": "3",
@@ -10388,7 +10388,7 @@
       ]
     },
     {
-      "trip_id": "3_17598257",
+      "trip_id": "3_17702270",
       "direction_id": "0",
       "headsign": "Vivaldiego",
       "service_id": "3",
@@ -10693,7 +10693,7 @@
       ]
     },
     {
-      "trip_id": "3_17598258",
+      "trip_id": "3_17702271",
       "direction_id": "1",
       "headsign": "BARTOSZOWICE",
       "service_id": "3",
@@ -10980,7 +10980,7 @@
       ]
     },
     {
-      "trip_id": "3_17598259",
+      "trip_id": "3_17702272",
       "direction_id": "0",
       "headsign": "Vivaldiego",
       "service_id": "3",
@@ -11285,7 +11285,7 @@
       ]
     },
     {
-      "trip_id": "3_17598260",
+      "trip_id": "3_17702273",
       "direction_id": "1",
       "headsign": "BARTOSZOWICE",
       "service_id": "3",
@@ -11572,7 +11572,7 @@
       ]
     },
     {
-      "trip_id": "3_17598261",
+      "trip_id": "3_17702274",
       "direction_id": "0",
       "headsign": "Vivaldiego",
       "service_id": "3",
@@ -11877,7 +11877,7 @@
       ]
     },
     {
-      "trip_id": "3_17598262",
+      "trip_id": "3_17702275",
       "direction_id": "1",
       "headsign": "BARTOSZOWICE",
       "service_id": "3",
@@ -12164,7 +12164,7 @@
       ]
     },
     {
-      "trip_id": "3_17598263",
+      "trip_id": "3_17702276",
       "direction_id": "0",
       "headsign": "Vivaldiego",
       "service_id": "3",
@@ -12469,7 +12469,7 @@
       ]
     },
     {
-      "trip_id": "3_17598264",
+      "trip_id": "3_17702277",
       "direction_id": "1",
       "headsign": "BARTOSZOWICE",
       "service_id": "3",
@@ -12756,7 +12756,7 @@
       ]
     },
     {
-      "trip_id": "3_17598265",
+      "trip_id": "3_17702278",
       "direction_id": "0",
       "headsign": "Vivaldiego",
       "service_id": "3",
@@ -13061,7 +13061,7 @@
       ]
     },
     {
-      "trip_id": "3_17598266",
+      "trip_id": "3_17702279",
       "direction_id": "1",
       "headsign": "BARTOSZOWICE",
       "service_id": "3",
@@ -13348,7 +13348,7 @@
       ]
     },
     {
-      "trip_id": "3_17598267",
+      "trip_id": "3_17702280",
       "direction_id": "0",
       "headsign": "Vivaldiego",
       "service_id": "3",
@@ -13653,7 +13653,7 @@
       ]
     },
     {
-      "trip_id": "3_17598268",
+      "trip_id": "3_17702281",
       "direction_id": "1",
       "headsign": "BARTOSZOWICE",
       "service_id": "3",
@@ -13940,7 +13940,7 @@
       ]
     },
     {
-      "trip_id": "3_17598269",
+      "trip_id": "3_17702282",
       "direction_id": "0",
       "headsign": "Zajezdnia TYSKA",
       "service_id": "3",
@@ -14146,7 +14146,7 @@
       ]
     },
     {
-      "trip_id": "3_17598270",
+      "trip_id": "3_17702283",
       "direction_id": "0",
       "headsign": "Vivaldiego",
       "service_id": "3",
@@ -14379,7 +14379,7 @@
       ]
     },
     {
-      "trip_id": "3_17598271",
+      "trip_id": "3_17702284",
       "direction_id": "1",
       "headsign": "BARTOSZOWICE",
       "service_id": "3",
@@ -14666,7 +14666,7 @@
       ]
     },
     {
-      "trip_id": "3_17598272",
+      "trip_id": "3_17702285",
       "direction_id": "0",
       "headsign": "Vivaldiego",
       "service_id": "3",
@@ -14971,7 +14971,7 @@
       ]
     },
     {
-      "trip_id": "3_17598273",
+      "trip_id": "3_17702286",
       "direction_id": "1",
       "headsign": "BARTOSZOWICE",
       "service_id": "3",
@@ -15258,7 +15258,7 @@
       ]
     },
     {
-      "trip_id": "3_17598274",
+      "trip_id": "3_17702287",
       "direction_id": "0",
       "headsign": "Vivaldiego",
       "service_id": "3",
@@ -15563,7 +15563,7 @@
       ]
     },
     {
-      "trip_id": "3_17598275",
+      "trip_id": "3_17702288",
       "direction_id": "1",
       "headsign": "BARTOSZOWICE",
       "service_id": "3",
@@ -15850,7 +15850,7 @@
       ]
     },
     {
-      "trip_id": "3_17598276",
+      "trip_id": "3_17702289",
       "direction_id": "0",
       "headsign": "Vivaldiego",
       "service_id": "3",
@@ -16155,7 +16155,7 @@
       ]
     },
     {
-      "trip_id": "3_17598277",
+      "trip_id": "3_17702290",
       "direction_id": "1",
       "headsign": "BARTOSZOWICE",
       "service_id": "3",
@@ -16442,7 +16442,7 @@
       ]
     },
     {
-      "trip_id": "3_17598278",
+      "trip_id": "3_17702291",
       "direction_id": "0",
       "headsign": "Vivaldiego",
       "service_id": "3",
@@ -16747,7 +16747,7 @@
       ]
     },
     {
-      "trip_id": "3_17598279",
+      "trip_id": "3_17702292",
       "direction_id": "1",
       "headsign": "BARTOSZOWICE",
       "service_id": "3",
@@ -17034,7 +17034,7 @@
       ]
     },
     {
-      "trip_id": "3_17598280",
+      "trip_id": "3_17702293",
       "direction_id": "0",
       "headsign": "Vivaldiego",
       "service_id": "3",
@@ -17339,7 +17339,7 @@
       ]
     },
     {
-      "trip_id": "3_17598281",
+      "trip_id": "3_17702294",
       "direction_id": "1",
       "headsign": "BARTOSZOWICE",
       "service_id": "3",
@@ -17626,7 +17626,7 @@
       ]
     },
     {
-      "trip_id": "3_17598282",
+      "trip_id": "3_17702295",
       "direction_id": "0",
       "headsign": "Vivaldiego",
       "service_id": "3",
@@ -17931,7 +17931,7 @@
       ]
     },
     {
-      "trip_id": "3_17598283",
+      "trip_id": "3_17702296",
       "direction_id": "1",
       "headsign": "BARTOSZOWICE",
       "service_id": "3",
@@ -18218,7 +18218,7 @@
       ]
     },
     {
-      "trip_id": "3_17598284",
+      "trip_id": "3_17702297",
       "direction_id": "0",
       "headsign": "Vivaldiego",
       "service_id": "3",
@@ -18523,7 +18523,7 @@
       ]
     },
     {
-      "trip_id": "3_17598285",
+      "trip_id": "3_17702298",
       "direction_id": "1",
       "headsign": "BARTOSZOWICE",
       "service_id": "3",
@@ -18810,7 +18810,7 @@
       ]
     },
     {
-      "trip_id": "3_17598286",
+      "trip_id": "3_17702299",
       "direction_id": "0",
       "headsign": "Zajezdnia TYSKA",
       "service_id": "3",
@@ -19016,7 +19016,7 @@
       ]
     },
     {
-      "trip_id": "3_17598287",
+      "trip_id": "3_17702300",
       "direction_id": "1",
       "headsign": "BARTOSZOWICE",
       "service_id": "3",
@@ -19168,7 +19168,7 @@
       ]
     },
     {
-      "trip_id": "3_17598288",
+      "trip_id": "3_17702301",
       "direction_id": "0",
       "headsign": "Vivaldiego",
       "service_id": "3",
@@ -19473,7 +19473,7 @@
       ]
     },
     {
-      "trip_id": "3_17598289",
+      "trip_id": "3_17702302",
       "direction_id": "1",
       "headsign": "BARTOSZOWICE",
       "service_id": "3",
@@ -19760,7 +19760,7 @@
       ]
     },
     {
-      "trip_id": "3_17598290",
+      "trip_id": "3_17702303",
       "direction_id": "0",
       "headsign": "Vivaldiego",
       "service_id": "3",
@@ -20065,7 +20065,7 @@
       ]
     },
     {
-      "trip_id": "3_17598291",
+      "trip_id": "3_17702304",
       "direction_id": "1",
       "headsign": "BARTOSZOWICE",
       "service_id": "3",
@@ -20352,7 +20352,7 @@
       ]
     },
     {
-      "trip_id": "3_17598292",
+      "trip_id": "3_17702305",
       "direction_id": "0",
       "headsign": "Vivaldiego",
       "service_id": "3",
@@ -20657,7 +20657,7 @@
       ]
     },
     {
-      "trip_id": "3_17598293",
+      "trip_id": "3_17702306",
       "direction_id": "1",
       "headsign": "BARTOSZOWICE",
       "service_id": "3",
@@ -20944,7 +20944,7 @@
       ]
     },
     {
-      "trip_id": "3_17598294",
+      "trip_id": "3_17702307",
       "direction_id": "0",
       "headsign": "Vivaldiego",
       "service_id": "3",
@@ -21249,7 +21249,7 @@
       ]
     },
     {
-      "trip_id": "3_17598295",
+      "trip_id": "3_17702308",
       "direction_id": "1",
       "headsign": "BARTOSZOWICE",
       "service_id": "3",
@@ -21536,7 +21536,7 @@
       ]
     },
     {
-      "trip_id": "3_17598296",
+      "trip_id": "3_17702309",
       "direction_id": "0",
       "headsign": "Vivaldiego",
       "service_id": "3",
@@ -21841,7 +21841,7 @@
       ]
     },
     {
-      "trip_id": "3_17598297",
+      "trip_id": "3_17702310",
       "direction_id": "1",
       "headsign": "BARTOSZOWICE",
       "service_id": "3",
@@ -22128,7 +22128,7 @@
       ]
     },
     {
-      "trip_id": "3_17598298",
+      "trip_id": "3_17702311",
       "direction_id": "0",
       "headsign": "Vivaldiego",
       "service_id": "3",
@@ -22433,7 +22433,7 @@
       ]
     },
     {
-      "trip_id": "3_17598299",
+      "trip_id": "3_17702312",
       "direction_id": "1",
       "headsign": "BARTOSZOWICE",
       "service_id": "3",
@@ -22720,7 +22720,7 @@
       ]
     },
     {
-      "trip_id": "3_17598300",
+      "trip_id": "3_17702313",
       "direction_id": "0",
       "headsign": "Vivaldiego",
       "service_id": "3",
@@ -23025,7 +23025,7 @@
       ]
     },
     {
-      "trip_id": "3_17598301",
+      "trip_id": "3_17702314",
       "direction_id": "1",
       "headsign": "BARTOSZOWICE",
       "service_id": "3",
@@ -23312,7 +23312,7 @@
       ]
     },
     {
-      "trip_id": "3_17598302",
+      "trip_id": "3_17702315",
       "direction_id": "0",
       "headsign": "Vivaldiego",
       "service_id": "3",
@@ -23617,7 +23617,7 @@
       ]
     },
     {
-      "trip_id": "3_17598303",
+      "trip_id": "3_17702316",
       "direction_id": "1",
       "headsign": "Zajezdnia TYSKA",
       "service_id": "3",
@@ -23805,7 +23805,7 @@
       ]
     },
     {
-      "trip_id": "3_17598967",
+      "trip_id": "3_17702980",
       "direction_id": "1",
       "headsign": "BARTOSZOWICE",
       "service_id": "3",
@@ -24038,7 +24038,7 @@
       ]
     },
     {
-      "trip_id": "3_17598968",
+      "trip_id": "3_17702981",
       "direction_id": "0",
       "headsign": "Vivaldiego",
       "service_id": "3",
@@ -24343,7 +24343,7 @@
       ]
     },
     {
-      "trip_id": "3_17598969",
+      "trip_id": "3_17702982",
       "direction_id": "1",
       "headsign": "BARTOSZOWICE",
       "service_id": "3",
@@ -24630,7 +24630,7 @@
       ]
     },
     {
-      "trip_id": "3_17599002",
+      "trip_id": "3_17703015",
       "direction_id": "1",
       "headsign": "BARTOSZOWICE",
       "service_id": "3",
@@ -24782,7 +24782,7 @@
       ]
     },
     {
-      "trip_id": "3_17599003",
+      "trip_id": "3_17703016",
       "direction_id": "0",
       "headsign": "Vivaldiego",
       "service_id": "3",
@@ -25087,7 +25087,7 @@
       ]
     },
     {
-      "trip_id": "4_17602655",
+      "trip_id": "4_17706668",
       "direction_id": "1",
       "headsign": "BARTOSZOWICE",
       "service_id": "4",
@@ -25320,7 +25320,7 @@
       ]
     },
     {
-      "trip_id": "4_17602656",
+      "trip_id": "4_17706669",
       "direction_id": "0",
       "headsign": "Vivaldiego",
       "service_id": "4",
@@ -25625,7 +25625,7 @@
       ]
     },
     {
-      "trip_id": "4_17602657",
+      "trip_id": "4_17706670",
       "direction_id": "1",
       "headsign": "BARTOSZOWICE",
       "service_id": "4",
@@ -25912,7 +25912,7 @@
       ]
     },
     {
-      "trip_id": "4_17602658",
+      "trip_id": "4_17706671",
       "direction_id": "0",
       "headsign": "Vivaldiego",
       "service_id": "4",
@@ -26217,7 +26217,7 @@
       ]
     },
     {
-      "trip_id": "4_17602659",
+      "trip_id": "4_17706672",
       "direction_id": "1",
       "headsign": "BARTOSZOWICE",
       "service_id": "4",
@@ -26504,7 +26504,7 @@
       ]
     },
     {
-      "trip_id": "4_17602660",
+      "trip_id": "4_17706673",
       "direction_id": "0",
       "headsign": "Vivaldiego",
       "service_id": "4",
@@ -26809,7 +26809,7 @@
       ]
     },
     {
-      "trip_id": "4_17602661",
+      "trip_id": "4_17706674",
       "direction_id": "1",
       "headsign": "BARTOSZOWICE",
       "service_id": "4",
@@ -27096,7 +27096,7 @@
       ]
     },
     {
-      "trip_id": "4_17602662",
+      "trip_id": "4_17706675",
       "direction_id": "0",
       "headsign": "Vivaldiego",
       "service_id": "4",
@@ -27401,7 +27401,7 @@
       ]
     },
     {
-      "trip_id": "4_17602663",
+      "trip_id": "4_17706676",
       "direction_id": "1",
       "headsign": "BARTOSZOWICE",
       "service_id": "4",
@@ -27688,7 +27688,7 @@
       ]
     },
     {
-      "trip_id": "4_17602664",
+      "trip_id": "4_17706677",
       "direction_id": "0",
       "headsign": "Vivaldiego",
       "service_id": "4",
@@ -27993,7 +27993,7 @@
       ]
     },
     {
-      "trip_id": "4_17602665",
+      "trip_id": "4_17706678",
       "direction_id": "1",
       "headsign": "BARTOSZOWICE",
       "service_id": "4",
@@ -28280,7 +28280,7 @@
       ]
     },
     {
-      "trip_id": "4_17602666",
+      "trip_id": "4_17706679",
       "direction_id": "0",
       "headsign": "Vivaldiego",
       "service_id": "4",
@@ -28585,7 +28585,7 @@
       ]
     },
     {
-      "trip_id": "4_17602667",
+      "trip_id": "4_17706680",
       "direction_id": "1",
       "headsign": "BARTOSZOWICE",
       "service_id": "4",
@@ -28872,7 +28872,7 @@
       ]
     },
     {
-      "trip_id": "4_17602668",
+      "trip_id": "4_17706681",
       "direction_id": "0",
       "headsign": "Vivaldiego",
       "service_id": "4",
@@ -29177,7 +29177,7 @@
       ]
     },
     {
-      "trip_id": "4_17602669",
+      "trip_id": "4_17706682",
       "direction_id": "1",
       "headsign": "BARTOSZOWICE",
       "service_id": "4",
@@ -29464,7 +29464,7 @@
       ]
     },
     {
-      "trip_id": "4_17602670",
+      "trip_id": "4_17706683",
       "direction_id": "0",
       "headsign": "Vivaldiego",
       "service_id": "4",
@@ -29769,7 +29769,7 @@
       ]
     },
     {
-      "trip_id": "4_17602671",
+      "trip_id": "4_17706684",
       "direction_id": "1",
       "headsign": "BARTOSZOWICE",
       "service_id": "4",
@@ -30056,7 +30056,7 @@
       ]
     },
     {
-      "trip_id": "4_17602672",
+      "trip_id": "4_17706685",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "4",
@@ -30298,7 +30298,7 @@
       ]
     },
     {
-      "trip_id": "4_17602673",
+      "trip_id": "4_17706686",
       "direction_id": "0",
       "headsign": "Vivaldiego",
       "service_id": "4",
@@ -30648,7 +30648,7 @@
       ]
     },
     {
-      "trip_id": "4_17602674",
+      "trip_id": "4_17706687",
       "direction_id": "1",
       "headsign": "BARTOSZOWICE",
       "service_id": "4",
@@ -30935,7 +30935,7 @@
       ]
     },
     {
-      "trip_id": "4_17602675",
+      "trip_id": "4_17706688",
       "direction_id": "0",
       "headsign": "Vivaldiego",
       "service_id": "4",
@@ -31240,7 +31240,7 @@
       ]
     },
     {
-      "trip_id": "4_17602676",
+      "trip_id": "4_17706689",
       "direction_id": "1",
       "headsign": "BARTOSZOWICE",
       "service_id": "4",
@@ -31527,7 +31527,7 @@
       ]
     },
     {
-      "trip_id": "4_17602677",
+      "trip_id": "4_17706690",
       "direction_id": "0",
       "headsign": "Vivaldiego",
       "service_id": "4",
@@ -31832,7 +31832,7 @@
       ]
     },
     {
-      "trip_id": "4_17602678",
+      "trip_id": "4_17706691",
       "direction_id": "1",
       "headsign": "BARTOSZOWICE",
       "service_id": "4",
@@ -32119,7 +32119,7 @@
       ]
     },
     {
-      "trip_id": "4_17602679",
+      "trip_id": "4_17706692",
       "direction_id": "0",
       "headsign": "Vivaldiego",
       "service_id": "4",
@@ -32424,7 +32424,7 @@
       ]
     },
     {
-      "trip_id": "4_17602680",
+      "trip_id": "4_17706693",
       "direction_id": "1",
       "headsign": "BARTOSZOWICE",
       "service_id": "4",
@@ -32711,7 +32711,7 @@
       ]
     },
     {
-      "trip_id": "4_17602681",
+      "trip_id": "4_17706694",
       "direction_id": "0",
       "headsign": "Vivaldiego",
       "service_id": "4",
@@ -33016,7 +33016,7 @@
       ]
     },
     {
-      "trip_id": "4_17602682",
+      "trip_id": "4_17706695",
       "direction_id": "1",
       "headsign": "BARTOSZOWICE",
       "service_id": "4",
@@ -33303,7 +33303,7 @@
       ]
     },
     {
-      "trip_id": "4_17602683",
+      "trip_id": "4_17706696",
       "direction_id": "0",
       "headsign": "Vivaldiego",
       "service_id": "4",
@@ -33608,7 +33608,7 @@
       ]
     },
     {
-      "trip_id": "4_17602684",
+      "trip_id": "4_17706697",
       "direction_id": "1",
       "headsign": "BARTOSZOWICE",
       "service_id": "4",
@@ -33895,7 +33895,7 @@
       ]
     },
     {
-      "trip_id": "4_17602685",
+      "trip_id": "4_17706698",
       "direction_id": "0",
       "headsign": "Vivaldiego",
       "service_id": "4",
@@ -34200,7 +34200,7 @@
       ]
     },
     {
-      "trip_id": "4_17602686",
+      "trip_id": "4_17706699",
       "direction_id": "1",
       "headsign": "BARTOSZOWICE",
       "service_id": "4",
@@ -34487,7 +34487,7 @@
       ]
     },
     {
-      "trip_id": "4_17602687",
+      "trip_id": "4_17706700",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "4",
@@ -34729,7 +34729,7 @@
       ]
     },
     {
-      "trip_id": "4_17602688",
+      "trip_id": "4_17706701",
       "direction_id": "1",
       "headsign": "BARTOSZOWICE",
       "service_id": "4",
@@ -34881,7 +34881,7 @@
       ]
     },
     {
-      "trip_id": "4_17602689",
+      "trip_id": "4_17706702",
       "direction_id": "0",
       "headsign": "Vivaldiego",
       "service_id": "4",
@@ -35186,7 +35186,7 @@
       ]
     },
     {
-      "trip_id": "4_17602690",
+      "trip_id": "4_17706703",
       "direction_id": "1",
       "headsign": "BARTOSZOWICE",
       "service_id": "4",
@@ -35473,7 +35473,7 @@
       ]
     },
     {
-      "trip_id": "4_17602691",
+      "trip_id": "4_17706704",
       "direction_id": "0",
       "headsign": "Vivaldiego",
       "service_id": "4",
@@ -35778,7 +35778,7 @@
       ]
     },
     {
-      "trip_id": "4_17602692",
+      "trip_id": "4_17706705",
       "direction_id": "1",
       "headsign": "BARTOSZOWICE",
       "service_id": "4",
@@ -36065,7 +36065,7 @@
       ]
     },
     {
-      "trip_id": "4_17602693",
+      "trip_id": "4_17706706",
       "direction_id": "0",
       "headsign": "Vivaldiego",
       "service_id": "4",
@@ -36370,7 +36370,7 @@
       ]
     },
     {
-      "trip_id": "4_17602694",
+      "trip_id": "4_17706707",
       "direction_id": "1",
       "headsign": "BARTOSZOWICE",
       "service_id": "4",
@@ -36657,7 +36657,7 @@
       ]
     },
     {
-      "trip_id": "4_17602695",
+      "trip_id": "4_17706708",
       "direction_id": "0",
       "headsign": "Vivaldiego",
       "service_id": "4",
@@ -36962,7 +36962,7 @@
       ]
     },
     {
-      "trip_id": "4_17602696",
+      "trip_id": "4_17706709",
       "direction_id": "1",
       "headsign": "BARTOSZOWICE",
       "service_id": "4",
@@ -37249,7 +37249,7 @@
       ]
     },
     {
-      "trip_id": "4_17602697",
+      "trip_id": "4_17706710",
       "direction_id": "0",
       "headsign": "Vivaldiego",
       "service_id": "4",
@@ -37554,7 +37554,7 @@
       ]
     },
     {
-      "trip_id": "4_17602698",
+      "trip_id": "4_17706711",
       "direction_id": "1",
       "headsign": "BARTOSZOWICE",
       "service_id": "4",
@@ -37841,7 +37841,7 @@
       ]
     },
     {
-      "trip_id": "4_17602699",
+      "trip_id": "4_17706712",
       "direction_id": "0",
       "headsign": "Vivaldiego",
       "service_id": "4",
@@ -38146,7 +38146,7 @@
       ]
     },
     {
-      "trip_id": "4_17602700",
+      "trip_id": "4_17706713",
       "direction_id": "1",
       "headsign": "BARTOSZOWICE",
       "service_id": "4",
@@ -38433,7 +38433,7 @@
       ]
     },
     {
-      "trip_id": "4_17602701",
+      "trip_id": "4_17706714",
       "direction_id": "0",
       "headsign": "Vivaldiego",
       "service_id": "4",
@@ -38738,7 +38738,7 @@
       ]
     },
     {
-      "trip_id": "4_17602702",
+      "trip_id": "4_17706715",
       "direction_id": "1",
       "headsign": "BARTOSZOWICE",
       "service_id": "4",
@@ -39025,7 +39025,7 @@
       ]
     },
     {
-      "trip_id": "4_17602703",
+      "trip_id": "4_17706716",
       "direction_id": "0",
       "headsign": "Zajezdnia TYSKA",
       "service_id": "4",
@@ -39231,7 +39231,7 @@
       ]
     },
     {
-      "trip_id": "4_17602704",
+      "trip_id": "4_17706717",
       "direction_id": "0",
       "headsign": "Vivaldiego",
       "service_id": "4",
@@ -39464,7 +39464,7 @@
       ]
     },
     {
-      "trip_id": "4_17602705",
+      "trip_id": "4_17706718",
       "direction_id": "1",
       "headsign": "BARTOSZOWICE",
       "service_id": "4",
@@ -39751,7 +39751,7 @@
       ]
     },
     {
-      "trip_id": "4_17602706",
+      "trip_id": "4_17706719",
       "direction_id": "0",
       "headsign": "Vivaldiego",
       "service_id": "4",
@@ -40056,7 +40056,7 @@
       ]
     },
     {
-      "trip_id": "4_17602707",
+      "trip_id": "4_17706720",
       "direction_id": "1",
       "headsign": "BARTOSZOWICE",
       "service_id": "4",
@@ -40343,7 +40343,7 @@
       ]
     },
     {
-      "trip_id": "4_17602708",
+      "trip_id": "4_17706721",
       "direction_id": "0",
       "headsign": "Vivaldiego",
       "service_id": "4",
@@ -40648,7 +40648,7 @@
       ]
     },
     {
-      "trip_id": "4_17602709",
+      "trip_id": "4_17706722",
       "direction_id": "1",
       "headsign": "BARTOSZOWICE",
       "service_id": "4",
@@ -40935,7 +40935,7 @@
       ]
     },
     {
-      "trip_id": "4_17602710",
+      "trip_id": "4_17706723",
       "direction_id": "0",
       "headsign": "Vivaldiego",
       "service_id": "4",
@@ -41240,7 +41240,7 @@
       ]
     },
     {
-      "trip_id": "4_17602711",
+      "trip_id": "4_17706724",
       "direction_id": "1",
       "headsign": "BARTOSZOWICE",
       "service_id": "4",
@@ -41527,7 +41527,7 @@
       ]
     },
     {
-      "trip_id": "4_17602712",
+      "trip_id": "4_17706725",
       "direction_id": "0",
       "headsign": "Vivaldiego",
       "service_id": "4",
@@ -41832,7 +41832,7 @@
       ]
     },
     {
-      "trip_id": "4_17602713",
+      "trip_id": "4_17706726",
       "direction_id": "1",
       "headsign": "BARTOSZOWICE",
       "service_id": "4",
@@ -42119,7 +42119,7 @@
       ]
     },
     {
-      "trip_id": "4_17602714",
+      "trip_id": "4_17706727",
       "direction_id": "0",
       "headsign": "Vivaldiego",
       "service_id": "4",
@@ -42424,7 +42424,7 @@
       ]
     },
     {
-      "trip_id": "4_17602715",
+      "trip_id": "4_17706728",
       "direction_id": "1",
       "headsign": "BARTOSZOWICE",
       "service_id": "4",
@@ -42711,7 +42711,7 @@
       ]
     },
     {
-      "trip_id": "4_17602716",
+      "trip_id": "4_17706729",
       "direction_id": "0",
       "headsign": "Vivaldiego",
       "service_id": "4",
@@ -43016,7 +43016,7 @@
       ]
     },
     {
-      "trip_id": "4_17602717",
+      "trip_id": "4_17706730",
       "direction_id": "1",
       "headsign": "BARTOSZOWICE",
       "service_id": "4",
@@ -43303,7 +43303,7 @@
       ]
     },
     {
-      "trip_id": "4_17602718",
+      "trip_id": "4_17706731",
       "direction_id": "0",
       "headsign": "Vivaldiego",
       "service_id": "4",
@@ -43608,7 +43608,7 @@
       ]
     },
     {
-      "trip_id": "4_17602719",
+      "trip_id": "4_17706732",
       "direction_id": "1",
       "headsign": "BARTOSZOWICE",
       "service_id": "4",
@@ -43895,7 +43895,7 @@
       ]
     },
     {
-      "trip_id": "4_17602720",
+      "trip_id": "4_17706733",
       "direction_id": "0",
       "headsign": "Zajezdnia TYSKA",
       "service_id": "4",
@@ -44101,7 +44101,7 @@
       ]
     },
     {
-      "trip_id": "4_17602721",
+      "trip_id": "4_17706734",
       "direction_id": "1",
       "headsign": "BARTOSZOWICE",
       "service_id": "4",
@@ -44253,7 +44253,7 @@
       ]
     },
     {
-      "trip_id": "4_17602722",
+      "trip_id": "4_17706735",
       "direction_id": "0",
       "headsign": "Vivaldiego",
       "service_id": "4",
@@ -44558,7 +44558,7 @@
       ]
     },
     {
-      "trip_id": "4_17602723",
+      "trip_id": "4_17706736",
       "direction_id": "1",
       "headsign": "BARTOSZOWICE",
       "service_id": "4",
@@ -44845,7 +44845,7 @@
       ]
     },
     {
-      "trip_id": "4_17602724",
+      "trip_id": "4_17706737",
       "direction_id": "0",
       "headsign": "Vivaldiego",
       "service_id": "4",
@@ -45150,7 +45150,7 @@
       ]
     },
     {
-      "trip_id": "4_17602725",
+      "trip_id": "4_17706738",
       "direction_id": "1",
       "headsign": "BARTOSZOWICE",
       "service_id": "4",
@@ -45437,7 +45437,7 @@
       ]
     },
     {
-      "trip_id": "4_17602726",
+      "trip_id": "4_17706739",
       "direction_id": "0",
       "headsign": "Vivaldiego",
       "service_id": "4",
@@ -45742,7 +45742,7 @@
       ]
     },
     {
-      "trip_id": "4_17602727",
+      "trip_id": "4_17706740",
       "direction_id": "1",
       "headsign": "BARTOSZOWICE",
       "service_id": "4",
@@ -46029,7 +46029,7 @@
       ]
     },
     {
-      "trip_id": "4_17602728",
+      "trip_id": "4_17706741",
       "direction_id": "0",
       "headsign": "Vivaldiego",
       "service_id": "4",
@@ -46334,7 +46334,7 @@
       ]
     },
     {
-      "trip_id": "4_17602729",
+      "trip_id": "4_17706742",
       "direction_id": "1",
       "headsign": "BARTOSZOWICE",
       "service_id": "4",
@@ -46621,7 +46621,7 @@
       ]
     },
     {
-      "trip_id": "4_17602730",
+      "trip_id": "4_17706743",
       "direction_id": "0",
       "headsign": "Vivaldiego",
       "service_id": "4",
@@ -46926,7 +46926,7 @@
       ]
     },
     {
-      "trip_id": "4_17602731",
+      "trip_id": "4_17706744",
       "direction_id": "1",
       "headsign": "BARTOSZOWICE",
       "service_id": "4",
@@ -47213,7 +47213,7 @@
       ]
     },
     {
-      "trip_id": "4_17602732",
+      "trip_id": "4_17706745",
       "direction_id": "0",
       "headsign": "Vivaldiego",
       "service_id": "4",
@@ -47518,7 +47518,7 @@
       ]
     },
     {
-      "trip_id": "4_17602733",
+      "trip_id": "4_17706746",
       "direction_id": "1",
       "headsign": "BARTOSZOWICE",
       "service_id": "4",
@@ -47805,7 +47805,7 @@
       ]
     },
     {
-      "trip_id": "4_17602734",
+      "trip_id": "4_17706747",
       "direction_id": "0",
       "headsign": "Vivaldiego",
       "service_id": "4",
@@ -48110,7 +48110,7 @@
       ]
     },
     {
-      "trip_id": "4_17602735",
+      "trip_id": "4_17706748",
       "direction_id": "1",
       "headsign": "BARTOSZOWICE",
       "service_id": "4",
@@ -48397,7 +48397,7 @@
       ]
     },
     {
-      "trip_id": "4_17602736",
+      "trip_id": "4_17706749",
       "direction_id": "0",
       "headsign": "Vivaldiego",
       "service_id": "4",
@@ -48702,7 +48702,7 @@
       ]
     },
     {
-      "trip_id": "4_17602737",
+      "trip_id": "4_17706750",
       "direction_id": "1",
       "headsign": "Zajezdnia TYSKA",
       "service_id": "4",
@@ -48890,7 +48890,7 @@
       ]
     },
     {
-      "trip_id": "4_17603379",
+      "trip_id": "4_17707392",
       "direction_id": "1",
       "headsign": "BARTOSZOWICE",
       "service_id": "4",
@@ -49123,7 +49123,7 @@
       ]
     },
     {
-      "trip_id": "4_17603380",
+      "trip_id": "4_17707393",
       "direction_id": "0",
       "headsign": "Vivaldiego",
       "service_id": "4",
@@ -49428,7 +49428,7 @@
       ]
     },
     {
-      "trip_id": "4_17603381",
+      "trip_id": "4_17707394",
       "direction_id": "1",
       "headsign": "BARTOSZOWICE",
       "service_id": "4",
@@ -49715,7 +49715,7 @@
       ]
     },
     {
-      "trip_id": "4_17603414",
+      "trip_id": "4_17707427",
       "direction_id": "1",
       "headsign": "BARTOSZOWICE",
       "service_id": "4",
@@ -49867,7 +49867,7 @@
       ]
     },
     {
-      "trip_id": "4_17603415",
+      "trip_id": "4_17707428",
       "direction_id": "0",
       "headsign": "Vivaldiego",
       "service_id": "4",
@@ -50172,7 +50172,7 @@
       ]
     },
     {
-      "trip_id": "6_17608422",
+      "trip_id": "6_17712435",
       "direction_id": "1",
       "headsign": "BARTOSZOWICE",
       "service_id": "6",
@@ -50405,7 +50405,7 @@
       ]
     },
     {
-      "trip_id": "6_17608423",
+      "trip_id": "6_17712436",
       "direction_id": "0",
       "headsign": "Vivaldiego",
       "service_id": "6",
@@ -50710,7 +50710,7 @@
       ]
     },
     {
-      "trip_id": "6_17608424",
+      "trip_id": "6_17712437",
       "direction_id": "1",
       "headsign": "BARTOSZOWICE",
       "service_id": "6",
@@ -50997,7 +50997,7 @@
       ]
     },
     {
-      "trip_id": "6_17608425",
+      "trip_id": "6_17712438",
       "direction_id": "0",
       "headsign": "Vivaldiego",
       "service_id": "6",
@@ -51302,7 +51302,7 @@
       ]
     },
     {
-      "trip_id": "6_17608426",
+      "trip_id": "6_17712439",
       "direction_id": "1",
       "headsign": "BARTOSZOWICE",
       "service_id": "6",
@@ -51589,7 +51589,7 @@
       ]
     },
     {
-      "trip_id": "6_17608427",
+      "trip_id": "6_17712440",
       "direction_id": "0",
       "headsign": "Vivaldiego",
       "service_id": "6",
@@ -51894,7 +51894,7 @@
       ]
     },
     {
-      "trip_id": "6_17608428",
+      "trip_id": "6_17712441",
       "direction_id": "1",
       "headsign": "BARTOSZOWICE",
       "service_id": "6",
@@ -52181,7 +52181,7 @@
       ]
     },
     {
-      "trip_id": "6_17608429",
+      "trip_id": "6_17712442",
       "direction_id": "0",
       "headsign": "Vivaldiego",
       "service_id": "6",
@@ -52486,7 +52486,7 @@
       ]
     },
     {
-      "trip_id": "6_17608430",
+      "trip_id": "6_17712443",
       "direction_id": "1",
       "headsign": "BARTOSZOWICE",
       "service_id": "6",
@@ -52773,7 +52773,7 @@
       ]
     },
     {
-      "trip_id": "6_17608431",
+      "trip_id": "6_17712444",
       "direction_id": "0",
       "headsign": "Vivaldiego",
       "service_id": "6",
@@ -53078,7 +53078,7 @@
       ]
     },
     {
-      "trip_id": "6_17608432",
+      "trip_id": "6_17712445",
       "direction_id": "1",
       "headsign": "BARTOSZOWICE",
       "service_id": "6",
@@ -53365,7 +53365,7 @@
       ]
     },
     {
-      "trip_id": "6_17608433",
+      "trip_id": "6_17712446",
       "direction_id": "0",
       "headsign": "Vivaldiego",
       "service_id": "6",
@@ -53670,7 +53670,7 @@
       ]
     },
     {
-      "trip_id": "6_17608434",
+      "trip_id": "6_17712447",
       "direction_id": "1",
       "headsign": "BARTOSZOWICE",
       "service_id": "6",
@@ -53957,7 +53957,7 @@
       ]
     },
     {
-      "trip_id": "6_17608435",
+      "trip_id": "6_17712448",
       "direction_id": "0",
       "headsign": "Vivaldiego",
       "service_id": "6",
@@ -54262,7 +54262,7 @@
       ]
     },
     {
-      "trip_id": "6_17608436",
+      "trip_id": "6_17712449",
       "direction_id": "1",
       "headsign": "BARTOSZOWICE",
       "service_id": "6",
@@ -54549,7 +54549,7 @@
       ]
     },
     {
-      "trip_id": "6_17608437",
+      "trip_id": "6_17712450",
       "direction_id": "0",
       "headsign": "Vivaldiego",
       "service_id": "6",
@@ -54854,7 +54854,7 @@
       ]
     },
     {
-      "trip_id": "6_17608438",
+      "trip_id": "6_17712451",
       "direction_id": "1",
       "headsign": "BARTOSZOWICE",
       "service_id": "6",
@@ -55141,7 +55141,7 @@
       ]
     },
     {
-      "trip_id": "6_17608439",
+      "trip_id": "6_17712452",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "6",
@@ -55383,7 +55383,7 @@
       ]
     },
     {
-      "trip_id": "6_17608440",
+      "trip_id": "6_17712453",
       "direction_id": "0",
       "headsign": "Vivaldiego",
       "service_id": "6",
@@ -55733,7 +55733,7 @@
       ]
     },
     {
-      "trip_id": "6_17608441",
+      "trip_id": "6_17712454",
       "direction_id": "1",
       "headsign": "BARTOSZOWICE",
       "service_id": "6",
@@ -56020,7 +56020,7 @@
       ]
     },
     {
-      "trip_id": "6_17608442",
+      "trip_id": "6_17712455",
       "direction_id": "0",
       "headsign": "Vivaldiego",
       "service_id": "6",
@@ -56325,7 +56325,7 @@
       ]
     },
     {
-      "trip_id": "6_17608443",
+      "trip_id": "6_17712456",
       "direction_id": "1",
       "headsign": "BARTOSZOWICE",
       "service_id": "6",
@@ -56612,7 +56612,7 @@
       ]
     },
     {
-      "trip_id": "6_17608444",
+      "trip_id": "6_17712457",
       "direction_id": "0",
       "headsign": "Vivaldiego",
       "service_id": "6",
@@ -56917,7 +56917,7 @@
       ]
     },
     {
-      "trip_id": "6_17608445",
+      "trip_id": "6_17712458",
       "direction_id": "1",
       "headsign": "BARTOSZOWICE",
       "service_id": "6",
@@ -57204,7 +57204,7 @@
       ]
     },
     {
-      "trip_id": "6_17608446",
+      "trip_id": "6_17712459",
       "direction_id": "0",
       "headsign": "Vivaldiego",
       "service_id": "6",
@@ -57509,7 +57509,7 @@
       ]
     },
     {
-      "trip_id": "6_17608447",
+      "trip_id": "6_17712460",
       "direction_id": "1",
       "headsign": "BARTOSZOWICE",
       "service_id": "6",
@@ -57796,7 +57796,7 @@
       ]
     },
     {
-      "trip_id": "6_17608448",
+      "trip_id": "6_17712461",
       "direction_id": "0",
       "headsign": "Vivaldiego",
       "service_id": "6",
@@ -58101,7 +58101,7 @@
       ]
     },
     {
-      "trip_id": "6_17608449",
+      "trip_id": "6_17712462",
       "direction_id": "1",
       "headsign": "BARTOSZOWICE",
       "service_id": "6",
@@ -58388,7 +58388,7 @@
       ]
     },
     {
-      "trip_id": "6_17608450",
+      "trip_id": "6_17712463",
       "direction_id": "0",
       "headsign": "Vivaldiego",
       "service_id": "6",
@@ -58693,7 +58693,7 @@
       ]
     },
     {
-      "trip_id": "6_17608451",
+      "trip_id": "6_17712464",
       "direction_id": "1",
       "headsign": "BARTOSZOWICE",
       "service_id": "6",
@@ -58980,7 +58980,7 @@
       ]
     },
     {
-      "trip_id": "6_17608452",
+      "trip_id": "6_17712465",
       "direction_id": "0",
       "headsign": "Vivaldiego",
       "service_id": "6",
@@ -59285,7 +59285,7 @@
       ]
     },
     {
-      "trip_id": "6_17608453",
+      "trip_id": "6_17712466",
       "direction_id": "1",
       "headsign": "BARTOSZOWICE",
       "service_id": "6",
@@ -59572,7 +59572,7 @@
       ]
     },
     {
-      "trip_id": "6_17608454",
+      "trip_id": "6_17712467",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "6",
@@ -59814,7 +59814,7 @@
       ]
     },
     {
-      "trip_id": "6_17608455",
+      "trip_id": "6_17712468",
       "direction_id": "0",
       "headsign": "Vivaldiego",
       "service_id": "6",
@@ -60164,7 +60164,7 @@
       ]
     },
     {
-      "trip_id": "6_17608456",
+      "trip_id": "6_17712469",
       "direction_id": "1",
       "headsign": "BARTOSZOWICE",
       "service_id": "6",
@@ -60451,7 +60451,7 @@
       ]
     },
     {
-      "trip_id": "6_17608457",
+      "trip_id": "6_17712470",
       "direction_id": "0",
       "headsign": "Vivaldiego",
       "service_id": "6",
@@ -60756,7 +60756,7 @@
       ]
     },
     {
-      "trip_id": "6_17608458",
+      "trip_id": "6_17712471",
       "direction_id": "1",
       "headsign": "BARTOSZOWICE",
       "service_id": "6",
@@ -61043,7 +61043,7 @@
       ]
     },
     {
-      "trip_id": "6_17608459",
+      "trip_id": "6_17712472",
       "direction_id": "0",
       "headsign": "Vivaldiego",
       "service_id": "6",
@@ -61348,7 +61348,7 @@
       ]
     },
     {
-      "trip_id": "6_17608460",
+      "trip_id": "6_17712473",
       "direction_id": "1",
       "headsign": "BARTOSZOWICE",
       "service_id": "6",
@@ -61635,7 +61635,7 @@
       ]
     },
     {
-      "trip_id": "6_17608461",
+      "trip_id": "6_17712474",
       "direction_id": "0",
       "headsign": "Vivaldiego",
       "service_id": "6",
@@ -61940,7 +61940,7 @@
       ]
     },
     {
-      "trip_id": "6_17608462",
+      "trip_id": "6_17712475",
       "direction_id": "1",
       "headsign": "BARTOSZOWICE",
       "service_id": "6",
@@ -62227,7 +62227,7 @@
       ]
     },
     {
-      "trip_id": "6_17608463",
+      "trip_id": "6_17712476",
       "direction_id": "0",
       "headsign": "Vivaldiego",
       "service_id": "6",
@@ -62532,7 +62532,7 @@
       ]
     },
     {
-      "trip_id": "6_17608464",
+      "trip_id": "6_17712477",
       "direction_id": "1",
       "headsign": "BARTOSZOWICE",
       "service_id": "6",
@@ -62819,7 +62819,7 @@
       ]
     },
     {
-      "trip_id": "6_17608465",
+      "trip_id": "6_17712478",
       "direction_id": "0",
       "headsign": "Vivaldiego",
       "service_id": "6",
@@ -63124,7 +63124,7 @@
       ]
     },
     {
-      "trip_id": "6_17608466",
+      "trip_id": "6_17712479",
       "direction_id": "1",
       "headsign": "BARTOSZOWICE",
       "service_id": "6",
@@ -63411,7 +63411,7 @@
       ]
     },
     {
-      "trip_id": "6_17608467",
+      "trip_id": "6_17712480",
       "direction_id": "0",
       "headsign": "Vivaldiego",
       "service_id": "6",
@@ -63716,7 +63716,7 @@
       ]
     },
     {
-      "trip_id": "6_17608468",
+      "trip_id": "6_17712481",
       "direction_id": "1",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "6",
@@ -64057,7 +64057,7 @@
       ]
     },
     {
-      "trip_id": "6_17608469",
+      "trip_id": "6_17712482",
       "direction_id": "1",
       "headsign": "BARTOSZOWICE",
       "service_id": "6",
@@ -64290,7 +64290,7 @@
       ]
     },
     {
-      "trip_id": "6_17608470",
+      "trip_id": "6_17712483",
       "direction_id": "0",
       "headsign": "Vivaldiego",
       "service_id": "6",
@@ -64595,7 +64595,7 @@
       ]
     },
     {
-      "trip_id": "6_17608471",
+      "trip_id": "6_17712484",
       "direction_id": "1",
       "headsign": "BARTOSZOWICE",
       "service_id": "6",
@@ -64882,7 +64882,7 @@
       ]
     },
     {
-      "trip_id": "6_17608472",
+      "trip_id": "6_17712485",
       "direction_id": "0",
       "headsign": "Vivaldiego",
       "service_id": "6",
@@ -65187,7 +65187,7 @@
       ]
     },
     {
-      "trip_id": "6_17608473",
+      "trip_id": "6_17712486",
       "direction_id": "1",
       "headsign": "BARTOSZOWICE",
       "service_id": "6",
@@ -65474,7 +65474,7 @@
       ]
     },
     {
-      "trip_id": "6_17608474",
+      "trip_id": "6_17712487",
       "direction_id": "0",
       "headsign": "Vivaldiego",
       "service_id": "6",
@@ -65779,7 +65779,7 @@
       ]
     },
     {
-      "trip_id": "6_17608475",
+      "trip_id": "6_17712488",
       "direction_id": "1",
       "headsign": "BARTOSZOWICE",
       "service_id": "6",
@@ -66066,7 +66066,7 @@
       ]
     },
     {
-      "trip_id": "6_17608476",
+      "trip_id": "6_17712489",
       "direction_id": "0",
       "headsign": "Vivaldiego",
       "service_id": "6",
@@ -66371,7 +66371,7 @@
       ]
     },
     {
-      "trip_id": "6_17608477",
+      "trip_id": "6_17712490",
       "direction_id": "1",
       "headsign": "BARTOSZOWICE",
       "service_id": "6",
@@ -66658,7 +66658,7 @@
       ]
     },
     {
-      "trip_id": "6_17608478",
+      "trip_id": "6_17712491",
       "direction_id": "0",
       "headsign": "Vivaldiego",
       "service_id": "6",
@@ -66963,7 +66963,7 @@
       ]
     },
     {
-      "trip_id": "6_17608479",
+      "trip_id": "6_17712492",
       "direction_id": "1",
       "headsign": "BARTOSZOWICE",
       "service_id": "6",
@@ -67250,7 +67250,7 @@
       ]
     },
     {
-      "trip_id": "6_17608480",
+      "trip_id": "6_17712493",
       "direction_id": "0",
       "headsign": "Vivaldiego",
       "service_id": "6",
@@ -67555,7 +67555,7 @@
       ]
     },
     {
-      "trip_id": "6_17608481",
+      "trip_id": "6_17712494",
       "direction_id": "1",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "6",
@@ -67896,7 +67896,7 @@
       ]
     },
     {
-      "trip_id": "6_17608482",
+      "trip_id": "6_17712495",
       "direction_id": "0",
       "headsign": "Vivaldiego",
       "service_id": "6",
@@ -68246,7 +68246,7 @@
       ]
     },
     {
-      "trip_id": "6_17608483",
+      "trip_id": "6_17712496",
       "direction_id": "1",
       "headsign": "BARTOSZOWICE",
       "service_id": "6",
@@ -68533,7 +68533,7 @@
       ]
     },
     {
-      "trip_id": "6_17608484",
+      "trip_id": "6_17712497",
       "direction_id": "0",
       "headsign": "Vivaldiego",
       "service_id": "6",
@@ -68838,7 +68838,7 @@
       ]
     },
     {
-      "trip_id": "6_17608485",
+      "trip_id": "6_17712498",
       "direction_id": "1",
       "headsign": "BARTOSZOWICE",
       "service_id": "6",
@@ -69125,7 +69125,7 @@
       ]
     },
     {
-      "trip_id": "6_17608486",
+      "trip_id": "6_17712499",
       "direction_id": "0",
       "headsign": "Vivaldiego",
       "service_id": "6",
@@ -69430,7 +69430,7 @@
       ]
     },
     {
-      "trip_id": "6_17608487",
+      "trip_id": "6_17712500",
       "direction_id": "1",
       "headsign": "BARTOSZOWICE",
       "service_id": "6",
@@ -69717,7 +69717,7 @@
       ]
     },
     {
-      "trip_id": "6_17608488",
+      "trip_id": "6_17712501",
       "direction_id": "0",
       "headsign": "Vivaldiego",
       "service_id": "6",
@@ -70022,7 +70022,7 @@
       ]
     },
     {
-      "trip_id": "6_17608489",
+      "trip_id": "6_17712502",
       "direction_id": "1",
       "headsign": "BARTOSZOWICE",
       "service_id": "6",
@@ -70309,7 +70309,7 @@
       ]
     },
     {
-      "trip_id": "6_17608490",
+      "trip_id": "6_17712503",
       "direction_id": "0",
       "headsign": "Vivaldiego",
       "service_id": "6",
@@ -70614,7 +70614,7 @@
       ]
     },
     {
-      "trip_id": "6_17608491",
+      "trip_id": "6_17712504",
       "direction_id": "1",
       "headsign": "BARTOSZOWICE",
       "service_id": "6",
@@ -70901,7 +70901,7 @@
       ]
     },
     {
-      "trip_id": "6_17608492",
+      "trip_id": "6_17712505",
       "direction_id": "0",
       "headsign": "Vivaldiego",
       "service_id": "6",
@@ -71206,7 +71206,7 @@
       ]
     },
     {
-      "trip_id": "6_17608493",
+      "trip_id": "6_17712506",
       "direction_id": "1",
       "headsign": "BARTOSZOWICE",
       "service_id": "6",
@@ -71493,7 +71493,7 @@
       ]
     },
     {
-      "trip_id": "6_17608494",
+      "trip_id": "6_17712507",
       "direction_id": "0",
       "headsign": "Vivaldiego",
       "service_id": "6",
@@ -71798,7 +71798,7 @@
       ]
     },
     {
-      "trip_id": "6_17608495",
+      "trip_id": "6_17712508",
       "direction_id": "1",
       "headsign": "BARTOSZOWICE",
       "service_id": "6",
@@ -72085,7 +72085,7 @@
       ]
     },
     {
-      "trip_id": "6_17608496",
+      "trip_id": "6_17712509",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "6",
@@ -72327,7 +72327,7 @@
       ]
     },
     {
-      "trip_id": "6_17608497",
+      "trip_id": "6_17712510",
       "direction_id": "1",
       "headsign": "BARTOSZOWICE",
       "service_id": "6",
@@ -72560,7 +72560,7 @@
       ]
     },
     {
-      "trip_id": "6_17608498",
+      "trip_id": "6_17712511",
       "direction_id": "0",
       "headsign": "Vivaldiego",
       "service_id": "6",
@@ -72865,7 +72865,7 @@
       ]
     },
     {
-      "trip_id": "6_17608499",
+      "trip_id": "6_17712512",
       "direction_id": "1",
       "headsign": "BARTOSZOWICE",
       "service_id": "6",
@@ -73152,7 +73152,7 @@
       ]
     },
     {
-      "trip_id": "6_17608500",
+      "trip_id": "6_17712513",
       "direction_id": "0",
       "headsign": "Vivaldiego",
       "service_id": "6",
@@ -73457,7 +73457,7 @@
       ]
     },
     {
-      "trip_id": "6_17608501",
+      "trip_id": "6_17712514",
       "direction_id": "1",
       "headsign": "BARTOSZOWICE",
       "service_id": "6",
@@ -73744,7 +73744,7 @@
       ]
     },
     {
-      "trip_id": "6_17608502",
+      "trip_id": "6_17712515",
       "direction_id": "0",
       "headsign": "Vivaldiego",
       "service_id": "6",
@@ -74049,7 +74049,7 @@
       ]
     },
     {
-      "trip_id": "6_17608503",
+      "trip_id": "6_17712516",
       "direction_id": "1",
       "headsign": "BARTOSZOWICE",
       "service_id": "6",
@@ -74336,7 +74336,7 @@
       ]
     },
     {
-      "trip_id": "6_17608504",
+      "trip_id": "6_17712517",
       "direction_id": "0",
       "headsign": "Vivaldiego",
       "service_id": "6",
@@ -74641,7 +74641,7 @@
       ]
     },
     {
-      "trip_id": "6_17608505",
+      "trip_id": "6_17712518",
       "direction_id": "1",
       "headsign": "BARTOSZOWICE",
       "service_id": "6",
@@ -74928,7 +74928,7 @@
       ]
     },
     {
-      "trip_id": "6_17608506",
+      "trip_id": "6_17712519",
       "direction_id": "0",
       "headsign": "Vivaldiego",
       "service_id": "6",
@@ -75233,7 +75233,7 @@
       ]
     },
     {
-      "trip_id": "6_17608507",
+      "trip_id": "6_17712520",
       "direction_id": "1",
       "headsign": "BARTOSZOWICE",
       "service_id": "6",
@@ -75520,7 +75520,7 @@
       ]
     },
     {
-      "trip_id": "6_17608508",
+      "trip_id": "6_17712521",
       "direction_id": "0",
       "headsign": "Vivaldiego",
       "service_id": "6",
@@ -75825,7 +75825,7 @@
       ]
     },
     {
-      "trip_id": "6_17608509",
+      "trip_id": "6_17712522",
       "direction_id": "1",
       "headsign": "BARTOSZOWICE",
       "service_id": "6",
@@ -76112,7 +76112,7 @@
       ]
     },
     {
-      "trip_id": "6_17608510",
+      "trip_id": "6_17712523",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "6",
@@ -76354,7 +76354,7 @@
       ]
     },
     {
-      "trip_id": "6_17608511",
+      "trip_id": "6_17712524",
       "direction_id": "0",
       "headsign": "Vivaldiego",
       "service_id": "6",
@@ -76704,7 +76704,7 @@
       ]
     },
     {
-      "trip_id": "6_17608512",
+      "trip_id": "6_17712525",
       "direction_id": "1",
       "headsign": "BARTOSZOWICE",
       "service_id": "6",
@@ -76991,7 +76991,7 @@
       ]
     },
     {
-      "trip_id": "6_17608513",
+      "trip_id": "6_17712526",
       "direction_id": "0",
       "headsign": "Vivaldiego",
       "service_id": "6",
@@ -77296,7 +77296,7 @@
       ]
     },
     {
-      "trip_id": "6_17608514",
+      "trip_id": "6_17712527",
       "direction_id": "1",
       "headsign": "BARTOSZOWICE",
       "service_id": "6",
@@ -77583,7 +77583,7 @@
       ]
     },
     {
-      "trip_id": "6_17608515",
+      "trip_id": "6_17712528",
       "direction_id": "0",
       "headsign": "Vivaldiego",
       "service_id": "6",
@@ -77888,7 +77888,7 @@
       ]
     },
     {
-      "trip_id": "6_17608516",
+      "trip_id": "6_17712529",
       "direction_id": "1",
       "headsign": "BARTOSZOWICE",
       "service_id": "6",
@@ -78175,7 +78175,7 @@
       ]
     },
     {
-      "trip_id": "6_17608517",
+      "trip_id": "6_17712530",
       "direction_id": "0",
       "headsign": "Vivaldiego",
       "service_id": "6",
@@ -78480,7 +78480,7 @@
       ]
     },
     {
-      "trip_id": "6_17608518",
+      "trip_id": "6_17712531",
       "direction_id": "1",
       "headsign": "BARTOSZOWICE",
       "service_id": "6",
@@ -78767,7 +78767,7 @@
       ]
     },
     {
-      "trip_id": "6_17608519",
+      "trip_id": "6_17712532",
       "direction_id": "0",
       "headsign": "Vivaldiego",
       "service_id": "6",
@@ -79072,7 +79072,7 @@
       ]
     },
     {
-      "trip_id": "6_17608520",
+      "trip_id": "6_17712533",
       "direction_id": "1",
       "headsign": "BARTOSZOWICE",
       "service_id": "6",
@@ -79359,7 +79359,7 @@
       ]
     },
     {
-      "trip_id": "6_17608521",
+      "trip_id": "6_17712534",
       "direction_id": "0",
       "headsign": "Vivaldiego",
       "service_id": "6",
@@ -79664,7 +79664,7 @@
       ]
     },
     {
-      "trip_id": "6_17608522",
+      "trip_id": "6_17712535",
       "direction_id": "1",
       "headsign": "BARTOSZOWICE",
       "service_id": "6",
@@ -79951,7 +79951,7 @@
       ]
     },
     {
-      "trip_id": "6_17608523",
+      "trip_id": "6_17712536",
       "direction_id": "0",
       "headsign": "Vivaldiego",
       "service_id": "6",
@@ -80256,7 +80256,7 @@
       ]
     },
     {
-      "trip_id": "6_17608524",
+      "trip_id": "6_17712537",
       "direction_id": "1",
       "headsign": "BARTOSZOWICE",
       "service_id": "6",
@@ -80543,7 +80543,7 @@
       ]
     },
     {
-      "trip_id": "6_17608525",
+      "trip_id": "6_17712538",
       "direction_id": "0",
       "headsign": "Vivaldiego",
       "service_id": "6",
@@ -80848,7 +80848,7 @@
       ]
     },
     {
-      "trip_id": "6_17608526",
+      "trip_id": "6_17712539",
       "direction_id": "1",
       "headsign": "BARTOSZOWICE",
       "service_id": "6",
@@ -81135,7 +81135,7 @@
       ]
     },
     {
-      "trip_id": "6_17608527",
+      "trip_id": "6_17712540",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "6",
@@ -81377,7 +81377,7 @@
       ]
     },
     {
-      "trip_id": "6_17608528",
+      "trip_id": "6_17712541",
       "direction_id": "1",
       "headsign": "BARTOSZOWICE",
       "service_id": "6",
@@ -81610,7 +81610,7 @@
       ]
     },
     {
-      "trip_id": "6_17608529",
+      "trip_id": "6_17712542",
       "direction_id": "0",
       "headsign": "Vivaldiego",
       "service_id": "6",
@@ -81915,7 +81915,7 @@
       ]
     },
     {
-      "trip_id": "6_17608530",
+      "trip_id": "6_17712543",
       "direction_id": "1",
       "headsign": "BARTOSZOWICE",
       "service_id": "6",
@@ -82202,7 +82202,7 @@
       ]
     },
     {
-      "trip_id": "6_17608531",
+      "trip_id": "6_17712544",
       "direction_id": "0",
       "headsign": "Vivaldiego",
       "service_id": "6",
@@ -82507,7 +82507,7 @@
       ]
     },
     {
-      "trip_id": "6_17608532",
+      "trip_id": "6_17712545",
       "direction_id": "1",
       "headsign": "BARTOSZOWICE",
       "service_id": "6",
@@ -82794,7 +82794,7 @@
       ]
     },
     {
-      "trip_id": "6_17608533",
+      "trip_id": "6_17712546",
       "direction_id": "0",
       "headsign": "Vivaldiego",
       "service_id": "6",
@@ -83099,7 +83099,7 @@
       ]
     },
     {
-      "trip_id": "6_17608534",
+      "trip_id": "6_17712547",
       "direction_id": "1",
       "headsign": "BARTOSZOWICE",
       "service_id": "6",
@@ -83386,7 +83386,7 @@
       ]
     },
     {
-      "trip_id": "6_17608535",
+      "trip_id": "6_17712548",
       "direction_id": "0",
       "headsign": "Vivaldiego",
       "service_id": "6",
@@ -83691,7 +83691,7 @@
       ]
     },
     {
-      "trip_id": "6_17608536",
+      "trip_id": "6_17712549",
       "direction_id": "1",
       "headsign": "BARTOSZOWICE",
       "service_id": "6",
@@ -83978,7 +83978,7 @@
       ]
     },
     {
-      "trip_id": "6_17608537",
+      "trip_id": "6_17712550",
       "direction_id": "0",
       "headsign": "Vivaldiego",
       "service_id": "6",
@@ -84283,7 +84283,7 @@
       ]
     },
     {
-      "trip_id": "6_17608538",
+      "trip_id": "6_17712551",
       "direction_id": "1",
       "headsign": "BARTOSZOWICE",
       "service_id": "6",
@@ -84570,7 +84570,7 @@
       ]
     },
     {
-      "trip_id": "6_17608539",
+      "trip_id": "6_17712552",
       "direction_id": "0",
       "headsign": "Vivaldiego",
       "service_id": "6",
@@ -84875,7 +84875,7 @@
       ]
     },
     {
-      "trip_id": "6_17608540",
+      "trip_id": "6_17712553",
       "direction_id": "1",
       "headsign": "BARTOSZOWICE",
       "service_id": "6",
@@ -85162,7 +85162,7 @@
       ]
     },
     {
-      "trip_id": "6_17608541",
+      "trip_id": "6_17712554",
       "direction_id": "0",
       "headsign": "Vivaldiego",
       "service_id": "6",
@@ -85467,7 +85467,7 @@
       ]
     },
     {
-      "trip_id": "6_17608542",
+      "trip_id": "6_17712555",
       "direction_id": "1",
       "headsign": "BARTOSZOWICE",
       "service_id": "6",
@@ -85754,7 +85754,7 @@
       ]
     },
     {
-      "trip_id": "6_17608543",
+      "trip_id": "6_17712556",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "6",
@@ -85996,7 +85996,7 @@
       ]
     },
     {
-      "trip_id": "6_17608547",
+      "trip_id": "6_17712560",
       "direction_id": "0",
       "headsign": "Vivaldiego",
       "service_id": "6",
@@ -86031,7 +86031,7 @@
       ]
     },
     {
-      "trip_id": "6_17608548",
+      "trip_id": "6_17712561",
       "direction_id": "1",
       "headsign": "BARTOSZOWICE",
       "service_id": "6",
@@ -86318,7 +86318,7 @@
       ]
     },
     {
-      "trip_id": "6_17608549",
+      "trip_id": "6_17712562",
       "direction_id": "0",
       "headsign": "Vivaldiego",
       "service_id": "6",
@@ -86623,7 +86623,7 @@
       ]
     },
     {
-      "trip_id": "6_17608550",
+      "trip_id": "6_17712563",
       "direction_id": "1",
       "headsign": "BARTOSZOWICE",
       "service_id": "6",
@@ -86910,7 +86910,7 @@
       ]
     },
     {
-      "trip_id": "6_17608551",
+      "trip_id": "6_17712564",
       "direction_id": "0",
       "headsign": "Vivaldiego",
       "service_id": "6",
@@ -87215,7 +87215,7 @@
       ]
     },
     {
-      "trip_id": "6_17608552",
+      "trip_id": "6_17712565",
       "direction_id": "1",
       "headsign": "BARTOSZOWICE",
       "service_id": "6",
@@ -87502,7 +87502,7 @@
       ]
     },
     {
-      "trip_id": "6_17608553",
+      "trip_id": "6_17712566",
       "direction_id": "0",
       "headsign": "Vivaldiego",
       "service_id": "6",
@@ -87807,7 +87807,7 @@
       ]
     },
     {
-      "trip_id": "6_17608554",
+      "trip_id": "6_17712567",
       "direction_id": "1",
       "headsign": "BARTOSZOWICE",
       "service_id": "6",
@@ -88094,7 +88094,7 @@
       ]
     },
     {
-      "trip_id": "6_17608555",
+      "trip_id": "6_17712568",
       "direction_id": "0",
       "headsign": "Vivaldiego",
       "service_id": "6",
@@ -88399,7 +88399,7 @@
       ]
     },
     {
-      "trip_id": "6_17608556",
+      "trip_id": "6_17712569",
       "direction_id": "1",
       "headsign": "BARTOSZOWICE",
       "service_id": "6",
@@ -88686,7 +88686,7 @@
       ]
     },
     {
-      "trip_id": "6_17608557",
+      "trip_id": "6_17712570",
       "direction_id": "0",
       "headsign": "Vivaldiego",
       "service_id": "6",
@@ -88991,7 +88991,7 @@
       ]
     },
     {
-      "trip_id": "6_17608558",
+      "trip_id": "6_17712571",
       "direction_id": "1",
       "headsign": "BARTOSZOWICE",
       "service_id": "6",
@@ -89278,7 +89278,7 @@
       ]
     },
     {
-      "trip_id": "6_17608559",
+      "trip_id": "6_17712572",
       "direction_id": "0",
       "headsign": "Vivaldiego",
       "service_id": "6",
@@ -89583,7 +89583,7 @@
       ]
     },
     {
-      "trip_id": "6_17608560",
+      "trip_id": "6_17712573",
       "direction_id": "1",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "6",
@@ -89924,7 +89924,7 @@
       ]
     },
     {
-      "trip_id": "6_17608561",
+      "trip_id": "6_17712574",
       "direction_id": "1",
       "headsign": "BARTOSZOWICE",
       "service_id": "6",
@@ -90157,7 +90157,7 @@
       ]
     },
     {
-      "trip_id": "6_17608562",
+      "trip_id": "6_17712575",
       "direction_id": "0",
       "headsign": "Vivaldiego",
       "service_id": "6",
@@ -90462,7 +90462,7 @@
       ]
     },
     {
-      "trip_id": "6_17608563",
+      "trip_id": "6_17712576",
       "direction_id": "1",
       "headsign": "BARTOSZOWICE",
       "service_id": "6",
@@ -90749,7 +90749,7 @@
       ]
     },
     {
-      "trip_id": "6_17608564",
+      "trip_id": "6_17712577",
       "direction_id": "0",
       "headsign": "Vivaldiego",
       "service_id": "6",
@@ -91054,7 +91054,7 @@
       ]
     },
     {
-      "trip_id": "6_17608565",
+      "trip_id": "6_17712578",
       "direction_id": "1",
       "headsign": "BARTOSZOWICE",
       "service_id": "6",
@@ -91341,7 +91341,7 @@
       ]
     },
     {
-      "trip_id": "6_17608566",
+      "trip_id": "6_17712579",
       "direction_id": "0",
       "headsign": "Vivaldiego",
       "service_id": "6",
@@ -91646,7 +91646,7 @@
       ]
     },
     {
-      "trip_id": "6_17608567",
+      "trip_id": "6_17712580",
       "direction_id": "1",
       "headsign": "BARTOSZOWICE",
       "service_id": "6",
@@ -91933,7 +91933,7 @@
       ]
     },
     {
-      "trip_id": "6_17608568",
+      "trip_id": "6_17712581",
       "direction_id": "0",
       "headsign": "Vivaldiego",
       "service_id": "6",
@@ -92238,7 +92238,7 @@
       ]
     },
     {
-      "trip_id": "6_17608569",
+      "trip_id": "6_17712582",
       "direction_id": "1",
       "headsign": "BARTOSZOWICE",
       "service_id": "6",
@@ -92525,7 +92525,7 @@
       ]
     },
     {
-      "trip_id": "6_17608570",
+      "trip_id": "6_17712583",
       "direction_id": "0",
       "headsign": "Vivaldiego",
       "service_id": "6",
@@ -92830,7 +92830,7 @@
       ]
     },
     {
-      "trip_id": "6_17608571",
+      "trip_id": "6_17712584",
       "direction_id": "1",
       "headsign": "BARTOSZOWICE",
       "service_id": "6",
@@ -93117,7 +93117,7 @@
       ]
     },
     {
-      "trip_id": "6_17608572",
+      "trip_id": "6_17712585",
       "direction_id": "0",
       "headsign": "Vivaldiego",
       "service_id": "6",
@@ -93422,7 +93422,7 @@
       ]
     },
     {
-      "trip_id": "6_17608573",
+      "trip_id": "6_17712586",
       "direction_id": "1",
       "headsign": "BARTOSZOWICE",
       "service_id": "6",
@@ -93709,7 +93709,7 @@
       ]
     },
     {
-      "trip_id": "6_17608574",
+      "trip_id": "6_17712587",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "6",
@@ -93951,7 +93951,7 @@
       ]
     },
     {
-      "trip_id": "6_17609578",
+      "trip_id": "6_17713591",
       "direction_id": "1",
       "headsign": "BARTOSZOWICE",
       "service_id": "6",
@@ -94184,7 +94184,7 @@
       ]
     },
     {
-      "trip_id": "6_17609579",
+      "trip_id": "6_17713592",
       "direction_id": "0",
       "headsign": "Vivaldiego",
       "service_id": "6",
@@ -94489,7 +94489,7 @@
       ]
     },
     {
-      "trip_id": "6_17609580",
+      "trip_id": "6_17713593",
       "direction_id": "1",
       "headsign": "BARTOSZOWICE",
       "service_id": "6",
@@ -94776,7 +94776,7 @@
       ]
     },
     {
-      "trip_id": "6_17609613",
+      "trip_id": "6_17713626",
       "direction_id": "1",
       "headsign": "BARTOSZOWICE",
       "service_id": "6",
@@ -94928,7 +94928,7 @@
       ]
     },
     {
-      "trip_id": "6_17609614",
+      "trip_id": "6_17713627",
       "direction_id": "0",
       "headsign": "Vivaldiego",
       "service_id": "6",
@@ -95233,7 +95233,7 @@
       ]
     },
     {
-      "trip_id": "8_17615248",
+      "trip_id": "8_17719261",
       "direction_id": "1",
       "headsign": "BARTOSZOWICE",
       "service_id": "8",
@@ -95466,7 +95466,7 @@
       ]
     },
     {
-      "trip_id": "8_17615249",
+      "trip_id": "8_17719262",
       "direction_id": "0",
       "headsign": "Vivaldiego",
       "service_id": "8",
@@ -95771,7 +95771,7 @@
       ]
     },
     {
-      "trip_id": "8_17615250",
+      "trip_id": "8_17719263",
       "direction_id": "1",
       "headsign": "BARTOSZOWICE",
       "service_id": "8",
@@ -96058,7 +96058,7 @@
       ]
     },
     {
-      "trip_id": "8_17615251",
+      "trip_id": "8_17719264",
       "direction_id": "0",
       "headsign": "Vivaldiego",
       "service_id": "8",
@@ -96363,7 +96363,7 @@
       ]
     },
     {
-      "trip_id": "8_17615252",
+      "trip_id": "8_17719265",
       "direction_id": "1",
       "headsign": "BARTOSZOWICE",
       "service_id": "8",
@@ -96650,7 +96650,7 @@
       ]
     },
     {
-      "trip_id": "8_17615253",
+      "trip_id": "8_17719266",
       "direction_id": "0",
       "headsign": "Vivaldiego",
       "service_id": "8",
@@ -96955,7 +96955,7 @@
       ]
     },
     {
-      "trip_id": "8_17615254",
+      "trip_id": "8_17719267",
       "direction_id": "1",
       "headsign": "BARTOSZOWICE",
       "service_id": "8",
@@ -97242,7 +97242,7 @@
       ]
     },
     {
-      "trip_id": "8_17615255",
+      "trip_id": "8_17719268",
       "direction_id": "0",
       "headsign": "Vivaldiego",
       "service_id": "8",
@@ -97547,7 +97547,7 @@
       ]
     },
     {
-      "trip_id": "8_17615256",
+      "trip_id": "8_17719269",
       "direction_id": "1",
       "headsign": "BARTOSZOWICE",
       "service_id": "8",
@@ -97834,7 +97834,7 @@
       ]
     },
     {
-      "trip_id": "8_17615257",
+      "trip_id": "8_17719270",
       "direction_id": "0",
       "headsign": "Vivaldiego",
       "service_id": "8",
@@ -98139,7 +98139,7 @@
       ]
     },
     {
-      "trip_id": "8_17615258",
+      "trip_id": "8_17719271",
       "direction_id": "1",
       "headsign": "BARTOSZOWICE",
       "service_id": "8",
@@ -98426,7 +98426,7 @@
       ]
     },
     {
-      "trip_id": "8_17615259",
+      "trip_id": "8_17719272",
       "direction_id": "0",
       "headsign": "Vivaldiego",
       "service_id": "8",
@@ -98731,7 +98731,7 @@
       ]
     },
     {
-      "trip_id": "8_17615260",
+      "trip_id": "8_17719273",
       "direction_id": "1",
       "headsign": "BARTOSZOWICE",
       "service_id": "8",
@@ -99018,7 +99018,7 @@
       ]
     },
     {
-      "trip_id": "8_17615261",
+      "trip_id": "8_17719274",
       "direction_id": "0",
       "headsign": "Vivaldiego",
       "service_id": "8",
@@ -99323,7 +99323,7 @@
       ]
     },
     {
-      "trip_id": "8_17615262",
+      "trip_id": "8_17719275",
       "direction_id": "1",
       "headsign": "BARTOSZOWICE",
       "service_id": "8",
@@ -99610,7 +99610,7 @@
       ]
     },
     {
-      "trip_id": "8_17615263",
+      "trip_id": "8_17719276",
       "direction_id": "0",
       "headsign": "Vivaldiego",
       "service_id": "8",
@@ -99915,7 +99915,7 @@
       ]
     },
     {
-      "trip_id": "8_17615264",
+      "trip_id": "8_17719277",
       "direction_id": "1",
       "headsign": "BARTOSZOWICE",
       "service_id": "8",
@@ -100202,7 +100202,7 @@
       ]
     },
     {
-      "trip_id": "8_17615265",
+      "trip_id": "8_17719278",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "8",
@@ -100444,7 +100444,7 @@
       ]
     },
     {
-      "trip_id": "8_17615266",
+      "trip_id": "8_17719279",
       "direction_id": "0",
       "headsign": "Vivaldiego",
       "service_id": "8",
@@ -100794,7 +100794,7 @@
       ]
     },
     {
-      "trip_id": "8_17615267",
+      "trip_id": "8_17719280",
       "direction_id": "1",
       "headsign": "BARTOSZOWICE",
       "service_id": "8",
@@ -101081,7 +101081,7 @@
       ]
     },
     {
-      "trip_id": "8_17615268",
+      "trip_id": "8_17719281",
       "direction_id": "0",
       "headsign": "Vivaldiego",
       "service_id": "8",
@@ -101386,7 +101386,7 @@
       ]
     },
     {
-      "trip_id": "8_17615269",
+      "trip_id": "8_17719282",
       "direction_id": "1",
       "headsign": "BARTOSZOWICE",
       "service_id": "8",
@@ -101673,7 +101673,7 @@
       ]
     },
     {
-      "trip_id": "8_17615270",
+      "trip_id": "8_17719283",
       "direction_id": "0",
       "headsign": "Vivaldiego",
       "service_id": "8",
@@ -101978,7 +101978,7 @@
       ]
     },
     {
-      "trip_id": "8_17615271",
+      "trip_id": "8_17719284",
       "direction_id": "1",
       "headsign": "BARTOSZOWICE",
       "service_id": "8",
@@ -102265,7 +102265,7 @@
       ]
     },
     {
-      "trip_id": "8_17615272",
+      "trip_id": "8_17719285",
       "direction_id": "0",
       "headsign": "Vivaldiego",
       "service_id": "8",
@@ -102570,7 +102570,7 @@
       ]
     },
     {
-      "trip_id": "8_17615273",
+      "trip_id": "8_17719286",
       "direction_id": "1",
       "headsign": "BARTOSZOWICE",
       "service_id": "8",
@@ -102857,7 +102857,7 @@
       ]
     },
     {
-      "trip_id": "8_17615274",
+      "trip_id": "8_17719287",
       "direction_id": "0",
       "headsign": "Vivaldiego",
       "service_id": "8",
@@ -103162,7 +103162,7 @@
       ]
     },
     {
-      "trip_id": "8_17615275",
+      "trip_id": "8_17719288",
       "direction_id": "1",
       "headsign": "BARTOSZOWICE",
       "service_id": "8",
@@ -103449,7 +103449,7 @@
       ]
     },
     {
-      "trip_id": "8_17615276",
+      "trip_id": "8_17719289",
       "direction_id": "0",
       "headsign": "Vivaldiego",
       "service_id": "8",
@@ -103754,7 +103754,7 @@
       ]
     },
     {
-      "trip_id": "8_17615277",
+      "trip_id": "8_17719290",
       "direction_id": "1",
       "headsign": "BARTOSZOWICE",
       "service_id": "8",
@@ -104041,7 +104041,7 @@
       ]
     },
     {
-      "trip_id": "8_17615278",
+      "trip_id": "8_17719291",
       "direction_id": "0",
       "headsign": "Vivaldiego",
       "service_id": "8",
@@ -104346,7 +104346,7 @@
       ]
     },
     {
-      "trip_id": "8_17615279",
+      "trip_id": "8_17719292",
       "direction_id": "1",
       "headsign": "BARTOSZOWICE",
       "service_id": "8",
@@ -104633,7 +104633,7 @@
       ]
     },
     {
-      "trip_id": "8_17615280",
+      "trip_id": "8_17719293",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "8",
@@ -104875,7 +104875,7 @@
       ]
     },
     {
-      "trip_id": "8_17615281",
+      "trip_id": "8_17719294",
       "direction_id": "0",
       "headsign": "Vivaldiego",
       "service_id": "8",
@@ -105225,7 +105225,7 @@
       ]
     },
     {
-      "trip_id": "8_17615282",
+      "trip_id": "8_17719295",
       "direction_id": "1",
       "headsign": "BARTOSZOWICE",
       "service_id": "8",
@@ -105512,7 +105512,7 @@
       ]
     },
     {
-      "trip_id": "8_17615283",
+      "trip_id": "8_17719296",
       "direction_id": "0",
       "headsign": "Vivaldiego",
       "service_id": "8",
@@ -105817,7 +105817,7 @@
       ]
     },
     {
-      "trip_id": "8_17615284",
+      "trip_id": "8_17719297",
       "direction_id": "1",
       "headsign": "BARTOSZOWICE",
       "service_id": "8",
@@ -106104,7 +106104,7 @@
       ]
     },
     {
-      "trip_id": "8_17615285",
+      "trip_id": "8_17719298",
       "direction_id": "0",
       "headsign": "Vivaldiego",
       "service_id": "8",
@@ -106409,7 +106409,7 @@
       ]
     },
     {
-      "trip_id": "8_17615286",
+      "trip_id": "8_17719299",
       "direction_id": "1",
       "headsign": "BARTOSZOWICE",
       "service_id": "8",
@@ -106696,7 +106696,7 @@
       ]
     },
     {
-      "trip_id": "8_17615287",
+      "trip_id": "8_17719300",
       "direction_id": "0",
       "headsign": "Vivaldiego",
       "service_id": "8",
@@ -107001,7 +107001,7 @@
       ]
     },
     {
-      "trip_id": "8_17615288",
+      "trip_id": "8_17719301",
       "direction_id": "1",
       "headsign": "BARTOSZOWICE",
       "service_id": "8",
@@ -107288,7 +107288,7 @@
       ]
     },
     {
-      "trip_id": "8_17615289",
+      "trip_id": "8_17719302",
       "direction_id": "0",
       "headsign": "Vivaldiego",
       "service_id": "8",
@@ -107593,7 +107593,7 @@
       ]
     },
     {
-      "trip_id": "8_17615290",
+      "trip_id": "8_17719303",
       "direction_id": "1",
       "headsign": "BARTOSZOWICE",
       "service_id": "8",
@@ -107880,7 +107880,7 @@
       ]
     },
     {
-      "trip_id": "8_17615291",
+      "trip_id": "8_17719304",
       "direction_id": "0",
       "headsign": "Vivaldiego",
       "service_id": "8",
@@ -108185,7 +108185,7 @@
       ]
     },
     {
-      "trip_id": "8_17615292",
+      "trip_id": "8_17719305",
       "direction_id": "1",
       "headsign": "BARTOSZOWICE",
       "service_id": "8",
@@ -108472,7 +108472,7 @@
       ]
     },
     {
-      "trip_id": "8_17615293",
+      "trip_id": "8_17719306",
       "direction_id": "0",
       "headsign": "Vivaldiego",
       "service_id": "8",
@@ -108777,7 +108777,7 @@
       ]
     },
     {
-      "trip_id": "8_17615294",
+      "trip_id": "8_17719307",
       "direction_id": "1",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "8",
@@ -109118,7 +109118,7 @@
       ]
     },
     {
-      "trip_id": "8_17615295",
+      "trip_id": "8_17719308",
       "direction_id": "1",
       "headsign": "BARTOSZOWICE",
       "service_id": "8",
@@ -109351,7 +109351,7 @@
       ]
     },
     {
-      "trip_id": "8_17615296",
+      "trip_id": "8_17719309",
       "direction_id": "0",
       "headsign": "Vivaldiego",
       "service_id": "8",
@@ -109656,7 +109656,7 @@
       ]
     },
     {
-      "trip_id": "8_17615297",
+      "trip_id": "8_17719310",
       "direction_id": "1",
       "headsign": "BARTOSZOWICE",
       "service_id": "8",
@@ -109943,7 +109943,7 @@
       ]
     },
     {
-      "trip_id": "8_17615298",
+      "trip_id": "8_17719311",
       "direction_id": "0",
       "headsign": "Vivaldiego",
       "service_id": "8",
@@ -110248,7 +110248,7 @@
       ]
     },
     {
-      "trip_id": "8_17615299",
+      "trip_id": "8_17719312",
       "direction_id": "1",
       "headsign": "BARTOSZOWICE",
       "service_id": "8",
@@ -110535,7 +110535,7 @@
       ]
     },
     {
-      "trip_id": "8_17615300",
+      "trip_id": "8_17719313",
       "direction_id": "0",
       "headsign": "Vivaldiego",
       "service_id": "8",
@@ -110840,7 +110840,7 @@
       ]
     },
     {
-      "trip_id": "8_17615301",
+      "trip_id": "8_17719314",
       "direction_id": "1",
       "headsign": "BARTOSZOWICE",
       "service_id": "8",
@@ -111127,7 +111127,7 @@
       ]
     },
     {
-      "trip_id": "8_17615302",
+      "trip_id": "8_17719315",
       "direction_id": "0",
       "headsign": "Vivaldiego",
       "service_id": "8",
@@ -111432,7 +111432,7 @@
       ]
     },
     {
-      "trip_id": "8_17615303",
+      "trip_id": "8_17719316",
       "direction_id": "1",
       "headsign": "BARTOSZOWICE",
       "service_id": "8",
@@ -111719,7 +111719,7 @@
       ]
     },
     {
-      "trip_id": "8_17615304",
+      "trip_id": "8_17719317",
       "direction_id": "0",
       "headsign": "Vivaldiego",
       "service_id": "8",
@@ -112024,7 +112024,7 @@
       ]
     },
     {
-      "trip_id": "8_17615305",
+      "trip_id": "8_17719318",
       "direction_id": "1",
       "headsign": "BARTOSZOWICE",
       "service_id": "8",
@@ -112311,7 +112311,7 @@
       ]
     },
     {
-      "trip_id": "8_17615306",
+      "trip_id": "8_17719319",
       "direction_id": "0",
       "headsign": "Vivaldiego",
       "service_id": "8",
@@ -112616,7 +112616,7 @@
       ]
     },
     {
-      "trip_id": "8_17615307",
+      "trip_id": "8_17719320",
       "direction_id": "1",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "8",
@@ -112957,7 +112957,7 @@
       ]
     },
     {
-      "trip_id": "8_17615308",
+      "trip_id": "8_17719321",
       "direction_id": "0",
       "headsign": "Vivaldiego",
       "service_id": "8",
@@ -113307,7 +113307,7 @@
       ]
     },
     {
-      "trip_id": "8_17615309",
+      "trip_id": "8_17719322",
       "direction_id": "1",
       "headsign": "BARTOSZOWICE",
       "service_id": "8",
@@ -113594,7 +113594,7 @@
       ]
     },
     {
-      "trip_id": "8_17615310",
+      "trip_id": "8_17719323",
       "direction_id": "0",
       "headsign": "Vivaldiego",
       "service_id": "8",
@@ -113899,7 +113899,7 @@
       ]
     },
     {
-      "trip_id": "8_17615311",
+      "trip_id": "8_17719324",
       "direction_id": "1",
       "headsign": "BARTOSZOWICE",
       "service_id": "8",
@@ -114186,7 +114186,7 @@
       ]
     },
     {
-      "trip_id": "8_17615312",
+      "trip_id": "8_17719325",
       "direction_id": "0",
       "headsign": "Vivaldiego",
       "service_id": "8",
@@ -114491,7 +114491,7 @@
       ]
     },
     {
-      "trip_id": "8_17615313",
+      "trip_id": "8_17719326",
       "direction_id": "1",
       "headsign": "BARTOSZOWICE",
       "service_id": "8",
@@ -114778,7 +114778,7 @@
       ]
     },
     {
-      "trip_id": "8_17615314",
+      "trip_id": "8_17719327",
       "direction_id": "0",
       "headsign": "Vivaldiego",
       "service_id": "8",
@@ -115083,7 +115083,7 @@
       ]
     },
     {
-      "trip_id": "8_17615315",
+      "trip_id": "8_17719328",
       "direction_id": "1",
       "headsign": "BARTOSZOWICE",
       "service_id": "8",
@@ -115370,7 +115370,7 @@
       ]
     },
     {
-      "trip_id": "8_17615316",
+      "trip_id": "8_17719329",
       "direction_id": "0",
       "headsign": "Vivaldiego",
       "service_id": "8",
@@ -115675,7 +115675,7 @@
       ]
     },
     {
-      "trip_id": "8_17615317",
+      "trip_id": "8_17719330",
       "direction_id": "1",
       "headsign": "BARTOSZOWICE",
       "service_id": "8",
@@ -115962,7 +115962,7 @@
       ]
     },
     {
-      "trip_id": "8_17615318",
+      "trip_id": "8_17719331",
       "direction_id": "0",
       "headsign": "Vivaldiego",
       "service_id": "8",
@@ -116267,7 +116267,7 @@
       ]
     },
     {
-      "trip_id": "8_17615319",
+      "trip_id": "8_17719332",
       "direction_id": "1",
       "headsign": "BARTOSZOWICE",
       "service_id": "8",
@@ -116554,7 +116554,7 @@
       ]
     },
     {
-      "trip_id": "8_17615320",
+      "trip_id": "8_17719333",
       "direction_id": "0",
       "headsign": "Vivaldiego",
       "service_id": "8",
@@ -116859,7 +116859,7 @@
       ]
     },
     {
-      "trip_id": "8_17615321",
+      "trip_id": "8_17719334",
       "direction_id": "1",
       "headsign": "BARTOSZOWICE",
       "service_id": "8",
@@ -117146,7 +117146,7 @@
       ]
     },
     {
-      "trip_id": "8_17615322",
+      "trip_id": "8_17719335",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "8",
@@ -117388,7 +117388,7 @@
       ]
     },
     {
-      "trip_id": "8_17615323",
+      "trip_id": "8_17719336",
       "direction_id": "1",
       "headsign": "BARTOSZOWICE",
       "service_id": "8",
@@ -117621,7 +117621,7 @@
       ]
     },
     {
-      "trip_id": "8_17615324",
+      "trip_id": "8_17719337",
       "direction_id": "0",
       "headsign": "Vivaldiego",
       "service_id": "8",
@@ -117926,7 +117926,7 @@
       ]
     },
     {
-      "trip_id": "8_17615325",
+      "trip_id": "8_17719338",
       "direction_id": "1",
       "headsign": "BARTOSZOWICE",
       "service_id": "8",
@@ -118213,7 +118213,7 @@
       ]
     },
     {
-      "trip_id": "8_17615326",
+      "trip_id": "8_17719339",
       "direction_id": "0",
       "headsign": "Vivaldiego",
       "service_id": "8",
@@ -118518,7 +118518,7 @@
       ]
     },
     {
-      "trip_id": "8_17615327",
+      "trip_id": "8_17719340",
       "direction_id": "1",
       "headsign": "BARTOSZOWICE",
       "service_id": "8",
@@ -118805,7 +118805,7 @@
       ]
     },
     {
-      "trip_id": "8_17615328",
+      "trip_id": "8_17719341",
       "direction_id": "0",
       "headsign": "Vivaldiego",
       "service_id": "8",
@@ -119110,7 +119110,7 @@
       ]
     },
     {
-      "trip_id": "8_17615329",
+      "trip_id": "8_17719342",
       "direction_id": "1",
       "headsign": "BARTOSZOWICE",
       "service_id": "8",
@@ -119397,7 +119397,7 @@
       ]
     },
     {
-      "trip_id": "8_17615330",
+      "trip_id": "8_17719343",
       "direction_id": "0",
       "headsign": "Vivaldiego",
       "service_id": "8",
@@ -119702,7 +119702,7 @@
       ]
     },
     {
-      "trip_id": "8_17615331",
+      "trip_id": "8_17719344",
       "direction_id": "1",
       "headsign": "BARTOSZOWICE",
       "service_id": "8",
@@ -119989,7 +119989,7 @@
       ]
     },
     {
-      "trip_id": "8_17615332",
+      "trip_id": "8_17719345",
       "direction_id": "0",
       "headsign": "Vivaldiego",
       "service_id": "8",
@@ -120294,7 +120294,7 @@
       ]
     },
     {
-      "trip_id": "8_17615333",
+      "trip_id": "8_17719346",
       "direction_id": "1",
       "headsign": "BARTOSZOWICE",
       "service_id": "8",
@@ -120581,7 +120581,7 @@
       ]
     },
     {
-      "trip_id": "8_17615334",
+      "trip_id": "8_17719347",
       "direction_id": "0",
       "headsign": "Vivaldiego",
       "service_id": "8",
@@ -120886,7 +120886,7 @@
       ]
     },
     {
-      "trip_id": "8_17615335",
+      "trip_id": "8_17719348",
       "direction_id": "1",
       "headsign": "BARTOSZOWICE",
       "service_id": "8",
@@ -121173,7 +121173,7 @@
       ]
     },
     {
-      "trip_id": "8_17615336",
+      "trip_id": "8_17719349",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "8",
@@ -121415,7 +121415,7 @@
       ]
     },
     {
-      "trip_id": "8_17615337",
+      "trip_id": "8_17719350",
       "direction_id": "0",
       "headsign": "Vivaldiego",
       "service_id": "8",
@@ -121765,7 +121765,7 @@
       ]
     },
     {
-      "trip_id": "8_17615338",
+      "trip_id": "8_17719351",
       "direction_id": "1",
       "headsign": "BARTOSZOWICE",
       "service_id": "8",
@@ -122052,7 +122052,7 @@
       ]
     },
     {
-      "trip_id": "8_17615339",
+      "trip_id": "8_17719352",
       "direction_id": "0",
       "headsign": "Vivaldiego",
       "service_id": "8",
@@ -122357,7 +122357,7 @@
       ]
     },
     {
-      "trip_id": "8_17615340",
+      "trip_id": "8_17719353",
       "direction_id": "1",
       "headsign": "BARTOSZOWICE",
       "service_id": "8",
@@ -122644,7 +122644,7 @@
       ]
     },
     {
-      "trip_id": "8_17615341",
+      "trip_id": "8_17719354",
       "direction_id": "0",
       "headsign": "Vivaldiego",
       "service_id": "8",
@@ -122949,7 +122949,7 @@
       ]
     },
     {
-      "trip_id": "8_17615342",
+      "trip_id": "8_17719355",
       "direction_id": "1",
       "headsign": "BARTOSZOWICE",
       "service_id": "8",
@@ -123236,7 +123236,7 @@
       ]
     },
     {
-      "trip_id": "8_17615343",
+      "trip_id": "8_17719356",
       "direction_id": "0",
       "headsign": "Vivaldiego",
       "service_id": "8",
@@ -123541,7 +123541,7 @@
       ]
     },
     {
-      "trip_id": "8_17615344",
+      "trip_id": "8_17719357",
       "direction_id": "1",
       "headsign": "BARTOSZOWICE",
       "service_id": "8",
@@ -123828,7 +123828,7 @@
       ]
     },
     {
-      "trip_id": "8_17615345",
+      "trip_id": "8_17719358",
       "direction_id": "0",
       "headsign": "Vivaldiego",
       "service_id": "8",
@@ -124133,7 +124133,7 @@
       ]
     },
     {
-      "trip_id": "8_17615346",
+      "trip_id": "8_17719359",
       "direction_id": "1",
       "headsign": "BARTOSZOWICE",
       "service_id": "8",
@@ -124420,7 +124420,7 @@
       ]
     },
     {
-      "trip_id": "8_17615347",
+      "trip_id": "8_17719360",
       "direction_id": "0",
       "headsign": "Vivaldiego",
       "service_id": "8",
@@ -124725,7 +124725,7 @@
       ]
     },
     {
-      "trip_id": "8_17615348",
+      "trip_id": "8_17719361",
       "direction_id": "1",
       "headsign": "BARTOSZOWICE",
       "service_id": "8",
@@ -125012,7 +125012,7 @@
       ]
     },
     {
-      "trip_id": "8_17615349",
+      "trip_id": "8_17719362",
       "direction_id": "0",
       "headsign": "Vivaldiego",
       "service_id": "8",
@@ -125317,7 +125317,7 @@
       ]
     },
     {
-      "trip_id": "8_17615350",
+      "trip_id": "8_17719363",
       "direction_id": "1",
       "headsign": "BARTOSZOWICE",
       "service_id": "8",
@@ -125604,7 +125604,7 @@
       ]
     },
     {
-      "trip_id": "8_17615351",
+      "trip_id": "8_17719364",
       "direction_id": "0",
       "headsign": "Vivaldiego",
       "service_id": "8",
@@ -125909,7 +125909,7 @@
       ]
     },
     {
-      "trip_id": "8_17615352",
+      "trip_id": "8_17719365",
       "direction_id": "1",
       "headsign": "BARTOSZOWICE",
       "service_id": "8",
@@ -126196,7 +126196,7 @@
       ]
     },
     {
-      "trip_id": "8_17615353",
+      "trip_id": "8_17719366",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "8",
@@ -126438,7 +126438,7 @@
       ]
     },
     {
-      "trip_id": "8_17615354",
+      "trip_id": "8_17719367",
       "direction_id": "1",
       "headsign": "BARTOSZOWICE",
       "service_id": "8",
@@ -126671,7 +126671,7 @@
       ]
     },
     {
-      "trip_id": "8_17615355",
+      "trip_id": "8_17719368",
       "direction_id": "0",
       "headsign": "Vivaldiego",
       "service_id": "8",
@@ -126976,7 +126976,7 @@
       ]
     },
     {
-      "trip_id": "8_17615356",
+      "trip_id": "8_17719369",
       "direction_id": "1",
       "headsign": "BARTOSZOWICE",
       "service_id": "8",
@@ -127263,7 +127263,7 @@
       ]
     },
     {
-      "trip_id": "8_17615357",
+      "trip_id": "8_17719370",
       "direction_id": "0",
       "headsign": "Vivaldiego",
       "service_id": "8",
@@ -127568,7 +127568,7 @@
       ]
     },
     {
-      "trip_id": "8_17615358",
+      "trip_id": "8_17719371",
       "direction_id": "1",
       "headsign": "BARTOSZOWICE",
       "service_id": "8",
@@ -127855,7 +127855,7 @@
       ]
     },
     {
-      "trip_id": "8_17615359",
+      "trip_id": "8_17719372",
       "direction_id": "0",
       "headsign": "Vivaldiego",
       "service_id": "8",
@@ -128160,7 +128160,7 @@
       ]
     },
     {
-      "trip_id": "8_17615360",
+      "trip_id": "8_17719373",
       "direction_id": "1",
       "headsign": "BARTOSZOWICE",
       "service_id": "8",
@@ -128447,7 +128447,7 @@
       ]
     },
     {
-      "trip_id": "8_17615361",
+      "trip_id": "8_17719374",
       "direction_id": "0",
       "headsign": "Vivaldiego",
       "service_id": "8",
@@ -128752,7 +128752,7 @@
       ]
     },
     {
-      "trip_id": "8_17615362",
+      "trip_id": "8_17719375",
       "direction_id": "1",
       "headsign": "BARTOSZOWICE",
       "service_id": "8",
@@ -129039,7 +129039,7 @@
       ]
     },
     {
-      "trip_id": "8_17615363",
+      "trip_id": "8_17719376",
       "direction_id": "0",
       "headsign": "Vivaldiego",
       "service_id": "8",
@@ -129344,7 +129344,7 @@
       ]
     },
     {
-      "trip_id": "8_17615364",
+      "trip_id": "8_17719377",
       "direction_id": "1",
       "headsign": "BARTOSZOWICE",
       "service_id": "8",
@@ -129631,7 +129631,7 @@
       ]
     },
     {
-      "trip_id": "8_17615365",
+      "trip_id": "8_17719378",
       "direction_id": "0",
       "headsign": "Vivaldiego",
       "service_id": "8",
@@ -129936,7 +129936,7 @@
       ]
     },
     {
-      "trip_id": "8_17615366",
+      "trip_id": "8_17719379",
       "direction_id": "1",
       "headsign": "BARTOSZOWICE",
       "service_id": "8",
@@ -130223,7 +130223,7 @@
       ]
     },
     {
-      "trip_id": "8_17615367",
+      "trip_id": "8_17719380",
       "direction_id": "0",
       "headsign": "Vivaldiego",
       "service_id": "8",
@@ -130528,7 +130528,7 @@
       ]
     },
     {
-      "trip_id": "8_17615368",
+      "trip_id": "8_17719381",
       "direction_id": "1",
       "headsign": "BARTOSZOWICE",
       "service_id": "8",
@@ -130815,7 +130815,7 @@
       ]
     },
     {
-      "trip_id": "8_17615369",
+      "trip_id": "8_17719382",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "8",
@@ -131057,7 +131057,7 @@
       ]
     },
     {
-      "trip_id": "8_17615373",
+      "trip_id": "8_17719386",
       "direction_id": "0",
       "headsign": "Vivaldiego",
       "service_id": "8",
@@ -131092,7 +131092,7 @@
       ]
     },
     {
-      "trip_id": "8_17615374",
+      "trip_id": "8_17719387",
       "direction_id": "1",
       "headsign": "BARTOSZOWICE",
       "service_id": "8",
@@ -131379,7 +131379,7 @@
       ]
     },
     {
-      "trip_id": "8_17615375",
+      "trip_id": "8_17719388",
       "direction_id": "0",
       "headsign": "Vivaldiego",
       "service_id": "8",
@@ -131684,7 +131684,7 @@
       ]
     },
     {
-      "trip_id": "8_17615376",
+      "trip_id": "8_17719389",
       "direction_id": "1",
       "headsign": "BARTOSZOWICE",
       "service_id": "8",
@@ -131971,7 +131971,7 @@
       ]
     },
     {
-      "trip_id": "8_17615377",
+      "trip_id": "8_17719390",
       "direction_id": "0",
       "headsign": "Vivaldiego",
       "service_id": "8",
@@ -132276,7 +132276,7 @@
       ]
     },
     {
-      "trip_id": "8_17615378",
+      "trip_id": "8_17719391",
       "direction_id": "1",
       "headsign": "BARTOSZOWICE",
       "service_id": "8",
@@ -132563,7 +132563,7 @@
       ]
     },
     {
-      "trip_id": "8_17615379",
+      "trip_id": "8_17719392",
       "direction_id": "0",
       "headsign": "Vivaldiego",
       "service_id": "8",
@@ -132868,7 +132868,7 @@
       ]
     },
     {
-      "trip_id": "8_17615380",
+      "trip_id": "8_17719393",
       "direction_id": "1",
       "headsign": "BARTOSZOWICE",
       "service_id": "8",
@@ -133155,7 +133155,7 @@
       ]
     },
     {
-      "trip_id": "8_17615381",
+      "trip_id": "8_17719394",
       "direction_id": "0",
       "headsign": "Vivaldiego",
       "service_id": "8",
@@ -133460,7 +133460,7 @@
       ]
     },
     {
-      "trip_id": "8_17615382",
+      "trip_id": "8_17719395",
       "direction_id": "1",
       "headsign": "BARTOSZOWICE",
       "service_id": "8",
@@ -133747,7 +133747,7 @@
       ]
     },
     {
-      "trip_id": "8_17615383",
+      "trip_id": "8_17719396",
       "direction_id": "0",
       "headsign": "Vivaldiego",
       "service_id": "8",
@@ -134052,7 +134052,7 @@
       ]
     },
     {
-      "trip_id": "8_17615384",
+      "trip_id": "8_17719397",
       "direction_id": "1",
       "headsign": "BARTOSZOWICE",
       "service_id": "8",
@@ -134339,7 +134339,7 @@
       ]
     },
     {
-      "trip_id": "8_17615385",
+      "trip_id": "8_17719398",
       "direction_id": "0",
       "headsign": "Vivaldiego",
       "service_id": "8",
@@ -134644,7 +134644,7 @@
       ]
     },
     {
-      "trip_id": "8_17615386",
+      "trip_id": "8_17719399",
       "direction_id": "1",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "8",
@@ -134985,7 +134985,7 @@
       ]
     },
     {
-      "trip_id": "8_17615387",
+      "trip_id": "8_17719400",
       "direction_id": "1",
       "headsign": "BARTOSZOWICE",
       "service_id": "8",
@@ -135218,7 +135218,7 @@
       ]
     },
     {
-      "trip_id": "8_17615388",
+      "trip_id": "8_17719401",
       "direction_id": "0",
       "headsign": "Vivaldiego",
       "service_id": "8",
@@ -135523,7 +135523,7 @@
       ]
     },
     {
-      "trip_id": "8_17615389",
+      "trip_id": "8_17719402",
       "direction_id": "1",
       "headsign": "BARTOSZOWICE",
       "service_id": "8",
@@ -135810,7 +135810,7 @@
       ]
     },
     {
-      "trip_id": "8_17615390",
+      "trip_id": "8_17719403",
       "direction_id": "0",
       "headsign": "Vivaldiego",
       "service_id": "8",
@@ -136115,7 +136115,7 @@
       ]
     },
     {
-      "trip_id": "8_17615391",
+      "trip_id": "8_17719404",
       "direction_id": "1",
       "headsign": "BARTOSZOWICE",
       "service_id": "8",
@@ -136402,7 +136402,7 @@
       ]
     },
     {
-      "trip_id": "8_17615392",
+      "trip_id": "8_17719405",
       "direction_id": "0",
       "headsign": "Vivaldiego",
       "service_id": "8",
@@ -136707,7 +136707,7 @@
       ]
     },
     {
-      "trip_id": "8_17615393",
+      "trip_id": "8_17719406",
       "direction_id": "1",
       "headsign": "BARTOSZOWICE",
       "service_id": "8",
@@ -136994,7 +136994,7 @@
       ]
     },
     {
-      "trip_id": "8_17615394",
+      "trip_id": "8_17719407",
       "direction_id": "0",
       "headsign": "Vivaldiego",
       "service_id": "8",
@@ -137299,7 +137299,7 @@
       ]
     },
     {
-      "trip_id": "8_17615395",
+      "trip_id": "8_17719408",
       "direction_id": "1",
       "headsign": "BARTOSZOWICE",
       "service_id": "8",
@@ -137586,7 +137586,7 @@
       ]
     },
     {
-      "trip_id": "8_17615396",
+      "trip_id": "8_17719409",
       "direction_id": "0",
       "headsign": "Vivaldiego",
       "service_id": "8",
@@ -137891,7 +137891,7 @@
       ]
     },
     {
-      "trip_id": "8_17615397",
+      "trip_id": "8_17719410",
       "direction_id": "1",
       "headsign": "BARTOSZOWICE",
       "service_id": "8",
@@ -138178,7 +138178,7 @@
       ]
     },
     {
-      "trip_id": "8_17615398",
+      "trip_id": "8_17719411",
       "direction_id": "0",
       "headsign": "Vivaldiego",
       "service_id": "8",
@@ -138483,7 +138483,7 @@
       ]
     },
     {
-      "trip_id": "8_17615399",
+      "trip_id": "8_17719412",
       "direction_id": "1",
       "headsign": "BARTOSZOWICE",
       "service_id": "8",
@@ -138770,7 +138770,7 @@
       ]
     },
     {
-      "trip_id": "8_17615400",
+      "trip_id": "8_17719413",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "8",
@@ -139012,7 +139012,7 @@
       ]
     },
     {
-      "trip_id": "8_17616404",
+      "trip_id": "8_17720417",
       "direction_id": "1",
       "headsign": "BARTOSZOWICE",
       "service_id": "8",
@@ -139245,7 +139245,7 @@
       ]
     },
     {
-      "trip_id": "8_17616405",
+      "trip_id": "8_17720418",
       "direction_id": "0",
       "headsign": "Vivaldiego",
       "service_id": "8",
@@ -139550,7 +139550,7 @@
       ]
     },
     {
-      "trip_id": "8_17616406",
+      "trip_id": "8_17720419",
       "direction_id": "1",
       "headsign": "BARTOSZOWICE",
       "service_id": "8",
@@ -139837,7 +139837,7 @@
       ]
     },
     {
-      "trip_id": "8_17616439",
+      "trip_id": "8_17720452",
       "direction_id": "1",
       "headsign": "BARTOSZOWICE",
       "service_id": "8",
@@ -139989,7 +139989,7 @@
       ]
     },
     {
-      "trip_id": "8_17616440",
+      "trip_id": "8_17720453",
       "direction_id": "0",
       "headsign": "Vivaldiego",
       "service_id": "8",

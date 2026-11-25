@@ -2,7 +2,7 @@
   "line": "240",
   "trips": [
     {
-      "trip_id": "3_17598895",
+      "trip_id": "3_17702908",
       "direction_id": "1",
       "headsign": "DWORZEC AUTOBUSOWY",
       "service_id": "3",
@@ -10,7 +10,7 @@
         {
           "stop_sequence": 0,
           "stop_id": "952",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 03",
           "arrival_time": "23:31:00",
           "departure_time": "23:31:00",
           "lat": 51.11223438,
@@ -208,7 +208,7 @@
       ]
     },
     {
-      "trip_id": "3_17598896",
+      "trip_id": "3_17702909",
       "direction_id": "1",
       "headsign": "DWORZEC AUTOBUSOWY",
       "service_id": "3",
@@ -252,7 +252,7 @@
         {
           "stop_sequence": 4,
           "stop_id": "952",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 03",
           "arrival_time": "24:15:00",
           "departure_time": "24:15:00",
           "lat": 51.11223438,
@@ -450,7 +450,7 @@
       ]
     },
     {
-      "trip_id": "3_17598897",
+      "trip_id": "3_17702910",
       "direction_id": "1",
       "headsign": "DWORZEC AUTOBUSOWY",
       "service_id": "3",
@@ -494,7 +494,7 @@
         {
           "stop_sequence": 4,
           "stop_id": "952",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 03",
           "arrival_time": "24:56:00",
           "departure_time": "24:56:00",
           "lat": 51.11223438,
@@ -692,7 +692,7 @@
       ]
     },
     {
-      "trip_id": "3_17598898",
+      "trip_id": "3_17702911",
       "direction_id": "1",
       "headsign": "DWORZEC AUTOBUSOWY",
       "service_id": "3",
@@ -736,7 +736,7 @@
         {
           "stop_sequence": 4,
           "stop_id": "952",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 03",
           "arrival_time": "25:40:00",
           "departure_time": "25:40:00",
           "lat": 51.11223438,
@@ -934,7 +934,7 @@
       ]
     },
     {
-      "trip_id": "3_17598899",
+      "trip_id": "3_17702912",
       "direction_id": "1",
       "headsign": "DWORZEC AUTOBUSOWY",
       "service_id": "3",
@@ -978,7 +978,7 @@
         {
           "stop_sequence": 4,
           "stop_id": "952",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 03",
           "arrival_time": "26:40:00",
           "departure_time": "26:40:00",
           "lat": 51.11223438,
@@ -1176,7 +1176,7 @@
       ]
     },
     {
-      "trip_id": "3_17598900",
+      "trip_id": "3_17702913",
       "direction_id": "1",
       "headsign": "DWORZEC AUTOBUSOWY",
       "service_id": "3",
@@ -1220,7 +1220,7 @@
         {
           "stop_sequence": 4,
           "stop_id": "952",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 03",
           "arrival_time": "27:36:00",
           "departure_time": "27:36:00",
           "lat": 51.11223438,
@@ -1418,7 +1418,7 @@
       ]
     },
     {
-      "trip_id": "3_17598901",
+      "trip_id": "3_17702914",
       "direction_id": "1",
       "headsign": "DWORZEC AUTOBUSOWY",
       "service_id": "3",
@@ -1462,7 +1462,7 @@
         {
           "stop_sequence": 4,
           "stop_id": "952",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 03",
           "arrival_time": "28:23:00",
           "departure_time": "28:23:00",
           "lat": 51.11223438,
@@ -1651,7 +1651,7 @@
       ]
     },
     {
-      "trip_id": "3_17598902",
+      "trip_id": "3_17702915",
       "direction_id": "1",
       "headsign": "Zajezdnia TYSKA",
       "service_id": "3",
@@ -1794,7 +1794,7 @@
       ]
     },
     {
-      "trip_id": "4_17603307",
+      "trip_id": "4_17707320",
       "direction_id": "1",
       "headsign": "DWORZEC AUTOBUSOWY",
       "service_id": "4",
@@ -1802,7 +1802,7 @@
         {
           "stop_sequence": 0,
           "stop_id": "952",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 03",
           "arrival_time": "23:31:00",
           "departure_time": "23:31:00",
           "lat": 51.11223438,
@@ -2000,7 +2000,7 @@
       ]
     },
     {
-      "trip_id": "4_17603308",
+      "trip_id": "4_17707321",
       "direction_id": "1",
       "headsign": "DWORZEC AUTOBUSOWY",
       "service_id": "4",
@@ -2044,7 +2044,7 @@
         {
           "stop_sequence": 4,
           "stop_id": "952",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 03",
           "arrival_time": "24:15:00",
           "departure_time": "24:15:00",
           "lat": 51.11223438,
@@ -2242,7 +2242,7 @@
       ]
     },
     {
-      "trip_id": "4_17603309",
+      "trip_id": "4_17707322",
       "direction_id": "1",
       "headsign": "DWORZEC AUTOBUSOWY",
       "service_id": "4",
@@ -2286,7 +2286,7 @@
         {
           "stop_sequence": 4,
           "stop_id": "952",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 03",
           "arrival_time": "24:56:00",
           "departure_time": "24:56:00",
           "lat": 51.11223438,
@@ -2484,7 +2484,7 @@
       ]
     },
     {
-      "trip_id": "4_17603310",
+      "trip_id": "4_17707323",
       "direction_id": "1",
       "headsign": "DWORZEC AUTOBUSOWY",
       "service_id": "4",
@@ -2528,7 +2528,7 @@
         {
           "stop_sequence": 4,
           "stop_id": "952",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 03",
           "arrival_time": "25:40:00",
           "departure_time": "25:40:00",
           "lat": 51.11223438,
@@ -2726,7 +2726,7 @@
       ]
     },
     {
-      "trip_id": "4_17603311",
+      "trip_id": "4_17707324",
       "direction_id": "1",
       "headsign": "DWORZEC AUTOBUSOWY",
       "service_id": "4",
@@ -2770,7 +2770,7 @@
         {
           "stop_sequence": 4,
           "stop_id": "952",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 03",
           "arrival_time": "26:40:00",
           "departure_time": "26:40:00",
           "lat": 51.11223438,
@@ -2968,7 +2968,7 @@
       ]
     },
     {
-      "trip_id": "4_17603312",
+      "trip_id": "4_17707325",
       "direction_id": "1",
       "headsign": "DWORZEC AUTOBUSOWY",
       "service_id": "4",
@@ -3012,7 +3012,7 @@
         {
           "stop_sequence": 4,
           "stop_id": "952",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 03",
           "arrival_time": "27:36:00",
           "departure_time": "27:36:00",
           "lat": 51.11223438,
@@ -3210,7 +3210,7 @@
       ]
     },
     {
-      "trip_id": "4_17603313",
+      "trip_id": "4_17707326",
       "direction_id": "1",
       "headsign": "DWORZEC AUTOBUSOWY",
       "service_id": "4",
@@ -3254,7 +3254,7 @@
         {
           "stop_sequence": 4,
           "stop_id": "952",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 03",
           "arrival_time": "28:23:00",
           "departure_time": "28:23:00",
           "lat": 51.11223438,
@@ -3443,7 +3443,7 @@
       ]
     },
     {
-      "trip_id": "4_17603314",
+      "trip_id": "4_17707327",
       "direction_id": "1",
       "headsign": "Zajezdnia TYSKA",
       "service_id": "4",
@@ -3586,7 +3586,7 @@
       ]
     },
     {
-      "trip_id": "6_17609506",
+      "trip_id": "6_17713519",
       "direction_id": "1",
       "headsign": "DWORZEC AUTOBUSOWY",
       "service_id": "6",
@@ -3594,7 +3594,7 @@
         {
           "stop_sequence": 0,
           "stop_id": "952",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 03",
           "arrival_time": "23:31:00",
           "departure_time": "23:31:00",
           "lat": 51.11223438,
@@ -3792,7 +3792,7 @@
       ]
     },
     {
-      "trip_id": "6_17609507",
+      "trip_id": "6_17713520",
       "direction_id": "1",
       "headsign": "DWORZEC AUTOBUSOWY",
       "service_id": "6",
@@ -3836,7 +3836,7 @@
         {
           "stop_sequence": 4,
           "stop_id": "952",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 03",
           "arrival_time": "24:15:00",
           "departure_time": "24:15:00",
           "lat": 51.11223438,
@@ -4034,7 +4034,7 @@
       ]
     },
     {
-      "trip_id": "6_17609508",
+      "trip_id": "6_17713521",
       "direction_id": "1",
       "headsign": "DWORZEC AUTOBUSOWY",
       "service_id": "6",
@@ -4078,7 +4078,7 @@
         {
           "stop_sequence": 4,
           "stop_id": "952",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 03",
           "arrival_time": "24:56:00",
           "departure_time": "24:56:00",
           "lat": 51.11223438,
@@ -4276,7 +4276,7 @@
       ]
     },
     {
-      "trip_id": "6_17609509",
+      "trip_id": "6_17713522",
       "direction_id": "1",
       "headsign": "DWORZEC AUTOBUSOWY",
       "service_id": "6",
@@ -4320,7 +4320,7 @@
         {
           "stop_sequence": 4,
           "stop_id": "952",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 03",
           "arrival_time": "25:40:00",
           "departure_time": "25:40:00",
           "lat": 51.11223438,
@@ -4518,7 +4518,7 @@
       ]
     },
     {
-      "trip_id": "6_17609510",
+      "trip_id": "6_17713523",
       "direction_id": "1",
       "headsign": "DWORZEC AUTOBUSOWY",
       "service_id": "6",
@@ -4562,7 +4562,7 @@
         {
           "stop_sequence": 4,
           "stop_id": "952",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 03",
           "arrival_time": "26:40:00",
           "departure_time": "26:40:00",
           "lat": 51.11223438,
@@ -4760,7 +4760,7 @@
       ]
     },
     {
-      "trip_id": "6_17609511",
+      "trip_id": "6_17713524",
       "direction_id": "1",
       "headsign": "DWORZEC AUTOBUSOWY",
       "service_id": "6",
@@ -4804,7 +4804,7 @@
         {
           "stop_sequence": 4,
           "stop_id": "952",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 03",
           "arrival_time": "27:36:00",
           "departure_time": "27:36:00",
           "lat": 51.11223438,
@@ -5002,7 +5002,7 @@
       ]
     },
     {
-      "trip_id": "6_17609512",
+      "trip_id": "6_17713525",
       "direction_id": "1",
       "headsign": "DWORZEC AUTOBUSOWY",
       "service_id": "6",
@@ -5046,7 +5046,7 @@
         {
           "stop_sequence": 4,
           "stop_id": "952",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 03",
           "arrival_time": "28:23:00",
           "departure_time": "28:23:00",
           "lat": 51.11223438,
@@ -5235,7 +5235,7 @@
       ]
     },
     {
-      "trip_id": "6_17609513",
+      "trip_id": "6_17713526",
       "direction_id": "1",
       "headsign": "Zajezdnia TYSKA",
       "service_id": "6",
@@ -5378,7 +5378,7 @@
       ]
     },
     {
-      "trip_id": "8_17616332",
+      "trip_id": "8_17720345",
       "direction_id": "1",
       "headsign": "DWORZEC AUTOBUSOWY",
       "service_id": "8",
@@ -5386,7 +5386,7 @@
         {
           "stop_sequence": 0,
           "stop_id": "952",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 03",
           "arrival_time": "23:31:00",
           "departure_time": "23:31:00",
           "lat": 51.11223438,
@@ -5584,7 +5584,7 @@
       ]
     },
     {
-      "trip_id": "8_17616333",
+      "trip_id": "8_17720346",
       "direction_id": "1",
       "headsign": "DWORZEC AUTOBUSOWY",
       "service_id": "8",
@@ -5628,7 +5628,7 @@
         {
           "stop_sequence": 4,
           "stop_id": "952",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 03",
           "arrival_time": "24:15:00",
           "departure_time": "24:15:00",
           "lat": 51.11223438,
@@ -5826,7 +5826,7 @@
       ]
     },
     {
-      "trip_id": "8_17616334",
+      "trip_id": "8_17720347",
       "direction_id": "1",
       "headsign": "DWORZEC AUTOBUSOWY",
       "service_id": "8",
@@ -5870,7 +5870,7 @@
         {
           "stop_sequence": 4,
           "stop_id": "952",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 03",
           "arrival_time": "24:56:00",
           "departure_time": "24:56:00",
           "lat": 51.11223438,
@@ -6068,7 +6068,7 @@
       ]
     },
     {
-      "trip_id": "8_17616335",
+      "trip_id": "8_17720348",
       "direction_id": "1",
       "headsign": "DWORZEC AUTOBUSOWY",
       "service_id": "8",
@@ -6112,7 +6112,7 @@
         {
           "stop_sequence": 4,
           "stop_id": "952",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 03",
           "arrival_time": "25:40:00",
           "departure_time": "25:40:00",
           "lat": 51.11223438,
@@ -6310,7 +6310,7 @@
       ]
     },
     {
-      "trip_id": "8_17616336",
+      "trip_id": "8_17720349",
       "direction_id": "1",
       "headsign": "DWORZEC AUTOBUSOWY",
       "service_id": "8",
@@ -6354,7 +6354,7 @@
         {
           "stop_sequence": 4,
           "stop_id": "952",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 03",
           "arrival_time": "26:40:00",
           "departure_time": "26:40:00",
           "lat": 51.11223438,
@@ -6552,7 +6552,7 @@
       ]
     },
     {
-      "trip_id": "8_17616337",
+      "trip_id": "8_17720350",
       "direction_id": "1",
       "headsign": "DWORZEC AUTOBUSOWY",
       "service_id": "8",
@@ -6596,7 +6596,7 @@
         {
           "stop_sequence": 4,
           "stop_id": "952",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 03",
           "arrival_time": "27:36:00",
           "departure_time": "27:36:00",
           "lat": 51.11223438,
@@ -6794,7 +6794,7 @@
       ]
     },
     {
-      "trip_id": "8_17616338",
+      "trip_id": "8_17720351",
       "direction_id": "1",
       "headsign": "DWORZEC AUTOBUSOWY",
       "service_id": "8",
@@ -6838,7 +6838,7 @@
         {
           "stop_sequence": 4,
           "stop_id": "952",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 03",
           "arrival_time": "28:23:00",
           "departure_time": "28:23:00",
           "lat": 51.11223438,
@@ -7027,7 +7027,7 @@
       ]
     },
     {
-      "trip_id": "8_17616339",
+      "trip_id": "8_17720352",
       "direction_id": "1",
       "headsign": "Zajezdnia TYSKA",
       "service_id": "8",

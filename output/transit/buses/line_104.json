@@ -2,7 +2,7 @@
   "line": "104",
   "trips": [
     {
-      "trip_id": "3_17595585",
+      "trip_id": "3_17699598",
       "direction_id": "1",
       "headsign": "RĘDZIŃSKA",
       "service_id": "3",
@@ -181,7 +181,7 @@
       ]
     },
     {
-      "trip_id": "3_17595586",
+      "trip_id": "3_17699599",
       "direction_id": "0",
       "headsign": "ŚLAZOWA",
       "service_id": "3",
@@ -396,7 +396,7 @@
       ]
     },
     {
-      "trip_id": "3_17595587",
+      "trip_id": "3_17699600",
       "direction_id": "1",
       "headsign": "RĘDZIŃSKA",
       "service_id": "3",
@@ -602,7 +602,7 @@
       ]
     },
     {
-      "trip_id": "3_17595588",
+      "trip_id": "3_17699601",
       "direction_id": "0",
       "headsign": "ŚLAZOWA",
       "service_id": "3",
@@ -817,7 +817,7 @@
       ]
     },
     {
-      "trip_id": "3_17595589",
+      "trip_id": "3_17699602",
       "direction_id": "1",
       "headsign": "RĘDZIŃSKA",
       "service_id": "3",
@@ -1023,7 +1023,7 @@
       ]
     },
     {
-      "trip_id": "3_17595590",
+      "trip_id": "3_17699603",
       "direction_id": "0",
       "headsign": "ŚLAZOWA",
       "service_id": "3",
@@ -1238,7 +1238,7 @@
       ]
     },
     {
-      "trip_id": "3_17595591",
+      "trip_id": "3_17699604",
       "direction_id": "1",
       "headsign": "RĘDZIŃSKA",
       "service_id": "3",
@@ -1444,7 +1444,7 @@
       ]
     },
     {
-      "trip_id": "3_17595592",
+      "trip_id": "3_17699605",
       "direction_id": "0",
       "headsign": "ŚLAZOWA",
       "service_id": "3",
@@ -1659,7 +1659,7 @@
       ]
     },
     {
-      "trip_id": "3_17595593",
+      "trip_id": "3_17699606",
       "direction_id": "1",
       "headsign": "RĘDZIŃSKA",
       "service_id": "3",
@@ -1865,7 +1865,7 @@
       ]
     },
     {
-      "trip_id": "3_17595594",
+      "trip_id": "3_17699607",
       "direction_id": "0",
       "headsign": "ŚLAZOWA",
       "service_id": "3",
@@ -2080,7 +2080,7 @@
       ]
     },
     {
-      "trip_id": "3_17595595",
+      "trip_id": "3_17699608",
       "direction_id": "1",
       "headsign": "RĘDZIŃSKA",
       "service_id": "3",
@@ -2286,7 +2286,7 @@
       ]
     },
     {
-      "trip_id": "3_17595596",
+      "trip_id": "3_17699609",
       "direction_id": "0",
       "headsign": "ŚLAZOWA",
       "service_id": "3",
@@ -2501,7 +2501,7 @@
       ]
     },
     {
-      "trip_id": "3_17595597",
+      "trip_id": "3_17699610",
       "direction_id": "1",
       "headsign": "RĘDZIŃSKA",
       "service_id": "3",
@@ -2707,7 +2707,7 @@
       ]
     },
     {
-      "trip_id": "3_17595598",
+      "trip_id": "3_17699611",
       "direction_id": "0",
       "headsign": "ŚLAZOWA",
       "service_id": "3",
@@ -2922,7 +2922,7 @@
       ]
     },
     {
-      "trip_id": "3_17595599",
+      "trip_id": "3_17699612",
       "direction_id": "1",
       "headsign": "RĘDZIŃSKA",
       "service_id": "3",
@@ -3128,7 +3128,7 @@
       ]
     },
     {
-      "trip_id": "3_17595600",
+      "trip_id": "3_17699613",
       "direction_id": "0",
       "headsign": "ŚLAZOWA",
       "service_id": "3",
@@ -3343,7 +3343,7 @@
       ]
     },
     {
-      "trip_id": "3_17595601",
+      "trip_id": "3_17699614",
       "direction_id": "1",
       "headsign": "RĘDZIŃSKA",
       "service_id": "3",
@@ -3549,7 +3549,7 @@
       ]
     },
     {
-      "trip_id": "3_17595602",
+      "trip_id": "3_17699615",
       "direction_id": "0",
       "headsign": "ŚLAZOWA",
       "service_id": "3",
@@ -3764,7 +3764,7 @@
       ]
     },
     {
-      "trip_id": "3_17595603",
+      "trip_id": "3_17699616",
       "direction_id": "1",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "3",
@@ -3889,7 +3889,7 @@
       ]
     },
     {
-      "trip_id": "3_17595604",
+      "trip_id": "3_17699617",
       "direction_id": "1",
       "headsign": "RĘDZIŃSKA",
       "service_id": "3",
@@ -4068,7 +4068,7 @@
       ]
     },
     {
-      "trip_id": "3_17595605",
+      "trip_id": "3_17699618",
       "direction_id": "0",
       "headsign": "ŚLAZOWA",
       "service_id": "3",
@@ -4283,7 +4283,7 @@
       ]
     },
     {
-      "trip_id": "3_17595606",
+      "trip_id": "3_17699619",
       "direction_id": "1",
       "headsign": "RĘDZIŃSKA",
       "service_id": "3",
@@ -4489,7 +4489,7 @@
       ]
     },
     {
-      "trip_id": "3_17595607",
+      "trip_id": "3_17699620",
       "direction_id": "0",
       "headsign": "ŚLAZOWA",
       "service_id": "3",
@@ -4704,7 +4704,7 @@
       ]
     },
     {
-      "trip_id": "3_17595608",
+      "trip_id": "3_17699621",
       "direction_id": "1",
       "headsign": "RĘDZIŃSKA",
       "service_id": "3",
@@ -4910,7 +4910,7 @@
       ]
     },
     {
-      "trip_id": "3_17595609",
+      "trip_id": "3_17699622",
       "direction_id": "0",
       "headsign": "ŚLAZOWA",
       "service_id": "3",
@@ -5125,7 +5125,7 @@
       ]
     },
     {
-      "trip_id": "3_17595610",
+      "trip_id": "3_17699623",
       "direction_id": "1",
       "headsign": "RĘDZIŃSKA",
       "service_id": "3",
@@ -5331,7 +5331,7 @@
       ]
     },
     {
-      "trip_id": "3_17595611",
+      "trip_id": "3_17699624",
       "direction_id": "0",
       "headsign": "ŚLAZOWA",
       "service_id": "3",
@@ -5546,7 +5546,7 @@
       ]
     },
     {
-      "trip_id": "3_17595612",
+      "trip_id": "3_17699625",
       "direction_id": "1",
       "headsign": "RĘDZIŃSKA",
       "service_id": "3",
@@ -5752,7 +5752,7 @@
       ]
     },
     {
-      "trip_id": "3_17595613",
+      "trip_id": "3_17699626",
       "direction_id": "0",
       "headsign": "ŚLAZOWA",
       "service_id": "3",
@@ -5967,7 +5967,7 @@
       ]
     },
     {
-      "trip_id": "3_17595614",
+      "trip_id": "3_17699627",
       "direction_id": "1",
       "headsign": "RĘDZIŃSKA",
       "service_id": "3",
@@ -6173,7 +6173,7 @@
       ]
     },
     {
-      "trip_id": "3_17595615",
+      "trip_id": "3_17699628",
       "direction_id": "0",
       "headsign": "ŚLAZOWA",
       "service_id": "3",
@@ -6388,7 +6388,7 @@
       ]
     },
     {
-      "trip_id": "3_17595616",
+      "trip_id": "3_17699629",
       "direction_id": "1",
       "headsign": "Kwiska",
       "service_id": "3",
@@ -6486,7 +6486,7 @@
       ]
     },
     {
-      "trip_id": "3_17595617",
+      "trip_id": "3_17699630",
       "direction_id": "0",
       "headsign": "ŚLAZOWA",
       "service_id": "3",
@@ -6584,7 +6584,7 @@
       ]
     },
     {
-      "trip_id": "3_17595618",
+      "trip_id": "3_17699631",
       "direction_id": "1",
       "headsign": "Kwiska",
       "service_id": "3",
@@ -6682,7 +6682,7 @@
       ]
     },
     {
-      "trip_id": "3_17595619",
+      "trip_id": "3_17699632",
       "direction_id": "0",
       "headsign": "ŚLAZOWA",
       "service_id": "3",
@@ -6780,7 +6780,7 @@
       ]
     },
     {
-      "trip_id": "3_17595620",
+      "trip_id": "3_17699633",
       "direction_id": "1",
       "headsign": "Kwiska",
       "service_id": "3",
@@ -6878,7 +6878,7 @@
       ]
     },
     {
-      "trip_id": "3_17595621",
+      "trip_id": "3_17699634",
       "direction_id": "0",
       "headsign": "ŚLAZOWA",
       "service_id": "3",
@@ -6976,7 +6976,7 @@
       ]
     },
     {
-      "trip_id": "3_17595622",
+      "trip_id": "3_17699635",
       "direction_id": "1",
       "headsign": "RĘDZIŃSKA",
       "service_id": "3",
@@ -7182,7 +7182,7 @@
       ]
     },
     {
-      "trip_id": "3_17595623",
+      "trip_id": "3_17699636",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "3",
@@ -7361,7 +7361,7 @@
       ]
     },
     {
-      "trip_id": "3_17595624",
+      "trip_id": "3_17699637",
       "direction_id": "1",
       "headsign": "RĘDZIŃSKA",
       "service_id": "3",
@@ -7540,7 +7540,7 @@
       ]
     },
     {
-      "trip_id": "3_17595625",
+      "trip_id": "3_17699638",
       "direction_id": "0",
       "headsign": "ŚLAZOWA",
       "service_id": "3",
@@ -7755,7 +7755,7 @@
       ]
     },
     {
-      "trip_id": "3_17595626",
+      "trip_id": "3_17699639",
       "direction_id": "1",
       "headsign": "RĘDZIŃSKA",
       "service_id": "3",
@@ -7961,7 +7961,7 @@
       ]
     },
     {
-      "trip_id": "3_17595627",
+      "trip_id": "3_17699640",
       "direction_id": "0",
       "headsign": "ŚLAZOWA",
       "service_id": "3",
@@ -8176,7 +8176,7 @@
       ]
     },
     {
-      "trip_id": "3_17595628",
+      "trip_id": "3_17699641",
       "direction_id": "1",
       "headsign": "Kwiska",
       "service_id": "3",
@@ -8274,7 +8274,7 @@
       ]
     },
     {
-      "trip_id": "3_17595629",
+      "trip_id": "3_17699642",
       "direction_id": "0",
       "headsign": "ŚLAZOWA",
       "service_id": "3",
@@ -8372,7 +8372,7 @@
       ]
     },
     {
-      "trip_id": "3_17595630",
+      "trip_id": "3_17699643",
       "direction_id": "1",
       "headsign": "Kwiska",
       "service_id": "3",
@@ -8470,7 +8470,7 @@
       ]
     },
     {
-      "trip_id": "3_17595631",
+      "trip_id": "3_17699644",
       "direction_id": "0",
       "headsign": "ŚLAZOWA",
       "service_id": "3",
@@ -8568,7 +8568,7 @@
       ]
     },
     {
-      "trip_id": "3_17595632",
+      "trip_id": "3_17699645",
       "direction_id": "1",
       "headsign": "Kwiska",
       "service_id": "3",
@@ -8666,7 +8666,7 @@
       ]
     },
     {
-      "trip_id": "3_17595633",
+      "trip_id": "3_17699646",
       "direction_id": "0",
       "headsign": "ŚLAZOWA",
       "service_id": "3",
@@ -8764,7 +8764,7 @@
       ]
     },
     {
-      "trip_id": "3_17595634",
+      "trip_id": "3_17699647",
       "direction_id": "1",
       "headsign": "Kwiska",
       "service_id": "3",
@@ -8862,7 +8862,7 @@
       ]
     },
     {
-      "trip_id": "3_17595635",
+      "trip_id": "3_17699648",
       "direction_id": "0",
       "headsign": "ŚLAZOWA",
       "service_id": "3",
@@ -8960,7 +8960,7 @@
       ]
     },
     {
-      "trip_id": "3_17595636",
+      "trip_id": "3_17699649",
       "direction_id": "1",
       "headsign": "Kwiska",
       "service_id": "3",
@@ -9058,7 +9058,7 @@
       ]
     },
     {
-      "trip_id": "3_17595637",
+      "trip_id": "3_17699650",
       "direction_id": "0",
       "headsign": "ŚLAZOWA",
       "service_id": "3",
@@ -9156,7 +9156,7 @@
       ]
     },
     {
-      "trip_id": "3_17595638",
+      "trip_id": "3_17699651",
       "direction_id": "1",
       "headsign": "Kwiska",
       "service_id": "3",
@@ -9254,7 +9254,7 @@
       ]
     },
     {
-      "trip_id": "3_17595639",
+      "trip_id": "3_17699652",
       "direction_id": "0",
       "headsign": "ŚLAZOWA",
       "service_id": "3",
@@ -9352,7 +9352,7 @@
       ]
     },
     {
-      "trip_id": "3_17595640",
+      "trip_id": "3_17699653",
       "direction_id": "1",
       "headsign": "RĘDZIŃSKA",
       "service_id": "3",
@@ -9558,7 +9558,7 @@
       ]
     },
     {
-      "trip_id": "3_17595641",
+      "trip_id": "3_17699654",
       "direction_id": "0",
       "headsign": "ŚLAZOWA",
       "service_id": "3",
@@ -9773,7 +9773,7 @@
       ]
     },
     {
-      "trip_id": "3_17595642",
+      "trip_id": "3_17699655",
       "direction_id": "1",
       "headsign": "RĘDZIŃSKA",
       "service_id": "3",
@@ -9979,7 +9979,7 @@
       ]
     },
     {
-      "trip_id": "3_17595643",
+      "trip_id": "3_17699656",
       "direction_id": "0",
       "headsign": "ŚLAZOWA",
       "service_id": "3",
@@ -10194,7 +10194,7 @@
       ]
     },
     {
-      "trip_id": "3_17595644",
+      "trip_id": "3_17699657",
       "direction_id": "1",
       "headsign": "RĘDZIŃSKA",
       "service_id": "3",
@@ -10400,7 +10400,7 @@
       ]
     },
     {
-      "trip_id": "3_17595645",
+      "trip_id": "3_17699658",
       "direction_id": "0",
       "headsign": "ŚLAZOWA",
       "service_id": "3",
@@ -10615,7 +10615,7 @@
       ]
     },
     {
-      "trip_id": "3_17595646",
+      "trip_id": "3_17699659",
       "direction_id": "1",
       "headsign": "RĘDZIŃSKA",
       "service_id": "3",
@@ -10821,7 +10821,7 @@
       ]
     },
     {
-      "trip_id": "3_17595647",
+      "trip_id": "3_17699660",
       "direction_id": "0",
       "headsign": "ŚLAZOWA",
       "service_id": "3",
@@ -11036,7 +11036,7 @@
       ]
     },
     {
-      "trip_id": "3_17595648",
+      "trip_id": "3_17699661",
       "direction_id": "1",
       "headsign": "RĘDZIŃSKA",
       "service_id": "3",
@@ -11242,7 +11242,7 @@
       ]
     },
     {
-      "trip_id": "3_17595649",
+      "trip_id": "3_17699662",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "3",
@@ -11421,7 +11421,7 @@
       ]
     },
     {
-      "trip_id": "4_17600142",
+      "trip_id": "4_17704155",
       "direction_id": "1",
       "headsign": "RĘDZIŃSKA",
       "service_id": "4",
@@ -11600,7 +11600,7 @@
       ]
     },
     {
-      "trip_id": "4_17600143",
+      "trip_id": "4_17704156",
       "direction_id": "0",
       "headsign": "ŚLAZOWA",
       "service_id": "4",
@@ -11815,7 +11815,7 @@
       ]
     },
     {
-      "trip_id": "4_17600144",
+      "trip_id": "4_17704157",
       "direction_id": "1",
       "headsign": "RĘDZIŃSKA",
       "service_id": "4",
@@ -12021,7 +12021,7 @@
       ]
     },
     {
-      "trip_id": "4_17600145",
+      "trip_id": "4_17704158",
       "direction_id": "0",
       "headsign": "ŚLAZOWA",
       "service_id": "4",
@@ -12236,7 +12236,7 @@
       ]
     },
     {
-      "trip_id": "4_17600146",
+      "trip_id": "4_17704159",
       "direction_id": "1",
       "headsign": "RĘDZIŃSKA",
       "service_id": "4",
@@ -12442,7 +12442,7 @@
       ]
     },
     {
-      "trip_id": "4_17600147",
+      "trip_id": "4_17704160",
       "direction_id": "0",
       "headsign": "ŚLAZOWA",
       "service_id": "4",
@@ -12657,7 +12657,7 @@
       ]
     },
     {
-      "trip_id": "4_17600148",
+      "trip_id": "4_17704161",
       "direction_id": "1",
       "headsign": "RĘDZIŃSKA",
       "service_id": "4",
@@ -12863,7 +12863,7 @@
       ]
     },
     {
-      "trip_id": "4_17600149",
+      "trip_id": "4_17704162",
       "direction_id": "0",
       "headsign": "ŚLAZOWA",
       "service_id": "4",
@@ -13078,7 +13078,7 @@
       ]
     },
     {
-      "trip_id": "4_17600150",
+      "trip_id": "4_17704163",
       "direction_id": "1",
       "headsign": "RĘDZIŃSKA",
       "service_id": "4",
@@ -13284,7 +13284,7 @@
       ]
     },
     {
-      "trip_id": "4_17600151",
+      "trip_id": "4_17704164",
       "direction_id": "0",
       "headsign": "ŚLAZOWA",
       "service_id": "4",
@@ -13499,7 +13499,7 @@
       ]
     },
     {
-      "trip_id": "4_17600152",
+      "trip_id": "4_17704165",
       "direction_id": "1",
       "headsign": "RĘDZIŃSKA",
       "service_id": "4",
@@ -13705,7 +13705,7 @@
       ]
     },
     {
-      "trip_id": "4_17600153",
+      "trip_id": "4_17704166",
       "direction_id": "0",
       "headsign": "ŚLAZOWA",
       "service_id": "4",
@@ -13920,7 +13920,7 @@
       ]
     },
     {
-      "trip_id": "4_17600154",
+      "trip_id": "4_17704167",
       "direction_id": "1",
       "headsign": "RĘDZIŃSKA",
       "service_id": "4",
@@ -14126,7 +14126,7 @@
       ]
     },
     {
-      "trip_id": "4_17600155",
+      "trip_id": "4_17704168",
       "direction_id": "0",
       "headsign": "ŚLAZOWA",
       "service_id": "4",
@@ -14341,7 +14341,7 @@
       ]
     },
     {
-      "trip_id": "4_17600156",
+      "trip_id": "4_17704169",
       "direction_id": "1",
       "headsign": "RĘDZIŃSKA",
       "service_id": "4",
@@ -14547,7 +14547,7 @@
       ]
     },
     {
-      "trip_id": "4_17600157",
+      "trip_id": "4_17704170",
       "direction_id": "0",
       "headsign": "ŚLAZOWA",
       "service_id": "4",
@@ -14762,7 +14762,7 @@
       ]
     },
     {
-      "trip_id": "4_17600158",
+      "trip_id": "4_17704171",
       "direction_id": "1",
       "headsign": "RĘDZIŃSKA",
       "service_id": "4",
@@ -14968,7 +14968,7 @@
       ]
     },
     {
-      "trip_id": "4_17600159",
+      "trip_id": "4_17704172",
       "direction_id": "0",
       "headsign": "ŚLAZOWA",
       "service_id": "4",
@@ -15183,7 +15183,7 @@
       ]
     },
     {
-      "trip_id": "4_17600160",
+      "trip_id": "4_17704173",
       "direction_id": "1",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "4",
@@ -15308,7 +15308,7 @@
       ]
     },
     {
-      "trip_id": "4_17600161",
+      "trip_id": "4_17704174",
       "direction_id": "1",
       "headsign": "RĘDZIŃSKA",
       "service_id": "4",
@@ -15487,7 +15487,7 @@
       ]
     },
     {
-      "trip_id": "4_17600162",
+      "trip_id": "4_17704175",
       "direction_id": "0",
       "headsign": "ŚLAZOWA",
       "service_id": "4",
@@ -15702,7 +15702,7 @@
       ]
     },
     {
-      "trip_id": "4_17600163",
+      "trip_id": "4_17704176",
       "direction_id": "1",
       "headsign": "RĘDZIŃSKA",
       "service_id": "4",
@@ -15908,7 +15908,7 @@
       ]
     },
     {
-      "trip_id": "4_17600164",
+      "trip_id": "4_17704177",
       "direction_id": "0",
       "headsign": "ŚLAZOWA",
       "service_id": "4",
@@ -16123,7 +16123,7 @@
       ]
     },
     {
-      "trip_id": "4_17600165",
+      "trip_id": "4_17704178",
       "direction_id": "1",
       "headsign": "RĘDZIŃSKA",
       "service_id": "4",
@@ -16329,7 +16329,7 @@
       ]
     },
     {
-      "trip_id": "4_17600166",
+      "trip_id": "4_17704179",
       "direction_id": "0",
       "headsign": "ŚLAZOWA",
       "service_id": "4",
@@ -16544,7 +16544,7 @@
       ]
     },
     {
-      "trip_id": "4_17600167",
+      "trip_id": "4_17704180",
       "direction_id": "1",
       "headsign": "RĘDZIŃSKA",
       "service_id": "4",
@@ -16750,7 +16750,7 @@
       ]
     },
     {
-      "trip_id": "4_17600168",
+      "trip_id": "4_17704181",
       "direction_id": "0",
       "headsign": "ŚLAZOWA",
       "service_id": "4",
@@ -16965,7 +16965,7 @@
       ]
     },
     {
-      "trip_id": "4_17600169",
+      "trip_id": "4_17704182",
       "direction_id": "1",
       "headsign": "RĘDZIŃSKA",
       "service_id": "4",
@@ -17171,7 +17171,7 @@
       ]
     },
     {
-      "trip_id": "4_17600170",
+      "trip_id": "4_17704183",
       "direction_id": "0",
       "headsign": "ŚLAZOWA",
       "service_id": "4",
@@ -17386,7 +17386,7 @@
       ]
     },
     {
-      "trip_id": "4_17600171",
+      "trip_id": "4_17704184",
       "direction_id": "1",
       "headsign": "RĘDZIŃSKA",
       "service_id": "4",
@@ -17592,7 +17592,7 @@
       ]
     },
     {
-      "trip_id": "4_17600172",
+      "trip_id": "4_17704185",
       "direction_id": "0",
       "headsign": "ŚLAZOWA",
       "service_id": "4",
@@ -17807,7 +17807,7 @@
       ]
     },
     {
-      "trip_id": "4_17600173",
+      "trip_id": "4_17704186",
       "direction_id": "1",
       "headsign": "Kwiska",
       "service_id": "4",
@@ -17905,7 +17905,7 @@
       ]
     },
     {
-      "trip_id": "4_17600174",
+      "trip_id": "4_17704187",
       "direction_id": "0",
       "headsign": "ŚLAZOWA",
       "service_id": "4",
@@ -18003,7 +18003,7 @@
       ]
     },
     {
-      "trip_id": "4_17600175",
+      "trip_id": "4_17704188",
       "direction_id": "1",
       "headsign": "Kwiska",
       "service_id": "4",
@@ -18101,7 +18101,7 @@
       ]
     },
     {
-      "trip_id": "4_17600176",
+      "trip_id": "4_17704189",
       "direction_id": "0",
       "headsign": "ŚLAZOWA",
       "service_id": "4",
@@ -18199,7 +18199,7 @@
       ]
     },
     {
-      "trip_id": "4_17600177",
+      "trip_id": "4_17704190",
       "direction_id": "1",
       "headsign": "Kwiska",
       "service_id": "4",
@@ -18297,7 +18297,7 @@
       ]
     },
     {
-      "trip_id": "4_17600178",
+      "trip_id": "4_17704191",
       "direction_id": "0",
       "headsign": "ŚLAZOWA",
       "service_id": "4",
@@ -18395,7 +18395,7 @@
       ]
     },
     {
-      "trip_id": "4_17600179",
+      "trip_id": "4_17704192",
       "direction_id": "1",
       "headsign": "RĘDZIŃSKA",
       "service_id": "4",
@@ -18601,7 +18601,7 @@
       ]
     },
     {
-      "trip_id": "4_17600180",
+      "trip_id": "4_17704193",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "4",
@@ -18780,7 +18780,7 @@
       ]
     },
     {
-      "trip_id": "4_17600181",
+      "trip_id": "4_17704194",
       "direction_id": "1",
       "headsign": "RĘDZIŃSKA",
       "service_id": "4",
@@ -18959,7 +18959,7 @@
       ]
     },
     {
-      "trip_id": "4_17600182",
+      "trip_id": "4_17704195",
       "direction_id": "0",
       "headsign": "ŚLAZOWA",
       "service_id": "4",
@@ -19174,7 +19174,7 @@
       ]
     },
     {
-      "trip_id": "4_17600183",
+      "trip_id": "4_17704196",
       "direction_id": "1",
       "headsign": "RĘDZIŃSKA",
       "service_id": "4",
@@ -19380,7 +19380,7 @@
       ]
     },
     {
-      "trip_id": "4_17600184",
+      "trip_id": "4_17704197",
       "direction_id": "0",
       "headsign": "ŚLAZOWA",
       "service_id": "4",
@@ -19595,7 +19595,7 @@
       ]
     },
     {
-      "trip_id": "4_17600185",
+      "trip_id": "4_17704198",
       "direction_id": "1",
       "headsign": "Kwiska",
       "service_id": "4",
@@ -19693,7 +19693,7 @@
       ]
     },
     {
-      "trip_id": "4_17600186",
+      "trip_id": "4_17704199",
       "direction_id": "0",
       "headsign": "ŚLAZOWA",
       "service_id": "4",
@@ -19791,7 +19791,7 @@
       ]
     },
     {
-      "trip_id": "4_17600187",
+      "trip_id": "4_17704200",
       "direction_id": "1",
       "headsign": "Kwiska",
       "service_id": "4",
@@ -19889,7 +19889,7 @@
       ]
     },
     {
-      "trip_id": "4_17600188",
+      "trip_id": "4_17704201",
       "direction_id": "0",
       "headsign": "ŚLAZOWA",
       "service_id": "4",
@@ -19987,7 +19987,7 @@
       ]
     },
     {
-      "trip_id": "4_17600189",
+      "trip_id": "4_17704202",
       "direction_id": "1",
       "headsign": "Kwiska",
       "service_id": "4",
@@ -20085,7 +20085,7 @@
       ]
     },
     {
-      "trip_id": "4_17600190",
+      "trip_id": "4_17704203",
       "direction_id": "0",
       "headsign": "ŚLAZOWA",
       "service_id": "4",
@@ -20183,7 +20183,7 @@
       ]
     },
     {
-      "trip_id": "4_17600191",
+      "trip_id": "4_17704204",
       "direction_id": "1",
       "headsign": "Kwiska",
       "service_id": "4",
@@ -20281,7 +20281,7 @@
       ]
     },
     {
-      "trip_id": "4_17600192",
+      "trip_id": "4_17704205",
       "direction_id": "0",
       "headsign": "ŚLAZOWA",
       "service_id": "4",
@@ -20379,7 +20379,7 @@
       ]
     },
     {
-      "trip_id": "4_17600193",
+      "trip_id": "4_17704206",
       "direction_id": "1",
       "headsign": "Kwiska",
       "service_id": "4",
@@ -20477,7 +20477,7 @@
       ]
     },
     {
-      "trip_id": "4_17600194",
+      "trip_id": "4_17704207",
       "direction_id": "0",
       "headsign": "ŚLAZOWA",
       "service_id": "4",
@@ -20575,7 +20575,7 @@
       ]
     },
     {
-      "trip_id": "4_17600195",
+      "trip_id": "4_17704208",
       "direction_id": "1",
       "headsign": "Kwiska",
       "service_id": "4",
@@ -20673,7 +20673,7 @@
       ]
     },
     {
-      "trip_id": "4_17600196",
+      "trip_id": "4_17704209",
       "direction_id": "0",
       "headsign": "ŚLAZOWA",
       "service_id": "4",
@@ -20771,7 +20771,7 @@
       ]
     },
     {
-      "trip_id": "4_17600197",
+      "trip_id": "4_17704210",
       "direction_id": "1",
       "headsign": "RĘDZIŃSKA",
       "service_id": "4",
@@ -20977,7 +20977,7 @@
       ]
     },
     {
-      "trip_id": "4_17600198",
+      "trip_id": "4_17704211",
       "direction_id": "0",
       "headsign": "ŚLAZOWA",
       "service_id": "4",
@@ -21192,7 +21192,7 @@
       ]
     },
     {
-      "trip_id": "4_17600199",
+      "trip_id": "4_17704212",
       "direction_id": "1",
       "headsign": "RĘDZIŃSKA",
       "service_id": "4",
@@ -21398,7 +21398,7 @@
       ]
     },
     {
-      "trip_id": "4_17600200",
+      "trip_id": "4_17704213",
       "direction_id": "0",
       "headsign": "ŚLAZOWA",
       "service_id": "4",
@@ -21613,7 +21613,7 @@
       ]
     },
     {
-      "trip_id": "4_17600201",
+      "trip_id": "4_17704214",
       "direction_id": "1",
       "headsign": "RĘDZIŃSKA",
       "service_id": "4",
@@ -21819,7 +21819,7 @@
       ]
     },
     {
-      "trip_id": "4_17600202",
+      "trip_id": "4_17704215",
       "direction_id": "0",
       "headsign": "ŚLAZOWA",
       "service_id": "4",
@@ -22034,7 +22034,7 @@
       ]
     },
     {
-      "trip_id": "4_17600203",
+      "trip_id": "4_17704216",
       "direction_id": "1",
       "headsign": "RĘDZIŃSKA",
       "service_id": "4",
@@ -22240,7 +22240,7 @@
       ]
     },
     {
-      "trip_id": "4_17600204",
+      "trip_id": "4_17704217",
       "direction_id": "0",
       "headsign": "ŚLAZOWA",
       "service_id": "4",
@@ -22455,7 +22455,7 @@
       ]
     },
     {
-      "trip_id": "4_17600205",
+      "trip_id": "4_17704218",
       "direction_id": "1",
       "headsign": "RĘDZIŃSKA",
       "service_id": "4",
@@ -22661,7 +22661,7 @@
       ]
     },
     {
-      "trip_id": "4_17600206",
+      "trip_id": "4_17704219",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "4",
@@ -22840,7 +22840,7 @@
       ]
     },
     {
-      "trip_id": "6_17604652",
+      "trip_id": "6_17708665",
       "direction_id": "0",
       "headsign": "ŚLAZOWA",
       "service_id": "6",
@@ -22983,7 +22983,7 @@
       ]
     },
     {
-      "trip_id": "6_17604653",
+      "trip_id": "6_17708666",
       "direction_id": "1",
       "headsign": "RĘDZIŃSKA",
       "service_id": "6",
@@ -23189,7 +23189,7 @@
       ]
     },
     {
-      "trip_id": "6_17604654",
+      "trip_id": "6_17708667",
       "direction_id": "0",
       "headsign": "ŚLAZOWA",
       "service_id": "6",
@@ -23404,7 +23404,7 @@
       ]
     },
     {
-      "trip_id": "6_17604655",
+      "trip_id": "6_17708668",
       "direction_id": "1",
       "headsign": "PRACZE ODRZAŃSKIE",
       "service_id": "6",
@@ -23691,7 +23691,7 @@
       ]
     },
     {
-      "trip_id": "6_17604656",
+      "trip_id": "6_17708669",
       "direction_id": "0",
       "headsign": "ŚLAZOWA",
       "service_id": "6",
@@ -23978,7 +23978,7 @@
       ]
     },
     {
-      "trip_id": "6_17604657",
+      "trip_id": "6_17708670",
       "direction_id": "1",
       "headsign": "PRACZE ODRZAŃSKIE",
       "service_id": "6",
@@ -24265,7 +24265,7 @@
       ]
     },
     {
-      "trip_id": "6_17604658",
+      "trip_id": "6_17708671",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "6",
@@ -24516,7 +24516,7 @@
       ]
     },
     {
-      "trip_id": "6_17604659",
+      "trip_id": "6_17708672",
       "direction_id": "0",
       "headsign": "ŚLAZOWA",
       "service_id": "6",
@@ -24659,7 +24659,7 @@
       ]
     },
     {
-      "trip_id": "6_17604660",
+      "trip_id": "6_17708673",
       "direction_id": "1",
       "headsign": "RĘDZIŃSKA",
       "service_id": "6",
@@ -24865,7 +24865,7 @@
       ]
     },
     {
-      "trip_id": "6_17604661",
+      "trip_id": "6_17708674",
       "direction_id": "0",
       "headsign": "ŚLAZOWA",
       "service_id": "6",
@@ -25080,7 +25080,7 @@
       ]
     },
     {
-      "trip_id": "6_17604662",
+      "trip_id": "6_17708675",
       "direction_id": "1",
       "headsign": "PRACZE ODRZAŃSKIE",
       "service_id": "6",
@@ -25367,7 +25367,7 @@
       ]
     },
     {
-      "trip_id": "6_17604663",
+      "trip_id": "6_17708676",
       "direction_id": "0",
       "headsign": "ŚLAZOWA",
       "service_id": "6",
@@ -25654,7 +25654,7 @@
       ]
     },
     {
-      "trip_id": "6_17604664",
+      "trip_id": "6_17708677",
       "direction_id": "1",
       "headsign": "RĘDZIŃSKA",
       "service_id": "6",
@@ -25860,7 +25860,7 @@
       ]
     },
     {
-      "trip_id": "6_17604665",
+      "trip_id": "6_17708678",
       "direction_id": "0",
       "headsign": "ŚLAZOWA",
       "service_id": "6",
@@ -26075,7 +26075,7 @@
       ]
     },
     {
-      "trip_id": "6_17604666",
+      "trip_id": "6_17708679",
       "direction_id": "1",
       "headsign": "RĘDZIŃSKA",
       "service_id": "6",
@@ -26281,7 +26281,7 @@
       ]
     },
     {
-      "trip_id": "6_17604667",
+      "trip_id": "6_17708680",
       "direction_id": "0",
       "headsign": "ŚLAZOWA",
       "service_id": "6",
@@ -26496,7 +26496,7 @@
       ]
     },
     {
-      "trip_id": "6_17604668",
+      "trip_id": "6_17708681",
       "direction_id": "1",
       "headsign": "RĘDZIŃSKA",
       "service_id": "6",
@@ -26702,7 +26702,7 @@
       ]
     },
     {
-      "trip_id": "6_17604669",
+      "trip_id": "6_17708682",
       "direction_id": "0",
       "headsign": "ŚLAZOWA",
       "service_id": "6",
@@ -26917,7 +26917,7 @@
       ]
     },
     {
-      "trip_id": "6_17604670",
+      "trip_id": "6_17708683",
       "direction_id": "1",
       "headsign": "RĘDZIŃSKA",
       "service_id": "6",
@@ -27123,7 +27123,7 @@
       ]
     },
     {
-      "trip_id": "6_17604671",
+      "trip_id": "6_17708684",
       "direction_id": "0",
       "headsign": "ŚLAZOWA",
       "service_id": "6",
@@ -27338,7 +27338,7 @@
       ]
     },
     {
-      "trip_id": "6_17604672",
+      "trip_id": "6_17708685",
       "direction_id": "1",
       "headsign": "RĘDZIŃSKA",
       "service_id": "6",
@@ -27544,7 +27544,7 @@
       ]
     },
     {
-      "trip_id": "6_17604673",
+      "trip_id": "6_17708686",
       "direction_id": "0",
       "headsign": "ŚLAZOWA",
       "service_id": "6",
@@ -27759,7 +27759,7 @@
       ]
     },
     {
-      "trip_id": "6_17604674",
+      "trip_id": "6_17708687",
       "direction_id": "1",
       "headsign": "RĘDZIŃSKA",
       "service_id": "6",
@@ -27965,7 +27965,7 @@
       ]
     },
     {
-      "trip_id": "6_17604675",
+      "trip_id": "6_17708688",
       "direction_id": "0",
       "headsign": "ŚLAZOWA",
       "service_id": "6",
@@ -28180,7 +28180,7 @@
       ]
     },
     {
-      "trip_id": "6_17604676",
+      "trip_id": "6_17708689",
       "direction_id": "1",
       "headsign": "RĘDZIŃSKA",
       "service_id": "6",
@@ -28386,7 +28386,7 @@
       ]
     },
     {
-      "trip_id": "6_17604677",
+      "trip_id": "6_17708690",
       "direction_id": "0",
       "headsign": "ŚLAZOWA",
       "service_id": "6",
@@ -28601,7 +28601,7 @@
       ]
     },
     {
-      "trip_id": "6_17604678",
+      "trip_id": "6_17708691",
       "direction_id": "1",
       "headsign": "RĘDZIŃSKA",
       "service_id": "6",
@@ -28807,7 +28807,7 @@
       ]
     },
     {
-      "trip_id": "6_17604679",
+      "trip_id": "6_17708692",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "6",
@@ -28986,7 +28986,7 @@
       ]
     },
     {
-      "trip_id": "6_17604680",
+      "trip_id": "6_17708693",
       "direction_id": "0",
       "headsign": "ŚLAZOWA",
       "service_id": "6",
@@ -29129,7 +29129,7 @@
       ]
     },
     {
-      "trip_id": "6_17604681",
+      "trip_id": "6_17708694",
       "direction_id": "1",
       "headsign": "RĘDZIŃSKA",
       "service_id": "6",
@@ -29335,7 +29335,7 @@
       ]
     },
     {
-      "trip_id": "6_17604682",
+      "trip_id": "6_17708695",
       "direction_id": "0",
       "headsign": "ŚLAZOWA",
       "service_id": "6",
@@ -29550,7 +29550,7 @@
       ]
     },
     {
-      "trip_id": "6_17604683",
+      "trip_id": "6_17708696",
       "direction_id": "1",
       "headsign": "RĘDZIŃSKA",
       "service_id": "6",
@@ -29756,7 +29756,7 @@
       ]
     },
     {
-      "trip_id": "6_17604684",
+      "trip_id": "6_17708697",
       "direction_id": "0",
       "headsign": "ŚLAZOWA",
       "service_id": "6",
@@ -29971,7 +29971,7 @@
       ]
     },
     {
-      "trip_id": "6_17604685",
+      "trip_id": "6_17708698",
       "direction_id": "1",
       "headsign": "RĘDZIŃSKA",
       "service_id": "6",
@@ -30177,7 +30177,7 @@
       ]
     },
     {
-      "trip_id": "6_17604686",
+      "trip_id": "6_17708699",
       "direction_id": "0",
       "headsign": "ŚLAZOWA",
       "service_id": "6",
@@ -30392,7 +30392,7 @@
       ]
     },
     {
-      "trip_id": "6_17604687",
+      "trip_id": "6_17708700",
       "direction_id": "1",
       "headsign": "RĘDZIŃSKA",
       "service_id": "6",
@@ -30598,7 +30598,7 @@
       ]
     },
     {
-      "trip_id": "6_17604688",
+      "trip_id": "6_17708701",
       "direction_id": "0",
       "headsign": "ŚLAZOWA",
       "service_id": "6",
@@ -30813,7 +30813,7 @@
       ]
     },
     {
-      "trip_id": "6_17604689",
+      "trip_id": "6_17708702",
       "direction_id": "1",
       "headsign": "RĘDZIŃSKA",
       "service_id": "6",
@@ -31019,7 +31019,7 @@
       ]
     },
     {
-      "trip_id": "6_17604690",
+      "trip_id": "6_17708703",
       "direction_id": "0",
       "headsign": "ŚLAZOWA",
       "service_id": "6",
@@ -31234,7 +31234,7 @@
       ]
     },
     {
-      "trip_id": "6_17604691",
+      "trip_id": "6_17708704",
       "direction_id": "1",
       "headsign": "Kwiska",
       "service_id": "6",
@@ -31332,7 +31332,7 @@
       ]
     },
     {
-      "trip_id": "6_17604692",
+      "trip_id": "6_17708705",
       "direction_id": "0",
       "headsign": "ŚLAZOWA",
       "service_id": "6",
@@ -31430,7 +31430,7 @@
       ]
     },
     {
-      "trip_id": "6_17604693",
+      "trip_id": "6_17708706",
       "direction_id": "1",
       "headsign": "Kwiska",
       "service_id": "6",
@@ -31528,7 +31528,7 @@
       ]
     },
     {
-      "trip_id": "6_17604694",
+      "trip_id": "6_17708707",
       "direction_id": "0",
       "headsign": "ŚLAZOWA",
       "service_id": "6",
@@ -31626,7 +31626,7 @@
       ]
     },
     {
-      "trip_id": "6_17604695",
+      "trip_id": "6_17708708",
       "direction_id": "1",
       "headsign": "RĘDZIŃSKA",
       "service_id": "6",
@@ -31832,7 +31832,7 @@
       ]
     },
     {
-      "trip_id": "6_17604696",
+      "trip_id": "6_17708709",
       "direction_id": "0",
       "headsign": "ŚLAZOWA",
       "service_id": "6",
@@ -32047,7 +32047,7 @@
       ]
     },
     {
-      "trip_id": "6_17604697",
+      "trip_id": "6_17708710",
       "direction_id": "1",
       "headsign": "RĘDZIŃSKA",
       "service_id": "6",
@@ -32253,7 +32253,7 @@
       ]
     },
     {
-      "trip_id": "6_17604698",
+      "trip_id": "6_17708711",
       "direction_id": "0",
       "headsign": "ŚLAZOWA",
       "service_id": "6",
@@ -32468,7 +32468,7 @@
       ]
     },
     {
-      "trip_id": "6_17604699",
+      "trip_id": "6_17708712",
       "direction_id": "1",
       "headsign": "RĘDZIŃSKA",
       "service_id": "6",
@@ -32674,7 +32674,7 @@
       ]
     },
     {
-      "trip_id": "6_17604700",
+      "trip_id": "6_17708713",
       "direction_id": "0",
       "headsign": "ŚLAZOWA",
       "service_id": "6",
@@ -32889,7 +32889,7 @@
       ]
     },
     {
-      "trip_id": "6_17604701",
+      "trip_id": "6_17708714",
       "direction_id": "1",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "6",
@@ -33014,7 +33014,7 @@
       ]
     },
     {
-      "trip_id": "6_17604702",
+      "trip_id": "6_17708715",
       "direction_id": "1",
       "headsign": "RĘDZIŃSKA",
       "service_id": "6",
@@ -33193,7 +33193,7 @@
       ]
     },
     {
-      "trip_id": "6_17604703",
+      "trip_id": "6_17708716",
       "direction_id": "0",
       "headsign": "ŚLAZOWA",
       "service_id": "6",
@@ -33408,7 +33408,7 @@
       ]
     },
     {
-      "trip_id": "6_17604704",
+      "trip_id": "6_17708717",
       "direction_id": "1",
       "headsign": "RĘDZIŃSKA",
       "service_id": "6",
@@ -33614,7 +33614,7 @@
       ]
     },
     {
-      "trip_id": "6_17604705",
+      "trip_id": "6_17708718",
       "direction_id": "0",
       "headsign": "ŚLAZOWA",
       "service_id": "6",
@@ -33829,7 +33829,7 @@
       ]
     },
     {
-      "trip_id": "6_17604706",
+      "trip_id": "6_17708719",
       "direction_id": "1",
       "headsign": "PRACZE ODRZAŃSKIE",
       "service_id": "6",
@@ -34116,7 +34116,7 @@
       ]
     },
     {
-      "trip_id": "6_17604707",
+      "trip_id": "6_17708720",
       "direction_id": "0",
       "headsign": "ŚLAZOWA",
       "service_id": "6",
@@ -34403,7 +34403,7 @@
       ]
     },
     {
-      "trip_id": "6_17604708",
+      "trip_id": "6_17708721",
       "direction_id": "1",
       "headsign": "RĘDZIŃSKA",
       "service_id": "6",
@@ -34609,7 +34609,7 @@
       ]
     },
     {
-      "trip_id": "6_17604709",
+      "trip_id": "6_17708722",
       "direction_id": "0",
       "headsign": "ŚLAZOWA",
       "service_id": "6",
@@ -34824,7 +34824,7 @@
       ]
     },
     {
-      "trip_id": "6_17604710",
+      "trip_id": "6_17708723",
       "direction_id": "1",
       "headsign": "RĘDZIŃSKA",
       "service_id": "6",
@@ -35030,7 +35030,7 @@
       ]
     },
     {
-      "trip_id": "6_17604711",
+      "trip_id": "6_17708724",
       "direction_id": "0",
       "headsign": "ŚLAZOWA",
       "service_id": "6",
@@ -35245,7 +35245,7 @@
       ]
     },
     {
-      "trip_id": "6_17604712",
+      "trip_id": "6_17708725",
       "direction_id": "1",
       "headsign": "PRACZE ODRZAŃSKIE",
       "service_id": "6",
@@ -35532,7 +35532,7 @@
       ]
     },
     {
-      "trip_id": "6_17604713",
+      "trip_id": "6_17708726",
       "direction_id": "0",
       "headsign": "ŚLAZOWA",
       "service_id": "6",
@@ -35819,7 +35819,7 @@
       ]
     },
     {
-      "trip_id": "6_17604714",
+      "trip_id": "6_17708727",
       "direction_id": "1",
       "headsign": "RĘDZIŃSKA",
       "service_id": "6",
@@ -36025,7 +36025,7 @@
       ]
     },
     {
-      "trip_id": "6_17604715",
+      "trip_id": "6_17708728",
       "direction_id": "0",
       "headsign": "ŚLAZOWA",
       "service_id": "6",
@@ -36240,7 +36240,7 @@
       ]
     },
     {
-      "trip_id": "6_17604716",
+      "trip_id": "6_17708729",
       "direction_id": "1",
       "headsign": "RĘDZIŃSKA",
       "service_id": "6",
@@ -36446,7 +36446,7 @@
       ]
     },
     {
-      "trip_id": "6_17604717",
+      "trip_id": "6_17708730",
       "direction_id": "0",
       "headsign": "ŚLAZOWA",
       "service_id": "6",
@@ -36661,7 +36661,7 @@
       ]
     },
     {
-      "trip_id": "6_17604718",
+      "trip_id": "6_17708731",
       "direction_id": "1",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "6",
@@ -36786,7 +36786,7 @@
       ]
     },
     {
-      "trip_id": "6_17604719",
+      "trip_id": "6_17708732",
       "direction_id": "0",
       "headsign": "ŚLAZOWA",
       "service_id": "6",
@@ -36929,7 +36929,7 @@
       ]
     },
     {
-      "trip_id": "6_17604720",
+      "trip_id": "6_17708733",
       "direction_id": "1",
       "headsign": "RĘDZIŃSKA",
       "service_id": "6",
@@ -37135,7 +37135,7 @@
       ]
     },
     {
-      "trip_id": "6_17604721",
+      "trip_id": "6_17708734",
       "direction_id": "0",
       "headsign": "ŚLAZOWA",
       "service_id": "6",
@@ -37350,7 +37350,7 @@
       ]
     },
     {
-      "trip_id": "6_17604722",
+      "trip_id": "6_17708735",
       "direction_id": "1",
       "headsign": "RĘDZIŃSKA",
       "service_id": "6",
@@ -37556,7 +37556,7 @@
       ]
     },
     {
-      "trip_id": "6_17604723",
+      "trip_id": "6_17708736",
       "direction_id": "0",
       "headsign": "ŚLAZOWA",
       "service_id": "6",
@@ -37771,7 +37771,7 @@
       ]
     },
     {
-      "trip_id": "6_17604724",
+      "trip_id": "6_17708737",
       "direction_id": "1",
       "headsign": "RĘDZIŃSKA",
       "service_id": "6",
@@ -37977,7 +37977,7 @@
       ]
     },
     {
-      "trip_id": "6_17604725",
+      "trip_id": "6_17708738",
       "direction_id": "0",
       "headsign": "ŚLAZOWA",
       "service_id": "6",
@@ -38192,7 +38192,7 @@
       ]
     },
     {
-      "trip_id": "6_17604726",
+      "trip_id": "6_17708739",
       "direction_id": "1",
       "headsign": "RĘDZIŃSKA",
       "service_id": "6",
@@ -38398,7 +38398,7 @@
       ]
     },
     {
-      "trip_id": "6_17604727",
+      "trip_id": "6_17708740",
       "direction_id": "0",
       "headsign": "ŚLAZOWA",
       "service_id": "6",
@@ -38613,7 +38613,7 @@
       ]
     },
     {
-      "trip_id": "6_17604728",
+      "trip_id": "6_17708741",
       "direction_id": "1",
       "headsign": "RĘDZIŃSKA",
       "service_id": "6",
@@ -38819,7 +38819,7 @@
       ]
     },
     {
-      "trip_id": "6_17604729",
+      "trip_id": "6_17708742",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "6",
@@ -38998,7 +38998,7 @@
       ]
     },
     {
-      "trip_id": "6_17605035",
+      "trip_id": "6_17709048",
       "direction_id": "0",
       "headsign": "ŚLAZOWA",
       "service_id": "6",
@@ -39285,7 +39285,7 @@
       ]
     },
     {
-      "trip_id": "6_17605036",
+      "trip_id": "6_17709049",
       "direction_id": "1",
       "headsign": "RĘDZIŃSKA",
       "service_id": "6",
@@ -39491,7 +39491,7 @@
       ]
     },
     {
-      "trip_id": "6_17605037",
+      "trip_id": "6_17709050",
       "direction_id": "0",
       "headsign": "ŚLAZOWA",
       "service_id": "6",
@@ -39706,7 +39706,7 @@
       ]
     },
     {
-      "trip_id": "6_17605038",
+      "trip_id": "6_17709051",
       "direction_id": "1",
       "headsign": "PRACZE ODRZAŃSKIE",
       "service_id": "6",
@@ -39993,7 +39993,7 @@
       ]
     },
     {
-      "trip_id": "6_17605039",
+      "trip_id": "6_17709052",
       "direction_id": "0",
       "headsign": "ŚLAZOWA",
       "service_id": "6",
@@ -40280,7 +40280,7 @@
       ]
     },
     {
-      "trip_id": "6_17605040",
+      "trip_id": "6_17709053",
       "direction_id": "1",
       "headsign": "PRACZE ODRZAŃSKIE",
       "service_id": "6",
@@ -40567,7 +40567,7 @@
       ]
     },
     {
-      "trip_id": "6_17605041",
+      "trip_id": "6_17709054",
       "direction_id": "0",
       "headsign": "ŚLAZOWA",
       "service_id": "6",
@@ -40854,7 +40854,7 @@
       ]
     },
     {
-      "trip_id": "6_17605042",
+      "trip_id": "6_17709055",
       "direction_id": "1",
       "headsign": "RĘDZIŃSKA",
       "service_id": "6",
@@ -41060,7 +41060,7 @@
       ]
     },
     {
-      "trip_id": "6_17605043",
+      "trip_id": "6_17709056",
       "direction_id": "0",
       "headsign": "ŚLAZOWA",
       "service_id": "6",
@@ -41275,7 +41275,7 @@
       ]
     },
     {
-      "trip_id": "6_17605044",
+      "trip_id": "6_17709057",
       "direction_id": "1",
       "headsign": "RĘDZIŃSKA",
       "service_id": "6",
@@ -41481,7 +41481,7 @@
       ]
     },
     {
-      "trip_id": "6_17605045",
+      "trip_id": "6_17709058",
       "direction_id": "0",
       "headsign": "ŚLAZOWA",
       "service_id": "6",
@@ -41696,7 +41696,7 @@
       ]
     },
     {
-      "trip_id": "6_17605046",
+      "trip_id": "6_17709059",
       "direction_id": "1",
       "headsign": "RĘDZIŃSKA",
       "service_id": "6",
@@ -41902,7 +41902,7 @@
       ]
     },
     {
-      "trip_id": "6_17605047",
+      "trip_id": "6_17709060",
       "direction_id": "0",
       "headsign": "ŚLAZOWA",
       "service_id": "6",
@@ -42117,7 +42117,7 @@
       ]
     },
     {
-      "trip_id": "6_17605048",
+      "trip_id": "6_17709061",
       "direction_id": "1",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "6",
@@ -42242,7 +42242,7 @@
       ]
     },
     {
-      "trip_id": "8_17611478",
+      "trip_id": "8_17715491",
       "direction_id": "0",
       "headsign": "ŚLAZOWA",
       "service_id": "8",
@@ -42385,7 +42385,7 @@
       ]
     },
     {
-      "trip_id": "8_17611479",
+      "trip_id": "8_17715492",
       "direction_id": "1",
       "headsign": "RĘDZIŃSKA",
       "service_id": "8",
@@ -42591,7 +42591,7 @@
       ]
     },
     {
-      "trip_id": "8_17611480",
+      "trip_id": "8_17715493",
       "direction_id": "0",
       "headsign": "ŚLAZOWA",
       "service_id": "8",
@@ -42806,7 +42806,7 @@
       ]
     },
     {
-      "trip_id": "8_17611481",
+      "trip_id": "8_17715494",
       "direction_id": "1",
       "headsign": "PRACZE ODRZAŃSKIE",
       "service_id": "8",
@@ -43093,7 +43093,7 @@
       ]
     },
     {
-      "trip_id": "8_17611482",
+      "trip_id": "8_17715495",
       "direction_id": "0",
       "headsign": "ŚLAZOWA",
       "service_id": "8",
@@ -43380,7 +43380,7 @@
       ]
     },
     {
-      "trip_id": "8_17611483",
+      "trip_id": "8_17715496",
       "direction_id": "1",
       "headsign": "PRACZE ODRZAŃSKIE",
       "service_id": "8",
@@ -43667,7 +43667,7 @@
       ]
     },
     {
-      "trip_id": "8_17611484",
+      "trip_id": "8_17715497",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "8",
@@ -43918,7 +43918,7 @@
       ]
     },
     {
-      "trip_id": "8_17611485",
+      "trip_id": "8_17715498",
       "direction_id": "0",
       "headsign": "ŚLAZOWA",
       "service_id": "8",
@@ -44061,7 +44061,7 @@
       ]
     },
     {
-      "trip_id": "8_17611486",
+      "trip_id": "8_17715499",
       "direction_id": "1",
       "headsign": "RĘDZIŃSKA",
       "service_id": "8",
@@ -44267,7 +44267,7 @@
       ]
     },
     {
-      "trip_id": "8_17611487",
+      "trip_id": "8_17715500",
       "direction_id": "0",
       "headsign": "ŚLAZOWA",
       "service_id": "8",
@@ -44482,7 +44482,7 @@
       ]
     },
     {
-      "trip_id": "8_17611488",
+      "trip_id": "8_17715501",
       "direction_id": "1",
       "headsign": "PRACZE ODRZAŃSKIE",
       "service_id": "8",
@@ -44769,7 +44769,7 @@
       ]
     },
     {
-      "trip_id": "8_17611489",
+      "trip_id": "8_17715502",
       "direction_id": "0",
       "headsign": "ŚLAZOWA",
       "service_id": "8",
@@ -45056,7 +45056,7 @@
       ]
     },
     {
-      "trip_id": "8_17611490",
+      "trip_id": "8_17715503",
       "direction_id": "1",
       "headsign": "RĘDZIŃSKA",
       "service_id": "8",
@@ -45262,7 +45262,7 @@
       ]
     },
     {
-      "trip_id": "8_17611491",
+      "trip_id": "8_17715504",
       "direction_id": "0",
       "headsign": "ŚLAZOWA",
       "service_id": "8",
@@ -45477,7 +45477,7 @@
       ]
     },
     {
-      "trip_id": "8_17611492",
+      "trip_id": "8_17715505",
       "direction_id": "1",
       "headsign": "RĘDZIŃSKA",
       "service_id": "8",
@@ -45683,7 +45683,7 @@
       ]
     },
     {
-      "trip_id": "8_17611493",
+      "trip_id": "8_17715506",
       "direction_id": "0",
       "headsign": "ŚLAZOWA",
       "service_id": "8",
@@ -45898,7 +45898,7 @@
       ]
     },
     {
-      "trip_id": "8_17611494",
+      "trip_id": "8_17715507",
       "direction_id": "1",
       "headsign": "RĘDZIŃSKA",
       "service_id": "8",
@@ -46104,7 +46104,7 @@
       ]
     },
     {
-      "trip_id": "8_17611495",
+      "trip_id": "8_17715508",
       "direction_id": "0",
       "headsign": "ŚLAZOWA",
       "service_id": "8",
@@ -46319,7 +46319,7 @@
       ]
     },
     {
-      "trip_id": "8_17611496",
+      "trip_id": "8_17715509",
       "direction_id": "1",
       "headsign": "RĘDZIŃSKA",
       "service_id": "8",
@@ -46525,7 +46525,7 @@
       ]
     },
     {
-      "trip_id": "8_17611497",
+      "trip_id": "8_17715510",
       "direction_id": "0",
       "headsign": "ŚLAZOWA",
       "service_id": "8",
@@ -46740,7 +46740,7 @@
       ]
     },
     {
-      "trip_id": "8_17611498",
+      "trip_id": "8_17715511",
       "direction_id": "1",
       "headsign": "RĘDZIŃSKA",
       "service_id": "8",
@@ -46946,7 +46946,7 @@
       ]
     },
     {
-      "trip_id": "8_17611499",
+      "trip_id": "8_17715512",
       "direction_id": "0",
       "headsign": "ŚLAZOWA",
       "service_id": "8",
@@ -47161,7 +47161,7 @@
       ]
     },
     {
-      "trip_id": "8_17611500",
+      "trip_id": "8_17715513",
       "direction_id": "1",
       "headsign": "RĘDZIŃSKA",
       "service_id": "8",
@@ -47367,7 +47367,7 @@
       ]
     },
     {
-      "trip_id": "8_17611501",
+      "trip_id": "8_17715514",
       "direction_id": "0",
       "headsign": "ŚLAZOWA",
       "service_id": "8",
@@ -47582,7 +47582,7 @@
       ]
     },
     {
-      "trip_id": "8_17611502",
+      "trip_id": "8_17715515",
       "direction_id": "1",
       "headsign": "RĘDZIŃSKA",
       "service_id": "8",
@@ -47788,7 +47788,7 @@
       ]
     },
     {
-      "trip_id": "8_17611503",
+      "trip_id": "8_17715516",
       "direction_id": "0",
       "headsign": "ŚLAZOWA",
       "service_id": "8",
@@ -48003,7 +48003,7 @@
       ]
     },
     {
-      "trip_id": "8_17611504",
+      "trip_id": "8_17715517",
       "direction_id": "1",
       "headsign": "RĘDZIŃSKA",
       "service_id": "8",
@@ -48209,7 +48209,7 @@
       ]
     },
     {
-      "trip_id": "8_17611505",
+      "trip_id": "8_17715518",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "8",
@@ -48388,7 +48388,7 @@
       ]
     },
     {
-      "trip_id": "8_17611506",
+      "trip_id": "8_17715519",
       "direction_id": "0",
       "headsign": "ŚLAZOWA",
       "service_id": "8",
@@ -48531,7 +48531,7 @@
       ]
     },
     {
-      "trip_id": "8_17611507",
+      "trip_id": "8_17715520",
       "direction_id": "1",
       "headsign": "RĘDZIŃSKA",
       "service_id": "8",
@@ -48737,7 +48737,7 @@
       ]
     },
     {
-      "trip_id": "8_17611508",
+      "trip_id": "8_17715521",
       "direction_id": "0",
       "headsign": "ŚLAZOWA",
       "service_id": "8",
@@ -48952,7 +48952,7 @@
       ]
     },
     {
-      "trip_id": "8_17611509",
+      "trip_id": "8_17715522",
       "direction_id": "1",
       "headsign": "RĘDZIŃSKA",
       "service_id": "8",
@@ -49158,7 +49158,7 @@
       ]
     },
     {
-      "trip_id": "8_17611510",
+      "trip_id": "8_17715523",
       "direction_id": "0",
       "headsign": "ŚLAZOWA",
       "service_id": "8",
@@ -49373,7 +49373,7 @@
       ]
     },
     {
-      "trip_id": "8_17611511",
+      "trip_id": "8_17715524",
       "direction_id": "1",
       "headsign": "RĘDZIŃSKA",
       "service_id": "8",
@@ -49579,7 +49579,7 @@
       ]
     },
     {
-      "trip_id": "8_17611512",
+      "trip_id": "8_17715525",
       "direction_id": "0",
       "headsign": "ŚLAZOWA",
       "service_id": "8",
@@ -49794,7 +49794,7 @@
       ]
     },
     {
-      "trip_id": "8_17611513",
+      "trip_id": "8_17715526",
       "direction_id": "1",
       "headsign": "RĘDZIŃSKA",
       "service_id": "8",
@@ -50000,7 +50000,7 @@
       ]
     },
     {
-      "trip_id": "8_17611514",
+      "trip_id": "8_17715527",
       "direction_id": "0",
       "headsign": "ŚLAZOWA",
       "service_id": "8",
@@ -50215,7 +50215,7 @@
       ]
     },
     {
-      "trip_id": "8_17611515",
+      "trip_id": "8_17715528",
       "direction_id": "1",
       "headsign": "RĘDZIŃSKA",
       "service_id": "8",
@@ -50421,7 +50421,7 @@
       ]
     },
     {
-      "trip_id": "8_17611516",
+      "trip_id": "8_17715529",
       "direction_id": "0",
       "headsign": "ŚLAZOWA",
       "service_id": "8",
@@ -50636,7 +50636,7 @@
       ]
     },
     {
-      "trip_id": "8_17611517",
+      "trip_id": "8_17715530",
       "direction_id": "1",
       "headsign": "Kwiska",
       "service_id": "8",
@@ -50734,7 +50734,7 @@
       ]
     },
     {
-      "trip_id": "8_17611518",
+      "trip_id": "8_17715531",
       "direction_id": "0",
       "headsign": "ŚLAZOWA",
       "service_id": "8",
@@ -50832,7 +50832,7 @@
       ]
     },
     {
-      "trip_id": "8_17611519",
+      "trip_id": "8_17715532",
       "direction_id": "1",
       "headsign": "Kwiska",
       "service_id": "8",
@@ -50930,7 +50930,7 @@
       ]
     },
     {
-      "trip_id": "8_17611520",
+      "trip_id": "8_17715533",
       "direction_id": "0",
       "headsign": "ŚLAZOWA",
       "service_id": "8",
@@ -51028,7 +51028,7 @@
       ]
     },
     {
-      "trip_id": "8_17611521",
+      "trip_id": "8_17715534",
       "direction_id": "1",
       "headsign": "RĘDZIŃSKA",
       "service_id": "8",
@@ -51234,7 +51234,7 @@
       ]
     },
     {
-      "trip_id": "8_17611522",
+      "trip_id": "8_17715535",
       "direction_id": "0",
       "headsign": "ŚLAZOWA",
       "service_id": "8",
@@ -51449,7 +51449,7 @@
       ]
     },
     {
-      "trip_id": "8_17611523",
+      "trip_id": "8_17715536",
       "direction_id": "1",
       "headsign": "RĘDZIŃSKA",
       "service_id": "8",
@@ -51655,7 +51655,7 @@
       ]
     },
     {
-      "trip_id": "8_17611524",
+      "trip_id": "8_17715537",
       "direction_id": "0",
       "headsign": "ŚLAZOWA",
       "service_id": "8",
@@ -51870,7 +51870,7 @@
       ]
     },
     {
-      "trip_id": "8_17611525",
+      "trip_id": "8_17715538",
       "direction_id": "1",
       "headsign": "RĘDZIŃSKA",
       "service_id": "8",
@@ -52076,7 +52076,7 @@
       ]
     },
     {
-      "trip_id": "8_17611526",
+      "trip_id": "8_17715539",
       "direction_id": "0",
       "headsign": "ŚLAZOWA",
       "service_id": "8",
@@ -52291,7 +52291,7 @@
       ]
     },
     {
-      "trip_id": "8_17611527",
+      "trip_id": "8_17715540",
       "direction_id": "1",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "8",
@@ -52416,7 +52416,7 @@
       ]
     },
     {
-      "trip_id": "8_17611528",
+      "trip_id": "8_17715541",
       "direction_id": "1",
       "headsign": "RĘDZIŃSKA",
       "service_id": "8",
@@ -52595,7 +52595,7 @@
       ]
     },
     {
-      "trip_id": "8_17611529",
+      "trip_id": "8_17715542",
       "direction_id": "0",
       "headsign": "ŚLAZOWA",
       "service_id": "8",
@@ -52810,7 +52810,7 @@
       ]
     },
     {
-      "trip_id": "8_17611530",
+      "trip_id": "8_17715543",
       "direction_id": "1",
       "headsign": "RĘDZIŃSKA",
       "service_id": "8",
@@ -53016,7 +53016,7 @@
       ]
     },
     {
-      "trip_id": "8_17611531",
+      "trip_id": "8_17715544",
       "direction_id": "0",
       "headsign": "ŚLAZOWA",
       "service_id": "8",
@@ -53231,7 +53231,7 @@
       ]
     },
     {
-      "trip_id": "8_17611532",
+      "trip_id": "8_17715545",
       "direction_id": "1",
       "headsign": "PRACZE ODRZAŃSKIE",
       "service_id": "8",
@@ -53518,7 +53518,7 @@
       ]
     },
     {
-      "trip_id": "8_17611533",
+      "trip_id": "8_17715546",
       "direction_id": "0",
       "headsign": "ŚLAZOWA",
       "service_id": "8",
@@ -53805,7 +53805,7 @@
       ]
     },
     {
-      "trip_id": "8_17611534",
+      "trip_id": "8_17715547",
       "direction_id": "1",
       "headsign": "RĘDZIŃSKA",
       "service_id": "8",
@@ -54011,7 +54011,7 @@
       ]
     },
     {
-      "trip_id": "8_17611535",
+      "trip_id": "8_17715548",
       "direction_id": "0",
       "headsign": "ŚLAZOWA",
       "service_id": "8",
@@ -54226,7 +54226,7 @@
       ]
     },
     {
-      "trip_id": "8_17611536",
+      "trip_id": "8_17715549",
       "direction_id": "1",
       "headsign": "RĘDZIŃSKA",
       "service_id": "8",
@@ -54432,7 +54432,7 @@
       ]
     },
     {
-      "trip_id": "8_17611537",
+      "trip_id": "8_17715550",
       "direction_id": "0",
       "headsign": "ŚLAZOWA",
       "service_id": "8",
@@ -54647,7 +54647,7 @@
       ]
     },
     {
-      "trip_id": "8_17611538",
+      "trip_id": "8_17715551",
       "direction_id": "1",
       "headsign": "PRACZE ODRZAŃSKIE",
       "service_id": "8",
@@ -54934,7 +54934,7 @@
       ]
     },
     {
-      "trip_id": "8_17611539",
+      "trip_id": "8_17715552",
       "direction_id": "0",
       "headsign": "ŚLAZOWA",
       "service_id": "8",
@@ -55221,7 +55221,7 @@
       ]
     },
     {
-      "trip_id": "8_17611540",
+      "trip_id": "8_17715553",
       "direction_id": "1",
       "headsign": "RĘDZIŃSKA",
       "service_id": "8",
@@ -55427,7 +55427,7 @@
       ]
     },
     {
-      "trip_id": "8_17611541",
+      "trip_id": "8_17715554",
       "direction_id": "0",
       "headsign": "ŚLAZOWA",
       "service_id": "8",
@@ -55642,7 +55642,7 @@
       ]
     },
     {
-      "trip_id": "8_17611542",
+      "trip_id": "8_17715555",
       "direction_id": "1",
       "headsign": "RĘDZIŃSKA",
       "service_id": "8",
@@ -55848,7 +55848,7 @@
       ]
     },
     {
-      "trip_id": "8_17611543",
+      "trip_id": "8_17715556",
       "direction_id": "0",
       "headsign": "ŚLAZOWA",
       "service_id": "8",
@@ -56063,7 +56063,7 @@
       ]
     },
     {
-      "trip_id": "8_17611544",
+      "trip_id": "8_17715557",
       "direction_id": "1",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "8",
@@ -56188,7 +56188,7 @@
       ]
     },
     {
-      "trip_id": "8_17611545",
+      "trip_id": "8_17715558",
       "direction_id": "0",
       "headsign": "ŚLAZOWA",
       "service_id": "8",
@@ -56331,7 +56331,7 @@
       ]
     },
     {
-      "trip_id": "8_17611546",
+      "trip_id": "8_17715559",
       "direction_id": "1",
       "headsign": "RĘDZIŃSKA",
       "service_id": "8",
@@ -56537,7 +56537,7 @@
       ]
     },
     {
-      "trip_id": "8_17611547",
+      "trip_id": "8_17715560",
       "direction_id": "0",
       "headsign": "ŚLAZOWA",
       "service_id": "8",
@@ -56752,7 +56752,7 @@
       ]
     },
     {
-      "trip_id": "8_17611548",
+      "trip_id": "8_17715561",
       "direction_id": "1",
       "headsign": "RĘDZIŃSKA",
       "service_id": "8",
@@ -56958,7 +56958,7 @@
       ]
     },
     {
-      "trip_id": "8_17611549",
+      "trip_id": "8_17715562",
       "direction_id": "0",
       "headsign": "ŚLAZOWA",
       "service_id": "8",
@@ -57173,7 +57173,7 @@
       ]
     },
     {
-      "trip_id": "8_17611550",
+      "trip_id": "8_17715563",
       "direction_id": "1",
       "headsign": "RĘDZIŃSKA",
       "service_id": "8",
@@ -57379,7 +57379,7 @@
       ]
     },
     {
-      "trip_id": "8_17611551",
+      "trip_id": "8_17715564",
       "direction_id": "0",
       "headsign": "ŚLAZOWA",
       "service_id": "8",
@@ -57594,7 +57594,7 @@
       ]
     },
     {
-      "trip_id": "8_17611552",
+      "trip_id": "8_17715565",
       "direction_id": "1",
       "headsign": "RĘDZIŃSKA",
       "service_id": "8",
@@ -57800,7 +57800,7 @@
       ]
     },
     {
-      "trip_id": "8_17611553",
+      "trip_id": "8_17715566",
       "direction_id": "0",
       "headsign": "ŚLAZOWA",
       "service_id": "8",
@@ -58015,7 +58015,7 @@
       ]
     },
     {
-      "trip_id": "8_17611554",
+      "trip_id": "8_17715567",
       "direction_id": "1",
       "headsign": "RĘDZIŃSKA",
       "service_id": "8",
@@ -58221,7 +58221,7 @@
       ]
     },
     {
-      "trip_id": "8_17611555",
+      "trip_id": "8_17715568",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "8",
@@ -58400,7 +58400,7 @@
       ]
     },
     {
-      "trip_id": "8_17611861",
+      "trip_id": "8_17715874",
       "direction_id": "0",
       "headsign": "ŚLAZOWA",
       "service_id": "8",
@@ -58687,7 +58687,7 @@
       ]
     },
     {
-      "trip_id": "8_17611862",
+      "trip_id": "8_17715875",
       "direction_id": "1",
       "headsign": "RĘDZIŃSKA",
       "service_id": "8",
@@ -58893,7 +58893,7 @@
       ]
     },
     {
-      "trip_id": "8_17611863",
+      "trip_id": "8_17715876",
       "direction_id": "0",
       "headsign": "ŚLAZOWA",
       "service_id": "8",
@@ -59108,7 +59108,7 @@
       ]
     },
     {
-      "trip_id": "8_17611864",
+      "trip_id": "8_17715877",
       "direction_id": "1",
       "headsign": "PRACZE ODRZAŃSKIE",
       "service_id": "8",
@@ -59395,7 +59395,7 @@
       ]
     },
     {
-      "trip_id": "8_17611865",
+      "trip_id": "8_17715878",
       "direction_id": "0",
       "headsign": "ŚLAZOWA",
       "service_id": "8",
@@ -59682,7 +59682,7 @@
       ]
     },
     {
-      "trip_id": "8_17611866",
+      "trip_id": "8_17715879",
       "direction_id": "1",
       "headsign": "PRACZE ODRZAŃSKIE",
       "service_id": "8",
@@ -59969,7 +59969,7 @@
       ]
     },
     {
-      "trip_id": "8_17611867",
+      "trip_id": "8_17715880",
       "direction_id": "0",
       "headsign": "ŚLAZOWA",
       "service_id": "8",
@@ -60256,7 +60256,7 @@
       ]
     },
     {
-      "trip_id": "8_17611868",
+      "trip_id": "8_17715881",
       "direction_id": "1",
       "headsign": "RĘDZIŃSKA",
       "service_id": "8",
@@ -60462,7 +60462,7 @@
       ]
     },
     {
-      "trip_id": "8_17611869",
+      "trip_id": "8_17715882",
       "direction_id": "0",
       "headsign": "ŚLAZOWA",
       "service_id": "8",
@@ -60677,7 +60677,7 @@
       ]
     },
     {
-      "trip_id": "8_17611870",
+      "trip_id": "8_17715883",
       "direction_id": "1",
       "headsign": "RĘDZIŃSKA",
       "service_id": "8",
@@ -60883,7 +60883,7 @@
       ]
     },
     {
-      "trip_id": "8_17611871",
+      "trip_id": "8_17715884",
       "direction_id": "0",
       "headsign": "ŚLAZOWA",
       "service_id": "8",
@@ -61098,7 +61098,7 @@
       ]
     },
     {
-      "trip_id": "8_17611872",
+      "trip_id": "8_17715885",
       "direction_id": "1",
       "headsign": "RĘDZIŃSKA",
       "service_id": "8",
@@ -61304,7 +61304,7 @@
       ]
     },
     {
-      "trip_id": "8_17611873",
+      "trip_id": "8_17715886",
       "direction_id": "0",
       "headsign": "ŚLAZOWA",
       "service_id": "8",
@@ -61519,7 +61519,7 @@
       ]
     },
     {
-      "trip_id": "8_17611874",
+      "trip_id": "8_17715887",
       "direction_id": "1",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "8",

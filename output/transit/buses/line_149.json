@@ -2,7 +2,7 @@
   "line": "149",
   "trips": [
     {
-      "trip_id": "3_17598548",
+      "trip_id": "3_17702561",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "3",
@@ -154,7 +154,7 @@
       ]
     },
     {
-      "trip_id": "3_17598549",
+      "trip_id": "3_17702562",
       "direction_id": "1",
       "headsign": "KUŹNIKI",
       "service_id": "3",
@@ -360,7 +360,7 @@
       ]
     },
     {
-      "trip_id": "3_17598550",
+      "trip_id": "3_17702563",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "3",
@@ -575,7 +575,7 @@
       ]
     },
     {
-      "trip_id": "3_17598551",
+      "trip_id": "3_17702564",
       "direction_id": "1",
       "headsign": "KUŹNIKI",
       "service_id": "3",
@@ -781,7 +781,7 @@
       ]
     },
     {
-      "trip_id": "3_17598552",
+      "trip_id": "3_17702565",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "3",
@@ -996,7 +996,7 @@
       ]
     },
     {
-      "trip_id": "3_17598553",
+      "trip_id": "3_17702566",
       "direction_id": "1",
       "headsign": "KUŹNIKI",
       "service_id": "3",
@@ -1202,7 +1202,7 @@
       ]
     },
     {
-      "trip_id": "3_17598554",
+      "trip_id": "3_17702567",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "3",
@@ -1417,7 +1417,7 @@
       ]
     },
     {
-      "trip_id": "3_17598555",
+      "trip_id": "3_17702568",
       "direction_id": "1",
       "headsign": "KUŹNIKI",
       "service_id": "3",
@@ -1623,7 +1623,7 @@
       ]
     },
     {
-      "trip_id": "3_17598556",
+      "trip_id": "3_17702569",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "3",
@@ -1838,7 +1838,7 @@
       ]
     },
     {
-      "trip_id": "3_17598557",
+      "trip_id": "3_17702570",
       "direction_id": "1",
       "headsign": "KUŹNIKI",
       "service_id": "3",
@@ -2044,7 +2044,7 @@
       ]
     },
     {
-      "trip_id": "3_17598558",
+      "trip_id": "3_17702571",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "3",
@@ -2259,7 +2259,7 @@
       ]
     },
     {
-      "trip_id": "3_17598559",
+      "trip_id": "3_17702572",
       "direction_id": "1",
       "headsign": "KUŹNIKI",
       "service_id": "3",
@@ -2465,7 +2465,7 @@
       ]
     },
     {
-      "trip_id": "3_17598560",
+      "trip_id": "3_17702573",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "3",
@@ -2680,7 +2680,7 @@
       ]
     },
     {
-      "trip_id": "3_17598561",
+      "trip_id": "3_17702574",
       "direction_id": "1",
       "headsign": "KUŹNIKI",
       "service_id": "3",
@@ -2886,7 +2886,7 @@
       ]
     },
     {
-      "trip_id": "3_17598562",
+      "trip_id": "3_17702575",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "3",
@@ -3101,7 +3101,7 @@
       ]
     },
     {
-      "trip_id": "3_17598563",
+      "trip_id": "3_17702576",
       "direction_id": "1",
       "headsign": "KUŹNIKI",
       "service_id": "3",
@@ -3307,7 +3307,7 @@
       ]
     },
     {
-      "trip_id": "3_17598564",
+      "trip_id": "3_17702577",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "3",
@@ -3522,7 +3522,7 @@
       ]
     },
     {
-      "trip_id": "3_17598565",
+      "trip_id": "3_17702578",
       "direction_id": "1",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "3",
@@ -3665,7 +3665,7 @@
       ]
     },
     {
-      "trip_id": "3_17598566",
+      "trip_id": "3_17702579",
       "direction_id": "1",
       "headsign": "KUŹNIKI",
       "service_id": "3",
@@ -3799,7 +3799,7 @@
       ]
     },
     {
-      "trip_id": "3_17598567",
+      "trip_id": "3_17702580",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "3",
@@ -4014,7 +4014,7 @@
       ]
     },
     {
-      "trip_id": "3_17598568",
+      "trip_id": "3_17702581",
       "direction_id": "1",
       "headsign": "KUŹNIKI",
       "service_id": "3",
@@ -4220,7 +4220,7 @@
       ]
     },
     {
-      "trip_id": "3_17598569",
+      "trip_id": "3_17702582",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "3",
@@ -4435,7 +4435,7 @@
       ]
     },
     {
-      "trip_id": "3_17598570",
+      "trip_id": "3_17702583",
       "direction_id": "1",
       "headsign": "KUŹNIKI",
       "service_id": "3",
@@ -4641,7 +4641,7 @@
       ]
     },
     {
-      "trip_id": "3_17598571",
+      "trip_id": "3_17702584",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "3",
@@ -4856,7 +4856,7 @@
       ]
     },
     {
-      "trip_id": "3_17598572",
+      "trip_id": "3_17702585",
       "direction_id": "1",
       "headsign": "KUŹNIKI",
       "service_id": "3",
@@ -5062,7 +5062,7 @@
       ]
     },
     {
-      "trip_id": "3_17598573",
+      "trip_id": "3_17702586",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "3",
@@ -5277,7 +5277,7 @@
       ]
     },
     {
-      "trip_id": "3_17598574",
+      "trip_id": "3_17702587",
       "direction_id": "1",
       "headsign": "KUŹNIKI",
       "service_id": "3",
@@ -5483,7 +5483,7 @@
       ]
     },
     {
-      "trip_id": "3_17598575",
+      "trip_id": "3_17702588",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "3",
@@ -5698,7 +5698,7 @@
       ]
     },
     {
-      "trip_id": "3_17598576",
+      "trip_id": "3_17702589",
       "direction_id": "1",
       "headsign": "KUŹNIKI",
       "service_id": "3",
@@ -5904,7 +5904,7 @@
       ]
     },
     {
-      "trip_id": "3_17598577",
+      "trip_id": "3_17702590",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "3",
@@ -6119,7 +6119,7 @@
       ]
     },
     {
-      "trip_id": "3_17598578",
+      "trip_id": "3_17702591",
       "direction_id": "1",
       "headsign": "KUŹNIKI",
       "service_id": "3",
@@ -6325,7 +6325,7 @@
       ]
     },
     {
-      "trip_id": "3_17598579",
+      "trip_id": "3_17702592",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "3",
@@ -6540,7 +6540,7 @@
       ]
     },
     {
-      "trip_id": "3_17598580",
+      "trip_id": "3_17702593",
       "direction_id": "1",
       "headsign": "KUŹNIKI",
       "service_id": "3",
@@ -6746,7 +6746,7 @@
       ]
     },
     {
-      "trip_id": "3_17598581",
+      "trip_id": "3_17702594",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "3",
@@ -6961,7 +6961,7 @@
       ]
     },
     {
-      "trip_id": "3_17598582",
+      "trip_id": "3_17702595",
       "direction_id": "1",
       "headsign": "KUŹNIKI",
       "service_id": "3",
@@ -7167,7 +7167,7 @@
       ]
     },
     {
-      "trip_id": "3_17598583",
+      "trip_id": "3_17702596",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "3",
@@ -7382,7 +7382,7 @@
       ]
     },
     {
-      "trip_id": "3_17598584",
+      "trip_id": "3_17702597",
       "direction_id": "1",
       "headsign": "KUŹNIKI",
       "service_id": "3",
@@ -7588,7 +7588,7 @@
       ]
     },
     {
-      "trip_id": "3_17598585",
+      "trip_id": "3_17702598",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "3",
@@ -7803,7 +7803,7 @@
       ]
     },
     {
-      "trip_id": "3_17598586",
+      "trip_id": "3_17702599",
       "direction_id": "1",
       "headsign": "KUŹNIKI",
       "service_id": "3",
@@ -8009,7 +8009,7 @@
       ]
     },
     {
-      "trip_id": "3_17598587",
+      "trip_id": "3_17702600",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "3",
@@ -8161,7 +8161,7 @@
       ]
     },
     {
-      "trip_id": "3_17598588",
+      "trip_id": "3_17702601",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "3",
@@ -8313,7 +8313,7 @@
       ]
     },
     {
-      "trip_id": "3_17598589",
+      "trip_id": "3_17702602",
       "direction_id": "1",
       "headsign": "KUŹNIKI",
       "service_id": "3",
@@ -8519,7 +8519,7 @@
       ]
     },
     {
-      "trip_id": "3_17598590",
+      "trip_id": "3_17702603",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "3",
@@ -8734,7 +8734,7 @@
       ]
     },
     {
-      "trip_id": "3_17598591",
+      "trip_id": "3_17702604",
       "direction_id": "1",
       "headsign": "KUŹNIKI",
       "service_id": "3",
@@ -8940,7 +8940,7 @@
       ]
     },
     {
-      "trip_id": "3_17598592",
+      "trip_id": "3_17702605",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "3",
@@ -9155,7 +9155,7 @@
       ]
     },
     {
-      "trip_id": "3_17598593",
+      "trip_id": "3_17702606",
       "direction_id": "1",
       "headsign": "KUŹNIKI",
       "service_id": "3",
@@ -9361,7 +9361,7 @@
       ]
     },
     {
-      "trip_id": "3_17598594",
+      "trip_id": "3_17702607",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "3",
@@ -9576,7 +9576,7 @@
       ]
     },
     {
-      "trip_id": "3_17598595",
+      "trip_id": "3_17702608",
       "direction_id": "1",
       "headsign": "KUŹNIKI",
       "service_id": "3",
@@ -9782,7 +9782,7 @@
       ]
     },
     {
-      "trip_id": "3_17598596",
+      "trip_id": "3_17702609",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "3",
@@ -9997,7 +9997,7 @@
       ]
     },
     {
-      "trip_id": "3_17598597",
+      "trip_id": "3_17702610",
       "direction_id": "1",
       "headsign": "KUŹNIKI",
       "service_id": "3",
@@ -10203,7 +10203,7 @@
       ]
     },
     {
-      "trip_id": "3_17598598",
+      "trip_id": "3_17702611",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "3",
@@ -10418,7 +10418,7 @@
       ]
     },
     {
-      "trip_id": "3_17598599",
+      "trip_id": "3_17702612",
       "direction_id": "1",
       "headsign": "KUŹNIKI",
       "service_id": "3",
@@ -10624,7 +10624,7 @@
       ]
     },
     {
-      "trip_id": "3_17598600",
+      "trip_id": "3_17702613",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "3",
@@ -10839,7 +10839,7 @@
       ]
     },
     {
-      "trip_id": "3_17598601",
+      "trip_id": "3_17702614",
       "direction_id": "1",
       "headsign": "KUŹNIKI",
       "service_id": "3",
@@ -11045,7 +11045,7 @@
       ]
     },
     {
-      "trip_id": "3_17598602",
+      "trip_id": "3_17702615",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "3",
@@ -11260,7 +11260,7 @@
       ]
     },
     {
-      "trip_id": "3_17598603",
+      "trip_id": "3_17702616",
       "direction_id": "1",
       "headsign": "KUŹNIKI",
       "service_id": "3",
@@ -11466,7 +11466,7 @@
       ]
     },
     {
-      "trip_id": "3_17598604",
+      "trip_id": "3_17702617",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "3",
@@ -11681,7 +11681,7 @@
       ]
     },
     {
-      "trip_id": "3_17598605",
+      "trip_id": "3_17702618",
       "direction_id": "1",
       "headsign": "KUŹNIKI",
       "service_id": "3",
@@ -11887,7 +11887,7 @@
       ]
     },
     {
-      "trip_id": "3_17598606",
+      "trip_id": "3_17702619",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "3",
@@ -12102,7 +12102,7 @@
       ]
     },
     {
-      "trip_id": "3_17598607",
+      "trip_id": "3_17702620",
       "direction_id": "1",
       "headsign": "KUŹNIKI",
       "service_id": "3",
@@ -12308,7 +12308,7 @@
       ]
     },
     {
-      "trip_id": "3_17598608",
+      "trip_id": "3_17702621",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "3",
@@ -12460,7 +12460,7 @@
       ]
     },
     {
-      "trip_id": "3_17598609",
+      "trip_id": "3_17702622",
       "direction_id": "1",
       "headsign": "KUŹNIKI",
       "service_id": "3",
@@ -12594,7 +12594,7 @@
       ]
     },
     {
-      "trip_id": "3_17598610",
+      "trip_id": "3_17702623",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "3",
@@ -12809,7 +12809,7 @@
       ]
     },
     {
-      "trip_id": "3_17598611",
+      "trip_id": "3_17702624",
       "direction_id": "1",
       "headsign": "KUŹNIKI",
       "service_id": "3",
@@ -13015,7 +13015,7 @@
       ]
     },
     {
-      "trip_id": "3_17598612",
+      "trip_id": "3_17702625",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "3",
@@ -13230,7 +13230,7 @@
       ]
     },
     {
-      "trip_id": "3_17598613",
+      "trip_id": "3_17702626",
       "direction_id": "1",
       "headsign": "KUŹNIKI",
       "service_id": "3",
@@ -13436,7 +13436,7 @@
       ]
     },
     {
-      "trip_id": "3_17598614",
+      "trip_id": "3_17702627",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "3",
@@ -13651,7 +13651,7 @@
       ]
     },
     {
-      "trip_id": "3_17598615",
+      "trip_id": "3_17702628",
       "direction_id": "1",
       "headsign": "KUŹNIKI",
       "service_id": "3",
@@ -13857,7 +13857,7 @@
       ]
     },
     {
-      "trip_id": "3_17598616",
+      "trip_id": "3_17702629",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "3",
@@ -14072,7 +14072,7 @@
       ]
     },
     {
-      "trip_id": "3_17598617",
+      "trip_id": "3_17702630",
       "direction_id": "1",
       "headsign": "KUŹNIKI",
       "service_id": "3",
@@ -14278,7 +14278,7 @@
       ]
     },
     {
-      "trip_id": "3_17598618",
+      "trip_id": "3_17702631",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "3",
@@ -14493,7 +14493,7 @@
       ]
     },
     {
-      "trip_id": "3_17598619",
+      "trip_id": "3_17702632",
       "direction_id": "1",
       "headsign": "KUŹNIKI",
       "service_id": "3",
@@ -14699,7 +14699,7 @@
       ]
     },
     {
-      "trip_id": "3_17598620",
+      "trip_id": "3_17702633",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "3",
@@ -14914,7 +14914,7 @@
       ]
     },
     {
-      "trip_id": "3_17598621",
+      "trip_id": "3_17702634",
       "direction_id": "1",
       "headsign": "KUŹNIKI",
       "service_id": "3",
@@ -15120,7 +15120,7 @@
       ]
     },
     {
-      "trip_id": "3_17598622",
+      "trip_id": "3_17702635",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "3",
@@ -15335,7 +15335,7 @@
       ]
     },
     {
-      "trip_id": "3_17598623",
+      "trip_id": "3_17702636",
       "direction_id": "1",
       "headsign": "KUŹNIKI",
       "service_id": "3",
@@ -15541,7 +15541,7 @@
       ]
     },
     {
-      "trip_id": "3_17598624",
+      "trip_id": "3_17702637",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "3",
@@ -15756,7 +15756,7 @@
       ]
     },
     {
-      "trip_id": "3_17598625",
+      "trip_id": "3_17702638",
       "direction_id": "1",
       "headsign": "KUŹNIKI",
       "service_id": "3",
@@ -15962,7 +15962,7 @@
       ]
     },
     {
-      "trip_id": "3_17598626",
+      "trip_id": "3_17702639",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "3",
@@ -16177,7 +16177,7 @@
       ]
     },
     {
-      "trip_id": "3_17598627",
+      "trip_id": "3_17702640",
       "direction_id": "1",
       "headsign": "KUŹNIKI",
       "service_id": "3",
@@ -16383,7 +16383,7 @@
       ]
     },
     {
-      "trip_id": "3_17598628",
+      "trip_id": "3_17702641",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "3",
@@ -16598,7 +16598,7 @@
       ]
     },
     {
-      "trip_id": "3_17598629",
+      "trip_id": "3_17702642",
       "direction_id": "1",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "3",
@@ -16741,7 +16741,7 @@
       ]
     },
     {
-      "trip_id": "4_17602980",
+      "trip_id": "4_17706993",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "4",
@@ -16893,7 +16893,7 @@
       ]
     },
     {
-      "trip_id": "4_17602981",
+      "trip_id": "4_17706994",
       "direction_id": "1",
       "headsign": "KUŹNIKI",
       "service_id": "4",
@@ -17099,7 +17099,7 @@
       ]
     },
     {
-      "trip_id": "4_17602982",
+      "trip_id": "4_17706995",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "4",
@@ -17314,7 +17314,7 @@
       ]
     },
     {
-      "trip_id": "4_17602983",
+      "trip_id": "4_17706996",
       "direction_id": "1",
       "headsign": "KUŹNIKI",
       "service_id": "4",
@@ -17520,7 +17520,7 @@
       ]
     },
     {
-      "trip_id": "4_17602984",
+      "trip_id": "4_17706997",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "4",
@@ -17735,7 +17735,7 @@
       ]
     },
     {
-      "trip_id": "4_17602985",
+      "trip_id": "4_17706998",
       "direction_id": "1",
       "headsign": "KUŹNIKI",
       "service_id": "4",
@@ -17941,7 +17941,7 @@
       ]
     },
     {
-      "trip_id": "4_17602986",
+      "trip_id": "4_17706999",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "4",
@@ -18156,7 +18156,7 @@
       ]
     },
     {
-      "trip_id": "4_17602987",
+      "trip_id": "4_17707000",
       "direction_id": "1",
       "headsign": "KUŹNIKI",
       "service_id": "4",
@@ -18362,7 +18362,7 @@
       ]
     },
     {
-      "trip_id": "4_17602988",
+      "trip_id": "4_17707001",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "4",
@@ -18577,7 +18577,7 @@
       ]
     },
     {
-      "trip_id": "4_17602989",
+      "trip_id": "4_17707002",
       "direction_id": "1",
       "headsign": "KUŹNIKI",
       "service_id": "4",
@@ -18783,7 +18783,7 @@
       ]
     },
     {
-      "trip_id": "4_17602990",
+      "trip_id": "4_17707003",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "4",
@@ -18998,7 +18998,7 @@
       ]
     },
     {
-      "trip_id": "4_17602991",
+      "trip_id": "4_17707004",
       "direction_id": "1",
       "headsign": "KUŹNIKI",
       "service_id": "4",
@@ -19204,7 +19204,7 @@
       ]
     },
     {
-      "trip_id": "4_17602992",
+      "trip_id": "4_17707005",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "4",
@@ -19419,7 +19419,7 @@
       ]
     },
     {
-      "trip_id": "4_17602993",
+      "trip_id": "4_17707006",
       "direction_id": "1",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "4",
@@ -19562,7 +19562,7 @@
       ]
     },
     {
-      "trip_id": "4_17602994",
+      "trip_id": "4_17707007",
       "direction_id": "1",
       "headsign": "KUŹNIKI",
       "service_id": "4",
@@ -19696,7 +19696,7 @@
       ]
     },
     {
-      "trip_id": "4_17602995",
+      "trip_id": "4_17707008",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "4",
@@ -19911,7 +19911,7 @@
       ]
     },
     {
-      "trip_id": "4_17602996",
+      "trip_id": "4_17707009",
       "direction_id": "1",
       "headsign": "KUŹNIKI",
       "service_id": "4",
@@ -20117,7 +20117,7 @@
       ]
     },
     {
-      "trip_id": "4_17602997",
+      "trip_id": "4_17707010",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "4",
@@ -20332,7 +20332,7 @@
       ]
     },
     {
-      "trip_id": "4_17602998",
+      "trip_id": "4_17707011",
       "direction_id": "1",
       "headsign": "KUŹNIKI",
       "service_id": "4",
@@ -20538,7 +20538,7 @@
       ]
     },
     {
-      "trip_id": "4_17602999",
+      "trip_id": "4_17707012",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "4",
@@ -20753,7 +20753,7 @@
       ]
     },
     {
-      "trip_id": "4_17603000",
+      "trip_id": "4_17707013",
       "direction_id": "1",
       "headsign": "KUŹNIKI",
       "service_id": "4",
@@ -20959,7 +20959,7 @@
       ]
     },
     {
-      "trip_id": "4_17603001",
+      "trip_id": "4_17707014",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "4",
@@ -21174,7 +21174,7 @@
       ]
     },
     {
-      "trip_id": "4_17603002",
+      "trip_id": "4_17707015",
       "direction_id": "1",
       "headsign": "KUŹNIKI",
       "service_id": "4",
@@ -21380,7 +21380,7 @@
       ]
     },
     {
-      "trip_id": "4_17603003",
+      "trip_id": "4_17707016",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "4",
@@ -21595,7 +21595,7 @@
       ]
     },
     {
-      "trip_id": "4_17603004",
+      "trip_id": "4_17707017",
       "direction_id": "1",
       "headsign": "KUŹNIKI",
       "service_id": "4",
@@ -21801,7 +21801,7 @@
       ]
     },
     {
-      "trip_id": "4_17603005",
+      "trip_id": "4_17707018",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "4",
@@ -22016,7 +22016,7 @@
       ]
     },
     {
-      "trip_id": "4_17603006",
+      "trip_id": "4_17707019",
       "direction_id": "1",
       "headsign": "KUŹNIKI",
       "service_id": "4",
@@ -22222,7 +22222,7 @@
       ]
     },
     {
-      "trip_id": "4_17603007",
+      "trip_id": "4_17707020",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "4",
@@ -22437,7 +22437,7 @@
       ]
     },
     {
-      "trip_id": "4_17603008",
+      "trip_id": "4_17707021",
       "direction_id": "1",
       "headsign": "KUŹNIKI",
       "service_id": "4",
@@ -22643,7 +22643,7 @@
       ]
     },
     {
-      "trip_id": "4_17603009",
+      "trip_id": "4_17707022",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "4",
@@ -22858,7 +22858,7 @@
       ]
     },
     {
-      "trip_id": "4_17603010",
+      "trip_id": "4_17707023",
       "direction_id": "1",
       "headsign": "KUŹNIKI",
       "service_id": "4",
@@ -23064,7 +23064,7 @@
       ]
     },
     {
-      "trip_id": "4_17603011",
+      "trip_id": "4_17707024",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "4",
@@ -23216,7 +23216,7 @@
       ]
     },
     {
-      "trip_id": "4_17603012",
+      "trip_id": "4_17707025",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "4",
@@ -23368,7 +23368,7 @@
       ]
     },
     {
-      "trip_id": "4_17603013",
+      "trip_id": "4_17707026",
       "direction_id": "1",
       "headsign": "KUŹNIKI",
       "service_id": "4",
@@ -23574,7 +23574,7 @@
       ]
     },
     {
-      "trip_id": "4_17603014",
+      "trip_id": "4_17707027",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "4",
@@ -23789,7 +23789,7 @@
       ]
     },
     {
-      "trip_id": "4_17603015",
+      "trip_id": "4_17707028",
       "direction_id": "1",
       "headsign": "KUŹNIKI",
       "service_id": "4",
@@ -23995,7 +23995,7 @@
       ]
     },
     {
-      "trip_id": "4_17603016",
+      "trip_id": "4_17707029",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "4",
@@ -24210,7 +24210,7 @@
       ]
     },
     {
-      "trip_id": "4_17603017",
+      "trip_id": "4_17707030",
       "direction_id": "1",
       "headsign": "KUŹNIKI",
       "service_id": "4",
@@ -24416,7 +24416,7 @@
       ]
     },
     {
-      "trip_id": "4_17603018",
+      "trip_id": "4_17707031",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "4",
@@ -24631,7 +24631,7 @@
       ]
     },
     {
-      "trip_id": "4_17603019",
+      "trip_id": "4_17707032",
       "direction_id": "1",
       "headsign": "KUŹNIKI",
       "service_id": "4",
@@ -24837,7 +24837,7 @@
       ]
     },
     {
-      "trip_id": "4_17603020",
+      "trip_id": "4_17707033",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "4",
@@ -25052,7 +25052,7 @@
       ]
     },
     {
-      "trip_id": "4_17603021",
+      "trip_id": "4_17707034",
       "direction_id": "1",
       "headsign": "KUŹNIKI",
       "service_id": "4",
@@ -25258,7 +25258,7 @@
       ]
     },
     {
-      "trip_id": "4_17603022",
+      "trip_id": "4_17707035",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "4",
@@ -25473,7 +25473,7 @@
       ]
     },
     {
-      "trip_id": "4_17603023",
+      "trip_id": "4_17707036",
       "direction_id": "1",
       "headsign": "KUŹNIKI",
       "service_id": "4",
@@ -25679,7 +25679,7 @@
       ]
     },
     {
-      "trip_id": "4_17603024",
+      "trip_id": "4_17707037",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "4",
@@ -25894,7 +25894,7 @@
       ]
     },
     {
-      "trip_id": "4_17603025",
+      "trip_id": "4_17707038",
       "direction_id": "1",
       "headsign": "KUŹNIKI",
       "service_id": "4",
@@ -26100,7 +26100,7 @@
       ]
     },
     {
-      "trip_id": "4_17603026",
+      "trip_id": "4_17707039",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "4",
@@ -26315,7 +26315,7 @@
       ]
     },
     {
-      "trip_id": "4_17603027",
+      "trip_id": "4_17707040",
       "direction_id": "1",
       "headsign": "KUŹNIKI",
       "service_id": "4",
@@ -26521,7 +26521,7 @@
       ]
     },
     {
-      "trip_id": "4_17603028",
+      "trip_id": "4_17707041",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "4",
@@ -26673,7 +26673,7 @@
       ]
     },
     {
-      "trip_id": "4_17603029",
+      "trip_id": "4_17707042",
       "direction_id": "1",
       "headsign": "KUŹNIKI",
       "service_id": "4",
@@ -26807,7 +26807,7 @@
       ]
     },
     {
-      "trip_id": "4_17603030",
+      "trip_id": "4_17707043",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "4",
@@ -27022,7 +27022,7 @@
       ]
     },
     {
-      "trip_id": "4_17603031",
+      "trip_id": "4_17707044",
       "direction_id": "1",
       "headsign": "KUŹNIKI",
       "service_id": "4",
@@ -27228,7 +27228,7 @@
       ]
     },
     {
-      "trip_id": "4_17603032",
+      "trip_id": "4_17707045",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "4",
@@ -27443,7 +27443,7 @@
       ]
     },
     {
-      "trip_id": "4_17603033",
+      "trip_id": "4_17707046",
       "direction_id": "1",
       "headsign": "KUŹNIKI",
       "service_id": "4",
@@ -27649,7 +27649,7 @@
       ]
     },
     {
-      "trip_id": "4_17603034",
+      "trip_id": "4_17707047",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "4",
@@ -27864,7 +27864,7 @@
       ]
     },
     {
-      "trip_id": "4_17603035",
+      "trip_id": "4_17707048",
       "direction_id": "1",
       "headsign": "KUŹNIKI",
       "service_id": "4",
@@ -28070,7 +28070,7 @@
       ]
     },
     {
-      "trip_id": "4_17603036",
+      "trip_id": "4_17707049",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "4",
@@ -28285,7 +28285,7 @@
       ]
     },
     {
-      "trip_id": "4_17603037",
+      "trip_id": "4_17707050",
       "direction_id": "1",
       "headsign": "KUŹNIKI",
       "service_id": "4",
@@ -28491,7 +28491,7 @@
       ]
     },
     {
-      "trip_id": "4_17603038",
+      "trip_id": "4_17707051",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "4",
@@ -28706,7 +28706,7 @@
       ]
     },
     {
-      "trip_id": "4_17603039",
+      "trip_id": "4_17707052",
       "direction_id": "1",
       "headsign": "KUŹNIKI",
       "service_id": "4",
@@ -28912,7 +28912,7 @@
       ]
     },
     {
-      "trip_id": "4_17603040",
+      "trip_id": "4_17707053",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "4",
@@ -29127,7 +29127,7 @@
       ]
     },
     {
-      "trip_id": "4_17603041",
+      "trip_id": "4_17707054",
       "direction_id": "1",
       "headsign": "KUŹNIKI",
       "service_id": "4",
@@ -29333,7 +29333,7 @@
       ]
     },
     {
-      "trip_id": "4_17603042",
+      "trip_id": "4_17707055",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "4",
@@ -29548,7 +29548,7 @@
       ]
     },
     {
-      "trip_id": "4_17603043",
+      "trip_id": "4_17707056",
       "direction_id": "1",
       "headsign": "KUŹNIKI",
       "service_id": "4",
@@ -29754,7 +29754,7 @@
       ]
     },
     {
-      "trip_id": "4_17603044",
+      "trip_id": "4_17707057",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "4",
@@ -29969,7 +29969,7 @@
       ]
     },
     {
-      "trip_id": "4_17603045",
+      "trip_id": "4_17707058",
       "direction_id": "1",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "4",
@@ -30112,7 +30112,7 @@
       ]
     },
     {
-      "trip_id": "6_17608958",
+      "trip_id": "6_17712971",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "6",
@@ -30264,7 +30264,7 @@
       ]
     },
     {
-      "trip_id": "6_17608959",
+      "trip_id": "6_17712972",
       "direction_id": "1",
       "headsign": "KUŹNIKI",
       "service_id": "6",
@@ -30470,7 +30470,7 @@
       ]
     },
     {
-      "trip_id": "6_17608960",
+      "trip_id": "6_17712973",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "6",
@@ -30685,7 +30685,7 @@
       ]
     },
     {
-      "trip_id": "6_17608961",
+      "trip_id": "6_17712974",
       "direction_id": "1",
       "headsign": "KUŹNIKI",
       "service_id": "6",
@@ -30891,7 +30891,7 @@
       ]
     },
     {
-      "trip_id": "6_17608962",
+      "trip_id": "6_17712975",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "6",
@@ -31106,7 +31106,7 @@
       ]
     },
     {
-      "trip_id": "6_17608963",
+      "trip_id": "6_17712976",
       "direction_id": "1",
       "headsign": "KUŹNIKI",
       "service_id": "6",
@@ -31312,7 +31312,7 @@
       ]
     },
     {
-      "trip_id": "6_17608964",
+      "trip_id": "6_17712977",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "6",
@@ -31527,7 +31527,7 @@
       ]
     },
     {
-      "trip_id": "6_17608965",
+      "trip_id": "6_17712978",
       "direction_id": "1",
       "headsign": "KUŹNIKI",
       "service_id": "6",
@@ -31733,7 +31733,7 @@
       ]
     },
     {
-      "trip_id": "6_17608966",
+      "trip_id": "6_17712979",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "6",
@@ -31948,7 +31948,7 @@
       ]
     },
     {
-      "trip_id": "6_17608967",
+      "trip_id": "6_17712980",
       "direction_id": "1",
       "headsign": "KUŹNIKI",
       "service_id": "6",
@@ -32154,7 +32154,7 @@
       ]
     },
     {
-      "trip_id": "6_17608968",
+      "trip_id": "6_17712981",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "6",
@@ -32369,7 +32369,7 @@
       ]
     },
     {
-      "trip_id": "6_17608969",
+      "trip_id": "6_17712982",
       "direction_id": "1",
       "headsign": "KUŹNIKI",
       "service_id": "6",
@@ -32575,7 +32575,7 @@
       ]
     },
     {
-      "trip_id": "6_17608970",
+      "trip_id": "6_17712983",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "6",
@@ -32790,7 +32790,7 @@
       ]
     },
     {
-      "trip_id": "6_17608971",
+      "trip_id": "6_17712984",
       "direction_id": "1",
       "headsign": "KUŹNIKI",
       "service_id": "6",
@@ -32996,7 +32996,7 @@
       ]
     },
     {
-      "trip_id": "6_17608972",
+      "trip_id": "6_17712985",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "6",
@@ -33211,7 +33211,7 @@
       ]
     },
     {
-      "trip_id": "6_17608973",
+      "trip_id": "6_17712986",
       "direction_id": "1",
       "headsign": "KUŹNIKI",
       "service_id": "6",
@@ -33417,7 +33417,7 @@
       ]
     },
     {
-      "trip_id": "6_17608974",
+      "trip_id": "6_17712987",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "6",
@@ -33632,7 +33632,7 @@
       ]
     },
     {
-      "trip_id": "6_17608975",
+      "trip_id": "6_17712988",
       "direction_id": "1",
       "headsign": "KUŹNIKI",
       "service_id": "6",
@@ -33838,7 +33838,7 @@
       ]
     },
     {
-      "trip_id": "6_17608976",
+      "trip_id": "6_17712989",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "6",
@@ -34053,7 +34053,7 @@
       ]
     },
     {
-      "trip_id": "6_17608977",
+      "trip_id": "6_17712990",
       "direction_id": "1",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "6",
@@ -34196,7 +34196,7 @@
       ]
     },
     {
-      "trip_id": "6_17608978",
+      "trip_id": "6_17712991",
       "direction_id": "1",
       "headsign": "KUŹNIKI",
       "service_id": "6",
@@ -34330,7 +34330,7 @@
       ]
     },
     {
-      "trip_id": "6_17608979",
+      "trip_id": "6_17712992",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "6",
@@ -34545,7 +34545,7 @@
       ]
     },
     {
-      "trip_id": "6_17608980",
+      "trip_id": "6_17712993",
       "direction_id": "1",
       "headsign": "KUŹNIKI",
       "service_id": "6",
@@ -34751,7 +34751,7 @@
       ]
     },
     {
-      "trip_id": "6_17608981",
+      "trip_id": "6_17712994",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "6",
@@ -34966,7 +34966,7 @@
       ]
     },
     {
-      "trip_id": "6_17608982",
+      "trip_id": "6_17712995",
       "direction_id": "1",
       "headsign": "KUŹNIKI",
       "service_id": "6",
@@ -35172,7 +35172,7 @@
       ]
     },
     {
-      "trip_id": "6_17608983",
+      "trip_id": "6_17712996",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "6",
@@ -35387,7 +35387,7 @@
       ]
     },
     {
-      "trip_id": "6_17608984",
+      "trip_id": "6_17712997",
       "direction_id": "1",
       "headsign": "KUŹNIKI",
       "service_id": "6",
@@ -35593,7 +35593,7 @@
       ]
     },
     {
-      "trip_id": "6_17608985",
+      "trip_id": "6_17712998",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "6",
@@ -35808,7 +35808,7 @@
       ]
     },
     {
-      "trip_id": "6_17608986",
+      "trip_id": "6_17712999",
       "direction_id": "1",
       "headsign": "KUŹNIKI",
       "service_id": "6",
@@ -36014,7 +36014,7 @@
       ]
     },
     {
-      "trip_id": "6_17608987",
+      "trip_id": "6_17713000",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "6",
@@ -36229,7 +36229,7 @@
       ]
     },
     {
-      "trip_id": "6_17608988",
+      "trip_id": "6_17713001",
       "direction_id": "1",
       "headsign": "KUŹNIKI",
       "service_id": "6",
@@ -36435,7 +36435,7 @@
       ]
     },
     {
-      "trip_id": "6_17608989",
+      "trip_id": "6_17713002",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "6",
@@ -36650,7 +36650,7 @@
       ]
     },
     {
-      "trip_id": "6_17608990",
+      "trip_id": "6_17713003",
       "direction_id": "1",
       "headsign": "KUŹNIKI",
       "service_id": "6",
@@ -36856,7 +36856,7 @@
       ]
     },
     {
-      "trip_id": "6_17608991",
+      "trip_id": "6_17713004",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "6",
@@ -37071,7 +37071,7 @@
       ]
     },
     {
-      "trip_id": "6_17608992",
+      "trip_id": "6_17713005",
       "direction_id": "1",
       "headsign": "KUŹNIKI",
       "service_id": "6",
@@ -37277,7 +37277,7 @@
       ]
     },
     {
-      "trip_id": "6_17608993",
+      "trip_id": "6_17713006",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "6",
@@ -37492,7 +37492,7 @@
       ]
     },
     {
-      "trip_id": "6_17608994",
+      "trip_id": "6_17713007",
       "direction_id": "1",
       "headsign": "KUŹNIKI",
       "service_id": "6",
@@ -37698,7 +37698,7 @@
       ]
     },
     {
-      "trip_id": "6_17608995",
+      "trip_id": "6_17713008",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "6",
@@ -37913,7 +37913,7 @@
       ]
     },
     {
-      "trip_id": "6_17608996",
+      "trip_id": "6_17713009",
       "direction_id": "1",
       "headsign": "KUŹNIKI",
       "service_id": "6",
@@ -38119,7 +38119,7 @@
       ]
     },
     {
-      "trip_id": "6_17608997",
+      "trip_id": "6_17713010",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "6",
@@ -38271,7 +38271,7 @@
       ]
     },
     {
-      "trip_id": "6_17608998",
+      "trip_id": "6_17713011",
       "direction_id": "1",
       "headsign": "KUŹNIKI",
       "service_id": "6",
@@ -38405,7 +38405,7 @@
       ]
     },
     {
-      "trip_id": "6_17608999",
+      "trip_id": "6_17713012",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "6",
@@ -38620,7 +38620,7 @@
       ]
     },
     {
-      "trip_id": "6_17609000",
+      "trip_id": "6_17713013",
       "direction_id": "1",
       "headsign": "KUŹNIKI",
       "service_id": "6",
@@ -38826,7 +38826,7 @@
       ]
     },
     {
-      "trip_id": "6_17609001",
+      "trip_id": "6_17713014",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "6",
@@ -39041,7 +39041,7 @@
       ]
     },
     {
-      "trip_id": "6_17609002",
+      "trip_id": "6_17713015",
       "direction_id": "1",
       "headsign": "KUŹNIKI",
       "service_id": "6",
@@ -39247,7 +39247,7 @@
       ]
     },
     {
-      "trip_id": "6_17609003",
+      "trip_id": "6_17713016",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "6",
@@ -39462,7 +39462,7 @@
       ]
     },
     {
-      "trip_id": "6_17609004",
+      "trip_id": "6_17713017",
       "direction_id": "1",
       "headsign": "KUŹNIKI",
       "service_id": "6",
@@ -39668,7 +39668,7 @@
       ]
     },
     {
-      "trip_id": "6_17609005",
+      "trip_id": "6_17713018",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "6",
@@ -39883,7 +39883,7 @@
       ]
     },
     {
-      "trip_id": "6_17609006",
+      "trip_id": "6_17713019",
       "direction_id": "1",
       "headsign": "KUŹNIKI",
       "service_id": "6",
@@ -40089,7 +40089,7 @@
       ]
     },
     {
-      "trip_id": "6_17609007",
+      "trip_id": "6_17713020",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "6",
@@ -40304,7 +40304,7 @@
       ]
     },
     {
-      "trip_id": "6_17609008",
+      "trip_id": "6_17713021",
       "direction_id": "1",
       "headsign": "KUŹNIKI",
       "service_id": "6",
@@ -40510,7 +40510,7 @@
       ]
     },
     {
-      "trip_id": "6_17609009",
+      "trip_id": "6_17713022",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "6",
@@ -40725,7 +40725,7 @@
       ]
     },
     {
-      "trip_id": "6_17609010",
+      "trip_id": "6_17713023",
       "direction_id": "1",
       "headsign": "KUŹNIKI",
       "service_id": "6",
@@ -40931,7 +40931,7 @@
       ]
     },
     {
-      "trip_id": "6_17609011",
+      "trip_id": "6_17713024",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "6",
@@ -41146,7 +41146,7 @@
       ]
     },
     {
-      "trip_id": "6_17609012",
+      "trip_id": "6_17713025",
       "direction_id": "1",
       "headsign": "KUŹNIKI",
       "service_id": "6",
@@ -41352,7 +41352,7 @@
       ]
     },
     {
-      "trip_id": "6_17609013",
+      "trip_id": "6_17713026",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "6",
@@ -41567,7 +41567,7 @@
       ]
     },
     {
-      "trip_id": "6_17609014",
+      "trip_id": "6_17713027",
       "direction_id": "1",
       "headsign": "KUŹNIKI",
       "service_id": "6",
@@ -41773,7 +41773,7 @@
       ]
     },
     {
-      "trip_id": "6_17609015",
+      "trip_id": "6_17713028",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "6",
@@ -41988,7 +41988,7 @@
       ]
     },
     {
-      "trip_id": "6_17609016",
+      "trip_id": "6_17713029",
       "direction_id": "1",
       "headsign": "KUŹNIKI",
       "service_id": "6",
@@ -42194,7 +42194,7 @@
       ]
     },
     {
-      "trip_id": "6_17609017",
+      "trip_id": "6_17713030",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "6",
@@ -42409,7 +42409,7 @@
       ]
     },
     {
-      "trip_id": "6_17609018",
+      "trip_id": "6_17713031",
       "direction_id": "1",
       "headsign": "KUŹNIKI",
       "service_id": "6",
@@ -42615,7 +42615,7 @@
       ]
     },
     {
-      "trip_id": "6_17609019",
+      "trip_id": "6_17713032",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "6",
@@ -42767,7 +42767,7 @@
       ]
     },
     {
-      "trip_id": "6_17609020",
+      "trip_id": "6_17713033",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "6",
@@ -42919,7 +42919,7 @@
       ]
     },
     {
-      "trip_id": "6_17609021",
+      "trip_id": "6_17713034",
       "direction_id": "1",
       "headsign": "KUŹNIKI",
       "service_id": "6",
@@ -43125,7 +43125,7 @@
       ]
     },
     {
-      "trip_id": "6_17609022",
+      "trip_id": "6_17713035",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "6",
@@ -43340,7 +43340,7 @@
       ]
     },
     {
-      "trip_id": "6_17609023",
+      "trip_id": "6_17713036",
       "direction_id": "1",
       "headsign": "KUŹNIKI",
       "service_id": "6",
@@ -43546,7 +43546,7 @@
       ]
     },
     {
-      "trip_id": "6_17609024",
+      "trip_id": "6_17713037",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "6",
@@ -43761,7 +43761,7 @@
       ]
     },
     {
-      "trip_id": "6_17609025",
+      "trip_id": "6_17713038",
       "direction_id": "1",
       "headsign": "KUŹNIKI",
       "service_id": "6",
@@ -43967,7 +43967,7 @@
       ]
     },
     {
-      "trip_id": "6_17609026",
+      "trip_id": "6_17713039",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "6",
@@ -44182,7 +44182,7 @@
       ]
     },
     {
-      "trip_id": "6_17609027",
+      "trip_id": "6_17713040",
       "direction_id": "1",
       "headsign": "KUŹNIKI",
       "service_id": "6",
@@ -44388,7 +44388,7 @@
       ]
     },
     {
-      "trip_id": "6_17609028",
+      "trip_id": "6_17713041",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "6",
@@ -44603,7 +44603,7 @@
       ]
     },
     {
-      "trip_id": "6_17609029",
+      "trip_id": "6_17713042",
       "direction_id": "1",
       "headsign": "KUŹNIKI",
       "service_id": "6",
@@ -44809,7 +44809,7 @@
       ]
     },
     {
-      "trip_id": "6_17609030",
+      "trip_id": "6_17713043",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "6",
@@ -45024,7 +45024,7 @@
       ]
     },
     {
-      "trip_id": "6_17609031",
+      "trip_id": "6_17713044",
       "direction_id": "1",
       "headsign": "KUŹNIKI",
       "service_id": "6",
@@ -45230,7 +45230,7 @@
       ]
     },
     {
-      "trip_id": "6_17609032",
+      "trip_id": "6_17713045",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "6",
@@ -45445,7 +45445,7 @@
       ]
     },
     {
-      "trip_id": "6_17609033",
+      "trip_id": "6_17713046",
       "direction_id": "1",
       "headsign": "KUŹNIKI",
       "service_id": "6",
@@ -45651,7 +45651,7 @@
       ]
     },
     {
-      "trip_id": "6_17609034",
+      "trip_id": "6_17713047",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "6",
@@ -45866,7 +45866,7 @@
       ]
     },
     {
-      "trip_id": "6_17609035",
+      "trip_id": "6_17713048",
       "direction_id": "1",
       "headsign": "KUŹNIKI",
       "service_id": "6",
@@ -46072,7 +46072,7 @@
       ]
     },
     {
-      "trip_id": "6_17609036",
+      "trip_id": "6_17713049",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "6",
@@ -46287,7 +46287,7 @@
       ]
     },
     {
-      "trip_id": "6_17609037",
+      "trip_id": "6_17713050",
       "direction_id": "1",
       "headsign": "KUŹNIKI",
       "service_id": "6",
@@ -46493,7 +46493,7 @@
       ]
     },
     {
-      "trip_id": "6_17609038",
+      "trip_id": "6_17713051",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "6",
@@ -46708,7 +46708,7 @@
       ]
     },
     {
-      "trip_id": "6_17609039",
+      "trip_id": "6_17713052",
       "direction_id": "1",
       "headsign": "KUŹNIKI",
       "service_id": "6",
@@ -46914,7 +46914,7 @@
       ]
     },
     {
-      "trip_id": "6_17609040",
+      "trip_id": "6_17713053",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "6",
@@ -47129,7 +47129,7 @@
       ]
     },
     {
-      "trip_id": "6_17609041",
+      "trip_id": "6_17713054",
       "direction_id": "1",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "6",
@@ -47272,7 +47272,7 @@
       ]
     },
     {
-      "trip_id": "8_17615784",
+      "trip_id": "8_17719797",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "8",
@@ -47424,7 +47424,7 @@
       ]
     },
     {
-      "trip_id": "8_17615785",
+      "trip_id": "8_17719798",
       "direction_id": "1",
       "headsign": "KUŹNIKI",
       "service_id": "8",
@@ -47630,7 +47630,7 @@
       ]
     },
     {
-      "trip_id": "8_17615786",
+      "trip_id": "8_17719799",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "8",
@@ -47845,7 +47845,7 @@
       ]
     },
     {
-      "trip_id": "8_17615787",
+      "trip_id": "8_17719800",
       "direction_id": "1",
       "headsign": "KUŹNIKI",
       "service_id": "8",
@@ -48051,7 +48051,7 @@
       ]
     },
     {
-      "trip_id": "8_17615788",
+      "trip_id": "8_17719801",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "8",
@@ -48266,7 +48266,7 @@
       ]
     },
     {
-      "trip_id": "8_17615789",
+      "trip_id": "8_17719802",
       "direction_id": "1",
       "headsign": "KUŹNIKI",
       "service_id": "8",
@@ -48472,7 +48472,7 @@
       ]
     },
     {
-      "trip_id": "8_17615790",
+      "trip_id": "8_17719803",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "8",
@@ -48687,7 +48687,7 @@
       ]
     },
     {
-      "trip_id": "8_17615791",
+      "trip_id": "8_17719804",
       "direction_id": "1",
       "headsign": "KUŹNIKI",
       "service_id": "8",
@@ -48893,7 +48893,7 @@
       ]
     },
     {
-      "trip_id": "8_17615792",
+      "trip_id": "8_17719805",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "8",
@@ -49108,7 +49108,7 @@
       ]
     },
     {
-      "trip_id": "8_17615793",
+      "trip_id": "8_17719806",
       "direction_id": "1",
       "headsign": "KUŹNIKI",
       "service_id": "8",
@@ -49314,7 +49314,7 @@
       ]
     },
     {
-      "trip_id": "8_17615794",
+      "trip_id": "8_17719807",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "8",
@@ -49529,7 +49529,7 @@
       ]
     },
     {
-      "trip_id": "8_17615795",
+      "trip_id": "8_17719808",
       "direction_id": "1",
       "headsign": "KUŹNIKI",
       "service_id": "8",
@@ -49735,7 +49735,7 @@
       ]
     },
     {
-      "trip_id": "8_17615796",
+      "trip_id": "8_17719809",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "8",
@@ -49950,7 +49950,7 @@
       ]
     },
     {
-      "trip_id": "8_17615797",
+      "trip_id": "8_17719810",
       "direction_id": "1",
       "headsign": "KUŹNIKI",
       "service_id": "8",
@@ -50156,7 +50156,7 @@
       ]
     },
     {
-      "trip_id": "8_17615798",
+      "trip_id": "8_17719811",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "8",
@@ -50371,7 +50371,7 @@
       ]
     },
     {
-      "trip_id": "8_17615799",
+      "trip_id": "8_17719812",
       "direction_id": "1",
       "headsign": "KUŹNIKI",
       "service_id": "8",
@@ -50577,7 +50577,7 @@
       ]
     },
     {
-      "trip_id": "8_17615800",
+      "trip_id": "8_17719813",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "8",
@@ -50792,7 +50792,7 @@
       ]
     },
     {
-      "trip_id": "8_17615801",
+      "trip_id": "8_17719814",
       "direction_id": "1",
       "headsign": "KUŹNIKI",
       "service_id": "8",
@@ -50998,7 +50998,7 @@
       ]
     },
     {
-      "trip_id": "8_17615802",
+      "trip_id": "8_17719815",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "8",
@@ -51213,7 +51213,7 @@
       ]
     },
     {
-      "trip_id": "8_17615803",
+      "trip_id": "8_17719816",
       "direction_id": "1",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "8",
@@ -51356,7 +51356,7 @@
       ]
     },
     {
-      "trip_id": "8_17615804",
+      "trip_id": "8_17719817",
       "direction_id": "1",
       "headsign": "KUŹNIKI",
       "service_id": "8",
@@ -51490,7 +51490,7 @@
       ]
     },
     {
-      "trip_id": "8_17615805",
+      "trip_id": "8_17719818",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "8",
@@ -51705,7 +51705,7 @@
       ]
     },
     {
-      "trip_id": "8_17615806",
+      "trip_id": "8_17719819",
       "direction_id": "1",
       "headsign": "KUŹNIKI",
       "service_id": "8",
@@ -51911,7 +51911,7 @@
       ]
     },
     {
-      "trip_id": "8_17615807",
+      "trip_id": "8_17719820",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "8",
@@ -52126,7 +52126,7 @@
       ]
     },
     {
-      "trip_id": "8_17615808",
+      "trip_id": "8_17719821",
       "direction_id": "1",
       "headsign": "KUŹNIKI",
       "service_id": "8",
@@ -52332,7 +52332,7 @@
       ]
     },
     {
-      "trip_id": "8_17615809",
+      "trip_id": "8_17719822",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "8",
@@ -52547,7 +52547,7 @@
       ]
     },
     {
-      "trip_id": "8_17615810",
+      "trip_id": "8_17719823",
       "direction_id": "1",
       "headsign": "KUŹNIKI",
       "service_id": "8",
@@ -52753,7 +52753,7 @@
       ]
     },
     {
-      "trip_id": "8_17615811",
+      "trip_id": "8_17719824",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "8",
@@ -52968,7 +52968,7 @@
       ]
     },
     {
-      "trip_id": "8_17615812",
+      "trip_id": "8_17719825",
       "direction_id": "1",
       "headsign": "KUŹNIKI",
       "service_id": "8",
@@ -53174,7 +53174,7 @@
       ]
     },
     {
-      "trip_id": "8_17615813",
+      "trip_id": "8_17719826",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "8",
@@ -53389,7 +53389,7 @@
       ]
     },
     {
-      "trip_id": "8_17615814",
+      "trip_id": "8_17719827",
       "direction_id": "1",
       "headsign": "KUŹNIKI",
       "service_id": "8",
@@ -53595,7 +53595,7 @@
       ]
     },
     {
-      "trip_id": "8_17615815",
+      "trip_id": "8_17719828",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "8",
@@ -53810,7 +53810,7 @@
       ]
     },
     {
-      "trip_id": "8_17615816",
+      "trip_id": "8_17719829",
       "direction_id": "1",
       "headsign": "KUŹNIKI",
       "service_id": "8",
@@ -54016,7 +54016,7 @@
       ]
     },
     {
-      "trip_id": "8_17615817",
+      "trip_id": "8_17719830",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "8",
@@ -54231,7 +54231,7 @@
       ]
     },
     {
-      "trip_id": "8_17615818",
+      "trip_id": "8_17719831",
       "direction_id": "1",
       "headsign": "KUŹNIKI",
       "service_id": "8",
@@ -54437,7 +54437,7 @@
       ]
     },
     {
-      "trip_id": "8_17615819",
+      "trip_id": "8_17719832",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "8",
@@ -54652,7 +54652,7 @@
       ]
     },
     {
-      "trip_id": "8_17615820",
+      "trip_id": "8_17719833",
       "direction_id": "1",
       "headsign": "KUŹNIKI",
       "service_id": "8",
@@ -54858,7 +54858,7 @@
       ]
     },
     {
-      "trip_id": "8_17615821",
+      "trip_id": "8_17719834",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "8",
@@ -55073,7 +55073,7 @@
       ]
     },
     {
-      "trip_id": "8_17615822",
+      "trip_id": "8_17719835",
       "direction_id": "1",
       "headsign": "KUŹNIKI",
       "service_id": "8",
@@ -55279,7 +55279,7 @@
       ]
     },
     {
-      "trip_id": "8_17615823",
+      "trip_id": "8_17719836",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "8",
@@ -55431,7 +55431,7 @@
       ]
     },
     {
-      "trip_id": "8_17615824",
+      "trip_id": "8_17719837",
       "direction_id": "1",
       "headsign": "KUŹNIKI",
       "service_id": "8",
@@ -55565,7 +55565,7 @@
       ]
     },
     {
-      "trip_id": "8_17615825",
+      "trip_id": "8_17719838",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "8",
@@ -55780,7 +55780,7 @@
       ]
     },
     {
-      "trip_id": "8_17615826",
+      "trip_id": "8_17719839",
       "direction_id": "1",
       "headsign": "KUŹNIKI",
       "service_id": "8",
@@ -55986,7 +55986,7 @@
       ]
     },
     {
-      "trip_id": "8_17615827",
+      "trip_id": "8_17719840",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "8",
@@ -56201,7 +56201,7 @@
       ]
     },
     {
-      "trip_id": "8_17615828",
+      "trip_id": "8_17719841",
       "direction_id": "1",
       "headsign": "KUŹNIKI",
       "service_id": "8",
@@ -56407,7 +56407,7 @@
       ]
     },
     {
-      "trip_id": "8_17615829",
+      "trip_id": "8_17719842",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "8",
@@ -56622,7 +56622,7 @@
       ]
     },
     {
-      "trip_id": "8_17615830",
+      "trip_id": "8_17719843",
       "direction_id": "1",
       "headsign": "KUŹNIKI",
       "service_id": "8",
@@ -56828,7 +56828,7 @@
       ]
     },
     {
-      "trip_id": "8_17615831",
+      "trip_id": "8_17719844",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "8",
@@ -57043,7 +57043,7 @@
       ]
     },
     {
-      "trip_id": "8_17615832",
+      "trip_id": "8_17719845",
       "direction_id": "1",
       "headsign": "KUŹNIKI",
       "service_id": "8",
@@ -57249,7 +57249,7 @@
       ]
     },
     {
-      "trip_id": "8_17615833",
+      "trip_id": "8_17719846",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "8",
@@ -57464,7 +57464,7 @@
       ]
     },
     {
-      "trip_id": "8_17615834",
+      "trip_id": "8_17719847",
       "direction_id": "1",
       "headsign": "KUŹNIKI",
       "service_id": "8",
@@ -57670,7 +57670,7 @@
       ]
     },
     {
-      "trip_id": "8_17615835",
+      "trip_id": "8_17719848",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "8",
@@ -57885,7 +57885,7 @@
       ]
     },
     {
-      "trip_id": "8_17615836",
+      "trip_id": "8_17719849",
       "direction_id": "1",
       "headsign": "KUŹNIKI",
       "service_id": "8",
@@ -58091,7 +58091,7 @@
       ]
     },
     {
-      "trip_id": "8_17615837",
+      "trip_id": "8_17719850",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "8",
@@ -58306,7 +58306,7 @@
       ]
     },
     {
-      "trip_id": "8_17615838",
+      "trip_id": "8_17719851",
       "direction_id": "1",
       "headsign": "KUŹNIKI",
       "service_id": "8",
@@ -58512,7 +58512,7 @@
       ]
     },
     {
-      "trip_id": "8_17615839",
+      "trip_id": "8_17719852",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "8",
@@ -58727,7 +58727,7 @@
       ]
     },
     {
-      "trip_id": "8_17615840",
+      "trip_id": "8_17719853",
       "direction_id": "1",
       "headsign": "KUŹNIKI",
       "service_id": "8",
@@ -58933,7 +58933,7 @@
       ]
     },
     {
-      "trip_id": "8_17615841",
+      "trip_id": "8_17719854",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "8",
@@ -59148,7 +59148,7 @@
       ]
     },
     {
-      "trip_id": "8_17615842",
+      "trip_id": "8_17719855",
       "direction_id": "1",
       "headsign": "KUŹNIKI",
       "service_id": "8",
@@ -59354,7 +59354,7 @@
       ]
     },
     {
-      "trip_id": "8_17615843",
+      "trip_id": "8_17719856",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "8",
@@ -59569,7 +59569,7 @@
       ]
     },
     {
-      "trip_id": "8_17615844",
+      "trip_id": "8_17719857",
       "direction_id": "1",
       "headsign": "KUŹNIKI",
       "service_id": "8",
@@ -59775,7 +59775,7 @@
       ]
     },
     {
-      "trip_id": "8_17615845",
+      "trip_id": "8_17719858",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "8",
@@ -59927,7 +59927,7 @@
       ]
     },
     {
-      "trip_id": "8_17615846",
+      "trip_id": "8_17719859",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "8",
@@ -60079,7 +60079,7 @@
       ]
     },
     {
-      "trip_id": "8_17615847",
+      "trip_id": "8_17719860",
       "direction_id": "1",
       "headsign": "KUŹNIKI",
       "service_id": "8",
@@ -60285,7 +60285,7 @@
       ]
     },
     {
-      "trip_id": "8_17615848",
+      "trip_id": "8_17719861",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "8",
@@ -60500,7 +60500,7 @@
       ]
     },
     {
-      "trip_id": "8_17615849",
+      "trip_id": "8_17719862",
       "direction_id": "1",
       "headsign": "KUŹNIKI",
       "service_id": "8",
@@ -60706,7 +60706,7 @@
       ]
     },
     {
-      "trip_id": "8_17615850",
+      "trip_id": "8_17719863",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "8",
@@ -60921,7 +60921,7 @@
       ]
     },
     {
-      "trip_id": "8_17615851",
+      "trip_id": "8_17719864",
       "direction_id": "1",
       "headsign": "KUŹNIKI",
       "service_id": "8",
@@ -61127,7 +61127,7 @@
       ]
     },
     {
-      "trip_id": "8_17615852",
+      "trip_id": "8_17719865",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "8",
@@ -61342,7 +61342,7 @@
       ]
     },
     {
-      "trip_id": "8_17615853",
+      "trip_id": "8_17719866",
       "direction_id": "1",
       "headsign": "KUŹNIKI",
       "service_id": "8",
@@ -61548,7 +61548,7 @@
       ]
     },
     {
-      "trip_id": "8_17615854",
+      "trip_id": "8_17719867",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "8",
@@ -61763,7 +61763,7 @@
       ]
     },
     {
-      "trip_id": "8_17615855",
+      "trip_id": "8_17719868",
       "direction_id": "1",
       "headsign": "KUŹNIKI",
       "service_id": "8",
@@ -61969,7 +61969,7 @@
       ]
     },
     {
-      "trip_id": "8_17615856",
+      "trip_id": "8_17719869",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "8",
@@ -62184,7 +62184,7 @@
       ]
     },
     {
-      "trip_id": "8_17615857",
+      "trip_id": "8_17719870",
       "direction_id": "1",
       "headsign": "KUŹNIKI",
       "service_id": "8",
@@ -62390,7 +62390,7 @@
       ]
     },
     {
-      "trip_id": "8_17615858",
+      "trip_id": "8_17719871",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "8",
@@ -62605,7 +62605,7 @@
       ]
     },
     {
-      "trip_id": "8_17615859",
+      "trip_id": "8_17719872",
       "direction_id": "1",
       "headsign": "KUŹNIKI",
       "service_id": "8",
@@ -62811,7 +62811,7 @@
       ]
     },
     {
-      "trip_id": "8_17615860",
+      "trip_id": "8_17719873",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "8",
@@ -63026,7 +63026,7 @@
       ]
     },
     {
-      "trip_id": "8_17615861",
+      "trip_id": "8_17719874",
       "direction_id": "1",
       "headsign": "KUŹNIKI",
       "service_id": "8",
@@ -63232,7 +63232,7 @@
       ]
     },
     {
-      "trip_id": "8_17615862",
+      "trip_id": "8_17719875",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "8",
@@ -63447,7 +63447,7 @@
       ]
     },
     {
-      "trip_id": "8_17615863",
+      "trip_id": "8_17719876",
       "direction_id": "1",
       "headsign": "KUŹNIKI",
       "service_id": "8",
@@ -63653,7 +63653,7 @@
       ]
     },
     {
-      "trip_id": "8_17615864",
+      "trip_id": "8_17719877",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "8",
@@ -63868,7 +63868,7 @@
       ]
     },
     {
-      "trip_id": "8_17615865",
+      "trip_id": "8_17719878",
       "direction_id": "1",
       "headsign": "KUŹNIKI",
       "service_id": "8",
@@ -64074,7 +64074,7 @@
       ]
     },
     {
-      "trip_id": "8_17615866",
+      "trip_id": "8_17719879",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "8",
@@ -64289,7 +64289,7 @@
       ]
     },
     {
-      "trip_id": "8_17615867",
+      "trip_id": "8_17719880",
       "direction_id": "1",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "8",

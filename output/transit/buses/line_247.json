@@ -2,7 +2,7 @@
   "line": "247",
   "trips": [
     {
-      "trip_id": "3_17599056",
+      "trip_id": "3_17703069",
       "direction_id": "1",
       "headsign": "GIEŁDOWA (Centrum Hurtu)",
       "service_id": "3",
@@ -262,7 +262,7 @@
       ]
     },
     {
-      "trip_id": "3_17599057",
+      "trip_id": "3_17703070",
       "direction_id": "0",
       "headsign": "POLANOWICE",
       "service_id": "3",
@@ -648,7 +648,7 @@
       ]
     },
     {
-      "trip_id": "3_17599058",
+      "trip_id": "3_17703071",
       "direction_id": "1",
       "headsign": "GIEŁDOWA (Centrum Hurtu)",
       "service_id": "3",
@@ -1061,7 +1061,7 @@
       ]
     },
     {
-      "trip_id": "3_17599059",
+      "trip_id": "3_17703072",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "3",
@@ -1402,7 +1402,7 @@
       ]
     },
     {
-      "trip_id": "3_17599065",
+      "trip_id": "3_17703078",
       "direction_id": "1",
       "headsign": "GIEŁDOWA (Centrum Hurtu)",
       "service_id": "3",
@@ -1815,7 +1815,7 @@
       ]
     },
     {
-      "trip_id": "3_17599066",
+      "trip_id": "3_17703079",
       "direction_id": "0",
       "headsign": "POLANOWICE",
       "service_id": "3",
@@ -2201,7 +2201,7 @@
       ]
     },
     {
-      "trip_id": "3_17599067",
+      "trip_id": "3_17703080",
       "direction_id": "1",
       "headsign": "GIEŁDOWA (Centrum Hurtu)",
       "service_id": "3",
@@ -2614,7 +2614,7 @@
       ]
     },
     {
-      "trip_id": "3_17599068",
+      "trip_id": "3_17703081",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "3",
@@ -2955,7 +2955,7 @@
       ]
     },
     {
-      "trip_id": "3_17599071",
+      "trip_id": "3_17703084",
       "direction_id": "1",
       "headsign": "GIEŁDOWA (Centrum Hurtu)",
       "service_id": "3",
@@ -3098,7 +3098,7 @@
       ]
     },
     {
-      "trip_id": "3_17599072",
+      "trip_id": "3_17703085",
       "direction_id": "0",
       "headsign": "POLANOWICE",
       "service_id": "3",
@@ -3484,7 +3484,7 @@
       ]
     },
     {
-      "trip_id": "3_17599073",
+      "trip_id": "3_17703086",
       "direction_id": "1",
       "headsign": "GIEŁDOWA (Centrum Hurtu)",
       "service_id": "3",
@@ -3897,7 +3897,7 @@
       ]
     },
     {
-      "trip_id": "3_17599074",
+      "trip_id": "3_17703087",
       "direction_id": "0",
       "headsign": "POLANOWICE",
       "service_id": "3",
@@ -4283,7 +4283,7 @@
       ]
     },
     {
-      "trip_id": "3_17599075",
+      "trip_id": "3_17703088",
       "direction_id": "1",
       "headsign": "KRZYKI",
       "service_id": "3",
@@ -4606,7 +4606,7 @@
       ]
     },
     {
-      "trip_id": "3_17599076",
+      "trip_id": "3_17703089",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "3",
@@ -4812,7 +4812,7 @@
       ]
     },
     {
-      "trip_id": "3_17599093",
+      "trip_id": "3_17703106",
       "direction_id": "0",
       "headsign": "PETRUSEWICZA",
       "service_id": "3",
@@ -5009,7 +5009,7 @@
       ]
     },
     {
-      "trip_id": "4_17603468",
+      "trip_id": "4_17707481",
       "direction_id": "1",
       "headsign": "GIEŁDOWA (Centrum Hurtu)",
       "service_id": "4",
@@ -5269,7 +5269,7 @@
       ]
     },
     {
-      "trip_id": "4_17603469",
+      "trip_id": "4_17707482",
       "direction_id": "0",
       "headsign": "POLANOWICE",
       "service_id": "4",
@@ -5655,7 +5655,7 @@
       ]
     },
     {
-      "trip_id": "4_17603470",
+      "trip_id": "4_17707483",
       "direction_id": "1",
       "headsign": "GIEŁDOWA (Centrum Hurtu)",
       "service_id": "4",
@@ -6068,7 +6068,7 @@
       ]
     },
     {
-      "trip_id": "4_17603471",
+      "trip_id": "4_17707484",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "4",
@@ -6409,7 +6409,7 @@
       ]
     },
     {
-      "trip_id": "4_17603477",
+      "trip_id": "4_17707490",
       "direction_id": "1",
       "headsign": "GIEŁDOWA (Centrum Hurtu)",
       "service_id": "4",
@@ -6822,7 +6822,7 @@
       ]
     },
     {
-      "trip_id": "4_17603478",
+      "trip_id": "4_17707491",
       "direction_id": "0",
       "headsign": "POLANOWICE",
       "service_id": "4",
@@ -7208,7 +7208,7 @@
       ]
     },
     {
-      "trip_id": "4_17603479",
+      "trip_id": "4_17707492",
       "direction_id": "1",
       "headsign": "GIEŁDOWA (Centrum Hurtu)",
       "service_id": "4",
@@ -7621,7 +7621,7 @@
       ]
     },
     {
-      "trip_id": "4_17603480",
+      "trip_id": "4_17707493",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "4",
@@ -7962,7 +7962,7 @@
       ]
     },
     {
-      "trip_id": "4_17603483",
+      "trip_id": "4_17707496",
       "direction_id": "1",
       "headsign": "GIEŁDOWA (Centrum Hurtu)",
       "service_id": "4",
@@ -8105,7 +8105,7 @@
       ]
     },
     {
-      "trip_id": "4_17603484",
+      "trip_id": "4_17707497",
       "direction_id": "0",
       "headsign": "POLANOWICE",
       "service_id": "4",
@@ -8491,7 +8491,7 @@
       ]
     },
     {
-      "trip_id": "4_17603485",
+      "trip_id": "4_17707498",
       "direction_id": "1",
       "headsign": "GIEŁDOWA (Centrum Hurtu)",
       "service_id": "4",
@@ -8904,7 +8904,7 @@
       ]
     },
     {
-      "trip_id": "4_17603486",
+      "trip_id": "4_17707499",
       "direction_id": "0",
       "headsign": "POLANOWICE",
       "service_id": "4",
@@ -9290,7 +9290,7 @@
       ]
     },
     {
-      "trip_id": "4_17603487",
+      "trip_id": "4_17707500",
       "direction_id": "1",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "4",
@@ -9433,7 +9433,7 @@
       ]
     },
     {
-      "trip_id": "4_17603502",
+      "trip_id": "4_17707515",
       "direction_id": "0",
       "headsign": "PETRUSEWICZA",
       "service_id": "4",
@@ -9630,7 +9630,7 @@
       ]
     },
     {
-      "trip_id": "6_17609660",
+      "trip_id": "6_17713673",
       "direction_id": "1",
       "headsign": "GIEŁDOWA (Centrum Hurtu)",
       "service_id": "6",
@@ -9890,7 +9890,7 @@
       ]
     },
     {
-      "trip_id": "6_17609661",
+      "trip_id": "6_17713674",
       "direction_id": "0",
       "headsign": "POLANOWICE",
       "service_id": "6",
@@ -10276,7 +10276,7 @@
       ]
     },
     {
-      "trip_id": "6_17609662",
+      "trip_id": "6_17713675",
       "direction_id": "1",
       "headsign": "GIEŁDOWA (Centrum Hurtu)",
       "service_id": "6",
@@ -10689,7 +10689,7 @@
       ]
     },
     {
-      "trip_id": "6_17609663",
+      "trip_id": "6_17713676",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "6",
@@ -11030,7 +11030,7 @@
       ]
     },
     {
-      "trip_id": "6_17609669",
+      "trip_id": "6_17713682",
       "direction_id": "1",
       "headsign": "GIEŁDOWA (Centrum Hurtu)",
       "service_id": "6",
@@ -11443,7 +11443,7 @@
       ]
     },
     {
-      "trip_id": "6_17609670",
+      "trip_id": "6_17713683",
       "direction_id": "0",
       "headsign": "POLANOWICE",
       "service_id": "6",
@@ -11829,7 +11829,7 @@
       ]
     },
     {
-      "trip_id": "6_17609671",
+      "trip_id": "6_17713684",
       "direction_id": "1",
       "headsign": "GIEŁDOWA (Centrum Hurtu)",
       "service_id": "6",
@@ -12242,7 +12242,7 @@
       ]
     },
     {
-      "trip_id": "6_17609672",
+      "trip_id": "6_17713685",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "6",
@@ -12583,7 +12583,7 @@
       ]
     },
     {
-      "trip_id": "6_17609675",
+      "trip_id": "6_17713688",
       "direction_id": "1",
       "headsign": "GIEŁDOWA (Centrum Hurtu)",
       "service_id": "6",
@@ -12726,7 +12726,7 @@
       ]
     },
     {
-      "trip_id": "6_17609676",
+      "trip_id": "6_17713689",
       "direction_id": "0",
       "headsign": "POLANOWICE",
       "service_id": "6",
@@ -13112,7 +13112,7 @@
       ]
     },
     {
-      "trip_id": "6_17609677",
+      "trip_id": "6_17713690",
       "direction_id": "1",
       "headsign": "GIEŁDOWA (Centrum Hurtu)",
       "service_id": "6",
@@ -13525,7 +13525,7 @@
       ]
     },
     {
-      "trip_id": "6_17609678",
+      "trip_id": "6_17713691",
       "direction_id": "0",
       "headsign": "POLANOWICE",
       "service_id": "6",
@@ -13911,7 +13911,7 @@
       ]
     },
     {
-      "trip_id": "6_17609679",
+      "trip_id": "6_17713692",
       "direction_id": "1",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "6",
@@ -14054,7 +14054,7 @@
       ]
     },
     {
-      "trip_id": "6_17609694",
+      "trip_id": "6_17713707",
       "direction_id": "0",
       "headsign": "PETRUSEWICZA",
       "service_id": "6",
@@ -14251,7 +14251,7 @@
       ]
     },
     {
-      "trip_id": "8_17616486",
+      "trip_id": "8_17720499",
       "direction_id": "1",
       "headsign": "GIEŁDOWA (Centrum Hurtu)",
       "service_id": "8",
@@ -14511,7 +14511,7 @@
       ]
     },
     {
-      "trip_id": "8_17616487",
+      "trip_id": "8_17720500",
       "direction_id": "0",
       "headsign": "POLANOWICE",
       "service_id": "8",
@@ -14897,7 +14897,7 @@
       ]
     },
     {
-      "trip_id": "8_17616488",
+      "trip_id": "8_17720501",
       "direction_id": "1",
       "headsign": "GIEŁDOWA (Centrum Hurtu)",
       "service_id": "8",
@@ -15310,7 +15310,7 @@
       ]
     },
     {
-      "trip_id": "8_17616489",
+      "trip_id": "8_17720502",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "8",
@@ -15651,7 +15651,7 @@
       ]
     },
     {
-      "trip_id": "8_17616495",
+      "trip_id": "8_17720508",
       "direction_id": "1",
       "headsign": "GIEŁDOWA (Centrum Hurtu)",
       "service_id": "8",
@@ -16064,7 +16064,7 @@
       ]
     },
     {
-      "trip_id": "8_17616496",
+      "trip_id": "8_17720509",
       "direction_id": "0",
       "headsign": "POLANOWICE",
       "service_id": "8",
@@ -16450,7 +16450,7 @@
       ]
     },
     {
-      "trip_id": "8_17616497",
+      "trip_id": "8_17720510",
       "direction_id": "1",
       "headsign": "GIEŁDOWA (Centrum Hurtu)",
       "service_id": "8",
@@ -16863,7 +16863,7 @@
       ]
     },
     {
-      "trip_id": "8_17616498",
+      "trip_id": "8_17720511",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "8",
@@ -17204,7 +17204,7 @@
       ]
     },
     {
-      "trip_id": "8_17616501",
+      "trip_id": "8_17720514",
       "direction_id": "1",
       "headsign": "GIEŁDOWA (Centrum Hurtu)",
       "service_id": "8",
@@ -17347,7 +17347,7 @@
       ]
     },
     {
-      "trip_id": "8_17616502",
+      "trip_id": "8_17720515",
       "direction_id": "0",
       "headsign": "POLANOWICE",
       "service_id": "8",
@@ -17733,7 +17733,7 @@
       ]
     },
     {
-      "trip_id": "8_17616503",
+      "trip_id": "8_17720516",
       "direction_id": "1",
       "headsign": "GIEŁDOWA (Centrum Hurtu)",
       "service_id": "8",
@@ -18146,7 +18146,7 @@
       ]
     },
     {
-      "trip_id": "8_17616504",
+      "trip_id": "8_17720517",
       "direction_id": "0",
       "headsign": "POLANOWICE",
       "service_id": "8",
@@ -18532,7 +18532,7 @@
       ]
     },
     {
-      "trip_id": "8_17616505",
+      "trip_id": "8_17720518",
       "direction_id": "1",
       "headsign": "KRZYKI",
       "service_id": "8",
@@ -18855,7 +18855,7 @@
       ]
     },
     {
-      "trip_id": "8_17616506",
+      "trip_id": "8_17720519",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "8",
@@ -19061,7 +19061,7 @@
       ]
     },
     {
-      "trip_id": "8_17616523",
+      "trip_id": "8_17720536",
       "direction_id": "0",
       "headsign": "PETRUSEWICZA",
       "service_id": "8",

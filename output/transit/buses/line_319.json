@@ -2,7 +2,7 @@
   "line": "319",
   "trips": [
     {
-      "trip_id": "6_17610063",
+      "trip_id": "6_17714076",
       "direction_id": "1",
       "headsign": "KLECINA (Stacja Kolejowa)",
       "service_id": "6",
@@ -361,7 +361,7 @@
       ]
     },
     {
-      "trip_id": "6_17610064",
+      "trip_id": "6_17714077",
       "direction_id": "0",
       "headsign": "KAMIEŃSKIEGO (Pętla)",
       "service_id": "6",
@@ -765,7 +765,7 @@
       ]
     },
     {
-      "trip_id": "6_17610065",
+      "trip_id": "6_17714078",
       "direction_id": "1",
       "headsign": "KLECINA (Stacja Kolejowa)",
       "service_id": "6",
@@ -1160,7 +1160,7 @@
       ]
     },
     {
-      "trip_id": "6_17610066",
+      "trip_id": "6_17714079",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "6",
@@ -1519,7 +1519,7 @@
       ]
     },
     {
-      "trip_id": "6_17610067",
+      "trip_id": "6_17714080",
       "direction_id": "1",
       "headsign": "KLECINA (Stacja Kolejowa)",
       "service_id": "6",
@@ -1878,7 +1878,7 @@
       ]
     },
     {
-      "trip_id": "6_17610068",
+      "trip_id": "6_17714081",
       "direction_id": "0",
       "headsign": "KAMIEŃSKIEGO (Pętla)",
       "service_id": "6",
@@ -2282,7 +2282,7 @@
       ]
     },
     {
-      "trip_id": "6_17610069",
+      "trip_id": "6_17714082",
       "direction_id": "1",
       "headsign": "KLECINA (Stacja Kolejowa)",
       "service_id": "6",
@@ -2677,7 +2677,7 @@
       ]
     },
     {
-      "trip_id": "6_17610070",
+      "trip_id": "6_17714083",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "6",
@@ -3036,7 +3036,7 @@
       ]
     },
     {
-      "trip_id": "6_17610071",
+      "trip_id": "6_17714084",
       "direction_id": "1",
       "headsign": "KLECINA (Stacja Kolejowa)",
       "service_id": "6",
@@ -3395,7 +3395,7 @@
       ]
     },
     {
-      "trip_id": "6_17610072",
+      "trip_id": "6_17714085",
       "direction_id": "0",
       "headsign": "KAMIEŃSKIEGO (Pętla)",
       "service_id": "6",
@@ -3799,7 +3799,7 @@
       ]
     },
     {
-      "trip_id": "6_17610073",
+      "trip_id": "6_17714086",
       "direction_id": "1",
       "headsign": "KLECINA (Stacja Kolejowa)",
       "service_id": "6",
@@ -4194,7 +4194,7 @@
       ]
     },
     {
-      "trip_id": "6_17610074",
+      "trip_id": "6_17714087",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "6",
@@ -4553,7 +4553,7 @@
       ]
     },
     {
-      "trip_id": "6_17610075",
+      "trip_id": "6_17714088",
       "direction_id": "0",
       "headsign": "KAMIEŃSKIEGO (Pętla)",
       "service_id": "6",
@@ -4660,7 +4660,7 @@
       ]
     },
     {
-      "trip_id": "6_17610076",
+      "trip_id": "6_17714089",
       "direction_id": "1",
       "headsign": "KLECINA (Stacja Kolejowa)",
       "service_id": "6",
@@ -5055,7 +5055,7 @@
       ]
     },
     {
-      "trip_id": "6_17610077",
+      "trip_id": "6_17714090",
       "direction_id": "0",
       "headsign": "KAMIEŃSKIEGO (Pętla)",
       "service_id": "6",
@@ -5459,7 +5459,7 @@
       ]
     },
     {
-      "trip_id": "6_17610078",
+      "trip_id": "6_17714091",
       "direction_id": "1",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "6",
@@ -5557,7 +5557,7 @@
       ]
     },
     {
-      "trip_id": "6_17610079",
+      "trip_id": "6_17714092",
       "direction_id": "1",
       "headsign": "KLECINA (Stacja Kolejowa)",
       "service_id": "6",
@@ -5916,7 +5916,7 @@
       ]
     },
     {
-      "trip_id": "6_17610080",
+      "trip_id": "6_17714093",
       "direction_id": "0",
       "headsign": "KAMIEŃSKIEGO (Pętla)",
       "service_id": "6",
@@ -6320,7 +6320,7 @@
       ]
     },
     {
-      "trip_id": "6_17610081",
+      "trip_id": "6_17714094",
       "direction_id": "1",
       "headsign": "KLECINA (Stacja Kolejowa)",
       "service_id": "6",
@@ -6715,7 +6715,7 @@
       ]
     },
     {
-      "trip_id": "6_17610082",
+      "trip_id": "6_17714095",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "6",
@@ -7074,7 +7074,7 @@
       ]
     },
     {
-      "trip_id": "6_17610083",
+      "trip_id": "6_17714096",
       "direction_id": "0",
       "headsign": "KAMIEŃSKIEGO (Pętla)",
       "service_id": "6",
@@ -7181,7 +7181,7 @@
       ]
     },
     {
-      "trip_id": "6_17610084",
+      "trip_id": "6_17714097",
       "direction_id": "1",
       "headsign": "KLECINA (Stacja Kolejowa)",
       "service_id": "6",
@@ -7576,7 +7576,7 @@
       ]
     },
     {
-      "trip_id": "6_17610085",
+      "trip_id": "6_17714098",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "6",
@@ -7935,7 +7935,7 @@
       ]
     },
     {
-      "trip_id": "6_17610086",
+      "trip_id": "6_17714099",
       "direction_id": "0",
       "headsign": "KAMIEŃSKIEGO (Pętla)",
       "service_id": "6",
@@ -8042,7 +8042,7 @@
       ]
     },
     {
-      "trip_id": "6_17610087",
+      "trip_id": "6_17714100",
       "direction_id": "1",
       "headsign": "KLECINA (Stacja Kolejowa)",
       "service_id": "6",
@@ -8437,7 +8437,7 @@
       ]
     },
     {
-      "trip_id": "6_17610088",
+      "trip_id": "6_17714101",
       "direction_id": "0",
       "headsign": "KAMIEŃSKIEGO (Pętla)",
       "service_id": "6",
@@ -8841,7 +8841,7 @@
       ]
     },
     {
-      "trip_id": "6_17610089",
+      "trip_id": "6_17714102",
       "direction_id": "1",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "6",
@@ -8939,7 +8939,7 @@
       ]
     },
     {
-      "trip_id": "6_17610090",
+      "trip_id": "6_17714103",
       "direction_id": "1",
       "headsign": "KLECINA (Stacja Kolejowa)",
       "service_id": "6",
@@ -9298,7 +9298,7 @@
       ]
     },
     {
-      "trip_id": "6_17610091",
+      "trip_id": "6_17714104",
       "direction_id": "0",
       "headsign": "KAMIEŃSKIEGO (Pętla)",
       "service_id": "6",
@@ -9702,7 +9702,7 @@
       ]
     },
     {
-      "trip_id": "6_17610092",
+      "trip_id": "6_17714105",
       "direction_id": "1",
       "headsign": "KLECINA (Stacja Kolejowa)",
       "service_id": "6",
@@ -10097,7 +10097,7 @@
       ]
     },
     {
-      "trip_id": "6_17610093",
+      "trip_id": "6_17714106",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "6",
@@ -10456,7 +10456,7 @@
       ]
     },
     {
-      "trip_id": "6_17610094",
+      "trip_id": "6_17714107",
       "direction_id": "1",
       "headsign": "KLECINA (Stacja Kolejowa)",
       "service_id": "6",
@@ -10815,7 +10815,7 @@
       ]
     },
     {
-      "trip_id": "6_17610095",
+      "trip_id": "6_17714108",
       "direction_id": "0",
       "headsign": "KAMIEŃSKIEGO (Pętla)",
       "service_id": "6",
@@ -11219,7 +11219,7 @@
       ]
     },
     {
-      "trip_id": "6_17610096",
+      "trip_id": "6_17714109",
       "direction_id": "1",
       "headsign": "KLECINA (Stacja Kolejowa)",
       "service_id": "6",
@@ -11614,7 +11614,7 @@
       ]
     },
     {
-      "trip_id": "6_17610097",
+      "trip_id": "6_17714110",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "6",
@@ -11973,7 +11973,7 @@
       ]
     },
     {
-      "trip_id": "6_17610098",
+      "trip_id": "6_17714111",
       "direction_id": "1",
       "headsign": "KLECINA (Stacja Kolejowa)",
       "service_id": "6",
@@ -12332,7 +12332,7 @@
       ]
     },
     {
-      "trip_id": "6_17610099",
+      "trip_id": "6_17714112",
       "direction_id": "0",
       "headsign": "KAMIEŃSKIEGO (Pętla)",
       "service_id": "6",
@@ -12736,7 +12736,7 @@
       ]
     },
     {
-      "trip_id": "6_17610100",
+      "trip_id": "6_17714113",
       "direction_id": "1",
       "headsign": "KLECINA (Stacja Kolejowa)",
       "service_id": "6",
@@ -13131,7 +13131,7 @@
       ]
     },
     {
-      "trip_id": "6_17610101",
+      "trip_id": "6_17714114",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "6",
@@ -13490,7 +13490,7 @@
       ]
     },
     {
-      "trip_id": "6_17610103",
+      "trip_id": "6_17714116",
       "direction_id": "1",
       "headsign": "KLECINA (Stacja Kolejowa)",
       "service_id": "6",
@@ -13669,7 +13669,7 @@
       ]
     },
     {
-      "trip_id": "6_17610104",
+      "trip_id": "6_17714117",
       "direction_id": "0",
       "headsign": "KAMIEŃSKIEGO (Pętla)",
       "service_id": "6",
@@ -14073,7 +14073,7 @@
       ]
     },
     {
-      "trip_id": "6_17610105",
+      "trip_id": "6_17714118",
       "direction_id": "1",
       "headsign": "KLECINA (Stacja Kolejowa)",
       "service_id": "6",
@@ -14468,7 +14468,7 @@
       ]
     },
     {
-      "trip_id": "6_17610106",
+      "trip_id": "6_17714119",
       "direction_id": "0",
       "headsign": "KAMIEŃSKIEGO (Pętla)",
       "service_id": "6",
@@ -14872,7 +14872,7 @@
       ]
     },
     {
-      "trip_id": "6_17610107",
+      "trip_id": "6_17714120",
       "direction_id": "1",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "6",
@@ -14970,7 +14970,7 @@
       ]
     },
     {
-      "trip_id": "6_17610108",
+      "trip_id": "6_17714121",
       "direction_id": "0",
       "headsign": "KAMIEŃSKIEGO (Pętla)",
       "service_id": "6",
@@ -15077,7 +15077,7 @@
       ]
     },
     {
-      "trip_id": "6_17610109",
+      "trip_id": "6_17714122",
       "direction_id": "1",
       "headsign": "KLECINA (Stacja Kolejowa)",
       "service_id": "6",
@@ -15472,7 +15472,7 @@
       ]
     },
     {
-      "trip_id": "6_17610110",
+      "trip_id": "6_17714123",
       "direction_id": "0",
       "headsign": "POLANOWICE",
       "service_id": "6",
@@ -15912,7 +15912,7 @@
       ]
     },
     {
-      "trip_id": "8_17616892",
+      "trip_id": "8_17720905",
       "direction_id": "1",
       "headsign": "KLECINA (Stacja Kolejowa)",
       "service_id": "8",
@@ -16271,7 +16271,7 @@
       ]
     },
     {
-      "trip_id": "8_17616893",
+      "trip_id": "8_17720906",
       "direction_id": "0",
       "headsign": "KAMIEŃSKIEGO (Pętla)",
       "service_id": "8",
@@ -16675,7 +16675,7 @@
       ]
     },
     {
-      "trip_id": "8_17616894",
+      "trip_id": "8_17720907",
       "direction_id": "1",
       "headsign": "KLECINA (Stacja Kolejowa)",
       "service_id": "8",
@@ -17070,7 +17070,7 @@
       ]
     },
     {
-      "trip_id": "8_17616895",
+      "trip_id": "8_17720908",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "8",
@@ -17429,7 +17429,7 @@
       ]
     },
     {
-      "trip_id": "8_17616896",
+      "trip_id": "8_17720909",
       "direction_id": "1",
       "headsign": "KLECINA (Stacja Kolejowa)",
       "service_id": "8",
@@ -17788,7 +17788,7 @@
       ]
     },
     {
-      "trip_id": "8_17616897",
+      "trip_id": "8_17720910",
       "direction_id": "0",
       "headsign": "KAMIEŃSKIEGO (Pętla)",
       "service_id": "8",
@@ -18192,7 +18192,7 @@
       ]
     },
     {
-      "trip_id": "8_17616898",
+      "trip_id": "8_17720911",
       "direction_id": "1",
       "headsign": "KLECINA (Stacja Kolejowa)",
       "service_id": "8",
@@ -18587,7 +18587,7 @@
       ]
     },
     {
-      "trip_id": "8_17616899",
+      "trip_id": "8_17720912",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "8",
@@ -18946,7 +18946,7 @@
       ]
     },
     {
-      "trip_id": "8_17616900",
+      "trip_id": "8_17720913",
       "direction_id": "1",
       "headsign": "KLECINA (Stacja Kolejowa)",
       "service_id": "8",
@@ -19305,7 +19305,7 @@
       ]
     },
     {
-      "trip_id": "8_17616901",
+      "trip_id": "8_17720914",
       "direction_id": "0",
       "headsign": "KAMIEŃSKIEGO (Pętla)",
       "service_id": "8",
@@ -19709,7 +19709,7 @@
       ]
     },
     {
-      "trip_id": "8_17616902",
+      "trip_id": "8_17720915",
       "direction_id": "1",
       "headsign": "KLECINA (Stacja Kolejowa)",
       "service_id": "8",
@@ -20104,7 +20104,7 @@
       ]
     },
     {
-      "trip_id": "8_17616903",
+      "trip_id": "8_17720916",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "8",
@@ -20463,7 +20463,7 @@
       ]
     },
     {
-      "trip_id": "8_17616904",
+      "trip_id": "8_17720917",
       "direction_id": "0",
       "headsign": "KAMIEŃSKIEGO (Pętla)",
       "service_id": "8",
@@ -20570,7 +20570,7 @@
       ]
     },
     {
-      "trip_id": "8_17616905",
+      "trip_id": "8_17720918",
       "direction_id": "1",
       "headsign": "KLECINA (Stacja Kolejowa)",
       "service_id": "8",
@@ -20965,7 +20965,7 @@
       ]
     },
     {
-      "trip_id": "8_17616906",
+      "trip_id": "8_17720919",
       "direction_id": "0",
       "headsign": "KAMIEŃSKIEGO (Pętla)",
       "service_id": "8",
@@ -21369,7 +21369,7 @@
       ]
     },
     {
-      "trip_id": "8_17616907",
+      "trip_id": "8_17720920",
       "direction_id": "1",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "8",
@@ -21467,7 +21467,7 @@
       ]
     },
     {
-      "trip_id": "8_17616908",
+      "trip_id": "8_17720921",
       "direction_id": "1",
       "headsign": "KLECINA (Stacja Kolejowa)",
       "service_id": "8",
@@ -21826,7 +21826,7 @@
       ]
     },
     {
-      "trip_id": "8_17616909",
+      "trip_id": "8_17720922",
       "direction_id": "0",
       "headsign": "KAMIEŃSKIEGO (Pętla)",
       "service_id": "8",
@@ -22230,7 +22230,7 @@
       ]
     },
     {
-      "trip_id": "8_17616910",
+      "trip_id": "8_17720923",
       "direction_id": "1",
       "headsign": "KLECINA (Stacja Kolejowa)",
       "service_id": "8",
@@ -22625,7 +22625,7 @@
       ]
     },
     {
-      "trip_id": "8_17616911",
+      "trip_id": "8_17720924",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "8",
@@ -22984,7 +22984,7 @@
       ]
     },
     {
-      "trip_id": "8_17616912",
+      "trip_id": "8_17720925",
       "direction_id": "0",
       "headsign": "KAMIEŃSKIEGO (Pętla)",
       "service_id": "8",
@@ -23091,7 +23091,7 @@
       ]
     },
     {
-      "trip_id": "8_17616913",
+      "trip_id": "8_17720926",
       "direction_id": "1",
       "headsign": "KLECINA (Stacja Kolejowa)",
       "service_id": "8",
@@ -23486,7 +23486,7 @@
       ]
     },
     {
-      "trip_id": "8_17616914",
+      "trip_id": "8_17720927",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "8",
@@ -23845,7 +23845,7 @@
       ]
     },
     {
-      "trip_id": "8_17616915",
+      "trip_id": "8_17720928",
       "direction_id": "0",
       "headsign": "KAMIEŃSKIEGO (Pętla)",
       "service_id": "8",
@@ -23952,7 +23952,7 @@
       ]
     },
     {
-      "trip_id": "8_17616916",
+      "trip_id": "8_17720929",
       "direction_id": "1",
       "headsign": "KLECINA (Stacja Kolejowa)",
       "service_id": "8",
@@ -24347,7 +24347,7 @@
       ]
     },
     {
-      "trip_id": "8_17616917",
+      "trip_id": "8_17720930",
       "direction_id": "0",
       "headsign": "KAMIEŃSKIEGO (Pętla)",
       "service_id": "8",
@@ -24751,7 +24751,7 @@
       ]
     },
     {
-      "trip_id": "8_17616918",
+      "trip_id": "8_17720931",
       "direction_id": "1",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "8",
@@ -24849,7 +24849,7 @@
       ]
     },
     {
-      "trip_id": "8_17616919",
+      "trip_id": "8_17720932",
       "direction_id": "1",
       "headsign": "KLECINA (Stacja Kolejowa)",
       "service_id": "8",
@@ -25208,7 +25208,7 @@
       ]
     },
     {
-      "trip_id": "8_17616920",
+      "trip_id": "8_17720933",
       "direction_id": "0",
       "headsign": "KAMIEŃSKIEGO (Pętla)",
       "service_id": "8",
@@ -25612,7 +25612,7 @@
       ]
     },
     {
-      "trip_id": "8_17616921",
+      "trip_id": "8_17720934",
       "direction_id": "1",
       "headsign": "KLECINA (Stacja Kolejowa)",
       "service_id": "8",
@@ -26007,7 +26007,7 @@
       ]
     },
     {
-      "trip_id": "8_17616922",
+      "trip_id": "8_17720935",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "8",
@@ -26366,7 +26366,7 @@
       ]
     },
     {
-      "trip_id": "8_17616923",
+      "trip_id": "8_17720936",
       "direction_id": "1",
       "headsign": "KLECINA (Stacja Kolejowa)",
       "service_id": "8",
@@ -26725,7 +26725,7 @@
       ]
     },
     {
-      "trip_id": "8_17616924",
+      "trip_id": "8_17720937",
       "direction_id": "0",
       "headsign": "KAMIEŃSKIEGO (Pętla)",
       "service_id": "8",
@@ -27129,7 +27129,7 @@
       ]
     },
     {
-      "trip_id": "8_17616925",
+      "trip_id": "8_17720938",
       "direction_id": "1",
       "headsign": "KLECINA (Stacja Kolejowa)",
       "service_id": "8",
@@ -27524,7 +27524,7 @@
       ]
     },
     {
-      "trip_id": "8_17616926",
+      "trip_id": "8_17720939",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "8",
@@ -27883,7 +27883,7 @@
       ]
     },
     {
-      "trip_id": "8_17616927",
+      "trip_id": "8_17720940",
       "direction_id": "1",
       "headsign": "KLECINA (Stacja Kolejowa)",
       "service_id": "8",
@@ -28242,7 +28242,7 @@
       ]
     },
     {
-      "trip_id": "8_17616928",
+      "trip_id": "8_17720941",
       "direction_id": "0",
       "headsign": "KAMIEŃSKIEGO (Pętla)",
       "service_id": "8",
@@ -28646,7 +28646,7 @@
       ]
     },
     {
-      "trip_id": "8_17616929",
+      "trip_id": "8_17720942",
       "direction_id": "1",
       "headsign": "KLECINA (Stacja Kolejowa)",
       "service_id": "8",
@@ -29041,7 +29041,7 @@
       ]
     },
     {
-      "trip_id": "8_17616930",
+      "trip_id": "8_17720943",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "8",
@@ -29400,7 +29400,7 @@
       ]
     },
     {
-      "trip_id": "8_17616932",
+      "trip_id": "8_17720945",
       "direction_id": "1",
       "headsign": "KLECINA (Stacja Kolejowa)",
       "service_id": "8",
@@ -29579,7 +29579,7 @@
       ]
     },
     {
-      "trip_id": "8_17616933",
+      "trip_id": "8_17720946",
       "direction_id": "0",
       "headsign": "KAMIEŃSKIEGO (Pętla)",
       "service_id": "8",
@@ -29983,7 +29983,7 @@
       ]
     },
     {
-      "trip_id": "8_17616934",
+      "trip_id": "8_17720947",
       "direction_id": "1",
       "headsign": "KLECINA (Stacja Kolejowa)",
       "service_id": "8",
@@ -30378,7 +30378,7 @@
       ]
     },
     {
-      "trip_id": "8_17616935",
+      "trip_id": "8_17720948",
       "direction_id": "0",
       "headsign": "KAMIEŃSKIEGO (Pętla)",
       "service_id": "8",
@@ -30782,7 +30782,7 @@
       ]
     },
     {
-      "trip_id": "8_17616936",
+      "trip_id": "8_17720949",
       "direction_id": "1",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "8",
@@ -30880,7 +30880,7 @@
       ]
     },
     {
-      "trip_id": "8_17616937",
+      "trip_id": "8_17720950",
       "direction_id": "0",
       "headsign": "KAMIEŃSKIEGO (Pętla)",
       "service_id": "8",
@@ -30987,7 +30987,7 @@
       ]
     },
     {
-      "trip_id": "8_17616938",
+      "trip_id": "8_17720951",
       "direction_id": "1",
       "headsign": "KLECINA (Stacja Kolejowa)",
       "service_id": "8",
@@ -31382,7 +31382,7 @@
       ]
     },
     {
-      "trip_id": "8_17616939",
+      "trip_id": "8_17720952",
       "direction_id": "0",
       "headsign": "POLANOWICE",
       "service_id": "8",

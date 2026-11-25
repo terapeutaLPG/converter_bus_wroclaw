@@ -2,7 +2,7 @@
   "line": "132",
   "trips": [
     {
-      "trip_id": "3_17597530",
+      "trip_id": "3_17701543",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "3",
@@ -118,7 +118,7 @@
       ]
     },
     {
-      "trip_id": "3_17597531",
+      "trip_id": "3_17701544",
       "direction_id": "1",
       "headsign": "OPORÓW",
       "service_id": "3",
@@ -252,7 +252,7 @@
         {
           "stop_sequence": 14,
           "stop_id": "242",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 07",
           "arrival_time": "06:55:00",
           "departure_time": "06:55:00",
           "lat": 51.11215441,
@@ -459,7 +459,7 @@
       ]
     },
     {
-      "trip_id": "3_17597532",
+      "trip_id": "3_17701545",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "3",
@@ -674,7 +674,7 @@
         {
           "stop_sequence": 23,
           "stop_id": "240",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 08",
           "arrival_time": "08:19:00",
           "departure_time": "08:19:00",
           "lat": 51.11175007,
@@ -800,7 +800,7 @@
       ]
     },
     {
-      "trip_id": "3_17597533",
+      "trip_id": "3_17701546",
       "direction_id": "1",
       "headsign": "OPORÓW",
       "service_id": "3",
@@ -934,7 +934,7 @@
         {
           "stop_sequence": 14,
           "stop_id": "242",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 07",
           "arrival_time": "09:28:00",
           "departure_time": "09:28:00",
           "lat": 51.11215441,
@@ -1141,7 +1141,7 @@
       ]
     },
     {
-      "trip_id": "3_17597534",
+      "trip_id": "3_17701547",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "3",
@@ -1356,7 +1356,7 @@
         {
           "stop_sequence": 23,
           "stop_id": "240",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 08",
           "arrival_time": "10:49:00",
           "departure_time": "10:49:00",
           "lat": 51.11175007,
@@ -1482,7 +1482,7 @@
       ]
     },
     {
-      "trip_id": "3_17597535",
+      "trip_id": "3_17701548",
       "direction_id": "1",
       "headsign": "OPORÓW",
       "service_id": "3",
@@ -1616,7 +1616,7 @@
         {
           "stop_sequence": 14,
           "stop_id": "242",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 07",
           "arrival_time": "11:58:00",
           "departure_time": "11:58:00",
           "lat": 51.11215441,
@@ -1823,7 +1823,7 @@
       ]
     },
     {
-      "trip_id": "3_17597536",
+      "trip_id": "3_17701549",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "3",
@@ -2038,7 +2038,7 @@
         {
           "stop_sequence": 23,
           "stop_id": "240",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 08",
           "arrival_time": "13:19:00",
           "departure_time": "13:19:00",
           "lat": 51.11175007,
@@ -2164,7 +2164,7 @@
       ]
     },
     {
-      "trip_id": "3_17597537",
+      "trip_id": "3_17701550",
       "direction_id": "1",
       "headsign": "OPORÓW",
       "service_id": "3",
@@ -2298,7 +2298,7 @@
         {
           "stop_sequence": 14,
           "stop_id": "242",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 07",
           "arrival_time": "14:28:00",
           "departure_time": "14:28:00",
           "lat": 51.11215441,
@@ -2505,7 +2505,7 @@
       ]
     },
     {
-      "trip_id": "3_17597538",
+      "trip_id": "3_17701551",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "3",
@@ -2720,7 +2720,7 @@
         {
           "stop_sequence": 23,
           "stop_id": "240",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 08",
           "arrival_time": "15:49:00",
           "departure_time": "15:49:00",
           "lat": 51.11175007,
@@ -2846,7 +2846,7 @@
       ]
     },
     {
-      "trip_id": "3_17597539",
+      "trip_id": "3_17701552",
       "direction_id": "1",
       "headsign": "OPORÓW",
       "service_id": "3",
@@ -2980,7 +2980,7 @@
         {
           "stop_sequence": 14,
           "stop_id": "242",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 07",
           "arrival_time": "16:58:00",
           "departure_time": "16:58:00",
           "lat": 51.11215441,
@@ -3187,7 +3187,7 @@
       ]
     },
     {
-      "trip_id": "3_17597540",
+      "trip_id": "3_17701553",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "3",
@@ -3402,7 +3402,7 @@
         {
           "stop_sequence": 23,
           "stop_id": "240",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 08",
           "arrival_time": "18:19:00",
           "departure_time": "18:19:00",
           "lat": 51.11175007,
@@ -3528,7 +3528,7 @@
       ]
     },
     {
-      "trip_id": "3_17597541",
+      "trip_id": "3_17701554",
       "direction_id": "1",
       "headsign": "OPORÓW",
       "service_id": "3",
@@ -3662,7 +3662,7 @@
         {
           "stop_sequence": 14,
           "stop_id": "242",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 07",
           "arrival_time": "19:28:00",
           "departure_time": "19:28:00",
           "lat": 51.11215441,
@@ -3869,7 +3869,7 @@
       ]
     },
     {
-      "trip_id": "3_17597542",
+      "trip_id": "3_17701555",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "3",
@@ -4084,7 +4084,7 @@
         {
           "stop_sequence": 23,
           "stop_id": "240",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 08",
           "arrival_time": "20:40:00",
           "departure_time": "20:40:00",
           "lat": 51.11175007,
@@ -4210,7 +4210,7 @@
       ]
     },
     {
-      "trip_id": "3_17597543",
+      "trip_id": "3_17701556",
       "direction_id": "1",
       "headsign": "OPORÓW",
       "service_id": "3",
@@ -4344,7 +4344,7 @@
         {
           "stop_sequence": 14,
           "stop_id": "242",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 07",
           "arrival_time": "21:50:00",
           "departure_time": "21:50:00",
           "lat": 51.11215441,
@@ -4551,7 +4551,7 @@
       ]
     },
     {
-      "trip_id": "3_17597544",
+      "trip_id": "3_17701557",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "3",
@@ -4766,7 +4766,7 @@
         {
           "stop_sequence": 23,
           "stop_id": "240",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 08",
           "arrival_time": "23:18:00",
           "departure_time": "23:18:00",
           "lat": 51.11175007,
@@ -4892,7 +4892,7 @@
       ]
     },
     {
-      "trip_id": "3_17597545",
+      "trip_id": "3_17701558",
       "direction_id": "1",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "3",
@@ -5008,7 +5008,7 @@
       ]
     },
     {
-      "trip_id": "3_17597546",
+      "trip_id": "3_17701559",
       "direction_id": "1",
       "headsign": "OPORÓW",
       "service_id": "3",
@@ -5124,7 +5124,7 @@
         {
           "stop_sequence": 12,
           "stop_id": "242",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 07",
           "arrival_time": "04:59:00",
           "departure_time": "04:59:00",
           "lat": 51.11215441,
@@ -5331,7 +5331,7 @@
       ]
     },
     {
-      "trip_id": "3_17597547",
+      "trip_id": "3_17701560",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "3",
@@ -5546,7 +5546,7 @@
         {
           "stop_sequence": 23,
           "stop_id": "240",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 08",
           "arrival_time": "06:19:00",
           "departure_time": "06:19:00",
           "lat": 51.11175007,
@@ -5672,7 +5672,7 @@
       ]
     },
     {
-      "trip_id": "3_17597548",
+      "trip_id": "3_17701561",
       "direction_id": "1",
       "headsign": "OPORÓW",
       "service_id": "3",
@@ -5806,7 +5806,7 @@
         {
           "stop_sequence": 14,
           "stop_id": "242",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 07",
           "arrival_time": "07:25:00",
           "departure_time": "07:25:00",
           "lat": 51.11215441,
@@ -6013,7 +6013,7 @@
       ]
     },
     {
-      "trip_id": "3_17597549",
+      "trip_id": "3_17701562",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "3",
@@ -6228,7 +6228,7 @@
         {
           "stop_sequence": 23,
           "stop_id": "240",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 08",
           "arrival_time": "08:49:00",
           "departure_time": "08:49:00",
           "lat": 51.11175007,
@@ -6354,7 +6354,7 @@
       ]
     },
     {
-      "trip_id": "3_17597550",
+      "trip_id": "3_17701563",
       "direction_id": "1",
       "headsign": "OPORÓW",
       "service_id": "3",
@@ -6488,7 +6488,7 @@
         {
           "stop_sequence": 14,
           "stop_id": "242",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 07",
           "arrival_time": "09:58:00",
           "departure_time": "09:58:00",
           "lat": 51.11215441,
@@ -6695,7 +6695,7 @@
       ]
     },
     {
-      "trip_id": "3_17597551",
+      "trip_id": "3_17701564",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "3",
@@ -6910,7 +6910,7 @@
         {
           "stop_sequence": 23,
           "stop_id": "240",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 08",
           "arrival_time": "11:19:00",
           "departure_time": "11:19:00",
           "lat": 51.11175007,
@@ -7036,7 +7036,7 @@
       ]
     },
     {
-      "trip_id": "3_17597552",
+      "trip_id": "3_17701565",
       "direction_id": "1",
       "headsign": "OPORÓW",
       "service_id": "3",
@@ -7170,7 +7170,7 @@
         {
           "stop_sequence": 14,
           "stop_id": "242",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 07",
           "arrival_time": "12:28:00",
           "departure_time": "12:28:00",
           "lat": 51.11215441,
@@ -7377,7 +7377,7 @@
       ]
     },
     {
-      "trip_id": "3_17597553",
+      "trip_id": "3_17701566",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "3",
@@ -7592,7 +7592,7 @@
         {
           "stop_sequence": 23,
           "stop_id": "240",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 08",
           "arrival_time": "13:49:00",
           "departure_time": "13:49:00",
           "lat": 51.11175007,
@@ -7718,7 +7718,7 @@
       ]
     },
     {
-      "trip_id": "3_17597554",
+      "trip_id": "3_17701567",
       "direction_id": "1",
       "headsign": "OPORÓW",
       "service_id": "3",
@@ -7852,7 +7852,7 @@
         {
           "stop_sequence": 14,
           "stop_id": "242",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 07",
           "arrival_time": "14:58:00",
           "departure_time": "14:58:00",
           "lat": 51.11215441,
@@ -8059,7 +8059,7 @@
       ]
     },
     {
-      "trip_id": "3_17597555",
+      "trip_id": "3_17701568",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "3",
@@ -8274,7 +8274,7 @@
         {
           "stop_sequence": 23,
           "stop_id": "240",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 08",
           "arrival_time": "16:19:00",
           "departure_time": "16:19:00",
           "lat": 51.11175007,
@@ -8400,7 +8400,7 @@
       ]
     },
     {
-      "trip_id": "3_17597556",
+      "trip_id": "3_17701569",
       "direction_id": "1",
       "headsign": "OPORÓW",
       "service_id": "3",
@@ -8534,7 +8534,7 @@
         {
           "stop_sequence": 14,
           "stop_id": "242",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 07",
           "arrival_time": "17:28:00",
           "departure_time": "17:28:00",
           "lat": 51.11215441,
@@ -8741,7 +8741,7 @@
       ]
     },
     {
-      "trip_id": "3_17597557",
+      "trip_id": "3_17701570",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "3",
@@ -8956,7 +8956,7 @@
         {
           "stop_sequence": 23,
           "stop_id": "240",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 08",
           "arrival_time": "18:49:00",
           "departure_time": "18:49:00",
           "lat": 51.11175007,
@@ -9082,7 +9082,7 @@
       ]
     },
     {
-      "trip_id": "3_17597558",
+      "trip_id": "3_17701571",
       "direction_id": "1",
       "headsign": "OPORÓW",
       "service_id": "3",
@@ -9216,7 +9216,7 @@
         {
           "stop_sequence": 14,
           "stop_id": "242",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 07",
           "arrival_time": "19:58:00",
           "departure_time": "19:58:00",
           "lat": 51.11215441,
@@ -9423,7 +9423,7 @@
       ]
     },
     {
-      "trip_id": "3_17597559",
+      "trip_id": "3_17701572",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "3",
@@ -9638,7 +9638,7 @@
         {
           "stop_sequence": 23,
           "stop_id": "240",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 08",
           "arrival_time": "21:10:00",
           "departure_time": "21:10:00",
           "lat": 51.11175007,
@@ -9764,7 +9764,7 @@
       ]
     },
     {
-      "trip_id": "3_17597560",
+      "trip_id": "3_17701573",
       "direction_id": "1",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "3",
@@ -9880,7 +9880,7 @@
       ]
     },
     {
-      "trip_id": "3_17597561",
+      "trip_id": "3_17701574",
       "direction_id": "1",
       "headsign": "OPORÓW",
       "service_id": "3",
@@ -9996,7 +9996,7 @@
         {
           "stop_sequence": 12,
           "stop_id": "242",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 07",
           "arrival_time": "05:25:00",
           "departure_time": "05:25:00",
           "lat": 51.11215441,
@@ -10203,7 +10203,7 @@
       ]
     },
     {
-      "trip_id": "3_17597562",
+      "trip_id": "3_17701575",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "3",
@@ -10418,7 +10418,7 @@
         {
           "stop_sequence": 23,
           "stop_id": "240",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 08",
           "arrival_time": "06:49:00",
           "departure_time": "06:49:00",
           "lat": 51.11175007,
@@ -10544,7 +10544,7 @@
       ]
     },
     {
-      "trip_id": "3_17597563",
+      "trip_id": "3_17701576",
       "direction_id": "1",
       "headsign": "OPORÓW",
       "service_id": "3",
@@ -10678,7 +10678,7 @@
         {
           "stop_sequence": 14,
           "stop_id": "242",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 07",
           "arrival_time": "07:55:00",
           "departure_time": "07:55:00",
           "lat": 51.11215441,
@@ -10885,7 +10885,7 @@
       ]
     },
     {
-      "trip_id": "3_17597564",
+      "trip_id": "3_17701577",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "3",
@@ -11100,7 +11100,7 @@
         {
           "stop_sequence": 23,
           "stop_id": "240",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 08",
           "arrival_time": "09:19:00",
           "departure_time": "09:19:00",
           "lat": 51.11175007,
@@ -11226,7 +11226,7 @@
       ]
     },
     {
-      "trip_id": "3_17597565",
+      "trip_id": "3_17701578",
       "direction_id": "1",
       "headsign": "OPORÓW",
       "service_id": "3",
@@ -11360,7 +11360,7 @@
         {
           "stop_sequence": 14,
           "stop_id": "242",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 07",
           "arrival_time": "10:28:00",
           "departure_time": "10:28:00",
           "lat": 51.11215441,
@@ -11567,7 +11567,7 @@
       ]
     },
     {
-      "trip_id": "3_17597566",
+      "trip_id": "3_17701579",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "3",
@@ -11782,7 +11782,7 @@
         {
           "stop_sequence": 23,
           "stop_id": "240",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 08",
           "arrival_time": "11:49:00",
           "departure_time": "11:49:00",
           "lat": 51.11175007,
@@ -11908,7 +11908,7 @@
       ]
     },
     {
-      "trip_id": "3_17597567",
+      "trip_id": "3_17701580",
       "direction_id": "1",
       "headsign": "OPORÓW",
       "service_id": "3",
@@ -12042,7 +12042,7 @@
         {
           "stop_sequence": 14,
           "stop_id": "242",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 07",
           "arrival_time": "12:58:00",
           "departure_time": "12:58:00",
           "lat": 51.11215441,
@@ -12249,7 +12249,7 @@
       ]
     },
     {
-      "trip_id": "3_17597568",
+      "trip_id": "3_17701581",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "3",
@@ -12464,7 +12464,7 @@
         {
           "stop_sequence": 23,
           "stop_id": "240",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 08",
           "arrival_time": "14:19:00",
           "departure_time": "14:19:00",
           "lat": 51.11175007,
@@ -12590,7 +12590,7 @@
       ]
     },
     {
-      "trip_id": "3_17597569",
+      "trip_id": "3_17701582",
       "direction_id": "1",
       "headsign": "OPORÓW",
       "service_id": "3",
@@ -12724,7 +12724,7 @@
         {
           "stop_sequence": 14,
           "stop_id": "242",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 07",
           "arrival_time": "15:28:00",
           "departure_time": "15:28:00",
           "lat": 51.11215441,
@@ -12931,7 +12931,7 @@
       ]
     },
     {
-      "trip_id": "3_17597570",
+      "trip_id": "3_17701583",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "3",
@@ -13146,7 +13146,7 @@
         {
           "stop_sequence": 23,
           "stop_id": "240",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 08",
           "arrival_time": "16:49:00",
           "departure_time": "16:49:00",
           "lat": 51.11175007,
@@ -13272,7 +13272,7 @@
       ]
     },
     {
-      "trip_id": "3_17597571",
+      "trip_id": "3_17701584",
       "direction_id": "1",
       "headsign": "OPORÓW",
       "service_id": "3",
@@ -13406,7 +13406,7 @@
         {
           "stop_sequence": 14,
           "stop_id": "242",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 07",
           "arrival_time": "17:58:00",
           "departure_time": "17:58:00",
           "lat": 51.11215441,
@@ -13613,7 +13613,7 @@
       ]
     },
     {
-      "trip_id": "3_17597572",
+      "trip_id": "3_17701585",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "3",
@@ -13828,7 +13828,7 @@
         {
           "stop_sequence": 23,
           "stop_id": "240",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 08",
           "arrival_time": "19:19:00",
           "departure_time": "19:19:00",
           "lat": 51.11175007,
@@ -13954,7 +13954,7 @@
       ]
     },
     {
-      "trip_id": "3_17597573",
+      "trip_id": "3_17701586",
       "direction_id": "1",
       "headsign": "OPORÓW",
       "service_id": "3",
@@ -14088,7 +14088,7 @@
         {
           "stop_sequence": 14,
           "stop_id": "242",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 07",
           "arrival_time": "20:23:00",
           "departure_time": "20:23:00",
           "lat": 51.11215441,
@@ -14295,7 +14295,7 @@
       ]
     },
     {
-      "trip_id": "3_17597574",
+      "trip_id": "3_17701587",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "3",
@@ -14510,7 +14510,7 @@
         {
           "stop_sequence": 23,
           "stop_id": "240",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 08",
           "arrival_time": "21:40:00",
           "departure_time": "21:40:00",
           "lat": 51.11175007,
@@ -14636,7 +14636,7 @@
       ]
     },
     {
-      "trip_id": "3_17597575",
+      "trip_id": "3_17701588",
       "direction_id": "1",
       "headsign": "OPORÓW",
       "service_id": "3",
@@ -14770,7 +14770,7 @@
         {
           "stop_sequence": 14,
           "stop_id": "242",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 07",
           "arrival_time": "22:52:00",
           "departure_time": "22:52:00",
           "lat": 51.11215441,
@@ -14977,7 +14977,7 @@
       ]
     },
     {
-      "trip_id": "3_17597576",
+      "trip_id": "3_17701589",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "3",
@@ -15192,7 +15192,7 @@
         {
           "stop_sequence": 23,
           "stop_id": "240",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 08",
           "arrival_time": "23:56:00",
           "departure_time": "23:56:00",
           "lat": 51.11175007,
@@ -15300,7 +15300,7 @@
       ]
     },
     {
-      "trip_id": "3_17597577",
+      "trip_id": "3_17701590",
       "direction_id": "1",
       "headsign": "OPORÓW",
       "service_id": "3",
@@ -15416,7 +15416,7 @@
         {
           "stop_sequence": 12,
           "stop_id": "242",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 07",
           "arrival_time": "05:55:00",
           "departure_time": "05:55:00",
           "lat": 51.11215441,
@@ -15623,7 +15623,7 @@
       ]
     },
     {
-      "trip_id": "3_17597578",
+      "trip_id": "3_17701591",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "3",
@@ -15838,7 +15838,7 @@
         {
           "stop_sequence": 23,
           "stop_id": "240",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 08",
           "arrival_time": "07:19:00",
           "departure_time": "07:19:00",
           "lat": 51.11175007,
@@ -15964,7 +15964,7 @@
       ]
     },
     {
-      "trip_id": "3_17597579",
+      "trip_id": "3_17701592",
       "direction_id": "1",
       "headsign": "OPORÓW",
       "service_id": "3",
@@ -16098,7 +16098,7 @@
         {
           "stop_sequence": 14,
           "stop_id": "242",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 07",
           "arrival_time": "08:25:00",
           "departure_time": "08:25:00",
           "lat": 51.11215441,
@@ -16305,7 +16305,7 @@
       ]
     },
     {
-      "trip_id": "3_17597580",
+      "trip_id": "3_17701593",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "3",
@@ -16520,7 +16520,7 @@
         {
           "stop_sequence": 23,
           "stop_id": "240",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 08",
           "arrival_time": "09:49:00",
           "departure_time": "09:49:00",
           "lat": 51.11175007,
@@ -16646,7 +16646,7 @@
       ]
     },
     {
-      "trip_id": "3_17597581",
+      "trip_id": "3_17701594",
       "direction_id": "1",
       "headsign": "OPORÓW",
       "service_id": "3",
@@ -16780,7 +16780,7 @@
         {
           "stop_sequence": 14,
           "stop_id": "242",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 07",
           "arrival_time": "10:58:00",
           "departure_time": "10:58:00",
           "lat": 51.11215441,
@@ -16987,7 +16987,7 @@
       ]
     },
     {
-      "trip_id": "3_17597582",
+      "trip_id": "3_17701595",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "3",
@@ -17202,7 +17202,7 @@
         {
           "stop_sequence": 23,
           "stop_id": "240",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 08",
           "arrival_time": "12:19:00",
           "departure_time": "12:19:00",
           "lat": 51.11175007,
@@ -17328,7 +17328,7 @@
       ]
     },
     {
-      "trip_id": "3_17597583",
+      "trip_id": "3_17701596",
       "direction_id": "1",
       "headsign": "OPORÓW",
       "service_id": "3",
@@ -17462,7 +17462,7 @@
         {
           "stop_sequence": 14,
           "stop_id": "242",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 07",
           "arrival_time": "13:28:00",
           "departure_time": "13:28:00",
           "lat": 51.11215441,
@@ -17669,7 +17669,7 @@
       ]
     },
     {
-      "trip_id": "3_17597584",
+      "trip_id": "3_17701597",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "3",
@@ -17884,7 +17884,7 @@
         {
           "stop_sequence": 23,
           "stop_id": "240",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 08",
           "arrival_time": "14:49:00",
           "departure_time": "14:49:00",
           "lat": 51.11175007,
@@ -18010,7 +18010,7 @@
       ]
     },
     {
-      "trip_id": "3_17597585",
+      "trip_id": "3_17701598",
       "direction_id": "1",
       "headsign": "OPORÓW",
       "service_id": "3",
@@ -18144,7 +18144,7 @@
         {
           "stop_sequence": 14,
           "stop_id": "242",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 07",
           "arrival_time": "15:58:00",
           "departure_time": "15:58:00",
           "lat": 51.11215441,
@@ -18351,7 +18351,7 @@
       ]
     },
     {
-      "trip_id": "3_17597586",
+      "trip_id": "3_17701599",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "3",
@@ -18566,7 +18566,7 @@
         {
           "stop_sequence": 23,
           "stop_id": "240",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 08",
           "arrival_time": "17:19:00",
           "departure_time": "17:19:00",
           "lat": 51.11175007,
@@ -18692,7 +18692,7 @@
       ]
     },
     {
-      "trip_id": "3_17597587",
+      "trip_id": "3_17701600",
       "direction_id": "1",
       "headsign": "OPORÓW",
       "service_id": "3",
@@ -18826,7 +18826,7 @@
         {
           "stop_sequence": 14,
           "stop_id": "242",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 07",
           "arrival_time": "18:28:00",
           "departure_time": "18:28:00",
           "lat": 51.11215441,
@@ -19033,7 +19033,7 @@
       ]
     },
     {
-      "trip_id": "3_17597588",
+      "trip_id": "3_17701601",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "3",
@@ -19248,7 +19248,7 @@
         {
           "stop_sequence": 23,
           "stop_id": "240",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 08",
           "arrival_time": "19:49:00",
           "departure_time": "19:49:00",
           "lat": 51.11175007,
@@ -19374,7 +19374,7 @@
       ]
     },
     {
-      "trip_id": "3_17597589",
+      "trip_id": "3_17701602",
       "direction_id": "1",
       "headsign": "OPORÓW",
       "service_id": "3",
@@ -19508,7 +19508,7 @@
         {
           "stop_sequence": 14,
           "stop_id": "242",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 07",
           "arrival_time": "20:50:00",
           "departure_time": "20:50:00",
           "lat": 51.11215441,
@@ -19715,7 +19715,7 @@
       ]
     },
     {
-      "trip_id": "3_17597590",
+      "trip_id": "3_17701603",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "3",
@@ -19930,7 +19930,7 @@
         {
           "stop_sequence": 23,
           "stop_id": "240",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 08",
           "arrival_time": "22:03:00",
           "departure_time": "22:03:00",
           "lat": 51.11175007,
@@ -20038,7 +20038,7 @@
       ]
     },
     {
-      "trip_id": "3_17597591",
+      "trip_id": "3_17701604",
       "direction_id": "1",
       "headsign": "OPORÓW",
       "service_id": "3",
@@ -20154,7 +20154,7 @@
         {
           "stop_sequence": 12,
           "stop_id": "242",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 07",
           "arrival_time": "06:25:00",
           "departure_time": "06:25:00",
           "lat": 51.11215441,
@@ -20361,7 +20361,7 @@
       ]
     },
     {
-      "trip_id": "3_17597592",
+      "trip_id": "3_17701605",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "3",
@@ -20576,7 +20576,7 @@
         {
           "stop_sequence": 23,
           "stop_id": "240",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 08",
           "arrival_time": "07:49:00",
           "departure_time": "07:49:00",
           "lat": 51.11175007,
@@ -20702,7 +20702,7 @@
       ]
     },
     {
-      "trip_id": "3_17597593",
+      "trip_id": "3_17701606",
       "direction_id": "1",
       "headsign": "OPORÓW",
       "service_id": "3",
@@ -20836,7 +20836,7 @@
         {
           "stop_sequence": 14,
           "stop_id": "242",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 07",
           "arrival_time": "08:54:00",
           "departure_time": "08:54:00",
           "lat": 51.11215441,
@@ -21043,7 +21043,7 @@
       ]
     },
     {
-      "trip_id": "3_17597594",
+      "trip_id": "3_17701607",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "3",
@@ -21258,7 +21258,7 @@
         {
           "stop_sequence": 23,
           "stop_id": "240",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 08",
           "arrival_time": "10:19:00",
           "departure_time": "10:19:00",
           "lat": 51.11175007,
@@ -21384,7 +21384,7 @@
       ]
     },
     {
-      "trip_id": "3_17597595",
+      "trip_id": "3_17701608",
       "direction_id": "1",
       "headsign": "OPORÓW",
       "service_id": "3",
@@ -21518,7 +21518,7 @@
         {
           "stop_sequence": 14,
           "stop_id": "242",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 07",
           "arrival_time": "11:28:00",
           "departure_time": "11:28:00",
           "lat": 51.11215441,
@@ -21725,7 +21725,7 @@
       ]
     },
     {
-      "trip_id": "3_17597596",
+      "trip_id": "3_17701609",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "3",
@@ -21940,7 +21940,7 @@
         {
           "stop_sequence": 23,
           "stop_id": "240",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 08",
           "arrival_time": "12:49:00",
           "departure_time": "12:49:00",
           "lat": 51.11175007,
@@ -22066,7 +22066,7 @@
       ]
     },
     {
-      "trip_id": "3_17597597",
+      "trip_id": "3_17701610",
       "direction_id": "1",
       "headsign": "OPORÓW",
       "service_id": "3",
@@ -22200,7 +22200,7 @@
         {
           "stop_sequence": 14,
           "stop_id": "242",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 07",
           "arrival_time": "13:58:00",
           "departure_time": "13:58:00",
           "lat": 51.11215441,
@@ -22407,7 +22407,7 @@
       ]
     },
     {
-      "trip_id": "3_17597598",
+      "trip_id": "3_17701611",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "3",
@@ -22622,7 +22622,7 @@
         {
           "stop_sequence": 23,
           "stop_id": "240",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 08",
           "arrival_time": "15:19:00",
           "departure_time": "15:19:00",
           "lat": 51.11175007,
@@ -22748,7 +22748,7 @@
       ]
     },
     {
-      "trip_id": "3_17597599",
+      "trip_id": "3_17701612",
       "direction_id": "1",
       "headsign": "OPORÓW",
       "service_id": "3",
@@ -22882,7 +22882,7 @@
         {
           "stop_sequence": 14,
           "stop_id": "242",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 07",
           "arrival_time": "16:28:00",
           "departure_time": "16:28:00",
           "lat": 51.11215441,
@@ -23089,7 +23089,7 @@
       ]
     },
     {
-      "trip_id": "3_17597600",
+      "trip_id": "3_17701613",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "3",
@@ -23304,7 +23304,7 @@
         {
           "stop_sequence": 23,
           "stop_id": "240",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 08",
           "arrival_time": "17:49:00",
           "departure_time": "17:49:00",
           "lat": 51.11175007,
@@ -23430,7 +23430,7 @@
       ]
     },
     {
-      "trip_id": "3_17597601",
+      "trip_id": "3_17701614",
       "direction_id": "1",
       "headsign": "OPORÓW",
       "service_id": "3",
@@ -23564,7 +23564,7 @@
         {
           "stop_sequence": 14,
           "stop_id": "242",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 07",
           "arrival_time": "18:58:00",
           "departure_time": "18:58:00",
           "lat": 51.11215441,
@@ -23771,7 +23771,7 @@
       ]
     },
     {
-      "trip_id": "3_17597602",
+      "trip_id": "3_17701615",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "3",
@@ -23986,7 +23986,7 @@
         {
           "stop_sequence": 23,
           "stop_id": "240",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 08",
           "arrival_time": "20:19:00",
           "departure_time": "20:19:00",
           "lat": 51.11175007,
@@ -24112,7 +24112,7 @@
       ]
     },
     {
-      "trip_id": "3_17597603",
+      "trip_id": "3_17701616",
       "direction_id": "1",
       "headsign": "OPORÓW",
       "service_id": "3",
@@ -24246,7 +24246,7 @@
         {
           "stop_sequence": 14,
           "stop_id": "242",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 07",
           "arrival_time": "21:20:00",
           "departure_time": "21:20:00",
           "lat": 51.11215441,
@@ -24453,7 +24453,7 @@
       ]
     },
     {
-      "trip_id": "3_17597604",
+      "trip_id": "3_17701617",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "3",
@@ -24668,7 +24668,7 @@
         {
           "stop_sequence": 23,
           "stop_id": "240",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 08",
           "arrival_time": "22:40:00",
           "departure_time": "22:40:00",
           "lat": 51.11175007,
@@ -24794,7 +24794,7 @@
       ]
     },
     {
-      "trip_id": "3_17597605",
+      "trip_id": "3_17701618",
       "direction_id": "1",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "3",
@@ -24910,7 +24910,7 @@
       ]
     },
     {
-      "trip_id": "3_17599046",
+      "trip_id": "3_17703059",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "3",
@@ -25026,7 +25026,7 @@
       ]
     },
     {
-      "trip_id": "3_17599047",
+      "trip_id": "3_17703060",
       "direction_id": "1",
       "headsign": "OPORÓW",
       "service_id": "3",
@@ -25160,7 +25160,7 @@
         {
           "stop_sequence": 14,
           "stop_id": "242",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 07",
           "arrival_time": "22:20:00",
           "departure_time": "22:20:00",
           "lat": 51.11215441,
@@ -25367,7 +25367,7 @@
       ]
     },
     {
-      "trip_id": "3_17599219",
+      "trip_id": "3_17703232",
       "direction_id": "1",
       "headsign": "OPORÓW",
       "service_id": "3",
@@ -25483,7 +25483,7 @@
         {
           "stop_sequence": 12,
           "stop_id": "242",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 07",
           "arrival_time": "20:58:00",
           "departure_time": "20:58:00",
           "lat": 51.11215441,
@@ -25690,7 +25690,7 @@
       ]
     },
     {
-      "trip_id": "3_17599220",
+      "trip_id": "3_17703233",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "3",
@@ -25905,7 +25905,7 @@
         {
           "stop_sequence": 23,
           "stop_id": "240",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 08",
           "arrival_time": "22:10:00",
           "departure_time": "22:10:00",
           "lat": 51.11175007,
@@ -26031,7 +26031,7 @@
       ]
     },
     {
-      "trip_id": "3_17599221",
+      "trip_id": "3_17703234",
       "direction_id": "1",
       "headsign": "OPORÓW",
       "service_id": "3",
@@ -26165,7 +26165,7 @@
         {
           "stop_sequence": 14,
           "stop_id": "242",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 07",
           "arrival_time": "23:15:00",
           "departure_time": "23:15:00",
           "lat": 51.11215441,
@@ -26372,7 +26372,7 @@
       ]
     },
     {
-      "trip_id": "4_17601998",
+      "trip_id": "4_17706011",
       "direction_id": "1",
       "headsign": "OPORÓW",
       "service_id": "4",
@@ -26488,7 +26488,7 @@
         {
           "stop_sequence": 12,
           "stop_id": "242",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 07",
           "arrival_time": "09:28:00",
           "departure_time": "09:28:00",
           "lat": 51.11215441,
@@ -26695,7 +26695,7 @@
       ]
     },
     {
-      "trip_id": "4_17601999",
+      "trip_id": "4_17706012",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "4",
@@ -26910,7 +26910,7 @@
         {
           "stop_sequence": 23,
           "stop_id": "240",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 08",
           "arrival_time": "10:49:00",
           "departure_time": "10:49:00",
           "lat": 51.11175007,
@@ -27036,7 +27036,7 @@
       ]
     },
     {
-      "trip_id": "4_17602000",
+      "trip_id": "4_17706013",
       "direction_id": "1",
       "headsign": "OPORÓW",
       "service_id": "4",
@@ -27170,7 +27170,7 @@
         {
           "stop_sequence": 14,
           "stop_id": "242",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 07",
           "arrival_time": "11:58:00",
           "departure_time": "11:58:00",
           "lat": 51.11215441,
@@ -27377,7 +27377,7 @@
       ]
     },
     {
-      "trip_id": "4_17602001",
+      "trip_id": "4_17706014",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "4",
@@ -27592,7 +27592,7 @@
         {
           "stop_sequence": 23,
           "stop_id": "240",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 08",
           "arrival_time": "13:19:00",
           "departure_time": "13:19:00",
           "lat": 51.11175007,
@@ -27718,7 +27718,7 @@
       ]
     },
     {
-      "trip_id": "4_17602002",
+      "trip_id": "4_17706015",
       "direction_id": "1",
       "headsign": "OPORÓW",
       "service_id": "4",
@@ -27852,7 +27852,7 @@
         {
           "stop_sequence": 14,
           "stop_id": "242",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 07",
           "arrival_time": "14:28:00",
           "departure_time": "14:28:00",
           "lat": 51.11215441,
@@ -28059,7 +28059,7 @@
       ]
     },
     {
-      "trip_id": "4_17602003",
+      "trip_id": "4_17706016",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "4",
@@ -28274,7 +28274,7 @@
         {
           "stop_sequence": 23,
           "stop_id": "240",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 08",
           "arrival_time": "15:49:00",
           "departure_time": "15:49:00",
           "lat": 51.11175007,
@@ -28400,7 +28400,7 @@
       ]
     },
     {
-      "trip_id": "4_17602004",
+      "trip_id": "4_17706017",
       "direction_id": "1",
       "headsign": "OPORÓW",
       "service_id": "4",
@@ -28534,7 +28534,7 @@
         {
           "stop_sequence": 14,
           "stop_id": "242",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 07",
           "arrival_time": "16:58:00",
           "departure_time": "16:58:00",
           "lat": 51.11215441,
@@ -28741,7 +28741,7 @@
       ]
     },
     {
-      "trip_id": "4_17602005",
+      "trip_id": "4_17706018",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "4",
@@ -28956,7 +28956,7 @@
         {
           "stop_sequence": 23,
           "stop_id": "240",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 08",
           "arrival_time": "18:19:00",
           "departure_time": "18:19:00",
           "lat": 51.11175007,
@@ -29082,7 +29082,7 @@
       ]
     },
     {
-      "trip_id": "4_17602006",
+      "trip_id": "4_17706019",
       "direction_id": "1",
       "headsign": "OPORÓW",
       "service_id": "4",
@@ -29216,7 +29216,7 @@
         {
           "stop_sequence": 14,
           "stop_id": "242",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 07",
           "arrival_time": "19:28:00",
           "departure_time": "19:28:00",
           "lat": 51.11215441,
@@ -29423,7 +29423,7 @@
       ]
     },
     {
-      "trip_id": "4_17602007",
+      "trip_id": "4_17706020",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "4",
@@ -29638,7 +29638,7 @@
         {
           "stop_sequence": 23,
           "stop_id": "240",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 08",
           "arrival_time": "20:40:00",
           "departure_time": "20:40:00",
           "lat": 51.11175007,
@@ -29764,7 +29764,7 @@
       ]
     },
     {
-      "trip_id": "4_17602008",
+      "trip_id": "4_17706021",
       "direction_id": "1",
       "headsign": "OPORÓW",
       "service_id": "4",
@@ -29898,7 +29898,7 @@
         {
           "stop_sequence": 14,
           "stop_id": "242",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 07",
           "arrival_time": "21:50:00",
           "departure_time": "21:50:00",
           "lat": 51.11215441,
@@ -30105,7 +30105,7 @@
       ]
     },
     {
-      "trip_id": "4_17602009",
+      "trip_id": "4_17706022",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "4",
@@ -30320,7 +30320,7 @@
         {
           "stop_sequence": 23,
           "stop_id": "240",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 08",
           "arrival_time": "23:18:00",
           "departure_time": "23:18:00",
           "lat": 51.11175007,
@@ -30446,7 +30446,7 @@
       ]
     },
     {
-      "trip_id": "4_17602010",
+      "trip_id": "4_17706023",
       "direction_id": "1",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "4",
@@ -30562,7 +30562,7 @@
       ]
     },
     {
-      "trip_id": "4_17602011",
+      "trip_id": "4_17706024",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "4",
@@ -30678,7 +30678,7 @@
       ]
     },
     {
-      "trip_id": "4_17602012",
+      "trip_id": "4_17706025",
       "direction_id": "1",
       "headsign": "OPORÓW",
       "service_id": "4",
@@ -30812,7 +30812,7 @@
         {
           "stop_sequence": 14,
           "stop_id": "242",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 07",
           "arrival_time": "09:58:00",
           "departure_time": "09:58:00",
           "lat": 51.11215441,
@@ -31019,7 +31019,7 @@
       ]
     },
     {
-      "trip_id": "4_17602013",
+      "trip_id": "4_17706026",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "4",
@@ -31234,7 +31234,7 @@
         {
           "stop_sequence": 23,
           "stop_id": "240",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 08",
           "arrival_time": "11:19:00",
           "departure_time": "11:19:00",
           "lat": 51.11175007,
@@ -31360,7 +31360,7 @@
       ]
     },
     {
-      "trip_id": "4_17602014",
+      "trip_id": "4_17706027",
       "direction_id": "1",
       "headsign": "OPORÓW",
       "service_id": "4",
@@ -31494,7 +31494,7 @@
         {
           "stop_sequence": 14,
           "stop_id": "242",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 07",
           "arrival_time": "12:28:00",
           "departure_time": "12:28:00",
           "lat": 51.11215441,
@@ -31701,7 +31701,7 @@
       ]
     },
     {
-      "trip_id": "4_17602015",
+      "trip_id": "4_17706028",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "4",
@@ -31916,7 +31916,7 @@
         {
           "stop_sequence": 23,
           "stop_id": "240",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 08",
           "arrival_time": "13:49:00",
           "departure_time": "13:49:00",
           "lat": 51.11175007,
@@ -32042,7 +32042,7 @@
       ]
     },
     {
-      "trip_id": "4_17602016",
+      "trip_id": "4_17706029",
       "direction_id": "1",
       "headsign": "OPORÓW",
       "service_id": "4",
@@ -32176,7 +32176,7 @@
         {
           "stop_sequence": 14,
           "stop_id": "242",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 07",
           "arrival_time": "14:58:00",
           "departure_time": "14:58:00",
           "lat": 51.11215441,
@@ -32383,7 +32383,7 @@
       ]
     },
     {
-      "trip_id": "4_17602017",
+      "trip_id": "4_17706030",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "4",
@@ -32598,7 +32598,7 @@
         {
           "stop_sequence": 23,
           "stop_id": "240",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 08",
           "arrival_time": "16:19:00",
           "departure_time": "16:19:00",
           "lat": 51.11175007,
@@ -32724,7 +32724,7 @@
       ]
     },
     {
-      "trip_id": "4_17602018",
+      "trip_id": "4_17706031",
       "direction_id": "1",
       "headsign": "OPORÓW",
       "service_id": "4",
@@ -32858,7 +32858,7 @@
         {
           "stop_sequence": 14,
           "stop_id": "242",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 07",
           "arrival_time": "17:28:00",
           "departure_time": "17:28:00",
           "lat": 51.11215441,
@@ -33065,7 +33065,7 @@
       ]
     },
     {
-      "trip_id": "4_17602019",
+      "trip_id": "4_17706032",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "4",
@@ -33280,7 +33280,7 @@
         {
           "stop_sequence": 23,
           "stop_id": "240",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 08",
           "arrival_time": "18:49:00",
           "departure_time": "18:49:00",
           "lat": 51.11175007,
@@ -33406,7 +33406,7 @@
       ]
     },
     {
-      "trip_id": "4_17602020",
+      "trip_id": "4_17706033",
       "direction_id": "1",
       "headsign": "OPORÓW",
       "service_id": "4",
@@ -33540,7 +33540,7 @@
         {
           "stop_sequence": 14,
           "stop_id": "242",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 07",
           "arrival_time": "19:58:00",
           "departure_time": "19:58:00",
           "lat": 51.11215441,
@@ -33747,7 +33747,7 @@
       ]
     },
     {
-      "trip_id": "4_17602021",
+      "trip_id": "4_17706034",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "4",
@@ -33962,7 +33962,7 @@
         {
           "stop_sequence": 23,
           "stop_id": "240",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 08",
           "arrival_time": "21:10:00",
           "departure_time": "21:10:00",
           "lat": 51.11175007,
@@ -34088,7 +34088,7 @@
       ]
     },
     {
-      "trip_id": "4_17602022",
+      "trip_id": "4_17706035",
       "direction_id": "1",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "4",
@@ -34204,7 +34204,7 @@
       ]
     },
     {
-      "trip_id": "4_17602023",
+      "trip_id": "4_17706036",
       "direction_id": "1",
       "headsign": "OPORÓW",
       "service_id": "4",
@@ -34320,7 +34320,7 @@
         {
           "stop_sequence": 12,
           "stop_id": "242",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 07",
           "arrival_time": "07:55:00",
           "departure_time": "07:55:00",
           "lat": 51.11215441,
@@ -34527,7 +34527,7 @@
       ]
     },
     {
-      "trip_id": "4_17602024",
+      "trip_id": "4_17706037",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "4",
@@ -34742,7 +34742,7 @@
         {
           "stop_sequence": 23,
           "stop_id": "240",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 08",
           "arrival_time": "09:19:00",
           "departure_time": "09:19:00",
           "lat": 51.11175007,
@@ -34868,7 +34868,7 @@
       ]
     },
     {
-      "trip_id": "4_17602025",
+      "trip_id": "4_17706038",
       "direction_id": "1",
       "headsign": "OPORÓW",
       "service_id": "4",
@@ -35002,7 +35002,7 @@
         {
           "stop_sequence": 14,
           "stop_id": "242",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 07",
           "arrival_time": "10:28:00",
           "departure_time": "10:28:00",
           "lat": 51.11215441,
@@ -35209,7 +35209,7 @@
       ]
     },
     {
-      "trip_id": "4_17602026",
+      "trip_id": "4_17706039",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "4",
@@ -35424,7 +35424,7 @@
         {
           "stop_sequence": 23,
           "stop_id": "240",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 08",
           "arrival_time": "11:49:00",
           "departure_time": "11:49:00",
           "lat": 51.11175007,
@@ -35550,7 +35550,7 @@
       ]
     },
     {
-      "trip_id": "4_17602027",
+      "trip_id": "4_17706040",
       "direction_id": "1",
       "headsign": "OPORÓW",
       "service_id": "4",
@@ -35684,7 +35684,7 @@
         {
           "stop_sequence": 14,
           "stop_id": "242",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 07",
           "arrival_time": "12:58:00",
           "departure_time": "12:58:00",
           "lat": 51.11215441,
@@ -35891,7 +35891,7 @@
       ]
     },
     {
-      "trip_id": "4_17602028",
+      "trip_id": "4_17706041",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "4",
@@ -36106,7 +36106,7 @@
         {
           "stop_sequence": 23,
           "stop_id": "240",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 08",
           "arrival_time": "14:19:00",
           "departure_time": "14:19:00",
           "lat": 51.11175007,
@@ -36232,7 +36232,7 @@
       ]
     },
     {
-      "trip_id": "4_17602029",
+      "trip_id": "4_17706042",
       "direction_id": "1",
       "headsign": "OPORÓW",
       "service_id": "4",
@@ -36366,7 +36366,7 @@
         {
           "stop_sequence": 14,
           "stop_id": "242",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 07",
           "arrival_time": "15:28:00",
           "departure_time": "15:28:00",
           "lat": 51.11215441,
@@ -36573,7 +36573,7 @@
       ]
     },
     {
-      "trip_id": "4_17602030",
+      "trip_id": "4_17706043",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "4",
@@ -36788,7 +36788,7 @@
         {
           "stop_sequence": 23,
           "stop_id": "240",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 08",
           "arrival_time": "16:49:00",
           "departure_time": "16:49:00",
           "lat": 51.11175007,
@@ -36914,7 +36914,7 @@
       ]
     },
     {
-      "trip_id": "4_17602031",
+      "trip_id": "4_17706044",
       "direction_id": "1",
       "headsign": "OPORÓW",
       "service_id": "4",
@@ -37048,7 +37048,7 @@
         {
           "stop_sequence": 14,
           "stop_id": "242",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 07",
           "arrival_time": "17:58:00",
           "departure_time": "17:58:00",
           "lat": 51.11215441,
@@ -37255,7 +37255,7 @@
       ]
     },
     {
-      "trip_id": "4_17602032",
+      "trip_id": "4_17706045",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "4",
@@ -37470,7 +37470,7 @@
         {
           "stop_sequence": 23,
           "stop_id": "240",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 08",
           "arrival_time": "19:19:00",
           "departure_time": "19:19:00",
           "lat": 51.11175007,
@@ -37596,7 +37596,7 @@
       ]
     },
     {
-      "trip_id": "4_17602033",
+      "trip_id": "4_17706046",
       "direction_id": "1",
       "headsign": "OPORÓW",
       "service_id": "4",
@@ -37730,7 +37730,7 @@
         {
           "stop_sequence": 14,
           "stop_id": "242",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 07",
           "arrival_time": "20:23:00",
           "departure_time": "20:23:00",
           "lat": 51.11215441,
@@ -37937,7 +37937,7 @@
       ]
     },
     {
-      "trip_id": "4_17602034",
+      "trip_id": "4_17706047",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "4",
@@ -38152,7 +38152,7 @@
         {
           "stop_sequence": 23,
           "stop_id": "240",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 08",
           "arrival_time": "21:40:00",
           "departure_time": "21:40:00",
           "lat": 51.11175007,
@@ -38278,7 +38278,7 @@
       ]
     },
     {
-      "trip_id": "4_17602035",
+      "trip_id": "4_17706048",
       "direction_id": "1",
       "headsign": "OPORÓW",
       "service_id": "4",
@@ -38412,7 +38412,7 @@
         {
           "stop_sequence": 14,
           "stop_id": "242",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 07",
           "arrival_time": "22:52:00",
           "departure_time": "22:52:00",
           "lat": 51.11215441,
@@ -38619,7 +38619,7 @@
       ]
     },
     {
-      "trip_id": "4_17602036",
+      "trip_id": "4_17706049",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "4",
@@ -38834,7 +38834,7 @@
         {
           "stop_sequence": 23,
           "stop_id": "240",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 08",
           "arrival_time": "23:56:00",
           "departure_time": "23:56:00",
           "lat": 51.11175007,
@@ -38942,7 +38942,7 @@
       ]
     },
     {
-      "trip_id": "4_17602037",
+      "trip_id": "4_17706050",
       "direction_id": "1",
       "headsign": "OPORÓW",
       "service_id": "4",
@@ -39058,7 +39058,7 @@
         {
           "stop_sequence": 12,
           "stop_id": "242",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 07",
           "arrival_time": "08:25:00",
           "departure_time": "08:25:00",
           "lat": 51.11215441,
@@ -39265,7 +39265,7 @@
       ]
     },
     {
-      "trip_id": "4_17602038",
+      "trip_id": "4_17706051",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "4",
@@ -39480,7 +39480,7 @@
         {
           "stop_sequence": 23,
           "stop_id": "240",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 08",
           "arrival_time": "09:49:00",
           "departure_time": "09:49:00",
           "lat": 51.11175007,
@@ -39606,7 +39606,7 @@
       ]
     },
     {
-      "trip_id": "4_17602039",
+      "trip_id": "4_17706052",
       "direction_id": "1",
       "headsign": "OPORÓW",
       "service_id": "4",
@@ -39740,7 +39740,7 @@
         {
           "stop_sequence": 14,
           "stop_id": "242",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 07",
           "arrival_time": "10:58:00",
           "departure_time": "10:58:00",
           "lat": 51.11215441,
@@ -39947,7 +39947,7 @@
       ]
     },
     {
-      "trip_id": "4_17602040",
+      "trip_id": "4_17706053",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "4",
@@ -40162,7 +40162,7 @@
         {
           "stop_sequence": 23,
           "stop_id": "240",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 08",
           "arrival_time": "12:19:00",
           "departure_time": "12:19:00",
           "lat": 51.11175007,
@@ -40288,7 +40288,7 @@
       ]
     },
     {
-      "trip_id": "4_17602041",
+      "trip_id": "4_17706054",
       "direction_id": "1",
       "headsign": "OPORÓW",
       "service_id": "4",
@@ -40422,7 +40422,7 @@
         {
           "stop_sequence": 14,
           "stop_id": "242",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 07",
           "arrival_time": "13:28:00",
           "departure_time": "13:28:00",
           "lat": 51.11215441,
@@ -40629,7 +40629,7 @@
       ]
     },
     {
-      "trip_id": "4_17602042",
+      "trip_id": "4_17706055",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "4",
@@ -40844,7 +40844,7 @@
         {
           "stop_sequence": 23,
           "stop_id": "240",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 08",
           "arrival_time": "14:49:00",
           "departure_time": "14:49:00",
           "lat": 51.11175007,
@@ -40970,7 +40970,7 @@
       ]
     },
     {
-      "trip_id": "4_17602043",
+      "trip_id": "4_17706056",
       "direction_id": "1",
       "headsign": "OPORÓW",
       "service_id": "4",
@@ -41104,7 +41104,7 @@
         {
           "stop_sequence": 14,
           "stop_id": "242",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 07",
           "arrival_time": "15:58:00",
           "departure_time": "15:58:00",
           "lat": 51.11215441,
@@ -41311,7 +41311,7 @@
       ]
     },
     {
-      "trip_id": "4_17602044",
+      "trip_id": "4_17706057",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "4",
@@ -41526,7 +41526,7 @@
         {
           "stop_sequence": 23,
           "stop_id": "240",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 08",
           "arrival_time": "17:19:00",
           "departure_time": "17:19:00",
           "lat": 51.11175007,
@@ -41652,7 +41652,7 @@
       ]
     },
     {
-      "trip_id": "4_17602045",
+      "trip_id": "4_17706058",
       "direction_id": "1",
       "headsign": "OPORÓW",
       "service_id": "4",
@@ -41786,7 +41786,7 @@
         {
           "stop_sequence": 14,
           "stop_id": "242",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 07",
           "arrival_time": "18:28:00",
           "departure_time": "18:28:00",
           "lat": 51.11215441,
@@ -41993,7 +41993,7 @@
       ]
     },
     {
-      "trip_id": "4_17602046",
+      "trip_id": "4_17706059",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "4",
@@ -42208,7 +42208,7 @@
         {
           "stop_sequence": 23,
           "stop_id": "240",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 08",
           "arrival_time": "19:49:00",
           "departure_time": "19:49:00",
           "lat": 51.11175007,
@@ -42334,7 +42334,7 @@
       ]
     },
     {
-      "trip_id": "4_17602047",
+      "trip_id": "4_17706060",
       "direction_id": "1",
       "headsign": "OPORÓW",
       "service_id": "4",
@@ -42468,7 +42468,7 @@
         {
           "stop_sequence": 14,
           "stop_id": "242",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 07",
           "arrival_time": "20:50:00",
           "departure_time": "20:50:00",
           "lat": 51.11215441,
@@ -42675,7 +42675,7 @@
       ]
     },
     {
-      "trip_id": "4_17602048",
+      "trip_id": "4_17706061",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "4",
@@ -42890,7 +42890,7 @@
         {
           "stop_sequence": 23,
           "stop_id": "240",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 08",
           "arrival_time": "22:03:00",
           "departure_time": "22:03:00",
           "lat": 51.11175007,
@@ -42998,7 +42998,7 @@
       ]
     },
     {
-      "trip_id": "4_17602049",
+      "trip_id": "4_17706062",
       "direction_id": "1",
       "headsign": "OPORÓW",
       "service_id": "4",
@@ -43114,7 +43114,7 @@
         {
           "stop_sequence": 12,
           "stop_id": "242",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 07",
           "arrival_time": "08:55:00",
           "departure_time": "08:55:00",
           "lat": 51.11215441,
@@ -43321,7 +43321,7 @@
       ]
     },
     {
-      "trip_id": "4_17602050",
+      "trip_id": "4_17706063",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "4",
@@ -43536,7 +43536,7 @@
         {
           "stop_sequence": 23,
           "stop_id": "240",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 08",
           "arrival_time": "10:19:00",
           "departure_time": "10:19:00",
           "lat": 51.11175007,
@@ -43662,7 +43662,7 @@
       ]
     },
     {
-      "trip_id": "4_17602051",
+      "trip_id": "4_17706064",
       "direction_id": "1",
       "headsign": "OPORÓW",
       "service_id": "4",
@@ -43796,7 +43796,7 @@
         {
           "stop_sequence": 14,
           "stop_id": "242",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 07",
           "arrival_time": "11:28:00",
           "departure_time": "11:28:00",
           "lat": 51.11215441,
@@ -44003,7 +44003,7 @@
       ]
     },
     {
-      "trip_id": "4_17602052",
+      "trip_id": "4_17706065",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "4",
@@ -44218,7 +44218,7 @@
         {
           "stop_sequence": 23,
           "stop_id": "240",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 08",
           "arrival_time": "12:49:00",
           "departure_time": "12:49:00",
           "lat": 51.11175007,
@@ -44344,7 +44344,7 @@
       ]
     },
     {
-      "trip_id": "4_17602053",
+      "trip_id": "4_17706066",
       "direction_id": "1",
       "headsign": "OPORÓW",
       "service_id": "4",
@@ -44478,7 +44478,7 @@
         {
           "stop_sequence": 14,
           "stop_id": "242",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 07",
           "arrival_time": "13:58:00",
           "departure_time": "13:58:00",
           "lat": 51.11215441,
@@ -44685,7 +44685,7 @@
       ]
     },
     {
-      "trip_id": "4_17602054",
+      "trip_id": "4_17706067",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "4",
@@ -44900,7 +44900,7 @@
         {
           "stop_sequence": 23,
           "stop_id": "240",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 08",
           "arrival_time": "15:19:00",
           "departure_time": "15:19:00",
           "lat": 51.11175007,
@@ -45026,7 +45026,7 @@
       ]
     },
     {
-      "trip_id": "4_17602055",
+      "trip_id": "4_17706068",
       "direction_id": "1",
       "headsign": "OPORÓW",
       "service_id": "4",
@@ -45160,7 +45160,7 @@
         {
           "stop_sequence": 14,
           "stop_id": "242",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 07",
           "arrival_time": "16:28:00",
           "departure_time": "16:28:00",
           "lat": 51.11215441,
@@ -45367,7 +45367,7 @@
       ]
     },
     {
-      "trip_id": "4_17602056",
+      "trip_id": "4_17706069",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "4",
@@ -45582,7 +45582,7 @@
         {
           "stop_sequence": 23,
           "stop_id": "240",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 08",
           "arrival_time": "17:49:00",
           "departure_time": "17:49:00",
           "lat": 51.11175007,
@@ -45708,7 +45708,7 @@
       ]
     },
     {
-      "trip_id": "4_17602057",
+      "trip_id": "4_17706070",
       "direction_id": "1",
       "headsign": "OPORÓW",
       "service_id": "4",
@@ -45842,7 +45842,7 @@
         {
           "stop_sequence": 14,
           "stop_id": "242",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 07",
           "arrival_time": "18:58:00",
           "departure_time": "18:58:00",
           "lat": 51.11215441,
@@ -46049,7 +46049,7 @@
       ]
     },
     {
-      "trip_id": "4_17602058",
+      "trip_id": "4_17706071",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "4",
@@ -46264,7 +46264,7 @@
         {
           "stop_sequence": 23,
           "stop_id": "240",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 08",
           "arrival_time": "20:19:00",
           "departure_time": "20:19:00",
           "lat": 51.11175007,
@@ -46390,7 +46390,7 @@
       ]
     },
     {
-      "trip_id": "4_17602059",
+      "trip_id": "4_17706072",
       "direction_id": "1",
       "headsign": "OPORÓW",
       "service_id": "4",
@@ -46524,7 +46524,7 @@
         {
           "stop_sequence": 14,
           "stop_id": "242",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 07",
           "arrival_time": "21:20:00",
           "departure_time": "21:20:00",
           "lat": 51.11215441,
@@ -46731,7 +46731,7 @@
       ]
     },
     {
-      "trip_id": "4_17602060",
+      "trip_id": "4_17706073",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "4",
@@ -46946,7 +46946,7 @@
         {
           "stop_sequence": 23,
           "stop_id": "240",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 08",
           "arrival_time": "22:40:00",
           "departure_time": "22:40:00",
           "lat": 51.11175007,
@@ -47072,7 +47072,7 @@
       ]
     },
     {
-      "trip_id": "4_17602061",
+      "trip_id": "4_17706074",
       "direction_id": "1",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "4",
@@ -47188,7 +47188,7 @@
       ]
     },
     {
-      "trip_id": "4_17603458",
+      "trip_id": "4_17707471",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "4",
@@ -47304,7 +47304,7 @@
       ]
     },
     {
-      "trip_id": "4_17603459",
+      "trip_id": "4_17707472",
       "direction_id": "1",
       "headsign": "OPORÓW",
       "service_id": "4",
@@ -47438,7 +47438,7 @@
         {
           "stop_sequence": 14,
           "stop_id": "242",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 07",
           "arrival_time": "22:20:00",
           "departure_time": "22:20:00",
           "lat": 51.11215441,
@@ -47645,7 +47645,7 @@
       ]
     },
     {
-      "trip_id": "4_17603626",
+      "trip_id": "4_17707639",
       "direction_id": "1",
       "headsign": "OPORÓW",
       "service_id": "4",
@@ -47761,7 +47761,7 @@
         {
           "stop_sequence": 12,
           "stop_id": "242",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 07",
           "arrival_time": "20:58:00",
           "departure_time": "20:58:00",
           "lat": 51.11215441,
@@ -47968,7 +47968,7 @@
       ]
     },
     {
-      "trip_id": "4_17603627",
+      "trip_id": "4_17707640",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "4",
@@ -48183,7 +48183,7 @@
         {
           "stop_sequence": 23,
           "stop_id": "240",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 08",
           "arrival_time": "22:10:00",
           "departure_time": "22:10:00",
           "lat": 51.11175007,
@@ -48309,7 +48309,7 @@
       ]
     },
     {
-      "trip_id": "4_17603628",
+      "trip_id": "4_17707641",
       "direction_id": "1",
       "headsign": "OPORÓW",
       "service_id": "4",
@@ -48443,7 +48443,7 @@
         {
           "stop_sequence": 14,
           "stop_id": "242",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 07",
           "arrival_time": "23:15:00",
           "departure_time": "23:15:00",
           "lat": 51.11215441,
@@ -48650,7 +48650,7 @@
       ]
     },
     {
-      "trip_id": "6_17607412",
+      "trip_id": "6_17711425",
       "direction_id": "1",
       "headsign": "OPORÓW",
       "service_id": "6",
@@ -48721,7 +48721,7 @@
       ]
     },
     {
-      "trip_id": "6_17607413",
+      "trip_id": "6_17711426",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "6",
@@ -48936,7 +48936,7 @@
         {
           "stop_sequence": 23,
           "stop_id": "240",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 08",
           "arrival_time": "06:34:00",
           "departure_time": "06:34:00",
           "lat": 51.11175007,
@@ -49062,7 +49062,7 @@
       ]
     },
     {
-      "trip_id": "6_17607414",
+      "trip_id": "6_17711427",
       "direction_id": "1",
       "headsign": "OPORÓW",
       "service_id": "6",
@@ -49196,7 +49196,7 @@
         {
           "stop_sequence": 14,
           "stop_id": "242",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 07",
           "arrival_time": "07:34:00",
           "departure_time": "07:34:00",
           "lat": 51.11215441,
@@ -49403,7 +49403,7 @@
       ]
     },
     {
-      "trip_id": "6_17607415",
+      "trip_id": "6_17711428",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "6",
@@ -49618,7 +49618,7 @@
         {
           "stop_sequence": 23,
           "stop_id": "240",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 08",
           "arrival_time": "09:08:00",
           "departure_time": "09:08:00",
           "lat": 51.11175007,
@@ -49726,7 +49726,7 @@
       ]
     },
     {
-      "trip_id": "6_17607416",
+      "trip_id": "6_17711429",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "6",
@@ -49842,7 +49842,7 @@
       ]
     },
     {
-      "trip_id": "6_17607417",
+      "trip_id": "6_17711430",
       "direction_id": "1",
       "headsign": "OPORÓW",
       "service_id": "6",
@@ -49976,7 +49976,7 @@
         {
           "stop_sequence": 14,
           "stop_id": "242",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 07",
           "arrival_time": "05:57:00",
           "departure_time": "05:57:00",
           "lat": 51.11215441,
@@ -50183,7 +50183,7 @@
       ]
     },
     {
-      "trip_id": "6_17607418",
+      "trip_id": "6_17711431",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "6",
@@ -50398,7 +50398,7 @@
         {
           "stop_sequence": 23,
           "stop_id": "240",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 08",
           "arrival_time": "07:21:00",
           "departure_time": "07:21:00",
           "lat": 51.11175007,
@@ -50524,7 +50524,7 @@
       ]
     },
     {
-      "trip_id": "6_17607419",
+      "trip_id": "6_17711432",
       "direction_id": "1",
       "headsign": "OPORÓW",
       "service_id": "6",
@@ -50658,7 +50658,7 @@
         {
           "stop_sequence": 14,
           "stop_id": "242",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 07",
           "arrival_time": "08:26:00",
           "departure_time": "08:26:00",
           "lat": 51.11215441,
@@ -50865,7 +50865,7 @@
       ]
     },
     {
-      "trip_id": "6_17607420",
+      "trip_id": "6_17711433",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "6",
@@ -51080,7 +51080,7 @@
         {
           "stop_sequence": 23,
           "stop_id": "240",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 08",
           "arrival_time": "09:56:00",
           "departure_time": "09:56:00",
           "lat": 51.11175007,
@@ -51206,7 +51206,7 @@
       ]
     },
     {
-      "trip_id": "6_17607421",
+      "trip_id": "6_17711434",
       "direction_id": "1",
       "headsign": "OPORÓW",
       "service_id": "6",
@@ -51340,7 +51340,7 @@
         {
           "stop_sequence": 14,
           "stop_id": "242",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 07",
           "arrival_time": "11:27:00",
           "departure_time": "11:27:00",
           "lat": 51.11215441,
@@ -51547,7 +51547,7 @@
       ]
     },
     {
-      "trip_id": "6_17607422",
+      "trip_id": "6_17711435",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "6",
@@ -51762,7 +51762,7 @@
         {
           "stop_sequence": 23,
           "stop_id": "240",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 08",
           "arrival_time": "12:56:00",
           "departure_time": "12:56:00",
           "lat": 51.11175007,
@@ -51888,7 +51888,7 @@
       ]
     },
     {
-      "trip_id": "6_17607423",
+      "trip_id": "6_17711436",
       "direction_id": "1",
       "headsign": "OPORÓW",
       "service_id": "6",
@@ -52022,7 +52022,7 @@
         {
           "stop_sequence": 14,
           "stop_id": "242",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 07",
           "arrival_time": "14:11:00",
           "departure_time": "14:11:00",
           "lat": 51.11215441,
@@ -52229,7 +52229,7 @@
       ]
     },
     {
-      "trip_id": "6_17607424",
+      "trip_id": "6_17711437",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "6",
@@ -52444,7 +52444,7 @@
         {
           "stop_sequence": 23,
           "stop_id": "240",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 08",
           "arrival_time": "15:53:00",
           "departure_time": "15:53:00",
           "lat": 51.11175007,
@@ -52570,7 +52570,7 @@
       ]
     },
     {
-      "trip_id": "6_17607425",
+      "trip_id": "6_17711438",
       "direction_id": "1",
       "headsign": "OPORÓW",
       "service_id": "6",
@@ -52704,7 +52704,7 @@
         {
           "stop_sequence": 14,
           "stop_id": "242",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 07",
           "arrival_time": "17:05:00",
           "departure_time": "17:05:00",
           "lat": 51.11215441,
@@ -52911,7 +52911,7 @@
       ]
     },
     {
-      "trip_id": "6_17607426",
+      "trip_id": "6_17711439",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "6",
@@ -53126,7 +53126,7 @@
         {
           "stop_sequence": 23,
           "stop_id": "240",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 08",
           "arrival_time": "18:46:00",
           "departure_time": "18:46:00",
           "lat": 51.11175007,
@@ -53234,7 +53234,7 @@
       ]
     },
     {
-      "trip_id": "6_17607429",
+      "trip_id": "6_17711442",
       "direction_id": "1",
       "headsign": "OPORÓW",
       "service_id": "6",
@@ -53305,7 +53305,7 @@
       ]
     },
     {
-      "trip_id": "6_17607430",
+      "trip_id": "6_17711443",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "6",
@@ -53520,7 +53520,7 @@
         {
           "stop_sequence": 23,
           "stop_id": "240",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 08",
           "arrival_time": "07:38:00",
           "departure_time": "07:38:00",
           "lat": 51.11175007,
@@ -53646,7 +53646,7 @@
       ]
     },
     {
-      "trip_id": "6_17607431",
+      "trip_id": "6_17711444",
       "direction_id": "1",
       "headsign": "OPORÓW",
       "service_id": "6",
@@ -53780,7 +53780,7 @@
         {
           "stop_sequence": 14,
           "stop_id": "242",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 07",
           "arrival_time": "08:55:00",
           "departure_time": "08:55:00",
           "lat": 51.11215441,
@@ -53987,7 +53987,7 @@
       ]
     },
     {
-      "trip_id": "6_17607432",
+      "trip_id": "6_17711445",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "6",
@@ -54202,7 +54202,7 @@
         {
           "stop_sequence": 23,
           "stop_id": "240",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 08",
           "arrival_time": "10:26:00",
           "departure_time": "10:26:00",
           "lat": 51.11175007,
@@ -54328,7 +54328,7 @@
       ]
     },
     {
-      "trip_id": "6_17607433",
+      "trip_id": "6_17711446",
       "direction_id": "1",
       "headsign": "OPORÓW",
       "service_id": "6",
@@ -54462,7 +54462,7 @@
         {
           "stop_sequence": 14,
           "stop_id": "242",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 07",
           "arrival_time": "11:57:00",
           "departure_time": "11:57:00",
           "lat": 51.11215441,
@@ -54669,7 +54669,7 @@
       ]
     },
     {
-      "trip_id": "6_17607434",
+      "trip_id": "6_17711447",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "6",
@@ -54884,7 +54884,7 @@
         {
           "stop_sequence": 23,
           "stop_id": "240",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 08",
           "arrival_time": "13:26:00",
           "departure_time": "13:26:00",
           "lat": 51.11175007,
@@ -55010,7 +55010,7 @@
       ]
     },
     {
-      "trip_id": "6_17607435",
+      "trip_id": "6_17711448",
       "direction_id": "1",
       "headsign": "OPORÓW",
       "service_id": "6",
@@ -55144,7 +55144,7 @@
         {
           "stop_sequence": 14,
           "stop_id": "242",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 07",
           "arrival_time": "14:39:00",
           "departure_time": "14:39:00",
           "lat": 51.11215441,
@@ -55351,7 +55351,7 @@
       ]
     },
     {
-      "trip_id": "6_17607436",
+      "trip_id": "6_17711449",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "6",
@@ -55566,7 +55566,7 @@
         {
           "stop_sequence": 23,
           "stop_id": "240",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 08",
           "arrival_time": "16:23:00",
           "departure_time": "16:23:00",
           "lat": 51.11175007,
@@ -55692,7 +55692,7 @@
       ]
     },
     {
-      "trip_id": "6_17607437",
+      "trip_id": "6_17711450",
       "direction_id": "1",
       "headsign": "OPORÓW",
       "service_id": "6",
@@ -55826,7 +55826,7 @@
         {
           "stop_sequence": 14,
           "stop_id": "242",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 07",
           "arrival_time": "17:36:00",
           "departure_time": "17:36:00",
           "lat": 51.11215441,
@@ -56033,7 +56033,7 @@
       ]
     },
     {
-      "trip_id": "6_17607438",
+      "trip_id": "6_17711451",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "6",
@@ -56248,7 +56248,7 @@
         {
           "stop_sequence": 23,
           "stop_id": "240",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 08",
           "arrival_time": "19:06:00",
           "departure_time": "19:06:00",
           "lat": 51.11175007,
@@ -56356,7 +56356,7 @@
       ]
     },
     {
-      "trip_id": "6_17607439",
+      "trip_id": "6_17711452",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "6",
@@ -56472,7 +56472,7 @@
       ]
     },
     {
-      "trip_id": "6_17607440",
+      "trip_id": "6_17711453",
       "direction_id": "1",
       "headsign": "OPORÓW",
       "service_id": "6",
@@ -56606,7 +56606,7 @@
         {
           "stop_sequence": 14,
           "stop_id": "242",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 07",
           "arrival_time": "06:26:00",
           "departure_time": "06:26:00",
           "lat": 51.11215441,
@@ -56813,7 +56813,7 @@
       ]
     },
     {
-      "trip_id": "6_17607441",
+      "trip_id": "6_17711454",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "6",
@@ -57028,7 +57028,7 @@
         {
           "stop_sequence": 23,
           "stop_id": "240",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 08",
           "arrival_time": "07:52:00",
           "departure_time": "07:52:00",
           "lat": 51.11175007,
@@ -57154,7 +57154,7 @@
       ]
     },
     {
-      "trip_id": "6_17607442",
+      "trip_id": "6_17711455",
       "direction_id": "1",
       "headsign": "OPORÓW",
       "service_id": "6",
@@ -57288,7 +57288,7 @@
         {
           "stop_sequence": 14,
           "stop_id": "242",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 07",
           "arrival_time": "09:27:00",
           "departure_time": "09:27:00",
           "lat": 51.11215441,
@@ -57495,7 +57495,7 @@
       ]
     },
     {
-      "trip_id": "6_17607443",
+      "trip_id": "6_17711456",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "6",
@@ -57710,7 +57710,7 @@
         {
           "stop_sequence": 23,
           "stop_id": "240",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 08",
           "arrival_time": "10:56:00",
           "departure_time": "10:56:00",
           "lat": 51.11175007,
@@ -57836,7 +57836,7 @@
       ]
     },
     {
-      "trip_id": "6_17607444",
+      "trip_id": "6_17711457",
       "direction_id": "1",
       "headsign": "OPORÓW",
       "service_id": "6",
@@ -57970,7 +57970,7 @@
         {
           "stop_sequence": 14,
           "stop_id": "242",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 07",
           "arrival_time": "12:27:00",
           "departure_time": "12:27:00",
           "lat": 51.11215441,
@@ -58177,7 +58177,7 @@
       ]
     },
     {
-      "trip_id": "6_17607445",
+      "trip_id": "6_17711458",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "6",
@@ -58392,7 +58392,7 @@
         {
           "stop_sequence": 23,
           "stop_id": "240",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 08",
           "arrival_time": "13:56:00",
           "departure_time": "13:56:00",
           "lat": 51.11175007,
@@ -58518,7 +58518,7 @@
       ]
     },
     {
-      "trip_id": "6_17607446",
+      "trip_id": "6_17711459",
       "direction_id": "1",
       "headsign": "OPORÓW",
       "service_id": "6",
@@ -58652,7 +58652,7 @@
         {
           "stop_sequence": 14,
           "stop_id": "242",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 07",
           "arrival_time": "15:08:00",
           "departure_time": "15:08:00",
           "lat": 51.11215441,
@@ -58859,7 +58859,7 @@
       ]
     },
     {
-      "trip_id": "6_17607447",
+      "trip_id": "6_17711460",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "6",
@@ -59074,7 +59074,7 @@
         {
           "stop_sequence": 23,
           "stop_id": "240",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 08",
           "arrival_time": "16:53:00",
           "departure_time": "16:53:00",
           "lat": 51.11175007,
@@ -59200,7 +59200,7 @@
       ]
     },
     {
-      "trip_id": "6_17607448",
+      "trip_id": "6_17711461",
       "direction_id": "1",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "6",
@@ -59316,7 +59316,7 @@
       ]
     },
     {
-      "trip_id": "6_17607449",
+      "trip_id": "6_17711462",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "6",
@@ -59432,7 +59432,7 @@
       ]
     },
     {
-      "trip_id": "6_17607450",
+      "trip_id": "6_17711463",
       "direction_id": "1",
       "headsign": "OPORÓW",
       "service_id": "6",
@@ -59566,7 +59566,7 @@
         {
           "stop_sequence": 14,
           "stop_id": "242",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 07",
           "arrival_time": "06:41:00",
           "departure_time": "06:41:00",
           "lat": 51.11215441,
@@ -59773,7 +59773,7 @@
       ]
     },
     {
-      "trip_id": "6_17607451",
+      "trip_id": "6_17711464",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "6",
@@ -59988,7 +59988,7 @@
         {
           "stop_sequence": 23,
           "stop_id": "240",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 08",
           "arrival_time": "08:13:00",
           "departure_time": "08:13:00",
           "lat": 51.11175007,
@@ -60114,7 +60114,7 @@
       ]
     },
     {
-      "trip_id": "6_17607452",
+      "trip_id": "6_17711465",
       "direction_id": "1",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "6",
@@ -60230,7 +60230,7 @@
       ]
     },
     {
-      "trip_id": "6_17607453",
+      "trip_id": "6_17711466",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "6",
@@ -60346,7 +60346,7 @@
       ]
     },
     {
-      "trip_id": "6_17607454",
+      "trip_id": "6_17711467",
       "direction_id": "1",
       "headsign": "OPORÓW",
       "service_id": "6",
@@ -60480,7 +60480,7 @@
         {
           "stop_sequence": 14,
           "stop_id": "242",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 07",
           "arrival_time": "15:38:00",
           "departure_time": "15:38:00",
           "lat": 51.11215441,
@@ -60687,7 +60687,7 @@
       ]
     },
     {
-      "trip_id": "6_17607455",
+      "trip_id": "6_17711468",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "6",
@@ -60902,7 +60902,7 @@
         {
           "stop_sequence": 23,
           "stop_id": "240",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 08",
           "arrival_time": "17:21:00",
           "departure_time": "17:21:00",
           "lat": 51.11175007,
@@ -61028,7 +61028,7 @@
       ]
     },
     {
-      "trip_id": "6_17607456",
+      "trip_id": "6_17711469",
       "direction_id": "1",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "6",
@@ -61144,7 +61144,7 @@
       ]
     },
     {
-      "trip_id": "6_17607457",
+      "trip_id": "6_17711470",
       "direction_id": "1",
       "headsign": "OPORÓW",
       "service_id": "6",
@@ -61260,7 +61260,7 @@
         {
           "stop_sequence": 12,
           "stop_id": "242",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 07",
           "arrival_time": "04:54:00",
           "departure_time": "04:54:00",
           "lat": 51.11215441,
@@ -61467,7 +61467,7 @@
       ]
     },
     {
-      "trip_id": "6_17607458",
+      "trip_id": "6_17711471",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "6",
@@ -61682,7 +61682,7 @@
         {
           "stop_sequence": 23,
           "stop_id": "240",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 08",
           "arrival_time": "06:08:00",
           "departure_time": "06:08:00",
           "lat": 51.11175007,
@@ -61808,7 +61808,7 @@
       ]
     },
     {
-      "trip_id": "6_17607459",
+      "trip_id": "6_17711472",
       "direction_id": "1",
       "headsign": "OPORÓW",
       "service_id": "6",
@@ -61942,7 +61942,7 @@
         {
           "stop_sequence": 14,
           "stop_id": "242",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 07",
           "arrival_time": "07:05:00",
           "departure_time": "07:05:00",
           "lat": 51.11215441,
@@ -62149,7 +62149,7 @@
       ]
     },
     {
-      "trip_id": "6_17607460",
+      "trip_id": "6_17711473",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "6",
@@ -62364,7 +62364,7 @@
         {
           "stop_sequence": 23,
           "stop_id": "240",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 08",
           "arrival_time": "08:43:00",
           "departure_time": "08:43:00",
           "lat": 51.11175007,
@@ -62490,7 +62490,7 @@
       ]
     },
     {
-      "trip_id": "6_17607461",
+      "trip_id": "6_17711474",
       "direction_id": "1",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "6",
@@ -62606,7 +62606,7 @@
       ]
     },
     {
-      "trip_id": "6_17607462",
+      "trip_id": "6_17711475",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "6",
@@ -62722,7 +62722,7 @@
       ]
     },
     {
-      "trip_id": "6_17607463",
+      "trip_id": "6_17711476",
       "direction_id": "1",
       "headsign": "OPORÓW",
       "service_id": "6",
@@ -62856,7 +62856,7 @@
         {
           "stop_sequence": 14,
           "stop_id": "242",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 07",
           "arrival_time": "07:17:00",
           "departure_time": "07:17:00",
           "lat": 51.11215441,
@@ -63063,7 +63063,7 @@
       ]
     },
     {
-      "trip_id": "6_17607464",
+      "trip_id": "6_17711477",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "6",
@@ -63278,7 +63278,7 @@
         {
           "stop_sequence": 23,
           "stop_id": "240",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 08",
           "arrival_time": "09:00:00",
           "departure_time": "09:00:00",
           "lat": 51.11175007,
@@ -63404,7 +63404,7 @@
       ]
     },
     {
-      "trip_id": "6_17607465",
+      "trip_id": "6_17711478",
       "direction_id": "1",
       "headsign": "OPORÓW",
       "service_id": "6",
@@ -63538,7 +63538,7 @@
         {
           "stop_sequence": 14,
           "stop_id": "242",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 07",
           "arrival_time": "10:27:00",
           "departure_time": "10:27:00",
           "lat": 51.11215441,
@@ -63745,7 +63745,7 @@
       ]
     },
     {
-      "trip_id": "6_17607466",
+      "trip_id": "6_17711479",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "6",
@@ -63960,7 +63960,7 @@
         {
           "stop_sequence": 23,
           "stop_id": "240",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 08",
           "arrival_time": "11:56:00",
           "departure_time": "11:56:00",
           "lat": 51.11175007,
@@ -64086,7 +64086,7 @@
       ]
     },
     {
-      "trip_id": "6_17607467",
+      "trip_id": "6_17711480",
       "direction_id": "1",
       "headsign": "OPORÓW",
       "service_id": "6",
@@ -64220,7 +64220,7 @@
         {
           "stop_sequence": 14,
           "stop_id": "242",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 07",
           "arrival_time": "13:26:00",
           "departure_time": "13:26:00",
           "lat": 51.11215441,
@@ -64427,7 +64427,7 @@
       ]
     },
     {
-      "trip_id": "6_17607468",
+      "trip_id": "6_17711481",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "6",
@@ -64642,7 +64642,7 @@
         {
           "stop_sequence": 23,
           "stop_id": "240",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 08",
           "arrival_time": "14:50:00",
           "departure_time": "14:50:00",
           "lat": 51.11175007,
@@ -64768,7 +64768,7 @@
       ]
     },
     {
-      "trip_id": "6_17607469",
+      "trip_id": "6_17711482",
       "direction_id": "1",
       "headsign": "OPORÓW",
       "service_id": "6",
@@ -64902,7 +64902,7 @@
         {
           "stop_sequence": 14,
           "stop_id": "242",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 07",
           "arrival_time": "16:07:00",
           "departure_time": "16:07:00",
           "lat": 51.11215441,
@@ -65109,7 +65109,7 @@
       ]
     },
     {
-      "trip_id": "6_17607470",
+      "trip_id": "6_17711483",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "6",
@@ -65324,7 +65324,7 @@
         {
           "stop_sequence": 23,
           "stop_id": "240",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 08",
           "arrival_time": "17:43:00",
           "departure_time": "17:43:00",
           "lat": 51.11175007,
@@ -65450,7 +65450,7 @@
       ]
     },
     {
-      "trip_id": "6_17607471",
+      "trip_id": "6_17711484",
       "direction_id": "1",
       "headsign": "OPORÓW",
       "service_id": "6",
@@ -65584,7 +65584,7 @@
         {
           "stop_sequence": 14,
           "stop_id": "242",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 07",
           "arrival_time": "18:55:00",
           "departure_time": "18:55:00",
           "lat": 51.11215441,
@@ -65791,7 +65791,7 @@
       ]
     },
     {
-      "trip_id": "6_17607472",
+      "trip_id": "6_17711485",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "6",
@@ -66006,7 +66006,7 @@
         {
           "stop_sequence": 23,
           "stop_id": "240",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 08",
           "arrival_time": "20:18:00",
           "departure_time": "20:18:00",
           "lat": 51.11175007,
@@ -66132,7 +66132,7 @@
       ]
     },
     {
-      "trip_id": "6_17607473",
+      "trip_id": "6_17711486",
       "direction_id": "1",
       "headsign": "OPORÓW",
       "service_id": "6",
@@ -66266,7 +66266,7 @@
         {
           "stop_sequence": 14,
           "stop_id": "242",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 07",
           "arrival_time": "21:20:00",
           "departure_time": "21:20:00",
           "lat": 51.11215441,
@@ -66473,7 +66473,7 @@
       ]
     },
     {
-      "trip_id": "6_17607474",
+      "trip_id": "6_17711487",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "6",
@@ -66688,7 +66688,7 @@
         {
           "stop_sequence": 23,
           "stop_id": "240",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 08",
           "arrival_time": "22:40:00",
           "departure_time": "22:40:00",
           "lat": 51.11175007,
@@ -66814,7 +66814,7 @@
       ]
     },
     {
-      "trip_id": "6_17607475",
+      "trip_id": "6_17711488",
       "direction_id": "1",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "6",
@@ -66930,7 +66930,7 @@
       ]
     },
     {
-      "trip_id": "6_17607476",
+      "trip_id": "6_17711489",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "6",
@@ -67046,7 +67046,7 @@
       ]
     },
     {
-      "trip_id": "6_17607477",
+      "trip_id": "6_17711490",
       "direction_id": "1",
       "headsign": "OPORÓW",
       "service_id": "6",
@@ -67180,7 +67180,7 @@
         {
           "stop_sequence": 14,
           "stop_id": "242",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 07",
           "arrival_time": "05:27:00",
           "departure_time": "05:27:00",
           "lat": 51.11215441,
@@ -67387,7 +67387,7 @@
       ]
     },
     {
-      "trip_id": "6_17607478",
+      "trip_id": "6_17711491",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "6",
@@ -67602,7 +67602,7 @@
         {
           "stop_sequence": 23,
           "stop_id": "240",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 08",
           "arrival_time": "06:49:00",
           "departure_time": "06:49:00",
           "lat": 51.11175007,
@@ -67728,7 +67728,7 @@
       ]
     },
     {
-      "trip_id": "6_17607479",
+      "trip_id": "6_17711492",
       "direction_id": "1",
       "headsign": "OPORÓW",
       "service_id": "6",
@@ -67862,7 +67862,7 @@
         {
           "stop_sequence": 14,
           "stop_id": "242",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 07",
           "arrival_time": "08:04:00",
           "departure_time": "08:04:00",
           "lat": 51.11215441,
@@ -68069,7 +68069,7 @@
       ]
     },
     {
-      "trip_id": "6_17607480",
+      "trip_id": "6_17711493",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "6",
@@ -68284,7 +68284,7 @@
         {
           "stop_sequence": 23,
           "stop_id": "240",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 08",
           "arrival_time": "09:36:00",
           "departure_time": "09:36:00",
           "lat": 51.11175007,
@@ -68392,7 +68392,7 @@
       ]
     },
     {
-      "trip_id": "6_17607481",
+      "trip_id": "6_17711494",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "6",
@@ -68508,7 +68508,7 @@
       ]
     },
     {
-      "trip_id": "6_17607482",
+      "trip_id": "6_17711495",
       "direction_id": "1",
       "headsign": "OPORÓW",
       "service_id": "6",
@@ -68642,7 +68642,7 @@
         {
           "stop_sequence": 14,
           "stop_id": "242",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 07",
           "arrival_time": "07:49:00",
           "departure_time": "07:49:00",
           "lat": 51.11215441,
@@ -68849,7 +68849,7 @@
       ]
     },
     {
-      "trip_id": "6_17607483",
+      "trip_id": "6_17711496",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "6",
@@ -69064,7 +69064,7 @@
         {
           "stop_sequence": 23,
           "stop_id": "240",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 08",
           "arrival_time": "09:26:00",
           "departure_time": "09:26:00",
           "lat": 51.11175007,
@@ -69190,7 +69190,7 @@
       ]
     },
     {
-      "trip_id": "6_17607484",
+      "trip_id": "6_17711497",
       "direction_id": "1",
       "headsign": "OPORÓW",
       "service_id": "6",
@@ -69324,7 +69324,7 @@
         {
           "stop_sequence": 14,
           "stop_id": "242",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 07",
           "arrival_time": "10:57:00",
           "departure_time": "10:57:00",
           "lat": 51.11215441,
@@ -69531,7 +69531,7 @@
       ]
     },
     {
-      "trip_id": "6_17607485",
+      "trip_id": "6_17711498",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "6",
@@ -69746,7 +69746,7 @@
         {
           "stop_sequence": 23,
           "stop_id": "240",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 08",
           "arrival_time": "12:26:00",
           "departure_time": "12:26:00",
           "lat": 51.11175007,
@@ -69872,7 +69872,7 @@
       ]
     },
     {
-      "trip_id": "6_17607486",
+      "trip_id": "6_17711499",
       "direction_id": "1",
       "headsign": "OPORÓW",
       "service_id": "6",
@@ -70006,7 +70006,7 @@
         {
           "stop_sequence": 14,
           "stop_id": "242",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 07",
           "arrival_time": "13:56:00",
           "departure_time": "13:56:00",
           "lat": 51.11215441,
@@ -70213,7 +70213,7 @@
       ]
     },
     {
-      "trip_id": "6_17607487",
+      "trip_id": "6_17711500",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "6",
@@ -70428,7 +70428,7 @@
         {
           "stop_sequence": 23,
           "stop_id": "240",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 08",
           "arrival_time": "15:23:00",
           "departure_time": "15:23:00",
           "lat": 51.11175007,
@@ -70554,7 +70554,7 @@
       ]
     },
     {
-      "trip_id": "6_17607488",
+      "trip_id": "6_17711501",
       "direction_id": "1",
       "headsign": "OPORÓW",
       "service_id": "6",
@@ -70688,7 +70688,7 @@
         {
           "stop_sequence": 14,
           "stop_id": "242",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 07",
           "arrival_time": "16:36:00",
           "departure_time": "16:36:00",
           "lat": 51.11215441,
@@ -70895,7 +70895,7 @@
       ]
     },
     {
-      "trip_id": "6_17607489",
+      "trip_id": "6_17711502",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "6",
@@ -71110,7 +71110,7 @@
         {
           "stop_sequence": 23,
           "stop_id": "240",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 08",
           "arrival_time": "18:20:00",
           "departure_time": "18:20:00",
           "lat": 51.11175007,
@@ -71236,7 +71236,7 @@
       ]
     },
     {
-      "trip_id": "6_17607490",
+      "trip_id": "6_17711503",
       "direction_id": "1",
       "headsign": "OPORÓW",
       "service_id": "6",
@@ -71370,7 +71370,7 @@
         {
           "stop_sequence": 14,
           "stop_id": "242",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 07",
           "arrival_time": "19:25:00",
           "departure_time": "19:25:00",
           "lat": 51.11215441,
@@ -71577,7 +71577,7 @@
       ]
     },
     {
-      "trip_id": "6_17607491",
+      "trip_id": "6_17711504",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "6",
@@ -71792,7 +71792,7 @@
         {
           "stop_sequence": 23,
           "stop_id": "240",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 08",
           "arrival_time": "20:40:00",
           "departure_time": "20:40:00",
           "lat": 51.11175007,
@@ -71918,7 +71918,7 @@
       ]
     },
     {
-      "trip_id": "6_17607492",
+      "trip_id": "6_17711505",
       "direction_id": "1",
       "headsign": "OPORÓW",
       "service_id": "6",
@@ -72052,7 +72052,7 @@
         {
           "stop_sequence": 14,
           "stop_id": "242",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 07",
           "arrival_time": "21:50:00",
           "departure_time": "21:50:00",
           "lat": 51.11215441,
@@ -72268,7 +72268,7 @@
       ]
     },
     {
-      "trip_id": "6_17607493",
+      "trip_id": "6_17711506",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "6",
@@ -72483,7 +72483,7 @@
         {
           "stop_sequence": 23,
           "stop_id": "240",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 08",
           "arrival_time": "23:18:00",
           "departure_time": "23:18:00",
           "lat": 51.11175007,
@@ -72609,7 +72609,7 @@
       ]
     },
     {
-      "trip_id": "6_17607494",
+      "trip_id": "6_17711507",
       "direction_id": "1",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "6",
@@ -72725,7 +72725,7 @@
       ]
     },
     {
-      "trip_id": "6_17607495",
+      "trip_id": "6_17711508",
       "direction_id": "1",
       "headsign": "OPORÓW",
       "service_id": "6",
@@ -72841,7 +72841,7 @@
         {
           "stop_sequence": 12,
           "stop_id": "242",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 07",
           "arrival_time": "05:42:00",
           "departure_time": "05:42:00",
           "lat": 51.11215441,
@@ -73048,7 +73048,7 @@
       ]
     },
     {
-      "trip_id": "6_17607496",
+      "trip_id": "6_17711509",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "6",
@@ -73263,7 +73263,7 @@
         {
           "stop_sequence": 23,
           "stop_id": "240",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 08",
           "arrival_time": "07:05:00",
           "departure_time": "07:05:00",
           "lat": 51.11175007,
@@ -73389,7 +73389,7 @@
       ]
     },
     {
-      "trip_id": "6_17607497",
+      "trip_id": "6_17711510",
       "direction_id": "1",
       "headsign": "OPORÓW",
       "service_id": "6",
@@ -73523,7 +73523,7 @@
         {
           "stop_sequence": 14,
           "stop_id": "242",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 07",
           "arrival_time": "08:18:00",
           "departure_time": "08:18:00",
           "lat": 51.11215441,
@@ -73730,7 +73730,7 @@
       ]
     },
     {
-      "trip_id": "6_17607498",
+      "trip_id": "6_17711511",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "6",
@@ -73945,7 +73945,7 @@
         {
           "stop_sequence": 23,
           "stop_id": "240",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 08",
           "arrival_time": "09:50:00",
           "departure_time": "09:50:00",
           "lat": 51.11175007,
@@ -74053,7 +74053,7 @@
       ]
     },
     {
-      "trip_id": "6_17607499",
+      "trip_id": "6_17711512",
       "direction_id": "1",
       "headsign": "OPORÓW",
       "service_id": "6",
@@ -74169,7 +74169,7 @@
         {
           "stop_sequence": 12,
           "stop_id": "242",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 07",
           "arrival_time": "13:10:00",
           "departure_time": "13:10:00",
           "lat": 51.11215441,
@@ -74376,7 +74376,7 @@
       ]
     },
     {
-      "trip_id": "6_17607500",
+      "trip_id": "6_17711513",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "6",
@@ -74591,7 +74591,7 @@
         {
           "stop_sequence": 23,
           "stop_id": "240",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 08",
           "arrival_time": "14:35:00",
           "departure_time": "14:35:00",
           "lat": 51.11175007,
@@ -74717,7 +74717,7 @@
       ]
     },
     {
-      "trip_id": "6_17607501",
+      "trip_id": "6_17711514",
       "direction_id": "1",
       "headsign": "OPORÓW",
       "service_id": "6",
@@ -74851,7 +74851,7 @@
         {
           "stop_sequence": 14,
           "stop_id": "242",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 07",
           "arrival_time": "15:53:00",
           "departure_time": "15:53:00",
           "lat": 51.11215441,
@@ -75058,7 +75058,7 @@
       ]
     },
     {
-      "trip_id": "6_17607502",
+      "trip_id": "6_17711515",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "6",
@@ -75273,7 +75273,7 @@
         {
           "stop_sequence": 23,
           "stop_id": "240",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 08",
           "arrival_time": "17:34:00",
           "departure_time": "17:34:00",
           "lat": 51.11175007,
@@ -75399,7 +75399,7 @@
       ]
     },
     {
-      "trip_id": "6_17607503",
+      "trip_id": "6_17711516",
       "direction_id": "1",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "6",
@@ -75515,7 +75515,7 @@
       ]
     },
     {
-      "trip_id": "6_17607504",
+      "trip_id": "6_17711517",
       "direction_id": "1",
       "headsign": "Awicenny (Poczta Polska)",
       "service_id": "6",
@@ -75631,7 +75631,7 @@
         {
           "stop_sequence": 12,
           "stop_id": "242",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 07",
           "arrival_time": "13:41:00",
           "departure_time": "13:41:00",
           "lat": 51.11215441,
@@ -75793,7 +75793,7 @@
       ]
     },
     {
-      "trip_id": "6_17607505",
+      "trip_id": "6_17711518",
       "direction_id": "1",
       "headsign": "OPORÓW",
       "service_id": "6",
@@ -75864,7 +75864,7 @@
       ]
     },
     {
-      "trip_id": "6_17607506",
+      "trip_id": "6_17711519",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "6",
@@ -76079,7 +76079,7 @@
         {
           "stop_sequence": 23,
           "stop_id": "240",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 08",
           "arrival_time": "15:08:00",
           "departure_time": "15:08:00",
           "lat": 51.11175007,
@@ -76205,7 +76205,7 @@
       ]
     },
     {
-      "trip_id": "6_17607507",
+      "trip_id": "6_17711520",
       "direction_id": "1",
       "headsign": "OPORÓW",
       "service_id": "6",
@@ -76339,7 +76339,7 @@
         {
           "stop_sequence": 14,
           "stop_id": "242",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 07",
           "arrival_time": "16:22:00",
           "departure_time": "16:22:00",
           "lat": 51.11215441,
@@ -76546,7 +76546,7 @@
       ]
     },
     {
-      "trip_id": "6_17607508",
+      "trip_id": "6_17711521",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "6",
@@ -76761,7 +76761,7 @@
         {
           "stop_sequence": 23,
           "stop_id": "240",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 08",
           "arrival_time": "17:58:00",
           "departure_time": "17:58:00",
           "lat": 51.11175007,
@@ -76887,7 +76887,7 @@
       ]
     },
     {
-      "trip_id": "6_17607509",
+      "trip_id": "6_17711522",
       "direction_id": "1",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "6",
@@ -77003,7 +77003,7 @@
       ]
     },
     {
-      "trip_id": "6_17607510",
+      "trip_id": "6_17711523",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "6",
@@ -77119,7 +77119,7 @@
       ]
     },
     {
-      "trip_id": "6_17607511",
+      "trip_id": "6_17711524",
       "direction_id": "1",
       "headsign": "OPORÓW",
       "service_id": "6",
@@ -77253,7 +77253,7 @@
         {
           "stop_sequence": 14,
           "stop_id": "242",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 07",
           "arrival_time": "14:54:00",
           "departure_time": "14:54:00",
           "lat": 51.11215441,
@@ -77460,7 +77460,7 @@
       ]
     },
     {
-      "trip_id": "6_17607512",
+      "trip_id": "6_17711525",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "6",
@@ -77675,7 +77675,7 @@
         {
           "stop_sequence": 23,
           "stop_id": "240",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 08",
           "arrival_time": "16:38:00",
           "departure_time": "16:38:00",
           "lat": 51.11175007,
@@ -77801,7 +77801,7 @@
       ]
     },
     {
-      "trip_id": "6_17607513",
+      "trip_id": "6_17711526",
       "direction_id": "1",
       "headsign": "OPORÓW",
       "service_id": "6",
@@ -77935,7 +77935,7 @@
         {
           "stop_sequence": 14,
           "stop_id": "242",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 07",
           "arrival_time": "17:58:00",
           "departure_time": "17:58:00",
           "lat": 51.11215441,
@@ -78142,7 +78142,7 @@
       ]
     },
     {
-      "trip_id": "6_17607514",
+      "trip_id": "6_17711527",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "6",
@@ -78357,7 +78357,7 @@
         {
           "stop_sequence": 23,
           "stop_id": "240",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 08",
           "arrival_time": "19:24:00",
           "departure_time": "19:24:00",
           "lat": 51.11175007,
@@ -78483,7 +78483,7 @@
       ]
     },
     {
-      "trip_id": "6_17607515",
+      "trip_id": "6_17711528",
       "direction_id": "1",
       "headsign": "OPORÓW",
       "service_id": "6",
@@ -78617,7 +78617,7 @@
         {
           "stop_sequence": 14,
           "stop_id": "242",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 07",
           "arrival_time": "20:23:00",
           "departure_time": "20:23:00",
           "lat": 51.11215441,
@@ -78824,7 +78824,7 @@
       ]
     },
     {
-      "trip_id": "6_17607516",
+      "trip_id": "6_17711529",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "6",
@@ -79039,7 +79039,7 @@
         {
           "stop_sequence": 23,
           "stop_id": "240",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 08",
           "arrival_time": "21:40:00",
           "departure_time": "21:40:00",
           "lat": 51.11175007,
@@ -79165,7 +79165,7 @@
       ]
     },
     {
-      "trip_id": "6_17607517",
+      "trip_id": "6_17711530",
       "direction_id": "1",
       "headsign": "OPORÓW",
       "service_id": "6",
@@ -79299,7 +79299,7 @@
         {
           "stop_sequence": 14,
           "stop_id": "242",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 07",
           "arrival_time": "22:52:00",
           "departure_time": "22:52:00",
           "lat": 51.11215441,
@@ -79506,7 +79506,7 @@
       ]
     },
     {
-      "trip_id": "6_17607518",
+      "trip_id": "6_17711531",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "6",
@@ -79721,7 +79721,7 @@
         {
           "stop_sequence": 23,
           "stop_id": "240",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 08",
           "arrival_time": "23:56:00",
           "departure_time": "23:56:00",
           "lat": 51.11175007,
@@ -79829,7 +79829,7 @@
       ]
     },
     {
-      "trip_id": "6_17607519",
+      "trip_id": "6_17711532",
       "direction_id": "1",
       "headsign": "OPORÓW",
       "service_id": "6",
@@ -79945,7 +79945,7 @@
         {
           "stop_sequence": 12,
           "stop_id": "242",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 07",
           "arrival_time": "04:24:00",
           "departure_time": "04:24:00",
           "lat": 51.11215441,
@@ -80152,7 +80152,7 @@
       ]
     },
     {
-      "trip_id": "6_17607520",
+      "trip_id": "6_17711533",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "6",
@@ -80367,7 +80367,7 @@
         {
           "stop_sequence": 23,
           "stop_id": "240",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 08",
           "arrival_time": "05:48:00",
           "departure_time": "05:48:00",
           "lat": 51.11175007,
@@ -80493,7 +80493,7 @@
       ]
     },
     {
-      "trip_id": "6_17607521",
+      "trip_id": "6_17711534",
       "direction_id": "1",
       "headsign": "OPORÓW",
       "service_id": "6",
@@ -80627,7 +80627,7 @@
         {
           "stop_sequence": 14,
           "stop_id": "242",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 07",
           "arrival_time": "06:56:00",
           "departure_time": "06:56:00",
           "lat": 51.11215441,
@@ -80834,7 +80834,7 @@
       ]
     },
     {
-      "trip_id": "6_17607522",
+      "trip_id": "6_17711535",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "6",
@@ -81049,7 +81049,7 @@
         {
           "stop_sequence": 23,
           "stop_id": "240",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 08",
           "arrival_time": "08:28:00",
           "departure_time": "08:28:00",
           "lat": 51.11175007,
@@ -81175,7 +81175,7 @@
       ]
     },
     {
-      "trip_id": "6_17607523",
+      "trip_id": "6_17711536",
       "direction_id": "1",
       "headsign": "OPORÓW",
       "service_id": "6",
@@ -81309,7 +81309,7 @@
         {
           "stop_sequence": 14,
           "stop_id": "242",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 07",
           "arrival_time": "09:57:00",
           "departure_time": "09:57:00",
           "lat": 51.11215441,
@@ -81516,7 +81516,7 @@
       ]
     },
     {
-      "trip_id": "6_17607524",
+      "trip_id": "6_17711537",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "6",
@@ -81731,7 +81731,7 @@
         {
           "stop_sequence": 23,
           "stop_id": "240",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 08",
           "arrival_time": "11:26:00",
           "departure_time": "11:26:00",
           "lat": 51.11175007,
@@ -81857,7 +81857,7 @@
       ]
     },
     {
-      "trip_id": "6_17607525",
+      "trip_id": "6_17711538",
       "direction_id": "1",
       "headsign": "OPORÓW",
       "service_id": "6",
@@ -81991,7 +81991,7 @@
         {
           "stop_sequence": 14,
           "stop_id": "242",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 07",
           "arrival_time": "12:57:00",
           "departure_time": "12:57:00",
           "lat": 51.11215441,
@@ -82198,7 +82198,7 @@
       ]
     },
     {
-      "trip_id": "6_17607526",
+      "trip_id": "6_17711539",
       "direction_id": "0",
       "headsign": "Awicenny (Poczta Polska)",
       "service_id": "6",
@@ -82269,7 +82269,7 @@
       ]
     },
     {
-      "trip_id": "6_17607534",
+      "trip_id": "6_17711547",
       "direction_id": "1",
       "headsign": "OPORÓW",
       "service_id": "6",
@@ -82385,7 +82385,7 @@
         {
           "stop_sequence": 12,
           "stop_id": "242",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 07",
           "arrival_time": "14:03:00",
           "departure_time": "14:03:00",
           "lat": 51.11215441,
@@ -82592,7 +82592,7 @@
       ]
     },
     {
-      "trip_id": "6_17607535",
+      "trip_id": "6_17711548",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "6",
@@ -82807,7 +82807,7 @@
         {
           "stop_sequence": 23,
           "stop_id": "240",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 08",
           "arrival_time": "15:38:00",
           "departure_time": "15:38:00",
           "lat": 51.11175007,
@@ -82933,7 +82933,7 @@
       ]
     },
     {
-      "trip_id": "6_17607536",
+      "trip_id": "6_17711549",
       "direction_id": "1",
       "headsign": "OPORÓW",
       "service_id": "6",
@@ -83067,7 +83067,7 @@
         {
           "stop_sequence": 14,
           "stop_id": "242",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 07",
           "arrival_time": "16:51:00",
           "departure_time": "16:51:00",
           "lat": 51.11215441,
@@ -83274,7 +83274,7 @@
       ]
     },
     {
-      "trip_id": "6_17607537",
+      "trip_id": "6_17711550",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "6",
@@ -83489,7 +83489,7 @@
         {
           "stop_sequence": 23,
           "stop_id": "240",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 08",
           "arrival_time": "18:36:00",
           "departure_time": "18:36:00",
           "lat": 51.11175007,
@@ -83597,7 +83597,7 @@
       ]
     },
     {
-      "trip_id": "6_17607538",
+      "trip_id": "6_17711551",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "6",
@@ -83713,7 +83713,7 @@
       ]
     },
     {
-      "trip_id": "6_17607539",
+      "trip_id": "6_17711552",
       "direction_id": "1",
       "headsign": "OPORÓW",
       "service_id": "6",
@@ -83847,7 +83847,7 @@
         {
           "stop_sequence": 14,
           "stop_id": "242",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 07",
           "arrival_time": "14:24:00",
           "departure_time": "14:24:00",
           "lat": 51.11215441,
@@ -84054,7 +84054,7 @@
       ]
     },
     {
-      "trip_id": "6_17607540",
+      "trip_id": "6_17711553",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "6",
@@ -84269,7 +84269,7 @@
         {
           "stop_sequence": 23,
           "stop_id": "240",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 08",
           "arrival_time": "16:08:00",
           "departure_time": "16:08:00",
           "lat": 51.11175007,
@@ -84395,7 +84395,7 @@
       ]
     },
     {
-      "trip_id": "6_17607541",
+      "trip_id": "6_17711554",
       "direction_id": "1",
       "headsign": "OPORÓW",
       "service_id": "6",
@@ -84529,7 +84529,7 @@
         {
           "stop_sequence": 14,
           "stop_id": "242",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 07",
           "arrival_time": "17:21:00",
           "departure_time": "17:21:00",
           "lat": 51.11215441,
@@ -84736,7 +84736,7 @@
       ]
     },
     {
-      "trip_id": "6_17607542",
+      "trip_id": "6_17711555",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "6",
@@ -84951,7 +84951,7 @@
         {
           "stop_sequence": 23,
           "stop_id": "240",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 08",
           "arrival_time": "18:54:00",
           "departure_time": "18:54:00",
           "lat": 51.11175007,
@@ -85077,7 +85077,7 @@
       ]
     },
     {
-      "trip_id": "6_17607543",
+      "trip_id": "6_17711556",
       "direction_id": "1",
       "headsign": "OPORÓW",
       "service_id": "6",
@@ -85211,7 +85211,7 @@
         {
           "stop_sequence": 14,
           "stop_id": "242",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 07",
           "arrival_time": "19:55:00",
           "departure_time": "19:55:00",
           "lat": 51.11215441,
@@ -85418,7 +85418,7 @@
       ]
     },
     {
-      "trip_id": "6_17607544",
+      "trip_id": "6_17711557",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "6",
@@ -85633,7 +85633,7 @@
         {
           "stop_sequence": 23,
           "stop_id": "240",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 08",
           "arrival_time": "21:10:00",
           "departure_time": "21:10:00",
           "lat": 51.11175007,
@@ -85759,7 +85759,7 @@
       ]
     },
     {
-      "trip_id": "6_17607545",
+      "trip_id": "6_17711558",
       "direction_id": "1",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "6",
@@ -85875,7 +85875,7 @@
       ]
     },
     {
-      "trip_id": "6_17607546",
+      "trip_id": "6_17711559",
       "direction_id": "1",
       "headsign": "OPORÓW",
       "service_id": "6",
@@ -85991,7 +85991,7 @@
         {
           "stop_sequence": 12,
           "stop_id": "242",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 07",
           "arrival_time": "12:42:00",
           "departure_time": "12:42:00",
           "lat": 51.11215441,
@@ -86198,7 +86198,7 @@
       ]
     },
     {
-      "trip_id": "6_17607547",
+      "trip_id": "6_17711560",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "6",
@@ -86413,7 +86413,7 @@
         {
           "stop_sequence": 23,
           "stop_id": "240",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 08",
           "arrival_time": "14:12:00",
           "departure_time": "14:12:00",
           "lat": 51.11175007,
@@ -86539,7 +86539,7 @@
       ]
     },
     {
-      "trip_id": "6_17607548",
+      "trip_id": "6_17711561",
       "direction_id": "1",
       "headsign": "OPORÓW",
       "service_id": "6",
@@ -86673,7 +86673,7 @@
         {
           "stop_sequence": 14,
           "stop_id": "242",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 07",
           "arrival_time": "15:23:00",
           "departure_time": "15:23:00",
           "lat": 51.11215441,
@@ -86880,7 +86880,7 @@
       ]
     },
     {
-      "trip_id": "6_17607549",
+      "trip_id": "6_17711562",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "6",
@@ -87095,7 +87095,7 @@
         {
           "stop_sequence": 23,
           "stop_id": "240",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 08",
           "arrival_time": "17:07:00",
           "departure_time": "17:07:00",
           "lat": 51.11175007,
@@ -87221,7 +87221,7 @@
       ]
     },
     {
-      "trip_id": "6_17607550",
+      "trip_id": "6_17711563",
       "direction_id": "1",
       "headsign": "OPORÓW",
       "service_id": "6",
@@ -87355,7 +87355,7 @@
         {
           "stop_sequence": 14,
           "stop_id": "242",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 07",
           "arrival_time": "18:25:00",
           "departure_time": "18:25:00",
           "lat": 51.11215441,
@@ -87562,7 +87562,7 @@
       ]
     },
     {
-      "trip_id": "6_17607551",
+      "trip_id": "6_17711564",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "6",
@@ -87777,7 +87777,7 @@
         {
           "stop_sequence": 23,
           "stop_id": "240",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 08",
           "arrival_time": "19:54:00",
           "departure_time": "19:54:00",
           "lat": 51.11175007,
@@ -87903,7 +87903,7 @@
       ]
     },
     {
-      "trip_id": "6_17607552",
+      "trip_id": "6_17711565",
       "direction_id": "1",
       "headsign": "OPORÓW",
       "service_id": "6",
@@ -88037,7 +88037,7 @@
         {
           "stop_sequence": 14,
           "stop_id": "242",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 07",
           "arrival_time": "20:50:00",
           "departure_time": "20:50:00",
           "lat": 51.11215441,
@@ -88244,7 +88244,7 @@
       ]
     },
     {
-      "trip_id": "6_17607553",
+      "trip_id": "6_17711566",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "6",
@@ -88459,7 +88459,7 @@
         {
           "stop_sequence": 23,
           "stop_id": "240",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 08",
           "arrival_time": "22:10:00",
           "departure_time": "22:10:00",
           "lat": 51.11175007,
@@ -88585,7 +88585,7 @@
       ]
     },
     {
-      "trip_id": "6_17607554",
+      "trip_id": "6_17711567",
       "direction_id": "1",
       "headsign": "OPORÓW",
       "service_id": "6",
@@ -88719,7 +88719,7 @@
         {
           "stop_sequence": 14,
           "stop_id": "242",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 07",
           "arrival_time": "23:15:00",
           "departure_time": "23:15:00",
           "lat": 51.11215441,
@@ -88926,7 +88926,7 @@
       ]
     },
     {
-      "trip_id": "6_17607745",
+      "trip_id": "6_17711758",
       "direction_id": "1",
       "headsign": "OPORÓW",
       "service_id": "6",
@@ -89168,7 +89168,7 @@
       ]
     },
     {
-      "trip_id": "6_17607746",
+      "trip_id": "6_17711759",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "6",
@@ -89383,7 +89383,7 @@
         {
           "stop_sequence": 23,
           "stop_id": "240",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 08",
           "arrival_time": "05:18:00",
           "departure_time": "05:18:00",
           "lat": 51.11175007,
@@ -89509,7 +89509,7 @@
       ]
     },
     {
-      "trip_id": "6_17607747",
+      "trip_id": "6_17711760",
       "direction_id": "1",
       "headsign": "OPORÓW",
       "service_id": "6",
@@ -89643,7 +89643,7 @@
         {
           "stop_sequence": 14,
           "stop_id": "242",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 07",
           "arrival_time": "06:12:00",
           "departure_time": "06:12:00",
           "lat": 51.11215441,
@@ -89850,7 +89850,7 @@
       ]
     },
     {
-      "trip_id": "6_17609650",
+      "trip_id": "6_17713663",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "6",
@@ -89966,7 +89966,7 @@
       ]
     },
     {
-      "trip_id": "6_17609651",
+      "trip_id": "6_17713664",
       "direction_id": "1",
       "headsign": "OPORÓW",
       "service_id": "6",
@@ -90100,7 +90100,7 @@
         {
           "stop_sequence": 14,
           "stop_id": "242",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 07",
           "arrival_time": "22:20:00",
           "departure_time": "22:20:00",
           "lat": 51.11215441,
@@ -90307,7 +90307,7 @@
       ]
     },
     {
-      "trip_id": "8_17614238",
+      "trip_id": "8_17718251",
       "direction_id": "1",
       "headsign": "OPORÓW",
       "service_id": "8",
@@ -90378,7 +90378,7 @@
       ]
     },
     {
-      "trip_id": "8_17614239",
+      "trip_id": "8_17718252",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "8",
@@ -90593,7 +90593,7 @@
         {
           "stop_sequence": 23,
           "stop_id": "240",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 08",
           "arrival_time": "06:34:00",
           "departure_time": "06:34:00",
           "lat": 51.11175007,
@@ -90719,7 +90719,7 @@
       ]
     },
     {
-      "trip_id": "8_17614240",
+      "trip_id": "8_17718253",
       "direction_id": "1",
       "headsign": "OPORÓW",
       "service_id": "8",
@@ -90853,7 +90853,7 @@
         {
           "stop_sequence": 14,
           "stop_id": "242",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 07",
           "arrival_time": "07:34:00",
           "departure_time": "07:34:00",
           "lat": 51.11215441,
@@ -91060,7 +91060,7 @@
       ]
     },
     {
-      "trip_id": "8_17614241",
+      "trip_id": "8_17718254",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "8",
@@ -91275,7 +91275,7 @@
         {
           "stop_sequence": 23,
           "stop_id": "240",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 08",
           "arrival_time": "09:08:00",
           "departure_time": "09:08:00",
           "lat": 51.11175007,
@@ -91383,7 +91383,7 @@
       ]
     },
     {
-      "trip_id": "8_17614242",
+      "trip_id": "8_17718255",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "8",
@@ -91499,7 +91499,7 @@
       ]
     },
     {
-      "trip_id": "8_17614243",
+      "trip_id": "8_17718256",
       "direction_id": "1",
       "headsign": "OPORÓW",
       "service_id": "8",
@@ -91633,7 +91633,7 @@
         {
           "stop_sequence": 14,
           "stop_id": "242",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 07",
           "arrival_time": "05:57:00",
           "departure_time": "05:57:00",
           "lat": 51.11215441,
@@ -91840,7 +91840,7 @@
       ]
     },
     {
-      "trip_id": "8_17614244",
+      "trip_id": "8_17718257",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "8",
@@ -92055,7 +92055,7 @@
         {
           "stop_sequence": 23,
           "stop_id": "240",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 08",
           "arrival_time": "07:21:00",
           "departure_time": "07:21:00",
           "lat": 51.11175007,
@@ -92181,7 +92181,7 @@
       ]
     },
     {
-      "trip_id": "8_17614245",
+      "trip_id": "8_17718258",
       "direction_id": "1",
       "headsign": "OPORÓW",
       "service_id": "8",
@@ -92315,7 +92315,7 @@
         {
           "stop_sequence": 14,
           "stop_id": "242",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 07",
           "arrival_time": "08:26:00",
           "departure_time": "08:26:00",
           "lat": 51.11215441,
@@ -92522,7 +92522,7 @@
       ]
     },
     {
-      "trip_id": "8_17614246",
+      "trip_id": "8_17718259",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "8",
@@ -92737,7 +92737,7 @@
         {
           "stop_sequence": 23,
           "stop_id": "240",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 08",
           "arrival_time": "09:56:00",
           "departure_time": "09:56:00",
           "lat": 51.11175007,
@@ -92863,7 +92863,7 @@
       ]
     },
     {
-      "trip_id": "8_17614247",
+      "trip_id": "8_17718260",
       "direction_id": "1",
       "headsign": "OPORÓW",
       "service_id": "8",
@@ -92997,7 +92997,7 @@
         {
           "stop_sequence": 14,
           "stop_id": "242",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 07",
           "arrival_time": "11:27:00",
           "departure_time": "11:27:00",
           "lat": 51.11215441,
@@ -93204,7 +93204,7 @@
       ]
     },
     {
-      "trip_id": "8_17614248",
+      "trip_id": "8_17718261",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "8",
@@ -93419,7 +93419,7 @@
         {
           "stop_sequence": 23,
           "stop_id": "240",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 08",
           "arrival_time": "12:56:00",
           "departure_time": "12:56:00",
           "lat": 51.11175007,
@@ -93545,7 +93545,7 @@
       ]
     },
     {
-      "trip_id": "8_17614249",
+      "trip_id": "8_17718262",
       "direction_id": "1",
       "headsign": "OPORÓW",
       "service_id": "8",
@@ -93679,7 +93679,7 @@
         {
           "stop_sequence": 14,
           "stop_id": "242",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 07",
           "arrival_time": "14:11:00",
           "departure_time": "14:11:00",
           "lat": 51.11215441,
@@ -93886,7 +93886,7 @@
       ]
     },
     {
-      "trip_id": "8_17614250",
+      "trip_id": "8_17718263",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "8",
@@ -94101,7 +94101,7 @@
         {
           "stop_sequence": 23,
           "stop_id": "240",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 08",
           "arrival_time": "15:53:00",
           "departure_time": "15:53:00",
           "lat": 51.11175007,
@@ -94227,7 +94227,7 @@
       ]
     },
     {
-      "trip_id": "8_17614251",
+      "trip_id": "8_17718264",
       "direction_id": "1",
       "headsign": "OPORÓW",
       "service_id": "8",
@@ -94361,7 +94361,7 @@
         {
           "stop_sequence": 14,
           "stop_id": "242",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 07",
           "arrival_time": "17:05:00",
           "departure_time": "17:05:00",
           "lat": 51.11215441,
@@ -94568,7 +94568,7 @@
       ]
     },
     {
-      "trip_id": "8_17614252",
+      "trip_id": "8_17718265",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "8",
@@ -94783,7 +94783,7 @@
         {
           "stop_sequence": 23,
           "stop_id": "240",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 08",
           "arrival_time": "18:46:00",
           "departure_time": "18:46:00",
           "lat": 51.11175007,
@@ -94891,7 +94891,7 @@
       ]
     },
     {
-      "trip_id": "8_17614255",
+      "trip_id": "8_17718268",
       "direction_id": "1",
       "headsign": "OPORÓW",
       "service_id": "8",
@@ -94962,7 +94962,7 @@
       ]
     },
     {
-      "trip_id": "8_17614256",
+      "trip_id": "8_17718269",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "8",
@@ -95177,7 +95177,7 @@
         {
           "stop_sequence": 23,
           "stop_id": "240",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 08",
           "arrival_time": "07:38:00",
           "departure_time": "07:38:00",
           "lat": 51.11175007,
@@ -95303,7 +95303,7 @@
       ]
     },
     {
-      "trip_id": "8_17614257",
+      "trip_id": "8_17718270",
       "direction_id": "1",
       "headsign": "OPORÓW",
       "service_id": "8",
@@ -95437,7 +95437,7 @@
         {
           "stop_sequence": 14,
           "stop_id": "242",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 07",
           "arrival_time": "08:55:00",
           "departure_time": "08:55:00",
           "lat": 51.11215441,
@@ -95644,7 +95644,7 @@
       ]
     },
     {
-      "trip_id": "8_17614258",
+      "trip_id": "8_17718271",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "8",
@@ -95859,7 +95859,7 @@
         {
           "stop_sequence": 23,
           "stop_id": "240",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 08",
           "arrival_time": "10:26:00",
           "departure_time": "10:26:00",
           "lat": 51.11175007,
@@ -95985,7 +95985,7 @@
       ]
     },
     {
-      "trip_id": "8_17614259",
+      "trip_id": "8_17718272",
       "direction_id": "1",
       "headsign": "OPORÓW",
       "service_id": "8",
@@ -96119,7 +96119,7 @@
         {
           "stop_sequence": 14,
           "stop_id": "242",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 07",
           "arrival_time": "11:57:00",
           "departure_time": "11:57:00",
           "lat": 51.11215441,
@@ -96326,7 +96326,7 @@
       ]
     },
     {
-      "trip_id": "8_17614260",
+      "trip_id": "8_17718273",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "8",
@@ -96541,7 +96541,7 @@
         {
           "stop_sequence": 23,
           "stop_id": "240",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 08",
           "arrival_time": "13:26:00",
           "departure_time": "13:26:00",
           "lat": 51.11175007,
@@ -96667,7 +96667,7 @@
       ]
     },
     {
-      "trip_id": "8_17614261",
+      "trip_id": "8_17718274",
       "direction_id": "1",
       "headsign": "OPORÓW",
       "service_id": "8",
@@ -96801,7 +96801,7 @@
         {
           "stop_sequence": 14,
           "stop_id": "242",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 07",
           "arrival_time": "14:39:00",
           "departure_time": "14:39:00",
           "lat": 51.11215441,
@@ -97008,7 +97008,7 @@
       ]
     },
     {
-      "trip_id": "8_17614262",
+      "trip_id": "8_17718275",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "8",
@@ -97223,7 +97223,7 @@
         {
           "stop_sequence": 23,
           "stop_id": "240",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 08",
           "arrival_time": "16:23:00",
           "departure_time": "16:23:00",
           "lat": 51.11175007,
@@ -97349,7 +97349,7 @@
       ]
     },
     {
-      "trip_id": "8_17614263",
+      "trip_id": "8_17718276",
       "direction_id": "1",
       "headsign": "OPORÓW",
       "service_id": "8",
@@ -97483,7 +97483,7 @@
         {
           "stop_sequence": 14,
           "stop_id": "242",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 07",
           "arrival_time": "17:36:00",
           "departure_time": "17:36:00",
           "lat": 51.11215441,
@@ -97690,7 +97690,7 @@
       ]
     },
     {
-      "trip_id": "8_17614264",
+      "trip_id": "8_17718277",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "8",
@@ -97905,7 +97905,7 @@
         {
           "stop_sequence": 23,
           "stop_id": "240",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 08",
           "arrival_time": "19:06:00",
           "departure_time": "19:06:00",
           "lat": 51.11175007,
@@ -98013,7 +98013,7 @@
       ]
     },
     {
-      "trip_id": "8_17614265",
+      "trip_id": "8_17718278",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "8",
@@ -98129,7 +98129,7 @@
       ]
     },
     {
-      "trip_id": "8_17614266",
+      "trip_id": "8_17718279",
       "direction_id": "1",
       "headsign": "OPORÓW",
       "service_id": "8",
@@ -98263,7 +98263,7 @@
         {
           "stop_sequence": 14,
           "stop_id": "242",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 07",
           "arrival_time": "06:26:00",
           "departure_time": "06:26:00",
           "lat": 51.11215441,
@@ -98470,7 +98470,7 @@
       ]
     },
     {
-      "trip_id": "8_17614267",
+      "trip_id": "8_17718280",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "8",
@@ -98685,7 +98685,7 @@
         {
           "stop_sequence": 23,
           "stop_id": "240",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 08",
           "arrival_time": "07:52:00",
           "departure_time": "07:52:00",
           "lat": 51.11175007,
@@ -98811,7 +98811,7 @@
       ]
     },
     {
-      "trip_id": "8_17614268",
+      "trip_id": "8_17718281",
       "direction_id": "1",
       "headsign": "OPORÓW",
       "service_id": "8",
@@ -98945,7 +98945,7 @@
         {
           "stop_sequence": 14,
           "stop_id": "242",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 07",
           "arrival_time": "09:27:00",
           "departure_time": "09:27:00",
           "lat": 51.11215441,
@@ -99152,7 +99152,7 @@
       ]
     },
     {
-      "trip_id": "8_17614269",
+      "trip_id": "8_17718282",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "8",
@@ -99367,7 +99367,7 @@
         {
           "stop_sequence": 23,
           "stop_id": "240",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 08",
           "arrival_time": "10:56:00",
           "departure_time": "10:56:00",
           "lat": 51.11175007,
@@ -99493,7 +99493,7 @@
       ]
     },
     {
-      "trip_id": "8_17614270",
+      "trip_id": "8_17718283",
       "direction_id": "1",
       "headsign": "OPORÓW",
       "service_id": "8",
@@ -99627,7 +99627,7 @@
         {
           "stop_sequence": 14,
           "stop_id": "242",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 07",
           "arrival_time": "12:27:00",
           "departure_time": "12:27:00",
           "lat": 51.11215441,
@@ -99834,7 +99834,7 @@
       ]
     },
     {
-      "trip_id": "8_17614271",
+      "trip_id": "8_17718284",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "8",
@@ -100049,7 +100049,7 @@
         {
           "stop_sequence": 23,
           "stop_id": "240",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 08",
           "arrival_time": "13:56:00",
           "departure_time": "13:56:00",
           "lat": 51.11175007,
@@ -100175,7 +100175,7 @@
       ]
     },
     {
-      "trip_id": "8_17614272",
+      "trip_id": "8_17718285",
       "direction_id": "1",
       "headsign": "OPORÓW",
       "service_id": "8",
@@ -100309,7 +100309,7 @@
         {
           "stop_sequence": 14,
           "stop_id": "242",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 07",
           "arrival_time": "15:08:00",
           "departure_time": "15:08:00",
           "lat": 51.11215441,
@@ -100516,7 +100516,7 @@
       ]
     },
     {
-      "trip_id": "8_17614273",
+      "trip_id": "8_17718286",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "8",
@@ -100731,7 +100731,7 @@
         {
           "stop_sequence": 23,
           "stop_id": "240",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 08",
           "arrival_time": "16:53:00",
           "departure_time": "16:53:00",
           "lat": 51.11175007,
@@ -100857,7 +100857,7 @@
       ]
     },
     {
-      "trip_id": "8_17614274",
+      "trip_id": "8_17718287",
       "direction_id": "1",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "8",
@@ -100973,7 +100973,7 @@
       ]
     },
     {
-      "trip_id": "8_17614275",
+      "trip_id": "8_17718288",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "8",
@@ -101089,7 +101089,7 @@
       ]
     },
     {
-      "trip_id": "8_17614276",
+      "trip_id": "8_17718289",
       "direction_id": "1",
       "headsign": "OPORÓW",
       "service_id": "8",
@@ -101223,7 +101223,7 @@
         {
           "stop_sequence": 14,
           "stop_id": "242",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 07",
           "arrival_time": "06:41:00",
           "departure_time": "06:41:00",
           "lat": 51.11215441,
@@ -101430,7 +101430,7 @@
       ]
     },
     {
-      "trip_id": "8_17614277",
+      "trip_id": "8_17718290",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "8",
@@ -101645,7 +101645,7 @@
         {
           "stop_sequence": 23,
           "stop_id": "240",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 08",
           "arrival_time": "08:13:00",
           "departure_time": "08:13:00",
           "lat": 51.11175007,
@@ -101771,7 +101771,7 @@
       ]
     },
     {
-      "trip_id": "8_17614278",
+      "trip_id": "8_17718291",
       "direction_id": "1",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "8",
@@ -101887,7 +101887,7 @@
       ]
     },
     {
-      "trip_id": "8_17614279",
+      "trip_id": "8_17718292",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "8",
@@ -102003,7 +102003,7 @@
       ]
     },
     {
-      "trip_id": "8_17614280",
+      "trip_id": "8_17718293",
       "direction_id": "1",
       "headsign": "OPORÓW",
       "service_id": "8",
@@ -102137,7 +102137,7 @@
         {
           "stop_sequence": 14,
           "stop_id": "242",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 07",
           "arrival_time": "15:38:00",
           "departure_time": "15:38:00",
           "lat": 51.11215441,
@@ -102344,7 +102344,7 @@
       ]
     },
     {
-      "trip_id": "8_17614281",
+      "trip_id": "8_17718294",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "8",
@@ -102559,7 +102559,7 @@
         {
           "stop_sequence": 23,
           "stop_id": "240",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 08",
           "arrival_time": "17:21:00",
           "departure_time": "17:21:00",
           "lat": 51.11175007,
@@ -102685,7 +102685,7 @@
       ]
     },
     {
-      "trip_id": "8_17614282",
+      "trip_id": "8_17718295",
       "direction_id": "1",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "8",
@@ -102801,7 +102801,7 @@
       ]
     },
     {
-      "trip_id": "8_17614283",
+      "trip_id": "8_17718296",
       "direction_id": "1",
       "headsign": "OPORÓW",
       "service_id": "8",
@@ -102917,7 +102917,7 @@
         {
           "stop_sequence": 12,
           "stop_id": "242",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 07",
           "arrival_time": "04:54:00",
           "departure_time": "04:54:00",
           "lat": 51.11215441,
@@ -103124,7 +103124,7 @@
       ]
     },
     {
-      "trip_id": "8_17614284",
+      "trip_id": "8_17718297",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "8",
@@ -103339,7 +103339,7 @@
         {
           "stop_sequence": 23,
           "stop_id": "240",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 08",
           "arrival_time": "06:08:00",
           "departure_time": "06:08:00",
           "lat": 51.11175007,
@@ -103465,7 +103465,7 @@
       ]
     },
     {
-      "trip_id": "8_17614285",
+      "trip_id": "8_17718298",
       "direction_id": "1",
       "headsign": "OPORÓW",
       "service_id": "8",
@@ -103599,7 +103599,7 @@
         {
           "stop_sequence": 14,
           "stop_id": "242",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 07",
           "arrival_time": "07:05:00",
           "departure_time": "07:05:00",
           "lat": 51.11215441,
@@ -103806,7 +103806,7 @@
       ]
     },
     {
-      "trip_id": "8_17614286",
+      "trip_id": "8_17718299",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "8",
@@ -104021,7 +104021,7 @@
         {
           "stop_sequence": 23,
           "stop_id": "240",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 08",
           "arrival_time": "08:43:00",
           "departure_time": "08:43:00",
           "lat": 51.11175007,
@@ -104147,7 +104147,7 @@
       ]
     },
     {
-      "trip_id": "8_17614287",
+      "trip_id": "8_17718300",
       "direction_id": "1",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "8",
@@ -104263,7 +104263,7 @@
       ]
     },
     {
-      "trip_id": "8_17614288",
+      "trip_id": "8_17718301",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "8",
@@ -104379,7 +104379,7 @@
       ]
     },
     {
-      "trip_id": "8_17614289",
+      "trip_id": "8_17718302",
       "direction_id": "1",
       "headsign": "OPORÓW",
       "service_id": "8",
@@ -104513,7 +104513,7 @@
         {
           "stop_sequence": 14,
           "stop_id": "242",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 07",
           "arrival_time": "07:17:00",
           "departure_time": "07:17:00",
           "lat": 51.11215441,
@@ -104720,7 +104720,7 @@
       ]
     },
     {
-      "trip_id": "8_17614290",
+      "trip_id": "8_17718303",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "8",
@@ -104935,7 +104935,7 @@
         {
           "stop_sequence": 23,
           "stop_id": "240",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 08",
           "arrival_time": "09:00:00",
           "departure_time": "09:00:00",
           "lat": 51.11175007,
@@ -105061,7 +105061,7 @@
       ]
     },
     {
-      "trip_id": "8_17614291",
+      "trip_id": "8_17718304",
       "direction_id": "1",
       "headsign": "OPORÓW",
       "service_id": "8",
@@ -105195,7 +105195,7 @@
         {
           "stop_sequence": 14,
           "stop_id": "242",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 07",
           "arrival_time": "10:27:00",
           "departure_time": "10:27:00",
           "lat": 51.11215441,
@@ -105402,7 +105402,7 @@
       ]
     },
     {
-      "trip_id": "8_17614292",
+      "trip_id": "8_17718305",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "8",
@@ -105617,7 +105617,7 @@
         {
           "stop_sequence": 23,
           "stop_id": "240",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 08",
           "arrival_time": "11:56:00",
           "departure_time": "11:56:00",
           "lat": 51.11175007,
@@ -105743,7 +105743,7 @@
       ]
     },
     {
-      "trip_id": "8_17614293",
+      "trip_id": "8_17718306",
       "direction_id": "1",
       "headsign": "OPORÓW",
       "service_id": "8",
@@ -105877,7 +105877,7 @@
         {
           "stop_sequence": 14,
           "stop_id": "242",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 07",
           "arrival_time": "13:26:00",
           "departure_time": "13:26:00",
           "lat": 51.11215441,
@@ -106084,7 +106084,7 @@
       ]
     },
     {
-      "trip_id": "8_17614294",
+      "trip_id": "8_17718307",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "8",
@@ -106299,7 +106299,7 @@
         {
           "stop_sequence": 23,
           "stop_id": "240",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 08",
           "arrival_time": "14:50:00",
           "departure_time": "14:50:00",
           "lat": 51.11175007,
@@ -106425,7 +106425,7 @@
       ]
     },
     {
-      "trip_id": "8_17614295",
+      "trip_id": "8_17718308",
       "direction_id": "1",
       "headsign": "OPORÓW",
       "service_id": "8",
@@ -106559,7 +106559,7 @@
         {
           "stop_sequence": 14,
           "stop_id": "242",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 07",
           "arrival_time": "16:07:00",
           "departure_time": "16:07:00",
           "lat": 51.11215441,
@@ -106766,7 +106766,7 @@
       ]
     },
     {
-      "trip_id": "8_17614296",
+      "trip_id": "8_17718309",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "8",
@@ -106981,7 +106981,7 @@
         {
           "stop_sequence": 23,
           "stop_id": "240",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 08",
           "arrival_time": "17:43:00",
           "departure_time": "17:43:00",
           "lat": 51.11175007,
@@ -107107,7 +107107,7 @@
       ]
     },
     {
-      "trip_id": "8_17614297",
+      "trip_id": "8_17718310",
       "direction_id": "1",
       "headsign": "OPORÓW",
       "service_id": "8",
@@ -107241,7 +107241,7 @@
         {
           "stop_sequence": 14,
           "stop_id": "242",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 07",
           "arrival_time": "18:55:00",
           "departure_time": "18:55:00",
           "lat": 51.11215441,
@@ -107448,7 +107448,7 @@
       ]
     },
     {
-      "trip_id": "8_17614298",
+      "trip_id": "8_17718311",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "8",
@@ -107663,7 +107663,7 @@
         {
           "stop_sequence": 23,
           "stop_id": "240",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 08",
           "arrival_time": "20:18:00",
           "departure_time": "20:18:00",
           "lat": 51.11175007,
@@ -107789,7 +107789,7 @@
       ]
     },
     {
-      "trip_id": "8_17614299",
+      "trip_id": "8_17718312",
       "direction_id": "1",
       "headsign": "OPORÓW",
       "service_id": "8",
@@ -107923,7 +107923,7 @@
         {
           "stop_sequence": 14,
           "stop_id": "242",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 07",
           "arrival_time": "21:20:00",
           "departure_time": "21:20:00",
           "lat": 51.11215441,
@@ -108130,7 +108130,7 @@
       ]
     },
     {
-      "trip_id": "8_17614300",
+      "trip_id": "8_17718313",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "8",
@@ -108345,7 +108345,7 @@
         {
           "stop_sequence": 23,
           "stop_id": "240",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 08",
           "arrival_time": "22:40:00",
           "departure_time": "22:40:00",
           "lat": 51.11175007,
@@ -108471,7 +108471,7 @@
       ]
     },
     {
-      "trip_id": "8_17614301",
+      "trip_id": "8_17718314",
       "direction_id": "1",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "8",
@@ -108587,7 +108587,7 @@
       ]
     },
     {
-      "trip_id": "8_17614302",
+      "trip_id": "8_17718315",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "8",
@@ -108703,7 +108703,7 @@
       ]
     },
     {
-      "trip_id": "8_17614303",
+      "trip_id": "8_17718316",
       "direction_id": "1",
       "headsign": "OPORÓW",
       "service_id": "8",
@@ -108837,7 +108837,7 @@
         {
           "stop_sequence": 14,
           "stop_id": "242",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 07",
           "arrival_time": "05:27:00",
           "departure_time": "05:27:00",
           "lat": 51.11215441,
@@ -109044,7 +109044,7 @@
       ]
     },
     {
-      "trip_id": "8_17614304",
+      "trip_id": "8_17718317",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "8",
@@ -109259,7 +109259,7 @@
         {
           "stop_sequence": 23,
           "stop_id": "240",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 08",
           "arrival_time": "06:49:00",
           "departure_time": "06:49:00",
           "lat": 51.11175007,
@@ -109385,7 +109385,7 @@
       ]
     },
     {
-      "trip_id": "8_17614305",
+      "trip_id": "8_17718318",
       "direction_id": "1",
       "headsign": "OPORÓW",
       "service_id": "8",
@@ -109519,7 +109519,7 @@
         {
           "stop_sequence": 14,
           "stop_id": "242",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 07",
           "arrival_time": "08:04:00",
           "departure_time": "08:04:00",
           "lat": 51.11215441,
@@ -109726,7 +109726,7 @@
       ]
     },
     {
-      "trip_id": "8_17614306",
+      "trip_id": "8_17718319",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "8",
@@ -109941,7 +109941,7 @@
         {
           "stop_sequence": 23,
           "stop_id": "240",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 08",
           "arrival_time": "09:36:00",
           "departure_time": "09:36:00",
           "lat": 51.11175007,
@@ -110049,7 +110049,7 @@
       ]
     },
     {
-      "trip_id": "8_17614307",
+      "trip_id": "8_17718320",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "8",
@@ -110165,7 +110165,7 @@
       ]
     },
     {
-      "trip_id": "8_17614308",
+      "trip_id": "8_17718321",
       "direction_id": "1",
       "headsign": "OPORÓW",
       "service_id": "8",
@@ -110299,7 +110299,7 @@
         {
           "stop_sequence": 14,
           "stop_id": "242",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 07",
           "arrival_time": "07:49:00",
           "departure_time": "07:49:00",
           "lat": 51.11215441,
@@ -110506,7 +110506,7 @@
       ]
     },
     {
-      "trip_id": "8_17614309",
+      "trip_id": "8_17718322",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "8",
@@ -110721,7 +110721,7 @@
         {
           "stop_sequence": 23,
           "stop_id": "240",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 08",
           "arrival_time": "09:26:00",
           "departure_time": "09:26:00",
           "lat": 51.11175007,
@@ -110847,7 +110847,7 @@
       ]
     },
     {
-      "trip_id": "8_17614310",
+      "trip_id": "8_17718323",
       "direction_id": "1",
       "headsign": "OPORÓW",
       "service_id": "8",
@@ -110981,7 +110981,7 @@
         {
           "stop_sequence": 14,
           "stop_id": "242",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 07",
           "arrival_time": "10:57:00",
           "departure_time": "10:57:00",
           "lat": 51.11215441,
@@ -111188,7 +111188,7 @@
       ]
     },
     {
-      "trip_id": "8_17614311",
+      "trip_id": "8_17718324",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "8",
@@ -111403,7 +111403,7 @@
         {
           "stop_sequence": 23,
           "stop_id": "240",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 08",
           "arrival_time": "12:26:00",
           "departure_time": "12:26:00",
           "lat": 51.11175007,
@@ -111529,7 +111529,7 @@
       ]
     },
     {
-      "trip_id": "8_17614312",
+      "trip_id": "8_17718325",
       "direction_id": "1",
       "headsign": "OPORÓW",
       "service_id": "8",
@@ -111663,7 +111663,7 @@
         {
           "stop_sequence": 14,
           "stop_id": "242",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 07",
           "arrival_time": "13:56:00",
           "departure_time": "13:56:00",
           "lat": 51.11215441,
@@ -111870,7 +111870,7 @@
       ]
     },
     {
-      "trip_id": "8_17614313",
+      "trip_id": "8_17718326",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "8",
@@ -112085,7 +112085,7 @@
         {
           "stop_sequence": 23,
           "stop_id": "240",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 08",
           "arrival_time": "15:23:00",
           "departure_time": "15:23:00",
           "lat": 51.11175007,
@@ -112211,7 +112211,7 @@
       ]
     },
     {
-      "trip_id": "8_17614314",
+      "trip_id": "8_17718327",
       "direction_id": "1",
       "headsign": "OPORÓW",
       "service_id": "8",
@@ -112345,7 +112345,7 @@
         {
           "stop_sequence": 14,
           "stop_id": "242",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 07",
           "arrival_time": "16:36:00",
           "departure_time": "16:36:00",
           "lat": 51.11215441,
@@ -112552,7 +112552,7 @@
       ]
     },
     {
-      "trip_id": "8_17614315",
+      "trip_id": "8_17718328",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "8",
@@ -112767,7 +112767,7 @@
         {
           "stop_sequence": 23,
           "stop_id": "240",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 08",
           "arrival_time": "18:20:00",
           "departure_time": "18:20:00",
           "lat": 51.11175007,
@@ -112893,7 +112893,7 @@
       ]
     },
     {
-      "trip_id": "8_17614316",
+      "trip_id": "8_17718329",
       "direction_id": "1",
       "headsign": "OPORÓW",
       "service_id": "8",
@@ -113027,7 +113027,7 @@
         {
           "stop_sequence": 14,
           "stop_id": "242",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 07",
           "arrival_time": "19:25:00",
           "departure_time": "19:25:00",
           "lat": 51.11215441,
@@ -113234,7 +113234,7 @@
       ]
     },
     {
-      "trip_id": "8_17614317",
+      "trip_id": "8_17718330",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "8",
@@ -113449,7 +113449,7 @@
         {
           "stop_sequence": 23,
           "stop_id": "240",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 08",
           "arrival_time": "20:40:00",
           "departure_time": "20:40:00",
           "lat": 51.11175007,
@@ -113575,7 +113575,7 @@
       ]
     },
     {
-      "trip_id": "8_17614318",
+      "trip_id": "8_17718331",
       "direction_id": "1",
       "headsign": "OPORÓW",
       "service_id": "8",
@@ -113709,7 +113709,7 @@
         {
           "stop_sequence": 14,
           "stop_id": "242",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 07",
           "arrival_time": "21:50:00",
           "departure_time": "21:50:00",
           "lat": 51.11215441,
@@ -113925,7 +113925,7 @@
       ]
     },
     {
-      "trip_id": "8_17614319",
+      "trip_id": "8_17718332",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "8",
@@ -114140,7 +114140,7 @@
         {
           "stop_sequence": 23,
           "stop_id": "240",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 08",
           "arrival_time": "23:18:00",
           "departure_time": "23:18:00",
           "lat": 51.11175007,
@@ -114266,7 +114266,7 @@
       ]
     },
     {
-      "trip_id": "8_17614320",
+      "trip_id": "8_17718333",
       "direction_id": "1",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "8",
@@ -114382,7 +114382,7 @@
       ]
     },
     {
-      "trip_id": "8_17614321",
+      "trip_id": "8_17718334",
       "direction_id": "1",
       "headsign": "OPORÓW",
       "service_id": "8",
@@ -114498,7 +114498,7 @@
         {
           "stop_sequence": 12,
           "stop_id": "242",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 07",
           "arrival_time": "05:42:00",
           "departure_time": "05:42:00",
           "lat": 51.11215441,
@@ -114705,7 +114705,7 @@
       ]
     },
     {
-      "trip_id": "8_17614322",
+      "trip_id": "8_17718335",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "8",
@@ -114920,7 +114920,7 @@
         {
           "stop_sequence": 23,
           "stop_id": "240",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 08",
           "arrival_time": "07:05:00",
           "departure_time": "07:05:00",
           "lat": 51.11175007,
@@ -115046,7 +115046,7 @@
       ]
     },
     {
-      "trip_id": "8_17614323",
+      "trip_id": "8_17718336",
       "direction_id": "1",
       "headsign": "OPORÓW",
       "service_id": "8",
@@ -115180,7 +115180,7 @@
         {
           "stop_sequence": 14,
           "stop_id": "242",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 07",
           "arrival_time": "08:18:00",
           "departure_time": "08:18:00",
           "lat": 51.11215441,
@@ -115387,7 +115387,7 @@
       ]
     },
     {
-      "trip_id": "8_17614324",
+      "trip_id": "8_17718337",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "8",
@@ -115602,7 +115602,7 @@
         {
           "stop_sequence": 23,
           "stop_id": "240",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 08",
           "arrival_time": "09:50:00",
           "departure_time": "09:50:00",
           "lat": 51.11175007,
@@ -115710,7 +115710,7 @@
       ]
     },
     {
-      "trip_id": "8_17614325",
+      "trip_id": "8_17718338",
       "direction_id": "1",
       "headsign": "OPORÓW",
       "service_id": "8",
@@ -115826,7 +115826,7 @@
         {
           "stop_sequence": 12,
           "stop_id": "242",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 07",
           "arrival_time": "13:10:00",
           "departure_time": "13:10:00",
           "lat": 51.11215441,
@@ -116033,7 +116033,7 @@
       ]
     },
     {
-      "trip_id": "8_17614326",
+      "trip_id": "8_17718339",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "8",
@@ -116248,7 +116248,7 @@
         {
           "stop_sequence": 23,
           "stop_id": "240",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 08",
           "arrival_time": "14:35:00",
           "departure_time": "14:35:00",
           "lat": 51.11175007,
@@ -116374,7 +116374,7 @@
       ]
     },
     {
-      "trip_id": "8_17614327",
+      "trip_id": "8_17718340",
       "direction_id": "1",
       "headsign": "OPORÓW",
       "service_id": "8",
@@ -116508,7 +116508,7 @@
         {
           "stop_sequence": 14,
           "stop_id": "242",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 07",
           "arrival_time": "15:53:00",
           "departure_time": "15:53:00",
           "lat": 51.11215441,
@@ -116715,7 +116715,7 @@
       ]
     },
     {
-      "trip_id": "8_17614328",
+      "trip_id": "8_17718341",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "8",
@@ -116930,7 +116930,7 @@
         {
           "stop_sequence": 23,
           "stop_id": "240",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 08",
           "arrival_time": "17:34:00",
           "departure_time": "17:34:00",
           "lat": 51.11175007,
@@ -117056,7 +117056,7 @@
       ]
     },
     {
-      "trip_id": "8_17614329",
+      "trip_id": "8_17718342",
       "direction_id": "1",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "8",
@@ -117172,7 +117172,7 @@
       ]
     },
     {
-      "trip_id": "8_17614330",
+      "trip_id": "8_17718343",
       "direction_id": "1",
       "headsign": "Awicenny (Poczta Polska)",
       "service_id": "8",
@@ -117288,7 +117288,7 @@
         {
           "stop_sequence": 12,
           "stop_id": "242",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 07",
           "arrival_time": "13:41:00",
           "departure_time": "13:41:00",
           "lat": 51.11215441,
@@ -117450,7 +117450,7 @@
       ]
     },
     {
-      "trip_id": "8_17614331",
+      "trip_id": "8_17718344",
       "direction_id": "1",
       "headsign": "OPORÓW",
       "service_id": "8",
@@ -117521,7 +117521,7 @@
       ]
     },
     {
-      "trip_id": "8_17614332",
+      "trip_id": "8_17718345",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "8",
@@ -117736,7 +117736,7 @@
         {
           "stop_sequence": 23,
           "stop_id": "240",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 08",
           "arrival_time": "15:08:00",
           "departure_time": "15:08:00",
           "lat": 51.11175007,
@@ -117862,7 +117862,7 @@
       ]
     },
     {
-      "trip_id": "8_17614333",
+      "trip_id": "8_17718346",
       "direction_id": "1",
       "headsign": "OPORÓW",
       "service_id": "8",
@@ -117996,7 +117996,7 @@
         {
           "stop_sequence": 14,
           "stop_id": "242",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 07",
           "arrival_time": "16:22:00",
           "departure_time": "16:22:00",
           "lat": 51.11215441,
@@ -118203,7 +118203,7 @@
       ]
     },
     {
-      "trip_id": "8_17614334",
+      "trip_id": "8_17718347",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "8",
@@ -118418,7 +118418,7 @@
         {
           "stop_sequence": 23,
           "stop_id": "240",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 08",
           "arrival_time": "17:58:00",
           "departure_time": "17:58:00",
           "lat": 51.11175007,
@@ -118544,7 +118544,7 @@
       ]
     },
     {
-      "trip_id": "8_17614335",
+      "trip_id": "8_17718348",
       "direction_id": "1",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "8",
@@ -118660,7 +118660,7 @@
       ]
     },
     {
-      "trip_id": "8_17614336",
+      "trip_id": "8_17718349",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "8",
@@ -118776,7 +118776,7 @@
       ]
     },
     {
-      "trip_id": "8_17614337",
+      "trip_id": "8_17718350",
       "direction_id": "1",
       "headsign": "OPORÓW",
       "service_id": "8",
@@ -118910,7 +118910,7 @@
         {
           "stop_sequence": 14,
           "stop_id": "242",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 07",
           "arrival_time": "14:54:00",
           "departure_time": "14:54:00",
           "lat": 51.11215441,
@@ -119117,7 +119117,7 @@
       ]
     },
     {
-      "trip_id": "8_17614338",
+      "trip_id": "8_17718351",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "8",
@@ -119332,7 +119332,7 @@
         {
           "stop_sequence": 23,
           "stop_id": "240",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 08",
           "arrival_time": "16:38:00",
           "departure_time": "16:38:00",
           "lat": 51.11175007,
@@ -119458,7 +119458,7 @@
       ]
     },
     {
-      "trip_id": "8_17614339",
+      "trip_id": "8_17718352",
       "direction_id": "1",
       "headsign": "OPORÓW",
       "service_id": "8",
@@ -119592,7 +119592,7 @@
         {
           "stop_sequence": 14,
           "stop_id": "242",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 07",
           "arrival_time": "17:58:00",
           "departure_time": "17:58:00",
           "lat": 51.11215441,
@@ -119799,7 +119799,7 @@
       ]
     },
     {
-      "trip_id": "8_17614340",
+      "trip_id": "8_17718353",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "8",
@@ -120014,7 +120014,7 @@
         {
           "stop_sequence": 23,
           "stop_id": "240",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 08",
           "arrival_time": "19:24:00",
           "departure_time": "19:24:00",
           "lat": 51.11175007,
@@ -120140,7 +120140,7 @@
       ]
     },
     {
-      "trip_id": "8_17614341",
+      "trip_id": "8_17718354",
       "direction_id": "1",
       "headsign": "OPORÓW",
       "service_id": "8",
@@ -120274,7 +120274,7 @@
         {
           "stop_sequence": 14,
           "stop_id": "242",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 07",
           "arrival_time": "20:23:00",
           "departure_time": "20:23:00",
           "lat": 51.11215441,
@@ -120481,7 +120481,7 @@
       ]
     },
     {
-      "trip_id": "8_17614342",
+      "trip_id": "8_17718355",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "8",
@@ -120696,7 +120696,7 @@
         {
           "stop_sequence": 23,
           "stop_id": "240",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 08",
           "arrival_time": "21:40:00",
           "departure_time": "21:40:00",
           "lat": 51.11175007,
@@ -120822,7 +120822,7 @@
       ]
     },
     {
-      "trip_id": "8_17614343",
+      "trip_id": "8_17718356",
       "direction_id": "1",
       "headsign": "OPORÓW",
       "service_id": "8",
@@ -120956,7 +120956,7 @@
         {
           "stop_sequence": 14,
           "stop_id": "242",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 07",
           "arrival_time": "22:52:00",
           "departure_time": "22:52:00",
           "lat": 51.11215441,
@@ -121163,7 +121163,7 @@
       ]
     },
     {
-      "trip_id": "8_17614344",
+      "trip_id": "8_17718357",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "8",
@@ -121378,7 +121378,7 @@
         {
           "stop_sequence": 23,
           "stop_id": "240",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 08",
           "arrival_time": "23:56:00",
           "departure_time": "23:56:00",
           "lat": 51.11175007,
@@ -121486,7 +121486,7 @@
       ]
     },
     {
-      "trip_id": "8_17614345",
+      "trip_id": "8_17718358",
       "direction_id": "1",
       "headsign": "OPORÓW",
       "service_id": "8",
@@ -121602,7 +121602,7 @@
         {
           "stop_sequence": 12,
           "stop_id": "242",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 07",
           "arrival_time": "04:24:00",
           "departure_time": "04:24:00",
           "lat": 51.11215441,
@@ -121809,7 +121809,7 @@
       ]
     },
     {
-      "trip_id": "8_17614346",
+      "trip_id": "8_17718359",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "8",
@@ -122024,7 +122024,7 @@
         {
           "stop_sequence": 23,
           "stop_id": "240",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 08",
           "arrival_time": "05:48:00",
           "departure_time": "05:48:00",
           "lat": 51.11175007,
@@ -122150,7 +122150,7 @@
       ]
     },
     {
-      "trip_id": "8_17614347",
+      "trip_id": "8_17718360",
       "direction_id": "1",
       "headsign": "OPORÓW",
       "service_id": "8",
@@ -122284,7 +122284,7 @@
         {
           "stop_sequence": 14,
           "stop_id": "242",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 07",
           "arrival_time": "06:56:00",
           "departure_time": "06:56:00",
           "lat": 51.11215441,
@@ -122491,7 +122491,7 @@
       ]
     },
     {
-      "trip_id": "8_17614348",
+      "trip_id": "8_17718361",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "8",
@@ -122706,7 +122706,7 @@
         {
           "stop_sequence": 23,
           "stop_id": "240",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 08",
           "arrival_time": "08:28:00",
           "departure_time": "08:28:00",
           "lat": 51.11175007,
@@ -122832,7 +122832,7 @@
       ]
     },
     {
-      "trip_id": "8_17614349",
+      "trip_id": "8_17718362",
       "direction_id": "1",
       "headsign": "OPORÓW",
       "service_id": "8",
@@ -122966,7 +122966,7 @@
         {
           "stop_sequence": 14,
           "stop_id": "242",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 07",
           "arrival_time": "09:57:00",
           "departure_time": "09:57:00",
           "lat": 51.11215441,
@@ -123173,7 +123173,7 @@
       ]
     },
     {
-      "trip_id": "8_17614350",
+      "trip_id": "8_17718363",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "8",
@@ -123388,7 +123388,7 @@
         {
           "stop_sequence": 23,
           "stop_id": "240",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 08",
           "arrival_time": "11:26:00",
           "departure_time": "11:26:00",
           "lat": 51.11175007,
@@ -123514,7 +123514,7 @@
       ]
     },
     {
-      "trip_id": "8_17614351",
+      "trip_id": "8_17718364",
       "direction_id": "1",
       "headsign": "OPORÓW",
       "service_id": "8",
@@ -123648,7 +123648,7 @@
         {
           "stop_sequence": 14,
           "stop_id": "242",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 07",
           "arrival_time": "12:57:00",
           "departure_time": "12:57:00",
           "lat": 51.11215441,
@@ -123855,7 +123855,7 @@
       ]
     },
     {
-      "trip_id": "8_17614352",
+      "trip_id": "8_17718365",
       "direction_id": "0",
       "headsign": "Awicenny (Poczta Polska)",
       "service_id": "8",
@@ -123926,7 +123926,7 @@
       ]
     },
     {
-      "trip_id": "8_17614360",
+      "trip_id": "8_17718373",
       "direction_id": "1",
       "headsign": "OPORÓW",
       "service_id": "8",
@@ -124042,7 +124042,7 @@
         {
           "stop_sequence": 12,
           "stop_id": "242",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 07",
           "arrival_time": "14:03:00",
           "departure_time": "14:03:00",
           "lat": 51.11215441,
@@ -124249,7 +124249,7 @@
       ]
     },
     {
-      "trip_id": "8_17614361",
+      "trip_id": "8_17718374",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "8",
@@ -124464,7 +124464,7 @@
         {
           "stop_sequence": 23,
           "stop_id": "240",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 08",
           "arrival_time": "15:38:00",
           "departure_time": "15:38:00",
           "lat": 51.11175007,
@@ -124590,7 +124590,7 @@
       ]
     },
     {
-      "trip_id": "8_17614362",
+      "trip_id": "8_17718375",
       "direction_id": "1",
       "headsign": "OPORÓW",
       "service_id": "8",
@@ -124724,7 +124724,7 @@
         {
           "stop_sequence": 14,
           "stop_id": "242",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 07",
           "arrival_time": "16:51:00",
           "departure_time": "16:51:00",
           "lat": 51.11215441,
@@ -124931,7 +124931,7 @@
       ]
     },
     {
-      "trip_id": "8_17614363",
+      "trip_id": "8_17718376",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "8",
@@ -125146,7 +125146,7 @@
         {
           "stop_sequence": 23,
           "stop_id": "240",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 08",
           "arrival_time": "18:36:00",
           "departure_time": "18:36:00",
           "lat": 51.11175007,
@@ -125254,7 +125254,7 @@
       ]
     },
     {
-      "trip_id": "8_17614364",
+      "trip_id": "8_17718377",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "8",
@@ -125370,7 +125370,7 @@
       ]
     },
     {
-      "trip_id": "8_17614365",
+      "trip_id": "8_17718378",
       "direction_id": "1",
       "headsign": "OPORÓW",
       "service_id": "8",
@@ -125504,7 +125504,7 @@
         {
           "stop_sequence": 14,
           "stop_id": "242",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 07",
           "arrival_time": "14:24:00",
           "departure_time": "14:24:00",
           "lat": 51.11215441,
@@ -125711,7 +125711,7 @@
       ]
     },
     {
-      "trip_id": "8_17614366",
+      "trip_id": "8_17718379",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "8",
@@ -125926,7 +125926,7 @@
         {
           "stop_sequence": 23,
           "stop_id": "240",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 08",
           "arrival_time": "16:08:00",
           "departure_time": "16:08:00",
           "lat": 51.11175007,
@@ -126052,7 +126052,7 @@
       ]
     },
     {
-      "trip_id": "8_17614367",
+      "trip_id": "8_17718380",
       "direction_id": "1",
       "headsign": "OPORÓW",
       "service_id": "8",
@@ -126186,7 +126186,7 @@
         {
           "stop_sequence": 14,
           "stop_id": "242",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 07",
           "arrival_time": "17:21:00",
           "departure_time": "17:21:00",
           "lat": 51.11215441,
@@ -126393,7 +126393,7 @@
       ]
     },
     {
-      "trip_id": "8_17614368",
+      "trip_id": "8_17718381",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "8",
@@ -126608,7 +126608,7 @@
         {
           "stop_sequence": 23,
           "stop_id": "240",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 08",
           "arrival_time": "18:54:00",
           "departure_time": "18:54:00",
           "lat": 51.11175007,
@@ -126734,7 +126734,7 @@
       ]
     },
     {
-      "trip_id": "8_17614369",
+      "trip_id": "8_17718382",
       "direction_id": "1",
       "headsign": "OPORÓW",
       "service_id": "8",
@@ -126868,7 +126868,7 @@
         {
           "stop_sequence": 14,
           "stop_id": "242",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 07",
           "arrival_time": "19:55:00",
           "departure_time": "19:55:00",
           "lat": 51.11215441,
@@ -127075,7 +127075,7 @@
       ]
     },
     {
-      "trip_id": "8_17614370",
+      "trip_id": "8_17718383",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "8",
@@ -127290,7 +127290,7 @@
         {
           "stop_sequence": 23,
           "stop_id": "240",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 08",
           "arrival_time": "21:10:00",
           "departure_time": "21:10:00",
           "lat": 51.11175007,
@@ -127416,7 +127416,7 @@
       ]
     },
     {
-      "trip_id": "8_17614371",
+      "trip_id": "8_17718384",
       "direction_id": "1",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "8",
@@ -127532,7 +127532,7 @@
       ]
     },
     {
-      "trip_id": "8_17614372",
+      "trip_id": "8_17718385",
       "direction_id": "1",
       "headsign": "OPORÓW",
       "service_id": "8",
@@ -127648,7 +127648,7 @@
         {
           "stop_sequence": 12,
           "stop_id": "242",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 07",
           "arrival_time": "12:42:00",
           "departure_time": "12:42:00",
           "lat": 51.11215441,
@@ -127855,7 +127855,7 @@
       ]
     },
     {
-      "trip_id": "8_17614373",
+      "trip_id": "8_17718386",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "8",
@@ -128070,7 +128070,7 @@
         {
           "stop_sequence": 23,
           "stop_id": "240",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 08",
           "arrival_time": "14:12:00",
           "departure_time": "14:12:00",
           "lat": 51.11175007,
@@ -128196,7 +128196,7 @@
       ]
     },
     {
-      "trip_id": "8_17614374",
+      "trip_id": "8_17718387",
       "direction_id": "1",
       "headsign": "OPORÓW",
       "service_id": "8",
@@ -128330,7 +128330,7 @@
         {
           "stop_sequence": 14,
           "stop_id": "242",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 07",
           "arrival_time": "15:23:00",
           "departure_time": "15:23:00",
           "lat": 51.11215441,
@@ -128537,7 +128537,7 @@
       ]
     },
     {
-      "trip_id": "8_17614375",
+      "trip_id": "8_17718388",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "8",
@@ -128752,7 +128752,7 @@
         {
           "stop_sequence": 23,
           "stop_id": "240",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 08",
           "arrival_time": "17:07:00",
           "departure_time": "17:07:00",
           "lat": 51.11175007,
@@ -128878,7 +128878,7 @@
       ]
     },
     {
-      "trip_id": "8_17614376",
+      "trip_id": "8_17718389",
       "direction_id": "1",
       "headsign": "OPORÓW",
       "service_id": "8",
@@ -129012,7 +129012,7 @@
         {
           "stop_sequence": 14,
           "stop_id": "242",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 07",
           "arrival_time": "18:25:00",
           "departure_time": "18:25:00",
           "lat": 51.11215441,
@@ -129219,7 +129219,7 @@
       ]
     },
     {
-      "trip_id": "8_17614377",
+      "trip_id": "8_17718390",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "8",
@@ -129434,7 +129434,7 @@
         {
           "stop_sequence": 23,
           "stop_id": "240",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 08",
           "arrival_time": "19:54:00",
           "departure_time": "19:54:00",
           "lat": 51.11175007,
@@ -129560,7 +129560,7 @@
       ]
     },
     {
-      "trip_id": "8_17614378",
+      "trip_id": "8_17718391",
       "direction_id": "1",
       "headsign": "OPORÓW",
       "service_id": "8",
@@ -129694,7 +129694,7 @@
         {
           "stop_sequence": 14,
           "stop_id": "242",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 07",
           "arrival_time": "20:50:00",
           "departure_time": "20:50:00",
           "lat": 51.11215441,
@@ -129901,7 +129901,7 @@
       ]
     },
     {
-      "trip_id": "8_17614379",
+      "trip_id": "8_17718392",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "8",
@@ -130116,7 +130116,7 @@
         {
           "stop_sequence": 23,
           "stop_id": "240",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 08",
           "arrival_time": "22:10:00",
           "departure_time": "22:10:00",
           "lat": 51.11175007,
@@ -130242,7 +130242,7 @@
       ]
     },
     {
-      "trip_id": "8_17614380",
+      "trip_id": "8_17718393",
       "direction_id": "1",
       "headsign": "OPORÓW",
       "service_id": "8",
@@ -130376,7 +130376,7 @@
         {
           "stop_sequence": 14,
           "stop_id": "242",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 07",
           "arrival_time": "23:15:00",
           "departure_time": "23:15:00",
           "lat": 51.11215441,
@@ -130583,7 +130583,7 @@
       ]
     },
     {
-      "trip_id": "8_17614571",
+      "trip_id": "8_17718584",
       "direction_id": "1",
       "headsign": "OPORÓW",
       "service_id": "8",
@@ -130825,7 +130825,7 @@
       ]
     },
     {
-      "trip_id": "8_17614572",
+      "trip_id": "8_17718585",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "8",
@@ -131040,7 +131040,7 @@
         {
           "stop_sequence": 23,
           "stop_id": "240",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 08",
           "arrival_time": "05:18:00",
           "departure_time": "05:18:00",
           "lat": 51.11175007,
@@ -131166,7 +131166,7 @@
       ]
     },
     {
-      "trip_id": "8_17614573",
+      "trip_id": "8_17718586",
       "direction_id": "1",
       "headsign": "OPORÓW",
       "service_id": "8",
@@ -131300,7 +131300,7 @@
         {
           "stop_sequence": 14,
           "stop_id": "242",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 07",
           "arrival_time": "06:12:00",
           "departure_time": "06:12:00",
           "lat": 51.11215441,
@@ -131507,7 +131507,7 @@
       ]
     },
     {
-      "trip_id": "8_17616476",
+      "trip_id": "8_17720489",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "8",
@@ -131623,7 +131623,7 @@
       ]
     },
     {
-      "trip_id": "8_17616477",
+      "trip_id": "8_17720490",
       "direction_id": "1",
       "headsign": "OPORÓW",
       "service_id": "8",
@@ -131757,7 +131757,7 @@
         {
           "stop_sequence": 14,
           "stop_id": "242",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 07",
           "arrival_time": "22:20:00",
           "departure_time": "22:20:00",
           "lat": 51.11215441,

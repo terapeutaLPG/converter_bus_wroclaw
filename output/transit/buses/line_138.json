@@ -2,7 +2,7 @@
   "line": "138",
   "trips": [
     {
-      "trip_id": "3_17547535",
+      "trip_id": "3_17721937",
       "direction_id": "1",
       "headsign": "ŻAR",
       "service_id": "3",
@@ -109,7 +109,7 @@
       ]
     },
     {
-      "trip_id": "3_17547536",
+      "trip_id": "3_17721938",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "3",
@@ -207,7 +207,7 @@
       ]
     },
     {
-      "trip_id": "3_17547539",
+      "trip_id": "3_17721941",
       "direction_id": "1",
       "headsign": "ŻAR",
       "service_id": "3",
@@ -314,7 +314,7 @@
       ]
     },
     {
-      "trip_id": "3_17547540",
+      "trip_id": "3_17721942",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "3",
@@ -385,7 +385,7 @@
       ]
     },
     {
-      "trip_id": "3_17547555",
+      "trip_id": "3_17721957",
       "direction_id": "1",
       "headsign": "ŻAR",
       "service_id": "3",
@@ -492,7 +492,7 @@
       ]
     },
     {
-      "trip_id": "3_17547556",
+      "trip_id": "3_17721958",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "3",
@@ -590,7 +590,7 @@
       ]
     },
     {
-      "trip_id": "3_17547559",
+      "trip_id": "3_17721961",
       "direction_id": "1",
       "headsign": "ŻAR",
       "service_id": "3",
@@ -697,7 +697,7 @@
       ]
     },
     {
-      "trip_id": "3_17547560",
+      "trip_id": "3_17721962",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "3",
@@ -795,7 +795,7 @@
       ]
     },
     {
-      "trip_id": "3_17547563",
+      "trip_id": "3_17721965",
       "direction_id": "1",
       "headsign": "ŻAR",
       "service_id": "3",
@@ -902,7 +902,7 @@
       ]
     },
     {
-      "trip_id": "3_17547591",
+      "trip_id": "3_17721993",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "3",
@@ -1000,7 +1000,7 @@
       ]
     },
     {
-      "trip_id": "3_17547602",
+      "trip_id": "3_17722004",
       "direction_id": "1",
       "headsign": "ŻAR",
       "service_id": "3",
@@ -1107,7 +1107,7 @@
       ]
     },
     {
-      "trip_id": "3_17547603",
+      "trip_id": "3_17722005",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "3",
@@ -1205,7 +1205,7 @@
       ]
     },
     {
-      "trip_id": "3_17547641",
+      "trip_id": "3_17722043",
       "direction_id": "1",
       "headsign": "ŻAR",
       "service_id": "3",
@@ -1312,7 +1312,7 @@
       ]
     },
     {
-      "trip_id": "3_17547642",
+      "trip_id": "3_17722044",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "3",
@@ -1410,7 +1410,7 @@
       ]
     },
     {
-      "trip_id": "3_17547643",
+      "trip_id": "3_17722045",
       "direction_id": "1",
       "headsign": "ŻAR",
       "service_id": "3",
@@ -1517,7 +1517,7 @@
       ]
     },
     {
-      "trip_id": "3_17547644",
+      "trip_id": "3_17722046",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "3",
@@ -1615,7 +1615,7 @@
       ]
     },
     {
-      "trip_id": "3_17547722",
+      "trip_id": "3_17722124",
       "direction_id": "1",
       "headsign": "ŻAR",
       "service_id": "3",
@@ -1722,7 +1722,7 @@
       ]
     },
     {
-      "trip_id": "3_17547723",
+      "trip_id": "3_17722125",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "3",
@@ -1820,7 +1820,7 @@
       ]
     },
     {
-      "trip_id": "4_17547760",
+      "trip_id": "4_17722162",
       "direction_id": "1",
       "headsign": "ŻAR",
       "service_id": "4",
@@ -1927,7 +1927,7 @@
       ]
     },
     {
-      "trip_id": "4_17547761",
+      "trip_id": "4_17722163",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "4",
@@ -2025,7 +2025,7 @@
       ]
     },
     {
-      "trip_id": "4_17547764",
+      "trip_id": "4_17722166",
       "direction_id": "1",
       "headsign": "ŻAR",
       "service_id": "4",
@@ -2132,7 +2132,7 @@
       ]
     },
     {
-      "trip_id": "4_17547765",
+      "trip_id": "4_17722167",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "4",
@@ -2203,7 +2203,7 @@
       ]
     },
     {
-      "trip_id": "4_17547780",
+      "trip_id": "4_17722182",
       "direction_id": "1",
       "headsign": "ŻAR",
       "service_id": "4",
@@ -2310,7 +2310,7 @@
       ]
     },
     {
-      "trip_id": "4_17547781",
+      "trip_id": "4_17722183",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "4",
@@ -2408,7 +2408,7 @@
       ]
     },
     {
-      "trip_id": "4_17547784",
+      "trip_id": "4_17722186",
       "direction_id": "1",
       "headsign": "ŻAR",
       "service_id": "4",
@@ -2515,7 +2515,7 @@
       ]
     },
     {
-      "trip_id": "4_17547785",
+      "trip_id": "4_17722187",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "4",
@@ -2613,7 +2613,7 @@
       ]
     },
     {
-      "trip_id": "4_17547788",
+      "trip_id": "4_17722190",
       "direction_id": "1",
       "headsign": "ŻAR",
       "service_id": "4",
@@ -2720,7 +2720,7 @@
       ]
     },
     {
-      "trip_id": "4_17547826",
+      "trip_id": "4_17722228",
       "direction_id": "1",
       "headsign": "ŻAR",
       "service_id": "4",
@@ -2827,7 +2827,7 @@
       ]
     },
     {
-      "trip_id": "4_17547827",
+      "trip_id": "4_17722229",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "4",
@@ -2925,7 +2925,7 @@
       ]
     },
     {
-      "trip_id": "4_17547865",
+      "trip_id": "4_17722267",
       "direction_id": "1",
       "headsign": "ŻAR",
       "service_id": "4",
@@ -3032,7 +3032,7 @@
       ]
     },
     {
-      "trip_id": "4_17547866",
+      "trip_id": "4_17722268",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "4",
@@ -3130,7 +3130,7 @@
       ]
     },
     {
-      "trip_id": "4_17547867",
+      "trip_id": "4_17722269",
       "direction_id": "1",
       "headsign": "ŻAR",
       "service_id": "4",
@@ -3237,7 +3237,7 @@
       ]
     },
     {
-      "trip_id": "4_17547868",
+      "trip_id": "4_17722270",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "4",
@@ -3335,7 +3335,7 @@
       ]
     },
     {
-      "trip_id": "4_17547939",
+      "trip_id": "4_17722341",
       "direction_id": "1",
       "headsign": "ŻAR",
       "service_id": "4",
@@ -3442,7 +3442,7 @@
       ]
     },
     {
-      "trip_id": "4_17547940",
+      "trip_id": "4_17722342",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "4",
@@ -3540,7 +3540,7 @@
       ]
     },
     {
-      "trip_id": "6_17449087",
+      "trip_id": "6_17722368",
       "direction_id": "1",
       "headsign": "ŻAR",
       "service_id": "6",
@@ -3647,7 +3647,7 @@
       ]
     },
     {
-      "trip_id": "6_17449088",
+      "trip_id": "6_17722369",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "6",
@@ -3745,7 +3745,7 @@
       ]
     },
     {
-      "trip_id": "6_17449089",
+      "trip_id": "6_17722370",
       "direction_id": "1",
       "headsign": "ŻAR",
       "service_id": "6",
@@ -3852,7 +3852,7 @@
       ]
     },
     {
-      "trip_id": "6_17449109",
+      "trip_id": "6_17722390",
       "direction_id": "1",
       "headsign": "ŻAR",
       "service_id": "6",
@@ -3959,7 +3959,7 @@
       ]
     },
     {
-      "trip_id": "6_17449110",
+      "trip_id": "6_17722391",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "6",
@@ -4030,7 +4030,7 @@
       ]
     },
     {
-      "trip_id": "6_17449142",
+      "trip_id": "6_17722423",
       "direction_id": "1",
       "headsign": "ŻAR",
       "service_id": "6",
@@ -4137,7 +4137,7 @@
       ]
     },
     {
-      "trip_id": "6_17449143",
+      "trip_id": "6_17722424",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "6",
@@ -4208,7 +4208,7 @@
       ]
     },
     {
-      "trip_id": "6_17449148",
+      "trip_id": "6_17722429",
       "direction_id": "1",
       "headsign": "ŻAR",
       "service_id": "6",
@@ -4315,7 +4315,7 @@
       ]
     },
     {
-      "trip_id": "6_17449149",
+      "trip_id": "6_17722430",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "6",
@@ -4413,7 +4413,7 @@
       ]
     },
     {
-      "trip_id": "6_17449182",
+      "trip_id": "6_17722463",
       "direction_id": "1",
       "headsign": "ŻAR",
       "service_id": "6",
@@ -4520,7 +4520,7 @@
       ]
     },
     {
-      "trip_id": "6_17449183",
+      "trip_id": "6_17722464",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "6",
@@ -4618,7 +4618,7 @@
       ]
     },
     {
-      "trip_id": "6_17449184",
+      "trip_id": "6_17722465",
       "direction_id": "1",
       "headsign": "ŻAR",
       "service_id": "6",
@@ -4725,7 +4725,7 @@
       ]
     },
     {
-      "trip_id": "6_17449185",
+      "trip_id": "6_17722466",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "6",
@@ -4823,7 +4823,7 @@
       ]
     },
     {
-      "trip_id": "6_17449236",
+      "trip_id": "6_17722517",
       "direction_id": "1",
       "headsign": "ŻAR",
       "service_id": "6",
@@ -4930,7 +4930,7 @@
       ]
     },
     {
-      "trip_id": "6_17449237",
+      "trip_id": "6_17722518",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "6",
@@ -5028,7 +5028,7 @@
       ]
     },
     {
-      "trip_id": "6_17449270",
+      "trip_id": "6_17722551",
       "direction_id": "1",
       "headsign": "ŻAR",
       "service_id": "6",
@@ -5135,7 +5135,7 @@
       ]
     },
     {
-      "trip_id": "6_17449271",
+      "trip_id": "6_17722552",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "6",
@@ -5233,7 +5233,7 @@
       ]
     },
     {
-      "trip_id": "6_17449286",
+      "trip_id": "6_17722567",
       "direction_id": "1",
       "headsign": "ŻAR",
       "service_id": "6",
@@ -5340,7 +5340,7 @@
       ]
     },
     {
-      "trip_id": "6_17449287",
+      "trip_id": "6_17722568",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "6",
@@ -5411,7 +5411,7 @@
       ]
     },
     {
-      "trip_id": "6_17449298",
+      "trip_id": "6_17722579",
       "direction_id": "1",
       "headsign": "ŻAR",
       "service_id": "6",
@@ -5518,7 +5518,7 @@
       ]
     },
     {
-      "trip_id": "6_17449299",
+      "trip_id": "6_17722580",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "6",
@@ -5616,7 +5616,7 @@
       ]
     },
     {
-      "trip_id": "6_17449409",
+      "trip_id": "6_17722690",
       "direction_id": "1",
       "headsign": "ŻAR",
       "service_id": "6",
@@ -5723,7 +5723,7 @@
       ]
     },
     {
-      "trip_id": "6_17449441",
+      "trip_id": "6_17722722",
       "direction_id": "1",
       "headsign": "ŻAR",
       "service_id": "6",
@@ -5830,7 +5830,7 @@
       ]
     },
     {
-      "trip_id": "8_17449469",
+      "trip_id": "8_17722750",
       "direction_id": "1",
       "headsign": "ŻAR",
       "service_id": "8",
@@ -5937,7 +5937,7 @@
       ]
     },
     {
-      "trip_id": "8_17449470",
+      "trip_id": "8_17722751",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "8",
@@ -6035,7 +6035,7 @@
       ]
     },
     {
-      "trip_id": "8_17449471",
+      "trip_id": "8_17722752",
       "direction_id": "1",
       "headsign": "ŻAR",
       "service_id": "8",
@@ -6142,7 +6142,7 @@
       ]
     },
     {
-      "trip_id": "8_17449491",
+      "trip_id": "8_17722772",
       "direction_id": "1",
       "headsign": "ŻAR",
       "service_id": "8",
@@ -6249,7 +6249,7 @@
       ]
     },
     {
-      "trip_id": "8_17449492",
+      "trip_id": "8_17722773",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "8",
@@ -6320,7 +6320,7 @@
       ]
     },
     {
-      "trip_id": "8_17449524",
+      "trip_id": "8_17722805",
       "direction_id": "1",
       "headsign": "ŻAR",
       "service_id": "8",
@@ -6427,7 +6427,7 @@
       ]
     },
     {
-      "trip_id": "8_17449525",
+      "trip_id": "8_17722806",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "8",
@@ -6498,7 +6498,7 @@
       ]
     },
     {
-      "trip_id": "8_17449530",
+      "trip_id": "8_17722811",
       "direction_id": "1",
       "headsign": "ŻAR",
       "service_id": "8",
@@ -6605,7 +6605,7 @@
       ]
     },
     {
-      "trip_id": "8_17449531",
+      "trip_id": "8_17722812",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "8",
@@ -6703,7 +6703,7 @@
       ]
     },
     {
-      "trip_id": "8_17449564",
+      "trip_id": "8_17722845",
       "direction_id": "1",
       "headsign": "ŻAR",
       "service_id": "8",
@@ -6810,7 +6810,7 @@
       ]
     },
     {
-      "trip_id": "8_17449565",
+      "trip_id": "8_17722846",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "8",
@@ -6908,7 +6908,7 @@
       ]
     },
     {
-      "trip_id": "8_17449566",
+      "trip_id": "8_17722847",
       "direction_id": "1",
       "headsign": "ŻAR",
       "service_id": "8",
@@ -7015,7 +7015,7 @@
       ]
     },
     {
-      "trip_id": "8_17449567",
+      "trip_id": "8_17722848",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "8",
@@ -7113,7 +7113,7 @@
       ]
     },
     {
-      "trip_id": "8_17449618",
+      "trip_id": "8_17722899",
       "direction_id": "1",
       "headsign": "ŻAR",
       "service_id": "8",
@@ -7220,7 +7220,7 @@
       ]
     },
     {
-      "trip_id": "8_17449619",
+      "trip_id": "8_17722900",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "8",
@@ -7318,7 +7318,7 @@
       ]
     },
     {
-      "trip_id": "8_17449652",
+      "trip_id": "8_17722933",
       "direction_id": "1",
       "headsign": "ŻAR",
       "service_id": "8",
@@ -7425,7 +7425,7 @@
       ]
     },
     {
-      "trip_id": "8_17449653",
+      "trip_id": "8_17722934",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "8",
@@ -7523,7 +7523,7 @@
       ]
     },
     {
-      "trip_id": "8_17449668",
+      "trip_id": "8_17722949",
       "direction_id": "1",
       "headsign": "ŻAR",
       "service_id": "8",
@@ -7630,7 +7630,7 @@
       ]
     },
     {
-      "trip_id": "8_17449669",
+      "trip_id": "8_17722950",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "8",
@@ -7701,7 +7701,7 @@
       ]
     },
     {
-      "trip_id": "8_17449680",
+      "trip_id": "8_17722961",
       "direction_id": "1",
       "headsign": "ŻAR",
       "service_id": "8",
@@ -7808,7 +7808,7 @@
       ]
     },
     {
-      "trip_id": "8_17449681",
+      "trip_id": "8_17722962",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "8",
@@ -7906,7 +7906,7 @@
       ]
     },
     {
-      "trip_id": "8_17449791",
+      "trip_id": "8_17723072",
       "direction_id": "1",
       "headsign": "ŻAR",
       "service_id": "8",
@@ -8013,7 +8013,7 @@
       ]
     },
     {
-      "trip_id": "8_17449823",
+      "trip_id": "8_17723104",
       "direction_id": "1",
       "headsign": "ŻAR",
       "service_id": "8",

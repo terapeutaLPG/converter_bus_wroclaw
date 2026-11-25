@@ -2,7 +2,7 @@
   "line": "343",
   "trips": [
     {
-      "trip_id": "6_17610116",
+      "trip_id": "6_17714129",
       "direction_id": "1",
       "headsign": "8 Maja",
       "service_id": "6",
@@ -172,7 +172,7 @@
       ]
     },
     {
-      "trip_id": "6_17610117",
+      "trip_id": "6_17714130",
       "direction_id": "0",
       "headsign": "Brochowska",
       "service_id": "6",
@@ -351,7 +351,7 @@
       ]
     },
     {
-      "trip_id": "6_17610118",
+      "trip_id": "6_17714131",
       "direction_id": "1",
       "headsign": "8 Maja",
       "service_id": "6",
@@ -512,7 +512,7 @@
       ]
     },
     {
-      "trip_id": "6_17610119",
+      "trip_id": "6_17714132",
       "direction_id": "0",
       "headsign": "Brochowska",
       "service_id": "6",
@@ -691,7 +691,7 @@
       ]
     },
     {
-      "trip_id": "6_17610120",
+      "trip_id": "6_17714133",
       "direction_id": "1",
       "headsign": "8 Maja",
       "service_id": "6",
@@ -852,7 +852,7 @@
       ]
     },
     {
-      "trip_id": "6_17610121",
+      "trip_id": "6_17714134",
       "direction_id": "0",
       "headsign": "Brochowska",
       "service_id": "6",
@@ -1031,7 +1031,7 @@
       ]
     },
     {
-      "trip_id": "6_17610122",
+      "trip_id": "6_17714135",
       "direction_id": "1",
       "headsign": "8 Maja",
       "service_id": "6",
@@ -1192,7 +1192,7 @@
       ]
     },
     {
-      "trip_id": "6_17610123",
+      "trip_id": "6_17714136",
       "direction_id": "0",
       "headsign": "Brochowska",
       "service_id": "6",
@@ -1371,7 +1371,7 @@
       ]
     },
     {
-      "trip_id": "6_17610124",
+      "trip_id": "6_17714137",
       "direction_id": "1",
       "headsign": "8 Maja",
       "service_id": "6",
@@ -1532,7 +1532,7 @@
       ]
     },
     {
-      "trip_id": "6_17610125",
+      "trip_id": "6_17714138",
       "direction_id": "0",
       "headsign": "Brochowska",
       "service_id": "6",
@@ -1711,7 +1711,7 @@
       ]
     },
     {
-      "trip_id": "6_17610126",
+      "trip_id": "6_17714139",
       "direction_id": "1",
       "headsign": "8 Maja",
       "service_id": "6",
@@ -1872,7 +1872,7 @@
       ]
     },
     {
-      "trip_id": "6_17610127",
+      "trip_id": "6_17714140",
       "direction_id": "0",
       "headsign": "Brochowska",
       "service_id": "6",
@@ -2051,7 +2051,7 @@
       ]
     },
     {
-      "trip_id": "6_17610128",
+      "trip_id": "6_17714141",
       "direction_id": "1",
       "headsign": "8 Maja",
       "service_id": "6",
@@ -2212,7 +2212,7 @@
       ]
     },
     {
-      "trip_id": "6_17610129",
+      "trip_id": "6_17714142",
       "direction_id": "0",
       "headsign": "Brochowska",
       "service_id": "6",
@@ -2391,7 +2391,7 @@
       ]
     },
     {
-      "trip_id": "6_17610130",
+      "trip_id": "6_17714143",
       "direction_id": "1",
       "headsign": "8 Maja",
       "service_id": "6",
@@ -2552,7 +2552,7 @@
       ]
     },
     {
-      "trip_id": "6_17610131",
+      "trip_id": "6_17714144",
       "direction_id": "0",
       "headsign": "Brochowska",
       "service_id": "6",
@@ -2731,7 +2731,7 @@
       ]
     },
     {
-      "trip_id": "6_17610132",
+      "trip_id": "6_17714145",
       "direction_id": "1",
       "headsign": "8 Maja",
       "service_id": "6",
@@ -2892,7 +2892,7 @@
       ]
     },
     {
-      "trip_id": "6_17610133",
+      "trip_id": "6_17714146",
       "direction_id": "0",
       "headsign": "Brochowska",
       "service_id": "6",
@@ -3071,7 +3071,7 @@
       ]
     },
     {
-      "trip_id": "6_17610134",
+      "trip_id": "6_17714147",
       "direction_id": "1",
       "headsign": "8 Maja",
       "service_id": "6",
@@ -3232,7 +3232,7 @@
       ]
     },
     {
-      "trip_id": "6_17610135",
+      "trip_id": "6_17714148",
       "direction_id": "0",
       "headsign": "Brochowska",
       "service_id": "6",
@@ -3411,7 +3411,7 @@
       ]
     },
     {
-      "trip_id": "6_17610137",
+      "trip_id": "6_17714150",
       "direction_id": "1",
       "headsign": "8 Maja",
       "service_id": "6",
@@ -3581,7 +3581,7 @@
       ]
     },
     {
-      "trip_id": "6_17610138",
+      "trip_id": "6_17714151",
       "direction_id": "0",
       "headsign": "Brochowska",
       "service_id": "6",
@@ -3760,7 +3760,7 @@
       ]
     },
     {
-      "trip_id": "6_17610139",
+      "trip_id": "6_17714152",
       "direction_id": "1",
       "headsign": "8 Maja",
       "service_id": "6",
@@ -3921,7 +3921,7 @@
       ]
     },
     {
-      "trip_id": "6_17610140",
+      "trip_id": "6_17714153",
       "direction_id": "0",
       "headsign": "Brochowska",
       "service_id": "6",
@@ -4100,7 +4100,7 @@
       ]
     },
     {
-      "trip_id": "6_17610141",
+      "trip_id": "6_17714154",
       "direction_id": "1",
       "headsign": "8 Maja",
       "service_id": "6",
@@ -4261,7 +4261,7 @@
       ]
     },
     {
-      "trip_id": "6_17610142",
+      "trip_id": "6_17714155",
       "direction_id": "0",
       "headsign": "Brochowska",
       "service_id": "6",
@@ -4440,7 +4440,7 @@
       ]
     },
     {
-      "trip_id": "6_17610143",
+      "trip_id": "6_17714156",
       "direction_id": "1",
       "headsign": "8 Maja",
       "service_id": "6",
@@ -4601,7 +4601,7 @@
       ]
     },
     {
-      "trip_id": "6_17610144",
+      "trip_id": "6_17714157",
       "direction_id": "0",
       "headsign": "Brochowska",
       "service_id": "6",
@@ -4780,7 +4780,7 @@
       ]
     },
     {
-      "trip_id": "6_17610145",
+      "trip_id": "6_17714158",
       "direction_id": "1",
       "headsign": "8 Maja",
       "service_id": "6",
@@ -4941,7 +4941,7 @@
       ]
     },
     {
-      "trip_id": "6_17610146",
+      "trip_id": "6_17714159",
       "direction_id": "0",
       "headsign": "Brochowska",
       "service_id": "6",
@@ -5120,7 +5120,7 @@
       ]
     },
     {
-      "trip_id": "6_17610147",
+      "trip_id": "6_17714160",
       "direction_id": "1",
       "headsign": "8 Maja",
       "service_id": "6",
@@ -5281,7 +5281,7 @@
       ]
     },
     {
-      "trip_id": "6_17610148",
+      "trip_id": "6_17714161",
       "direction_id": "0",
       "headsign": "Brochowska",
       "service_id": "6",
@@ -5460,7 +5460,7 @@
       ]
     },
     {
-      "trip_id": "6_17610149",
+      "trip_id": "6_17714162",
       "direction_id": "1",
       "headsign": "8 Maja",
       "service_id": "6",
@@ -5621,7 +5621,7 @@
       ]
     },
     {
-      "trip_id": "6_17610150",
+      "trip_id": "6_17714163",
       "direction_id": "0",
       "headsign": "Brochowska",
       "service_id": "6",
@@ -5800,7 +5800,7 @@
       ]
     },
     {
-      "trip_id": "6_17610151",
+      "trip_id": "6_17714164",
       "direction_id": "1",
       "headsign": "8 Maja",
       "service_id": "6",
@@ -5961,7 +5961,7 @@
       ]
     },
     {
-      "trip_id": "6_17610152",
+      "trip_id": "6_17714165",
       "direction_id": "0",
       "headsign": "Brochowska",
       "service_id": "6",
@@ -6140,7 +6140,7 @@
       ]
     },
     {
-      "trip_id": "6_17610153",
+      "trip_id": "6_17714166",
       "direction_id": "1",
       "headsign": "8 Maja",
       "service_id": "6",
@@ -6301,7 +6301,7 @@
       ]
     },
     {
-      "trip_id": "6_17610154",
+      "trip_id": "6_17714167",
       "direction_id": "0",
       "headsign": "Brochowska",
       "service_id": "6",
@@ -6480,7 +6480,7 @@
       ]
     },
     {
-      "trip_id": "6_17610155",
+      "trip_id": "6_17714168",
       "direction_id": "1",
       "headsign": "8 Maja",
       "service_id": "6",
@@ -6641,7 +6641,7 @@
       ]
     },
     {
-      "trip_id": "6_17610156",
+      "trip_id": "6_17714169",
       "direction_id": "0",
       "headsign": "Brochowska",
       "service_id": "6",
@@ -6820,7 +6820,7 @@
       ]
     },
     {
-      "trip_id": "6_17610158",
+      "trip_id": "6_17714171",
       "direction_id": "1",
       "headsign": "8 Maja",
       "service_id": "6",
@@ -6990,7 +6990,7 @@
       ]
     },
     {
-      "trip_id": "6_17610159",
+      "trip_id": "6_17714172",
       "direction_id": "0",
       "headsign": "Brochowska",
       "service_id": "6",
@@ -7169,7 +7169,7 @@
       ]
     },
     {
-      "trip_id": "6_17610160",
+      "trip_id": "6_17714173",
       "direction_id": "1",
       "headsign": "8 Maja",
       "service_id": "6",
@@ -7330,7 +7330,7 @@
       ]
     },
     {
-      "trip_id": "6_17610161",
+      "trip_id": "6_17714174",
       "direction_id": "0",
       "headsign": "Brochowska",
       "service_id": "6",
@@ -7509,7 +7509,7 @@
       ]
     },
     {
-      "trip_id": "6_17610162",
+      "trip_id": "6_17714175",
       "direction_id": "1",
       "headsign": "8 Maja",
       "service_id": "6",
@@ -7670,7 +7670,7 @@
       ]
     },
     {
-      "trip_id": "6_17610163",
+      "trip_id": "6_17714176",
       "direction_id": "0",
       "headsign": "Brochowska",
       "service_id": "6",
@@ -7849,7 +7849,7 @@
       ]
     },
     {
-      "trip_id": "6_17610164",
+      "trip_id": "6_17714177",
       "direction_id": "1",
       "headsign": "8 Maja",
       "service_id": "6",
@@ -8010,7 +8010,7 @@
       ]
     },
     {
-      "trip_id": "6_17610165",
+      "trip_id": "6_17714178",
       "direction_id": "0",
       "headsign": "Brochowska",
       "service_id": "6",
@@ -8189,7 +8189,7 @@
       ]
     },
     {
-      "trip_id": "6_17610166",
+      "trip_id": "6_17714179",
       "direction_id": "1",
       "headsign": "8 Maja",
       "service_id": "6",
@@ -8350,7 +8350,7 @@
       ]
     },
     {
-      "trip_id": "6_17610167",
+      "trip_id": "6_17714180",
       "direction_id": "0",
       "headsign": "Brochowska",
       "service_id": "6",
@@ -8529,7 +8529,7 @@
       ]
     },
     {
-      "trip_id": "6_17610168",
+      "trip_id": "6_17714181",
       "direction_id": "1",
       "headsign": "8 Maja",
       "service_id": "6",
@@ -8690,7 +8690,7 @@
       ]
     },
     {
-      "trip_id": "6_17610169",
+      "trip_id": "6_17714182",
       "direction_id": "0",
       "headsign": "Brochowska",
       "service_id": "6",
@@ -8869,7 +8869,7 @@
       ]
     },
     {
-      "trip_id": "6_17610170",
+      "trip_id": "6_17714183",
       "direction_id": "1",
       "headsign": "8 Maja",
       "service_id": "6",
@@ -9030,7 +9030,7 @@
       ]
     },
     {
-      "trip_id": "6_17610171",
+      "trip_id": "6_17714184",
       "direction_id": "0",
       "headsign": "Brochowska",
       "service_id": "6",
@@ -9209,7 +9209,7 @@
       ]
     },
     {
-      "trip_id": "6_17610172",
+      "trip_id": "6_17714185",
       "direction_id": "1",
       "headsign": "8 Maja",
       "service_id": "6",
@@ -9370,7 +9370,7 @@
       ]
     },
     {
-      "trip_id": "6_17610173",
+      "trip_id": "6_17714186",
       "direction_id": "0",
       "headsign": "Brochowska",
       "service_id": "6",
@@ -9549,7 +9549,7 @@
       ]
     },
     {
-      "trip_id": "6_17610174",
+      "trip_id": "6_17714187",
       "direction_id": "1",
       "headsign": "8 Maja",
       "service_id": "6",
@@ -9710,7 +9710,7 @@
       ]
     },
     {
-      "trip_id": "6_17610175",
+      "trip_id": "6_17714188",
       "direction_id": "0",
       "headsign": "Brochowska",
       "service_id": "6",
@@ -9889,7 +9889,7 @@
       ]
     },
     {
-      "trip_id": "6_17610176",
+      "trip_id": "6_17714189",
       "direction_id": "1",
       "headsign": "8 Maja",
       "service_id": "6",
@@ -10050,7 +10050,7 @@
       ]
     },
     {
-      "trip_id": "6_17610177",
+      "trip_id": "6_17714190",
       "direction_id": "0",
       "headsign": "Brochowska",
       "service_id": "6",
@@ -10229,7 +10229,7 @@
       ]
     },
     {
-      "trip_id": "6_17610178",
+      "trip_id": "6_17714191",
       "direction_id": "1",
       "headsign": "8 Maja",
       "service_id": "6",
@@ -10390,7 +10390,7 @@
       ]
     },
     {
-      "trip_id": "6_17610179",
+      "trip_id": "6_17714192",
       "direction_id": "0",
       "headsign": "Brochowska",
       "service_id": "6",
@@ -10569,7 +10569,7 @@
       ]
     },
     {
-      "trip_id": "8_17616945",
+      "trip_id": "8_17720958",
       "direction_id": "1",
       "headsign": "8 Maja",
       "service_id": "8",
@@ -10739,7 +10739,7 @@
       ]
     },
     {
-      "trip_id": "8_17616946",
+      "trip_id": "8_17720959",
       "direction_id": "0",
       "headsign": "Brochowska",
       "service_id": "8",
@@ -10918,7 +10918,7 @@
       ]
     },
     {
-      "trip_id": "8_17616947",
+      "trip_id": "8_17720960",
       "direction_id": "1",
       "headsign": "8 Maja",
       "service_id": "8",
@@ -11079,7 +11079,7 @@
       ]
     },
     {
-      "trip_id": "8_17616948",
+      "trip_id": "8_17720961",
       "direction_id": "0",
       "headsign": "Brochowska",
       "service_id": "8",
@@ -11258,7 +11258,7 @@
       ]
     },
     {
-      "trip_id": "8_17616949",
+      "trip_id": "8_17720962",
       "direction_id": "1",
       "headsign": "8 Maja",
       "service_id": "8",
@@ -11419,7 +11419,7 @@
       ]
     },
     {
-      "trip_id": "8_17616950",
+      "trip_id": "8_17720963",
       "direction_id": "0",
       "headsign": "Brochowska",
       "service_id": "8",
@@ -11598,7 +11598,7 @@
       ]
     },
     {
-      "trip_id": "8_17616951",
+      "trip_id": "8_17720964",
       "direction_id": "1",
       "headsign": "8 Maja",
       "service_id": "8",
@@ -11759,7 +11759,7 @@
       ]
     },
     {
-      "trip_id": "8_17616952",
+      "trip_id": "8_17720965",
       "direction_id": "0",
       "headsign": "Brochowska",
       "service_id": "8",
@@ -11938,7 +11938,7 @@
       ]
     },
     {
-      "trip_id": "8_17616953",
+      "trip_id": "8_17720966",
       "direction_id": "1",
       "headsign": "8 Maja",
       "service_id": "8",
@@ -12099,7 +12099,7 @@
       ]
     },
     {
-      "trip_id": "8_17616954",
+      "trip_id": "8_17720967",
       "direction_id": "0",
       "headsign": "Brochowska",
       "service_id": "8",
@@ -12278,7 +12278,7 @@
       ]
     },
     {
-      "trip_id": "8_17616955",
+      "trip_id": "8_17720968",
       "direction_id": "1",
       "headsign": "8 Maja",
       "service_id": "8",
@@ -12439,7 +12439,7 @@
       ]
     },
     {
-      "trip_id": "8_17616956",
+      "trip_id": "8_17720969",
       "direction_id": "0",
       "headsign": "Brochowska",
       "service_id": "8",
@@ -12618,7 +12618,7 @@
       ]
     },
     {
-      "trip_id": "8_17616957",
+      "trip_id": "8_17720970",
       "direction_id": "1",
       "headsign": "8 Maja",
       "service_id": "8",
@@ -12779,7 +12779,7 @@
       ]
     },
     {
-      "trip_id": "8_17616958",
+      "trip_id": "8_17720971",
       "direction_id": "0",
       "headsign": "Brochowska",
       "service_id": "8",
@@ -12958,7 +12958,7 @@
       ]
     },
     {
-      "trip_id": "8_17616959",
+      "trip_id": "8_17720972",
       "direction_id": "1",
       "headsign": "8 Maja",
       "service_id": "8",
@@ -13119,7 +13119,7 @@
       ]
     },
     {
-      "trip_id": "8_17616960",
+      "trip_id": "8_17720973",
       "direction_id": "0",
       "headsign": "Brochowska",
       "service_id": "8",
@@ -13298,7 +13298,7 @@
       ]
     },
     {
-      "trip_id": "8_17616961",
+      "trip_id": "8_17720974",
       "direction_id": "1",
       "headsign": "8 Maja",
       "service_id": "8",
@@ -13459,7 +13459,7 @@
       ]
     },
     {
-      "trip_id": "8_17616962",
+      "trip_id": "8_17720975",
       "direction_id": "0",
       "headsign": "Brochowska",
       "service_id": "8",
@@ -13638,7 +13638,7 @@
       ]
     },
     {
-      "trip_id": "8_17616963",
+      "trip_id": "8_17720976",
       "direction_id": "1",
       "headsign": "8 Maja",
       "service_id": "8",
@@ -13799,7 +13799,7 @@
       ]
     },
     {
-      "trip_id": "8_17616964",
+      "trip_id": "8_17720977",
       "direction_id": "0",
       "headsign": "Brochowska",
       "service_id": "8",
@@ -13978,7 +13978,7 @@
       ]
     },
     {
-      "trip_id": "8_17616966",
+      "trip_id": "8_17720979",
       "direction_id": "1",
       "headsign": "8 Maja",
       "service_id": "8",
@@ -14148,7 +14148,7 @@
       ]
     },
     {
-      "trip_id": "8_17616967",
+      "trip_id": "8_17720980",
       "direction_id": "0",
       "headsign": "Brochowska",
       "service_id": "8",
@@ -14327,7 +14327,7 @@
       ]
     },
     {
-      "trip_id": "8_17616968",
+      "trip_id": "8_17720981",
       "direction_id": "1",
       "headsign": "8 Maja",
       "service_id": "8",
@@ -14488,7 +14488,7 @@
       ]
     },
     {
-      "trip_id": "8_17616969",
+      "trip_id": "8_17720982",
       "direction_id": "0",
       "headsign": "Brochowska",
       "service_id": "8",
@@ -14667,7 +14667,7 @@
       ]
     },
     {
-      "trip_id": "8_17616970",
+      "trip_id": "8_17720983",
       "direction_id": "1",
       "headsign": "8 Maja",
       "service_id": "8",
@@ -14828,7 +14828,7 @@
       ]
     },
     {
-      "trip_id": "8_17616971",
+      "trip_id": "8_17720984",
       "direction_id": "0",
       "headsign": "Brochowska",
       "service_id": "8",
@@ -15007,7 +15007,7 @@
       ]
     },
     {
-      "trip_id": "8_17616972",
+      "trip_id": "8_17720985",
       "direction_id": "1",
       "headsign": "8 Maja",
       "service_id": "8",
@@ -15168,7 +15168,7 @@
       ]
     },
     {
-      "trip_id": "8_17616973",
+      "trip_id": "8_17720986",
       "direction_id": "0",
       "headsign": "Brochowska",
       "service_id": "8",
@@ -15347,7 +15347,7 @@
       ]
     },
     {
-      "trip_id": "8_17616974",
+      "trip_id": "8_17720987",
       "direction_id": "1",
       "headsign": "8 Maja",
       "service_id": "8",
@@ -15508,7 +15508,7 @@
       ]
     },
     {
-      "trip_id": "8_17616975",
+      "trip_id": "8_17720988",
       "direction_id": "0",
       "headsign": "Brochowska",
       "service_id": "8",
@@ -15687,7 +15687,7 @@
       ]
     },
     {
-      "trip_id": "8_17616976",
+      "trip_id": "8_17720989",
       "direction_id": "1",
       "headsign": "8 Maja",
       "service_id": "8",
@@ -15848,7 +15848,7 @@
       ]
     },
     {
-      "trip_id": "8_17616977",
+      "trip_id": "8_17720990",
       "direction_id": "0",
       "headsign": "Brochowska",
       "service_id": "8",
@@ -16027,7 +16027,7 @@
       ]
     },
     {
-      "trip_id": "8_17616978",
+      "trip_id": "8_17720991",
       "direction_id": "1",
       "headsign": "8 Maja",
       "service_id": "8",
@@ -16188,7 +16188,7 @@
       ]
     },
     {
-      "trip_id": "8_17616979",
+      "trip_id": "8_17720992",
       "direction_id": "0",
       "headsign": "Brochowska",
       "service_id": "8",
@@ -16367,7 +16367,7 @@
       ]
     },
     {
-      "trip_id": "8_17616980",
+      "trip_id": "8_17720993",
       "direction_id": "1",
       "headsign": "8 Maja",
       "service_id": "8",
@@ -16528,7 +16528,7 @@
       ]
     },
     {
-      "trip_id": "8_17616981",
+      "trip_id": "8_17720994",
       "direction_id": "0",
       "headsign": "Brochowska",
       "service_id": "8",
@@ -16707,7 +16707,7 @@
       ]
     },
     {
-      "trip_id": "8_17616982",
+      "trip_id": "8_17720995",
       "direction_id": "1",
       "headsign": "8 Maja",
       "service_id": "8",
@@ -16868,7 +16868,7 @@
       ]
     },
     {
-      "trip_id": "8_17616983",
+      "trip_id": "8_17720996",
       "direction_id": "0",
       "headsign": "Brochowska",
       "service_id": "8",
@@ -17047,7 +17047,7 @@
       ]
     },
     {
-      "trip_id": "8_17616984",
+      "trip_id": "8_17720997",
       "direction_id": "1",
       "headsign": "8 Maja",
       "service_id": "8",
@@ -17208,7 +17208,7 @@
       ]
     },
     {
-      "trip_id": "8_17616985",
+      "trip_id": "8_17720998",
       "direction_id": "0",
       "headsign": "Brochowska",
       "service_id": "8",
@@ -17387,7 +17387,7 @@
       ]
     },
     {
-      "trip_id": "8_17616987",
+      "trip_id": "8_17721000",
       "direction_id": "1",
       "headsign": "8 Maja",
       "service_id": "8",
@@ -17557,7 +17557,7 @@
       ]
     },
     {
-      "trip_id": "8_17616988",
+      "trip_id": "8_17721001",
       "direction_id": "0",
       "headsign": "Brochowska",
       "service_id": "8",
@@ -17736,7 +17736,7 @@
       ]
     },
     {
-      "trip_id": "8_17616989",
+      "trip_id": "8_17721002",
       "direction_id": "1",
       "headsign": "8 Maja",
       "service_id": "8",
@@ -17897,7 +17897,7 @@
       ]
     },
     {
-      "trip_id": "8_17616990",
+      "trip_id": "8_17721003",
       "direction_id": "0",
       "headsign": "Brochowska",
       "service_id": "8",
@@ -18076,7 +18076,7 @@
       ]
     },
     {
-      "trip_id": "8_17616991",
+      "trip_id": "8_17721004",
       "direction_id": "1",
       "headsign": "8 Maja",
       "service_id": "8",
@@ -18237,7 +18237,7 @@
       ]
     },
     {
-      "trip_id": "8_17616992",
+      "trip_id": "8_17721005",
       "direction_id": "0",
       "headsign": "Brochowska",
       "service_id": "8",
@@ -18416,7 +18416,7 @@
       ]
     },
     {
-      "trip_id": "8_17616993",
+      "trip_id": "8_17721006",
       "direction_id": "1",
       "headsign": "8 Maja",
       "service_id": "8",
@@ -18577,7 +18577,7 @@
       ]
     },
     {
-      "trip_id": "8_17616994",
+      "trip_id": "8_17721007",
       "direction_id": "0",
       "headsign": "Brochowska",
       "service_id": "8",
@@ -18756,7 +18756,7 @@
       ]
     },
     {
-      "trip_id": "8_17616995",
+      "trip_id": "8_17721008",
       "direction_id": "1",
       "headsign": "8 Maja",
       "service_id": "8",
@@ -18917,7 +18917,7 @@
       ]
     },
     {
-      "trip_id": "8_17616996",
+      "trip_id": "8_17721009",
       "direction_id": "0",
       "headsign": "Brochowska",
       "service_id": "8",
@@ -19096,7 +19096,7 @@
       ]
     },
     {
-      "trip_id": "8_17616997",
+      "trip_id": "8_17721010",
       "direction_id": "1",
       "headsign": "8 Maja",
       "service_id": "8",
@@ -19257,7 +19257,7 @@
       ]
     },
     {
-      "trip_id": "8_17616998",
+      "trip_id": "8_17721011",
       "direction_id": "0",
       "headsign": "Brochowska",
       "service_id": "8",
@@ -19436,7 +19436,7 @@
       ]
     },
     {
-      "trip_id": "8_17616999",
+      "trip_id": "8_17721012",
       "direction_id": "1",
       "headsign": "8 Maja",
       "service_id": "8",
@@ -19597,7 +19597,7 @@
       ]
     },
     {
-      "trip_id": "8_17617000",
+      "trip_id": "8_17721013",
       "direction_id": "0",
       "headsign": "Brochowska",
       "service_id": "8",
@@ -19776,7 +19776,7 @@
       ]
     },
     {
-      "trip_id": "8_17617001",
+      "trip_id": "8_17721014",
       "direction_id": "1",
       "headsign": "8 Maja",
       "service_id": "8",
@@ -19937,7 +19937,7 @@
       ]
     },
     {
-      "trip_id": "8_17617002",
+      "trip_id": "8_17721015",
       "direction_id": "0",
       "headsign": "Brochowska",
       "service_id": "8",
@@ -20116,7 +20116,7 @@
       ]
     },
     {
-      "trip_id": "8_17617003",
+      "trip_id": "8_17721016",
       "direction_id": "1",
       "headsign": "8 Maja",
       "service_id": "8",
@@ -20277,7 +20277,7 @@
       ]
     },
     {
-      "trip_id": "8_17617004",
+      "trip_id": "8_17721017",
       "direction_id": "0",
       "headsign": "Brochowska",
       "service_id": "8",
@@ -20456,7 +20456,7 @@
       ]
     },
     {
-      "trip_id": "8_17617005",
+      "trip_id": "8_17721018",
       "direction_id": "1",
       "headsign": "8 Maja",
       "service_id": "8",
@@ -20617,7 +20617,7 @@
       ]
     },
     {
-      "trip_id": "8_17617006",
+      "trip_id": "8_17721019",
       "direction_id": "0",
       "headsign": "Brochowska",
       "service_id": "8",
@@ -20796,7 +20796,7 @@
       ]
     },
     {
-      "trip_id": "8_17617007",
+      "trip_id": "8_17721020",
       "direction_id": "1",
       "headsign": "8 Maja",
       "service_id": "8",
@@ -20957,7 +20957,7 @@
       ]
     },
     {
-      "trip_id": "8_17617008",
+      "trip_id": "8_17721021",
       "direction_id": "0",
       "headsign": "Brochowska",
       "service_id": "8",

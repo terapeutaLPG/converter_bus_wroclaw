@@ -2,7 +2,7 @@
   "line": "126",
   "trips": [
     {
-      "trip_id": "3_17595955",
+      "trip_id": "3_17699968",
       "direction_id": "1",
       "headsign": "KRZYKI",
       "service_id": "3",
@@ -208,7 +208,7 @@
       ]
     },
     {
-      "trip_id": "3_17596998",
+      "trip_id": "3_17701011",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "3",
@@ -297,7 +297,7 @@
       ]
     },
     {
-      "trip_id": "3_17596999",
+      "trip_id": "3_17701012",
       "direction_id": "1",
       "headsign": "Wojszycka",
       "service_id": "3",
@@ -638,7 +638,7 @@
       ]
     },
     {
-      "trip_id": "3_17597000",
+      "trip_id": "3_17701013",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "3",
@@ -997,7 +997,7 @@
       ]
     },
     {
-      "trip_id": "3_17597001",
+      "trip_id": "3_17701014",
       "direction_id": "1",
       "headsign": "Wojszycka",
       "service_id": "3",
@@ -1338,7 +1338,7 @@
       ]
     },
     {
-      "trip_id": "3_17597002",
+      "trip_id": "3_17701015",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "3",
@@ -1697,7 +1697,7 @@
       ]
     },
     {
-      "trip_id": "3_17597003",
+      "trip_id": "3_17701016",
       "direction_id": "1",
       "headsign": "Wojszycka",
       "service_id": "3",
@@ -2038,7 +2038,7 @@
       ]
     },
     {
-      "trip_id": "3_17597004",
+      "trip_id": "3_17701017",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "3",
@@ -2397,7 +2397,7 @@
       ]
     },
     {
-      "trip_id": "3_17597005",
+      "trip_id": "3_17701018",
       "direction_id": "1",
       "headsign": "Wojszycka",
       "service_id": "3",
@@ -2738,7 +2738,7 @@
       ]
     },
     {
-      "trip_id": "3_17597006",
+      "trip_id": "3_17701019",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "3",
@@ -3097,7 +3097,7 @@
       ]
     },
     {
-      "trip_id": "3_17597007",
+      "trip_id": "3_17701020",
       "direction_id": "1",
       "headsign": "Wojszycka",
       "service_id": "3",
@@ -3438,7 +3438,7 @@
       ]
     },
     {
-      "trip_id": "3_17597008",
+      "trip_id": "3_17701021",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "3",
@@ -3797,7 +3797,7 @@
       ]
     },
     {
-      "trip_id": "3_17597009",
+      "trip_id": "3_17701022",
       "direction_id": "1",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "3",
@@ -3886,7 +3886,7 @@
       ]
     },
     {
-      "trip_id": "3_17597010",
+      "trip_id": "3_17701023",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "3",
@@ -3975,7 +3975,7 @@
       ]
     },
     {
-      "trip_id": "3_17597011",
+      "trip_id": "3_17701024",
       "direction_id": "1",
       "headsign": "Wojszycka",
       "service_id": "3",
@@ -4316,7 +4316,7 @@
       ]
     },
     {
-      "trip_id": "3_17597012",
+      "trip_id": "3_17701025",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "3",
@@ -4675,7 +4675,7 @@
       ]
     },
     {
-      "trip_id": "3_17597013",
+      "trip_id": "3_17701026",
       "direction_id": "1",
       "headsign": "Wojszycka",
       "service_id": "3",
@@ -5016,7 +5016,7 @@
       ]
     },
     {
-      "trip_id": "3_17597014",
+      "trip_id": "3_17701027",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "3",
@@ -5375,7 +5375,7 @@
       ]
     },
     {
-      "trip_id": "3_17597015",
+      "trip_id": "3_17701028",
       "direction_id": "1",
       "headsign": "Wojszycka",
       "service_id": "3",
@@ -5716,7 +5716,7 @@
       ]
     },
     {
-      "trip_id": "3_17597016",
+      "trip_id": "3_17701029",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "3",
@@ -6075,7 +6075,7 @@
       ]
     },
     {
-      "trip_id": "3_17597017",
+      "trip_id": "3_17701030",
       "direction_id": "1",
       "headsign": "Wojszycka",
       "service_id": "3",
@@ -6416,7 +6416,7 @@
       ]
     },
     {
-      "trip_id": "3_17597018",
+      "trip_id": "3_17701031",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "3",
@@ -6775,7 +6775,7 @@
       ]
     },
     {
-      "trip_id": "3_17597019",
+      "trip_id": "3_17701032",
       "direction_id": "1",
       "headsign": "Wojszycka",
       "service_id": "3",
@@ -7116,7 +7116,7 @@
       ]
     },
     {
-      "trip_id": "3_17597020",
+      "trip_id": "3_17701033",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "3",
@@ -7475,7 +7475,7 @@
       ]
     },
     {
-      "trip_id": "3_17597021",
+      "trip_id": "3_17701034",
       "direction_id": "1",
       "headsign": "Wojszycka",
       "service_id": "3",
@@ -7816,7 +7816,7 @@
       ]
     },
     {
-      "trip_id": "3_17597022",
+      "trip_id": "3_17701035",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "3",
@@ -8175,7 +8175,7 @@
       ]
     },
     {
-      "trip_id": "3_17597023",
+      "trip_id": "3_17701036",
       "direction_id": "1",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "3",
@@ -8264,7 +8264,7 @@
       ]
     },
     {
-      "trip_id": "3_17597024",
+      "trip_id": "3_17701037",
       "direction_id": "1",
       "headsign": "Wojszycka",
       "service_id": "3",
@@ -8614,7 +8614,7 @@
       ]
     },
     {
-      "trip_id": "3_17597025",
+      "trip_id": "3_17701038",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "3",
@@ -8973,7 +8973,7 @@
       ]
     },
     {
-      "trip_id": "3_17597026",
+      "trip_id": "3_17701039",
       "direction_id": "1",
       "headsign": "Wojszycka",
       "service_id": "3",
@@ -9314,7 +9314,7 @@
       ]
     },
     {
-      "trip_id": "3_17597027",
+      "trip_id": "3_17701040",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "3",
@@ -9673,7 +9673,7 @@
       ]
     },
     {
-      "trip_id": "3_17597028",
+      "trip_id": "3_17701041",
       "direction_id": "1",
       "headsign": "Wojszycka",
       "service_id": "3",
@@ -10014,7 +10014,7 @@
       ]
     },
     {
-      "trip_id": "3_17597029",
+      "trip_id": "3_17701042",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "3",
@@ -10373,7 +10373,7 @@
       ]
     },
     {
-      "trip_id": "3_17597030",
+      "trip_id": "3_17701043",
       "direction_id": "1",
       "headsign": "Wojszycka",
       "service_id": "3",
@@ -10714,7 +10714,7 @@
       ]
     },
     {
-      "trip_id": "3_17597031",
+      "trip_id": "3_17701044",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "3",
@@ -11073,7 +11073,7 @@
       ]
     },
     {
-      "trip_id": "3_17597032",
+      "trip_id": "3_17701045",
       "direction_id": "1",
       "headsign": "Wojszycka",
       "service_id": "3",
@@ -11414,7 +11414,7 @@
       ]
     },
     {
-      "trip_id": "3_17597033",
+      "trip_id": "3_17701046",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "3",
@@ -11773,7 +11773,7 @@
       ]
     },
     {
-      "trip_id": "3_17597034",
+      "trip_id": "3_17701047",
       "direction_id": "1",
       "headsign": "Wojszycka",
       "service_id": "3",
@@ -12114,7 +12114,7 @@
       ]
     },
     {
-      "trip_id": "3_17597035",
+      "trip_id": "3_17701048",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "3",
@@ -12473,7 +12473,7 @@
       ]
     },
     {
-      "trip_id": "3_17597036",
+      "trip_id": "3_17701049",
       "direction_id": "1",
       "headsign": "Wojszycka",
       "service_id": "3",
@@ -12814,7 +12814,7 @@
       ]
     },
     {
-      "trip_id": "3_17597037",
+      "trip_id": "3_17701050",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "3",
@@ -13083,7 +13083,7 @@
       ]
     },
     {
-      "trip_id": "3_17597038",
+      "trip_id": "3_17701051",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "3",
@@ -13172,7 +13172,7 @@
       ]
     },
     {
-      "trip_id": "3_17597039",
+      "trip_id": "3_17701052",
       "direction_id": "1",
       "headsign": "Wojszycka",
       "service_id": "3",
@@ -13513,7 +13513,7 @@
       ]
     },
     {
-      "trip_id": "3_17597040",
+      "trip_id": "3_17701053",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "3",
@@ -13872,7 +13872,7 @@
       ]
     },
     {
-      "trip_id": "3_17597041",
+      "trip_id": "3_17701054",
       "direction_id": "1",
       "headsign": "Wojszycka",
       "service_id": "3",
@@ -14213,7 +14213,7 @@
       ]
     },
     {
-      "trip_id": "3_17597042",
+      "trip_id": "3_17701055",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "3",
@@ -14572,7 +14572,7 @@
       ]
     },
     {
-      "trip_id": "3_17597043",
+      "trip_id": "3_17701056",
       "direction_id": "1",
       "headsign": "Wojszycka",
       "service_id": "3",
@@ -14913,7 +14913,7 @@
       ]
     },
     {
-      "trip_id": "3_17597044",
+      "trip_id": "3_17701057",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "3",
@@ -15272,7 +15272,7 @@
       ]
     },
     {
-      "trip_id": "3_17597045",
+      "trip_id": "3_17701058",
       "direction_id": "1",
       "headsign": "Wojszycka",
       "service_id": "3",
@@ -15613,7 +15613,7 @@
       ]
     },
     {
-      "trip_id": "3_17597046",
+      "trip_id": "3_17701059",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "3",
@@ -15972,7 +15972,7 @@
       ]
     },
     {
-      "trip_id": "3_17597047",
+      "trip_id": "3_17701060",
       "direction_id": "1",
       "headsign": "Wojszycka",
       "service_id": "3",
@@ -16313,7 +16313,7 @@
       ]
     },
     {
-      "trip_id": "3_17597048",
+      "trip_id": "3_17701061",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "3",
@@ -16672,7 +16672,7 @@
       ]
     },
     {
-      "trip_id": "3_17597049",
+      "trip_id": "3_17701062",
       "direction_id": "1",
       "headsign": "Wojszycka",
       "service_id": "3",
@@ -17013,7 +17013,7 @@
       ]
     },
     {
-      "trip_id": "3_17597050",
+      "trip_id": "3_17701063",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "3",
@@ -17372,7 +17372,7 @@
       ]
     },
     {
-      "trip_id": "3_17597051",
+      "trip_id": "3_17701064",
       "direction_id": "1",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "3",
@@ -17461,7 +17461,7 @@
       ]
     },
     {
-      "trip_id": "3_17597052",
+      "trip_id": "3_17701065",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "3",
@@ -17550,7 +17550,7 @@
       ]
     },
     {
-      "trip_id": "3_17597053",
+      "trip_id": "3_17701066",
       "direction_id": "1",
       "headsign": "Wojszycka",
       "service_id": "3",
@@ -17891,7 +17891,7 @@
       ]
     },
     {
-      "trip_id": "3_17597054",
+      "trip_id": "3_17701067",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "3",
@@ -18250,7 +18250,7 @@
       ]
     },
     {
-      "trip_id": "3_17597055",
+      "trip_id": "3_17701068",
       "direction_id": "1",
       "headsign": "Wojszycka",
       "service_id": "3",
@@ -18591,7 +18591,7 @@
       ]
     },
     {
-      "trip_id": "3_17597056",
+      "trip_id": "3_17701069",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "3",
@@ -18950,7 +18950,7 @@
       ]
     },
     {
-      "trip_id": "3_17597057",
+      "trip_id": "3_17701070",
       "direction_id": "1",
       "headsign": "Wojszycka",
       "service_id": "3",
@@ -19291,7 +19291,7 @@
       ]
     },
     {
-      "trip_id": "3_17597058",
+      "trip_id": "3_17701071",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "3",
@@ -19650,7 +19650,7 @@
       ]
     },
     {
-      "trip_id": "3_17597059",
+      "trip_id": "3_17701072",
       "direction_id": "1",
       "headsign": "Wojszycka",
       "service_id": "3",
@@ -19991,7 +19991,7 @@
       ]
     },
     {
-      "trip_id": "3_17597060",
+      "trip_id": "3_17701073",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "3",
@@ -20350,7 +20350,7 @@
       ]
     },
     {
-      "trip_id": "3_17597061",
+      "trip_id": "3_17701074",
       "direction_id": "1",
       "headsign": "Wojszycka",
       "service_id": "3",
@@ -20691,7 +20691,7 @@
       ]
     },
     {
-      "trip_id": "3_17597062",
+      "trip_id": "3_17701075",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "3",
@@ -21050,7 +21050,7 @@
       ]
     },
     {
-      "trip_id": "3_17597063",
+      "trip_id": "3_17701076",
       "direction_id": "1",
       "headsign": "Wojszycka",
       "service_id": "3",
@@ -21391,7 +21391,7 @@
       ]
     },
     {
-      "trip_id": "3_17597064",
+      "trip_id": "3_17701077",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "3",
@@ -21750,7 +21750,7 @@
       ]
     },
     {
-      "trip_id": "3_17597065",
+      "trip_id": "3_17701078",
       "direction_id": "1",
       "headsign": "Wojszycka",
       "service_id": "3",
@@ -22091,7 +22091,7 @@
       ]
     },
     {
-      "trip_id": "3_17597066",
+      "trip_id": "3_17701079",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "3",
@@ -22324,7 +22324,7 @@
       ]
     },
     {
-      "trip_id": "3_17597067",
+      "trip_id": "3_17701080",
       "direction_id": "1",
       "headsign": "Wojszycka",
       "service_id": "3",
@@ -22593,7 +22593,7 @@
       ]
     },
     {
-      "trip_id": "3_17597068",
+      "trip_id": "3_17701081",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "3",
@@ -22952,7 +22952,7 @@
       ]
     },
     {
-      "trip_id": "3_17597069",
+      "trip_id": "3_17701082",
       "direction_id": "1",
       "headsign": "Wojszycka",
       "service_id": "3",
@@ -23293,7 +23293,7 @@
       ]
     },
     {
-      "trip_id": "3_17597070",
+      "trip_id": "3_17701083",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "3",
@@ -23652,7 +23652,7 @@
       ]
     },
     {
-      "trip_id": "3_17597071",
+      "trip_id": "3_17701084",
       "direction_id": "1",
       "headsign": "Wojszycka",
       "service_id": "3",
@@ -23993,7 +23993,7 @@
       ]
     },
     {
-      "trip_id": "3_17597072",
+      "trip_id": "3_17701085",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "3",
@@ -24352,7 +24352,7 @@
       ]
     },
     {
-      "trip_id": "3_17597073",
+      "trip_id": "3_17701086",
       "direction_id": "1",
       "headsign": "Wojszycka",
       "service_id": "3",
@@ -24693,7 +24693,7 @@
       ]
     },
     {
-      "trip_id": "3_17597074",
+      "trip_id": "3_17701087",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "3",
@@ -25052,7 +25052,7 @@
       ]
     },
     {
-      "trip_id": "3_17597075",
+      "trip_id": "3_17701088",
       "direction_id": "1",
       "headsign": "Wojszycka",
       "service_id": "3",
@@ -25393,7 +25393,7 @@
       ]
     },
     {
-      "trip_id": "3_17597076",
+      "trip_id": "3_17701089",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "3",
@@ -25752,7 +25752,7 @@
       ]
     },
     {
-      "trip_id": "3_17597077",
+      "trip_id": "3_17701090",
       "direction_id": "1",
       "headsign": "Wojszycka",
       "service_id": "3",
@@ -26093,7 +26093,7 @@
       ]
     },
     {
-      "trip_id": "3_17597078",
+      "trip_id": "3_17701091",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "3",
@@ -26452,7 +26452,7 @@
       ]
     },
     {
-      "trip_id": "3_17597079",
+      "trip_id": "3_17701092",
       "direction_id": "1",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "3",
@@ -26541,7 +26541,7 @@
       ]
     },
     {
-      "trip_id": "3_17597080",
+      "trip_id": "3_17701093",
       "direction_id": "1",
       "headsign": "KRZYKI",
       "service_id": "3",
@@ -26747,7 +26747,7 @@
       ]
     },
     {
-      "trip_id": "3_17597122",
+      "trip_id": "3_17701135",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "3",
@@ -26962,7 +26962,7 @@
       ]
     },
     {
-      "trip_id": "3_17598194",
+      "trip_id": "3_17702207",
       "direction_id": "1",
       "headsign": "KRZYKI",
       "service_id": "3",
@@ -27168,7 +27168,7 @@
       ]
     },
     {
-      "trip_id": "3_17599033",
+      "trip_id": "3_17703046",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "3",
@@ -27257,7 +27257,7 @@
       ]
     },
     {
-      "trip_id": "3_17599034",
+      "trip_id": "3_17703047",
       "direction_id": "1",
       "headsign": "Wojszycka",
       "service_id": "3",
@@ -27598,7 +27598,7 @@
       ]
     },
     {
-      "trip_id": "3_17599035",
+      "trip_id": "3_17703048",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "3",
@@ -27957,7 +27957,7 @@
       ]
     },
     {
-      "trip_id": "3_17599179",
+      "trip_id": "3_17703192",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "3",
@@ -28046,7 +28046,7 @@
       ]
     },
     {
-      "trip_id": "3_17599180",
+      "trip_id": "3_17703193",
       "direction_id": "1",
       "headsign": "Wojszycka",
       "service_id": "3",
@@ -28387,7 +28387,7 @@
       ]
     },
     {
-      "trip_id": "3_17599560",
+      "trip_id": "3_17703573",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "3",
@@ -28602,7 +28602,7 @@
       ]
     },
     {
-      "trip_id": "4_17600466",
+      "trip_id": "4_17704479",
       "direction_id": "1",
       "headsign": "KRZYKI",
       "service_id": "4",
@@ -28808,7 +28808,7 @@
       ]
     },
     {
-      "trip_id": "4_17600510",
+      "trip_id": "4_17704523",
       "direction_id": "1",
       "headsign": "KRZYKI",
       "service_id": "4",
@@ -29014,7 +29014,7 @@
       ]
     },
     {
-      "trip_id": "4_17601470",
+      "trip_id": "4_17705483",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "4",
@@ -29103,7 +29103,7 @@
       ]
     },
     {
-      "trip_id": "4_17601471",
+      "trip_id": "4_17705484",
       "direction_id": "1",
       "headsign": "Wojszycka",
       "service_id": "4",
@@ -29444,7 +29444,7 @@
       ]
     },
     {
-      "trip_id": "4_17601472",
+      "trip_id": "4_17705485",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "4",
@@ -29803,7 +29803,7 @@
       ]
     },
     {
-      "trip_id": "4_17601473",
+      "trip_id": "4_17705486",
       "direction_id": "1",
       "headsign": "Wojszycka",
       "service_id": "4",
@@ -30144,7 +30144,7 @@
       ]
     },
     {
-      "trip_id": "4_17601474",
+      "trip_id": "4_17705487",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "4",
@@ -30503,7 +30503,7 @@
       ]
     },
     {
-      "trip_id": "4_17601475",
+      "trip_id": "4_17705488",
       "direction_id": "1",
       "headsign": "Wojszycka",
       "service_id": "4",
@@ -30844,7 +30844,7 @@
       ]
     },
     {
-      "trip_id": "4_17601476",
+      "trip_id": "4_17705489",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "4",
@@ -31203,7 +31203,7 @@
       ]
     },
     {
-      "trip_id": "4_17601477",
+      "trip_id": "4_17705490",
       "direction_id": "1",
       "headsign": "Wojszycka",
       "service_id": "4",
@@ -31544,7 +31544,7 @@
       ]
     },
     {
-      "trip_id": "4_17601478",
+      "trip_id": "4_17705491",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "4",
@@ -31903,7 +31903,7 @@
       ]
     },
     {
-      "trip_id": "4_17601479",
+      "trip_id": "4_17705492",
       "direction_id": "1",
       "headsign": "Wojszycka",
       "service_id": "4",
@@ -32244,7 +32244,7 @@
       ]
     },
     {
-      "trip_id": "4_17601480",
+      "trip_id": "4_17705493",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "4",
@@ -32603,7 +32603,7 @@
       ]
     },
     {
-      "trip_id": "4_17601481",
+      "trip_id": "4_17705494",
       "direction_id": "1",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "4",
@@ -32692,7 +32692,7 @@
       ]
     },
     {
-      "trip_id": "4_17601482",
+      "trip_id": "4_17705495",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "4",
@@ -32781,7 +32781,7 @@
       ]
     },
     {
-      "trip_id": "4_17601483",
+      "trip_id": "4_17705496",
       "direction_id": "1",
       "headsign": "Wojszycka",
       "service_id": "4",
@@ -33122,7 +33122,7 @@
       ]
     },
     {
-      "trip_id": "4_17601484",
+      "trip_id": "4_17705497",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "4",
@@ -33481,7 +33481,7 @@
       ]
     },
     {
-      "trip_id": "4_17601485",
+      "trip_id": "4_17705498",
       "direction_id": "1",
       "headsign": "Wojszycka",
       "service_id": "4",
@@ -33822,7 +33822,7 @@
       ]
     },
     {
-      "trip_id": "4_17601486",
+      "trip_id": "4_17705499",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "4",
@@ -34181,7 +34181,7 @@
       ]
     },
     {
-      "trip_id": "4_17601487",
+      "trip_id": "4_17705500",
       "direction_id": "1",
       "headsign": "Wojszycka",
       "service_id": "4",
@@ -34522,7 +34522,7 @@
       ]
     },
     {
-      "trip_id": "4_17601488",
+      "trip_id": "4_17705501",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "4",
@@ -34881,7 +34881,7 @@
       ]
     },
     {
-      "trip_id": "4_17601489",
+      "trip_id": "4_17705502",
       "direction_id": "1",
       "headsign": "Wojszycka",
       "service_id": "4",
@@ -35222,7 +35222,7 @@
       ]
     },
     {
-      "trip_id": "4_17601490",
+      "trip_id": "4_17705503",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "4",
@@ -35581,7 +35581,7 @@
       ]
     },
     {
-      "trip_id": "4_17601491",
+      "trip_id": "4_17705504",
       "direction_id": "1",
       "headsign": "Wojszycka",
       "service_id": "4",
@@ -35922,7 +35922,7 @@
       ]
     },
     {
-      "trip_id": "4_17601492",
+      "trip_id": "4_17705505",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "4",
@@ -36281,7 +36281,7 @@
       ]
     },
     {
-      "trip_id": "4_17601493",
+      "trip_id": "4_17705506",
       "direction_id": "1",
       "headsign": "Wojszycka",
       "service_id": "4",
@@ -36622,7 +36622,7 @@
       ]
     },
     {
-      "trip_id": "4_17601494",
+      "trip_id": "4_17705507",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "4",
@@ -36981,7 +36981,7 @@
       ]
     },
     {
-      "trip_id": "4_17601495",
+      "trip_id": "4_17705508",
       "direction_id": "1",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "4",
@@ -37070,7 +37070,7 @@
       ]
     },
     {
-      "trip_id": "4_17601496",
+      "trip_id": "4_17705509",
       "direction_id": "1",
       "headsign": "Wojszycka",
       "service_id": "4",
@@ -37420,7 +37420,7 @@
       ]
     },
     {
-      "trip_id": "4_17601497",
+      "trip_id": "4_17705510",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "4",
@@ -37779,7 +37779,7 @@
       ]
     },
     {
-      "trip_id": "4_17601498",
+      "trip_id": "4_17705511",
       "direction_id": "1",
       "headsign": "Wojszycka",
       "service_id": "4",
@@ -38120,7 +38120,7 @@
       ]
     },
     {
-      "trip_id": "4_17601499",
+      "trip_id": "4_17705512",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "4",
@@ -38479,7 +38479,7 @@
       ]
     },
     {
-      "trip_id": "4_17601500",
+      "trip_id": "4_17705513",
       "direction_id": "1",
       "headsign": "Wojszycka",
       "service_id": "4",
@@ -38820,7 +38820,7 @@
       ]
     },
     {
-      "trip_id": "4_17601501",
+      "trip_id": "4_17705514",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "4",
@@ -39179,7 +39179,7 @@
       ]
     },
     {
-      "trip_id": "4_17601502",
+      "trip_id": "4_17705515",
       "direction_id": "1",
       "headsign": "Wojszycka",
       "service_id": "4",
@@ -39520,7 +39520,7 @@
       ]
     },
     {
-      "trip_id": "4_17601503",
+      "trip_id": "4_17705516",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "4",
@@ -39879,7 +39879,7 @@
       ]
     },
     {
-      "trip_id": "4_17601504",
+      "trip_id": "4_17705517",
       "direction_id": "1",
       "headsign": "Wojszycka",
       "service_id": "4",
@@ -40220,7 +40220,7 @@
       ]
     },
     {
-      "trip_id": "4_17601505",
+      "trip_id": "4_17705518",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "4",
@@ -40579,7 +40579,7 @@
       ]
     },
     {
-      "trip_id": "4_17601506",
+      "trip_id": "4_17705519",
       "direction_id": "1",
       "headsign": "Wojszycka",
       "service_id": "4",
@@ -40920,7 +40920,7 @@
       ]
     },
     {
-      "trip_id": "4_17601507",
+      "trip_id": "4_17705520",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "4",
@@ -41279,7 +41279,7 @@
       ]
     },
     {
-      "trip_id": "4_17601508",
+      "trip_id": "4_17705521",
       "direction_id": "1",
       "headsign": "Wojszycka",
       "service_id": "4",
@@ -41620,7 +41620,7 @@
       ]
     },
     {
-      "trip_id": "4_17601509",
+      "trip_id": "4_17705522",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "4",
@@ -41889,7 +41889,7 @@
       ]
     },
     {
-      "trip_id": "4_17601510",
+      "trip_id": "4_17705523",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "4",
@@ -41978,7 +41978,7 @@
       ]
     },
     {
-      "trip_id": "4_17601511",
+      "trip_id": "4_17705524",
       "direction_id": "1",
       "headsign": "Wojszycka",
       "service_id": "4",
@@ -42319,7 +42319,7 @@
       ]
     },
     {
-      "trip_id": "4_17601512",
+      "trip_id": "4_17705525",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "4",
@@ -42678,7 +42678,7 @@
       ]
     },
     {
-      "trip_id": "4_17601513",
+      "trip_id": "4_17705526",
       "direction_id": "1",
       "headsign": "Wojszycka",
       "service_id": "4",
@@ -43019,7 +43019,7 @@
       ]
     },
     {
-      "trip_id": "4_17601514",
+      "trip_id": "4_17705527",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "4",
@@ -43378,7 +43378,7 @@
       ]
     },
     {
-      "trip_id": "4_17601515",
+      "trip_id": "4_17705528",
       "direction_id": "1",
       "headsign": "Wojszycka",
       "service_id": "4",
@@ -43719,7 +43719,7 @@
       ]
     },
     {
-      "trip_id": "4_17601516",
+      "trip_id": "4_17705529",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "4",
@@ -44078,7 +44078,7 @@
       ]
     },
     {
-      "trip_id": "4_17601517",
+      "trip_id": "4_17705530",
       "direction_id": "1",
       "headsign": "Wojszycka",
       "service_id": "4",
@@ -44419,7 +44419,7 @@
       ]
     },
     {
-      "trip_id": "4_17601518",
+      "trip_id": "4_17705531",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "4",
@@ -44778,7 +44778,7 @@
       ]
     },
     {
-      "trip_id": "4_17601519",
+      "trip_id": "4_17705532",
       "direction_id": "1",
       "headsign": "Wojszycka",
       "service_id": "4",
@@ -45119,7 +45119,7 @@
       ]
     },
     {
-      "trip_id": "4_17601520",
+      "trip_id": "4_17705533",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "4",
@@ -45478,7 +45478,7 @@
       ]
     },
     {
-      "trip_id": "4_17601521",
+      "trip_id": "4_17705534",
       "direction_id": "1",
       "headsign": "Wojszycka",
       "service_id": "4",
@@ -45819,7 +45819,7 @@
       ]
     },
     {
-      "trip_id": "4_17601522",
+      "trip_id": "4_17705535",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "4",
@@ -46178,7 +46178,7 @@
       ]
     },
     {
-      "trip_id": "4_17601523",
+      "trip_id": "4_17705536",
       "direction_id": "1",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "4",
@@ -46267,7 +46267,7 @@
       ]
     },
     {
-      "trip_id": "4_17601524",
+      "trip_id": "4_17705537",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "4",
@@ -46356,7 +46356,7 @@
       ]
     },
     {
-      "trip_id": "4_17601525",
+      "trip_id": "4_17705538",
       "direction_id": "1",
       "headsign": "Wojszycka",
       "service_id": "4",
@@ -46697,7 +46697,7 @@
       ]
     },
     {
-      "trip_id": "4_17601526",
+      "trip_id": "4_17705539",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "4",
@@ -47056,7 +47056,7 @@
       ]
     },
     {
-      "trip_id": "4_17601527",
+      "trip_id": "4_17705540",
       "direction_id": "1",
       "headsign": "Wojszycka",
       "service_id": "4",
@@ -47397,7 +47397,7 @@
       ]
     },
     {
-      "trip_id": "4_17601528",
+      "trip_id": "4_17705541",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "4",
@@ -47756,7 +47756,7 @@
       ]
     },
     {
-      "trip_id": "4_17601529",
+      "trip_id": "4_17705542",
       "direction_id": "1",
       "headsign": "Wojszycka",
       "service_id": "4",
@@ -48097,7 +48097,7 @@
       ]
     },
     {
-      "trip_id": "4_17601530",
+      "trip_id": "4_17705543",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "4",
@@ -48456,7 +48456,7 @@
       ]
     },
     {
-      "trip_id": "4_17601531",
+      "trip_id": "4_17705544",
       "direction_id": "1",
       "headsign": "Wojszycka",
       "service_id": "4",
@@ -48797,7 +48797,7 @@
       ]
     },
     {
-      "trip_id": "4_17601532",
+      "trip_id": "4_17705545",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "4",
@@ -49156,7 +49156,7 @@
       ]
     },
     {
-      "trip_id": "4_17601533",
+      "trip_id": "4_17705546",
       "direction_id": "1",
       "headsign": "Wojszycka",
       "service_id": "4",
@@ -49497,7 +49497,7 @@
       ]
     },
     {
-      "trip_id": "4_17601534",
+      "trip_id": "4_17705547",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "4",
@@ -49856,7 +49856,7 @@
       ]
     },
     {
-      "trip_id": "4_17601535",
+      "trip_id": "4_17705548",
       "direction_id": "1",
       "headsign": "Wojszycka",
       "service_id": "4",
@@ -50197,7 +50197,7 @@
       ]
     },
     {
-      "trip_id": "4_17601536",
+      "trip_id": "4_17705549",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "4",
@@ -50556,7 +50556,7 @@
       ]
     },
     {
-      "trip_id": "4_17601537",
+      "trip_id": "4_17705550",
       "direction_id": "1",
       "headsign": "Wojszycka",
       "service_id": "4",
@@ -50897,7 +50897,7 @@
       ]
     },
     {
-      "trip_id": "4_17601538",
+      "trip_id": "4_17705551",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "4",
@@ -51130,7 +51130,7 @@
       ]
     },
     {
-      "trip_id": "4_17601539",
+      "trip_id": "4_17705552",
       "direction_id": "1",
       "headsign": "Wojszycka",
       "service_id": "4",
@@ -51399,7 +51399,7 @@
       ]
     },
     {
-      "trip_id": "4_17601540",
+      "trip_id": "4_17705553",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "4",
@@ -51758,7 +51758,7 @@
       ]
     },
     {
-      "trip_id": "4_17601541",
+      "trip_id": "4_17705554",
       "direction_id": "1",
       "headsign": "Wojszycka",
       "service_id": "4",
@@ -52099,7 +52099,7 @@
       ]
     },
     {
-      "trip_id": "4_17601542",
+      "trip_id": "4_17705555",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "4",
@@ -52458,7 +52458,7 @@
       ]
     },
     {
-      "trip_id": "4_17601543",
+      "trip_id": "4_17705556",
       "direction_id": "1",
       "headsign": "Wojszycka",
       "service_id": "4",
@@ -52799,7 +52799,7 @@
       ]
     },
     {
-      "trip_id": "4_17601544",
+      "trip_id": "4_17705557",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "4",
@@ -53158,7 +53158,7 @@
       ]
     },
     {
-      "trip_id": "4_17601545",
+      "trip_id": "4_17705558",
       "direction_id": "1",
       "headsign": "Wojszycka",
       "service_id": "4",
@@ -53499,7 +53499,7 @@
       ]
     },
     {
-      "trip_id": "4_17601546",
+      "trip_id": "4_17705559",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "4",
@@ -53858,7 +53858,7 @@
       ]
     },
     {
-      "trip_id": "4_17601547",
+      "trip_id": "4_17705560",
       "direction_id": "1",
       "headsign": "Wojszycka",
       "service_id": "4",
@@ -54199,7 +54199,7 @@
       ]
     },
     {
-      "trip_id": "4_17601548",
+      "trip_id": "4_17705561",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "4",
@@ -54558,7 +54558,7 @@
       ]
     },
     {
-      "trip_id": "4_17601549",
+      "trip_id": "4_17705562",
       "direction_id": "1",
       "headsign": "Wojszycka",
       "service_id": "4",
@@ -54899,7 +54899,7 @@
       ]
     },
     {
-      "trip_id": "4_17601550",
+      "trip_id": "4_17705563",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "4",
@@ -55258,7 +55258,7 @@
       ]
     },
     {
-      "trip_id": "4_17601551",
+      "trip_id": "4_17705564",
       "direction_id": "1",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "4",
@@ -55347,7 +55347,7 @@
       ]
     },
     {
-      "trip_id": "4_17601552",
+      "trip_id": "4_17705565",
       "direction_id": "1",
       "headsign": "KRZYKI",
       "service_id": "4",
@@ -55553,7 +55553,7 @@
       ]
     },
     {
-      "trip_id": "4_17601594",
+      "trip_id": "4_17705607",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "4",
@@ -55768,7 +55768,7 @@
       ]
     },
     {
-      "trip_id": "4_17603445",
+      "trip_id": "4_17707458",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "4",
@@ -55857,7 +55857,7 @@
       ]
     },
     {
-      "trip_id": "4_17603446",
+      "trip_id": "4_17707459",
       "direction_id": "1",
       "headsign": "Wojszycka",
       "service_id": "4",
@@ -56198,7 +56198,7 @@
       ]
     },
     {
-      "trip_id": "4_17603447",
+      "trip_id": "4_17707460",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "4",
@@ -56557,7 +56557,7 @@
       ]
     },
     {
-      "trip_id": "4_17603586",
+      "trip_id": "4_17707599",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "4",
@@ -56646,7 +56646,7 @@
       ]
     },
     {
-      "trip_id": "4_17603587",
+      "trip_id": "4_17707600",
       "direction_id": "1",
       "headsign": "Wojszycka",
       "service_id": "4",
@@ -56987,7 +56987,7 @@
       ]
     },
     {
-      "trip_id": "4_17603969",
+      "trip_id": "4_17707982",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "4",
@@ -57202,7 +57202,7 @@
       ]
     },
     {
-      "trip_id": "6_17606640",
+      "trip_id": "6_17710653",
       "direction_id": "1",
       "headsign": "Wojszycka",
       "service_id": "6",
@@ -57471,7 +57471,7 @@
       ]
     },
     {
-      "trip_id": "6_17606641",
+      "trip_id": "6_17710654",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "6",
@@ -57830,7 +57830,7 @@
       ]
     },
     {
-      "trip_id": "6_17606642",
+      "trip_id": "6_17710655",
       "direction_id": "1",
       "headsign": "Wojszycka",
       "service_id": "6",
@@ -58171,7 +58171,7 @@
       ]
     },
     {
-      "trip_id": "6_17606643",
+      "trip_id": "6_17710656",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "6",
@@ -58530,7 +58530,7 @@
       ]
     },
     {
-      "trip_id": "6_17606644",
+      "trip_id": "6_17710657",
       "direction_id": "1",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "6",
@@ -58619,7 +58619,7 @@
       ]
     },
     {
-      "trip_id": "6_17606645",
+      "trip_id": "6_17710658",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "6",
@@ -58708,7 +58708,7 @@
       ]
     },
     {
-      "trip_id": "6_17606646",
+      "trip_id": "6_17710659",
       "direction_id": "1",
       "headsign": "Wojszycka",
       "service_id": "6",
@@ -59049,7 +59049,7 @@
       ]
     },
     {
-      "trip_id": "6_17606647",
+      "trip_id": "6_17710660",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "6",
@@ -59408,7 +59408,7 @@
       ]
     },
     {
-      "trip_id": "6_17606648",
+      "trip_id": "6_17710661",
       "direction_id": "1",
       "headsign": "Wojszycka",
       "service_id": "6",
@@ -59749,7 +59749,7 @@
       ]
     },
     {
-      "trip_id": "6_17606649",
+      "trip_id": "6_17710662",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "6",
@@ -60108,7 +60108,7 @@
       ]
     },
     {
-      "trip_id": "6_17606650",
+      "trip_id": "6_17710663",
       "direction_id": "1",
       "headsign": "Wojszycka",
       "service_id": "6",
@@ -60449,7 +60449,7 @@
       ]
     },
     {
-      "trip_id": "6_17606651",
+      "trip_id": "6_17710664",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "6",
@@ -60808,7 +60808,7 @@
       ]
     },
     {
-      "trip_id": "6_17606652",
+      "trip_id": "6_17710665",
       "direction_id": "1",
       "headsign": "Wojszycka",
       "service_id": "6",
@@ -61149,7 +61149,7 @@
       ]
     },
     {
-      "trip_id": "6_17606653",
+      "trip_id": "6_17710666",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "6",
@@ -61508,7 +61508,7 @@
       ]
     },
     {
-      "trip_id": "6_17606654",
+      "trip_id": "6_17710667",
       "direction_id": "1",
       "headsign": "Wojszycka",
       "service_id": "6",
@@ -61849,7 +61849,7 @@
       ]
     },
     {
-      "trip_id": "6_17606655",
+      "trip_id": "6_17710668",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "6",
@@ -62208,7 +62208,7 @@
       ]
     },
     {
-      "trip_id": "6_17606656",
+      "trip_id": "6_17710669",
       "direction_id": "1",
       "headsign": "Wojszycka",
       "service_id": "6",
@@ -62549,7 +62549,7 @@
       ]
     },
     {
-      "trip_id": "6_17606657",
+      "trip_id": "6_17710670",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "6",
@@ -62908,7 +62908,7 @@
       ]
     },
     {
-      "trip_id": "6_17606658",
+      "trip_id": "6_17710671",
       "direction_id": "1",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "6",
@@ -62997,7 +62997,7 @@
       ]
     },
     {
-      "trip_id": "6_17606659",
+      "trip_id": "6_17710672",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "6",
@@ -63086,7 +63086,7 @@
       ]
     },
     {
-      "trip_id": "6_17606660",
+      "trip_id": "6_17710673",
       "direction_id": "1",
       "headsign": "Wojszycka",
       "service_id": "6",
@@ -63427,7 +63427,7 @@
       ]
     },
     {
-      "trip_id": "6_17606661",
+      "trip_id": "6_17710674",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "6",
@@ -63786,7 +63786,7 @@
       ]
     },
     {
-      "trip_id": "6_17606662",
+      "trip_id": "6_17710675",
       "direction_id": "1",
       "headsign": "Wojszycka",
       "service_id": "6",
@@ -64127,7 +64127,7 @@
       ]
     },
     {
-      "trip_id": "6_17606663",
+      "trip_id": "6_17710676",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "6",
@@ -64486,7 +64486,7 @@
       ]
     },
     {
-      "trip_id": "6_17606664",
+      "trip_id": "6_17710677",
       "direction_id": "1",
       "headsign": "Wojszycka",
       "service_id": "6",
@@ -64827,7 +64827,7 @@
       ]
     },
     {
-      "trip_id": "6_17606665",
+      "trip_id": "6_17710678",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "6",
@@ -65186,7 +65186,7 @@
       ]
     },
     {
-      "trip_id": "6_17606666",
+      "trip_id": "6_17710679",
       "direction_id": "1",
       "headsign": "Wojszycka",
       "service_id": "6",
@@ -65527,7 +65527,7 @@
       ]
     },
     {
-      "trip_id": "6_17606667",
+      "trip_id": "6_17710680",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "6",
@@ -65886,7 +65886,7 @@
       ]
     },
     {
-      "trip_id": "6_17606668",
+      "trip_id": "6_17710681",
       "direction_id": "1",
       "headsign": "Wojszycka",
       "service_id": "6",
@@ -66227,7 +66227,7 @@
       ]
     },
     {
-      "trip_id": "6_17606669",
+      "trip_id": "6_17710682",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "6",
@@ -66496,7 +66496,7 @@
       ]
     },
     {
-      "trip_id": "6_17606670",
+      "trip_id": "6_17710683",
       "direction_id": "1",
       "headsign": "Wojszycka",
       "service_id": "6",
@@ -66765,7 +66765,7 @@
       ]
     },
     {
-      "trip_id": "6_17606671",
+      "trip_id": "6_17710684",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "6",
@@ -67124,7 +67124,7 @@
       ]
     },
     {
-      "trip_id": "6_17606672",
+      "trip_id": "6_17710685",
       "direction_id": "1",
       "headsign": "Wojszycka",
       "service_id": "6",
@@ -67465,7 +67465,7 @@
       ]
     },
     {
-      "trip_id": "6_17606673",
+      "trip_id": "6_17710686",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "6",
@@ -67824,7 +67824,7 @@
       ]
     },
     {
-      "trip_id": "6_17606674",
+      "trip_id": "6_17710687",
       "direction_id": "1",
       "headsign": "Wojszycka",
       "service_id": "6",
@@ -68165,7 +68165,7 @@
       ]
     },
     {
-      "trip_id": "6_17606675",
+      "trip_id": "6_17710688",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "6",
@@ -68524,7 +68524,7 @@
       ]
     },
     {
-      "trip_id": "6_17606676",
+      "trip_id": "6_17710689",
       "direction_id": "1",
       "headsign": "Wojszycka",
       "service_id": "6",
@@ -68865,7 +68865,7 @@
       ]
     },
     {
-      "trip_id": "6_17606677",
+      "trip_id": "6_17710690",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "6",
@@ -69224,7 +69224,7 @@
       ]
     },
     {
-      "trip_id": "6_17606678",
+      "trip_id": "6_17710691",
       "direction_id": "1",
       "headsign": "Wojszycka",
       "service_id": "6",
@@ -69565,7 +69565,7 @@
       ]
     },
     {
-      "trip_id": "6_17606679",
+      "trip_id": "6_17710692",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "6",
@@ -69924,7 +69924,7 @@
       ]
     },
     {
-      "trip_id": "6_17606680",
+      "trip_id": "6_17710693",
       "direction_id": "1",
       "headsign": "Wojszycka",
       "service_id": "6",
@@ -70265,7 +70265,7 @@
       ]
     },
     {
-      "trip_id": "6_17606681",
+      "trip_id": "6_17710694",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "6",
@@ -70624,7 +70624,7 @@
       ]
     },
     {
-      "trip_id": "6_17606682",
+      "trip_id": "6_17710695",
       "direction_id": "1",
       "headsign": "Wojszycka",
       "service_id": "6",
@@ -70965,7 +70965,7 @@
       ]
     },
     {
-      "trip_id": "6_17606683",
+      "trip_id": "6_17710696",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "6",
@@ -71234,7 +71234,7 @@
       ]
     },
     {
-      "trip_id": "6_17606684",
+      "trip_id": "6_17710697",
       "direction_id": "1",
       "headsign": "Wojszycka",
       "service_id": "6",
@@ -71584,7 +71584,7 @@
       ]
     },
     {
-      "trip_id": "6_17606685",
+      "trip_id": "6_17710698",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "6",
@@ -71943,7 +71943,7 @@
       ]
     },
     {
-      "trip_id": "6_17606686",
+      "trip_id": "6_17710699",
       "direction_id": "1",
       "headsign": "Wojszycka",
       "service_id": "6",
@@ -72284,7 +72284,7 @@
       ]
     },
     {
-      "trip_id": "6_17606687",
+      "trip_id": "6_17710700",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "6",
@@ -72643,7 +72643,7 @@
       ]
     },
     {
-      "trip_id": "6_17606688",
+      "trip_id": "6_17710701",
       "direction_id": "1",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "6",
@@ -72732,7 +72732,7 @@
       ]
     },
     {
-      "trip_id": "6_17606689",
+      "trip_id": "6_17710702",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "6",
@@ -72821,7 +72821,7 @@
       ]
     },
     {
-      "trip_id": "6_17606690",
+      "trip_id": "6_17710703",
       "direction_id": "1",
       "headsign": "Wojszycka",
       "service_id": "6",
@@ -73162,7 +73162,7 @@
       ]
     },
     {
-      "trip_id": "6_17606691",
+      "trip_id": "6_17710704",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "6",
@@ -73521,7 +73521,7 @@
       ]
     },
     {
-      "trip_id": "6_17606692",
+      "trip_id": "6_17710705",
       "direction_id": "1",
       "headsign": "Wojszycka",
       "service_id": "6",
@@ -73862,7 +73862,7 @@
       ]
     },
     {
-      "trip_id": "6_17606693",
+      "trip_id": "6_17710706",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "6",
@@ -74221,7 +74221,7 @@
       ]
     },
     {
-      "trip_id": "6_17606694",
+      "trip_id": "6_17710707",
       "direction_id": "1",
       "headsign": "Wojszycka",
       "service_id": "6",
@@ -74562,7 +74562,7 @@
       ]
     },
     {
-      "trip_id": "6_17606695",
+      "trip_id": "6_17710708",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "6",
@@ -74921,7 +74921,7 @@
       ]
     },
     {
-      "trip_id": "6_17606696",
+      "trip_id": "6_17710709",
       "direction_id": "1",
       "headsign": "Wojszycka",
       "service_id": "6",
@@ -75262,7 +75262,7 @@
       ]
     },
     {
-      "trip_id": "6_17606697",
+      "trip_id": "6_17710710",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "6",
@@ -75621,7 +75621,7 @@
       ]
     },
     {
-      "trip_id": "6_17606698",
+      "trip_id": "6_17710711",
       "direction_id": "1",
       "headsign": "Wojszycka",
       "service_id": "6",
@@ -75962,7 +75962,7 @@
       ]
     },
     {
-      "trip_id": "6_17606699",
+      "trip_id": "6_17710712",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "6",
@@ -76321,7 +76321,7 @@
       ]
     },
     {
-      "trip_id": "6_17606700",
+      "trip_id": "6_17710713",
       "direction_id": "1",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "6",
@@ -76410,7 +76410,7 @@
       ]
     },
     {
-      "trip_id": "6_17606701",
+      "trip_id": "6_17710714",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "6",
@@ -76499,7 +76499,7 @@
       ]
     },
     {
-      "trip_id": "6_17606702",
+      "trip_id": "6_17710715",
       "direction_id": "1",
       "headsign": "Wojszycka",
       "service_id": "6",
@@ -76840,7 +76840,7 @@
       ]
     },
     {
-      "trip_id": "6_17606703",
+      "trip_id": "6_17710716",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "6",
@@ -77199,7 +77199,7 @@
       ]
     },
     {
-      "trip_id": "6_17606704",
+      "trip_id": "6_17710717",
       "direction_id": "1",
       "headsign": "Wojszycka",
       "service_id": "6",
@@ -77540,7 +77540,7 @@
       ]
     },
     {
-      "trip_id": "6_17606705",
+      "trip_id": "6_17710718",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "6",
@@ -77809,7 +77809,7 @@
       ]
     },
     {
-      "trip_id": "6_17606706",
+      "trip_id": "6_17710719",
       "direction_id": "1",
       "headsign": "Wojszycka",
       "service_id": "6",
@@ -78078,7 +78078,7 @@
       ]
     },
     {
-      "trip_id": "6_17606707",
+      "trip_id": "6_17710720",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "6",
@@ -78437,7 +78437,7 @@
       ]
     },
     {
-      "trip_id": "6_17606708",
+      "trip_id": "6_17710721",
       "direction_id": "1",
       "headsign": "Wojszycka",
       "service_id": "6",
@@ -78778,7 +78778,7 @@
       ]
     },
     {
-      "trip_id": "6_17606709",
+      "trip_id": "6_17710722",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "6",
@@ -79137,7 +79137,7 @@
       ]
     },
     {
-      "trip_id": "6_17606710",
+      "trip_id": "6_17710723",
       "direction_id": "1",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "6",
@@ -79226,7 +79226,7 @@
       ]
     },
     {
-      "trip_id": "6_17606711",
+      "trip_id": "6_17710724",
       "direction_id": "1",
       "headsign": "Wojszycka",
       "service_id": "6",
@@ -79495,7 +79495,7 @@
       ]
     },
     {
-      "trip_id": "6_17606712",
+      "trip_id": "6_17710725",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "6",
@@ -79854,7 +79854,7 @@
       ]
     },
     {
-      "trip_id": "6_17606713",
+      "trip_id": "6_17710726",
       "direction_id": "1",
       "headsign": "Wojszycka",
       "service_id": "6",
@@ -80195,7 +80195,7 @@
       ]
     },
     {
-      "trip_id": "6_17606714",
+      "trip_id": "6_17710727",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "6",
@@ -80554,7 +80554,7 @@
       ]
     },
     {
-      "trip_id": "6_17606715",
+      "trip_id": "6_17710728",
       "direction_id": "1",
       "headsign": "Wojszycka",
       "service_id": "6",
@@ -80895,7 +80895,7 @@
       ]
     },
     {
-      "trip_id": "6_17606716",
+      "trip_id": "6_17710729",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "6",
@@ -81254,7 +81254,7 @@
       ]
     },
     {
-      "trip_id": "6_17606717",
+      "trip_id": "6_17710730",
       "direction_id": "1",
       "headsign": "Wojszycka",
       "service_id": "6",
@@ -81595,7 +81595,7 @@
       ]
     },
     {
-      "trip_id": "6_17606718",
+      "trip_id": "6_17710731",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "6",
@@ -81954,7 +81954,7 @@
       ]
     },
     {
-      "trip_id": "6_17606719",
+      "trip_id": "6_17710732",
       "direction_id": "1",
       "headsign": "Wojszycka",
       "service_id": "6",
@@ -82295,7 +82295,7 @@
       ]
     },
     {
-      "trip_id": "6_17606720",
+      "trip_id": "6_17710733",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "6",
@@ -82654,7 +82654,7 @@
       ]
     },
     {
-      "trip_id": "6_17606721",
+      "trip_id": "6_17710734",
       "direction_id": "1",
       "headsign": "Wojszycka",
       "service_id": "6",
@@ -82995,7 +82995,7 @@
       ]
     },
     {
-      "trip_id": "6_17606722",
+      "trip_id": "6_17710735",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "6",
@@ -83264,7 +83264,7 @@
       ]
     },
     {
-      "trip_id": "6_17606723",
+      "trip_id": "6_17710736",
       "direction_id": "1",
       "headsign": "Wojszycka",
       "service_id": "6",
@@ -83614,7 +83614,7 @@
       ]
     },
     {
-      "trip_id": "6_17606724",
+      "trip_id": "6_17710737",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "6",
@@ -83973,7 +83973,7 @@
       ]
     },
     {
-      "trip_id": "6_17606725",
+      "trip_id": "6_17710738",
       "direction_id": "1",
       "headsign": "Wojszycka",
       "service_id": "6",
@@ -84314,7 +84314,7 @@
       ]
     },
     {
-      "trip_id": "6_17606726",
+      "trip_id": "6_17710739",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "6",
@@ -84673,7 +84673,7 @@
       ]
     },
     {
-      "trip_id": "6_17606727",
+      "trip_id": "6_17710740",
       "direction_id": "1",
       "headsign": "Wojszycka",
       "service_id": "6",
@@ -85014,7 +85014,7 @@
       ]
     },
     {
-      "trip_id": "6_17606728",
+      "trip_id": "6_17710741",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "6",
@@ -85373,7 +85373,7 @@
       ]
     },
     {
-      "trip_id": "6_17606729",
+      "trip_id": "6_17710742",
       "direction_id": "1",
       "headsign": "Wojszycka",
       "service_id": "6",
@@ -85714,7 +85714,7 @@
       ]
     },
     {
-      "trip_id": "6_17606730",
+      "trip_id": "6_17710743",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "6",
@@ -86073,7 +86073,7 @@
       ]
     },
     {
-      "trip_id": "6_17606731",
+      "trip_id": "6_17710744",
       "direction_id": "1",
       "headsign": "Wojszycka",
       "service_id": "6",
@@ -86414,7 +86414,7 @@
       ]
     },
     {
-      "trip_id": "6_17606732",
+      "trip_id": "6_17710745",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "6",
@@ -86683,7 +86683,7 @@
       ]
     },
     {
-      "trip_id": "6_17606733",
+      "trip_id": "6_17710746",
       "direction_id": "1",
       "headsign": "Wojszycka",
       "service_id": "6",
@@ -86952,7 +86952,7 @@
       ]
     },
     {
-      "trip_id": "6_17606734",
+      "trip_id": "6_17710747",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "6",
@@ -87311,7 +87311,7 @@
       ]
     },
     {
-      "trip_id": "6_17606735",
+      "trip_id": "6_17710748",
       "direction_id": "1",
       "headsign": "Wojszycka",
       "service_id": "6",
@@ -87652,7 +87652,7 @@
       ]
     },
     {
-      "trip_id": "6_17606736",
+      "trip_id": "6_17710749",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "6",
@@ -88011,7 +88011,7 @@
       ]
     },
     {
-      "trip_id": "6_17606737",
+      "trip_id": "6_17710750",
       "direction_id": "1",
       "headsign": "Wojszycka",
       "service_id": "6",
@@ -88352,7 +88352,7 @@
       ]
     },
     {
-      "trip_id": "6_17606738",
+      "trip_id": "6_17710751",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "6",
@@ -88711,7 +88711,7 @@
       ]
     },
     {
-      "trip_id": "6_17606739",
+      "trip_id": "6_17710752",
       "direction_id": "1",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "6",
@@ -88800,7 +88800,7 @@
       ]
     },
     {
-      "trip_id": "6_17606740",
+      "trip_id": "6_17710753",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "6",
@@ -88889,7 +88889,7 @@
       ]
     },
     {
-      "trip_id": "6_17606741",
+      "trip_id": "6_17710754",
       "direction_id": "1",
       "headsign": "Wojszycka",
       "service_id": "6",
@@ -89230,7 +89230,7 @@
       ]
     },
     {
-      "trip_id": "6_17606742",
+      "trip_id": "6_17710755",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "6",
@@ -89589,7 +89589,7 @@
       ]
     },
     {
-      "trip_id": "6_17606743",
+      "trip_id": "6_17710756",
       "direction_id": "1",
       "headsign": "Wojszycka",
       "service_id": "6",
@@ -89930,7 +89930,7 @@
       ]
     },
     {
-      "trip_id": "6_17606744",
+      "trip_id": "6_17710757",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "6",
@@ -90199,7 +90199,7 @@
       ]
     },
     {
-      "trip_id": "6_17606745",
+      "trip_id": "6_17710758",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "6",
@@ -90288,7 +90288,7 @@
       ]
     },
     {
-      "trip_id": "6_17606746",
+      "trip_id": "6_17710759",
       "direction_id": "1",
       "headsign": "Wojszycka",
       "service_id": "6",
@@ -90629,7 +90629,7 @@
       ]
     },
     {
-      "trip_id": "6_17606747",
+      "trip_id": "6_17710760",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "6",
@@ -90988,7 +90988,7 @@
       ]
     },
     {
-      "trip_id": "6_17606748",
+      "trip_id": "6_17710761",
       "direction_id": "1",
       "headsign": "Wojszycka",
       "service_id": "6",
@@ -91329,7 +91329,7 @@
       ]
     },
     {
-      "trip_id": "6_17606749",
+      "trip_id": "6_17710762",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "6",
@@ -91688,7 +91688,7 @@
       ]
     },
     {
-      "trip_id": "6_17606750",
+      "trip_id": "6_17710763",
       "direction_id": "1",
       "headsign": "Wojszycka",
       "service_id": "6",
@@ -92029,7 +92029,7 @@
       ]
     },
     {
-      "trip_id": "6_17606751",
+      "trip_id": "6_17710764",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "6",
@@ -92388,7 +92388,7 @@
       ]
     },
     {
-      "trip_id": "6_17606752",
+      "trip_id": "6_17710765",
       "direction_id": "1",
       "headsign": "Wojszycka",
       "service_id": "6",
@@ -92729,7 +92729,7 @@
       ]
     },
     {
-      "trip_id": "6_17606753",
+      "trip_id": "6_17710766",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "6",
@@ -92962,7 +92962,7 @@
       ]
     },
     {
-      "trip_id": "6_17606754",
+      "trip_id": "6_17710767",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "6",
@@ -93051,7 +93051,7 @@
       ]
     },
     {
-      "trip_id": "6_17606755",
+      "trip_id": "6_17710768",
       "direction_id": "1",
       "headsign": "Wojszycka",
       "service_id": "6",
@@ -93392,7 +93392,7 @@
       ]
     },
     {
-      "trip_id": "6_17606756",
+      "trip_id": "6_17710769",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "6",
@@ -93751,7 +93751,7 @@
       ]
     },
     {
-      "trip_id": "6_17606757",
+      "trip_id": "6_17710770",
       "direction_id": "1",
       "headsign": "Wojszycka",
       "service_id": "6",
@@ -94092,7 +94092,7 @@
       ]
     },
     {
-      "trip_id": "6_17606758",
+      "trip_id": "6_17710771",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "6",
@@ -94451,7 +94451,7 @@
       ]
     },
     {
-      "trip_id": "6_17606759",
+      "trip_id": "6_17710772",
       "direction_id": "1",
       "headsign": "Wojszycka",
       "service_id": "6",
@@ -94792,7 +94792,7 @@
       ]
     },
     {
-      "trip_id": "6_17606760",
+      "trip_id": "6_17710773",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "6",
@@ -95151,7 +95151,7 @@
       ]
     },
     {
-      "trip_id": "6_17606761",
+      "trip_id": "6_17710774",
       "direction_id": "1",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "6",
@@ -95240,7 +95240,7 @@
       ]
     },
     {
-      "trip_id": "6_17606762",
+      "trip_id": "6_17710775",
       "direction_id": "1",
       "headsign": "Wojszycka",
       "service_id": "6",
@@ -95509,7 +95509,7 @@
       ]
     },
     {
-      "trip_id": "6_17606763",
+      "trip_id": "6_17710776",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "6",
@@ -95868,7 +95868,7 @@
       ]
     },
     {
-      "trip_id": "6_17606764",
+      "trip_id": "6_17710777",
       "direction_id": "1",
       "headsign": "Wojszycka",
       "service_id": "6",
@@ -96209,7 +96209,7 @@
       ]
     },
     {
-      "trip_id": "6_17606765",
+      "trip_id": "6_17710778",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "6",
@@ -96568,7 +96568,7 @@
       ]
     },
     {
-      "trip_id": "6_17606766",
+      "trip_id": "6_17710779",
       "direction_id": "1",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "6",
@@ -96657,7 +96657,7 @@
       ]
     },
     {
-      "trip_id": "6_17606767",
+      "trip_id": "6_17710780",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "6",
@@ -96746,7 +96746,7 @@
       ]
     },
     {
-      "trip_id": "6_17606768",
+      "trip_id": "6_17710781",
       "direction_id": "1",
       "headsign": "Wojszycka",
       "service_id": "6",
@@ -97087,7 +97087,7 @@
       ]
     },
     {
-      "trip_id": "6_17606769",
+      "trip_id": "6_17710782",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "6",
@@ -97446,7 +97446,7 @@
       ]
     },
     {
-      "trip_id": "6_17606770",
+      "trip_id": "6_17710783",
       "direction_id": "1",
       "headsign": "Wojszycka",
       "service_id": "6",
@@ -97787,7 +97787,7 @@
       ]
     },
     {
-      "trip_id": "6_17606771",
+      "trip_id": "6_17710784",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "6",
@@ -98146,7 +98146,7 @@
       ]
     },
     {
-      "trip_id": "6_17606772",
+      "trip_id": "6_17710785",
       "direction_id": "1",
       "headsign": "Wojszycka",
       "service_id": "6",
@@ -98487,7 +98487,7 @@
       ]
     },
     {
-      "trip_id": "6_17606773",
+      "trip_id": "6_17710786",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "6",
@@ -98846,7 +98846,7 @@
       ]
     },
     {
-      "trip_id": "6_17606871",
+      "trip_id": "6_17710884",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "6",
@@ -99061,7 +99061,7 @@
       ]
     },
     {
-      "trip_id": "6_17606897",
+      "trip_id": "6_17710910",
       "direction_id": "1",
       "headsign": "KRZYKI",
       "service_id": "6",
@@ -99267,7 +99267,7 @@
       ]
     },
     {
-      "trip_id": "6_17608296",
+      "trip_id": "6_17712309",
       "direction_id": "1",
       "headsign": "KRZYKI",
       "service_id": "6",
@@ -99473,7 +99473,7 @@
       ]
     },
     {
-      "trip_id": "6_17609776",
+      "trip_id": "6_17713789",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "6",
@@ -99562,7 +99562,7 @@
       ]
     },
     {
-      "trip_id": "6_17609777",
+      "trip_id": "6_17713790",
       "direction_id": "1",
       "headsign": "Wojszycka",
       "service_id": "6",
@@ -99903,7 +99903,7 @@
       ]
     },
     {
-      "trip_id": "6_17610624",
+      "trip_id": "6_17714637",
       "direction_id": "1",
       "headsign": "KRZYKI",
       "service_id": "6",
@@ -100109,7 +100109,7 @@
       ]
     },
     {
-      "trip_id": "6_17610661",
+      "trip_id": "6_17714674",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "6",
@@ -100324,7 +100324,7 @@
       ]
     },
     {
-      "trip_id": "8_17613466",
+      "trip_id": "8_17717479",
       "direction_id": "1",
       "headsign": "Wojszycka",
       "service_id": "8",
@@ -100593,7 +100593,7 @@
       ]
     },
     {
-      "trip_id": "8_17613467",
+      "trip_id": "8_17717480",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "8",
@@ -100952,7 +100952,7 @@
       ]
     },
     {
-      "trip_id": "8_17613468",
+      "trip_id": "8_17717481",
       "direction_id": "1",
       "headsign": "Wojszycka",
       "service_id": "8",
@@ -101293,7 +101293,7 @@
       ]
     },
     {
-      "trip_id": "8_17613469",
+      "trip_id": "8_17717482",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "8",
@@ -101652,7 +101652,7 @@
       ]
     },
     {
-      "trip_id": "8_17613470",
+      "trip_id": "8_17717483",
       "direction_id": "1",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "8",
@@ -101741,7 +101741,7 @@
       ]
     },
     {
-      "trip_id": "8_17613471",
+      "trip_id": "8_17717484",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "8",
@@ -101830,7 +101830,7 @@
       ]
     },
     {
-      "trip_id": "8_17613472",
+      "trip_id": "8_17717485",
       "direction_id": "1",
       "headsign": "Wojszycka",
       "service_id": "8",
@@ -102171,7 +102171,7 @@
       ]
     },
     {
-      "trip_id": "8_17613473",
+      "trip_id": "8_17717486",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "8",
@@ -102530,7 +102530,7 @@
       ]
     },
     {
-      "trip_id": "8_17613474",
+      "trip_id": "8_17717487",
       "direction_id": "1",
       "headsign": "Wojszycka",
       "service_id": "8",
@@ -102871,7 +102871,7 @@
       ]
     },
     {
-      "trip_id": "8_17613475",
+      "trip_id": "8_17717488",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "8",
@@ -103230,7 +103230,7 @@
       ]
     },
     {
-      "trip_id": "8_17613476",
+      "trip_id": "8_17717489",
       "direction_id": "1",
       "headsign": "Wojszycka",
       "service_id": "8",
@@ -103571,7 +103571,7 @@
       ]
     },
     {
-      "trip_id": "8_17613477",
+      "trip_id": "8_17717490",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "8",
@@ -103930,7 +103930,7 @@
       ]
     },
     {
-      "trip_id": "8_17613478",
+      "trip_id": "8_17717491",
       "direction_id": "1",
       "headsign": "Wojszycka",
       "service_id": "8",
@@ -104271,7 +104271,7 @@
       ]
     },
     {
-      "trip_id": "8_17613479",
+      "trip_id": "8_17717492",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "8",
@@ -104630,7 +104630,7 @@
       ]
     },
     {
-      "trip_id": "8_17613480",
+      "trip_id": "8_17717493",
       "direction_id": "1",
       "headsign": "Wojszycka",
       "service_id": "8",
@@ -104971,7 +104971,7 @@
       ]
     },
     {
-      "trip_id": "8_17613481",
+      "trip_id": "8_17717494",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "8",
@@ -105330,7 +105330,7 @@
       ]
     },
     {
-      "trip_id": "8_17613482",
+      "trip_id": "8_17717495",
       "direction_id": "1",
       "headsign": "Wojszycka",
       "service_id": "8",
@@ -105671,7 +105671,7 @@
       ]
     },
     {
-      "trip_id": "8_17613483",
+      "trip_id": "8_17717496",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "8",
@@ -106030,7 +106030,7 @@
       ]
     },
     {
-      "trip_id": "8_17613484",
+      "trip_id": "8_17717497",
       "direction_id": "1",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "8",
@@ -106119,7 +106119,7 @@
       ]
     },
     {
-      "trip_id": "8_17613485",
+      "trip_id": "8_17717498",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "8",
@@ -106208,7 +106208,7 @@
       ]
     },
     {
-      "trip_id": "8_17613486",
+      "trip_id": "8_17717499",
       "direction_id": "1",
       "headsign": "Wojszycka",
       "service_id": "8",
@@ -106549,7 +106549,7 @@
       ]
     },
     {
-      "trip_id": "8_17613487",
+      "trip_id": "8_17717500",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "8",
@@ -106908,7 +106908,7 @@
       ]
     },
     {
-      "trip_id": "8_17613488",
+      "trip_id": "8_17717501",
       "direction_id": "1",
       "headsign": "Wojszycka",
       "service_id": "8",
@@ -107249,7 +107249,7 @@
       ]
     },
     {
-      "trip_id": "8_17613489",
+      "trip_id": "8_17717502",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "8",
@@ -107608,7 +107608,7 @@
       ]
     },
     {
-      "trip_id": "8_17613490",
+      "trip_id": "8_17717503",
       "direction_id": "1",
       "headsign": "Wojszycka",
       "service_id": "8",
@@ -107949,7 +107949,7 @@
       ]
     },
     {
-      "trip_id": "8_17613491",
+      "trip_id": "8_17717504",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "8",
@@ -108308,7 +108308,7 @@
       ]
     },
     {
-      "trip_id": "8_17613492",
+      "trip_id": "8_17717505",
       "direction_id": "1",
       "headsign": "Wojszycka",
       "service_id": "8",
@@ -108649,7 +108649,7 @@
       ]
     },
     {
-      "trip_id": "8_17613493",
+      "trip_id": "8_17717506",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "8",
@@ -109008,7 +109008,7 @@
       ]
     },
     {
-      "trip_id": "8_17613494",
+      "trip_id": "8_17717507",
       "direction_id": "1",
       "headsign": "Wojszycka",
       "service_id": "8",
@@ -109349,7 +109349,7 @@
       ]
     },
     {
-      "trip_id": "8_17613495",
+      "trip_id": "8_17717508",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "8",
@@ -109618,7 +109618,7 @@
       ]
     },
     {
-      "trip_id": "8_17613496",
+      "trip_id": "8_17717509",
       "direction_id": "1",
       "headsign": "Wojszycka",
       "service_id": "8",
@@ -109887,7 +109887,7 @@
       ]
     },
     {
-      "trip_id": "8_17613497",
+      "trip_id": "8_17717510",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "8",
@@ -110246,7 +110246,7 @@
       ]
     },
     {
-      "trip_id": "8_17613498",
+      "trip_id": "8_17717511",
       "direction_id": "1",
       "headsign": "Wojszycka",
       "service_id": "8",
@@ -110587,7 +110587,7 @@
       ]
     },
     {
-      "trip_id": "8_17613499",
+      "trip_id": "8_17717512",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "8",
@@ -110946,7 +110946,7 @@
       ]
     },
     {
-      "trip_id": "8_17613500",
+      "trip_id": "8_17717513",
       "direction_id": "1",
       "headsign": "Wojszycka",
       "service_id": "8",
@@ -111287,7 +111287,7 @@
       ]
     },
     {
-      "trip_id": "8_17613501",
+      "trip_id": "8_17717514",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "8",
@@ -111646,7 +111646,7 @@
       ]
     },
     {
-      "trip_id": "8_17613502",
+      "trip_id": "8_17717515",
       "direction_id": "1",
       "headsign": "Wojszycka",
       "service_id": "8",
@@ -111987,7 +111987,7 @@
       ]
     },
     {
-      "trip_id": "8_17613503",
+      "trip_id": "8_17717516",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "8",
@@ -112346,7 +112346,7 @@
       ]
     },
     {
-      "trip_id": "8_17613504",
+      "trip_id": "8_17717517",
       "direction_id": "1",
       "headsign": "Wojszycka",
       "service_id": "8",
@@ -112687,7 +112687,7 @@
       ]
     },
     {
-      "trip_id": "8_17613505",
+      "trip_id": "8_17717518",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "8",
@@ -113046,7 +113046,7 @@
       ]
     },
     {
-      "trip_id": "8_17613506",
+      "trip_id": "8_17717519",
       "direction_id": "1",
       "headsign": "Wojszycka",
       "service_id": "8",
@@ -113387,7 +113387,7 @@
       ]
     },
     {
-      "trip_id": "8_17613507",
+      "trip_id": "8_17717520",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "8",
@@ -113746,7 +113746,7 @@
       ]
     },
     {
-      "trip_id": "8_17613508",
+      "trip_id": "8_17717521",
       "direction_id": "1",
       "headsign": "Wojszycka",
       "service_id": "8",
@@ -114087,7 +114087,7 @@
       ]
     },
     {
-      "trip_id": "8_17613509",
+      "trip_id": "8_17717522",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "8",
@@ -114356,7 +114356,7 @@
       ]
     },
     {
-      "trip_id": "8_17613510",
+      "trip_id": "8_17717523",
       "direction_id": "1",
       "headsign": "Wojszycka",
       "service_id": "8",
@@ -114706,7 +114706,7 @@
       ]
     },
     {
-      "trip_id": "8_17613511",
+      "trip_id": "8_17717524",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "8",
@@ -115065,7 +115065,7 @@
       ]
     },
     {
-      "trip_id": "8_17613512",
+      "trip_id": "8_17717525",
       "direction_id": "1",
       "headsign": "Wojszycka",
       "service_id": "8",
@@ -115406,7 +115406,7 @@
       ]
     },
     {
-      "trip_id": "8_17613513",
+      "trip_id": "8_17717526",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "8",
@@ -115765,7 +115765,7 @@
       ]
     },
     {
-      "trip_id": "8_17613514",
+      "trip_id": "8_17717527",
       "direction_id": "1",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "8",
@@ -115854,7 +115854,7 @@
       ]
     },
     {
-      "trip_id": "8_17613515",
+      "trip_id": "8_17717528",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "8",
@@ -115943,7 +115943,7 @@
       ]
     },
     {
-      "trip_id": "8_17613516",
+      "trip_id": "8_17717529",
       "direction_id": "1",
       "headsign": "Wojszycka",
       "service_id": "8",
@@ -116284,7 +116284,7 @@
       ]
     },
     {
-      "trip_id": "8_17613517",
+      "trip_id": "8_17717530",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "8",
@@ -116643,7 +116643,7 @@
       ]
     },
     {
-      "trip_id": "8_17613518",
+      "trip_id": "8_17717531",
       "direction_id": "1",
       "headsign": "Wojszycka",
       "service_id": "8",
@@ -116984,7 +116984,7 @@
       ]
     },
     {
-      "trip_id": "8_17613519",
+      "trip_id": "8_17717532",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "8",
@@ -117343,7 +117343,7 @@
       ]
     },
     {
-      "trip_id": "8_17613520",
+      "trip_id": "8_17717533",
       "direction_id": "1",
       "headsign": "Wojszycka",
       "service_id": "8",
@@ -117684,7 +117684,7 @@
       ]
     },
     {
-      "trip_id": "8_17613521",
+      "trip_id": "8_17717534",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "8",
@@ -118043,7 +118043,7 @@
       ]
     },
     {
-      "trip_id": "8_17613522",
+      "trip_id": "8_17717535",
       "direction_id": "1",
       "headsign": "Wojszycka",
       "service_id": "8",
@@ -118384,7 +118384,7 @@
       ]
     },
     {
-      "trip_id": "8_17613523",
+      "trip_id": "8_17717536",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "8",
@@ -118743,7 +118743,7 @@
       ]
     },
     {
-      "trip_id": "8_17613524",
+      "trip_id": "8_17717537",
       "direction_id": "1",
       "headsign": "Wojszycka",
       "service_id": "8",
@@ -119084,7 +119084,7 @@
       ]
     },
     {
-      "trip_id": "8_17613525",
+      "trip_id": "8_17717538",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "8",
@@ -119443,7 +119443,7 @@
       ]
     },
     {
-      "trip_id": "8_17613526",
+      "trip_id": "8_17717539",
       "direction_id": "1",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "8",
@@ -119532,7 +119532,7 @@
       ]
     },
     {
-      "trip_id": "8_17613527",
+      "trip_id": "8_17717540",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "8",
@@ -119621,7 +119621,7 @@
       ]
     },
     {
-      "trip_id": "8_17613528",
+      "trip_id": "8_17717541",
       "direction_id": "1",
       "headsign": "Wojszycka",
       "service_id": "8",
@@ -119962,7 +119962,7 @@
       ]
     },
     {
-      "trip_id": "8_17613529",
+      "trip_id": "8_17717542",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "8",
@@ -120321,7 +120321,7 @@
       ]
     },
     {
-      "trip_id": "8_17613530",
+      "trip_id": "8_17717543",
       "direction_id": "1",
       "headsign": "Wojszycka",
       "service_id": "8",
@@ -120662,7 +120662,7 @@
       ]
     },
     {
-      "trip_id": "8_17613531",
+      "trip_id": "8_17717544",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "8",
@@ -120931,7 +120931,7 @@
       ]
     },
     {
-      "trip_id": "8_17613532",
+      "trip_id": "8_17717545",
       "direction_id": "1",
       "headsign": "Wojszycka",
       "service_id": "8",
@@ -121200,7 +121200,7 @@
       ]
     },
     {
-      "trip_id": "8_17613533",
+      "trip_id": "8_17717546",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "8",
@@ -121559,7 +121559,7 @@
       ]
     },
     {
-      "trip_id": "8_17613534",
+      "trip_id": "8_17717547",
       "direction_id": "1",
       "headsign": "Wojszycka",
       "service_id": "8",
@@ -121900,7 +121900,7 @@
       ]
     },
     {
-      "trip_id": "8_17613535",
+      "trip_id": "8_17717548",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "8",
@@ -122259,7 +122259,7 @@
       ]
     },
     {
-      "trip_id": "8_17613536",
+      "trip_id": "8_17717549",
       "direction_id": "1",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "8",
@@ -122348,7 +122348,7 @@
       ]
     },
     {
-      "trip_id": "8_17613537",
+      "trip_id": "8_17717550",
       "direction_id": "1",
       "headsign": "Wojszycka",
       "service_id": "8",
@@ -122617,7 +122617,7 @@
       ]
     },
     {
-      "trip_id": "8_17613538",
+      "trip_id": "8_17717551",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "8",
@@ -122976,7 +122976,7 @@
       ]
     },
     {
-      "trip_id": "8_17613539",
+      "trip_id": "8_17717552",
       "direction_id": "1",
       "headsign": "Wojszycka",
       "service_id": "8",
@@ -123317,7 +123317,7 @@
       ]
     },
     {
-      "trip_id": "8_17613540",
+      "trip_id": "8_17717553",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "8",
@@ -123676,7 +123676,7 @@
       ]
     },
     {
-      "trip_id": "8_17613541",
+      "trip_id": "8_17717554",
       "direction_id": "1",
       "headsign": "Wojszycka",
       "service_id": "8",
@@ -124017,7 +124017,7 @@
       ]
     },
     {
-      "trip_id": "8_17613542",
+      "trip_id": "8_17717555",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "8",
@@ -124376,7 +124376,7 @@
       ]
     },
     {
-      "trip_id": "8_17613543",
+      "trip_id": "8_17717556",
       "direction_id": "1",
       "headsign": "Wojszycka",
       "service_id": "8",
@@ -124717,7 +124717,7 @@
       ]
     },
     {
-      "trip_id": "8_17613544",
+      "trip_id": "8_17717557",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "8",
@@ -125076,7 +125076,7 @@
       ]
     },
     {
-      "trip_id": "8_17613545",
+      "trip_id": "8_17717558",
       "direction_id": "1",
       "headsign": "Wojszycka",
       "service_id": "8",
@@ -125417,7 +125417,7 @@
       ]
     },
     {
-      "trip_id": "8_17613546",
+      "trip_id": "8_17717559",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "8",
@@ -125776,7 +125776,7 @@
       ]
     },
     {
-      "trip_id": "8_17613547",
+      "trip_id": "8_17717560",
       "direction_id": "1",
       "headsign": "Wojszycka",
       "service_id": "8",
@@ -126117,7 +126117,7 @@
       ]
     },
     {
-      "trip_id": "8_17613548",
+      "trip_id": "8_17717561",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "8",
@@ -126386,7 +126386,7 @@
       ]
     },
     {
-      "trip_id": "8_17613549",
+      "trip_id": "8_17717562",
       "direction_id": "1",
       "headsign": "Wojszycka",
       "service_id": "8",
@@ -126736,7 +126736,7 @@
       ]
     },
     {
-      "trip_id": "8_17613550",
+      "trip_id": "8_17717563",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "8",
@@ -127095,7 +127095,7 @@
       ]
     },
     {
-      "trip_id": "8_17613551",
+      "trip_id": "8_17717564",
       "direction_id": "1",
       "headsign": "Wojszycka",
       "service_id": "8",
@@ -127436,7 +127436,7 @@
       ]
     },
     {
-      "trip_id": "8_17613552",
+      "trip_id": "8_17717565",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "8",
@@ -127795,7 +127795,7 @@
       ]
     },
     {
-      "trip_id": "8_17613553",
+      "trip_id": "8_17717566",
       "direction_id": "1",
       "headsign": "Wojszycka",
       "service_id": "8",
@@ -128136,7 +128136,7 @@
       ]
     },
     {
-      "trip_id": "8_17613554",
+      "trip_id": "8_17717567",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "8",
@@ -128495,7 +128495,7 @@
       ]
     },
     {
-      "trip_id": "8_17613555",
+      "trip_id": "8_17717568",
       "direction_id": "1",
       "headsign": "Wojszycka",
       "service_id": "8",
@@ -128836,7 +128836,7 @@
       ]
     },
     {
-      "trip_id": "8_17613556",
+      "trip_id": "8_17717569",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "8",
@@ -129195,7 +129195,7 @@
       ]
     },
     {
-      "trip_id": "8_17613557",
+      "trip_id": "8_17717570",
       "direction_id": "1",
       "headsign": "Wojszycka",
       "service_id": "8",
@@ -129536,7 +129536,7 @@
       ]
     },
     {
-      "trip_id": "8_17613558",
+      "trip_id": "8_17717571",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "8",
@@ -129805,7 +129805,7 @@
       ]
     },
     {
-      "trip_id": "8_17613559",
+      "trip_id": "8_17717572",
       "direction_id": "1",
       "headsign": "Wojszycka",
       "service_id": "8",
@@ -130074,7 +130074,7 @@
       ]
     },
     {
-      "trip_id": "8_17613560",
+      "trip_id": "8_17717573",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "8",
@@ -130433,7 +130433,7 @@
       ]
     },
     {
-      "trip_id": "8_17613561",
+      "trip_id": "8_17717574",
       "direction_id": "1",
       "headsign": "Wojszycka",
       "service_id": "8",
@@ -130774,7 +130774,7 @@
       ]
     },
     {
-      "trip_id": "8_17613562",
+      "trip_id": "8_17717575",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "8",
@@ -131133,7 +131133,7 @@
       ]
     },
     {
-      "trip_id": "8_17613563",
+      "trip_id": "8_17717576",
       "direction_id": "1",
       "headsign": "Wojszycka",
       "service_id": "8",
@@ -131474,7 +131474,7 @@
       ]
     },
     {
-      "trip_id": "8_17613564",
+      "trip_id": "8_17717577",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "8",
@@ -131833,7 +131833,7 @@
       ]
     },
     {
-      "trip_id": "8_17613565",
+      "trip_id": "8_17717578",
       "direction_id": "1",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "8",
@@ -131922,7 +131922,7 @@
       ]
     },
     {
-      "trip_id": "8_17613566",
+      "trip_id": "8_17717579",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "8",
@@ -132011,7 +132011,7 @@
       ]
     },
     {
-      "trip_id": "8_17613567",
+      "trip_id": "8_17717580",
       "direction_id": "1",
       "headsign": "Wojszycka",
       "service_id": "8",
@@ -132352,7 +132352,7 @@
       ]
     },
     {
-      "trip_id": "8_17613568",
+      "trip_id": "8_17717581",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "8",
@@ -132711,7 +132711,7 @@
       ]
     },
     {
-      "trip_id": "8_17613569",
+      "trip_id": "8_17717582",
       "direction_id": "1",
       "headsign": "Wojszycka",
       "service_id": "8",
@@ -133052,7 +133052,7 @@
       ]
     },
     {
-      "trip_id": "8_17613570",
+      "trip_id": "8_17717583",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "8",
@@ -133321,7 +133321,7 @@
       ]
     },
     {
-      "trip_id": "8_17613571",
+      "trip_id": "8_17717584",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "8",
@@ -133410,7 +133410,7 @@
       ]
     },
     {
-      "trip_id": "8_17613572",
+      "trip_id": "8_17717585",
       "direction_id": "1",
       "headsign": "Wojszycka",
       "service_id": "8",
@@ -133751,7 +133751,7 @@
       ]
     },
     {
-      "trip_id": "8_17613573",
+      "trip_id": "8_17717586",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "8",
@@ -134110,7 +134110,7 @@
       ]
     },
     {
-      "trip_id": "8_17613574",
+      "trip_id": "8_17717587",
       "direction_id": "1",
       "headsign": "Wojszycka",
       "service_id": "8",
@@ -134451,7 +134451,7 @@
       ]
     },
     {
-      "trip_id": "8_17613575",
+      "trip_id": "8_17717588",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "8",
@@ -134810,7 +134810,7 @@
       ]
     },
     {
-      "trip_id": "8_17613576",
+      "trip_id": "8_17717589",
       "direction_id": "1",
       "headsign": "Wojszycka",
       "service_id": "8",
@@ -135151,7 +135151,7 @@
       ]
     },
     {
-      "trip_id": "8_17613577",
+      "trip_id": "8_17717590",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "8",
@@ -135510,7 +135510,7 @@
       ]
     },
     {
-      "trip_id": "8_17613578",
+      "trip_id": "8_17717591",
       "direction_id": "1",
       "headsign": "Wojszycka",
       "service_id": "8",
@@ -135851,7 +135851,7 @@
       ]
     },
     {
-      "trip_id": "8_17613579",
+      "trip_id": "8_17717592",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "8",
@@ -136084,7 +136084,7 @@
       ]
     },
     {
-      "trip_id": "8_17613580",
+      "trip_id": "8_17717593",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "8",
@@ -136173,7 +136173,7 @@
       ]
     },
     {
-      "trip_id": "8_17613581",
+      "trip_id": "8_17717594",
       "direction_id": "1",
       "headsign": "Wojszycka",
       "service_id": "8",
@@ -136514,7 +136514,7 @@
       ]
     },
     {
-      "trip_id": "8_17613582",
+      "trip_id": "8_17717595",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "8",
@@ -136873,7 +136873,7 @@
       ]
     },
     {
-      "trip_id": "8_17613583",
+      "trip_id": "8_17717596",
       "direction_id": "1",
       "headsign": "Wojszycka",
       "service_id": "8",
@@ -137214,7 +137214,7 @@
       ]
     },
     {
-      "trip_id": "8_17613584",
+      "trip_id": "8_17717597",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "8",
@@ -137573,7 +137573,7 @@
       ]
     },
     {
-      "trip_id": "8_17613585",
+      "trip_id": "8_17717598",
       "direction_id": "1",
       "headsign": "Wojszycka",
       "service_id": "8",
@@ -137914,7 +137914,7 @@
       ]
     },
     {
-      "trip_id": "8_17613586",
+      "trip_id": "8_17717599",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "8",
@@ -138273,7 +138273,7 @@
       ]
     },
     {
-      "trip_id": "8_17613587",
+      "trip_id": "8_17717600",
       "direction_id": "1",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "8",
@@ -138362,7 +138362,7 @@
       ]
     },
     {
-      "trip_id": "8_17613588",
+      "trip_id": "8_17717601",
       "direction_id": "1",
       "headsign": "Wojszycka",
       "service_id": "8",
@@ -138631,7 +138631,7 @@
       ]
     },
     {
-      "trip_id": "8_17613589",
+      "trip_id": "8_17717602",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "8",
@@ -138990,7 +138990,7 @@
       ]
     },
     {
-      "trip_id": "8_17613590",
+      "trip_id": "8_17717603",
       "direction_id": "1",
       "headsign": "Wojszycka",
       "service_id": "8",
@@ -139331,7 +139331,7 @@
       ]
     },
     {
-      "trip_id": "8_17613591",
+      "trip_id": "8_17717604",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "8",
@@ -139690,7 +139690,7 @@
       ]
     },
     {
-      "trip_id": "8_17613592",
+      "trip_id": "8_17717605",
       "direction_id": "1",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "8",
@@ -139779,7 +139779,7 @@
       ]
     },
     {
-      "trip_id": "8_17613593",
+      "trip_id": "8_17717606",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "8",
@@ -139868,7 +139868,7 @@
       ]
     },
     {
-      "trip_id": "8_17613594",
+      "trip_id": "8_17717607",
       "direction_id": "1",
       "headsign": "Wojszycka",
       "service_id": "8",
@@ -140209,7 +140209,7 @@
       ]
     },
     {
-      "trip_id": "8_17613595",
+      "trip_id": "8_17717608",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "8",
@@ -140568,7 +140568,7 @@
       ]
     },
     {
-      "trip_id": "8_17613596",
+      "trip_id": "8_17717609",
       "direction_id": "1",
       "headsign": "Wojszycka",
       "service_id": "8",
@@ -140909,7 +140909,7 @@
       ]
     },
     {
-      "trip_id": "8_17613597",
+      "trip_id": "8_17717610",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "8",
@@ -141268,7 +141268,7 @@
       ]
     },
     {
-      "trip_id": "8_17613598",
+      "trip_id": "8_17717611",
       "direction_id": "1",
       "headsign": "Wojszycka",
       "service_id": "8",
@@ -141609,7 +141609,7 @@
       ]
     },
     {
-      "trip_id": "8_17613599",
+      "trip_id": "8_17717612",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "8",
@@ -141968,7 +141968,7 @@
       ]
     },
     {
-      "trip_id": "8_17613697",
+      "trip_id": "8_17717710",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "8",
@@ -142183,7 +142183,7 @@
       ]
     },
     {
-      "trip_id": "8_17613723",
+      "trip_id": "8_17717736",
       "direction_id": "1",
       "headsign": "KRZYKI",
       "service_id": "8",
@@ -142389,7 +142389,7 @@
       ]
     },
     {
-      "trip_id": "8_17615122",
+      "trip_id": "8_17719135",
       "direction_id": "1",
       "headsign": "KRZYKI",
       "service_id": "8",
@@ -142595,7 +142595,7 @@
       ]
     },
     {
-      "trip_id": "8_17616607",
+      "trip_id": "8_17720620",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "8",
@@ -142684,7 +142684,7 @@
       ]
     },
     {
-      "trip_id": "8_17616608",
+      "trip_id": "8_17720621",
       "direction_id": "1",
       "headsign": "Wojszycka",
       "service_id": "8",
@@ -143025,7 +143025,7 @@
       ]
     },
     {
-      "trip_id": "8_17617453",
+      "trip_id": "8_17721466",
       "direction_id": "1",
       "headsign": "KRZYKI",
       "service_id": "8",
@@ -143231,7 +143231,7 @@
       ]
     },
     {
-      "trip_id": "8_17617490",
+      "trip_id": "8_17721503",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "8",

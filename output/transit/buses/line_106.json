@@ -2,7 +2,7 @@
   "line": "106",
   "trips": [
     {
-      "trip_id": "3_17595737",
+      "trip_id": "3_17699750",
       "direction_id": "0",
       "headsign": "DWORZEC GŁÓWNY (Dworcowa)",
       "service_id": "3",
@@ -109,7 +109,7 @@
         {
           "stop_sequence": 11,
           "stop_id": "546",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 05",
           "arrival_time": "05:40:00",
           "departure_time": "05:40:00",
           "lat": 51.10740171,
@@ -136,7 +136,7 @@
       ]
     },
     {
-      "trip_id": "3_17595738",
+      "trip_id": "3_17699751",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "3",
@@ -369,7 +369,7 @@
       ]
     },
     {
-      "trip_id": "3_17595739",
+      "trip_id": "3_17699752",
       "direction_id": "0",
       "headsign": "DWORZEC GŁÓWNY (Dworcowa)",
       "service_id": "3",
@@ -593,7 +593,7 @@
       ]
     },
     {
-      "trip_id": "3_17595740",
+      "trip_id": "3_17699753",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "3",
@@ -826,7 +826,7 @@
       ]
     },
     {
-      "trip_id": "3_17595741",
+      "trip_id": "3_17699754",
       "direction_id": "0",
       "headsign": "DWORZEC GŁÓWNY (Dworcowa)",
       "service_id": "3",
@@ -1050,7 +1050,7 @@
       ]
     },
     {
-      "trip_id": "3_17595742",
+      "trip_id": "3_17699755",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "3",
@@ -1283,7 +1283,7 @@
       ]
     },
     {
-      "trip_id": "3_17595743",
+      "trip_id": "3_17699756",
       "direction_id": "0",
       "headsign": "DWORZEC GŁÓWNY (Dworcowa)",
       "service_id": "3",
@@ -1507,7 +1507,7 @@
       ]
     },
     {
-      "trip_id": "3_17595744",
+      "trip_id": "3_17699757",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "3",
@@ -1740,7 +1740,7 @@
       ]
     },
     {
-      "trip_id": "3_17595745",
+      "trip_id": "3_17699758",
       "direction_id": "0",
       "headsign": "DWORZEC GŁÓWNY (Dworcowa)",
       "service_id": "3",
@@ -1964,7 +1964,7 @@
       ]
     },
     {
-      "trip_id": "3_17595746",
+      "trip_id": "3_17699759",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "3",
@@ -2197,7 +2197,7 @@
       ]
     },
     {
-      "trip_id": "3_17595747",
+      "trip_id": "3_17699760",
       "direction_id": "0",
       "headsign": "DWORZEC GŁÓWNY (Dworcowa)",
       "service_id": "3",
@@ -2421,7 +2421,7 @@
       ]
     },
     {
-      "trip_id": "3_17595748",
+      "trip_id": "3_17699761",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "3",
@@ -2654,7 +2654,7 @@
       ]
     },
     {
-      "trip_id": "3_17595749",
+      "trip_id": "3_17699762",
       "direction_id": "0",
       "headsign": "DWORZEC GŁÓWNY (Dworcowa)",
       "service_id": "3",
@@ -2878,7 +2878,7 @@
       ]
     },
     {
-      "trip_id": "3_17595750",
+      "trip_id": "3_17699763",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "3",
@@ -3111,7 +3111,7 @@
       ]
     },
     {
-      "trip_id": "3_17595751",
+      "trip_id": "3_17699764",
       "direction_id": "0",
       "headsign": "DWORZEC GŁÓWNY (Dworcowa)",
       "service_id": "3",
@@ -3335,7 +3335,7 @@
       ]
     },
     {
-      "trip_id": "3_17595752",
+      "trip_id": "3_17699765",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "3",
@@ -3568,7 +3568,7 @@
       ]
     },
     {
-      "trip_id": "3_17595753",
+      "trip_id": "3_17699766",
       "direction_id": "0",
       "headsign": "DWORZEC GŁÓWNY (Dworcowa)",
       "service_id": "3",
@@ -3792,7 +3792,7 @@
       ]
     },
     {
-      "trip_id": "3_17595754",
+      "trip_id": "3_17699767",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "3",
@@ -4025,7 +4025,7 @@
       ]
     },
     {
-      "trip_id": "3_17595755",
+      "trip_id": "3_17699768",
       "direction_id": "0",
       "headsign": "DWORZEC GŁÓWNY (Dworcowa)",
       "service_id": "3",
@@ -4249,7 +4249,7 @@
       ]
     },
     {
-      "trip_id": "3_17595756",
+      "trip_id": "3_17699769",
       "direction_id": "1",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "3",
@@ -4275,7 +4275,7 @@
         {
           "stop_sequence": 2,
           "stop_id": "547",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 04",
           "arrival_time": "22:52:00",
           "departure_time": "22:52:00",
           "lat": 51.10801936,
@@ -4374,7 +4374,7 @@
       ]
     },
     {
-      "trip_id": "3_17595757",
+      "trip_id": "3_17699770",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "3",
@@ -4571,7 +4571,7 @@
       ]
     },
     {
-      "trip_id": "3_17595758",
+      "trip_id": "3_17699771",
       "direction_id": "0",
       "headsign": "DWORZEC GŁÓWNY (Dworcowa)",
       "service_id": "3",
@@ -4795,7 +4795,7 @@
       ]
     },
     {
-      "trip_id": "3_17595759",
+      "trip_id": "3_17699772",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "3",
@@ -5028,7 +5028,7 @@
       ]
     },
     {
-      "trip_id": "3_17595760",
+      "trip_id": "3_17699773",
       "direction_id": "0",
       "headsign": "DWORZEC GŁÓWNY (Dworcowa)",
       "service_id": "3",
@@ -5252,7 +5252,7 @@
       ]
     },
     {
-      "trip_id": "3_17595761",
+      "trip_id": "3_17699774",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "3",
@@ -5485,7 +5485,7 @@
       ]
     },
     {
-      "trip_id": "3_17595762",
+      "trip_id": "3_17699775",
       "direction_id": "0",
       "headsign": "DWORZEC GŁÓWNY (Dworcowa)",
       "service_id": "3",
@@ -5709,7 +5709,7 @@
       ]
     },
     {
-      "trip_id": "3_17595763",
+      "trip_id": "3_17699776",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "3",
@@ -5942,7 +5942,7 @@
       ]
     },
     {
-      "trip_id": "3_17595764",
+      "trip_id": "3_17699777",
       "direction_id": "0",
       "headsign": "DWORZEC GŁÓWNY (Dworcowa)",
       "service_id": "3",
@@ -6166,7 +6166,7 @@
       ]
     },
     {
-      "trip_id": "3_17595765",
+      "trip_id": "3_17699778",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "3",
@@ -6399,7 +6399,7 @@
       ]
     },
     {
-      "trip_id": "3_17595766",
+      "trip_id": "3_17699779",
       "direction_id": "0",
       "headsign": "DWORZEC GŁÓWNY (Dworcowa)",
       "service_id": "3",
@@ -6623,7 +6623,7 @@
       ]
     },
     {
-      "trip_id": "3_17595767",
+      "trip_id": "3_17699780",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "3",
@@ -6856,7 +6856,7 @@
       ]
     },
     {
-      "trip_id": "3_17595768",
+      "trip_id": "3_17699781",
       "direction_id": "0",
       "headsign": "DWORZEC GŁÓWNY (Dworcowa)",
       "service_id": "3",
@@ -7080,7 +7080,7 @@
       ]
     },
     {
-      "trip_id": "3_17595769",
+      "trip_id": "3_17699782",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "3",
@@ -7313,7 +7313,7 @@
       ]
     },
     {
-      "trip_id": "3_17595770",
+      "trip_id": "3_17699783",
       "direction_id": "0",
       "headsign": "DWORZEC GŁÓWNY (Dworcowa)",
       "service_id": "3",
@@ -7537,7 +7537,7 @@
       ]
     },
     {
-      "trip_id": "3_17595771",
+      "trip_id": "3_17699784",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "3",
@@ -7770,7 +7770,7 @@
       ]
     },
     {
-      "trip_id": "3_17595772",
+      "trip_id": "3_17699785",
       "direction_id": "0",
       "headsign": "DWORZEC GŁÓWNY (Dworcowa)",
       "service_id": "3",
@@ -7994,7 +7994,7 @@
       ]
     },
     {
-      "trip_id": "3_17595773",
+      "trip_id": "3_17699786",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "3",
@@ -8227,7 +8227,7 @@
       ]
     },
     {
-      "trip_id": "3_17595774",
+      "trip_id": "3_17699787",
       "direction_id": "0",
       "headsign": "DWORZEC GŁÓWNY (Dworcowa)",
       "service_id": "3",
@@ -8451,7 +8451,7 @@
       ]
     },
     {
-      "trip_id": "3_17595775",
+      "trip_id": "3_17699788",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "3",
@@ -8684,7 +8684,7 @@
       ]
     },
     {
-      "trip_id": "3_17595776",
+      "trip_id": "3_17699789",
       "direction_id": "0",
       "headsign": "DWORZEC GŁÓWNY (Dworcowa)",
       "service_id": "3",
@@ -8908,7 +8908,7 @@
       ]
     },
     {
-      "trip_id": "3_17595777",
+      "trip_id": "3_17699790",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "3",
@@ -9141,7 +9141,7 @@
       ]
     },
     {
-      "trip_id": "3_17595778",
+      "trip_id": "3_17699791",
       "direction_id": "0",
       "headsign": "DWORZEC GŁÓWNY (Dworcowa)",
       "service_id": "3",
@@ -9365,7 +9365,7 @@
       ]
     },
     {
-      "trip_id": "3_17595779",
+      "trip_id": "3_17699792",
       "direction_id": "1",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "3",
@@ -9391,7 +9391,7 @@
         {
           "stop_sequence": 2,
           "stop_id": "547",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 04",
           "arrival_time": "24:20:00",
           "departure_time": "24:20:00",
           "lat": 51.10801936,
@@ -9490,7 +9490,7 @@
       ]
     },
     {
-      "trip_id": "3_17595780",
+      "trip_id": "3_17699793",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "3",
@@ -9687,7 +9687,7 @@
       ]
     },
     {
-      "trip_id": "3_17595781",
+      "trip_id": "3_17699794",
       "direction_id": "0",
       "headsign": "DWORZEC GŁÓWNY (Dworcowa)",
       "service_id": "3",
@@ -9911,7 +9911,7 @@
       ]
     },
     {
-      "trip_id": "3_17595782",
+      "trip_id": "3_17699795",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "3",
@@ -10144,7 +10144,7 @@
       ]
     },
     {
-      "trip_id": "3_17595783",
+      "trip_id": "3_17699796",
       "direction_id": "0",
       "headsign": "DWORZEC GŁÓWNY (Dworcowa)",
       "service_id": "3",
@@ -10368,7 +10368,7 @@
       ]
     },
     {
-      "trip_id": "3_17595784",
+      "trip_id": "3_17699797",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "3",
@@ -10601,7 +10601,7 @@
       ]
     },
     {
-      "trip_id": "3_17595785",
+      "trip_id": "3_17699798",
       "direction_id": "0",
       "headsign": "DWORZEC GŁÓWNY (Dworcowa)",
       "service_id": "3",
@@ -10825,7 +10825,7 @@
       ]
     },
     {
-      "trip_id": "3_17595786",
+      "trip_id": "3_17699799",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "3",
@@ -11058,7 +11058,7 @@
       ]
     },
     {
-      "trip_id": "3_17595787",
+      "trip_id": "3_17699800",
       "direction_id": "0",
       "headsign": "DWORZEC GŁÓWNY (Dworcowa)",
       "service_id": "3",
@@ -11282,7 +11282,7 @@
       ]
     },
     {
-      "trip_id": "3_17595788",
+      "trip_id": "3_17699801",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "3",
@@ -11515,7 +11515,7 @@
       ]
     },
     {
-      "trip_id": "3_17595789",
+      "trip_id": "3_17699802",
       "direction_id": "0",
       "headsign": "DWORZEC GŁÓWNY (Dworcowa)",
       "service_id": "3",
@@ -11739,7 +11739,7 @@
       ]
     },
     {
-      "trip_id": "3_17595790",
+      "trip_id": "3_17699803",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "3",
@@ -11972,7 +11972,7 @@
       ]
     },
     {
-      "trip_id": "3_17595791",
+      "trip_id": "3_17699804",
       "direction_id": "0",
       "headsign": "DWORZEC GŁÓWNY (Dworcowa)",
       "service_id": "3",
@@ -12196,7 +12196,7 @@
       ]
     },
     {
-      "trip_id": "3_17595792",
+      "trip_id": "3_17699805",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "3",
@@ -12429,7 +12429,7 @@
       ]
     },
     {
-      "trip_id": "3_17595793",
+      "trip_id": "3_17699806",
       "direction_id": "0",
       "headsign": "DWORZEC GŁÓWNY (Dworcowa)",
       "service_id": "3",
@@ -12653,7 +12653,7 @@
       ]
     },
     {
-      "trip_id": "3_17595794",
+      "trip_id": "3_17699807",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "3",
@@ -12886,7 +12886,7 @@
       ]
     },
     {
-      "trip_id": "3_17595795",
+      "trip_id": "3_17699808",
       "direction_id": "0",
       "headsign": "DWORZEC GŁÓWNY (Dworcowa)",
       "service_id": "3",
@@ -13110,7 +13110,7 @@
       ]
     },
     {
-      "trip_id": "3_17595796",
+      "trip_id": "3_17699809",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "3",
@@ -13343,7 +13343,7 @@
       ]
     },
     {
-      "trip_id": "3_17595797",
+      "trip_id": "3_17699810",
       "direction_id": "0",
       "headsign": "DWORZEC GŁÓWNY (Dworcowa)",
       "service_id": "3",
@@ -13567,7 +13567,7 @@
       ]
     },
     {
-      "trip_id": "3_17595798",
+      "trip_id": "3_17699811",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "3",
@@ -13800,7 +13800,7 @@
       ]
     },
     {
-      "trip_id": "3_17595799",
+      "trip_id": "3_17699812",
       "direction_id": "0",
       "headsign": "DWORZEC GŁÓWNY (Dworcowa)",
       "service_id": "3",
@@ -14024,7 +14024,7 @@
       ]
     },
     {
-      "trip_id": "3_17595800",
+      "trip_id": "3_17699813",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "3",
@@ -14257,7 +14257,7 @@
       ]
     },
     {
-      "trip_id": "3_17595801",
+      "trip_id": "3_17699814",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "3",
@@ -14463,7 +14463,7 @@
       ]
     },
     {
-      "trip_id": "3_17595802",
+      "trip_id": "3_17699815",
       "direction_id": "0",
       "headsign": "DWORZEC GŁÓWNY (Dworcowa)",
       "service_id": "3",
@@ -14570,7 +14570,7 @@
         {
           "stop_sequence": 11,
           "stop_id": "546",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 05",
           "arrival_time": "04:46:00",
           "departure_time": "04:46:00",
           "lat": 51.10740171,
@@ -14597,7 +14597,7 @@
       ]
     },
     {
-      "trip_id": "3_17595803",
+      "trip_id": "3_17699816",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "3",
@@ -14830,7 +14830,7 @@
       ]
     },
     {
-      "trip_id": "3_17595804",
+      "trip_id": "3_17699817",
       "direction_id": "0",
       "headsign": "DWORZEC GŁÓWNY (Dworcowa)",
       "service_id": "3",
@@ -15054,7 +15054,7 @@
       ]
     },
     {
-      "trip_id": "3_17595805",
+      "trip_id": "3_17699818",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "3",
@@ -15287,7 +15287,7 @@
       ]
     },
     {
-      "trip_id": "3_17595806",
+      "trip_id": "3_17699819",
       "direction_id": "0",
       "headsign": "DWORZEC GŁÓWNY (Dworcowa)",
       "service_id": "3",
@@ -15511,7 +15511,7 @@
       ]
     },
     {
-      "trip_id": "3_17595807",
+      "trip_id": "3_17699820",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "3",
@@ -15744,7 +15744,7 @@
       ]
     },
     {
-      "trip_id": "3_17595808",
+      "trip_id": "3_17699821",
       "direction_id": "0",
       "headsign": "DWORZEC GŁÓWNY (Dworcowa)",
       "service_id": "3",
@@ -15968,7 +15968,7 @@
       ]
     },
     {
-      "trip_id": "3_17595809",
+      "trip_id": "3_17699822",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "3",
@@ -16201,7 +16201,7 @@
       ]
     },
     {
-      "trip_id": "3_17595810",
+      "trip_id": "3_17699823",
       "direction_id": "0",
       "headsign": "DWORZEC GŁÓWNY (Dworcowa)",
       "service_id": "3",
@@ -16425,7 +16425,7 @@
       ]
     },
     {
-      "trip_id": "3_17595811",
+      "trip_id": "3_17699824",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "3",
@@ -16658,7 +16658,7 @@
       ]
     },
     {
-      "trip_id": "3_17595812",
+      "trip_id": "3_17699825",
       "direction_id": "0",
       "headsign": "DWORZEC GŁÓWNY (Dworcowa)",
       "service_id": "3",
@@ -16882,7 +16882,7 @@
       ]
     },
     {
-      "trip_id": "3_17595813",
+      "trip_id": "3_17699826",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "3",
@@ -17115,7 +17115,7 @@
       ]
     },
     {
-      "trip_id": "3_17595814",
+      "trip_id": "3_17699827",
       "direction_id": "0",
       "headsign": "DWORZEC GŁÓWNY (Dworcowa)",
       "service_id": "3",
@@ -17339,7 +17339,7 @@
       ]
     },
     {
-      "trip_id": "3_17595815",
+      "trip_id": "3_17699828",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "3",
@@ -17572,7 +17572,7 @@
       ]
     },
     {
-      "trip_id": "3_17595816",
+      "trip_id": "3_17699829",
       "direction_id": "0",
       "headsign": "DWORZEC GŁÓWNY (Dworcowa)",
       "service_id": "3",
@@ -17796,7 +17796,7 @@
       ]
     },
     {
-      "trip_id": "3_17595817",
+      "trip_id": "3_17699830",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "3",
@@ -18029,7 +18029,7 @@
       ]
     },
     {
-      "trip_id": "3_17595818",
+      "trip_id": "3_17699831",
       "direction_id": "0",
       "headsign": "DWORZEC GŁÓWNY (Dworcowa)",
       "service_id": "3",
@@ -18253,7 +18253,7 @@
       ]
     },
     {
-      "trip_id": "3_17595819",
+      "trip_id": "3_17699832",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "3",
@@ -18486,7 +18486,7 @@
       ]
     },
     {
-      "trip_id": "3_17595820",
+      "trip_id": "3_17699833",
       "direction_id": "0",
       "headsign": "DWORZEC GŁÓWNY (Dworcowa)",
       "service_id": "3",
@@ -18710,7 +18710,7 @@
       ]
     },
     {
-      "trip_id": "3_17595821",
+      "trip_id": "3_17699834",
       "direction_id": "1",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "3",
@@ -18736,7 +18736,7 @@
         {
           "stop_sequence": 2,
           "stop_id": "547",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 04",
           "arrival_time": "21:51:00",
           "departure_time": "21:51:00",
           "lat": 51.10801936,
@@ -18835,7 +18835,7 @@
       ]
     },
     {
-      "trip_id": "3_17595822",
+      "trip_id": "3_17699835",
       "direction_id": "0",
       "headsign": "DWORZEC GŁÓWNY (Dworcowa)",
       "service_id": "3",
@@ -18942,7 +18942,7 @@
         {
           "stop_sequence": 11,
           "stop_id": "546",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 05",
           "arrival_time": "05:06:00",
           "departure_time": "05:06:00",
           "lat": 51.10740171,
@@ -18969,7 +18969,7 @@
       ]
     },
     {
-      "trip_id": "3_17595823",
+      "trip_id": "3_17699836",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "3",
@@ -19202,7 +19202,7 @@
       ]
     },
     {
-      "trip_id": "3_17595824",
+      "trip_id": "3_17699837",
       "direction_id": "0",
       "headsign": "DWORZEC GŁÓWNY (Dworcowa)",
       "service_id": "3",
@@ -19426,7 +19426,7 @@
       ]
     },
     {
-      "trip_id": "3_17595825",
+      "trip_id": "3_17699838",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "3",
@@ -19659,7 +19659,7 @@
       ]
     },
     {
-      "trip_id": "3_17595826",
+      "trip_id": "3_17699839",
       "direction_id": "0",
       "headsign": "DWORZEC GŁÓWNY (Dworcowa)",
       "service_id": "3",
@@ -19883,7 +19883,7 @@
       ]
     },
     {
-      "trip_id": "3_17595827",
+      "trip_id": "3_17699840",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "3",
@@ -20116,7 +20116,7 @@
       ]
     },
     {
-      "trip_id": "3_17595828",
+      "trip_id": "3_17699841",
       "direction_id": "0",
       "headsign": "DWORZEC GŁÓWNY (Dworcowa)",
       "service_id": "3",
@@ -20340,7 +20340,7 @@
       ]
     },
     {
-      "trip_id": "3_17595829",
+      "trip_id": "3_17699842",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "3",
@@ -20573,7 +20573,7 @@
       ]
     },
     {
-      "trip_id": "3_17595830",
+      "trip_id": "3_17699843",
       "direction_id": "0",
       "headsign": "DWORZEC GŁÓWNY (Dworcowa)",
       "service_id": "3",
@@ -20797,7 +20797,7 @@
       ]
     },
     {
-      "trip_id": "3_17595831",
+      "trip_id": "3_17699844",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "3",
@@ -21030,7 +21030,7 @@
       ]
     },
     {
-      "trip_id": "3_17595832",
+      "trip_id": "3_17699845",
       "direction_id": "0",
       "headsign": "DWORZEC GŁÓWNY (Dworcowa)",
       "service_id": "3",
@@ -21254,7 +21254,7 @@
       ]
     },
     {
-      "trip_id": "3_17595833",
+      "trip_id": "3_17699846",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "3",
@@ -21487,7 +21487,7 @@
       ]
     },
     {
-      "trip_id": "3_17595834",
+      "trip_id": "3_17699847",
       "direction_id": "0",
       "headsign": "DWORZEC GŁÓWNY (Dworcowa)",
       "service_id": "3",
@@ -21711,7 +21711,7 @@
       ]
     },
     {
-      "trip_id": "3_17595835",
+      "trip_id": "3_17699848",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "3",
@@ -21944,7 +21944,7 @@
       ]
     },
     {
-      "trip_id": "3_17595836",
+      "trip_id": "3_17699849",
       "direction_id": "0",
       "headsign": "DWORZEC GŁÓWNY (Dworcowa)",
       "service_id": "3",
@@ -22168,7 +22168,7 @@
       ]
     },
     {
-      "trip_id": "3_17595837",
+      "trip_id": "3_17699850",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "3",
@@ -22401,7 +22401,7 @@
       ]
     },
     {
-      "trip_id": "3_17595838",
+      "trip_id": "3_17699851",
       "direction_id": "0",
       "headsign": "DWORZEC GŁÓWNY (Dworcowa)",
       "service_id": "3",
@@ -22625,7 +22625,7 @@
       ]
     },
     {
-      "trip_id": "3_17595839",
+      "trip_id": "3_17699852",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "3",
@@ -22858,7 +22858,7 @@
       ]
     },
     {
-      "trip_id": "3_17595840",
+      "trip_id": "3_17699853",
       "direction_id": "0",
       "headsign": "DWORZEC GŁÓWNY (Dworcowa)",
       "service_id": "3",
@@ -23082,7 +23082,7 @@
       ]
     },
     {
-      "trip_id": "3_17595841",
+      "trip_id": "3_17699854",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "3",
@@ -23315,7 +23315,7 @@
       ]
     },
     {
-      "trip_id": "3_17595842",
+      "trip_id": "3_17699855",
       "direction_id": "0",
       "headsign": "DWORZEC GŁÓWNY (Dworcowa)",
       "service_id": "3",
@@ -23539,7 +23539,7 @@
       ]
     },
     {
-      "trip_id": "3_17595843",
+      "trip_id": "3_17699856",
       "direction_id": "1",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "3",
@@ -23565,7 +23565,7 @@
         {
           "stop_sequence": 2,
           "stop_id": "547",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 04",
           "arrival_time": "23:36:00",
           "departure_time": "23:36:00",
           "lat": 51.10801936,
@@ -23664,7 +23664,7 @@
       ]
     },
     {
-      "trip_id": "3_17595844",
+      "trip_id": "3_17699857",
       "direction_id": "0",
       "headsign": "DWORZEC GŁÓWNY (Dworcowa)",
       "service_id": "3",
@@ -23771,7 +23771,7 @@
         {
           "stop_sequence": 11,
           "stop_id": "546",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 05",
           "arrival_time": "05:25:00",
           "departure_time": "05:25:00",
           "lat": 51.10740171,
@@ -23798,7 +23798,7 @@
       ]
     },
     {
-      "trip_id": "3_17595845",
+      "trip_id": "3_17699858",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "3",
@@ -24031,7 +24031,7 @@
       ]
     },
     {
-      "trip_id": "3_17595846",
+      "trip_id": "3_17699859",
       "direction_id": "0",
       "headsign": "DWORZEC GŁÓWNY (Dworcowa)",
       "service_id": "3",
@@ -24255,7 +24255,7 @@
       ]
     },
     {
-      "trip_id": "3_17595847",
+      "trip_id": "3_17699860",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "3",
@@ -24488,7 +24488,7 @@
       ]
     },
     {
-      "trip_id": "3_17595848",
+      "trip_id": "3_17699861",
       "direction_id": "0",
       "headsign": "DWORZEC GŁÓWNY (Dworcowa)",
       "service_id": "3",
@@ -24712,7 +24712,7 @@
       ]
     },
     {
-      "trip_id": "3_17595849",
+      "trip_id": "3_17699862",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "3",
@@ -24945,7 +24945,7 @@
       ]
     },
     {
-      "trip_id": "3_17595850",
+      "trip_id": "3_17699863",
       "direction_id": "0",
       "headsign": "DWORZEC GŁÓWNY (Dworcowa)",
       "service_id": "3",
@@ -25169,7 +25169,7 @@
       ]
     },
     {
-      "trip_id": "3_17595851",
+      "trip_id": "3_17699864",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "3",
@@ -25402,7 +25402,7 @@
       ]
     },
     {
-      "trip_id": "3_17595852",
+      "trip_id": "3_17699865",
       "direction_id": "0",
       "headsign": "DWORZEC GŁÓWNY (Dworcowa)",
       "service_id": "3",
@@ -25626,7 +25626,7 @@
       ]
     },
     {
-      "trip_id": "3_17595853",
+      "trip_id": "3_17699866",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "3",
@@ -25859,7 +25859,7 @@
       ]
     },
     {
-      "trip_id": "3_17595854",
+      "trip_id": "3_17699867",
       "direction_id": "0",
       "headsign": "DWORZEC GŁÓWNY (Dworcowa)",
       "service_id": "3",
@@ -26083,7 +26083,7 @@
       ]
     },
     {
-      "trip_id": "3_17595855",
+      "trip_id": "3_17699868",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "3",
@@ -26316,7 +26316,7 @@
       ]
     },
     {
-      "trip_id": "3_17595856",
+      "trip_id": "3_17699869",
       "direction_id": "0",
       "headsign": "DWORZEC GŁÓWNY (Dworcowa)",
       "service_id": "3",
@@ -26540,7 +26540,7 @@
       ]
     },
     {
-      "trip_id": "3_17595857",
+      "trip_id": "3_17699870",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "3",
@@ -26773,7 +26773,7 @@
       ]
     },
     {
-      "trip_id": "3_17595858",
+      "trip_id": "3_17699871",
       "direction_id": "0",
       "headsign": "DWORZEC GŁÓWNY (Dworcowa)",
       "service_id": "3",
@@ -26997,7 +26997,7 @@
       ]
     },
     {
-      "trip_id": "3_17595859",
+      "trip_id": "3_17699872",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "3",
@@ -27230,7 +27230,7 @@
       ]
     },
     {
-      "trip_id": "3_17595860",
+      "trip_id": "3_17699873",
       "direction_id": "0",
       "headsign": "DWORZEC GŁÓWNY (Dworcowa)",
       "service_id": "3",
@@ -27454,7 +27454,7 @@
       ]
     },
     {
-      "trip_id": "3_17595861",
+      "trip_id": "3_17699874",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "3",
@@ -27687,7 +27687,7 @@
       ]
     },
     {
-      "trip_id": "3_17595862",
+      "trip_id": "3_17699875",
       "direction_id": "0",
       "headsign": "DWORZEC GŁÓWNY (Dworcowa)",
       "service_id": "3",
@@ -27911,7 +27911,7 @@
       ]
     },
     {
-      "trip_id": "3_17595863",
+      "trip_id": "3_17699876",
       "direction_id": "1",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "3",
@@ -27937,7 +27937,7 @@
         {
           "stop_sequence": 2,
           "stop_id": "547",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 04",
           "arrival_time": "22:22:00",
           "departure_time": "22:22:00",
           "lat": 51.10801936,
@@ -28036,7 +28036,7 @@
       ]
     },
     {
-      "trip_id": "3_17595864",
+      "trip_id": "3_17699877",
       "direction_id": "0",
       "headsign": "DWORZEC GŁÓWNY (Dworcowa)",
       "service_id": "3",
@@ -28143,7 +28143,7 @@
         {
           "stop_sequence": 11,
           "stop_id": "546",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 05",
           "arrival_time": "06:55:00",
           "departure_time": "06:55:00",
           "lat": 51.10740171,
@@ -28170,7 +28170,7 @@
       ]
     },
     {
-      "trip_id": "3_17595865",
+      "trip_id": "3_17699878",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "3",
@@ -28403,7 +28403,7 @@
       ]
     },
     {
-      "trip_id": "3_17595866",
+      "trip_id": "3_17699879",
       "direction_id": "0",
       "headsign": "DWORZEC GŁÓWNY (Dworcowa)",
       "service_id": "3",
@@ -28627,7 +28627,7 @@
       ]
     },
     {
-      "trip_id": "3_17595867",
+      "trip_id": "3_17699880",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "3",
@@ -28860,7 +28860,7 @@
       ]
     },
     {
-      "trip_id": "3_17595868",
+      "trip_id": "3_17699881",
       "direction_id": "0",
       "headsign": "DWORZEC GŁÓWNY (Dworcowa)",
       "service_id": "3",
@@ -29084,7 +29084,7 @@
       ]
     },
     {
-      "trip_id": "3_17595869",
+      "trip_id": "3_17699882",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "3",
@@ -29317,7 +29317,7 @@
       ]
     },
     {
-      "trip_id": "3_17595870",
+      "trip_id": "3_17699883",
       "direction_id": "0",
       "headsign": "DWORZEC GŁÓWNY (Dworcowa)",
       "service_id": "3",
@@ -29541,7 +29541,7 @@
       ]
     },
     {
-      "trip_id": "3_17595871",
+      "trip_id": "3_17699884",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "3",
@@ -29774,7 +29774,7 @@
       ]
     },
     {
-      "trip_id": "3_17595872",
+      "trip_id": "3_17699885",
       "direction_id": "0",
       "headsign": "DWORZEC GŁÓWNY (Dworcowa)",
       "service_id": "3",
@@ -29998,7 +29998,7 @@
       ]
     },
     {
-      "trip_id": "3_17595873",
+      "trip_id": "3_17699886",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "3",
@@ -30231,7 +30231,7 @@
       ]
     },
     {
-      "trip_id": "3_17595874",
+      "trip_id": "3_17699887",
       "direction_id": "0",
       "headsign": "DWORZEC GŁÓWNY (Dworcowa)",
       "service_id": "3",
@@ -30455,7 +30455,7 @@
       ]
     },
     {
-      "trip_id": "3_17595875",
+      "trip_id": "3_17699888",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "3",
@@ -30688,7 +30688,7 @@
       ]
     },
     {
-      "trip_id": "3_17595876",
+      "trip_id": "3_17699889",
       "direction_id": "0",
       "headsign": "DWORZEC GŁÓWNY (Dworcowa)",
       "service_id": "3",
@@ -30912,7 +30912,7 @@
       ]
     },
     {
-      "trip_id": "3_17595877",
+      "trip_id": "3_17699890",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "3",
@@ -31145,7 +31145,7 @@
       ]
     },
     {
-      "trip_id": "3_17595878",
+      "trip_id": "3_17699891",
       "direction_id": "0",
       "headsign": "DWORZEC GŁÓWNY (Dworcowa)",
       "service_id": "3",
@@ -31369,7 +31369,7 @@
       ]
     },
     {
-      "trip_id": "3_17595879",
+      "trip_id": "3_17699892",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "3",
@@ -31602,7 +31602,7 @@
       ]
     },
     {
-      "trip_id": "3_17595880",
+      "trip_id": "3_17699893",
       "direction_id": "0",
       "headsign": "DWORZEC GŁÓWNY (Dworcowa)",
       "service_id": "3",
@@ -31826,7 +31826,7 @@
       ]
     },
     {
-      "trip_id": "3_17595881",
+      "trip_id": "3_17699894",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "3",
@@ -32059,7 +32059,7 @@
       ]
     },
     {
-      "trip_id": "3_17595882",
+      "trip_id": "3_17699895",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "3",
@@ -32265,7 +32265,7 @@
       ]
     },
     {
-      "trip_id": "3_17595883",
+      "trip_id": "3_17699896",
       "direction_id": "0",
       "headsign": "DWORZEC GŁÓWNY (Dworcowa)",
       "service_id": "3",
@@ -32372,7 +32372,7 @@
         {
           "stop_sequence": 11,
           "stop_id": "546",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 05",
           "arrival_time": "08:45:00",
           "departure_time": "08:45:00",
           "lat": 51.10740171,
@@ -32399,7 +32399,7 @@
       ]
     },
     {
-      "trip_id": "3_17595884",
+      "trip_id": "3_17699897",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "3",
@@ -32632,7 +32632,7 @@
       ]
     },
     {
-      "trip_id": "3_17595885",
+      "trip_id": "3_17699898",
       "direction_id": "0",
       "headsign": "DWORZEC GŁÓWNY (Dworcowa)",
       "service_id": "3",
@@ -32856,7 +32856,7 @@
       ]
     },
     {
-      "trip_id": "3_17595886",
+      "trip_id": "3_17699899",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "3",
@@ -33089,7 +33089,7 @@
       ]
     },
     {
-      "trip_id": "3_17595887",
+      "trip_id": "3_17699900",
       "direction_id": "0",
       "headsign": "DWORZEC GŁÓWNY (Dworcowa)",
       "service_id": "3",
@@ -33313,7 +33313,7 @@
       ]
     },
     {
-      "trip_id": "3_17595888",
+      "trip_id": "3_17699901",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "3",
@@ -33546,7 +33546,7 @@
       ]
     },
     {
-      "trip_id": "3_17595889",
+      "trip_id": "3_17699902",
       "direction_id": "0",
       "headsign": "DWORZEC GŁÓWNY (Dworcowa)",
       "service_id": "3",
@@ -33770,7 +33770,7 @@
       ]
     },
     {
-      "trip_id": "3_17595890",
+      "trip_id": "3_17699903",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "3",
@@ -34003,7 +34003,7 @@
       ]
     },
     {
-      "trip_id": "3_17595891",
+      "trip_id": "3_17699904",
       "direction_id": "0",
       "headsign": "DWORZEC GŁÓWNY (Dworcowa)",
       "service_id": "3",
@@ -34227,7 +34227,7 @@
       ]
     },
     {
-      "trip_id": "3_17595892",
+      "trip_id": "3_17699905",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "3",
@@ -34460,7 +34460,7 @@
       ]
     },
     {
-      "trip_id": "3_17595893",
+      "trip_id": "3_17699906",
       "direction_id": "0",
       "headsign": "DWORZEC GŁÓWNY (Dworcowa)",
       "service_id": "3",
@@ -34684,7 +34684,7 @@
       ]
     },
     {
-      "trip_id": "3_17595894",
+      "trip_id": "3_17699907",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "3",
@@ -34917,7 +34917,7 @@
       ]
     },
     {
-      "trip_id": "3_17595895",
+      "trip_id": "3_17699908",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "3",
@@ -35123,7 +35123,7 @@
       ]
     },
     {
-      "trip_id": "3_17598869",
+      "trip_id": "3_17702882",
       "direction_id": "0",
       "headsign": "DWORZEC GŁÓWNY (Dworcowa)",
       "service_id": "3",
@@ -35230,7 +35230,7 @@
         {
           "stop_sequence": 11,
           "stop_id": "546",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 05",
           "arrival_time": "22:09:00",
           "departure_time": "22:09:00",
           "lat": 51.10740171,
@@ -35257,7 +35257,7 @@
       ]
     },
     {
-      "trip_id": "3_17598870",
+      "trip_id": "3_17702883",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "3",
@@ -35490,7 +35490,7 @@
       ]
     },
     {
-      "trip_id": "3_17598871",
+      "trip_id": "3_17702884",
       "direction_id": "0",
       "headsign": "DWORZEC AUTOBUSOWY",
       "service_id": "3",
@@ -35741,7 +35741,7 @@
       ]
     },
     {
-      "trip_id": "3_17598877",
+      "trip_id": "3_17702890",
       "direction_id": "0",
       "headsign": "DWORZEC GŁÓWNY (Dworcowa)",
       "service_id": "3",
@@ -35848,7 +35848,7 @@
         {
           "stop_sequence": 11,
           "stop_id": "546",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 05",
           "arrival_time": "21:35:00",
           "departure_time": "21:35:00",
           "lat": 51.10740171,
@@ -35875,7 +35875,7 @@
       ]
     },
     {
-      "trip_id": "3_17598878",
+      "trip_id": "3_17702891",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "3",
@@ -36108,7 +36108,7 @@
       ]
     },
     {
-      "trip_id": "3_17598879",
+      "trip_id": "3_17702892",
       "direction_id": "0",
       "headsign": "DWORZEC GŁÓWNY (Dworcowa)",
       "service_id": "3",
@@ -36332,7 +36332,7 @@
       ]
     },
     {
-      "trip_id": "3_17598880",
+      "trip_id": "3_17702893",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "3",
@@ -36565,7 +36565,7 @@
       ]
     },
     {
-      "trip_id": "4_17600294",
+      "trip_id": "4_17704307",
       "direction_id": "0",
       "headsign": "DWORZEC GŁÓWNY (Dworcowa)",
       "service_id": "4",
@@ -36672,7 +36672,7 @@
         {
           "stop_sequence": 11,
           "stop_id": "546",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 05",
           "arrival_time": "05:40:00",
           "departure_time": "05:40:00",
           "lat": 51.10740171,
@@ -36699,7 +36699,7 @@
       ]
     },
     {
-      "trip_id": "4_17600295",
+      "trip_id": "4_17704308",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "4",
@@ -36932,7 +36932,7 @@
       ]
     },
     {
-      "trip_id": "4_17600296",
+      "trip_id": "4_17704309",
       "direction_id": "0",
       "headsign": "DWORZEC GŁÓWNY (Dworcowa)",
       "service_id": "4",
@@ -37156,7 +37156,7 @@
       ]
     },
     {
-      "trip_id": "4_17600297",
+      "trip_id": "4_17704310",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "4",
@@ -37389,7 +37389,7 @@
       ]
     },
     {
-      "trip_id": "4_17600298",
+      "trip_id": "4_17704311",
       "direction_id": "0",
       "headsign": "DWORZEC GŁÓWNY (Dworcowa)",
       "service_id": "4",
@@ -37613,7 +37613,7 @@
       ]
     },
     {
-      "trip_id": "4_17600299",
+      "trip_id": "4_17704312",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "4",
@@ -37846,7 +37846,7 @@
       ]
     },
     {
-      "trip_id": "4_17600300",
+      "trip_id": "4_17704313",
       "direction_id": "0",
       "headsign": "DWORZEC GŁÓWNY (Dworcowa)",
       "service_id": "4",
@@ -38070,7 +38070,7 @@
       ]
     },
     {
-      "trip_id": "4_17600301",
+      "trip_id": "4_17704314",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "4",
@@ -38303,7 +38303,7 @@
       ]
     },
     {
-      "trip_id": "4_17600302",
+      "trip_id": "4_17704315",
       "direction_id": "0",
       "headsign": "DWORZEC GŁÓWNY (Dworcowa)",
       "service_id": "4",
@@ -38527,7 +38527,7 @@
       ]
     },
     {
-      "trip_id": "4_17600303",
+      "trip_id": "4_17704316",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "4",
@@ -38760,7 +38760,7 @@
       ]
     },
     {
-      "trip_id": "4_17600304",
+      "trip_id": "4_17704317",
       "direction_id": "0",
       "headsign": "DWORZEC GŁÓWNY (Dworcowa)",
       "service_id": "4",
@@ -38984,7 +38984,7 @@
       ]
     },
     {
-      "trip_id": "4_17600305",
+      "trip_id": "4_17704318",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "4",
@@ -39217,7 +39217,7 @@
       ]
     },
     {
-      "trip_id": "4_17600306",
+      "trip_id": "4_17704319",
       "direction_id": "0",
       "headsign": "DWORZEC GŁÓWNY (Dworcowa)",
       "service_id": "4",
@@ -39441,7 +39441,7 @@
       ]
     },
     {
-      "trip_id": "4_17600307",
+      "trip_id": "4_17704320",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "4",
@@ -39674,7 +39674,7 @@
       ]
     },
     {
-      "trip_id": "4_17600308",
+      "trip_id": "4_17704321",
       "direction_id": "0",
       "headsign": "DWORZEC GŁÓWNY (Dworcowa)",
       "service_id": "4",
@@ -39898,7 +39898,7 @@
       ]
     },
     {
-      "trip_id": "4_17600309",
+      "trip_id": "4_17704322",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "4",
@@ -40131,7 +40131,7 @@
       ]
     },
     {
-      "trip_id": "4_17600310",
+      "trip_id": "4_17704323",
       "direction_id": "0",
       "headsign": "DWORZEC GŁÓWNY (Dworcowa)",
       "service_id": "4",
@@ -40355,7 +40355,7 @@
       ]
     },
     {
-      "trip_id": "4_17600311",
+      "trip_id": "4_17704324",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "4",
@@ -40588,7 +40588,7 @@
       ]
     },
     {
-      "trip_id": "4_17600312",
+      "trip_id": "4_17704325",
       "direction_id": "0",
       "headsign": "DWORZEC GŁÓWNY (Dworcowa)",
       "service_id": "4",
@@ -40812,7 +40812,7 @@
       ]
     },
     {
-      "trip_id": "4_17600313",
+      "trip_id": "4_17704326",
       "direction_id": "1",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "4",
@@ -40838,7 +40838,7 @@
         {
           "stop_sequence": 2,
           "stop_id": "547",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 04",
           "arrival_time": "22:52:00",
           "departure_time": "22:52:00",
           "lat": 51.10801936,
@@ -40937,7 +40937,7 @@
       ]
     },
     {
-      "trip_id": "4_17600314",
+      "trip_id": "4_17704327",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "4",
@@ -41134,7 +41134,7 @@
       ]
     },
     {
-      "trip_id": "4_17600315",
+      "trip_id": "4_17704328",
       "direction_id": "0",
       "headsign": "DWORZEC GŁÓWNY (Dworcowa)",
       "service_id": "4",
@@ -41358,7 +41358,7 @@
       ]
     },
     {
-      "trip_id": "4_17600316",
+      "trip_id": "4_17704329",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "4",
@@ -41591,7 +41591,7 @@
       ]
     },
     {
-      "trip_id": "4_17600317",
+      "trip_id": "4_17704330",
       "direction_id": "0",
       "headsign": "DWORZEC GŁÓWNY (Dworcowa)",
       "service_id": "4",
@@ -41815,7 +41815,7 @@
       ]
     },
     {
-      "trip_id": "4_17600318",
+      "trip_id": "4_17704331",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "4",
@@ -42048,7 +42048,7 @@
       ]
     },
     {
-      "trip_id": "4_17600319",
+      "trip_id": "4_17704332",
       "direction_id": "0",
       "headsign": "DWORZEC GŁÓWNY (Dworcowa)",
       "service_id": "4",
@@ -42272,7 +42272,7 @@
       ]
     },
     {
-      "trip_id": "4_17600320",
+      "trip_id": "4_17704333",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "4",
@@ -42505,7 +42505,7 @@
       ]
     },
     {
-      "trip_id": "4_17600321",
+      "trip_id": "4_17704334",
       "direction_id": "0",
       "headsign": "DWORZEC GŁÓWNY (Dworcowa)",
       "service_id": "4",
@@ -42729,7 +42729,7 @@
       ]
     },
     {
-      "trip_id": "4_17600322",
+      "trip_id": "4_17704335",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "4",
@@ -42962,7 +42962,7 @@
       ]
     },
     {
-      "trip_id": "4_17600323",
+      "trip_id": "4_17704336",
       "direction_id": "0",
       "headsign": "DWORZEC GŁÓWNY (Dworcowa)",
       "service_id": "4",
@@ -43186,7 +43186,7 @@
       ]
     },
     {
-      "trip_id": "4_17600324",
+      "trip_id": "4_17704337",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "4",
@@ -43419,7 +43419,7 @@
       ]
     },
     {
-      "trip_id": "4_17600325",
+      "trip_id": "4_17704338",
       "direction_id": "0",
       "headsign": "DWORZEC GŁÓWNY (Dworcowa)",
       "service_id": "4",
@@ -43643,7 +43643,7 @@
       ]
     },
     {
-      "trip_id": "4_17600326",
+      "trip_id": "4_17704339",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "4",
@@ -43876,7 +43876,7 @@
       ]
     },
     {
-      "trip_id": "4_17600327",
+      "trip_id": "4_17704340",
       "direction_id": "0",
       "headsign": "DWORZEC GŁÓWNY (Dworcowa)",
       "service_id": "4",
@@ -44100,7 +44100,7 @@
       ]
     },
     {
-      "trip_id": "4_17600328",
+      "trip_id": "4_17704341",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "4",
@@ -44333,7 +44333,7 @@
       ]
     },
     {
-      "trip_id": "4_17600329",
+      "trip_id": "4_17704342",
       "direction_id": "0",
       "headsign": "DWORZEC GŁÓWNY (Dworcowa)",
       "service_id": "4",
@@ -44557,7 +44557,7 @@
       ]
     },
     {
-      "trip_id": "4_17600330",
+      "trip_id": "4_17704343",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "4",
@@ -44790,7 +44790,7 @@
       ]
     },
     {
-      "trip_id": "4_17600331",
+      "trip_id": "4_17704344",
       "direction_id": "0",
       "headsign": "DWORZEC GŁÓWNY (Dworcowa)",
       "service_id": "4",
@@ -45014,7 +45014,7 @@
       ]
     },
     {
-      "trip_id": "4_17600332",
+      "trip_id": "4_17704345",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "4",
@@ -45247,7 +45247,7 @@
       ]
     },
     {
-      "trip_id": "4_17600333",
+      "trip_id": "4_17704346",
       "direction_id": "0",
       "headsign": "DWORZEC GŁÓWNY (Dworcowa)",
       "service_id": "4",
@@ -45471,7 +45471,7 @@
       ]
     },
     {
-      "trip_id": "4_17600334",
+      "trip_id": "4_17704347",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "4",
@@ -45704,7 +45704,7 @@
       ]
     },
     {
-      "trip_id": "4_17600335",
+      "trip_id": "4_17704348",
       "direction_id": "0",
       "headsign": "DWORZEC GŁÓWNY (Dworcowa)",
       "service_id": "4",
@@ -45928,7 +45928,7 @@
       ]
     },
     {
-      "trip_id": "4_17600336",
+      "trip_id": "4_17704349",
       "direction_id": "1",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "4",
@@ -45954,7 +45954,7 @@
         {
           "stop_sequence": 2,
           "stop_id": "547",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 04",
           "arrival_time": "24:20:00",
           "departure_time": "24:20:00",
           "lat": 51.10801936,
@@ -46053,7 +46053,7 @@
       ]
     },
     {
-      "trip_id": "4_17600337",
+      "trip_id": "4_17704350",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "4",
@@ -46250,7 +46250,7 @@
       ]
     },
     {
-      "trip_id": "4_17600338",
+      "trip_id": "4_17704351",
       "direction_id": "0",
       "headsign": "DWORZEC GŁÓWNY (Dworcowa)",
       "service_id": "4",
@@ -46474,7 +46474,7 @@
       ]
     },
     {
-      "trip_id": "4_17600339",
+      "trip_id": "4_17704352",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "4",
@@ -46707,7 +46707,7 @@
       ]
     },
     {
-      "trip_id": "4_17600340",
+      "trip_id": "4_17704353",
       "direction_id": "0",
       "headsign": "DWORZEC GŁÓWNY (Dworcowa)",
       "service_id": "4",
@@ -46931,7 +46931,7 @@
       ]
     },
     {
-      "trip_id": "4_17600341",
+      "trip_id": "4_17704354",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "4",
@@ -47164,7 +47164,7 @@
       ]
     },
     {
-      "trip_id": "4_17600342",
+      "trip_id": "4_17704355",
       "direction_id": "0",
       "headsign": "DWORZEC GŁÓWNY (Dworcowa)",
       "service_id": "4",
@@ -47388,7 +47388,7 @@
       ]
     },
     {
-      "trip_id": "4_17600343",
+      "trip_id": "4_17704356",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "4",
@@ -47621,7 +47621,7 @@
       ]
     },
     {
-      "trip_id": "4_17600344",
+      "trip_id": "4_17704357",
       "direction_id": "0",
       "headsign": "DWORZEC GŁÓWNY (Dworcowa)",
       "service_id": "4",
@@ -47845,7 +47845,7 @@
       ]
     },
     {
-      "trip_id": "4_17600345",
+      "trip_id": "4_17704358",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "4",
@@ -48078,7 +48078,7 @@
       ]
     },
     {
-      "trip_id": "4_17600346",
+      "trip_id": "4_17704359",
       "direction_id": "0",
       "headsign": "DWORZEC GŁÓWNY (Dworcowa)",
       "service_id": "4",
@@ -48302,7 +48302,7 @@
       ]
     },
     {
-      "trip_id": "4_17600347",
+      "trip_id": "4_17704360",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "4",
@@ -48535,7 +48535,7 @@
       ]
     },
     {
-      "trip_id": "4_17600348",
+      "trip_id": "4_17704361",
       "direction_id": "0",
       "headsign": "DWORZEC GŁÓWNY (Dworcowa)",
       "service_id": "4",
@@ -48759,7 +48759,7 @@
       ]
     },
     {
-      "trip_id": "4_17600349",
+      "trip_id": "4_17704362",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "4",
@@ -48992,7 +48992,7 @@
       ]
     },
     {
-      "trip_id": "4_17600350",
+      "trip_id": "4_17704363",
       "direction_id": "0",
       "headsign": "DWORZEC GŁÓWNY (Dworcowa)",
       "service_id": "4",
@@ -49216,7 +49216,7 @@
       ]
     },
     {
-      "trip_id": "4_17600351",
+      "trip_id": "4_17704364",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "4",
@@ -49449,7 +49449,7 @@
       ]
     },
     {
-      "trip_id": "4_17600352",
+      "trip_id": "4_17704365",
       "direction_id": "0",
       "headsign": "DWORZEC GŁÓWNY (Dworcowa)",
       "service_id": "4",
@@ -49673,7 +49673,7 @@
       ]
     },
     {
-      "trip_id": "4_17600353",
+      "trip_id": "4_17704366",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "4",
@@ -49906,7 +49906,7 @@
       ]
     },
     {
-      "trip_id": "4_17600354",
+      "trip_id": "4_17704367",
       "direction_id": "0",
       "headsign": "DWORZEC GŁÓWNY (Dworcowa)",
       "service_id": "4",
@@ -50130,7 +50130,7 @@
       ]
     },
     {
-      "trip_id": "4_17600355",
+      "trip_id": "4_17704368",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "4",
@@ -50363,7 +50363,7 @@
       ]
     },
     {
-      "trip_id": "4_17600356",
+      "trip_id": "4_17704369",
       "direction_id": "0",
       "headsign": "DWORZEC GŁÓWNY (Dworcowa)",
       "service_id": "4",
@@ -50587,7 +50587,7 @@
       ]
     },
     {
-      "trip_id": "4_17600357",
+      "trip_id": "4_17704370",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "4",
@@ -50820,7 +50820,7 @@
       ]
     },
     {
-      "trip_id": "4_17600358",
+      "trip_id": "4_17704371",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "4",
@@ -51026,7 +51026,7 @@
       ]
     },
     {
-      "trip_id": "4_17600359",
+      "trip_id": "4_17704372",
       "direction_id": "0",
       "headsign": "DWORZEC GŁÓWNY (Dworcowa)",
       "service_id": "4",
@@ -51133,7 +51133,7 @@
         {
           "stop_sequence": 11,
           "stop_id": "546",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 05",
           "arrival_time": "04:46:00",
           "departure_time": "04:46:00",
           "lat": 51.10740171,
@@ -51160,7 +51160,7 @@
       ]
     },
     {
-      "trip_id": "4_17600360",
+      "trip_id": "4_17704373",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "4",
@@ -51393,7 +51393,7 @@
       ]
     },
     {
-      "trip_id": "4_17600361",
+      "trip_id": "4_17704374",
       "direction_id": "0",
       "headsign": "DWORZEC GŁÓWNY (Dworcowa)",
       "service_id": "4",
@@ -51617,7 +51617,7 @@
       ]
     },
     {
-      "trip_id": "4_17600362",
+      "trip_id": "4_17704375",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "4",
@@ -51850,7 +51850,7 @@
       ]
     },
     {
-      "trip_id": "4_17600363",
+      "trip_id": "4_17704376",
       "direction_id": "0",
       "headsign": "DWORZEC GŁÓWNY (Dworcowa)",
       "service_id": "4",
@@ -52074,7 +52074,7 @@
       ]
     },
     {
-      "trip_id": "4_17600364",
+      "trip_id": "4_17704377",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "4",
@@ -52307,7 +52307,7 @@
       ]
     },
     {
-      "trip_id": "4_17600365",
+      "trip_id": "4_17704378",
       "direction_id": "0",
       "headsign": "DWORZEC GŁÓWNY (Dworcowa)",
       "service_id": "4",
@@ -52531,7 +52531,7 @@
       ]
     },
     {
-      "trip_id": "4_17600366",
+      "trip_id": "4_17704379",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "4",
@@ -52764,7 +52764,7 @@
       ]
     },
     {
-      "trip_id": "4_17600367",
+      "trip_id": "4_17704380",
       "direction_id": "0",
       "headsign": "DWORZEC GŁÓWNY (Dworcowa)",
       "service_id": "4",
@@ -52988,7 +52988,7 @@
       ]
     },
     {
-      "trip_id": "4_17600368",
+      "trip_id": "4_17704381",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "4",
@@ -53221,7 +53221,7 @@
       ]
     },
     {
-      "trip_id": "4_17600369",
+      "trip_id": "4_17704382",
       "direction_id": "0",
       "headsign": "DWORZEC GŁÓWNY (Dworcowa)",
       "service_id": "4",
@@ -53445,7 +53445,7 @@
       ]
     },
     {
-      "trip_id": "4_17600370",
+      "trip_id": "4_17704383",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "4",
@@ -53678,7 +53678,7 @@
       ]
     },
     {
-      "trip_id": "4_17600371",
+      "trip_id": "4_17704384",
       "direction_id": "0",
       "headsign": "DWORZEC GŁÓWNY (Dworcowa)",
       "service_id": "4",
@@ -53902,7 +53902,7 @@
       ]
     },
     {
-      "trip_id": "4_17600372",
+      "trip_id": "4_17704385",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "4",
@@ -54135,7 +54135,7 @@
       ]
     },
     {
-      "trip_id": "4_17600373",
+      "trip_id": "4_17704386",
       "direction_id": "0",
       "headsign": "DWORZEC GŁÓWNY (Dworcowa)",
       "service_id": "4",
@@ -54359,7 +54359,7 @@
       ]
     },
     {
-      "trip_id": "4_17600374",
+      "trip_id": "4_17704387",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "4",
@@ -54592,7 +54592,7 @@
       ]
     },
     {
-      "trip_id": "4_17600375",
+      "trip_id": "4_17704388",
       "direction_id": "0",
       "headsign": "DWORZEC GŁÓWNY (Dworcowa)",
       "service_id": "4",
@@ -54816,7 +54816,7 @@
       ]
     },
     {
-      "trip_id": "4_17600376",
+      "trip_id": "4_17704389",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "4",
@@ -55049,7 +55049,7 @@
       ]
     },
     {
-      "trip_id": "4_17600377",
+      "trip_id": "4_17704390",
       "direction_id": "0",
       "headsign": "DWORZEC GŁÓWNY (Dworcowa)",
       "service_id": "4",
@@ -55273,7 +55273,7 @@
       ]
     },
     {
-      "trip_id": "4_17600378",
+      "trip_id": "4_17704391",
       "direction_id": "1",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "4",
@@ -55299,7 +55299,7 @@
         {
           "stop_sequence": 2,
           "stop_id": "547",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 04",
           "arrival_time": "21:51:00",
           "departure_time": "21:51:00",
           "lat": 51.10801936,
@@ -55398,7 +55398,7 @@
       ]
     },
     {
-      "trip_id": "4_17600379",
+      "trip_id": "4_17704392",
       "direction_id": "0",
       "headsign": "DWORZEC GŁÓWNY (Dworcowa)",
       "service_id": "4",
@@ -55505,7 +55505,7 @@
         {
           "stop_sequence": 11,
           "stop_id": "546",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 05",
           "arrival_time": "05:06:00",
           "departure_time": "05:06:00",
           "lat": 51.10740171,
@@ -55532,7 +55532,7 @@
       ]
     },
     {
-      "trip_id": "4_17600380",
+      "trip_id": "4_17704393",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "4",
@@ -55765,7 +55765,7 @@
       ]
     },
     {
-      "trip_id": "4_17600381",
+      "trip_id": "4_17704394",
       "direction_id": "0",
       "headsign": "DWORZEC GŁÓWNY (Dworcowa)",
       "service_id": "4",
@@ -55989,7 +55989,7 @@
       ]
     },
     {
-      "trip_id": "4_17600382",
+      "trip_id": "4_17704395",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "4",
@@ -56222,7 +56222,7 @@
       ]
     },
     {
-      "trip_id": "4_17600383",
+      "trip_id": "4_17704396",
       "direction_id": "0",
       "headsign": "DWORZEC GŁÓWNY (Dworcowa)",
       "service_id": "4",
@@ -56446,7 +56446,7 @@
       ]
     },
     {
-      "trip_id": "4_17600384",
+      "trip_id": "4_17704397",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "4",
@@ -56679,7 +56679,7 @@
       ]
     },
     {
-      "trip_id": "4_17600385",
+      "trip_id": "4_17704398",
       "direction_id": "0",
       "headsign": "DWORZEC GŁÓWNY (Dworcowa)",
       "service_id": "4",
@@ -56903,7 +56903,7 @@
       ]
     },
     {
-      "trip_id": "4_17600386",
+      "trip_id": "4_17704399",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "4",
@@ -57136,7 +57136,7 @@
       ]
     },
     {
-      "trip_id": "4_17600387",
+      "trip_id": "4_17704400",
       "direction_id": "0",
       "headsign": "DWORZEC GŁÓWNY (Dworcowa)",
       "service_id": "4",
@@ -57360,7 +57360,7 @@
       ]
     },
     {
-      "trip_id": "4_17600388",
+      "trip_id": "4_17704401",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "4",
@@ -57593,7 +57593,7 @@
       ]
     },
     {
-      "trip_id": "4_17600389",
+      "trip_id": "4_17704402",
       "direction_id": "0",
       "headsign": "DWORZEC GŁÓWNY (Dworcowa)",
       "service_id": "4",
@@ -57817,7 +57817,7 @@
       ]
     },
     {
-      "trip_id": "4_17600390",
+      "trip_id": "4_17704403",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "4",
@@ -58050,7 +58050,7 @@
       ]
     },
     {
-      "trip_id": "4_17600391",
+      "trip_id": "4_17704404",
       "direction_id": "0",
       "headsign": "DWORZEC GŁÓWNY (Dworcowa)",
       "service_id": "4",
@@ -58274,7 +58274,7 @@
       ]
     },
     {
-      "trip_id": "4_17600392",
+      "trip_id": "4_17704405",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "4",
@@ -58507,7 +58507,7 @@
       ]
     },
     {
-      "trip_id": "4_17600393",
+      "trip_id": "4_17704406",
       "direction_id": "0",
       "headsign": "DWORZEC GŁÓWNY (Dworcowa)",
       "service_id": "4",
@@ -58731,7 +58731,7 @@
       ]
     },
     {
-      "trip_id": "4_17600394",
+      "trip_id": "4_17704407",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "4",
@@ -58964,7 +58964,7 @@
       ]
     },
     {
-      "trip_id": "4_17600395",
+      "trip_id": "4_17704408",
       "direction_id": "0",
       "headsign": "DWORZEC GŁÓWNY (Dworcowa)",
       "service_id": "4",
@@ -59188,7 +59188,7 @@
       ]
     },
     {
-      "trip_id": "4_17600396",
+      "trip_id": "4_17704409",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "4",
@@ -59421,7 +59421,7 @@
       ]
     },
     {
-      "trip_id": "4_17600397",
+      "trip_id": "4_17704410",
       "direction_id": "0",
       "headsign": "DWORZEC GŁÓWNY (Dworcowa)",
       "service_id": "4",
@@ -59645,7 +59645,7 @@
       ]
     },
     {
-      "trip_id": "4_17600398",
+      "trip_id": "4_17704411",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "4",
@@ -59878,7 +59878,7 @@
       ]
     },
     {
-      "trip_id": "4_17600399",
+      "trip_id": "4_17704412",
       "direction_id": "0",
       "headsign": "DWORZEC GŁÓWNY (Dworcowa)",
       "service_id": "4",
@@ -60102,7 +60102,7 @@
       ]
     },
     {
-      "trip_id": "4_17600400",
+      "trip_id": "4_17704413",
       "direction_id": "1",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "4",
@@ -60128,7 +60128,7 @@
         {
           "stop_sequence": 2,
           "stop_id": "547",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 04",
           "arrival_time": "23:36:00",
           "departure_time": "23:36:00",
           "lat": 51.10801936,
@@ -60227,7 +60227,7 @@
       ]
     },
     {
-      "trip_id": "4_17600401",
+      "trip_id": "4_17704414",
       "direction_id": "0",
       "headsign": "DWORZEC GŁÓWNY (Dworcowa)",
       "service_id": "4",
@@ -60334,7 +60334,7 @@
         {
           "stop_sequence": 11,
           "stop_id": "546",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 05",
           "arrival_time": "05:25:00",
           "departure_time": "05:25:00",
           "lat": 51.10740171,
@@ -60361,7 +60361,7 @@
       ]
     },
     {
-      "trip_id": "4_17600402",
+      "trip_id": "4_17704415",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "4",
@@ -60594,7 +60594,7 @@
       ]
     },
     {
-      "trip_id": "4_17600403",
+      "trip_id": "4_17704416",
       "direction_id": "0",
       "headsign": "DWORZEC GŁÓWNY (Dworcowa)",
       "service_id": "4",
@@ -60818,7 +60818,7 @@
       ]
     },
     {
-      "trip_id": "4_17600404",
+      "trip_id": "4_17704417",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "4",
@@ -61051,7 +61051,7 @@
       ]
     },
     {
-      "trip_id": "4_17600405",
+      "trip_id": "4_17704418",
       "direction_id": "0",
       "headsign": "DWORZEC GŁÓWNY (Dworcowa)",
       "service_id": "4",
@@ -61275,7 +61275,7 @@
       ]
     },
     {
-      "trip_id": "4_17600406",
+      "trip_id": "4_17704419",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "4",
@@ -61508,7 +61508,7 @@
       ]
     },
     {
-      "trip_id": "4_17600407",
+      "trip_id": "4_17704420",
       "direction_id": "0",
       "headsign": "DWORZEC GŁÓWNY (Dworcowa)",
       "service_id": "4",
@@ -61732,7 +61732,7 @@
       ]
     },
     {
-      "trip_id": "4_17600408",
+      "trip_id": "4_17704421",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "4",
@@ -61965,7 +61965,7 @@
       ]
     },
     {
-      "trip_id": "4_17600409",
+      "trip_id": "4_17704422",
       "direction_id": "0",
       "headsign": "DWORZEC GŁÓWNY (Dworcowa)",
       "service_id": "4",
@@ -62189,7 +62189,7 @@
       ]
     },
     {
-      "trip_id": "4_17600410",
+      "trip_id": "4_17704423",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "4",
@@ -62422,7 +62422,7 @@
       ]
     },
     {
-      "trip_id": "4_17600411",
+      "trip_id": "4_17704424",
       "direction_id": "0",
       "headsign": "DWORZEC GŁÓWNY (Dworcowa)",
       "service_id": "4",
@@ -62646,7 +62646,7 @@
       ]
     },
     {
-      "trip_id": "4_17600412",
+      "trip_id": "4_17704425",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "4",
@@ -62879,7 +62879,7 @@
       ]
     },
     {
-      "trip_id": "4_17600413",
+      "trip_id": "4_17704426",
       "direction_id": "0",
       "headsign": "DWORZEC GŁÓWNY (Dworcowa)",
       "service_id": "4",
@@ -63103,7 +63103,7 @@
       ]
     },
     {
-      "trip_id": "4_17600414",
+      "trip_id": "4_17704427",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "4",
@@ -63336,7 +63336,7 @@
       ]
     },
     {
-      "trip_id": "4_17600415",
+      "trip_id": "4_17704428",
       "direction_id": "0",
       "headsign": "DWORZEC GŁÓWNY (Dworcowa)",
       "service_id": "4",
@@ -63560,7 +63560,7 @@
       ]
     },
     {
-      "trip_id": "4_17600416",
+      "trip_id": "4_17704429",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "4",
@@ -63793,7 +63793,7 @@
       ]
     },
     {
-      "trip_id": "4_17600417",
+      "trip_id": "4_17704430",
       "direction_id": "0",
       "headsign": "DWORZEC GŁÓWNY (Dworcowa)",
       "service_id": "4",
@@ -64017,7 +64017,7 @@
       ]
     },
     {
-      "trip_id": "4_17600418",
+      "trip_id": "4_17704431",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "4",
@@ -64250,7 +64250,7 @@
       ]
     },
     {
-      "trip_id": "4_17600419",
+      "trip_id": "4_17704432",
       "direction_id": "0",
       "headsign": "DWORZEC GŁÓWNY (Dworcowa)",
       "service_id": "4",
@@ -64474,7 +64474,7 @@
       ]
     },
     {
-      "trip_id": "4_17600420",
+      "trip_id": "4_17704433",
       "direction_id": "1",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "4",
@@ -64500,7 +64500,7 @@
         {
           "stop_sequence": 2,
           "stop_id": "547",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 04",
           "arrival_time": "22:22:00",
           "departure_time": "22:22:00",
           "lat": 51.10801936,
@@ -64599,7 +64599,7 @@
       ]
     },
     {
-      "trip_id": "4_17600421",
+      "trip_id": "4_17704434",
       "direction_id": "0",
       "headsign": "DWORZEC GŁÓWNY (Dworcowa)",
       "service_id": "4",
@@ -64706,7 +64706,7 @@
         {
           "stop_sequence": 11,
           "stop_id": "546",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 05",
           "arrival_time": "06:55:00",
           "departure_time": "06:55:00",
           "lat": 51.10740171,
@@ -64733,7 +64733,7 @@
       ]
     },
     {
-      "trip_id": "4_17600422",
+      "trip_id": "4_17704435",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "4",
@@ -64966,7 +64966,7 @@
       ]
     },
     {
-      "trip_id": "4_17600423",
+      "trip_id": "4_17704436",
       "direction_id": "0",
       "headsign": "DWORZEC GŁÓWNY (Dworcowa)",
       "service_id": "4",
@@ -65190,7 +65190,7 @@
       ]
     },
     {
-      "trip_id": "4_17600424",
+      "trip_id": "4_17704437",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "4",
@@ -65423,7 +65423,7 @@
       ]
     },
     {
-      "trip_id": "4_17600425",
+      "trip_id": "4_17704438",
       "direction_id": "0",
       "headsign": "DWORZEC GŁÓWNY (Dworcowa)",
       "service_id": "4",
@@ -65647,7 +65647,7 @@
       ]
     },
     {
-      "trip_id": "4_17600426",
+      "trip_id": "4_17704439",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "4",
@@ -65880,7 +65880,7 @@
       ]
     },
     {
-      "trip_id": "4_17600427",
+      "trip_id": "4_17704440",
       "direction_id": "0",
       "headsign": "DWORZEC GŁÓWNY (Dworcowa)",
       "service_id": "4",
@@ -66104,7 +66104,7 @@
       ]
     },
     {
-      "trip_id": "4_17600428",
+      "trip_id": "4_17704441",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "4",
@@ -66337,7 +66337,7 @@
       ]
     },
     {
-      "trip_id": "4_17600429",
+      "trip_id": "4_17704442",
       "direction_id": "0",
       "headsign": "DWORZEC GŁÓWNY (Dworcowa)",
       "service_id": "4",
@@ -66561,7 +66561,7 @@
       ]
     },
     {
-      "trip_id": "4_17600430",
+      "trip_id": "4_17704443",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "4",
@@ -66794,7 +66794,7 @@
       ]
     },
     {
-      "trip_id": "4_17600431",
+      "trip_id": "4_17704444",
       "direction_id": "0",
       "headsign": "DWORZEC GŁÓWNY (Dworcowa)",
       "service_id": "4",
@@ -67018,7 +67018,7 @@
       ]
     },
     {
-      "trip_id": "4_17600432",
+      "trip_id": "4_17704445",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "4",
@@ -67251,7 +67251,7 @@
       ]
     },
     {
-      "trip_id": "4_17600433",
+      "trip_id": "4_17704446",
       "direction_id": "0",
       "headsign": "DWORZEC GŁÓWNY (Dworcowa)",
       "service_id": "4",
@@ -67475,7 +67475,7 @@
       ]
     },
     {
-      "trip_id": "4_17600434",
+      "trip_id": "4_17704447",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "4",
@@ -67708,7 +67708,7 @@
       ]
     },
     {
-      "trip_id": "4_17600435",
+      "trip_id": "4_17704448",
       "direction_id": "0",
       "headsign": "DWORZEC GŁÓWNY (Dworcowa)",
       "service_id": "4",
@@ -67932,7 +67932,7 @@
       ]
     },
     {
-      "trip_id": "4_17600436",
+      "trip_id": "4_17704449",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "4",
@@ -68165,7 +68165,7 @@
       ]
     },
     {
-      "trip_id": "4_17600437",
+      "trip_id": "4_17704450",
       "direction_id": "0",
       "headsign": "DWORZEC GŁÓWNY (Dworcowa)",
       "service_id": "4",
@@ -68389,7 +68389,7 @@
       ]
     },
     {
-      "trip_id": "4_17600438",
+      "trip_id": "4_17704451",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "4",
@@ -68622,7 +68622,7 @@
       ]
     },
     {
-      "trip_id": "4_17600439",
+      "trip_id": "4_17704452",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "4",
@@ -68828,7 +68828,7 @@
       ]
     },
     {
-      "trip_id": "4_17600440",
+      "trip_id": "4_17704453",
       "direction_id": "0",
       "headsign": "DWORZEC GŁÓWNY (Dworcowa)",
       "service_id": "4",
@@ -68935,7 +68935,7 @@
         {
           "stop_sequence": 11,
           "stop_id": "546",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 05",
           "arrival_time": "08:45:00",
           "departure_time": "08:45:00",
           "lat": 51.10740171,
@@ -68962,7 +68962,7 @@
       ]
     },
     {
-      "trip_id": "4_17600441",
+      "trip_id": "4_17704454",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "4",
@@ -69195,7 +69195,7 @@
       ]
     },
     {
-      "trip_id": "4_17600442",
+      "trip_id": "4_17704455",
       "direction_id": "0",
       "headsign": "DWORZEC GŁÓWNY (Dworcowa)",
       "service_id": "4",
@@ -69419,7 +69419,7 @@
       ]
     },
     {
-      "trip_id": "4_17600443",
+      "trip_id": "4_17704456",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "4",
@@ -69652,7 +69652,7 @@
       ]
     },
     {
-      "trip_id": "4_17600444",
+      "trip_id": "4_17704457",
       "direction_id": "0",
       "headsign": "DWORZEC GŁÓWNY (Dworcowa)",
       "service_id": "4",
@@ -69876,7 +69876,7 @@
       ]
     },
     {
-      "trip_id": "4_17600445",
+      "trip_id": "4_17704458",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "4",
@@ -70109,7 +70109,7 @@
       ]
     },
     {
-      "trip_id": "4_17600446",
+      "trip_id": "4_17704459",
       "direction_id": "0",
       "headsign": "DWORZEC GŁÓWNY (Dworcowa)",
       "service_id": "4",
@@ -70333,7 +70333,7 @@
       ]
     },
     {
-      "trip_id": "4_17600447",
+      "trip_id": "4_17704460",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "4",
@@ -70566,7 +70566,7 @@
       ]
     },
     {
-      "trip_id": "4_17600448",
+      "trip_id": "4_17704461",
       "direction_id": "0",
       "headsign": "DWORZEC GŁÓWNY (Dworcowa)",
       "service_id": "4",
@@ -70790,7 +70790,7 @@
       ]
     },
     {
-      "trip_id": "4_17600449",
+      "trip_id": "4_17704462",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "4",
@@ -71023,7 +71023,7 @@
       ]
     },
     {
-      "trip_id": "4_17600450",
+      "trip_id": "4_17704463",
       "direction_id": "0",
       "headsign": "DWORZEC GŁÓWNY (Dworcowa)",
       "service_id": "4",
@@ -71247,7 +71247,7 @@
       ]
     },
     {
-      "trip_id": "4_17600451",
+      "trip_id": "4_17704464",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "4",
@@ -71480,7 +71480,7 @@
       ]
     },
     {
-      "trip_id": "4_17600452",
+      "trip_id": "4_17704465",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "4",
@@ -71686,7 +71686,7 @@
       ]
     },
     {
-      "trip_id": "4_17603281",
+      "trip_id": "4_17707294",
       "direction_id": "0",
       "headsign": "DWORZEC GŁÓWNY (Dworcowa)",
       "service_id": "4",
@@ -71793,7 +71793,7 @@
         {
           "stop_sequence": 11,
           "stop_id": "546",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 05",
           "arrival_time": "22:09:00",
           "departure_time": "22:09:00",
           "lat": 51.10740171,
@@ -71820,7 +71820,7 @@
       ]
     },
     {
-      "trip_id": "4_17603282",
+      "trip_id": "4_17707295",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "4",
@@ -72053,7 +72053,7 @@
       ]
     },
     {
-      "trip_id": "4_17603283",
+      "trip_id": "4_17707296",
       "direction_id": "0",
       "headsign": "DWORZEC AUTOBUSOWY",
       "service_id": "4",
@@ -72304,7 +72304,7 @@
       ]
     },
     {
-      "trip_id": "4_17603289",
+      "trip_id": "4_17707302",
       "direction_id": "0",
       "headsign": "DWORZEC GŁÓWNY (Dworcowa)",
       "service_id": "4",
@@ -72411,7 +72411,7 @@
         {
           "stop_sequence": 11,
           "stop_id": "546",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 05",
           "arrival_time": "21:35:00",
           "departure_time": "21:35:00",
           "lat": 51.10740171,
@@ -72438,7 +72438,7 @@
       ]
     },
     {
-      "trip_id": "4_17603290",
+      "trip_id": "4_17707303",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "4",
@@ -72671,7 +72671,7 @@
       ]
     },
     {
-      "trip_id": "4_17603291",
+      "trip_id": "4_17707304",
       "direction_id": "0",
       "headsign": "DWORZEC GŁÓWNY (Dworcowa)",
       "service_id": "4",
@@ -72895,7 +72895,7 @@
       ]
     },
     {
-      "trip_id": "4_17603292",
+      "trip_id": "4_17707305",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "4",
@@ -73128,7 +73128,7 @@
       ]
     },
     {
-      "trip_id": "6_17604815",
+      "trip_id": "6_17708828",
       "direction_id": "0",
       "headsign": "DWORZEC GŁÓWNY (Dworcowa)",
       "service_id": "6",
@@ -73235,7 +73235,7 @@
         {
           "stop_sequence": 11,
           "stop_id": "546",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 05",
           "arrival_time": "05:00:00",
           "departure_time": "05:00:00",
           "lat": 51.10740171,
@@ -73262,7 +73262,7 @@
       ]
     },
     {
-      "trip_id": "6_17604816",
+      "trip_id": "6_17708829",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "6",
@@ -73495,7 +73495,7 @@
       ]
     },
     {
-      "trip_id": "6_17604817",
+      "trip_id": "6_17708830",
       "direction_id": "0",
       "headsign": "DWORZEC GŁÓWNY (Dworcowa)",
       "service_id": "6",
@@ -73719,7 +73719,7 @@
       ]
     },
     {
-      "trip_id": "6_17604818",
+      "trip_id": "6_17708831",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "6",
@@ -73952,7 +73952,7 @@
       ]
     },
     {
-      "trip_id": "6_17604819",
+      "trip_id": "6_17708832",
       "direction_id": "0",
       "headsign": "DWORZEC GŁÓWNY (Dworcowa)",
       "service_id": "6",
@@ -74176,7 +74176,7 @@
       ]
     },
     {
-      "trip_id": "6_17604820",
+      "trip_id": "6_17708833",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "6",
@@ -74409,7 +74409,7 @@
       ]
     },
     {
-      "trip_id": "6_17604821",
+      "trip_id": "6_17708834",
       "direction_id": "0",
       "headsign": "DWORZEC GŁÓWNY (Dworcowa)",
       "service_id": "6",
@@ -74633,7 +74633,7 @@
       ]
     },
     {
-      "trip_id": "6_17604822",
+      "trip_id": "6_17708835",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "6",
@@ -74866,7 +74866,7 @@
       ]
     },
     {
-      "trip_id": "6_17604823",
+      "trip_id": "6_17708836",
       "direction_id": "0",
       "headsign": "DWORZEC GŁÓWNY (Dworcowa)",
       "service_id": "6",
@@ -75090,7 +75090,7 @@
       ]
     },
     {
-      "trip_id": "6_17604824",
+      "trip_id": "6_17708837",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "6",
@@ -75323,7 +75323,7 @@
       ]
     },
     {
-      "trip_id": "6_17604825",
+      "trip_id": "6_17708838",
       "direction_id": "0",
       "headsign": "DWORZEC GŁÓWNY (Dworcowa)",
       "service_id": "6",
@@ -75547,7 +75547,7 @@
       ]
     },
     {
-      "trip_id": "6_17604826",
+      "trip_id": "6_17708839",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "6",
@@ -75780,7 +75780,7 @@
       ]
     },
     {
-      "trip_id": "6_17604827",
+      "trip_id": "6_17708840",
       "direction_id": "0",
       "headsign": "DWORZEC GŁÓWNY (Dworcowa)",
       "service_id": "6",
@@ -76004,7 +76004,7 @@
       ]
     },
     {
-      "trip_id": "6_17604828",
+      "trip_id": "6_17708841",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "6",
@@ -76237,7 +76237,7 @@
       ]
     },
     {
-      "trip_id": "6_17604829",
+      "trip_id": "6_17708842",
       "direction_id": "0",
       "headsign": "DWORZEC GŁÓWNY (Dworcowa)",
       "service_id": "6",
@@ -76461,7 +76461,7 @@
       ]
     },
     {
-      "trip_id": "6_17604830",
+      "trip_id": "6_17708843",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "6",
@@ -76694,7 +76694,7 @@
       ]
     },
     {
-      "trip_id": "6_17604831",
+      "trip_id": "6_17708844",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "6",
@@ -76900,7 +76900,7 @@
       ]
     },
     {
-      "trip_id": "6_17604832",
+      "trip_id": "6_17708845",
       "direction_id": "0",
       "headsign": "DWORZEC GŁÓWNY (Dworcowa)",
       "service_id": "6",
@@ -77007,7 +77007,7 @@
         {
           "stop_sequence": 11,
           "stop_id": "546",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 05",
           "arrival_time": "05:26:00",
           "departure_time": "05:26:00",
           "lat": 51.10740171,
@@ -77034,7 +77034,7 @@
       ]
     },
     {
-      "trip_id": "6_17604833",
+      "trip_id": "6_17708846",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "6",
@@ -77267,7 +77267,7 @@
       ]
     },
     {
-      "trip_id": "6_17604834",
+      "trip_id": "6_17708847",
       "direction_id": "0",
       "headsign": "DWORZEC GŁÓWNY (Dworcowa)",
       "service_id": "6",
@@ -77491,7 +77491,7 @@
       ]
     },
     {
-      "trip_id": "6_17604835",
+      "trip_id": "6_17708848",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "6",
@@ -77724,7 +77724,7 @@
       ]
     },
     {
-      "trip_id": "6_17604836",
+      "trip_id": "6_17708849",
       "direction_id": "0",
       "headsign": "DWORZEC GŁÓWNY (Dworcowa)",
       "service_id": "6",
@@ -77948,7 +77948,7 @@
       ]
     },
     {
-      "trip_id": "6_17604837",
+      "trip_id": "6_17708850",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "6",
@@ -78181,7 +78181,7 @@
       ]
     },
     {
-      "trip_id": "6_17604838",
+      "trip_id": "6_17708851",
       "direction_id": "0",
       "headsign": "DWORZEC GŁÓWNY (Dworcowa)",
       "service_id": "6",
@@ -78405,7 +78405,7 @@
       ]
     },
     {
-      "trip_id": "6_17604839",
+      "trip_id": "6_17708852",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "6",
@@ -78638,7 +78638,7 @@
       ]
     },
     {
-      "trip_id": "6_17604840",
+      "trip_id": "6_17708853",
       "direction_id": "0",
       "headsign": "DWORZEC GŁÓWNY (Dworcowa)",
       "service_id": "6",
@@ -78862,7 +78862,7 @@
       ]
     },
     {
-      "trip_id": "6_17604841",
+      "trip_id": "6_17708854",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "6",
@@ -79095,7 +79095,7 @@
       ]
     },
     {
-      "trip_id": "6_17604842",
+      "trip_id": "6_17708855",
       "direction_id": "0",
       "headsign": "DWORZEC GŁÓWNY (Dworcowa)",
       "service_id": "6",
@@ -79319,7 +79319,7 @@
       ]
     },
     {
-      "trip_id": "6_17604843",
+      "trip_id": "6_17708856",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "6",
@@ -79552,7 +79552,7 @@
       ]
     },
     {
-      "trip_id": "6_17604844",
+      "trip_id": "6_17708857",
       "direction_id": "0",
       "headsign": "DWORZEC GŁÓWNY (Dworcowa)",
       "service_id": "6",
@@ -79776,7 +79776,7 @@
       ]
     },
     {
-      "trip_id": "6_17604845",
+      "trip_id": "6_17708858",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "6",
@@ -80009,7 +80009,7 @@
       ]
     },
     {
-      "trip_id": "6_17604846",
+      "trip_id": "6_17708859",
       "direction_id": "0",
       "headsign": "DWORZEC GŁÓWNY (Dworcowa)",
       "service_id": "6",
@@ -80233,7 +80233,7 @@
       ]
     },
     {
-      "trip_id": "6_17604847",
+      "trip_id": "6_17708860",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "6",
@@ -80466,7 +80466,7 @@
       ]
     },
     {
-      "trip_id": "6_17604848",
+      "trip_id": "6_17708861",
       "direction_id": "0",
       "headsign": "DWORZEC GŁÓWNY (Dworcowa)",
       "service_id": "6",
@@ -80690,7 +80690,7 @@
       ]
     },
     {
-      "trip_id": "6_17604849",
+      "trip_id": "6_17708862",
       "direction_id": "1",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "6",
@@ -80716,7 +80716,7 @@
         {
           "stop_sequence": 2,
           "stop_id": "547",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 04",
           "arrival_time": "22:22:00",
           "departure_time": "22:22:00",
           "lat": 51.10801936,
@@ -80815,7 +80815,7 @@
       ]
     },
     {
-      "trip_id": "6_17604850",
+      "trip_id": "6_17708863",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "6",
@@ -81012,7 +81012,7 @@
       ]
     },
     {
-      "trip_id": "6_17604851",
+      "trip_id": "6_17708864",
       "direction_id": "0",
       "headsign": "DWORZEC GŁÓWNY (Dworcowa)",
       "service_id": "6",
@@ -81236,7 +81236,7 @@
       ]
     },
     {
-      "trip_id": "6_17604852",
+      "trip_id": "6_17708865",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "6",
@@ -81469,7 +81469,7 @@
       ]
     },
     {
-      "trip_id": "6_17604853",
+      "trip_id": "6_17708866",
       "direction_id": "0",
       "headsign": "DWORZEC GŁÓWNY (Dworcowa)",
       "service_id": "6",
@@ -81693,7 +81693,7 @@
       ]
     },
     {
-      "trip_id": "6_17604854",
+      "trip_id": "6_17708867",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "6",
@@ -81926,7 +81926,7 @@
       ]
     },
     {
-      "trip_id": "6_17604855",
+      "trip_id": "6_17708868",
       "direction_id": "0",
       "headsign": "DWORZEC GŁÓWNY (Dworcowa)",
       "service_id": "6",
@@ -82150,7 +82150,7 @@
       ]
     },
     {
-      "trip_id": "6_17604856",
+      "trip_id": "6_17708869",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "6",
@@ -82383,7 +82383,7 @@
       ]
     },
     {
-      "trip_id": "6_17604857",
+      "trip_id": "6_17708870",
       "direction_id": "0",
       "headsign": "DWORZEC GŁÓWNY (Dworcowa)",
       "service_id": "6",
@@ -82607,7 +82607,7 @@
       ]
     },
     {
-      "trip_id": "6_17604858",
+      "trip_id": "6_17708871",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "6",
@@ -82840,7 +82840,7 @@
       ]
     },
     {
-      "trip_id": "6_17604859",
+      "trip_id": "6_17708872",
       "direction_id": "0",
       "headsign": "DWORZEC GŁÓWNY (Dworcowa)",
       "service_id": "6",
@@ -83064,7 +83064,7 @@
       ]
     },
     {
-      "trip_id": "6_17604860",
+      "trip_id": "6_17708873",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "6",
@@ -83297,7 +83297,7 @@
       ]
     },
     {
-      "trip_id": "6_17604861",
+      "trip_id": "6_17708874",
       "direction_id": "0",
       "headsign": "DWORZEC GŁÓWNY (Dworcowa)",
       "service_id": "6",
@@ -83521,7 +83521,7 @@
       ]
     },
     {
-      "trip_id": "6_17604862",
+      "trip_id": "6_17708875",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "6",
@@ -83754,7 +83754,7 @@
       ]
     },
     {
-      "trip_id": "6_17604863",
+      "trip_id": "6_17708876",
       "direction_id": "0",
       "headsign": "DWORZEC GŁÓWNY (Dworcowa)",
       "service_id": "6",
@@ -83978,7 +83978,7 @@
       ]
     },
     {
-      "trip_id": "6_17604864",
+      "trip_id": "6_17708877",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "6",
@@ -84211,7 +84211,7 @@
       ]
     },
     {
-      "trip_id": "6_17604865",
+      "trip_id": "6_17708878",
       "direction_id": "0",
       "headsign": "DWORZEC GŁÓWNY (Dworcowa)",
       "service_id": "6",
@@ -84435,7 +84435,7 @@
       ]
     },
     {
-      "trip_id": "6_17604866",
+      "trip_id": "6_17708879",
       "direction_id": "1",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "6",
@@ -84461,7 +84461,7 @@
         {
           "stop_sequence": 2,
           "stop_id": "547",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 04",
           "arrival_time": "20:51:00",
           "departure_time": "20:51:00",
           "lat": 51.10801936,
@@ -84560,7 +84560,7 @@
       ]
     },
     {
-      "trip_id": "6_17604867",
+      "trip_id": "6_17708880",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "6",
@@ -84757,7 +84757,7 @@
       ]
     },
     {
-      "trip_id": "6_17604868",
+      "trip_id": "6_17708881",
       "direction_id": "0",
       "headsign": "DWORZEC GŁÓWNY (Dworcowa)",
       "service_id": "6",
@@ -84981,7 +84981,7 @@
       ]
     },
     {
-      "trip_id": "6_17604869",
+      "trip_id": "6_17708882",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "6",
@@ -85214,7 +85214,7 @@
       ]
     },
     {
-      "trip_id": "6_17604870",
+      "trip_id": "6_17708883",
       "direction_id": "0",
       "headsign": "DWORZEC GŁÓWNY (Dworcowa)",
       "service_id": "6",
@@ -85438,7 +85438,7 @@
       ]
     },
     {
-      "trip_id": "6_17604871",
+      "trip_id": "6_17708884",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "6",
@@ -85671,7 +85671,7 @@
       ]
     },
     {
-      "trip_id": "6_17604872",
+      "trip_id": "6_17708885",
       "direction_id": "0",
       "headsign": "DWORZEC GŁÓWNY (Dworcowa)",
       "service_id": "6",
@@ -85895,7 +85895,7 @@
       ]
     },
     {
-      "trip_id": "6_17604873",
+      "trip_id": "6_17708886",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "6",
@@ -86128,7 +86128,7 @@
       ]
     },
     {
-      "trip_id": "6_17604874",
+      "trip_id": "6_17708887",
       "direction_id": "0",
       "headsign": "DWORZEC GŁÓWNY (Dworcowa)",
       "service_id": "6",
@@ -86352,7 +86352,7 @@
       ]
     },
     {
-      "trip_id": "6_17604875",
+      "trip_id": "6_17708888",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "6",
@@ -86585,7 +86585,7 @@
       ]
     },
     {
-      "trip_id": "6_17604876",
+      "trip_id": "6_17708889",
       "direction_id": "0",
       "headsign": "DWORZEC GŁÓWNY (Dworcowa)",
       "service_id": "6",
@@ -86809,7 +86809,7 @@
       ]
     },
     {
-      "trip_id": "6_17604877",
+      "trip_id": "6_17708890",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "6",
@@ -87042,7 +87042,7 @@
       ]
     },
     {
-      "trip_id": "6_17604878",
+      "trip_id": "6_17708891",
       "direction_id": "0",
       "headsign": "DWORZEC GŁÓWNY (Dworcowa)",
       "service_id": "6",
@@ -87266,7 +87266,7 @@
       ]
     },
     {
-      "trip_id": "6_17604879",
+      "trip_id": "6_17708892",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "6",
@@ -87499,7 +87499,7 @@
       ]
     },
     {
-      "trip_id": "6_17604880",
+      "trip_id": "6_17708893",
       "direction_id": "0",
       "headsign": "DWORZEC GŁÓWNY (Dworcowa)",
       "service_id": "6",
@@ -87723,7 +87723,7 @@
       ]
     },
     {
-      "trip_id": "6_17604881",
+      "trip_id": "6_17708894",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "6",
@@ -87956,7 +87956,7 @@
       ]
     },
     {
-      "trip_id": "6_17604882",
+      "trip_id": "6_17708895",
       "direction_id": "0",
       "headsign": "DWORZEC GŁÓWNY (Dworcowa)",
       "service_id": "6",
@@ -88180,7 +88180,7 @@
       ]
     },
     {
-      "trip_id": "6_17604883",
+      "trip_id": "6_17708896",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "6",
@@ -88413,7 +88413,7 @@
       ]
     },
     {
-      "trip_id": "6_17604884",
+      "trip_id": "6_17708897",
       "direction_id": "0",
       "headsign": "DWORZEC GŁÓWNY (Dworcowa)",
       "service_id": "6",
@@ -88637,7 +88637,7 @@
       ]
     },
     {
-      "trip_id": "6_17604885",
+      "trip_id": "6_17708898",
       "direction_id": "1",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "6",
@@ -88663,7 +88663,7 @@
         {
           "stop_sequence": 2,
           "stop_id": "547",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 04",
           "arrival_time": "22:52:00",
           "departure_time": "22:52:00",
           "lat": 51.10801936,
@@ -88762,7 +88762,7 @@
       ]
     },
     {
-      "trip_id": "6_17604886",
+      "trip_id": "6_17708899",
       "direction_id": "0",
       "headsign": "DWORZEC GŁÓWNY (Dworcowa)",
       "service_id": "6",
@@ -88869,7 +88869,7 @@
         {
           "stop_sequence": 11,
           "stop_id": "546",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 05",
           "arrival_time": "05:13:00",
           "departure_time": "05:13:00",
           "lat": 51.10740171,
@@ -88896,7 +88896,7 @@
       ]
     },
     {
-      "trip_id": "6_17604887",
+      "trip_id": "6_17708900",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "6",
@@ -89129,7 +89129,7 @@
       ]
     },
     {
-      "trip_id": "6_17604888",
+      "trip_id": "6_17708901",
       "direction_id": "0",
       "headsign": "DWORZEC GŁÓWNY (Dworcowa)",
       "service_id": "6",
@@ -89353,7 +89353,7 @@
       ]
     },
     {
-      "trip_id": "6_17604889",
+      "trip_id": "6_17708902",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "6",
@@ -89586,7 +89586,7 @@
       ]
     },
     {
-      "trip_id": "6_17604890",
+      "trip_id": "6_17708903",
       "direction_id": "0",
       "headsign": "DWORZEC GŁÓWNY (Dworcowa)",
       "service_id": "6",
@@ -89810,7 +89810,7 @@
       ]
     },
     {
-      "trip_id": "6_17604891",
+      "trip_id": "6_17708904",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "6",
@@ -90043,7 +90043,7 @@
       ]
     },
     {
-      "trip_id": "6_17604892",
+      "trip_id": "6_17708905",
       "direction_id": "0",
       "headsign": "DWORZEC GŁÓWNY (Dworcowa)",
       "service_id": "6",
@@ -90267,7 +90267,7 @@
       ]
     },
     {
-      "trip_id": "6_17604893",
+      "trip_id": "6_17708906",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "6",
@@ -90500,7 +90500,7 @@
       ]
     },
     {
-      "trip_id": "6_17604894",
+      "trip_id": "6_17708907",
       "direction_id": "0",
       "headsign": "DWORZEC GŁÓWNY (Dworcowa)",
       "service_id": "6",
@@ -90724,7 +90724,7 @@
       ]
     },
     {
-      "trip_id": "6_17604895",
+      "trip_id": "6_17708908",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "6",
@@ -90957,7 +90957,7 @@
       ]
     },
     {
-      "trip_id": "6_17604896",
+      "trip_id": "6_17708909",
       "direction_id": "0",
       "headsign": "DWORZEC GŁÓWNY (Dworcowa)",
       "service_id": "6",
@@ -91181,7 +91181,7 @@
       ]
     },
     {
-      "trip_id": "6_17604897",
+      "trip_id": "6_17708910",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "6",
@@ -91414,7 +91414,7 @@
       ]
     },
     {
-      "trip_id": "6_17604898",
+      "trip_id": "6_17708911",
       "direction_id": "0",
       "headsign": "DWORZEC GŁÓWNY (Dworcowa)",
       "service_id": "6",
@@ -91638,7 +91638,7 @@
       ]
     },
     {
-      "trip_id": "6_17604899",
+      "trip_id": "6_17708912",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "6",
@@ -91871,7 +91871,7 @@
       ]
     },
     {
-      "trip_id": "6_17604900",
+      "trip_id": "6_17708913",
       "direction_id": "0",
       "headsign": "DWORZEC GŁÓWNY (Dworcowa)",
       "service_id": "6",
@@ -92095,7 +92095,7 @@
       ]
     },
     {
-      "trip_id": "6_17604901",
+      "trip_id": "6_17708914",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "6",
@@ -92328,7 +92328,7 @@
       ]
     },
     {
-      "trip_id": "6_17604902",
+      "trip_id": "6_17708915",
       "direction_id": "0",
       "headsign": "DWORZEC GŁÓWNY (Dworcowa)",
       "service_id": "6",
@@ -92552,7 +92552,7 @@
       ]
     },
     {
-      "trip_id": "6_17604903",
+      "trip_id": "6_17708916",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "6",
@@ -92785,7 +92785,7 @@
       ]
     },
     {
-      "trip_id": "6_17604904",
+      "trip_id": "6_17708917",
       "direction_id": "0",
       "headsign": "DWORZEC GŁÓWNY (Dworcowa)",
       "service_id": "6",
@@ -93009,7 +93009,7 @@
       ]
     },
     {
-      "trip_id": "6_17604905",
+      "trip_id": "6_17708918",
       "direction_id": "1",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "6",
@@ -93035,7 +93035,7 @@
         {
           "stop_sequence": 2,
           "stop_id": "547",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 04",
           "arrival_time": "23:36:00",
           "departure_time": "23:36:00",
           "lat": 51.10801936,
@@ -93134,7 +93134,7 @@
       ]
     },
     {
-      "trip_id": "6_17604906",
+      "trip_id": "6_17708919",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "6",
@@ -93331,7 +93331,7 @@
       ]
     },
     {
-      "trip_id": "6_17604907",
+      "trip_id": "6_17708920",
       "direction_id": "0",
       "headsign": "DWORZEC GŁÓWNY (Dworcowa)",
       "service_id": "6",
@@ -93555,7 +93555,7 @@
       ]
     },
     {
-      "trip_id": "6_17604908",
+      "trip_id": "6_17708921",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "6",
@@ -93788,7 +93788,7 @@
       ]
     },
     {
-      "trip_id": "6_17604909",
+      "trip_id": "6_17708922",
       "direction_id": "0",
       "headsign": "DWORZEC GŁÓWNY (Dworcowa)",
       "service_id": "6",
@@ -94012,7 +94012,7 @@
       ]
     },
     {
-      "trip_id": "6_17604910",
+      "trip_id": "6_17708923",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "6",
@@ -94245,7 +94245,7 @@
       ]
     },
     {
-      "trip_id": "6_17604911",
+      "trip_id": "6_17708924",
       "direction_id": "0",
       "headsign": "DWORZEC GŁÓWNY (Dworcowa)",
       "service_id": "6",
@@ -94469,7 +94469,7 @@
       ]
     },
     {
-      "trip_id": "6_17604912",
+      "trip_id": "6_17708925",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "6",
@@ -94702,7 +94702,7 @@
       ]
     },
     {
-      "trip_id": "6_17604913",
+      "trip_id": "6_17708926",
       "direction_id": "0",
       "headsign": "DWORZEC GŁÓWNY (Dworcowa)",
       "service_id": "6",
@@ -94926,7 +94926,7 @@
       ]
     },
     {
-      "trip_id": "6_17604914",
+      "trip_id": "6_17708927",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "6",
@@ -95159,7 +95159,7 @@
       ]
     },
     {
-      "trip_id": "6_17604915",
+      "trip_id": "6_17708928",
       "direction_id": "0",
       "headsign": "DWORZEC GŁÓWNY (Dworcowa)",
       "service_id": "6",
@@ -95383,7 +95383,7 @@
       ]
     },
     {
-      "trip_id": "6_17604916",
+      "trip_id": "6_17708929",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "6",
@@ -95616,7 +95616,7 @@
       ]
     },
     {
-      "trip_id": "6_17604917",
+      "trip_id": "6_17708930",
       "direction_id": "0",
       "headsign": "DWORZEC GŁÓWNY (Dworcowa)",
       "service_id": "6",
@@ -95840,7 +95840,7 @@
       ]
     },
     {
-      "trip_id": "6_17604918",
+      "trip_id": "6_17708931",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "6",
@@ -96073,7 +96073,7 @@
       ]
     },
     {
-      "trip_id": "6_17604919",
+      "trip_id": "6_17708932",
       "direction_id": "0",
       "headsign": "DWORZEC GŁÓWNY (Dworcowa)",
       "service_id": "6",
@@ -96297,7 +96297,7 @@
       ]
     },
     {
-      "trip_id": "6_17604920",
+      "trip_id": "6_17708933",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "6",
@@ -96530,7 +96530,7 @@
       ]
     },
     {
-      "trip_id": "6_17604921",
+      "trip_id": "6_17708934",
       "direction_id": "0",
       "headsign": "DWORZEC GŁÓWNY (Dworcowa)",
       "service_id": "6",
@@ -96754,7 +96754,7 @@
       ]
     },
     {
-      "trip_id": "6_17604922",
+      "trip_id": "6_17708935",
       "direction_id": "1",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "6",
@@ -96780,7 +96780,7 @@
         {
           "stop_sequence": 2,
           "stop_id": "547",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 04",
           "arrival_time": "21:51:00",
           "departure_time": "21:51:00",
           "lat": 51.10801936,
@@ -96879,7 +96879,7 @@
       ]
     },
     {
-      "trip_id": "6_17604923",
+      "trip_id": "6_17708936",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "6",
@@ -97076,7 +97076,7 @@
       ]
     },
     {
-      "trip_id": "6_17604924",
+      "trip_id": "6_17708937",
       "direction_id": "0",
       "headsign": "DWORZEC GŁÓWNY (Dworcowa)",
       "service_id": "6",
@@ -97300,7 +97300,7 @@
       ]
     },
     {
-      "trip_id": "6_17604925",
+      "trip_id": "6_17708938",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "6",
@@ -97533,7 +97533,7 @@
       ]
     },
     {
-      "trip_id": "6_17604926",
+      "trip_id": "6_17708939",
       "direction_id": "0",
       "headsign": "DWORZEC GŁÓWNY (Dworcowa)",
       "service_id": "6",
@@ -97757,7 +97757,7 @@
       ]
     },
     {
-      "trip_id": "6_17604927",
+      "trip_id": "6_17708940",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "6",
@@ -97990,7 +97990,7 @@
       ]
     },
     {
-      "trip_id": "6_17604928",
+      "trip_id": "6_17708941",
       "direction_id": "0",
       "headsign": "DWORZEC GŁÓWNY (Dworcowa)",
       "service_id": "6",
@@ -98214,7 +98214,7 @@
       ]
     },
     {
-      "trip_id": "6_17604929",
+      "trip_id": "6_17708942",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "6",
@@ -98447,7 +98447,7 @@
       ]
     },
     {
-      "trip_id": "6_17604930",
+      "trip_id": "6_17708943",
       "direction_id": "0",
       "headsign": "DWORZEC GŁÓWNY (Dworcowa)",
       "service_id": "6",
@@ -98671,7 +98671,7 @@
       ]
     },
     {
-      "trip_id": "6_17604931",
+      "trip_id": "6_17708944",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "6",
@@ -98904,7 +98904,7 @@
       ]
     },
     {
-      "trip_id": "6_17604932",
+      "trip_id": "6_17708945",
       "direction_id": "0",
       "headsign": "DWORZEC GŁÓWNY (Dworcowa)",
       "service_id": "6",
@@ -99128,7 +99128,7 @@
       ]
     },
     {
-      "trip_id": "6_17604933",
+      "trip_id": "6_17708946",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "6",
@@ -99361,7 +99361,7 @@
       ]
     },
     {
-      "trip_id": "6_17604934",
+      "trip_id": "6_17708947",
       "direction_id": "0",
       "headsign": "DWORZEC GŁÓWNY (Dworcowa)",
       "service_id": "6",
@@ -99585,7 +99585,7 @@
       ]
     },
     {
-      "trip_id": "6_17604935",
+      "trip_id": "6_17708948",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "6",
@@ -99818,7 +99818,7 @@
       ]
     },
     {
-      "trip_id": "6_17604936",
+      "trip_id": "6_17708949",
       "direction_id": "0",
       "headsign": "DWORZEC GŁÓWNY (Dworcowa)",
       "service_id": "6",
@@ -100042,7 +100042,7 @@
       ]
     },
     {
-      "trip_id": "6_17604937",
+      "trip_id": "6_17708950",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "6",
@@ -100275,7 +100275,7 @@
       ]
     },
     {
-      "trip_id": "6_17604938",
+      "trip_id": "6_17708951",
       "direction_id": "0",
       "headsign": "DWORZEC GŁÓWNY (Dworcowa)",
       "service_id": "6",
@@ -100499,7 +100499,7 @@
       ]
     },
     {
-      "trip_id": "6_17604939",
+      "trip_id": "6_17708952",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "6",
@@ -100732,7 +100732,7 @@
       ]
     },
     {
-      "trip_id": "6_17604940",
+      "trip_id": "6_17708953",
       "direction_id": "0",
       "headsign": "DWORZEC GŁÓWNY (Dworcowa)",
       "service_id": "6",
@@ -100956,7 +100956,7 @@
       ]
     },
     {
-      "trip_id": "6_17604941",
+      "trip_id": "6_17708954",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "6",
@@ -101189,7 +101189,7 @@
       ]
     },
     {
-      "trip_id": "6_17604942",
+      "trip_id": "6_17708955",
       "direction_id": "0",
       "headsign": "DWORZEC GŁÓWNY (Dworcowa)",
       "service_id": "6",
@@ -101413,7 +101413,7 @@
       ]
     },
     {
-      "trip_id": "6_17604943",
+      "trip_id": "6_17708956",
       "direction_id": "1",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "6",
@@ -101439,7 +101439,7 @@
         {
           "stop_sequence": 2,
           "stop_id": "547",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 04",
           "arrival_time": "24:20:00",
           "departure_time": "24:20:00",
           "lat": 51.10801936,
@@ -101538,7 +101538,7 @@
       ]
     },
     {
-      "trip_id": "6_17604944",
+      "trip_id": "6_17708957",
       "direction_id": "0",
       "headsign": "DWORZEC GŁÓWNY (Dworcowa)",
       "service_id": "6",
@@ -101645,7 +101645,7 @@
         {
           "stop_sequence": 11,
           "stop_id": "546",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 05",
           "arrival_time": "04:46:00",
           "departure_time": "04:46:00",
           "lat": 51.10740171,
@@ -101672,7 +101672,7 @@
       ]
     },
     {
-      "trip_id": "6_17604945",
+      "trip_id": "6_17708958",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "6",
@@ -101905,7 +101905,7 @@
       ]
     },
     {
-      "trip_id": "6_17604946",
+      "trip_id": "6_17708959",
       "direction_id": "0",
       "headsign": "DWORZEC GŁÓWNY (Dworcowa)",
       "service_id": "6",
@@ -102129,7 +102129,7 @@
       ]
     },
     {
-      "trip_id": "6_17604947",
+      "trip_id": "6_17708960",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "6",
@@ -102362,7 +102362,7 @@
       ]
     },
     {
-      "trip_id": "6_17604948",
+      "trip_id": "6_17708961",
       "direction_id": "0",
       "headsign": "DWORZEC GŁÓWNY (Dworcowa)",
       "service_id": "6",
@@ -102586,7 +102586,7 @@
       ]
     },
     {
-      "trip_id": "6_17604949",
+      "trip_id": "6_17708962",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "6",
@@ -102819,7 +102819,7 @@
       ]
     },
     {
-      "trip_id": "6_17604950",
+      "trip_id": "6_17708963",
       "direction_id": "0",
       "headsign": "DWORZEC GŁÓWNY (Dworcowa)",
       "service_id": "6",
@@ -103043,7 +103043,7 @@
       ]
     },
     {
-      "trip_id": "6_17604951",
+      "trip_id": "6_17708964",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "6",
@@ -103276,7 +103276,7 @@
       ]
     },
     {
-      "trip_id": "6_17604952",
+      "trip_id": "6_17708965",
       "direction_id": "0",
       "headsign": "DWORZEC GŁÓWNY (Dworcowa)",
       "service_id": "6",
@@ -103500,7 +103500,7 @@
       ]
     },
     {
-      "trip_id": "6_17604953",
+      "trip_id": "6_17708966",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "6",
@@ -103733,7 +103733,7 @@
       ]
     },
     {
-      "trip_id": "6_17604954",
+      "trip_id": "6_17708967",
       "direction_id": "0",
       "headsign": "DWORZEC GŁÓWNY (Dworcowa)",
       "service_id": "6",
@@ -103957,7 +103957,7 @@
       ]
     },
     {
-      "trip_id": "6_17604955",
+      "trip_id": "6_17708968",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "6",
@@ -104190,7 +104190,7 @@
       ]
     },
     {
-      "trip_id": "6_17604956",
+      "trip_id": "6_17708969",
       "direction_id": "0",
       "headsign": "DWORZEC GŁÓWNY (Dworcowa)",
       "service_id": "6",
@@ -104414,7 +104414,7 @@
       ]
     },
     {
-      "trip_id": "6_17604957",
+      "trip_id": "6_17708970",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "6",
@@ -104647,7 +104647,7 @@
       ]
     },
     {
-      "trip_id": "6_17604958",
+      "trip_id": "6_17708971",
       "direction_id": "0",
       "headsign": "DWORZEC GŁÓWNY (Dworcowa)",
       "service_id": "6",
@@ -104871,7 +104871,7 @@
       ]
     },
     {
-      "trip_id": "6_17604959",
+      "trip_id": "6_17708972",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "6",
@@ -105104,7 +105104,7 @@
       ]
     },
     {
-      "trip_id": "6_17604960",
+      "trip_id": "6_17708973",
       "direction_id": "0",
       "headsign": "DWORZEC GŁÓWNY (Dworcowa)",
       "service_id": "6",
@@ -105328,7 +105328,7 @@
       ]
     },
     {
-      "trip_id": "6_17604961",
+      "trip_id": "6_17708974",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "6",
@@ -105561,7 +105561,7 @@
       ]
     },
     {
-      "trip_id": "6_17604962",
+      "trip_id": "6_17708975",
       "direction_id": "0",
       "headsign": "DWORZEC GŁÓWNY (Dworcowa)",
       "service_id": "6",
@@ -105785,7 +105785,7 @@
       ]
     },
     {
-      "trip_id": "6_17604963",
+      "trip_id": "6_17708976",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "6",
@@ -106018,7 +106018,7 @@
       ]
     },
     {
-      "trip_id": "6_17604964",
+      "trip_id": "6_17708977",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "6",
@@ -106224,7 +106224,7 @@
       ]
     },
     {
-      "trip_id": "6_17604967",
+      "trip_id": "6_17708980",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "6",
@@ -106457,7 +106457,7 @@
       ]
     },
     {
-      "trip_id": "6_17604968",
+      "trip_id": "6_17708981",
       "direction_id": "0",
       "headsign": "DWORZEC GŁÓWNY (Dworcowa)",
       "service_id": "6",
@@ -106681,7 +106681,7 @@
       ]
     },
     {
-      "trip_id": "6_17604969",
+      "trip_id": "6_17708982",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "6",
@@ -106914,7 +106914,7 @@
       ]
     },
     {
-      "trip_id": "6_17604970",
+      "trip_id": "6_17708983",
       "direction_id": "0",
       "headsign": "DWORZEC GŁÓWNY (Dworcowa)",
       "service_id": "6",
@@ -107138,7 +107138,7 @@
       ]
     },
     {
-      "trip_id": "6_17604971",
+      "trip_id": "6_17708984",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "6",
@@ -107371,7 +107371,7 @@
       ]
     },
     {
-      "trip_id": "6_17604972",
+      "trip_id": "6_17708985",
       "direction_id": "0",
       "headsign": "DWORZEC GŁÓWNY (Dworcowa)",
       "service_id": "6",
@@ -107595,7 +107595,7 @@
       ]
     },
     {
-      "trip_id": "6_17604973",
+      "trip_id": "6_17708986",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "6",
@@ -107828,7 +107828,7 @@
       ]
     },
     {
-      "trip_id": "6_17604974",
+      "trip_id": "6_17708987",
       "direction_id": "0",
       "headsign": "DWORZEC GŁÓWNY (Dworcowa)",
       "service_id": "6",
@@ -108052,7 +108052,7 @@
       ]
     },
     {
-      "trip_id": "6_17604975",
+      "trip_id": "6_17708988",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "6",
@@ -108285,7 +108285,7 @@
       ]
     },
     {
-      "trip_id": "6_17604976",
+      "trip_id": "6_17708989",
       "direction_id": "0",
       "headsign": "DWORZEC GŁÓWNY (Dworcowa)",
       "service_id": "6",
@@ -108509,7 +108509,7 @@
       ]
     },
     {
-      "trip_id": "6_17604977",
+      "trip_id": "6_17708990",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "6",
@@ -108742,7 +108742,7 @@
       ]
     },
     {
-      "trip_id": "6_17604978",
+      "trip_id": "6_17708991",
       "direction_id": "0",
       "headsign": "DWORZEC GŁÓWNY (Dworcowa)",
       "service_id": "6",
@@ -108966,7 +108966,7 @@
       ]
     },
     {
-      "trip_id": "6_17604979",
+      "trip_id": "6_17708992",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "6",
@@ -109199,7 +109199,7 @@
       ]
     },
     {
-      "trip_id": "6_17604980",
+      "trip_id": "6_17708993",
       "direction_id": "0",
       "headsign": "DWORZEC GŁÓWNY (Dworcowa)",
       "service_id": "6",
@@ -109423,7 +109423,7 @@
       ]
     },
     {
-      "trip_id": "6_17604981",
+      "trip_id": "6_17708994",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "6",
@@ -109656,7 +109656,7 @@
       ]
     },
     {
-      "trip_id": "6_17604982",
+      "trip_id": "6_17708995",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "6",
@@ -109862,7 +109862,7 @@
       ]
     },
     {
-      "trip_id": "6_17609480",
+      "trip_id": "6_17713493",
       "direction_id": "0",
       "headsign": "DWORZEC GŁÓWNY (Dworcowa)",
       "service_id": "6",
@@ -109969,7 +109969,7 @@
         {
           "stop_sequence": 11,
           "stop_id": "546",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 05",
           "arrival_time": "22:09:00",
           "departure_time": "22:09:00",
           "lat": 51.10740171,
@@ -109996,7 +109996,7 @@
       ]
     },
     {
-      "trip_id": "6_17609481",
+      "trip_id": "6_17713494",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "6",
@@ -110229,7 +110229,7 @@
       ]
     },
     {
-      "trip_id": "6_17609482",
+      "trip_id": "6_17713495",
       "direction_id": "0",
       "headsign": "DWORZEC AUTOBUSOWY",
       "service_id": "6",
@@ -110480,7 +110480,7 @@
       ]
     },
     {
-      "trip_id": "6_17609488",
+      "trip_id": "6_17713501",
       "direction_id": "0",
       "headsign": "DWORZEC GŁÓWNY (Dworcowa)",
       "service_id": "6",
@@ -110587,7 +110587,7 @@
         {
           "stop_sequence": 11,
           "stop_id": "546",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 05",
           "arrival_time": "21:35:00",
           "departure_time": "21:35:00",
           "lat": 51.10740171,
@@ -110614,7 +110614,7 @@
       ]
     },
     {
-      "trip_id": "6_17609489",
+      "trip_id": "6_17713502",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "6",
@@ -110847,7 +110847,7 @@
       ]
     },
     {
-      "trip_id": "6_17609490",
+      "trip_id": "6_17713503",
       "direction_id": "0",
       "headsign": "DWORZEC GŁÓWNY (Dworcowa)",
       "service_id": "6",
@@ -111071,7 +111071,7 @@
       ]
     },
     {
-      "trip_id": "6_17609491",
+      "trip_id": "6_17713504",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "6",
@@ -111304,7 +111304,7 @@
       ]
     },
     {
-      "trip_id": "8_17611641",
+      "trip_id": "8_17715654",
       "direction_id": "0",
       "headsign": "DWORZEC GŁÓWNY (Dworcowa)",
       "service_id": "8",
@@ -111411,7 +111411,7 @@
         {
           "stop_sequence": 11,
           "stop_id": "546",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 05",
           "arrival_time": "05:00:00",
           "departure_time": "05:00:00",
           "lat": 51.10740171,
@@ -111438,7 +111438,7 @@
       ]
     },
     {
-      "trip_id": "8_17611642",
+      "trip_id": "8_17715655",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "8",
@@ -111671,7 +111671,7 @@
       ]
     },
     {
-      "trip_id": "8_17611643",
+      "trip_id": "8_17715656",
       "direction_id": "0",
       "headsign": "DWORZEC GŁÓWNY (Dworcowa)",
       "service_id": "8",
@@ -111895,7 +111895,7 @@
       ]
     },
     {
-      "trip_id": "8_17611644",
+      "trip_id": "8_17715657",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "8",
@@ -112128,7 +112128,7 @@
       ]
     },
     {
-      "trip_id": "8_17611645",
+      "trip_id": "8_17715658",
       "direction_id": "0",
       "headsign": "DWORZEC GŁÓWNY (Dworcowa)",
       "service_id": "8",
@@ -112352,7 +112352,7 @@
       ]
     },
     {
-      "trip_id": "8_17611646",
+      "trip_id": "8_17715659",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "8",
@@ -112585,7 +112585,7 @@
       ]
     },
     {
-      "trip_id": "8_17611647",
+      "trip_id": "8_17715660",
       "direction_id": "0",
       "headsign": "DWORZEC GŁÓWNY (Dworcowa)",
       "service_id": "8",
@@ -112809,7 +112809,7 @@
       ]
     },
     {
-      "trip_id": "8_17611648",
+      "trip_id": "8_17715661",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "8",
@@ -113042,7 +113042,7 @@
       ]
     },
     {
-      "trip_id": "8_17611649",
+      "trip_id": "8_17715662",
       "direction_id": "0",
       "headsign": "DWORZEC GŁÓWNY (Dworcowa)",
       "service_id": "8",
@@ -113266,7 +113266,7 @@
       ]
     },
     {
-      "trip_id": "8_17611650",
+      "trip_id": "8_17715663",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "8",
@@ -113499,7 +113499,7 @@
       ]
     },
     {
-      "trip_id": "8_17611651",
+      "trip_id": "8_17715664",
       "direction_id": "0",
       "headsign": "DWORZEC GŁÓWNY (Dworcowa)",
       "service_id": "8",
@@ -113723,7 +113723,7 @@
       ]
     },
     {
-      "trip_id": "8_17611652",
+      "trip_id": "8_17715665",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "8",
@@ -113956,7 +113956,7 @@
       ]
     },
     {
-      "trip_id": "8_17611653",
+      "trip_id": "8_17715666",
       "direction_id": "0",
       "headsign": "DWORZEC GŁÓWNY (Dworcowa)",
       "service_id": "8",
@@ -114180,7 +114180,7 @@
       ]
     },
     {
-      "trip_id": "8_17611654",
+      "trip_id": "8_17715667",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "8",
@@ -114413,7 +114413,7 @@
       ]
     },
     {
-      "trip_id": "8_17611655",
+      "trip_id": "8_17715668",
       "direction_id": "0",
       "headsign": "DWORZEC GŁÓWNY (Dworcowa)",
       "service_id": "8",
@@ -114637,7 +114637,7 @@
       ]
     },
     {
-      "trip_id": "8_17611656",
+      "trip_id": "8_17715669",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "8",
@@ -114870,7 +114870,7 @@
       ]
     },
     {
-      "trip_id": "8_17611657",
+      "trip_id": "8_17715670",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "8",
@@ -115076,7 +115076,7 @@
       ]
     },
     {
-      "trip_id": "8_17611658",
+      "trip_id": "8_17715671",
       "direction_id": "0",
       "headsign": "DWORZEC GŁÓWNY (Dworcowa)",
       "service_id": "8",
@@ -115183,7 +115183,7 @@
         {
           "stop_sequence": 11,
           "stop_id": "546",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 05",
           "arrival_time": "05:26:00",
           "departure_time": "05:26:00",
           "lat": 51.10740171,
@@ -115210,7 +115210,7 @@
       ]
     },
     {
-      "trip_id": "8_17611659",
+      "trip_id": "8_17715672",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "8",
@@ -115443,7 +115443,7 @@
       ]
     },
     {
-      "trip_id": "8_17611660",
+      "trip_id": "8_17715673",
       "direction_id": "0",
       "headsign": "DWORZEC GŁÓWNY (Dworcowa)",
       "service_id": "8",
@@ -115667,7 +115667,7 @@
       ]
     },
     {
-      "trip_id": "8_17611661",
+      "trip_id": "8_17715674",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "8",
@@ -115900,7 +115900,7 @@
       ]
     },
     {
-      "trip_id": "8_17611662",
+      "trip_id": "8_17715675",
       "direction_id": "0",
       "headsign": "DWORZEC GŁÓWNY (Dworcowa)",
       "service_id": "8",
@@ -116124,7 +116124,7 @@
       ]
     },
     {
-      "trip_id": "8_17611663",
+      "trip_id": "8_17715676",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "8",
@@ -116357,7 +116357,7 @@
       ]
     },
     {
-      "trip_id": "8_17611664",
+      "trip_id": "8_17715677",
       "direction_id": "0",
       "headsign": "DWORZEC GŁÓWNY (Dworcowa)",
       "service_id": "8",
@@ -116581,7 +116581,7 @@
       ]
     },
     {
-      "trip_id": "8_17611665",
+      "trip_id": "8_17715678",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "8",
@@ -116814,7 +116814,7 @@
       ]
     },
     {
-      "trip_id": "8_17611666",
+      "trip_id": "8_17715679",
       "direction_id": "0",
       "headsign": "DWORZEC GŁÓWNY (Dworcowa)",
       "service_id": "8",
@@ -117038,7 +117038,7 @@
       ]
     },
     {
-      "trip_id": "8_17611667",
+      "trip_id": "8_17715680",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "8",
@@ -117271,7 +117271,7 @@
       ]
     },
     {
-      "trip_id": "8_17611668",
+      "trip_id": "8_17715681",
       "direction_id": "0",
       "headsign": "DWORZEC GŁÓWNY (Dworcowa)",
       "service_id": "8",
@@ -117495,7 +117495,7 @@
       ]
     },
     {
-      "trip_id": "8_17611669",
+      "trip_id": "8_17715682",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "8",
@@ -117728,7 +117728,7 @@
       ]
     },
     {
-      "trip_id": "8_17611670",
+      "trip_id": "8_17715683",
       "direction_id": "0",
       "headsign": "DWORZEC GŁÓWNY (Dworcowa)",
       "service_id": "8",
@@ -117952,7 +117952,7 @@
       ]
     },
     {
-      "trip_id": "8_17611671",
+      "trip_id": "8_17715684",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "8",
@@ -118185,7 +118185,7 @@
       ]
     },
     {
-      "trip_id": "8_17611672",
+      "trip_id": "8_17715685",
       "direction_id": "0",
       "headsign": "DWORZEC GŁÓWNY (Dworcowa)",
       "service_id": "8",
@@ -118409,7 +118409,7 @@
       ]
     },
     {
-      "trip_id": "8_17611673",
+      "trip_id": "8_17715686",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "8",
@@ -118642,7 +118642,7 @@
       ]
     },
     {
-      "trip_id": "8_17611674",
+      "trip_id": "8_17715687",
       "direction_id": "0",
       "headsign": "DWORZEC GŁÓWNY (Dworcowa)",
       "service_id": "8",
@@ -118866,7 +118866,7 @@
       ]
     },
     {
-      "trip_id": "8_17611675",
+      "trip_id": "8_17715688",
       "direction_id": "1",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "8",
@@ -118892,7 +118892,7 @@
         {
           "stop_sequence": 2,
           "stop_id": "547",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 04",
           "arrival_time": "22:22:00",
           "departure_time": "22:22:00",
           "lat": 51.10801936,
@@ -118991,7 +118991,7 @@
       ]
     },
     {
-      "trip_id": "8_17611676",
+      "trip_id": "8_17715689",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "8",
@@ -119188,7 +119188,7 @@
       ]
     },
     {
-      "trip_id": "8_17611677",
+      "trip_id": "8_17715690",
       "direction_id": "0",
       "headsign": "DWORZEC GŁÓWNY (Dworcowa)",
       "service_id": "8",
@@ -119412,7 +119412,7 @@
       ]
     },
     {
-      "trip_id": "8_17611678",
+      "trip_id": "8_17715691",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "8",
@@ -119645,7 +119645,7 @@
       ]
     },
     {
-      "trip_id": "8_17611679",
+      "trip_id": "8_17715692",
       "direction_id": "0",
       "headsign": "DWORZEC GŁÓWNY (Dworcowa)",
       "service_id": "8",
@@ -119869,7 +119869,7 @@
       ]
     },
     {
-      "trip_id": "8_17611680",
+      "trip_id": "8_17715693",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "8",
@@ -120102,7 +120102,7 @@
       ]
     },
     {
-      "trip_id": "8_17611681",
+      "trip_id": "8_17715694",
       "direction_id": "0",
       "headsign": "DWORZEC GŁÓWNY (Dworcowa)",
       "service_id": "8",
@@ -120326,7 +120326,7 @@
       ]
     },
     {
-      "trip_id": "8_17611682",
+      "trip_id": "8_17715695",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "8",
@@ -120559,7 +120559,7 @@
       ]
     },
     {
-      "trip_id": "8_17611683",
+      "trip_id": "8_17715696",
       "direction_id": "0",
       "headsign": "DWORZEC GŁÓWNY (Dworcowa)",
       "service_id": "8",
@@ -120783,7 +120783,7 @@
       ]
     },
     {
-      "trip_id": "8_17611684",
+      "trip_id": "8_17715697",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "8",
@@ -121016,7 +121016,7 @@
       ]
     },
     {
-      "trip_id": "8_17611685",
+      "trip_id": "8_17715698",
       "direction_id": "0",
       "headsign": "DWORZEC GŁÓWNY (Dworcowa)",
       "service_id": "8",
@@ -121240,7 +121240,7 @@
       ]
     },
     {
-      "trip_id": "8_17611686",
+      "trip_id": "8_17715699",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "8",
@@ -121473,7 +121473,7 @@
       ]
     },
     {
-      "trip_id": "8_17611687",
+      "trip_id": "8_17715700",
       "direction_id": "0",
       "headsign": "DWORZEC GŁÓWNY (Dworcowa)",
       "service_id": "8",
@@ -121697,7 +121697,7 @@
       ]
     },
     {
-      "trip_id": "8_17611688",
+      "trip_id": "8_17715701",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "8",
@@ -121930,7 +121930,7 @@
       ]
     },
     {
-      "trip_id": "8_17611689",
+      "trip_id": "8_17715702",
       "direction_id": "0",
       "headsign": "DWORZEC GŁÓWNY (Dworcowa)",
       "service_id": "8",
@@ -122154,7 +122154,7 @@
       ]
     },
     {
-      "trip_id": "8_17611690",
+      "trip_id": "8_17715703",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "8",
@@ -122387,7 +122387,7 @@
       ]
     },
     {
-      "trip_id": "8_17611691",
+      "trip_id": "8_17715704",
       "direction_id": "0",
       "headsign": "DWORZEC GŁÓWNY (Dworcowa)",
       "service_id": "8",
@@ -122611,7 +122611,7 @@
       ]
     },
     {
-      "trip_id": "8_17611692",
+      "trip_id": "8_17715705",
       "direction_id": "1",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "8",
@@ -122637,7 +122637,7 @@
         {
           "stop_sequence": 2,
           "stop_id": "547",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 04",
           "arrival_time": "20:51:00",
           "departure_time": "20:51:00",
           "lat": 51.10801936,
@@ -122736,7 +122736,7 @@
       ]
     },
     {
-      "trip_id": "8_17611693",
+      "trip_id": "8_17715706",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "8",
@@ -122933,7 +122933,7 @@
       ]
     },
     {
-      "trip_id": "8_17611694",
+      "trip_id": "8_17715707",
       "direction_id": "0",
       "headsign": "DWORZEC GŁÓWNY (Dworcowa)",
       "service_id": "8",
@@ -123157,7 +123157,7 @@
       ]
     },
     {
-      "trip_id": "8_17611695",
+      "trip_id": "8_17715708",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "8",
@@ -123390,7 +123390,7 @@
       ]
     },
     {
-      "trip_id": "8_17611696",
+      "trip_id": "8_17715709",
       "direction_id": "0",
       "headsign": "DWORZEC GŁÓWNY (Dworcowa)",
       "service_id": "8",
@@ -123614,7 +123614,7 @@
       ]
     },
     {
-      "trip_id": "8_17611697",
+      "trip_id": "8_17715710",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "8",
@@ -123847,7 +123847,7 @@
       ]
     },
     {
-      "trip_id": "8_17611698",
+      "trip_id": "8_17715711",
       "direction_id": "0",
       "headsign": "DWORZEC GŁÓWNY (Dworcowa)",
       "service_id": "8",
@@ -124071,7 +124071,7 @@
       ]
     },
     {
-      "trip_id": "8_17611699",
+      "trip_id": "8_17715712",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "8",
@@ -124304,7 +124304,7 @@
       ]
     },
     {
-      "trip_id": "8_17611700",
+      "trip_id": "8_17715713",
       "direction_id": "0",
       "headsign": "DWORZEC GŁÓWNY (Dworcowa)",
       "service_id": "8",
@@ -124528,7 +124528,7 @@
       ]
     },
     {
-      "trip_id": "8_17611701",
+      "trip_id": "8_17715714",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "8",
@@ -124761,7 +124761,7 @@
       ]
     },
     {
-      "trip_id": "8_17611702",
+      "trip_id": "8_17715715",
       "direction_id": "0",
       "headsign": "DWORZEC GŁÓWNY (Dworcowa)",
       "service_id": "8",
@@ -124985,7 +124985,7 @@
       ]
     },
     {
-      "trip_id": "8_17611703",
+      "trip_id": "8_17715716",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "8",
@@ -125218,7 +125218,7 @@
       ]
     },
     {
-      "trip_id": "8_17611704",
+      "trip_id": "8_17715717",
       "direction_id": "0",
       "headsign": "DWORZEC GŁÓWNY (Dworcowa)",
       "service_id": "8",
@@ -125442,7 +125442,7 @@
       ]
     },
     {
-      "trip_id": "8_17611705",
+      "trip_id": "8_17715718",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "8",
@@ -125675,7 +125675,7 @@
       ]
     },
     {
-      "trip_id": "8_17611706",
+      "trip_id": "8_17715719",
       "direction_id": "0",
       "headsign": "DWORZEC GŁÓWNY (Dworcowa)",
       "service_id": "8",
@@ -125899,7 +125899,7 @@
       ]
     },
     {
-      "trip_id": "8_17611707",
+      "trip_id": "8_17715720",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "8",
@@ -126132,7 +126132,7 @@
       ]
     },
     {
-      "trip_id": "8_17611708",
+      "trip_id": "8_17715721",
       "direction_id": "0",
       "headsign": "DWORZEC GŁÓWNY (Dworcowa)",
       "service_id": "8",
@@ -126356,7 +126356,7 @@
       ]
     },
     {
-      "trip_id": "8_17611709",
+      "trip_id": "8_17715722",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "8",
@@ -126589,7 +126589,7 @@
       ]
     },
     {
-      "trip_id": "8_17611710",
+      "trip_id": "8_17715723",
       "direction_id": "0",
       "headsign": "DWORZEC GŁÓWNY (Dworcowa)",
       "service_id": "8",
@@ -126813,7 +126813,7 @@
       ]
     },
     {
-      "trip_id": "8_17611711",
+      "trip_id": "8_17715724",
       "direction_id": "1",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "8",
@@ -126839,7 +126839,7 @@
         {
           "stop_sequence": 2,
           "stop_id": "547",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 04",
           "arrival_time": "22:52:00",
           "departure_time": "22:52:00",
           "lat": 51.10801936,
@@ -126938,7 +126938,7 @@
       ]
     },
     {
-      "trip_id": "8_17611712",
+      "trip_id": "8_17715725",
       "direction_id": "0",
       "headsign": "DWORZEC GŁÓWNY (Dworcowa)",
       "service_id": "8",
@@ -127045,7 +127045,7 @@
         {
           "stop_sequence": 11,
           "stop_id": "546",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 05",
           "arrival_time": "05:13:00",
           "departure_time": "05:13:00",
           "lat": 51.10740171,
@@ -127072,7 +127072,7 @@
       ]
     },
     {
-      "trip_id": "8_17611713",
+      "trip_id": "8_17715726",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "8",
@@ -127305,7 +127305,7 @@
       ]
     },
     {
-      "trip_id": "8_17611714",
+      "trip_id": "8_17715727",
       "direction_id": "0",
       "headsign": "DWORZEC GŁÓWNY (Dworcowa)",
       "service_id": "8",
@@ -127529,7 +127529,7 @@
       ]
     },
     {
-      "trip_id": "8_17611715",
+      "trip_id": "8_17715728",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "8",
@@ -127762,7 +127762,7 @@
       ]
     },
     {
-      "trip_id": "8_17611716",
+      "trip_id": "8_17715729",
       "direction_id": "0",
       "headsign": "DWORZEC GŁÓWNY (Dworcowa)",
       "service_id": "8",
@@ -127986,7 +127986,7 @@
       ]
     },
     {
-      "trip_id": "8_17611717",
+      "trip_id": "8_17715730",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "8",
@@ -128219,7 +128219,7 @@
       ]
     },
     {
-      "trip_id": "8_17611718",
+      "trip_id": "8_17715731",
       "direction_id": "0",
       "headsign": "DWORZEC GŁÓWNY (Dworcowa)",
       "service_id": "8",
@@ -128443,7 +128443,7 @@
       ]
     },
     {
-      "trip_id": "8_17611719",
+      "trip_id": "8_17715732",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "8",
@@ -128676,7 +128676,7 @@
       ]
     },
     {
-      "trip_id": "8_17611720",
+      "trip_id": "8_17715733",
       "direction_id": "0",
       "headsign": "DWORZEC GŁÓWNY (Dworcowa)",
       "service_id": "8",
@@ -128900,7 +128900,7 @@
       ]
     },
     {
-      "trip_id": "8_17611721",
+      "trip_id": "8_17715734",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "8",
@@ -129133,7 +129133,7 @@
       ]
     },
     {
-      "trip_id": "8_17611722",
+      "trip_id": "8_17715735",
       "direction_id": "0",
       "headsign": "DWORZEC GŁÓWNY (Dworcowa)",
       "service_id": "8",
@@ -129357,7 +129357,7 @@
       ]
     },
     {
-      "trip_id": "8_17611723",
+      "trip_id": "8_17715736",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "8",
@@ -129590,7 +129590,7 @@
       ]
     },
     {
-      "trip_id": "8_17611724",
+      "trip_id": "8_17715737",
       "direction_id": "0",
       "headsign": "DWORZEC GŁÓWNY (Dworcowa)",
       "service_id": "8",
@@ -129814,7 +129814,7 @@
       ]
     },
     {
-      "trip_id": "8_17611725",
+      "trip_id": "8_17715738",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "8",
@@ -130047,7 +130047,7 @@
       ]
     },
     {
-      "trip_id": "8_17611726",
+      "trip_id": "8_17715739",
       "direction_id": "0",
       "headsign": "DWORZEC GŁÓWNY (Dworcowa)",
       "service_id": "8",
@@ -130271,7 +130271,7 @@
       ]
     },
     {
-      "trip_id": "8_17611727",
+      "trip_id": "8_17715740",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "8",
@@ -130504,7 +130504,7 @@
       ]
     },
     {
-      "trip_id": "8_17611728",
+      "trip_id": "8_17715741",
       "direction_id": "0",
       "headsign": "DWORZEC GŁÓWNY (Dworcowa)",
       "service_id": "8",
@@ -130728,7 +130728,7 @@
       ]
     },
     {
-      "trip_id": "8_17611729",
+      "trip_id": "8_17715742",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "8",
@@ -130961,7 +130961,7 @@
       ]
     },
     {
-      "trip_id": "8_17611730",
+      "trip_id": "8_17715743",
       "direction_id": "0",
       "headsign": "DWORZEC GŁÓWNY (Dworcowa)",
       "service_id": "8",
@@ -131185,7 +131185,7 @@
       ]
     },
     {
-      "trip_id": "8_17611731",
+      "trip_id": "8_17715744",
       "direction_id": "1",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "8",
@@ -131211,7 +131211,7 @@
         {
           "stop_sequence": 2,
           "stop_id": "547",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 04",
           "arrival_time": "23:36:00",
           "departure_time": "23:36:00",
           "lat": 51.10801936,
@@ -131310,7 +131310,7 @@
       ]
     },
     {
-      "trip_id": "8_17611732",
+      "trip_id": "8_17715745",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "8",
@@ -131507,7 +131507,7 @@
       ]
     },
     {
-      "trip_id": "8_17611733",
+      "trip_id": "8_17715746",
       "direction_id": "0",
       "headsign": "DWORZEC GŁÓWNY (Dworcowa)",
       "service_id": "8",
@@ -131731,7 +131731,7 @@
       ]
     },
     {
-      "trip_id": "8_17611734",
+      "trip_id": "8_17715747",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "8",
@@ -131964,7 +131964,7 @@
       ]
     },
     {
-      "trip_id": "8_17611735",
+      "trip_id": "8_17715748",
       "direction_id": "0",
       "headsign": "DWORZEC GŁÓWNY (Dworcowa)",
       "service_id": "8",
@@ -132188,7 +132188,7 @@
       ]
     },
     {
-      "trip_id": "8_17611736",
+      "trip_id": "8_17715749",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "8",
@@ -132421,7 +132421,7 @@
       ]
     },
     {
-      "trip_id": "8_17611737",
+      "trip_id": "8_17715750",
       "direction_id": "0",
       "headsign": "DWORZEC GŁÓWNY (Dworcowa)",
       "service_id": "8",
@@ -132645,7 +132645,7 @@
       ]
     },
     {
-      "trip_id": "8_17611738",
+      "trip_id": "8_17715751",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "8",
@@ -132878,7 +132878,7 @@
       ]
     },
     {
-      "trip_id": "8_17611739",
+      "trip_id": "8_17715752",
       "direction_id": "0",
       "headsign": "DWORZEC GŁÓWNY (Dworcowa)",
       "service_id": "8",
@@ -133102,7 +133102,7 @@
       ]
     },
     {
-      "trip_id": "8_17611740",
+      "trip_id": "8_17715753",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "8",
@@ -133335,7 +133335,7 @@
       ]
     },
     {
-      "trip_id": "8_17611741",
+      "trip_id": "8_17715754",
       "direction_id": "0",
       "headsign": "DWORZEC GŁÓWNY (Dworcowa)",
       "service_id": "8",
@@ -133559,7 +133559,7 @@
       ]
     },
     {
-      "trip_id": "8_17611742",
+      "trip_id": "8_17715755",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "8",
@@ -133792,7 +133792,7 @@
       ]
     },
     {
-      "trip_id": "8_17611743",
+      "trip_id": "8_17715756",
       "direction_id": "0",
       "headsign": "DWORZEC GŁÓWNY (Dworcowa)",
       "service_id": "8",
@@ -134016,7 +134016,7 @@
       ]
     },
     {
-      "trip_id": "8_17611744",
+      "trip_id": "8_17715757",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "8",
@@ -134249,7 +134249,7 @@
       ]
     },
     {
-      "trip_id": "8_17611745",
+      "trip_id": "8_17715758",
       "direction_id": "0",
       "headsign": "DWORZEC GŁÓWNY (Dworcowa)",
       "service_id": "8",
@@ -134473,7 +134473,7 @@
       ]
     },
     {
-      "trip_id": "8_17611746",
+      "trip_id": "8_17715759",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "8",
@@ -134706,7 +134706,7 @@
       ]
     },
     {
-      "trip_id": "8_17611747",
+      "trip_id": "8_17715760",
       "direction_id": "0",
       "headsign": "DWORZEC GŁÓWNY (Dworcowa)",
       "service_id": "8",
@@ -134930,7 +134930,7 @@
       ]
     },
     {
-      "trip_id": "8_17611748",
+      "trip_id": "8_17715761",
       "direction_id": "1",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "8",
@@ -134956,7 +134956,7 @@
         {
           "stop_sequence": 2,
           "stop_id": "547",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 04",
           "arrival_time": "21:51:00",
           "departure_time": "21:51:00",
           "lat": 51.10801936,
@@ -135055,7 +135055,7 @@
       ]
     },
     {
-      "trip_id": "8_17611749",
+      "trip_id": "8_17715762",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "8",
@@ -135252,7 +135252,7 @@
       ]
     },
     {
-      "trip_id": "8_17611750",
+      "trip_id": "8_17715763",
       "direction_id": "0",
       "headsign": "DWORZEC GŁÓWNY (Dworcowa)",
       "service_id": "8",
@@ -135476,7 +135476,7 @@
       ]
     },
     {
-      "trip_id": "8_17611751",
+      "trip_id": "8_17715764",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "8",
@@ -135709,7 +135709,7 @@
       ]
     },
     {
-      "trip_id": "8_17611752",
+      "trip_id": "8_17715765",
       "direction_id": "0",
       "headsign": "DWORZEC GŁÓWNY (Dworcowa)",
       "service_id": "8",
@@ -135933,7 +135933,7 @@
       ]
     },
     {
-      "trip_id": "8_17611753",
+      "trip_id": "8_17715766",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "8",
@@ -136166,7 +136166,7 @@
       ]
     },
     {
-      "trip_id": "8_17611754",
+      "trip_id": "8_17715767",
       "direction_id": "0",
       "headsign": "DWORZEC GŁÓWNY (Dworcowa)",
       "service_id": "8",
@@ -136390,7 +136390,7 @@
       ]
     },
     {
-      "trip_id": "8_17611755",
+      "trip_id": "8_17715768",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "8",
@@ -136623,7 +136623,7 @@
       ]
     },
     {
-      "trip_id": "8_17611756",
+      "trip_id": "8_17715769",
       "direction_id": "0",
       "headsign": "DWORZEC GŁÓWNY (Dworcowa)",
       "service_id": "8",
@@ -136847,7 +136847,7 @@
       ]
     },
     {
-      "trip_id": "8_17611757",
+      "trip_id": "8_17715770",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "8",
@@ -137080,7 +137080,7 @@
       ]
     },
     {
-      "trip_id": "8_17611758",
+      "trip_id": "8_17715771",
       "direction_id": "0",
       "headsign": "DWORZEC GŁÓWNY (Dworcowa)",
       "service_id": "8",
@@ -137304,7 +137304,7 @@
       ]
     },
     {
-      "trip_id": "8_17611759",
+      "trip_id": "8_17715772",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "8",
@@ -137537,7 +137537,7 @@
       ]
     },
     {
-      "trip_id": "8_17611760",
+      "trip_id": "8_17715773",
       "direction_id": "0",
       "headsign": "DWORZEC GŁÓWNY (Dworcowa)",
       "service_id": "8",
@@ -137761,7 +137761,7 @@
       ]
     },
     {
-      "trip_id": "8_17611761",
+      "trip_id": "8_17715774",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "8",
@@ -137994,7 +137994,7 @@
       ]
     },
     {
-      "trip_id": "8_17611762",
+      "trip_id": "8_17715775",
       "direction_id": "0",
       "headsign": "DWORZEC GŁÓWNY (Dworcowa)",
       "service_id": "8",
@@ -138218,7 +138218,7 @@
       ]
     },
     {
-      "trip_id": "8_17611763",
+      "trip_id": "8_17715776",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "8",
@@ -138451,7 +138451,7 @@
       ]
     },
     {
-      "trip_id": "8_17611764",
+      "trip_id": "8_17715777",
       "direction_id": "0",
       "headsign": "DWORZEC GŁÓWNY (Dworcowa)",
       "service_id": "8",
@@ -138675,7 +138675,7 @@
       ]
     },
     {
-      "trip_id": "8_17611765",
+      "trip_id": "8_17715778",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "8",
@@ -138908,7 +138908,7 @@
       ]
     },
     {
-      "trip_id": "8_17611766",
+      "trip_id": "8_17715779",
       "direction_id": "0",
       "headsign": "DWORZEC GŁÓWNY (Dworcowa)",
       "service_id": "8",
@@ -139132,7 +139132,7 @@
       ]
     },
     {
-      "trip_id": "8_17611767",
+      "trip_id": "8_17715780",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "8",
@@ -139365,7 +139365,7 @@
       ]
     },
     {
-      "trip_id": "8_17611768",
+      "trip_id": "8_17715781",
       "direction_id": "0",
       "headsign": "DWORZEC GŁÓWNY (Dworcowa)",
       "service_id": "8",
@@ -139589,7 +139589,7 @@
       ]
     },
     {
-      "trip_id": "8_17611769",
+      "trip_id": "8_17715782",
       "direction_id": "1",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "8",
@@ -139615,7 +139615,7 @@
         {
           "stop_sequence": 2,
           "stop_id": "547",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 04",
           "arrival_time": "24:20:00",
           "departure_time": "24:20:00",
           "lat": 51.10801936,
@@ -139714,7 +139714,7 @@
       ]
     },
     {
-      "trip_id": "8_17611770",
+      "trip_id": "8_17715783",
       "direction_id": "0",
       "headsign": "DWORZEC GŁÓWNY (Dworcowa)",
       "service_id": "8",
@@ -139821,7 +139821,7 @@
         {
           "stop_sequence": 11,
           "stop_id": "546",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 05",
           "arrival_time": "04:46:00",
           "departure_time": "04:46:00",
           "lat": 51.10740171,
@@ -139848,7 +139848,7 @@
       ]
     },
     {
-      "trip_id": "8_17611771",
+      "trip_id": "8_17715784",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "8",
@@ -140081,7 +140081,7 @@
       ]
     },
     {
-      "trip_id": "8_17611772",
+      "trip_id": "8_17715785",
       "direction_id": "0",
       "headsign": "DWORZEC GŁÓWNY (Dworcowa)",
       "service_id": "8",
@@ -140305,7 +140305,7 @@
       ]
     },
     {
-      "trip_id": "8_17611773",
+      "trip_id": "8_17715786",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "8",
@@ -140538,7 +140538,7 @@
       ]
     },
     {
-      "trip_id": "8_17611774",
+      "trip_id": "8_17715787",
       "direction_id": "0",
       "headsign": "DWORZEC GŁÓWNY (Dworcowa)",
       "service_id": "8",
@@ -140762,7 +140762,7 @@
       ]
     },
     {
-      "trip_id": "8_17611775",
+      "trip_id": "8_17715788",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "8",
@@ -140995,7 +140995,7 @@
       ]
     },
     {
-      "trip_id": "8_17611776",
+      "trip_id": "8_17715789",
       "direction_id": "0",
       "headsign": "DWORZEC GŁÓWNY (Dworcowa)",
       "service_id": "8",
@@ -141219,7 +141219,7 @@
       ]
     },
     {
-      "trip_id": "8_17611777",
+      "trip_id": "8_17715790",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "8",
@@ -141452,7 +141452,7 @@
       ]
     },
     {
-      "trip_id": "8_17611778",
+      "trip_id": "8_17715791",
       "direction_id": "0",
       "headsign": "DWORZEC GŁÓWNY (Dworcowa)",
       "service_id": "8",
@@ -141676,7 +141676,7 @@
       ]
     },
     {
-      "trip_id": "8_17611779",
+      "trip_id": "8_17715792",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "8",
@@ -141909,7 +141909,7 @@
       ]
     },
     {
-      "trip_id": "8_17611780",
+      "trip_id": "8_17715793",
       "direction_id": "0",
       "headsign": "DWORZEC GŁÓWNY (Dworcowa)",
       "service_id": "8",
@@ -142133,7 +142133,7 @@
       ]
     },
     {
-      "trip_id": "8_17611781",
+      "trip_id": "8_17715794",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "8",
@@ -142366,7 +142366,7 @@
       ]
     },
     {
-      "trip_id": "8_17611782",
+      "trip_id": "8_17715795",
       "direction_id": "0",
       "headsign": "DWORZEC GŁÓWNY (Dworcowa)",
       "service_id": "8",
@@ -142590,7 +142590,7 @@
       ]
     },
     {
-      "trip_id": "8_17611783",
+      "trip_id": "8_17715796",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "8",
@@ -142823,7 +142823,7 @@
       ]
     },
     {
-      "trip_id": "8_17611784",
+      "trip_id": "8_17715797",
       "direction_id": "0",
       "headsign": "DWORZEC GŁÓWNY (Dworcowa)",
       "service_id": "8",
@@ -143047,7 +143047,7 @@
       ]
     },
     {
-      "trip_id": "8_17611785",
+      "trip_id": "8_17715798",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "8",
@@ -143280,7 +143280,7 @@
       ]
     },
     {
-      "trip_id": "8_17611786",
+      "trip_id": "8_17715799",
       "direction_id": "0",
       "headsign": "DWORZEC GŁÓWNY (Dworcowa)",
       "service_id": "8",
@@ -143504,7 +143504,7 @@
       ]
     },
     {
-      "trip_id": "8_17611787",
+      "trip_id": "8_17715800",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "8",
@@ -143737,7 +143737,7 @@
       ]
     },
     {
-      "trip_id": "8_17611788",
+      "trip_id": "8_17715801",
       "direction_id": "0",
       "headsign": "DWORZEC GŁÓWNY (Dworcowa)",
       "service_id": "8",
@@ -143961,7 +143961,7 @@
       ]
     },
     {
-      "trip_id": "8_17611789",
+      "trip_id": "8_17715802",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "8",
@@ -144194,7 +144194,7 @@
       ]
     },
     {
-      "trip_id": "8_17611790",
+      "trip_id": "8_17715803",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "8",
@@ -144400,7 +144400,7 @@
       ]
     },
     {
-      "trip_id": "8_17611793",
+      "trip_id": "8_17715806",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "8",
@@ -144633,7 +144633,7 @@
       ]
     },
     {
-      "trip_id": "8_17611794",
+      "trip_id": "8_17715807",
       "direction_id": "0",
       "headsign": "DWORZEC GŁÓWNY (Dworcowa)",
       "service_id": "8",
@@ -144857,7 +144857,7 @@
       ]
     },
     {
-      "trip_id": "8_17611795",
+      "trip_id": "8_17715808",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "8",
@@ -145090,7 +145090,7 @@
       ]
     },
     {
-      "trip_id": "8_17611796",
+      "trip_id": "8_17715809",
       "direction_id": "0",
       "headsign": "DWORZEC GŁÓWNY (Dworcowa)",
       "service_id": "8",
@@ -145314,7 +145314,7 @@
       ]
     },
     {
-      "trip_id": "8_17611797",
+      "trip_id": "8_17715810",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "8",
@@ -145547,7 +145547,7 @@
       ]
     },
     {
-      "trip_id": "8_17611798",
+      "trip_id": "8_17715811",
       "direction_id": "0",
       "headsign": "DWORZEC GŁÓWNY (Dworcowa)",
       "service_id": "8",
@@ -145771,7 +145771,7 @@
       ]
     },
     {
-      "trip_id": "8_17611799",
+      "trip_id": "8_17715812",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "8",
@@ -146004,7 +146004,7 @@
       ]
     },
     {
-      "trip_id": "8_17611800",
+      "trip_id": "8_17715813",
       "direction_id": "0",
       "headsign": "DWORZEC GŁÓWNY (Dworcowa)",
       "service_id": "8",
@@ -146228,7 +146228,7 @@
       ]
     },
     {
-      "trip_id": "8_17611801",
+      "trip_id": "8_17715814",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "8",
@@ -146461,7 +146461,7 @@
       ]
     },
     {
-      "trip_id": "8_17611802",
+      "trip_id": "8_17715815",
       "direction_id": "0",
       "headsign": "DWORZEC GŁÓWNY (Dworcowa)",
       "service_id": "8",
@@ -146685,7 +146685,7 @@
       ]
     },
     {
-      "trip_id": "8_17611803",
+      "trip_id": "8_17715816",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "8",
@@ -146918,7 +146918,7 @@
       ]
     },
     {
-      "trip_id": "8_17611804",
+      "trip_id": "8_17715817",
       "direction_id": "0",
       "headsign": "DWORZEC GŁÓWNY (Dworcowa)",
       "service_id": "8",
@@ -147142,7 +147142,7 @@
       ]
     },
     {
-      "trip_id": "8_17611805",
+      "trip_id": "8_17715818",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "8",
@@ -147375,7 +147375,7 @@
       ]
     },
     {
-      "trip_id": "8_17611806",
+      "trip_id": "8_17715819",
       "direction_id": "0",
       "headsign": "DWORZEC GŁÓWNY (Dworcowa)",
       "service_id": "8",
@@ -147599,7 +147599,7 @@
       ]
     },
     {
-      "trip_id": "8_17611807",
+      "trip_id": "8_17715820",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "8",
@@ -147832,7 +147832,7 @@
       ]
     },
     {
-      "trip_id": "8_17611808",
+      "trip_id": "8_17715821",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "8",
@@ -148038,7 +148038,7 @@
       ]
     },
     {
-      "trip_id": "8_17616306",
+      "trip_id": "8_17720319",
       "direction_id": "0",
       "headsign": "DWORZEC GŁÓWNY (Dworcowa)",
       "service_id": "8",
@@ -148145,7 +148145,7 @@
         {
           "stop_sequence": 11,
           "stop_id": "546",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 05",
           "arrival_time": "22:09:00",
           "departure_time": "22:09:00",
           "lat": 51.10740171,
@@ -148172,7 +148172,7 @@
       ]
     },
     {
-      "trip_id": "8_17616307",
+      "trip_id": "8_17720320",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "8",
@@ -148405,7 +148405,7 @@
       ]
     },
     {
-      "trip_id": "8_17616308",
+      "trip_id": "8_17720321",
       "direction_id": "0",
       "headsign": "DWORZEC AUTOBUSOWY",
       "service_id": "8",
@@ -148656,7 +148656,7 @@
       ]
     },
     {
-      "trip_id": "8_17616314",
+      "trip_id": "8_17720327",
       "direction_id": "0",
       "headsign": "DWORZEC GŁÓWNY (Dworcowa)",
       "service_id": "8",
@@ -148763,7 +148763,7 @@
         {
           "stop_sequence": 11,
           "stop_id": "546",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 05",
           "arrival_time": "21:35:00",
           "departure_time": "21:35:00",
           "lat": 51.10740171,
@@ -148790,7 +148790,7 @@
       ]
     },
     {
-      "trip_id": "8_17616315",
+      "trip_id": "8_17720328",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "8",
@@ -149023,7 +149023,7 @@
       ]
     },
     {
-      "trip_id": "8_17616316",
+      "trip_id": "8_17720329",
       "direction_id": "0",
       "headsign": "DWORZEC GŁÓWNY (Dworcowa)",
       "service_id": "8",
@@ -149247,7 +149247,7 @@
       ]
     },
     {
-      "trip_id": "8_17616317",
+      "trip_id": "8_17720330",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "8",

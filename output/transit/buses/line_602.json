@@ -2,7 +2,7 @@
   "line": "602",
   "trips": [
     {
-      "trip_id": "3_17599248",
+      "trip_id": "3_17703261",
       "direction_id": "0",
       "headsign": "DWORZEC GŁÓWNY (Dworcowa)",
       "service_id": "3",
@@ -136,7 +136,7 @@
         {
           "stop_sequence": 14,
           "stop_id": "1330",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 03",
           "arrival_time": "13:18:00",
           "departure_time": "13:18:00",
           "lat": 51.10670852,
@@ -154,7 +154,7 @@
       ]
     },
     {
-      "trip_id": "3_17599249",
+      "trip_id": "3_17703262",
       "direction_id": "1",
       "headsign": "Biskupice Podg. LG Energy Solution Wr. I",
       "service_id": "3",
@@ -252,7 +252,7 @@
       ]
     },
     {
-      "trip_id": "3_17599250",
+      "trip_id": "3_17703263",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "3",
@@ -332,7 +332,7 @@
         {
           "stop_sequence": 8,
           "stop_id": "547",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 04",
           "arrival_time": "16:18:00",
           "departure_time": "16:18:00",
           "lat": 51.10801936,
@@ -458,7 +458,7 @@
       ]
     },
     {
-      "trip_id": "3_17599251",
+      "trip_id": "3_17703264",
       "direction_id": "0",
       "headsign": "DWORZEC GŁÓWNY (Dworcowa)",
       "service_id": "3",
@@ -592,7 +592,7 @@
         {
           "stop_sequence": 14,
           "stop_id": "1330",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 03",
           "arrival_time": "21:21:00",
           "departure_time": "21:21:00",
           "lat": 51.10670852,
@@ -610,7 +610,7 @@
       ]
     },
     {
-      "trip_id": "3_17599252",
+      "trip_id": "3_17703265",
       "direction_id": "1",
       "headsign": "Biskupice Podg. LG Energy Solution Wr. I",
       "service_id": "3",
@@ -708,7 +708,7 @@
       ]
     },
     {
-      "trip_id": "3_17599253",
+      "trip_id": "3_17703266",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "3",
@@ -788,7 +788,7 @@
         {
           "stop_sequence": 8,
           "stop_id": "547",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 04",
           "arrival_time": "24:04:00",
           "departure_time": "24:04:00",
           "lat": 51.10801936,
@@ -914,7 +914,7 @@
       ]
     },
     {
-      "trip_id": "3_17599668",
+      "trip_id": "3_17703681",
       "direction_id": "0",
       "headsign": "DWORZEC GŁÓWNY (Dworcowa)",
       "service_id": "3",
@@ -1048,7 +1048,7 @@
         {
           "stop_sequence": 14,
           "stop_id": "1330",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 03",
           "arrival_time": "05:26:00",
           "departure_time": "05:26:00",
           "lat": 51.10670852,
@@ -1066,7 +1066,7 @@
       ]
     },
     {
-      "trip_id": "3_17599669",
+      "trip_id": "3_17703682",
       "direction_id": "1",
       "headsign": "Biskupice Podg. LG Energy Solution Wr. I",
       "service_id": "3",
@@ -1164,7 +1164,7 @@
       ]
     },
     {
-      "trip_id": "3_17599670",
+      "trip_id": "3_17703683",
       "direction_id": "0",
       "headsign": "Bezpieczna",
       "service_id": "3",
@@ -1244,7 +1244,7 @@
         {
           "stop_sequence": 8,
           "stop_id": "547",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 04",
           "arrival_time": "08:07:00",
           "departure_time": "08:07:00",
           "lat": 51.10801936,
@@ -1352,7 +1352,7 @@
       ]
     },
     {
-      "trip_id": "4_17603657",
+      "trip_id": "4_17707670",
       "direction_id": "0",
       "headsign": "DWORZEC GŁÓWNY (Dworcowa)",
       "service_id": "4",
@@ -1486,7 +1486,7 @@
         {
           "stop_sequence": 14,
           "stop_id": "1330",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 03",
           "arrival_time": "13:18:00",
           "departure_time": "13:18:00",
           "lat": 51.10670852,
@@ -1504,7 +1504,7 @@
       ]
     },
     {
-      "trip_id": "4_17603658",
+      "trip_id": "4_17707671",
       "direction_id": "1",
       "headsign": "Biskupice Podg. LG Energy Solution Wr. I",
       "service_id": "4",
@@ -1602,7 +1602,7 @@
       ]
     },
     {
-      "trip_id": "4_17603659",
+      "trip_id": "4_17707672",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "4",
@@ -1682,7 +1682,7 @@
         {
           "stop_sequence": 8,
           "stop_id": "547",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 04",
           "arrival_time": "16:18:00",
           "departure_time": "16:18:00",
           "lat": 51.10801936,
@@ -1808,7 +1808,7 @@
       ]
     },
     {
-      "trip_id": "4_17603660",
+      "trip_id": "4_17707673",
       "direction_id": "0",
       "headsign": "DWORZEC GŁÓWNY (Dworcowa)",
       "service_id": "4",
@@ -1942,7 +1942,7 @@
         {
           "stop_sequence": 14,
           "stop_id": "1330",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 03",
           "arrival_time": "21:21:00",
           "departure_time": "21:21:00",
           "lat": 51.10670852,
@@ -1960,7 +1960,7 @@
       ]
     },
     {
-      "trip_id": "4_17603661",
+      "trip_id": "4_17707674",
       "direction_id": "1",
       "headsign": "Biskupice Podg. LG Energy Solution Wr. I",
       "service_id": "4",
@@ -2058,7 +2058,7 @@
       ]
     },
     {
-      "trip_id": "4_17603662",
+      "trip_id": "4_17707675",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "4",
@@ -2138,7 +2138,7 @@
         {
           "stop_sequence": 8,
           "stop_id": "547",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 04",
           "arrival_time": "24:04:00",
           "departure_time": "24:04:00",
           "lat": 51.10801936,
@@ -2264,7 +2264,7 @@
       ]
     },
     {
-      "trip_id": "4_17604077",
+      "trip_id": "4_17708090",
       "direction_id": "0",
       "headsign": "DWORZEC GŁÓWNY (Dworcowa)",
       "service_id": "4",
@@ -2398,7 +2398,7 @@
         {
           "stop_sequence": 14,
           "stop_id": "1330",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 03",
           "arrival_time": "05:26:00",
           "departure_time": "05:26:00",
           "lat": 51.10670852,
@@ -2416,7 +2416,7 @@
       ]
     },
     {
-      "trip_id": "4_17604078",
+      "trip_id": "4_17708091",
       "direction_id": "1",
       "headsign": "Biskupice Podg. LG Energy Solution Wr. I",
       "service_id": "4",
@@ -2514,7 +2514,7 @@
       ]
     },
     {
-      "trip_id": "4_17604079",
+      "trip_id": "4_17708092",
       "direction_id": "0",
       "headsign": "Bezpieczna",
       "service_id": "4",
@@ -2594,7 +2594,7 @@
         {
           "stop_sequence": 8,
           "stop_id": "547",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 04",
           "arrival_time": "08:07:00",
           "departure_time": "08:07:00",
           "lat": 51.10801936,
@@ -2702,7 +2702,7 @@
       ]
     },
     {
-      "trip_id": "6_17604965",
+      "trip_id": "6_17708978",
       "direction_id": "1",
       "headsign": "Biskupice Podg. LG Energy Solution Wr. I",
       "service_id": "6",
@@ -2917,7 +2917,7 @@
       ]
     },
     {
-      "trip_id": "6_17604966",
+      "trip_id": "6_17708979",
       "direction_id": "0",
       "headsign": "DWORZEC GŁÓWNY (Dworcowa)",
       "service_id": "6",
@@ -2979,7 +2979,7 @@
       ]
     },
     {
-      "trip_id": "6_17610181",
+      "trip_id": "6_17714194",
       "direction_id": "0",
       "headsign": "DWORZEC GŁÓWNY (Dworcowa)",
       "service_id": "6",
@@ -3113,7 +3113,7 @@
         {
           "stop_sequence": 14,
           "stop_id": "1330",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 03",
           "arrival_time": "05:17:00",
           "departure_time": "05:17:00",
           "lat": 51.10670852,
@@ -3131,7 +3131,7 @@
       ]
     },
     {
-      "trip_id": "6_17610182",
+      "trip_id": "6_17714195",
       "direction_id": "1",
       "headsign": "Biskupice Podg. LG Energy Solution Wr. I",
       "service_id": "6",
@@ -3229,7 +3229,7 @@
       ]
     },
     {
-      "trip_id": "6_17610183",
+      "trip_id": "6_17714196",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "6",
@@ -3282,7 +3282,7 @@
         {
           "stop_sequence": 5,
           "stop_id": "547",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 04",
           "arrival_time": "07:47:00",
           "departure_time": "07:47:00",
           "lat": 51.10801936,
@@ -3408,7 +3408,7 @@
       ]
     },
     {
-      "trip_id": "6_17610184",
+      "trip_id": "6_17714197",
       "direction_id": "0",
       "headsign": "DWORZEC GŁÓWNY (Dworcowa)",
       "service_id": "6",
@@ -3542,7 +3542,7 @@
         {
           "stop_sequence": 14,
           "stop_id": "1330",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 03",
           "arrival_time": "06:35:00",
           "departure_time": "06:35:00",
           "lat": 51.10670852,
@@ -3560,7 +3560,7 @@
       ]
     },
     {
-      "trip_id": "6_17610185",
+      "trip_id": "6_17714198",
       "direction_id": "1",
       "headsign": "Biskupice Podg. LG Energy Solution Wr. I",
       "service_id": "6",
@@ -3658,7 +3658,7 @@
       ]
     },
     {
-      "trip_id": "6_17610186",
+      "trip_id": "6_17714199",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "6",
@@ -3711,7 +3711,7 @@
         {
           "stop_sequence": 5,
           "stop_id": "547",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 04",
           "arrival_time": "08:37:00",
           "departure_time": "08:37:00",
           "lat": 51.10801936,
@@ -3837,7 +3837,7 @@
       ]
     },
     {
-      "trip_id": "6_17610187",
+      "trip_id": "6_17714200",
       "direction_id": "0",
       "headsign": "DWORZEC GŁÓWNY (Dworcowa)",
       "service_id": "6",
@@ -3971,7 +3971,7 @@
         {
           "stop_sequence": 14,
           "stop_id": "1330",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 03",
           "arrival_time": "05:36:00",
           "departure_time": "05:36:00",
           "lat": 51.10670852,
@@ -3989,7 +3989,7 @@
       ]
     },
     {
-      "trip_id": "6_17610188",
+      "trip_id": "6_17714201",
       "direction_id": "1",
       "headsign": "Biskupice Podg. LG Energy Solution Wr. I",
       "service_id": "6",
@@ -4087,7 +4087,7 @@
       ]
     },
     {
-      "trip_id": "6_17610189",
+      "trip_id": "6_17714202",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "6",
@@ -4167,7 +4167,7 @@
         {
           "stop_sequence": 8,
           "stop_id": "547",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 04",
           "arrival_time": "08:13:00",
           "departure_time": "08:13:00",
           "lat": 51.10801936,
@@ -4293,7 +4293,7 @@
       ]
     },
     {
-      "trip_id": "6_17610190",
+      "trip_id": "6_17714203",
       "direction_id": "0",
       "headsign": "DWORZEC GŁÓWNY (Dworcowa)",
       "service_id": "6",
@@ -4427,7 +4427,7 @@
         {
           "stop_sequence": 14,
           "stop_id": "1330",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 03",
           "arrival_time": "06:04:00",
           "departure_time": "06:04:00",
           "lat": 51.10670852,
@@ -4445,7 +4445,7 @@
       ]
     },
     {
-      "trip_id": "6_17610191",
+      "trip_id": "6_17714204",
       "direction_id": "1",
       "headsign": "Biskupice Podg. LG Energy Solution Wr. I",
       "service_id": "6",
@@ -4543,7 +4543,7 @@
       ]
     },
     {
-      "trip_id": "6_17610192",
+      "trip_id": "6_17714205",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "6",
@@ -4596,7 +4596,7 @@
         {
           "stop_sequence": 5,
           "stop_id": "547",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 04",
           "arrival_time": "08:17:00",
           "departure_time": "08:17:00",
           "lat": 51.10801936,
@@ -4722,7 +4722,7 @@
       ]
     },
     {
-      "trip_id": "6_17610193",
+      "trip_id": "6_17714206",
       "direction_id": "1",
       "headsign": "Biskupice Podg. LG Energy Solution Wr. I",
       "service_id": "6",
@@ -4910,7 +4910,7 @@
       ]
     },
     {
-      "trip_id": "6_17610194",
+      "trip_id": "6_17714207",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "6",
@@ -4990,7 +4990,7 @@
         {
           "stop_sequence": 8,
           "stop_id": "547",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 04",
           "arrival_time": "16:29:00",
           "departure_time": "16:29:00",
           "lat": 51.10801936,
@@ -5116,7 +5116,7 @@
       ]
     },
     {
-      "trip_id": "6_17610195",
+      "trip_id": "6_17714208",
       "direction_id": "1",
       "headsign": "Biskupice Podg. LG Energy Solution Wr. I",
       "service_id": "6",
@@ -5304,7 +5304,7 @@
       ]
     },
     {
-      "trip_id": "6_17610196",
+      "trip_id": "6_17714209",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "6",
@@ -5384,7 +5384,7 @@
         {
           "stop_sequence": 8,
           "stop_id": "547",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 04",
           "arrival_time": "16:39:00",
           "departure_time": "16:39:00",
           "lat": 51.10801936,
@@ -5510,7 +5510,7 @@
       ]
     },
     {
-      "trip_id": "6_17610197",
+      "trip_id": "6_17714210",
       "direction_id": "1",
       "headsign": "Biskupice Podg. LG Energy Solution Wr. I",
       "service_id": "6",
@@ -5725,7 +5725,7 @@
       ]
     },
     {
-      "trip_id": "6_17610198",
+      "trip_id": "6_17714211",
       "direction_id": "0",
       "headsign": "DWORZEC GŁÓWNY (Dworcowa)",
       "service_id": "6",
@@ -5814,7 +5814,7 @@
       ]
     },
     {
-      "trip_id": "6_17610199",
+      "trip_id": "6_17714212",
       "direction_id": "1",
       "headsign": "Biskupice Podg. LG Energy Solution Wr. I",
       "service_id": "6",
@@ -5885,7 +5885,7 @@
       ]
     },
     {
-      "trip_id": "6_17610200",
+      "trip_id": "6_17714213",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "6",
@@ -5965,7 +5965,7 @@
         {
           "stop_sequence": 8,
           "stop_id": "547",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 04",
           "arrival_time": "18:14:00",
           "departure_time": "18:14:00",
           "lat": 51.10801936,
@@ -6091,7 +6091,7 @@
       ]
     },
     {
-      "trip_id": "6_17610201",
+      "trip_id": "6_17714214",
       "direction_id": "0",
       "headsign": "DWORZEC GŁÓWNY (Dworcowa)",
       "service_id": "6",
@@ -6225,7 +6225,7 @@
         {
           "stop_sequence": 14,
           "stop_id": "1330",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 03",
           "arrival_time": "15:05:00",
           "departure_time": "15:05:00",
           "lat": 51.10670852,
@@ -6243,7 +6243,7 @@
       ]
     },
     {
-      "trip_id": "6_17610202",
+      "trip_id": "6_17714215",
       "direction_id": "1",
       "headsign": "Biskupice Podg. LG Energy Solution Wr. I",
       "service_id": "6",
@@ -6314,7 +6314,7 @@
       ]
     },
     {
-      "trip_id": "6_17610203",
+      "trip_id": "6_17714216",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "6",
@@ -6394,7 +6394,7 @@
         {
           "stop_sequence": 8,
           "stop_id": "547",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 04",
           "arrival_time": "17:28:00",
           "departure_time": "17:28:00",
           "lat": 51.10801936,
@@ -6520,7 +6520,7 @@
       ]
     },
     {
-      "trip_id": "6_17610204",
+      "trip_id": "6_17714217",
       "direction_id": "0",
       "headsign": "DWORZEC GŁÓWNY (Dworcowa)",
       "service_id": "6",
@@ -6654,7 +6654,7 @@
         {
           "stop_sequence": 14,
           "stop_id": "1330",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 03",
           "arrival_time": "21:31:00",
           "departure_time": "21:31:00",
           "lat": 51.10670852,
@@ -6672,7 +6672,7 @@
       ]
     },
     {
-      "trip_id": "6_17610205",
+      "trip_id": "6_17714218",
       "direction_id": "1",
       "headsign": "Biskupice Podg. LG Energy Solution Wr. I",
       "service_id": "6",
@@ -6770,7 +6770,7 @@
       ]
     },
     {
-      "trip_id": "6_17610206",
+      "trip_id": "6_17714219",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "6",
@@ -6850,7 +6850,7 @@
         {
           "stop_sequence": 8,
           "stop_id": "547",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 04",
           "arrival_time": "24:04:00",
           "departure_time": "24:04:00",
           "lat": 51.10801936,
@@ -6976,7 +6976,7 @@
       ]
     },
     {
-      "trip_id": "8_17611791",
+      "trip_id": "8_17715804",
       "direction_id": "1",
       "headsign": "Biskupice Podg. LG Energy Solution Wr. I",
       "service_id": "8",
@@ -7191,7 +7191,7 @@
       ]
     },
     {
-      "trip_id": "8_17611792",
+      "trip_id": "8_17715805",
       "direction_id": "0",
       "headsign": "DWORZEC GŁÓWNY (Dworcowa)",
       "service_id": "8",
@@ -7253,7 +7253,7 @@
       ]
     },
     {
-      "trip_id": "8_17617010",
+      "trip_id": "8_17721023",
       "direction_id": "0",
       "headsign": "DWORZEC GŁÓWNY (Dworcowa)",
       "service_id": "8",
@@ -7387,7 +7387,7 @@
         {
           "stop_sequence": 14,
           "stop_id": "1330",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 03",
           "arrival_time": "05:17:00",
           "departure_time": "05:17:00",
           "lat": 51.10670852,
@@ -7405,7 +7405,7 @@
       ]
     },
     {
-      "trip_id": "8_17617011",
+      "trip_id": "8_17721024",
       "direction_id": "1",
       "headsign": "Biskupice Podg. LG Energy Solution Wr. I",
       "service_id": "8",
@@ -7503,7 +7503,7 @@
       ]
     },
     {
-      "trip_id": "8_17617012",
+      "trip_id": "8_17721025",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "8",
@@ -7556,7 +7556,7 @@
         {
           "stop_sequence": 5,
           "stop_id": "547",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 04",
           "arrival_time": "07:47:00",
           "departure_time": "07:47:00",
           "lat": 51.10801936,
@@ -7682,7 +7682,7 @@
       ]
     },
     {
-      "trip_id": "8_17617013",
+      "trip_id": "8_17721026",
       "direction_id": "0",
       "headsign": "DWORZEC GŁÓWNY (Dworcowa)",
       "service_id": "8",
@@ -7816,7 +7816,7 @@
         {
           "stop_sequence": 14,
           "stop_id": "1330",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 03",
           "arrival_time": "06:35:00",
           "departure_time": "06:35:00",
           "lat": 51.10670852,
@@ -7834,7 +7834,7 @@
       ]
     },
     {
-      "trip_id": "8_17617014",
+      "trip_id": "8_17721027",
       "direction_id": "1",
       "headsign": "Biskupice Podg. LG Energy Solution Wr. I",
       "service_id": "8",
@@ -7932,7 +7932,7 @@
       ]
     },
     {
-      "trip_id": "8_17617015",
+      "trip_id": "8_17721028",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "8",
@@ -7985,7 +7985,7 @@
         {
           "stop_sequence": 5,
           "stop_id": "547",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 04",
           "arrival_time": "08:37:00",
           "departure_time": "08:37:00",
           "lat": 51.10801936,
@@ -8111,7 +8111,7 @@
       ]
     },
     {
-      "trip_id": "8_17617016",
+      "trip_id": "8_17721029",
       "direction_id": "0",
       "headsign": "DWORZEC GŁÓWNY (Dworcowa)",
       "service_id": "8",
@@ -8245,7 +8245,7 @@
         {
           "stop_sequence": 14,
           "stop_id": "1330",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 03",
           "arrival_time": "05:36:00",
           "departure_time": "05:36:00",
           "lat": 51.10670852,
@@ -8263,7 +8263,7 @@
       ]
     },
     {
-      "trip_id": "8_17617017",
+      "trip_id": "8_17721030",
       "direction_id": "1",
       "headsign": "Biskupice Podg. LG Energy Solution Wr. I",
       "service_id": "8",
@@ -8361,7 +8361,7 @@
       ]
     },
     {
-      "trip_id": "8_17617018",
+      "trip_id": "8_17721031",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "8",
@@ -8441,7 +8441,7 @@
         {
           "stop_sequence": 8,
           "stop_id": "547",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 04",
           "arrival_time": "08:13:00",
           "departure_time": "08:13:00",
           "lat": 51.10801936,
@@ -8567,7 +8567,7 @@
       ]
     },
     {
-      "trip_id": "8_17617019",
+      "trip_id": "8_17721032",
       "direction_id": "0",
       "headsign": "DWORZEC GŁÓWNY (Dworcowa)",
       "service_id": "8",
@@ -8701,7 +8701,7 @@
         {
           "stop_sequence": 14,
           "stop_id": "1330",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 03",
           "arrival_time": "06:04:00",
           "departure_time": "06:04:00",
           "lat": 51.10670852,
@@ -8719,7 +8719,7 @@
       ]
     },
     {
-      "trip_id": "8_17617020",
+      "trip_id": "8_17721033",
       "direction_id": "1",
       "headsign": "Biskupice Podg. LG Energy Solution Wr. I",
       "service_id": "8",
@@ -8817,7 +8817,7 @@
       ]
     },
     {
-      "trip_id": "8_17617021",
+      "trip_id": "8_17721034",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "8",
@@ -8870,7 +8870,7 @@
         {
           "stop_sequence": 5,
           "stop_id": "547",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 04",
           "arrival_time": "08:17:00",
           "departure_time": "08:17:00",
           "lat": 51.10801936,
@@ -8996,7 +8996,7 @@
       ]
     },
     {
-      "trip_id": "8_17617022",
+      "trip_id": "8_17721035",
       "direction_id": "1",
       "headsign": "Biskupice Podg. LG Energy Solution Wr. I",
       "service_id": "8",
@@ -9184,7 +9184,7 @@
       ]
     },
     {
-      "trip_id": "8_17617023",
+      "trip_id": "8_17721036",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "8",
@@ -9264,7 +9264,7 @@
         {
           "stop_sequence": 8,
           "stop_id": "547",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 04",
           "arrival_time": "16:29:00",
           "departure_time": "16:29:00",
           "lat": 51.10801936,
@@ -9390,7 +9390,7 @@
       ]
     },
     {
-      "trip_id": "8_17617024",
+      "trip_id": "8_17721037",
       "direction_id": "1",
       "headsign": "Biskupice Podg. LG Energy Solution Wr. I",
       "service_id": "8",
@@ -9578,7 +9578,7 @@
       ]
     },
     {
-      "trip_id": "8_17617025",
+      "trip_id": "8_17721038",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "8",
@@ -9658,7 +9658,7 @@
         {
           "stop_sequence": 8,
           "stop_id": "547",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 04",
           "arrival_time": "16:39:00",
           "departure_time": "16:39:00",
           "lat": 51.10801936,
@@ -9784,7 +9784,7 @@
       ]
     },
     {
-      "trip_id": "8_17617026",
+      "trip_id": "8_17721039",
       "direction_id": "1",
       "headsign": "Biskupice Podg. LG Energy Solution Wr. I",
       "service_id": "8",
@@ -9999,7 +9999,7 @@
       ]
     },
     {
-      "trip_id": "8_17617027",
+      "trip_id": "8_17721040",
       "direction_id": "0",
       "headsign": "DWORZEC GŁÓWNY (Dworcowa)",
       "service_id": "8",
@@ -10088,7 +10088,7 @@
       ]
     },
     {
-      "trip_id": "8_17617028",
+      "trip_id": "8_17721041",
       "direction_id": "1",
       "headsign": "Biskupice Podg. LG Energy Solution Wr. I",
       "service_id": "8",
@@ -10159,7 +10159,7 @@
       ]
     },
     {
-      "trip_id": "8_17617029",
+      "trip_id": "8_17721042",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "8",
@@ -10239,7 +10239,7 @@
         {
           "stop_sequence": 8,
           "stop_id": "547",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 04",
           "arrival_time": "18:14:00",
           "departure_time": "18:14:00",
           "lat": 51.10801936,
@@ -10365,7 +10365,7 @@
       ]
     },
     {
-      "trip_id": "8_17617030",
+      "trip_id": "8_17721043",
       "direction_id": "0",
       "headsign": "DWORZEC GŁÓWNY (Dworcowa)",
       "service_id": "8",
@@ -10499,7 +10499,7 @@
         {
           "stop_sequence": 14,
           "stop_id": "1330",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 03",
           "arrival_time": "15:05:00",
           "departure_time": "15:05:00",
           "lat": 51.10670852,
@@ -10517,7 +10517,7 @@
       ]
     },
     {
-      "trip_id": "8_17617031",
+      "trip_id": "8_17721044",
       "direction_id": "1",
       "headsign": "Biskupice Podg. LG Energy Solution Wr. I",
       "service_id": "8",
@@ -10588,7 +10588,7 @@
       ]
     },
     {
-      "trip_id": "8_17617032",
+      "trip_id": "8_17721045",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "8",
@@ -10668,7 +10668,7 @@
         {
           "stop_sequence": 8,
           "stop_id": "547",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 04",
           "arrival_time": "17:28:00",
           "departure_time": "17:28:00",
           "lat": 51.10801936,
@@ -10794,7 +10794,7 @@
       ]
     },
     {
-      "trip_id": "8_17617033",
+      "trip_id": "8_17721046",
       "direction_id": "0",
       "headsign": "DWORZEC GŁÓWNY (Dworcowa)",
       "service_id": "8",
@@ -10928,7 +10928,7 @@
         {
           "stop_sequence": 14,
           "stop_id": "1330",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 03",
           "arrival_time": "21:31:00",
           "departure_time": "21:31:00",
           "lat": 51.10670852,
@@ -10946,7 +10946,7 @@
       ]
     },
     {
-      "trip_id": "8_17617034",
+      "trip_id": "8_17721047",
       "direction_id": "1",
       "headsign": "Biskupice Podg. LG Energy Solution Wr. I",
       "service_id": "8",
@@ -11044,7 +11044,7 @@
       ]
     },
     {
-      "trip_id": "8_17617035",
+      "trip_id": "8_17721048",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "8",
@@ -11124,7 +11124,7 @@
         {
           "stop_sequence": 8,
           "stop_id": "547",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 04",
           "arrival_time": "24:04:00",
           "departure_time": "24:04:00",
           "lat": 51.10801936,

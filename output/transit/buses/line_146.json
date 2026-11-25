@@ -2,7 +2,7 @@
   "line": "146",
   "trips": [
     {
-      "trip_id": "3_17598304",
+      "trip_id": "3_17702317",
       "direction_id": "0",
       "headsign": "GAJ pętla",
       "service_id": "3",
@@ -262,7 +262,7 @@
       ]
     },
     {
-      "trip_id": "3_17598305",
+      "trip_id": "3_17702318",
       "direction_id": "1",
       "headsign": "Spółdzielcza",
       "service_id": "3",
@@ -504,7 +504,7 @@
       ]
     },
     {
-      "trip_id": "3_17598306",
+      "trip_id": "3_17702319",
       "direction_id": "0",
       "headsign": "GAJ pętla",
       "service_id": "3",
@@ -746,7 +746,7 @@
       ]
     },
     {
-      "trip_id": "3_17598307",
+      "trip_id": "3_17702320",
       "direction_id": "1",
       "headsign": "Spółdzielcza",
       "service_id": "3",
@@ -988,7 +988,7 @@
       ]
     },
     {
-      "trip_id": "3_17598308",
+      "trip_id": "3_17702321",
       "direction_id": "0",
       "headsign": "GAJ pętla",
       "service_id": "3",
@@ -1230,7 +1230,7 @@
       ]
     },
     {
-      "trip_id": "3_17598309",
+      "trip_id": "3_17702322",
       "direction_id": "1",
       "headsign": "Spółdzielcza",
       "service_id": "3",
@@ -1472,7 +1472,7 @@
       ]
     },
     {
-      "trip_id": "3_17598310",
+      "trip_id": "3_17702323",
       "direction_id": "0",
       "headsign": "GAJ pętla",
       "service_id": "3",
@@ -1714,7 +1714,7 @@
       ]
     },
     {
-      "trip_id": "3_17598311",
+      "trip_id": "3_17702324",
       "direction_id": "1",
       "headsign": "Spółdzielcza",
       "service_id": "3",
@@ -1956,7 +1956,7 @@
       ]
     },
     {
-      "trip_id": "3_17598312",
+      "trip_id": "3_17702325",
       "direction_id": "0",
       "headsign": "GAJ pętla",
       "service_id": "3",
@@ -2198,7 +2198,7 @@
       ]
     },
     {
-      "trip_id": "3_17598313",
+      "trip_id": "3_17702326",
       "direction_id": "1",
       "headsign": "Spółdzielcza",
       "service_id": "3",
@@ -2440,7 +2440,7 @@
       ]
     },
     {
-      "trip_id": "3_17598314",
+      "trip_id": "3_17702327",
       "direction_id": "0",
       "headsign": "GAJ pętla",
       "service_id": "3",
@@ -2682,7 +2682,7 @@
       ]
     },
     {
-      "trip_id": "3_17598315",
+      "trip_id": "3_17702328",
       "direction_id": "1",
       "headsign": "Spółdzielcza",
       "service_id": "3",
@@ -2924,7 +2924,7 @@
       ]
     },
     {
-      "trip_id": "3_17598316",
+      "trip_id": "3_17702329",
       "direction_id": "0",
       "headsign": "GAJ pętla",
       "service_id": "3",
@@ -3166,7 +3166,7 @@
       ]
     },
     {
-      "trip_id": "3_17598317",
+      "trip_id": "3_17702330",
       "direction_id": "1",
       "headsign": "Spółdzielcza",
       "service_id": "3",
@@ -3408,7 +3408,7 @@
       ]
     },
     {
-      "trip_id": "3_17598318",
+      "trip_id": "3_17702331",
       "direction_id": "0",
       "headsign": "GAJ pętla",
       "service_id": "3",
@@ -3650,7 +3650,7 @@
       ]
     },
     {
-      "trip_id": "3_17598319",
+      "trip_id": "3_17702332",
       "direction_id": "1",
       "headsign": "Spółdzielcza",
       "service_id": "3",
@@ -3892,7 +3892,7 @@
       ]
     },
     {
-      "trip_id": "3_17598320",
+      "trip_id": "3_17702333",
       "direction_id": "0",
       "headsign": "GAJ pętla",
       "service_id": "3",
@@ -4134,7 +4134,7 @@
       ]
     },
     {
-      "trip_id": "3_17598321",
+      "trip_id": "3_17702334",
       "direction_id": "1",
       "headsign": "Spółdzielcza",
       "service_id": "3",
@@ -4376,7 +4376,7 @@
       ]
     },
     {
-      "trip_id": "3_17598322",
+      "trip_id": "3_17702335",
       "direction_id": "0",
       "headsign": "GAJ pętla",
       "service_id": "3",
@@ -4618,7 +4618,7 @@
       ]
     },
     {
-      "trip_id": "3_17598323",
+      "trip_id": "3_17702336",
       "direction_id": "1",
       "headsign": "Spółdzielcza",
       "service_id": "3",
@@ -4860,7 +4860,7 @@
       ]
     },
     {
-      "trip_id": "3_17598324",
+      "trip_id": "3_17702337",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "3",
@@ -5111,7 +5111,7 @@
       ]
     },
     {
-      "trip_id": "3_17598325",
+      "trip_id": "3_17702338",
       "direction_id": "1",
       "headsign": "Spółdzielcza",
       "service_id": "3",
@@ -5353,7 +5353,7 @@
       ]
     },
     {
-      "trip_id": "3_17598326",
+      "trip_id": "3_17702339",
       "direction_id": "0",
       "headsign": "GAJ pętla",
       "service_id": "3",
@@ -5595,7 +5595,7 @@
       ]
     },
     {
-      "trip_id": "3_17598327",
+      "trip_id": "3_17702340",
       "direction_id": "1",
       "headsign": "Spółdzielcza",
       "service_id": "3",
@@ -5837,7 +5837,7 @@
       ]
     },
     {
-      "trip_id": "3_17598328",
+      "trip_id": "3_17702341",
       "direction_id": "0",
       "headsign": "GAJ pętla",
       "service_id": "3",
@@ -6079,7 +6079,7 @@
       ]
     },
     {
-      "trip_id": "3_17598329",
+      "trip_id": "3_17702342",
       "direction_id": "1",
       "headsign": "Spółdzielcza",
       "service_id": "3",
@@ -6321,7 +6321,7 @@
       ]
     },
     {
-      "trip_id": "3_17598330",
+      "trip_id": "3_17702343",
       "direction_id": "0",
       "headsign": "GAJ pętla",
       "service_id": "3",
@@ -6563,7 +6563,7 @@
       ]
     },
     {
-      "trip_id": "3_17598331",
+      "trip_id": "3_17702344",
       "direction_id": "1",
       "headsign": "Spółdzielcza",
       "service_id": "3",
@@ -6805,7 +6805,7 @@
       ]
     },
     {
-      "trip_id": "3_17598332",
+      "trip_id": "3_17702345",
       "direction_id": "0",
       "headsign": "GAJ pętla",
       "service_id": "3",
@@ -7047,7 +7047,7 @@
       ]
     },
     {
-      "trip_id": "3_17598333",
+      "trip_id": "3_17702346",
       "direction_id": "1",
       "headsign": "Spółdzielcza",
       "service_id": "3",
@@ -7289,7 +7289,7 @@
       ]
     },
     {
-      "trip_id": "3_17598334",
+      "trip_id": "3_17702347",
       "direction_id": "0",
       "headsign": "GAJ pętla",
       "service_id": "3",
@@ -7531,7 +7531,7 @@
       ]
     },
     {
-      "trip_id": "3_17598335",
+      "trip_id": "3_17702348",
       "direction_id": "1",
       "headsign": "Spółdzielcza",
       "service_id": "3",
@@ -7773,7 +7773,7 @@
       ]
     },
     {
-      "trip_id": "3_17598336",
+      "trip_id": "3_17702349",
       "direction_id": "0",
       "headsign": "GAJ pętla",
       "service_id": "3",
@@ -8015,7 +8015,7 @@
       ]
     },
     {
-      "trip_id": "3_17598337",
+      "trip_id": "3_17702350",
       "direction_id": "1",
       "headsign": "Spółdzielcza",
       "service_id": "3",
@@ -8257,7 +8257,7 @@
       ]
     },
     {
-      "trip_id": "3_17598338",
+      "trip_id": "3_17702351",
       "direction_id": "0",
       "headsign": "GAJ pętla",
       "service_id": "3",
@@ -8499,7 +8499,7 @@
       ]
     },
     {
-      "trip_id": "3_17598339",
+      "trip_id": "3_17702352",
       "direction_id": "1",
       "headsign": "Spółdzielcza",
       "service_id": "3",
@@ -8741,7 +8741,7 @@
       ]
     },
     {
-      "trip_id": "3_17598340",
+      "trip_id": "3_17702353",
       "direction_id": "0",
       "headsign": "GAJ pętla",
       "service_id": "3",
@@ -8983,7 +8983,7 @@
       ]
     },
     {
-      "trip_id": "3_17598341",
+      "trip_id": "3_17702354",
       "direction_id": "1",
       "headsign": "Spółdzielcza",
       "service_id": "3",
@@ -9225,7 +9225,7 @@
       ]
     },
     {
-      "trip_id": "3_17598342",
+      "trip_id": "3_17702355",
       "direction_id": "0",
       "headsign": "GAJ pętla",
       "service_id": "3",
@@ -9467,7 +9467,7 @@
       ]
     },
     {
-      "trip_id": "3_17598343",
+      "trip_id": "3_17702356",
       "direction_id": "1",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "3",
@@ -9727,7 +9727,7 @@
       ]
     },
     {
-      "trip_id": "3_17598344",
+      "trip_id": "3_17702357",
       "direction_id": "1",
       "headsign": "Spółdzielcza",
       "service_id": "3",
@@ -9969,7 +9969,7 @@
       ]
     },
     {
-      "trip_id": "3_17598345",
+      "trip_id": "3_17702358",
       "direction_id": "0",
       "headsign": "GAJ pętla",
       "service_id": "3",
@@ -10211,7 +10211,7 @@
       ]
     },
     {
-      "trip_id": "3_17598346",
+      "trip_id": "3_17702359",
       "direction_id": "1",
       "headsign": "Spółdzielcza",
       "service_id": "3",
@@ -10453,7 +10453,7 @@
       ]
     },
     {
-      "trip_id": "3_17598347",
+      "trip_id": "3_17702360",
       "direction_id": "0",
       "headsign": "GAJ pętla",
       "service_id": "3",
@@ -10695,7 +10695,7 @@
       ]
     },
     {
-      "trip_id": "3_17598348",
+      "trip_id": "3_17702361",
       "direction_id": "1",
       "headsign": "Spółdzielcza",
       "service_id": "3",
@@ -10937,7 +10937,7 @@
       ]
     },
     {
-      "trip_id": "3_17598349",
+      "trip_id": "3_17702362",
       "direction_id": "0",
       "headsign": "GAJ pętla",
       "service_id": "3",
@@ -11179,7 +11179,7 @@
       ]
     },
     {
-      "trip_id": "3_17598350",
+      "trip_id": "3_17702363",
       "direction_id": "1",
       "headsign": "Spółdzielcza",
       "service_id": "3",
@@ -11421,7 +11421,7 @@
       ]
     },
     {
-      "trip_id": "3_17598351",
+      "trip_id": "3_17702364",
       "direction_id": "0",
       "headsign": "GAJ pętla",
       "service_id": "3",
@@ -11663,7 +11663,7 @@
       ]
     },
     {
-      "trip_id": "3_17598352",
+      "trip_id": "3_17702365",
       "direction_id": "1",
       "headsign": "Spółdzielcza",
       "service_id": "3",
@@ -11905,7 +11905,7 @@
       ]
     },
     {
-      "trip_id": "3_17598353",
+      "trip_id": "3_17702366",
       "direction_id": "0",
       "headsign": "GAJ pętla",
       "service_id": "3",
@@ -12147,7 +12147,7 @@
       ]
     },
     {
-      "trip_id": "3_17598354",
+      "trip_id": "3_17702367",
       "direction_id": "1",
       "headsign": "Spółdzielcza",
       "service_id": "3",
@@ -12389,7 +12389,7 @@
       ]
     },
     {
-      "trip_id": "3_17598355",
+      "trip_id": "3_17702368",
       "direction_id": "0",
       "headsign": "GAJ pętla",
       "service_id": "3",
@@ -12631,7 +12631,7 @@
       ]
     },
     {
-      "trip_id": "3_17598356",
+      "trip_id": "3_17702369",
       "direction_id": "1",
       "headsign": "Spółdzielcza",
       "service_id": "3",
@@ -12873,7 +12873,7 @@
       ]
     },
     {
-      "trip_id": "3_17598357",
+      "trip_id": "3_17702370",
       "direction_id": "0",
       "headsign": "GAJ pętla",
       "service_id": "3",
@@ -13115,7 +13115,7 @@
       ]
     },
     {
-      "trip_id": "3_17598358",
+      "trip_id": "3_17702371",
       "direction_id": "1",
       "headsign": "Spółdzielcza",
       "service_id": "3",
@@ -13357,7 +13357,7 @@
       ]
     },
     {
-      "trip_id": "3_17598359",
+      "trip_id": "3_17702372",
       "direction_id": "0",
       "headsign": "GAJ pętla",
       "service_id": "3",
@@ -13599,7 +13599,7 @@
       ]
     },
     {
-      "trip_id": "3_17598360",
+      "trip_id": "3_17702373",
       "direction_id": "1",
       "headsign": "Spółdzielcza",
       "service_id": "3",
@@ -13841,7 +13841,7 @@
       ]
     },
     {
-      "trip_id": "3_17598361",
+      "trip_id": "3_17702374",
       "direction_id": "0",
       "headsign": "GAJ pętla",
       "service_id": "3",
@@ -14083,7 +14083,7 @@
       ]
     },
     {
-      "trip_id": "3_17598362",
+      "trip_id": "3_17702375",
       "direction_id": "1",
       "headsign": "Spółdzielcza",
       "service_id": "3",
@@ -14325,7 +14325,7 @@
       ]
     },
     {
-      "trip_id": "3_17598363",
+      "trip_id": "3_17702376",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "3",
@@ -14576,7 +14576,7 @@
       ]
     },
     {
-      "trip_id": "3_17598364",
+      "trip_id": "3_17702377",
       "direction_id": "0",
       "headsign": "GAJ pętla",
       "service_id": "3",
@@ -14836,7 +14836,7 @@
       ]
     },
     {
-      "trip_id": "3_17598365",
+      "trip_id": "3_17702378",
       "direction_id": "1",
       "headsign": "Spółdzielcza",
       "service_id": "3",
@@ -15078,7 +15078,7 @@
       ]
     },
     {
-      "trip_id": "3_17598366",
+      "trip_id": "3_17702379",
       "direction_id": "0",
       "headsign": "GAJ pętla",
       "service_id": "3",
@@ -15320,7 +15320,7 @@
       ]
     },
     {
-      "trip_id": "3_17598367",
+      "trip_id": "3_17702380",
       "direction_id": "1",
       "headsign": "Spółdzielcza",
       "service_id": "3",
@@ -15562,7 +15562,7 @@
       ]
     },
     {
-      "trip_id": "3_17598368",
+      "trip_id": "3_17702381",
       "direction_id": "0",
       "headsign": "GAJ pętla",
       "service_id": "3",
@@ -15804,7 +15804,7 @@
       ]
     },
     {
-      "trip_id": "3_17598369",
+      "trip_id": "3_17702382",
       "direction_id": "1",
       "headsign": "Spółdzielcza",
       "service_id": "3",
@@ -16046,7 +16046,7 @@
       ]
     },
     {
-      "trip_id": "3_17598370",
+      "trip_id": "3_17702383",
       "direction_id": "0",
       "headsign": "GAJ pętla",
       "service_id": "3",
@@ -16288,7 +16288,7 @@
       ]
     },
     {
-      "trip_id": "3_17598371",
+      "trip_id": "3_17702384",
       "direction_id": "1",
       "headsign": "Spółdzielcza",
       "service_id": "3",
@@ -16530,7 +16530,7 @@
       ]
     },
     {
-      "trip_id": "3_17598372",
+      "trip_id": "3_17702385",
       "direction_id": "0",
       "headsign": "GAJ pętla",
       "service_id": "3",
@@ -16772,7 +16772,7 @@
       ]
     },
     {
-      "trip_id": "3_17598373",
+      "trip_id": "3_17702386",
       "direction_id": "1",
       "headsign": "Spółdzielcza",
       "service_id": "3",
@@ -17014,7 +17014,7 @@
       ]
     },
     {
-      "trip_id": "3_17598374",
+      "trip_id": "3_17702387",
       "direction_id": "0",
       "headsign": "GAJ pętla",
       "service_id": "3",
@@ -17256,7 +17256,7 @@
       ]
     },
     {
-      "trip_id": "3_17598375",
+      "trip_id": "3_17702388",
       "direction_id": "1",
       "headsign": "Spółdzielcza",
       "service_id": "3",
@@ -17498,7 +17498,7 @@
       ]
     },
     {
-      "trip_id": "3_17598376",
+      "trip_id": "3_17702389",
       "direction_id": "0",
       "headsign": "GAJ pętla",
       "service_id": "3",
@@ -17740,7 +17740,7 @@
       ]
     },
     {
-      "trip_id": "3_17598377",
+      "trip_id": "3_17702390",
       "direction_id": "1",
       "headsign": "Spółdzielcza",
       "service_id": "3",
@@ -17982,7 +17982,7 @@
       ]
     },
     {
-      "trip_id": "3_17598378",
+      "trip_id": "3_17702391",
       "direction_id": "0",
       "headsign": "GAJ pętla",
       "service_id": "3",
@@ -18224,7 +18224,7 @@
       ]
     },
     {
-      "trip_id": "3_17598379",
+      "trip_id": "3_17702392",
       "direction_id": "1",
       "headsign": "Spółdzielcza",
       "service_id": "3",
@@ -18466,7 +18466,7 @@
       ]
     },
     {
-      "trip_id": "3_17598380",
+      "trip_id": "3_17702393",
       "direction_id": "0",
       "headsign": "GAJ pętla",
       "service_id": "3",
@@ -18708,7 +18708,7 @@
       ]
     },
     {
-      "trip_id": "3_17598381",
+      "trip_id": "3_17702394",
       "direction_id": "1",
       "headsign": "Spółdzielcza",
       "service_id": "3",
@@ -18950,7 +18950,7 @@
       ]
     },
     {
-      "trip_id": "3_17598382",
+      "trip_id": "3_17702395",
       "direction_id": "0",
       "headsign": "GAJ pętla",
       "service_id": "3",
@@ -19192,7 +19192,7 @@
       ]
     },
     {
-      "trip_id": "3_17598383",
+      "trip_id": "3_17702396",
       "direction_id": "1",
       "headsign": "Spółdzielcza",
       "service_id": "3",
@@ -19434,7 +19434,7 @@
       ]
     },
     {
-      "trip_id": "3_17598384",
+      "trip_id": "3_17702397",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "3",
@@ -19685,7 +19685,7 @@
       ]
     },
     {
-      "trip_id": "4_17602738",
+      "trip_id": "4_17706751",
       "direction_id": "0",
       "headsign": "GAJ pętla",
       "service_id": "4",
@@ -19945,7 +19945,7 @@
       ]
     },
     {
-      "trip_id": "4_17602739",
+      "trip_id": "4_17706752",
       "direction_id": "1",
       "headsign": "Spółdzielcza",
       "service_id": "4",
@@ -20187,7 +20187,7 @@
       ]
     },
     {
-      "trip_id": "4_17602740",
+      "trip_id": "4_17706753",
       "direction_id": "0",
       "headsign": "GAJ pętla",
       "service_id": "4",
@@ -20429,7 +20429,7 @@
       ]
     },
     {
-      "trip_id": "4_17602741",
+      "trip_id": "4_17706754",
       "direction_id": "1",
       "headsign": "Spółdzielcza",
       "service_id": "4",
@@ -20671,7 +20671,7 @@
       ]
     },
     {
-      "trip_id": "4_17602742",
+      "trip_id": "4_17706755",
       "direction_id": "0",
       "headsign": "GAJ pętla",
       "service_id": "4",
@@ -20913,7 +20913,7 @@
       ]
     },
     {
-      "trip_id": "4_17602743",
+      "trip_id": "4_17706756",
       "direction_id": "1",
       "headsign": "Spółdzielcza",
       "service_id": "4",
@@ -21155,7 +21155,7 @@
       ]
     },
     {
-      "trip_id": "4_17602744",
+      "trip_id": "4_17706757",
       "direction_id": "0",
       "headsign": "GAJ pętla",
       "service_id": "4",
@@ -21397,7 +21397,7 @@
       ]
     },
     {
-      "trip_id": "4_17602745",
+      "trip_id": "4_17706758",
       "direction_id": "1",
       "headsign": "Spółdzielcza",
       "service_id": "4",
@@ -21639,7 +21639,7 @@
       ]
     },
     {
-      "trip_id": "4_17602746",
+      "trip_id": "4_17706759",
       "direction_id": "0",
       "headsign": "GAJ pętla",
       "service_id": "4",
@@ -21881,7 +21881,7 @@
       ]
     },
     {
-      "trip_id": "4_17602747",
+      "trip_id": "4_17706760",
       "direction_id": "1",
       "headsign": "Spółdzielcza",
       "service_id": "4",
@@ -22123,7 +22123,7 @@
       ]
     },
     {
-      "trip_id": "4_17602748",
+      "trip_id": "4_17706761",
       "direction_id": "0",
       "headsign": "GAJ pętla",
       "service_id": "4",
@@ -22365,7 +22365,7 @@
       ]
     },
     {
-      "trip_id": "4_17602749",
+      "trip_id": "4_17706762",
       "direction_id": "1",
       "headsign": "Spółdzielcza",
       "service_id": "4",
@@ -22607,7 +22607,7 @@
       ]
     },
     {
-      "trip_id": "4_17602750",
+      "trip_id": "4_17706763",
       "direction_id": "0",
       "headsign": "GAJ pętla",
       "service_id": "4",
@@ -22849,7 +22849,7 @@
       ]
     },
     {
-      "trip_id": "4_17602751",
+      "trip_id": "4_17706764",
       "direction_id": "1",
       "headsign": "Spółdzielcza",
       "service_id": "4",
@@ -23091,7 +23091,7 @@
       ]
     },
     {
-      "trip_id": "4_17602752",
+      "trip_id": "4_17706765",
       "direction_id": "0",
       "headsign": "GAJ pętla",
       "service_id": "4",
@@ -23333,7 +23333,7 @@
       ]
     },
     {
-      "trip_id": "4_17602753",
+      "trip_id": "4_17706766",
       "direction_id": "1",
       "headsign": "Spółdzielcza",
       "service_id": "4",
@@ -23575,7 +23575,7 @@
       ]
     },
     {
-      "trip_id": "4_17602754",
+      "trip_id": "4_17706767",
       "direction_id": "0",
       "headsign": "GAJ pętla",
       "service_id": "4",
@@ -23817,7 +23817,7 @@
       ]
     },
     {
-      "trip_id": "4_17602755",
+      "trip_id": "4_17706768",
       "direction_id": "1",
       "headsign": "Spółdzielcza",
       "service_id": "4",
@@ -24059,7 +24059,7 @@
       ]
     },
     {
-      "trip_id": "4_17602756",
+      "trip_id": "4_17706769",
       "direction_id": "0",
       "headsign": "GAJ pętla",
       "service_id": "4",
@@ -24301,7 +24301,7 @@
       ]
     },
     {
-      "trip_id": "4_17602757",
+      "trip_id": "4_17706770",
       "direction_id": "1",
       "headsign": "Spółdzielcza",
       "service_id": "4",
@@ -24543,7 +24543,7 @@
       ]
     },
     {
-      "trip_id": "4_17602758",
+      "trip_id": "4_17706771",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "4",
@@ -24794,7 +24794,7 @@
       ]
     },
     {
-      "trip_id": "4_17602759",
+      "trip_id": "4_17706772",
       "direction_id": "1",
       "headsign": "Spółdzielcza",
       "service_id": "4",
@@ -25036,7 +25036,7 @@
       ]
     },
     {
-      "trip_id": "4_17602760",
+      "trip_id": "4_17706773",
       "direction_id": "0",
       "headsign": "GAJ pętla",
       "service_id": "4",
@@ -25278,7 +25278,7 @@
       ]
     },
     {
-      "trip_id": "4_17602761",
+      "trip_id": "4_17706774",
       "direction_id": "1",
       "headsign": "Spółdzielcza",
       "service_id": "4",
@@ -25520,7 +25520,7 @@
       ]
     },
     {
-      "trip_id": "4_17602762",
+      "trip_id": "4_17706775",
       "direction_id": "0",
       "headsign": "GAJ pętla",
       "service_id": "4",
@@ -25762,7 +25762,7 @@
       ]
     },
     {
-      "trip_id": "4_17602763",
+      "trip_id": "4_17706776",
       "direction_id": "1",
       "headsign": "Spółdzielcza",
       "service_id": "4",
@@ -26004,7 +26004,7 @@
       ]
     },
     {
-      "trip_id": "4_17602764",
+      "trip_id": "4_17706777",
       "direction_id": "0",
       "headsign": "GAJ pętla",
       "service_id": "4",
@@ -26246,7 +26246,7 @@
       ]
     },
     {
-      "trip_id": "4_17602765",
+      "trip_id": "4_17706778",
       "direction_id": "1",
       "headsign": "Spółdzielcza",
       "service_id": "4",
@@ -26488,7 +26488,7 @@
       ]
     },
     {
-      "trip_id": "4_17602766",
+      "trip_id": "4_17706779",
       "direction_id": "0",
       "headsign": "GAJ pętla",
       "service_id": "4",
@@ -26730,7 +26730,7 @@
       ]
     },
     {
-      "trip_id": "4_17602767",
+      "trip_id": "4_17706780",
       "direction_id": "1",
       "headsign": "Spółdzielcza",
       "service_id": "4",
@@ -26972,7 +26972,7 @@
       ]
     },
     {
-      "trip_id": "4_17602768",
+      "trip_id": "4_17706781",
       "direction_id": "0",
       "headsign": "GAJ pętla",
       "service_id": "4",
@@ -27214,7 +27214,7 @@
       ]
     },
     {
-      "trip_id": "4_17602769",
+      "trip_id": "4_17706782",
       "direction_id": "1",
       "headsign": "Spółdzielcza",
       "service_id": "4",
@@ -27456,7 +27456,7 @@
       ]
     },
     {
-      "trip_id": "4_17602770",
+      "trip_id": "4_17706783",
       "direction_id": "0",
       "headsign": "GAJ pętla",
       "service_id": "4",
@@ -27698,7 +27698,7 @@
       ]
     },
     {
-      "trip_id": "4_17602771",
+      "trip_id": "4_17706784",
       "direction_id": "1",
       "headsign": "Spółdzielcza",
       "service_id": "4",
@@ -27940,7 +27940,7 @@
       ]
     },
     {
-      "trip_id": "4_17602772",
+      "trip_id": "4_17706785",
       "direction_id": "0",
       "headsign": "GAJ pętla",
       "service_id": "4",
@@ -28182,7 +28182,7 @@
       ]
     },
     {
-      "trip_id": "4_17602773",
+      "trip_id": "4_17706786",
       "direction_id": "1",
       "headsign": "Spółdzielcza",
       "service_id": "4",
@@ -28424,7 +28424,7 @@
       ]
     },
     {
-      "trip_id": "4_17602774",
+      "trip_id": "4_17706787",
       "direction_id": "0",
       "headsign": "GAJ pętla",
       "service_id": "4",
@@ -28666,7 +28666,7 @@
       ]
     },
     {
-      "trip_id": "4_17602775",
+      "trip_id": "4_17706788",
       "direction_id": "1",
       "headsign": "Spółdzielcza",
       "service_id": "4",
@@ -28908,7 +28908,7 @@
       ]
     },
     {
-      "trip_id": "4_17602776",
+      "trip_id": "4_17706789",
       "direction_id": "0",
       "headsign": "GAJ pętla",
       "service_id": "4",
@@ -29150,7 +29150,7 @@
       ]
     },
     {
-      "trip_id": "4_17602777",
+      "trip_id": "4_17706790",
       "direction_id": "1",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "4",
@@ -29410,7 +29410,7 @@
       ]
     },
     {
-      "trip_id": "4_17602778",
+      "trip_id": "4_17706791",
       "direction_id": "1",
       "headsign": "Spółdzielcza",
       "service_id": "4",
@@ -29652,7 +29652,7 @@
       ]
     },
     {
-      "trip_id": "4_17602779",
+      "trip_id": "4_17706792",
       "direction_id": "0",
       "headsign": "GAJ pętla",
       "service_id": "4",
@@ -29894,7 +29894,7 @@
       ]
     },
     {
-      "trip_id": "4_17602780",
+      "trip_id": "4_17706793",
       "direction_id": "1",
       "headsign": "Spółdzielcza",
       "service_id": "4",
@@ -30136,7 +30136,7 @@
       ]
     },
     {
-      "trip_id": "4_17602781",
+      "trip_id": "4_17706794",
       "direction_id": "0",
       "headsign": "GAJ pętla",
       "service_id": "4",
@@ -30378,7 +30378,7 @@
       ]
     },
     {
-      "trip_id": "4_17602782",
+      "trip_id": "4_17706795",
       "direction_id": "1",
       "headsign": "Spółdzielcza",
       "service_id": "4",
@@ -30620,7 +30620,7 @@
       ]
     },
     {
-      "trip_id": "4_17602783",
+      "trip_id": "4_17706796",
       "direction_id": "0",
       "headsign": "GAJ pętla",
       "service_id": "4",
@@ -30862,7 +30862,7 @@
       ]
     },
     {
-      "trip_id": "4_17602784",
+      "trip_id": "4_17706797",
       "direction_id": "1",
       "headsign": "Spółdzielcza",
       "service_id": "4",
@@ -31104,7 +31104,7 @@
       ]
     },
     {
-      "trip_id": "4_17602785",
+      "trip_id": "4_17706798",
       "direction_id": "0",
       "headsign": "GAJ pętla",
       "service_id": "4",
@@ -31346,7 +31346,7 @@
       ]
     },
     {
-      "trip_id": "4_17602786",
+      "trip_id": "4_17706799",
       "direction_id": "1",
       "headsign": "Spółdzielcza",
       "service_id": "4",
@@ -31588,7 +31588,7 @@
       ]
     },
     {
-      "trip_id": "4_17602787",
+      "trip_id": "4_17706800",
       "direction_id": "0",
       "headsign": "GAJ pętla",
       "service_id": "4",
@@ -31830,7 +31830,7 @@
       ]
     },
     {
-      "trip_id": "4_17602788",
+      "trip_id": "4_17706801",
       "direction_id": "1",
       "headsign": "Spółdzielcza",
       "service_id": "4",
@@ -32072,7 +32072,7 @@
       ]
     },
     {
-      "trip_id": "4_17602789",
+      "trip_id": "4_17706802",
       "direction_id": "0",
       "headsign": "GAJ pętla",
       "service_id": "4",
@@ -32314,7 +32314,7 @@
       ]
     },
     {
-      "trip_id": "4_17602790",
+      "trip_id": "4_17706803",
       "direction_id": "1",
       "headsign": "Spółdzielcza",
       "service_id": "4",
@@ -32556,7 +32556,7 @@
       ]
     },
     {
-      "trip_id": "4_17602791",
+      "trip_id": "4_17706804",
       "direction_id": "0",
       "headsign": "GAJ pętla",
       "service_id": "4",
@@ -32798,7 +32798,7 @@
       ]
     },
     {
-      "trip_id": "4_17602792",
+      "trip_id": "4_17706805",
       "direction_id": "1",
       "headsign": "Spółdzielcza",
       "service_id": "4",
@@ -33040,7 +33040,7 @@
       ]
     },
     {
-      "trip_id": "4_17602793",
+      "trip_id": "4_17706806",
       "direction_id": "0",
       "headsign": "GAJ pętla",
       "service_id": "4",
@@ -33282,7 +33282,7 @@
       ]
     },
     {
-      "trip_id": "4_17602794",
+      "trip_id": "4_17706807",
       "direction_id": "1",
       "headsign": "Spółdzielcza",
       "service_id": "4",
@@ -33524,7 +33524,7 @@
       ]
     },
     {
-      "trip_id": "4_17602795",
+      "trip_id": "4_17706808",
       "direction_id": "0",
       "headsign": "GAJ pętla",
       "service_id": "4",
@@ -33766,7 +33766,7 @@
       ]
     },
     {
-      "trip_id": "4_17602796",
+      "trip_id": "4_17706809",
       "direction_id": "1",
       "headsign": "Spółdzielcza",
       "service_id": "4",
@@ -34008,7 +34008,7 @@
       ]
     },
     {
-      "trip_id": "4_17602797",
+      "trip_id": "4_17706810",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "4",
@@ -34259,7 +34259,7 @@
       ]
     },
     {
-      "trip_id": "4_17602798",
+      "trip_id": "4_17706811",
       "direction_id": "0",
       "headsign": "GAJ pętla",
       "service_id": "4",
@@ -34519,7 +34519,7 @@
       ]
     },
     {
-      "trip_id": "4_17602799",
+      "trip_id": "4_17706812",
       "direction_id": "1",
       "headsign": "Spółdzielcza",
       "service_id": "4",
@@ -34761,7 +34761,7 @@
       ]
     },
     {
-      "trip_id": "4_17602800",
+      "trip_id": "4_17706813",
       "direction_id": "0",
       "headsign": "GAJ pętla",
       "service_id": "4",
@@ -35003,7 +35003,7 @@
       ]
     },
     {
-      "trip_id": "4_17602801",
+      "trip_id": "4_17706814",
       "direction_id": "1",
       "headsign": "Spółdzielcza",
       "service_id": "4",
@@ -35245,7 +35245,7 @@
       ]
     },
     {
-      "trip_id": "4_17602802",
+      "trip_id": "4_17706815",
       "direction_id": "0",
       "headsign": "GAJ pętla",
       "service_id": "4",
@@ -35487,7 +35487,7 @@
       ]
     },
     {
-      "trip_id": "4_17602803",
+      "trip_id": "4_17706816",
       "direction_id": "1",
       "headsign": "Spółdzielcza",
       "service_id": "4",
@@ -35729,7 +35729,7 @@
       ]
     },
     {
-      "trip_id": "4_17602804",
+      "trip_id": "4_17706817",
       "direction_id": "0",
       "headsign": "GAJ pętla",
       "service_id": "4",
@@ -35971,7 +35971,7 @@
       ]
     },
     {
-      "trip_id": "4_17602805",
+      "trip_id": "4_17706818",
       "direction_id": "1",
       "headsign": "Spółdzielcza",
       "service_id": "4",
@@ -36213,7 +36213,7 @@
       ]
     },
     {
-      "trip_id": "4_17602806",
+      "trip_id": "4_17706819",
       "direction_id": "0",
       "headsign": "GAJ pętla",
       "service_id": "4",
@@ -36455,7 +36455,7 @@
       ]
     },
     {
-      "trip_id": "4_17602807",
+      "trip_id": "4_17706820",
       "direction_id": "1",
       "headsign": "Spółdzielcza",
       "service_id": "4",
@@ -36697,7 +36697,7 @@
       ]
     },
     {
-      "trip_id": "4_17602808",
+      "trip_id": "4_17706821",
       "direction_id": "0",
       "headsign": "GAJ pętla",
       "service_id": "4",
@@ -36939,7 +36939,7 @@
       ]
     },
     {
-      "trip_id": "4_17602809",
+      "trip_id": "4_17706822",
       "direction_id": "1",
       "headsign": "Spółdzielcza",
       "service_id": "4",
@@ -37181,7 +37181,7 @@
       ]
     },
     {
-      "trip_id": "4_17602810",
+      "trip_id": "4_17706823",
       "direction_id": "0",
       "headsign": "GAJ pętla",
       "service_id": "4",
@@ -37423,7 +37423,7 @@
       ]
     },
     {
-      "trip_id": "4_17602811",
+      "trip_id": "4_17706824",
       "direction_id": "1",
       "headsign": "Spółdzielcza",
       "service_id": "4",
@@ -37665,7 +37665,7 @@
       ]
     },
     {
-      "trip_id": "4_17602812",
+      "trip_id": "4_17706825",
       "direction_id": "0",
       "headsign": "GAJ pętla",
       "service_id": "4",
@@ -37907,7 +37907,7 @@
       ]
     },
     {
-      "trip_id": "4_17602813",
+      "trip_id": "4_17706826",
       "direction_id": "1",
       "headsign": "Spółdzielcza",
       "service_id": "4",
@@ -38149,7 +38149,7 @@
       ]
     },
     {
-      "trip_id": "4_17602814",
+      "trip_id": "4_17706827",
       "direction_id": "0",
       "headsign": "GAJ pętla",
       "service_id": "4",
@@ -38391,7 +38391,7 @@
       ]
     },
     {
-      "trip_id": "4_17602815",
+      "trip_id": "4_17706828",
       "direction_id": "1",
       "headsign": "Spółdzielcza",
       "service_id": "4",
@@ -38633,7 +38633,7 @@
       ]
     },
     {
-      "trip_id": "4_17602816",
+      "trip_id": "4_17706829",
       "direction_id": "0",
       "headsign": "GAJ pętla",
       "service_id": "4",
@@ -38875,7 +38875,7 @@
       ]
     },
     {
-      "trip_id": "4_17602817",
+      "trip_id": "4_17706830",
       "direction_id": "1",
       "headsign": "Spółdzielcza",
       "service_id": "4",
@@ -39117,7 +39117,7 @@
       ]
     },
     {
-      "trip_id": "4_17602818",
+      "trip_id": "4_17706831",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "4",
@@ -39368,7 +39368,7 @@
       ]
     },
     {
-      "trip_id": "6_17608575",
+      "trip_id": "6_17712588",
       "direction_id": "0",
       "headsign": "GAJ pętla",
       "service_id": "6",
@@ -39628,7 +39628,7 @@
       ]
     },
     {
-      "trip_id": "6_17608576",
+      "trip_id": "6_17712589",
       "direction_id": "1",
       "headsign": "Spółdzielcza",
       "service_id": "6",
@@ -39870,7 +39870,7 @@
       ]
     },
     {
-      "trip_id": "6_17608577",
+      "trip_id": "6_17712590",
       "direction_id": "0",
       "headsign": "GAJ pętla",
       "service_id": "6",
@@ -40112,7 +40112,7 @@
       ]
     },
     {
-      "trip_id": "6_17608578",
+      "trip_id": "6_17712591",
       "direction_id": "1",
       "headsign": "Spółdzielcza",
       "service_id": "6",
@@ -40354,7 +40354,7 @@
       ]
     },
     {
-      "trip_id": "6_17608579",
+      "trip_id": "6_17712592",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "6",
@@ -40605,7 +40605,7 @@
       ]
     },
     {
-      "trip_id": "6_17608580",
+      "trip_id": "6_17712593",
       "direction_id": "1",
       "headsign": "Spółdzielcza",
       "service_id": "6",
@@ -40847,7 +40847,7 @@
       ]
     },
     {
-      "trip_id": "6_17608581",
+      "trip_id": "6_17712594",
       "direction_id": "0",
       "headsign": "GAJ pętla",
       "service_id": "6",
@@ -41089,7 +41089,7 @@
       ]
     },
     {
-      "trip_id": "6_17608582",
+      "trip_id": "6_17712595",
       "direction_id": "1",
       "headsign": "Spółdzielcza",
       "service_id": "6",
@@ -41331,7 +41331,7 @@
       ]
     },
     {
-      "trip_id": "6_17608583",
+      "trip_id": "6_17712596",
       "direction_id": "0",
       "headsign": "GAJ pętla",
       "service_id": "6",
@@ -41573,7 +41573,7 @@
       ]
     },
     {
-      "trip_id": "6_17608584",
+      "trip_id": "6_17712597",
       "direction_id": "1",
       "headsign": "Spółdzielcza",
       "service_id": "6",
@@ -41815,7 +41815,7 @@
       ]
     },
     {
-      "trip_id": "6_17608585",
+      "trip_id": "6_17712598",
       "direction_id": "0",
       "headsign": "GAJ pętla",
       "service_id": "6",
@@ -42057,7 +42057,7 @@
       ]
     },
     {
-      "trip_id": "6_17608586",
+      "trip_id": "6_17712599",
       "direction_id": "1",
       "headsign": "Spółdzielcza",
       "service_id": "6",
@@ -42299,7 +42299,7 @@
       ]
     },
     {
-      "trip_id": "6_17608587",
+      "trip_id": "6_17712600",
       "direction_id": "0",
       "headsign": "GAJ pętla",
       "service_id": "6",
@@ -42541,7 +42541,7 @@
       ]
     },
     {
-      "trip_id": "6_17608588",
+      "trip_id": "6_17712601",
       "direction_id": "1",
       "headsign": "Spółdzielcza",
       "service_id": "6",
@@ -42783,7 +42783,7 @@
       ]
     },
     {
-      "trip_id": "6_17608589",
+      "trip_id": "6_17712602",
       "direction_id": "0",
       "headsign": "GAJ pętla",
       "service_id": "6",
@@ -43025,7 +43025,7 @@
       ]
     },
     {
-      "trip_id": "6_17608590",
+      "trip_id": "6_17712603",
       "direction_id": "1",
       "headsign": "Spółdzielcza",
       "service_id": "6",
@@ -43267,7 +43267,7 @@
       ]
     },
     {
-      "trip_id": "6_17608591",
+      "trip_id": "6_17712604",
       "direction_id": "0",
       "headsign": "GAJ pętla",
       "service_id": "6",
@@ -43509,7 +43509,7 @@
       ]
     },
     {
-      "trip_id": "6_17608592",
+      "trip_id": "6_17712605",
       "direction_id": "1",
       "headsign": "Spółdzielcza",
       "service_id": "6",
@@ -43751,7 +43751,7 @@
       ]
     },
     {
-      "trip_id": "6_17608593",
+      "trip_id": "6_17712606",
       "direction_id": "0",
       "headsign": "GAJ pętla",
       "service_id": "6",
@@ -43993,7 +43993,7 @@
       ]
     },
     {
-      "trip_id": "6_17608594",
+      "trip_id": "6_17712607",
       "direction_id": "1",
       "headsign": "Spółdzielcza",
       "service_id": "6",
@@ -44235,7 +44235,7 @@
       ]
     },
     {
-      "trip_id": "6_17608595",
+      "trip_id": "6_17712608",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "6",
@@ -44486,7 +44486,7 @@
       ]
     },
     {
-      "trip_id": "6_17608596",
+      "trip_id": "6_17712609",
       "direction_id": "0",
       "headsign": "GAJ pętla",
       "service_id": "6",
@@ -44746,7 +44746,7 @@
       ]
     },
     {
-      "trip_id": "6_17608597",
+      "trip_id": "6_17712610",
       "direction_id": "1",
       "headsign": "Spółdzielcza",
       "service_id": "6",
@@ -44988,7 +44988,7 @@
       ]
     },
     {
-      "trip_id": "6_17608598",
+      "trip_id": "6_17712611",
       "direction_id": "0",
       "headsign": "GAJ pętla",
       "service_id": "6",
@@ -45230,7 +45230,7 @@
       ]
     },
     {
-      "trip_id": "6_17608599",
+      "trip_id": "6_17712612",
       "direction_id": "1",
       "headsign": "Spółdzielcza",
       "service_id": "6",
@@ -45472,7 +45472,7 @@
       ]
     },
     {
-      "trip_id": "6_17608600",
+      "trip_id": "6_17712613",
       "direction_id": "0",
       "headsign": "GAJ pętla",
       "service_id": "6",
@@ -45714,7 +45714,7 @@
       ]
     },
     {
-      "trip_id": "6_17608601",
+      "trip_id": "6_17712614",
       "direction_id": "1",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "6",
@@ -45974,7 +45974,7 @@
       ]
     },
     {
-      "trip_id": "6_17608602",
+      "trip_id": "6_17712615",
       "direction_id": "0",
       "headsign": "GAJ pętla",
       "service_id": "6",
@@ -46234,7 +46234,7 @@
       ]
     },
     {
-      "trip_id": "6_17608603",
+      "trip_id": "6_17712616",
       "direction_id": "1",
       "headsign": "Spółdzielcza",
       "service_id": "6",
@@ -46476,7 +46476,7 @@
       ]
     },
     {
-      "trip_id": "6_17608604",
+      "trip_id": "6_17712617",
       "direction_id": "0",
       "headsign": "GAJ pętla",
       "service_id": "6",
@@ -46718,7 +46718,7 @@
       ]
     },
     {
-      "trip_id": "6_17608605",
+      "trip_id": "6_17712618",
       "direction_id": "1",
       "headsign": "Spółdzielcza",
       "service_id": "6",
@@ -46960,7 +46960,7 @@
       ]
     },
     {
-      "trip_id": "6_17608606",
+      "trip_id": "6_17712619",
       "direction_id": "0",
       "headsign": "GAJ pętla",
       "service_id": "6",
@@ -47202,7 +47202,7 @@
       ]
     },
     {
-      "trip_id": "6_17608607",
+      "trip_id": "6_17712620",
       "direction_id": "1",
       "headsign": "Spółdzielcza",
       "service_id": "6",
@@ -47444,7 +47444,7 @@
       ]
     },
     {
-      "trip_id": "6_17608608",
+      "trip_id": "6_17712621",
       "direction_id": "0",
       "headsign": "GAJ pętla",
       "service_id": "6",
@@ -47686,7 +47686,7 @@
       ]
     },
     {
-      "trip_id": "6_17608609",
+      "trip_id": "6_17712622",
       "direction_id": "1",
       "headsign": "Spółdzielcza",
       "service_id": "6",
@@ -47928,7 +47928,7 @@
       ]
     },
     {
-      "trip_id": "6_17608610",
+      "trip_id": "6_17712623",
       "direction_id": "0",
       "headsign": "GAJ pętla",
       "service_id": "6",
@@ -48170,7 +48170,7 @@
       ]
     },
     {
-      "trip_id": "6_17608611",
+      "trip_id": "6_17712624",
       "direction_id": "1",
       "headsign": "Spółdzielcza",
       "service_id": "6",
@@ -48412,7 +48412,7 @@
       ]
     },
     {
-      "trip_id": "6_17608612",
+      "trip_id": "6_17712625",
       "direction_id": "0",
       "headsign": "GAJ pętla",
       "service_id": "6",
@@ -48654,7 +48654,7 @@
       ]
     },
     {
-      "trip_id": "6_17608613",
+      "trip_id": "6_17712626",
       "direction_id": "1",
       "headsign": "Spółdzielcza",
       "service_id": "6",
@@ -48896,7 +48896,7 @@
       ]
     },
     {
-      "trip_id": "6_17608614",
+      "trip_id": "6_17712627",
       "direction_id": "0",
       "headsign": "GAJ pętla",
       "service_id": "6",
@@ -49138,7 +49138,7 @@
       ]
     },
     {
-      "trip_id": "6_17608615",
+      "trip_id": "6_17712628",
       "direction_id": "1",
       "headsign": "Spółdzielcza",
       "service_id": "6",
@@ -49380,7 +49380,7 @@
       ]
     },
     {
-      "trip_id": "6_17608616",
+      "trip_id": "6_17712629",
       "direction_id": "0",
       "headsign": "GAJ pętla",
       "service_id": "6",
@@ -49622,7 +49622,7 @@
       ]
     },
     {
-      "trip_id": "6_17608617",
+      "trip_id": "6_17712630",
       "direction_id": "1",
       "headsign": "Spółdzielcza",
       "service_id": "6",
@@ -49864,7 +49864,7 @@
       ]
     },
     {
-      "trip_id": "6_17608618",
+      "trip_id": "6_17712631",
       "direction_id": "0",
       "headsign": "GAJ pętla",
       "service_id": "6",
@@ -50106,7 +50106,7 @@
       ]
     },
     {
-      "trip_id": "6_17608619",
+      "trip_id": "6_17712632",
       "direction_id": "1",
       "headsign": "Spółdzielcza",
       "service_id": "6",
@@ -50348,7 +50348,7 @@
       ]
     },
     {
-      "trip_id": "6_17608620",
+      "trip_id": "6_17712633",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "6",
@@ -50599,7 +50599,7 @@
       ]
     },
     {
-      "trip_id": "6_17608621",
+      "trip_id": "6_17712634",
       "direction_id": "1",
       "headsign": "Spółdzielcza",
       "service_id": "6",
@@ -50841,7 +50841,7 @@
       ]
     },
     {
-      "trip_id": "6_17608622",
+      "trip_id": "6_17712635",
       "direction_id": "0",
       "headsign": "GAJ pętla",
       "service_id": "6",
@@ -51083,7 +51083,7 @@
       ]
     },
     {
-      "trip_id": "6_17608623",
+      "trip_id": "6_17712636",
       "direction_id": "1",
       "headsign": "Spółdzielcza",
       "service_id": "6",
@@ -51325,7 +51325,7 @@
       ]
     },
     {
-      "trip_id": "6_17608624",
+      "trip_id": "6_17712637",
       "direction_id": "0",
       "headsign": "GAJ pętla",
       "service_id": "6",
@@ -51567,7 +51567,7 @@
       ]
     },
     {
-      "trip_id": "6_17608625",
+      "trip_id": "6_17712638",
       "direction_id": "1",
       "headsign": "Spółdzielcza",
       "service_id": "6",
@@ -51809,7 +51809,7 @@
       ]
     },
     {
-      "trip_id": "6_17608626",
+      "trip_id": "6_17712639",
       "direction_id": "0",
       "headsign": "GAJ pętla",
       "service_id": "6",
@@ -52051,7 +52051,7 @@
       ]
     },
     {
-      "trip_id": "6_17608627",
+      "trip_id": "6_17712640",
       "direction_id": "1",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "6",
@@ -52311,7 +52311,7 @@
       ]
     },
     {
-      "trip_id": "6_17608628",
+      "trip_id": "6_17712641",
       "direction_id": "1",
       "headsign": "Spółdzielcza",
       "service_id": "6",
@@ -52553,7 +52553,7 @@
       ]
     },
     {
-      "trip_id": "6_17608629",
+      "trip_id": "6_17712642",
       "direction_id": "0",
       "headsign": "GAJ pętla",
       "service_id": "6",
@@ -52795,7 +52795,7 @@
       ]
     },
     {
-      "trip_id": "6_17608630",
+      "trip_id": "6_17712643",
       "direction_id": "1",
       "headsign": "Spółdzielcza",
       "service_id": "6",
@@ -53037,7 +53037,7 @@
       ]
     },
     {
-      "trip_id": "6_17608631",
+      "trip_id": "6_17712644",
       "direction_id": "0",
       "headsign": "GAJ pętla",
       "service_id": "6",
@@ -53279,7 +53279,7 @@
       ]
     },
     {
-      "trip_id": "6_17608632",
+      "trip_id": "6_17712645",
       "direction_id": "1",
       "headsign": "Spółdzielcza",
       "service_id": "6",
@@ -53521,7 +53521,7 @@
       ]
     },
     {
-      "trip_id": "6_17608633",
+      "trip_id": "6_17712646",
       "direction_id": "0",
       "headsign": "GAJ pętla",
       "service_id": "6",
@@ -53763,7 +53763,7 @@
       ]
     },
     {
-      "trip_id": "6_17608634",
+      "trip_id": "6_17712647",
       "direction_id": "1",
       "headsign": "Spółdzielcza",
       "service_id": "6",
@@ -54005,7 +54005,7 @@
       ]
     },
     {
-      "trip_id": "6_17608635",
+      "trip_id": "6_17712648",
       "direction_id": "0",
       "headsign": "GAJ pętla",
       "service_id": "6",
@@ -54247,7 +54247,7 @@
       ]
     },
     {
-      "trip_id": "6_17608636",
+      "trip_id": "6_17712649",
       "direction_id": "1",
       "headsign": "Spółdzielcza",
       "service_id": "6",
@@ -54489,7 +54489,7 @@
       ]
     },
     {
-      "trip_id": "6_17608637",
+      "trip_id": "6_17712650",
       "direction_id": "0",
       "headsign": "GAJ pętla",
       "service_id": "6",
@@ -54731,7 +54731,7 @@
       ]
     },
     {
-      "trip_id": "6_17608638",
+      "trip_id": "6_17712651",
       "direction_id": "1",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "6",
@@ -54991,7 +54991,7 @@
       ]
     },
     {
-      "trip_id": "6_17608639",
+      "trip_id": "6_17712652",
       "direction_id": "1",
       "headsign": "Spółdzielcza",
       "service_id": "6",
@@ -55233,7 +55233,7 @@
       ]
     },
     {
-      "trip_id": "6_17608640",
+      "trip_id": "6_17712653",
       "direction_id": "0",
       "headsign": "GAJ pętla",
       "service_id": "6",
@@ -55475,7 +55475,7 @@
       ]
     },
     {
-      "trip_id": "6_17608641",
+      "trip_id": "6_17712654",
       "direction_id": "1",
       "headsign": "Spółdzielcza",
       "service_id": "6",
@@ -55717,7 +55717,7 @@
       ]
     },
     {
-      "trip_id": "6_17608642",
+      "trip_id": "6_17712655",
       "direction_id": "0",
       "headsign": "GAJ pętla",
       "service_id": "6",
@@ -55959,7 +55959,7 @@
       ]
     },
     {
-      "trip_id": "6_17608643",
+      "trip_id": "6_17712656",
       "direction_id": "1",
       "headsign": "Spółdzielcza",
       "service_id": "6",
@@ -56201,7 +56201,7 @@
       ]
     },
     {
-      "trip_id": "6_17608644",
+      "trip_id": "6_17712657",
       "direction_id": "0",
       "headsign": "GAJ pętla",
       "service_id": "6",
@@ -56443,7 +56443,7 @@
       ]
     },
     {
-      "trip_id": "6_17608645",
+      "trip_id": "6_17712658",
       "direction_id": "1",
       "headsign": "Spółdzielcza",
       "service_id": "6",
@@ -56685,7 +56685,7 @@
       ]
     },
     {
-      "trip_id": "6_17608646",
+      "trip_id": "6_17712659",
       "direction_id": "0",
       "headsign": "GAJ pętla",
       "service_id": "6",
@@ -56927,7 +56927,7 @@
       ]
     },
     {
-      "trip_id": "6_17608647",
+      "trip_id": "6_17712660",
       "direction_id": "1",
       "headsign": "Spółdzielcza",
       "service_id": "6",
@@ -57169,7 +57169,7 @@
       ]
     },
     {
-      "trip_id": "6_17608648",
+      "trip_id": "6_17712661",
       "direction_id": "0",
       "headsign": "GAJ pętla",
       "service_id": "6",
@@ -57411,7 +57411,7 @@
       ]
     },
     {
-      "trip_id": "6_17608649",
+      "trip_id": "6_17712662",
       "direction_id": "1",
       "headsign": "Spółdzielcza",
       "service_id": "6",
@@ -57653,7 +57653,7 @@
       ]
     },
     {
-      "trip_id": "6_17608650",
+      "trip_id": "6_17712663",
       "direction_id": "0",
       "headsign": "GAJ pętla",
       "service_id": "6",
@@ -57895,7 +57895,7 @@
       ]
     },
     {
-      "trip_id": "6_17608651",
+      "trip_id": "6_17712664",
       "direction_id": "1",
       "headsign": "Spółdzielcza",
       "service_id": "6",
@@ -58137,7 +58137,7 @@
       ]
     },
     {
-      "trip_id": "6_17608652",
+      "trip_id": "6_17712665",
       "direction_id": "0",
       "headsign": "GAJ pętla",
       "service_id": "6",
@@ -58379,7 +58379,7 @@
       ]
     },
     {
-      "trip_id": "6_17608653",
+      "trip_id": "6_17712666",
       "direction_id": "1",
       "headsign": "Spółdzielcza",
       "service_id": "6",
@@ -58621,7 +58621,7 @@
       ]
     },
     {
-      "trip_id": "6_17608654",
+      "trip_id": "6_17712667",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "6",
@@ -58872,7 +58872,7 @@
       ]
     },
     {
-      "trip_id": "6_17608655",
+      "trip_id": "6_17712668",
       "direction_id": "0",
       "headsign": "GAJ pętla",
       "service_id": "6",
@@ -59132,7 +59132,7 @@
       ]
     },
     {
-      "trip_id": "6_17608656",
+      "trip_id": "6_17712669",
       "direction_id": "1",
       "headsign": "Spółdzielcza",
       "service_id": "6",
@@ -59374,7 +59374,7 @@
       ]
     },
     {
-      "trip_id": "6_17608657",
+      "trip_id": "6_17712670",
       "direction_id": "0",
       "headsign": "GAJ pętla",
       "service_id": "6",
@@ -59616,7 +59616,7 @@
       ]
     },
     {
-      "trip_id": "6_17608658",
+      "trip_id": "6_17712671",
       "direction_id": "1",
       "headsign": "Spółdzielcza",
       "service_id": "6",
@@ -59858,7 +59858,7 @@
       ]
     },
     {
-      "trip_id": "6_17608659",
+      "trip_id": "6_17712672",
       "direction_id": "0",
       "headsign": "GAJ pętla",
       "service_id": "6",
@@ -60100,7 +60100,7 @@
       ]
     },
     {
-      "trip_id": "6_17608660",
+      "trip_id": "6_17712673",
       "direction_id": "1",
       "headsign": "Spółdzielcza",
       "service_id": "6",
@@ -60342,7 +60342,7 @@
       ]
     },
     {
-      "trip_id": "6_17608661",
+      "trip_id": "6_17712674",
       "direction_id": "0",
       "headsign": "GAJ pętla",
       "service_id": "6",
@@ -60584,7 +60584,7 @@
       ]
     },
     {
-      "trip_id": "6_17608662",
+      "trip_id": "6_17712675",
       "direction_id": "1",
       "headsign": "Spółdzielcza",
       "service_id": "6",
@@ -60826,7 +60826,7 @@
       ]
     },
     {
-      "trip_id": "6_17608663",
+      "trip_id": "6_17712676",
       "direction_id": "0",
       "headsign": "GAJ pętla",
       "service_id": "6",
@@ -61068,7 +61068,7 @@
       ]
     },
     {
-      "trip_id": "6_17608664",
+      "trip_id": "6_17712677",
       "direction_id": "1",
       "headsign": "Spółdzielcza",
       "service_id": "6",
@@ -61310,7 +61310,7 @@
       ]
     },
     {
-      "trip_id": "6_17608665",
+      "trip_id": "6_17712678",
       "direction_id": "0",
       "headsign": "GAJ pętla",
       "service_id": "6",
@@ -61552,7 +61552,7 @@
       ]
     },
     {
-      "trip_id": "6_17608666",
+      "trip_id": "6_17712679",
       "direction_id": "1",
       "headsign": "Spółdzielcza",
       "service_id": "6",
@@ -61794,7 +61794,7 @@
       ]
     },
     {
-      "trip_id": "6_17608667",
+      "trip_id": "6_17712680",
       "direction_id": "0",
       "headsign": "GAJ pętla",
       "service_id": "6",
@@ -62036,7 +62036,7 @@
       ]
     },
     {
-      "trip_id": "6_17608668",
+      "trip_id": "6_17712681",
       "direction_id": "1",
       "headsign": "Spółdzielcza",
       "service_id": "6",
@@ -62278,7 +62278,7 @@
       ]
     },
     {
-      "trip_id": "6_17608669",
+      "trip_id": "6_17712682",
       "direction_id": "0",
       "headsign": "GAJ pętla",
       "service_id": "6",
@@ -62520,7 +62520,7 @@
       ]
     },
     {
-      "trip_id": "6_17608670",
+      "trip_id": "6_17712683",
       "direction_id": "1",
       "headsign": "Spółdzielcza",
       "service_id": "6",
@@ -62762,7 +62762,7 @@
       ]
     },
     {
-      "trip_id": "6_17608671",
+      "trip_id": "6_17712684",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "6",
@@ -63013,7 +63013,7 @@
       ]
     },
     {
-      "trip_id": "6_17608672",
+      "trip_id": "6_17712685",
       "direction_id": "1",
       "headsign": "Spółdzielcza",
       "service_id": "6",
@@ -63255,7 +63255,7 @@
       ]
     },
     {
-      "trip_id": "6_17608673",
+      "trip_id": "6_17712686",
       "direction_id": "0",
       "headsign": "GAJ pętla",
       "service_id": "6",
@@ -63497,7 +63497,7 @@
       ]
     },
     {
-      "trip_id": "6_17608674",
+      "trip_id": "6_17712687",
       "direction_id": "1",
       "headsign": "Spółdzielcza",
       "service_id": "6",
@@ -63739,7 +63739,7 @@
       ]
     },
     {
-      "trip_id": "6_17608675",
+      "trip_id": "6_17712688",
       "direction_id": "0",
       "headsign": "GAJ pętla",
       "service_id": "6",
@@ -63981,7 +63981,7 @@
       ]
     },
     {
-      "trip_id": "6_17608676",
+      "trip_id": "6_17712689",
       "direction_id": "1",
       "headsign": "Spółdzielcza",
       "service_id": "6",
@@ -64223,7 +64223,7 @@
       ]
     },
     {
-      "trip_id": "6_17608677",
+      "trip_id": "6_17712690",
       "direction_id": "0",
       "headsign": "GAJ pętla",
       "service_id": "6",
@@ -64465,7 +64465,7 @@
       ]
     },
     {
-      "trip_id": "6_17608678",
+      "trip_id": "6_17712691",
       "direction_id": "1",
       "headsign": "Spółdzielcza",
       "service_id": "6",
@@ -64707,7 +64707,7 @@
       ]
     },
     {
-      "trip_id": "6_17608679",
+      "trip_id": "6_17712692",
       "direction_id": "0",
       "headsign": "GAJ pętla",
       "service_id": "6",
@@ -64949,7 +64949,7 @@
       ]
     },
     {
-      "trip_id": "6_17608680",
+      "trip_id": "6_17712693",
       "direction_id": "1",
       "headsign": "Spółdzielcza",
       "service_id": "6",
@@ -65191,7 +65191,7 @@
       ]
     },
     {
-      "trip_id": "6_17608681",
+      "trip_id": "6_17712694",
       "direction_id": "0",
       "headsign": "GAJ pętla",
       "service_id": "6",
@@ -65433,7 +65433,7 @@
       ]
     },
     {
-      "trip_id": "6_17608682",
+      "trip_id": "6_17712695",
       "direction_id": "1",
       "headsign": "Spółdzielcza",
       "service_id": "6",
@@ -65675,7 +65675,7 @@
       ]
     },
     {
-      "trip_id": "6_17608683",
+      "trip_id": "6_17712696",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "6",
@@ -65926,7 +65926,7 @@
       ]
     },
     {
-      "trip_id": "6_17608684",
+      "trip_id": "6_17712697",
       "direction_id": "1",
       "headsign": "Spółdzielcza",
       "service_id": "6",
@@ -66168,7 +66168,7 @@
       ]
     },
     {
-      "trip_id": "6_17608685",
+      "trip_id": "6_17712698",
       "direction_id": "0",
       "headsign": "GAJ pętla",
       "service_id": "6",
@@ -66410,7 +66410,7 @@
       ]
     },
     {
-      "trip_id": "6_17608686",
+      "trip_id": "6_17712699",
       "direction_id": "1",
       "headsign": "Spółdzielcza",
       "service_id": "6",
@@ -66652,7 +66652,7 @@
       ]
     },
     {
-      "trip_id": "6_17608687",
+      "trip_id": "6_17712700",
       "direction_id": "0",
       "headsign": "GAJ pętla",
       "service_id": "6",
@@ -66894,7 +66894,7 @@
       ]
     },
     {
-      "trip_id": "6_17608688",
+      "trip_id": "6_17712701",
       "direction_id": "1",
       "headsign": "Spółdzielcza",
       "service_id": "6",
@@ -67136,7 +67136,7 @@
       ]
     },
     {
-      "trip_id": "6_17608689",
+      "trip_id": "6_17712702",
       "direction_id": "0",
       "headsign": "GAJ pętla",
       "service_id": "6",
@@ -67378,7 +67378,7 @@
       ]
     },
     {
-      "trip_id": "6_17608690",
+      "trip_id": "6_17712703",
       "direction_id": "1",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "6",
@@ -67638,7 +67638,7 @@
       ]
     },
     {
-      "trip_id": "6_17608691",
+      "trip_id": "6_17712704",
       "direction_id": "0",
       "headsign": "GAJ pętla",
       "service_id": "6",
@@ -67772,7 +67772,7 @@
       ]
     },
     {
-      "trip_id": "6_17608692",
+      "trip_id": "6_17712705",
       "direction_id": "1",
       "headsign": "Spółdzielcza",
       "service_id": "6",
@@ -68014,7 +68014,7 @@
       ]
     },
     {
-      "trip_id": "6_17608693",
+      "trip_id": "6_17712706",
       "direction_id": "0",
       "headsign": "GAJ pętla",
       "service_id": "6",
@@ -68256,7 +68256,7 @@
       ]
     },
     {
-      "trip_id": "6_17608694",
+      "trip_id": "6_17712707",
       "direction_id": "1",
       "headsign": "Spółdzielcza",
       "service_id": "6",
@@ -68498,7 +68498,7 @@
       ]
     },
     {
-      "trip_id": "6_17608695",
+      "trip_id": "6_17712708",
       "direction_id": "0",
       "headsign": "GAJ pętla",
       "service_id": "6",
@@ -68740,7 +68740,7 @@
       ]
     },
     {
-      "trip_id": "6_17608696",
+      "trip_id": "6_17712709",
       "direction_id": "1",
       "headsign": "Zajezdnia TYSKA",
       "service_id": "6",
@@ -68856,7 +68856,7 @@
       ]
     },
     {
-      "trip_id": "6_17608697",
+      "trip_id": "6_17712710",
       "direction_id": "1",
       "headsign": "Spółdzielcza",
       "service_id": "6",
@@ -69008,7 +69008,7 @@
       ]
     },
     {
-      "trip_id": "6_17608698",
+      "trip_id": "6_17712711",
       "direction_id": "0",
       "headsign": "GAJ pętla",
       "service_id": "6",
@@ -69250,7 +69250,7 @@
       ]
     },
     {
-      "trip_id": "6_17608699",
+      "trip_id": "6_17712712",
       "direction_id": "1",
       "headsign": "Spółdzielcza",
       "service_id": "6",
@@ -69492,7 +69492,7 @@
       ]
     },
     {
-      "trip_id": "6_17608700",
+      "trip_id": "6_17712713",
       "direction_id": "0",
       "headsign": "GAJ pętla",
       "service_id": "6",
@@ -69734,7 +69734,7 @@
       ]
     },
     {
-      "trip_id": "6_17608701",
+      "trip_id": "6_17712714",
       "direction_id": "1",
       "headsign": "Zajezdnia TYSKA",
       "service_id": "6",
@@ -69850,7 +69850,7 @@
       ]
     },
     {
-      "trip_id": "8_17615401",
+      "trip_id": "8_17719414",
       "direction_id": "0",
       "headsign": "GAJ pętla",
       "service_id": "8",
@@ -70110,7 +70110,7 @@
       ]
     },
     {
-      "trip_id": "8_17615402",
+      "trip_id": "8_17719415",
       "direction_id": "1",
       "headsign": "Spółdzielcza",
       "service_id": "8",
@@ -70352,7 +70352,7 @@
       ]
     },
     {
-      "trip_id": "8_17615403",
+      "trip_id": "8_17719416",
       "direction_id": "0",
       "headsign": "GAJ pętla",
       "service_id": "8",
@@ -70594,7 +70594,7 @@
       ]
     },
     {
-      "trip_id": "8_17615404",
+      "trip_id": "8_17719417",
       "direction_id": "1",
       "headsign": "Spółdzielcza",
       "service_id": "8",
@@ -70836,7 +70836,7 @@
       ]
     },
     {
-      "trip_id": "8_17615405",
+      "trip_id": "8_17719418",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "8",
@@ -71087,7 +71087,7 @@
       ]
     },
     {
-      "trip_id": "8_17615406",
+      "trip_id": "8_17719419",
       "direction_id": "1",
       "headsign": "Spółdzielcza",
       "service_id": "8",
@@ -71329,7 +71329,7 @@
       ]
     },
     {
-      "trip_id": "8_17615407",
+      "trip_id": "8_17719420",
       "direction_id": "0",
       "headsign": "GAJ pętla",
       "service_id": "8",
@@ -71571,7 +71571,7 @@
       ]
     },
     {
-      "trip_id": "8_17615408",
+      "trip_id": "8_17719421",
       "direction_id": "1",
       "headsign": "Spółdzielcza",
       "service_id": "8",
@@ -71813,7 +71813,7 @@
       ]
     },
     {
-      "trip_id": "8_17615409",
+      "trip_id": "8_17719422",
       "direction_id": "0",
       "headsign": "GAJ pętla",
       "service_id": "8",
@@ -72055,7 +72055,7 @@
       ]
     },
     {
-      "trip_id": "8_17615410",
+      "trip_id": "8_17719423",
       "direction_id": "1",
       "headsign": "Spółdzielcza",
       "service_id": "8",
@@ -72297,7 +72297,7 @@
       ]
     },
     {
-      "trip_id": "8_17615411",
+      "trip_id": "8_17719424",
       "direction_id": "0",
       "headsign": "GAJ pętla",
       "service_id": "8",
@@ -72539,7 +72539,7 @@
       ]
     },
     {
-      "trip_id": "8_17615412",
+      "trip_id": "8_17719425",
       "direction_id": "1",
       "headsign": "Spółdzielcza",
       "service_id": "8",
@@ -72781,7 +72781,7 @@
       ]
     },
     {
-      "trip_id": "8_17615413",
+      "trip_id": "8_17719426",
       "direction_id": "0",
       "headsign": "GAJ pętla",
       "service_id": "8",
@@ -73023,7 +73023,7 @@
       ]
     },
     {
-      "trip_id": "8_17615414",
+      "trip_id": "8_17719427",
       "direction_id": "1",
       "headsign": "Spółdzielcza",
       "service_id": "8",
@@ -73265,7 +73265,7 @@
       ]
     },
     {
-      "trip_id": "8_17615415",
+      "trip_id": "8_17719428",
       "direction_id": "0",
       "headsign": "GAJ pętla",
       "service_id": "8",
@@ -73507,7 +73507,7 @@
       ]
     },
     {
-      "trip_id": "8_17615416",
+      "trip_id": "8_17719429",
       "direction_id": "1",
       "headsign": "Spółdzielcza",
       "service_id": "8",
@@ -73749,7 +73749,7 @@
       ]
     },
     {
-      "trip_id": "8_17615417",
+      "trip_id": "8_17719430",
       "direction_id": "0",
       "headsign": "GAJ pętla",
       "service_id": "8",
@@ -73991,7 +73991,7 @@
       ]
     },
     {
-      "trip_id": "8_17615418",
+      "trip_id": "8_17719431",
       "direction_id": "1",
       "headsign": "Spółdzielcza",
       "service_id": "8",
@@ -74233,7 +74233,7 @@
       ]
     },
     {
-      "trip_id": "8_17615419",
+      "trip_id": "8_17719432",
       "direction_id": "0",
       "headsign": "GAJ pętla",
       "service_id": "8",
@@ -74475,7 +74475,7 @@
       ]
     },
     {
-      "trip_id": "8_17615420",
+      "trip_id": "8_17719433",
       "direction_id": "1",
       "headsign": "Spółdzielcza",
       "service_id": "8",
@@ -74717,7 +74717,7 @@
       ]
     },
     {
-      "trip_id": "8_17615421",
+      "trip_id": "8_17719434",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "8",
@@ -74968,7 +74968,7 @@
       ]
     },
     {
-      "trip_id": "8_17615422",
+      "trip_id": "8_17719435",
       "direction_id": "0",
       "headsign": "GAJ pętla",
       "service_id": "8",
@@ -75228,7 +75228,7 @@
       ]
     },
     {
-      "trip_id": "8_17615423",
+      "trip_id": "8_17719436",
       "direction_id": "1",
       "headsign": "Spółdzielcza",
       "service_id": "8",
@@ -75470,7 +75470,7 @@
       ]
     },
     {
-      "trip_id": "8_17615424",
+      "trip_id": "8_17719437",
       "direction_id": "0",
       "headsign": "GAJ pętla",
       "service_id": "8",
@@ -75712,7 +75712,7 @@
       ]
     },
     {
-      "trip_id": "8_17615425",
+      "trip_id": "8_17719438",
       "direction_id": "1",
       "headsign": "Spółdzielcza",
       "service_id": "8",
@@ -75954,7 +75954,7 @@
       ]
     },
     {
-      "trip_id": "8_17615426",
+      "trip_id": "8_17719439",
       "direction_id": "0",
       "headsign": "GAJ pętla",
       "service_id": "8",
@@ -76196,7 +76196,7 @@
       ]
     },
     {
-      "trip_id": "8_17615427",
+      "trip_id": "8_17719440",
       "direction_id": "1",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "8",
@@ -76456,7 +76456,7 @@
       ]
     },
     {
-      "trip_id": "8_17615428",
+      "trip_id": "8_17719441",
       "direction_id": "0",
       "headsign": "GAJ pętla",
       "service_id": "8",
@@ -76716,7 +76716,7 @@
       ]
     },
     {
-      "trip_id": "8_17615429",
+      "trip_id": "8_17719442",
       "direction_id": "1",
       "headsign": "Spółdzielcza",
       "service_id": "8",
@@ -76958,7 +76958,7 @@
       ]
     },
     {
-      "trip_id": "8_17615430",
+      "trip_id": "8_17719443",
       "direction_id": "0",
       "headsign": "GAJ pętla",
       "service_id": "8",
@@ -77200,7 +77200,7 @@
       ]
     },
     {
-      "trip_id": "8_17615431",
+      "trip_id": "8_17719444",
       "direction_id": "1",
       "headsign": "Spółdzielcza",
       "service_id": "8",
@@ -77442,7 +77442,7 @@
       ]
     },
     {
-      "trip_id": "8_17615432",
+      "trip_id": "8_17719445",
       "direction_id": "0",
       "headsign": "GAJ pętla",
       "service_id": "8",
@@ -77684,7 +77684,7 @@
       ]
     },
     {
-      "trip_id": "8_17615433",
+      "trip_id": "8_17719446",
       "direction_id": "1",
       "headsign": "Spółdzielcza",
       "service_id": "8",
@@ -77926,7 +77926,7 @@
       ]
     },
     {
-      "trip_id": "8_17615434",
+      "trip_id": "8_17719447",
       "direction_id": "0",
       "headsign": "GAJ pętla",
       "service_id": "8",
@@ -78168,7 +78168,7 @@
       ]
     },
     {
-      "trip_id": "8_17615435",
+      "trip_id": "8_17719448",
       "direction_id": "1",
       "headsign": "Spółdzielcza",
       "service_id": "8",
@@ -78410,7 +78410,7 @@
       ]
     },
     {
-      "trip_id": "8_17615436",
+      "trip_id": "8_17719449",
       "direction_id": "0",
       "headsign": "GAJ pętla",
       "service_id": "8",
@@ -78652,7 +78652,7 @@
       ]
     },
     {
-      "trip_id": "8_17615437",
+      "trip_id": "8_17719450",
       "direction_id": "1",
       "headsign": "Spółdzielcza",
       "service_id": "8",
@@ -78894,7 +78894,7 @@
       ]
     },
     {
-      "trip_id": "8_17615438",
+      "trip_id": "8_17719451",
       "direction_id": "0",
       "headsign": "GAJ pętla",
       "service_id": "8",
@@ -79136,7 +79136,7 @@
       ]
     },
     {
-      "trip_id": "8_17615439",
+      "trip_id": "8_17719452",
       "direction_id": "1",
       "headsign": "Spółdzielcza",
       "service_id": "8",
@@ -79378,7 +79378,7 @@
       ]
     },
     {
-      "trip_id": "8_17615440",
+      "trip_id": "8_17719453",
       "direction_id": "0",
       "headsign": "GAJ pętla",
       "service_id": "8",
@@ -79620,7 +79620,7 @@
       ]
     },
     {
-      "trip_id": "8_17615441",
+      "trip_id": "8_17719454",
       "direction_id": "1",
       "headsign": "Spółdzielcza",
       "service_id": "8",
@@ -79862,7 +79862,7 @@
       ]
     },
     {
-      "trip_id": "8_17615442",
+      "trip_id": "8_17719455",
       "direction_id": "0",
       "headsign": "GAJ pętla",
       "service_id": "8",
@@ -80104,7 +80104,7 @@
       ]
     },
     {
-      "trip_id": "8_17615443",
+      "trip_id": "8_17719456",
       "direction_id": "1",
       "headsign": "Spółdzielcza",
       "service_id": "8",
@@ -80346,7 +80346,7 @@
       ]
     },
     {
-      "trip_id": "8_17615444",
+      "trip_id": "8_17719457",
       "direction_id": "0",
       "headsign": "GAJ pętla",
       "service_id": "8",
@@ -80588,7 +80588,7 @@
       ]
     },
     {
-      "trip_id": "8_17615445",
+      "trip_id": "8_17719458",
       "direction_id": "1",
       "headsign": "Spółdzielcza",
       "service_id": "8",
@@ -80830,7 +80830,7 @@
       ]
     },
     {
-      "trip_id": "8_17615446",
+      "trip_id": "8_17719459",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "8",
@@ -81081,7 +81081,7 @@
       ]
     },
     {
-      "trip_id": "8_17615447",
+      "trip_id": "8_17719460",
       "direction_id": "1",
       "headsign": "Spółdzielcza",
       "service_id": "8",
@@ -81323,7 +81323,7 @@
       ]
     },
     {
-      "trip_id": "8_17615448",
+      "trip_id": "8_17719461",
       "direction_id": "0",
       "headsign": "GAJ pętla",
       "service_id": "8",
@@ -81565,7 +81565,7 @@
       ]
     },
     {
-      "trip_id": "8_17615449",
+      "trip_id": "8_17719462",
       "direction_id": "1",
       "headsign": "Spółdzielcza",
       "service_id": "8",
@@ -81807,7 +81807,7 @@
       ]
     },
     {
-      "trip_id": "8_17615450",
+      "trip_id": "8_17719463",
       "direction_id": "0",
       "headsign": "GAJ pętla",
       "service_id": "8",
@@ -82049,7 +82049,7 @@
       ]
     },
     {
-      "trip_id": "8_17615451",
+      "trip_id": "8_17719464",
       "direction_id": "1",
       "headsign": "Spółdzielcza",
       "service_id": "8",
@@ -82291,7 +82291,7 @@
       ]
     },
     {
-      "trip_id": "8_17615452",
+      "trip_id": "8_17719465",
       "direction_id": "0",
       "headsign": "GAJ pętla",
       "service_id": "8",
@@ -82533,7 +82533,7 @@
       ]
     },
     {
-      "trip_id": "8_17615453",
+      "trip_id": "8_17719466",
       "direction_id": "1",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "8",
@@ -82793,7 +82793,7 @@
       ]
     },
     {
-      "trip_id": "8_17615454",
+      "trip_id": "8_17719467",
       "direction_id": "1",
       "headsign": "Spółdzielcza",
       "service_id": "8",
@@ -83035,7 +83035,7 @@
       ]
     },
     {
-      "trip_id": "8_17615455",
+      "trip_id": "8_17719468",
       "direction_id": "0",
       "headsign": "GAJ pętla",
       "service_id": "8",
@@ -83277,7 +83277,7 @@
       ]
     },
     {
-      "trip_id": "8_17615456",
+      "trip_id": "8_17719469",
       "direction_id": "1",
       "headsign": "Spółdzielcza",
       "service_id": "8",
@@ -83519,7 +83519,7 @@
       ]
     },
     {
-      "trip_id": "8_17615457",
+      "trip_id": "8_17719470",
       "direction_id": "0",
       "headsign": "GAJ pętla",
       "service_id": "8",
@@ -83761,7 +83761,7 @@
       ]
     },
     {
-      "trip_id": "8_17615458",
+      "trip_id": "8_17719471",
       "direction_id": "1",
       "headsign": "Spółdzielcza",
       "service_id": "8",
@@ -84003,7 +84003,7 @@
       ]
     },
     {
-      "trip_id": "8_17615459",
+      "trip_id": "8_17719472",
       "direction_id": "0",
       "headsign": "GAJ pętla",
       "service_id": "8",
@@ -84245,7 +84245,7 @@
       ]
     },
     {
-      "trip_id": "8_17615460",
+      "trip_id": "8_17719473",
       "direction_id": "1",
       "headsign": "Spółdzielcza",
       "service_id": "8",
@@ -84487,7 +84487,7 @@
       ]
     },
     {
-      "trip_id": "8_17615461",
+      "trip_id": "8_17719474",
       "direction_id": "0",
       "headsign": "GAJ pętla",
       "service_id": "8",
@@ -84729,7 +84729,7 @@
       ]
     },
     {
-      "trip_id": "8_17615462",
+      "trip_id": "8_17719475",
       "direction_id": "1",
       "headsign": "Spółdzielcza",
       "service_id": "8",
@@ -84971,7 +84971,7 @@
       ]
     },
     {
-      "trip_id": "8_17615463",
+      "trip_id": "8_17719476",
       "direction_id": "0",
       "headsign": "GAJ pętla",
       "service_id": "8",
@@ -85213,7 +85213,7 @@
       ]
     },
     {
-      "trip_id": "8_17615464",
+      "trip_id": "8_17719477",
       "direction_id": "1",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "8",
@@ -85473,7 +85473,7 @@
       ]
     },
     {
-      "trip_id": "8_17615465",
+      "trip_id": "8_17719478",
       "direction_id": "1",
       "headsign": "Spółdzielcza",
       "service_id": "8",
@@ -85715,7 +85715,7 @@
       ]
     },
     {
-      "trip_id": "8_17615466",
+      "trip_id": "8_17719479",
       "direction_id": "0",
       "headsign": "GAJ pętla",
       "service_id": "8",
@@ -85957,7 +85957,7 @@
       ]
     },
     {
-      "trip_id": "8_17615467",
+      "trip_id": "8_17719480",
       "direction_id": "1",
       "headsign": "Spółdzielcza",
       "service_id": "8",
@@ -86199,7 +86199,7 @@
       ]
     },
     {
-      "trip_id": "8_17615468",
+      "trip_id": "8_17719481",
       "direction_id": "0",
       "headsign": "GAJ pętla",
       "service_id": "8",
@@ -86441,7 +86441,7 @@
       ]
     },
     {
-      "trip_id": "8_17615469",
+      "trip_id": "8_17719482",
       "direction_id": "1",
       "headsign": "Spółdzielcza",
       "service_id": "8",
@@ -86683,7 +86683,7 @@
       ]
     },
     {
-      "trip_id": "8_17615470",
+      "trip_id": "8_17719483",
       "direction_id": "0",
       "headsign": "GAJ pętla",
       "service_id": "8",
@@ -86925,7 +86925,7 @@
       ]
     },
     {
-      "trip_id": "8_17615471",
+      "trip_id": "8_17719484",
       "direction_id": "1",
       "headsign": "Spółdzielcza",
       "service_id": "8",
@@ -87167,7 +87167,7 @@
       ]
     },
     {
-      "trip_id": "8_17615472",
+      "trip_id": "8_17719485",
       "direction_id": "0",
       "headsign": "GAJ pętla",
       "service_id": "8",
@@ -87409,7 +87409,7 @@
       ]
     },
     {
-      "trip_id": "8_17615473",
+      "trip_id": "8_17719486",
       "direction_id": "1",
       "headsign": "Spółdzielcza",
       "service_id": "8",
@@ -87651,7 +87651,7 @@
       ]
     },
     {
-      "trip_id": "8_17615474",
+      "trip_id": "8_17719487",
       "direction_id": "0",
       "headsign": "GAJ pętla",
       "service_id": "8",
@@ -87893,7 +87893,7 @@
       ]
     },
     {
-      "trip_id": "8_17615475",
+      "trip_id": "8_17719488",
       "direction_id": "1",
       "headsign": "Spółdzielcza",
       "service_id": "8",
@@ -88135,7 +88135,7 @@
       ]
     },
     {
-      "trip_id": "8_17615476",
+      "trip_id": "8_17719489",
       "direction_id": "0",
       "headsign": "GAJ pętla",
       "service_id": "8",
@@ -88377,7 +88377,7 @@
       ]
     },
     {
-      "trip_id": "8_17615477",
+      "trip_id": "8_17719490",
       "direction_id": "1",
       "headsign": "Spółdzielcza",
       "service_id": "8",
@@ -88619,7 +88619,7 @@
       ]
     },
     {
-      "trip_id": "8_17615478",
+      "trip_id": "8_17719491",
       "direction_id": "0",
       "headsign": "GAJ pętla",
       "service_id": "8",
@@ -88861,7 +88861,7 @@
       ]
     },
     {
-      "trip_id": "8_17615479",
+      "trip_id": "8_17719492",
       "direction_id": "1",
       "headsign": "Spółdzielcza",
       "service_id": "8",
@@ -89103,7 +89103,7 @@
       ]
     },
     {
-      "trip_id": "8_17615480",
+      "trip_id": "8_17719493",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "8",
@@ -89354,7 +89354,7 @@
       ]
     },
     {
-      "trip_id": "8_17615481",
+      "trip_id": "8_17719494",
       "direction_id": "0",
       "headsign": "GAJ pętla",
       "service_id": "8",
@@ -89614,7 +89614,7 @@
       ]
     },
     {
-      "trip_id": "8_17615482",
+      "trip_id": "8_17719495",
       "direction_id": "1",
       "headsign": "Spółdzielcza",
       "service_id": "8",
@@ -89856,7 +89856,7 @@
       ]
     },
     {
-      "trip_id": "8_17615483",
+      "trip_id": "8_17719496",
       "direction_id": "0",
       "headsign": "GAJ pętla",
       "service_id": "8",
@@ -90098,7 +90098,7 @@
       ]
     },
     {
-      "trip_id": "8_17615484",
+      "trip_id": "8_17719497",
       "direction_id": "1",
       "headsign": "Spółdzielcza",
       "service_id": "8",
@@ -90340,7 +90340,7 @@
       ]
     },
     {
-      "trip_id": "8_17615485",
+      "trip_id": "8_17719498",
       "direction_id": "0",
       "headsign": "GAJ pętla",
       "service_id": "8",
@@ -90582,7 +90582,7 @@
       ]
     },
     {
-      "trip_id": "8_17615486",
+      "trip_id": "8_17719499",
       "direction_id": "1",
       "headsign": "Spółdzielcza",
       "service_id": "8",
@@ -90824,7 +90824,7 @@
       ]
     },
     {
-      "trip_id": "8_17615487",
+      "trip_id": "8_17719500",
       "direction_id": "0",
       "headsign": "GAJ pętla",
       "service_id": "8",
@@ -91066,7 +91066,7 @@
       ]
     },
     {
-      "trip_id": "8_17615488",
+      "trip_id": "8_17719501",
       "direction_id": "1",
       "headsign": "Spółdzielcza",
       "service_id": "8",
@@ -91308,7 +91308,7 @@
       ]
     },
     {
-      "trip_id": "8_17615489",
+      "trip_id": "8_17719502",
       "direction_id": "0",
       "headsign": "GAJ pętla",
       "service_id": "8",
@@ -91550,7 +91550,7 @@
       ]
     },
     {
-      "trip_id": "8_17615490",
+      "trip_id": "8_17719503",
       "direction_id": "1",
       "headsign": "Spółdzielcza",
       "service_id": "8",
@@ -91792,7 +91792,7 @@
       ]
     },
     {
-      "trip_id": "8_17615491",
+      "trip_id": "8_17719504",
       "direction_id": "0",
       "headsign": "GAJ pętla",
       "service_id": "8",
@@ -92034,7 +92034,7 @@
       ]
     },
     {
-      "trip_id": "8_17615492",
+      "trip_id": "8_17719505",
       "direction_id": "1",
       "headsign": "Spółdzielcza",
       "service_id": "8",
@@ -92276,7 +92276,7 @@
       ]
     },
     {
-      "trip_id": "8_17615493",
+      "trip_id": "8_17719506",
       "direction_id": "0",
       "headsign": "GAJ pętla",
       "service_id": "8",
@@ -92518,7 +92518,7 @@
       ]
     },
     {
-      "trip_id": "8_17615494",
+      "trip_id": "8_17719507",
       "direction_id": "1",
       "headsign": "Spółdzielcza",
       "service_id": "8",
@@ -92760,7 +92760,7 @@
       ]
     },
     {
-      "trip_id": "8_17615495",
+      "trip_id": "8_17719508",
       "direction_id": "0",
       "headsign": "GAJ pętla",
       "service_id": "8",
@@ -93002,7 +93002,7 @@
       ]
     },
     {
-      "trip_id": "8_17615496",
+      "trip_id": "8_17719509",
       "direction_id": "1",
       "headsign": "Spółdzielcza",
       "service_id": "8",
@@ -93244,7 +93244,7 @@
       ]
     },
     {
-      "trip_id": "8_17615497",
+      "trip_id": "8_17719510",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "8",
@@ -93495,7 +93495,7 @@
       ]
     },
     {
-      "trip_id": "8_17615498",
+      "trip_id": "8_17719511",
       "direction_id": "1",
       "headsign": "Spółdzielcza",
       "service_id": "8",
@@ -93737,7 +93737,7 @@
       ]
     },
     {
-      "trip_id": "8_17615499",
+      "trip_id": "8_17719512",
       "direction_id": "0",
       "headsign": "GAJ pętla",
       "service_id": "8",
@@ -93979,7 +93979,7 @@
       ]
     },
     {
-      "trip_id": "8_17615500",
+      "trip_id": "8_17719513",
       "direction_id": "1",
       "headsign": "Spółdzielcza",
       "service_id": "8",
@@ -94221,7 +94221,7 @@
       ]
     },
     {
-      "trip_id": "8_17615501",
+      "trip_id": "8_17719514",
       "direction_id": "0",
       "headsign": "GAJ pętla",
       "service_id": "8",
@@ -94463,7 +94463,7 @@
       ]
     },
     {
-      "trip_id": "8_17615502",
+      "trip_id": "8_17719515",
       "direction_id": "1",
       "headsign": "Spółdzielcza",
       "service_id": "8",
@@ -94705,7 +94705,7 @@
       ]
     },
     {
-      "trip_id": "8_17615503",
+      "trip_id": "8_17719516",
       "direction_id": "0",
       "headsign": "GAJ pętla",
       "service_id": "8",
@@ -94947,7 +94947,7 @@
       ]
     },
     {
-      "trip_id": "8_17615504",
+      "trip_id": "8_17719517",
       "direction_id": "1",
       "headsign": "Spółdzielcza",
       "service_id": "8",
@@ -95189,7 +95189,7 @@
       ]
     },
     {
-      "trip_id": "8_17615505",
+      "trip_id": "8_17719518",
       "direction_id": "0",
       "headsign": "GAJ pętla",
       "service_id": "8",
@@ -95431,7 +95431,7 @@
       ]
     },
     {
-      "trip_id": "8_17615506",
+      "trip_id": "8_17719519",
       "direction_id": "1",
       "headsign": "Spółdzielcza",
       "service_id": "8",
@@ -95673,7 +95673,7 @@
       ]
     },
     {
-      "trip_id": "8_17615507",
+      "trip_id": "8_17719520",
       "direction_id": "0",
       "headsign": "GAJ pętla",
       "service_id": "8",
@@ -95915,7 +95915,7 @@
       ]
     },
     {
-      "trip_id": "8_17615508",
+      "trip_id": "8_17719521",
       "direction_id": "1",
       "headsign": "Spółdzielcza",
       "service_id": "8",
@@ -96157,7 +96157,7 @@
       ]
     },
     {
-      "trip_id": "8_17615509",
+      "trip_id": "8_17719522",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "8",
@@ -96408,7 +96408,7 @@
       ]
     },
     {
-      "trip_id": "8_17615510",
+      "trip_id": "8_17719523",
       "direction_id": "1",
       "headsign": "Spółdzielcza",
       "service_id": "8",
@@ -96650,7 +96650,7 @@
       ]
     },
     {
-      "trip_id": "8_17615511",
+      "trip_id": "8_17719524",
       "direction_id": "0",
       "headsign": "GAJ pętla",
       "service_id": "8",
@@ -96892,7 +96892,7 @@
       ]
     },
     {
-      "trip_id": "8_17615512",
+      "trip_id": "8_17719525",
       "direction_id": "1",
       "headsign": "Spółdzielcza",
       "service_id": "8",
@@ -97134,7 +97134,7 @@
       ]
     },
     {
-      "trip_id": "8_17615513",
+      "trip_id": "8_17719526",
       "direction_id": "0",
       "headsign": "GAJ pętla",
       "service_id": "8",
@@ -97376,7 +97376,7 @@
       ]
     },
     {
-      "trip_id": "8_17615514",
+      "trip_id": "8_17719527",
       "direction_id": "1",
       "headsign": "Spółdzielcza",
       "service_id": "8",
@@ -97618,7 +97618,7 @@
       ]
     },
     {
-      "trip_id": "8_17615515",
+      "trip_id": "8_17719528",
       "direction_id": "0",
       "headsign": "GAJ pętla",
       "service_id": "8",
@@ -97860,7 +97860,7 @@
       ]
     },
     {
-      "trip_id": "8_17615516",
+      "trip_id": "8_17719529",
       "direction_id": "1",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "8",
@@ -98120,7 +98120,7 @@
       ]
     },
     {
-      "trip_id": "8_17615517",
+      "trip_id": "8_17719530",
       "direction_id": "0",
       "headsign": "GAJ pętla",
       "service_id": "8",
@@ -98254,7 +98254,7 @@
       ]
     },
     {
-      "trip_id": "8_17615518",
+      "trip_id": "8_17719531",
       "direction_id": "1",
       "headsign": "Spółdzielcza",
       "service_id": "8",
@@ -98496,7 +98496,7 @@
       ]
     },
     {
-      "trip_id": "8_17615519",
+      "trip_id": "8_17719532",
       "direction_id": "0",
       "headsign": "GAJ pętla",
       "service_id": "8",
@@ -98738,7 +98738,7 @@
       ]
     },
     {
-      "trip_id": "8_17615520",
+      "trip_id": "8_17719533",
       "direction_id": "1",
       "headsign": "Spółdzielcza",
       "service_id": "8",
@@ -98980,7 +98980,7 @@
       ]
     },
     {
-      "trip_id": "8_17615521",
+      "trip_id": "8_17719534",
       "direction_id": "0",
       "headsign": "GAJ pętla",
       "service_id": "8",
@@ -99222,7 +99222,7 @@
       ]
     },
     {
-      "trip_id": "8_17615522",
+      "trip_id": "8_17719535",
       "direction_id": "1",
       "headsign": "Zajezdnia TYSKA",
       "service_id": "8",
@@ -99338,7 +99338,7 @@
       ]
     },
     {
-      "trip_id": "8_17615523",
+      "trip_id": "8_17719536",
       "direction_id": "1",
       "headsign": "Spółdzielcza",
       "service_id": "8",
@@ -99490,7 +99490,7 @@
       ]
     },
     {
-      "trip_id": "8_17615524",
+      "trip_id": "8_17719537",
       "direction_id": "0",
       "headsign": "GAJ pętla",
       "service_id": "8",
@@ -99732,7 +99732,7 @@
       ]
     },
     {
-      "trip_id": "8_17615525",
+      "trip_id": "8_17719538",
       "direction_id": "1",
       "headsign": "Spółdzielcza",
       "service_id": "8",
@@ -99974,7 +99974,7 @@
       ]
     },
     {
-      "trip_id": "8_17615526",
+      "trip_id": "8_17719539",
       "direction_id": "0",
       "headsign": "GAJ pętla",
       "service_id": "8",
@@ -100216,7 +100216,7 @@
       ]
     },
     {
-      "trip_id": "8_17615527",
+      "trip_id": "8_17719540",
       "direction_id": "1",
       "headsign": "Zajezdnia TYSKA",
       "service_id": "8",

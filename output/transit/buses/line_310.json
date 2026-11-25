@@ -2,7 +2,7 @@
   "line": "310",
   "trips": [
     {
-      "trip_id": "6_17609876",
+      "trip_id": "6_17713889",
       "direction_id": "0",
       "headsign": "JAGODNO (P+R)",
       "service_id": "6",
@@ -181,7 +181,7 @@
       ]
     },
     {
-      "trip_id": "6_17609877",
+      "trip_id": "6_17713890",
       "direction_id": "0",
       "headsign": "IWINY - rondo",
       "service_id": "6",
@@ -225,7 +225,7 @@
       ]
     },
     {
-      "trip_id": "6_17609878",
+      "trip_id": "6_17713891",
       "direction_id": "1",
       "headsign": "Strachowskiego",
       "service_id": "6",
@@ -350,7 +350,7 @@
       ]
     },
     {
-      "trip_id": "6_17609879",
+      "trip_id": "6_17713892",
       "direction_id": "0",
       "headsign": "JAGODNO (P+R)",
       "service_id": "6",
@@ -466,7 +466,7 @@
       ]
     },
     {
-      "trip_id": "6_17609880",
+      "trip_id": "6_17713893",
       "direction_id": "0",
       "headsign": "IWINY - rondo",
       "service_id": "6",
@@ -510,7 +510,7 @@
       ]
     },
     {
-      "trip_id": "6_17609881",
+      "trip_id": "6_17713894",
       "direction_id": "1",
       "headsign": "Strachowskiego",
       "service_id": "6",
@@ -635,7 +635,7 @@
       ]
     },
     {
-      "trip_id": "6_17609882",
+      "trip_id": "6_17713895",
       "direction_id": "0",
       "headsign": "JAGODNO (P+R)",
       "service_id": "6",
@@ -751,7 +751,7 @@
       ]
     },
     {
-      "trip_id": "6_17609883",
+      "trip_id": "6_17713896",
       "direction_id": "0",
       "headsign": "IWINY - rondo",
       "service_id": "6",
@@ -795,7 +795,7 @@
       ]
     },
     {
-      "trip_id": "6_17609884",
+      "trip_id": "6_17713897",
       "direction_id": "1",
       "headsign": "Strachowskiego",
       "service_id": "6",
@@ -920,7 +920,7 @@
       ]
     },
     {
-      "trip_id": "6_17609885",
+      "trip_id": "6_17713898",
       "direction_id": "0",
       "headsign": "JAGODNO (P+R)",
       "service_id": "6",
@@ -1036,7 +1036,7 @@
       ]
     },
     {
-      "trip_id": "6_17609886",
+      "trip_id": "6_17713899",
       "direction_id": "0",
       "headsign": "IWINY - rondo",
       "service_id": "6",
@@ -1080,7 +1080,7 @@
       ]
     },
     {
-      "trip_id": "6_17609887",
+      "trip_id": "6_17713900",
       "direction_id": "1",
       "headsign": "Strachowskiego",
       "service_id": "6",
@@ -1205,7 +1205,7 @@
       ]
     },
     {
-      "trip_id": "6_17609888",
+      "trip_id": "6_17713901",
       "direction_id": "0",
       "headsign": "JAGODNO (P+R)",
       "service_id": "6",
@@ -1321,7 +1321,7 @@
       ]
     },
     {
-      "trip_id": "6_17609889",
+      "trip_id": "6_17713902",
       "direction_id": "0",
       "headsign": "IWINY - rondo",
       "service_id": "6",
@@ -1365,7 +1365,7 @@
       ]
     },
     {
-      "trip_id": "6_17609890",
+      "trip_id": "6_17713903",
       "direction_id": "1",
       "headsign": "Strachowskiego",
       "service_id": "6",
@@ -1490,7 +1490,7 @@
       ]
     },
     {
-      "trip_id": "6_17609891",
+      "trip_id": "6_17713904",
       "direction_id": "0",
       "headsign": "JAGODNO (P+R)",
       "service_id": "6",
@@ -1606,7 +1606,7 @@
       ]
     },
     {
-      "trip_id": "6_17609892",
+      "trip_id": "6_17713905",
       "direction_id": "0",
       "headsign": "IWINY - rondo",
       "service_id": "6",
@@ -1650,7 +1650,7 @@
       ]
     },
     {
-      "trip_id": "6_17609893",
+      "trip_id": "6_17713906",
       "direction_id": "1",
       "headsign": "Strachowskiego",
       "service_id": "6",
@@ -1775,7 +1775,7 @@
       ]
     },
     {
-      "trip_id": "6_17609894",
+      "trip_id": "6_17713907",
       "direction_id": "0",
       "headsign": "IWINY - rondo",
       "service_id": "6",
@@ -1918,7 +1918,7 @@
       ]
     },
     {
-      "trip_id": "6_17609895",
+      "trip_id": "6_17713908",
       "direction_id": "1",
       "headsign": "Strachowskiego",
       "service_id": "6",
@@ -2043,7 +2043,7 @@
       ]
     },
     {
-      "trip_id": "6_17609896",
+      "trip_id": "6_17713909",
       "direction_id": "0",
       "headsign": "IWINY - rondo",
       "service_id": "6",
@@ -2186,7 +2186,7 @@
       ]
     },
     {
-      "trip_id": "6_17609897",
+      "trip_id": "6_17713910",
       "direction_id": "1",
       "headsign": "JAGODNO (P+R)",
       "service_id": "6",
@@ -2221,7 +2221,7 @@
       ]
     },
     {
-      "trip_id": "6_17609898",
+      "trip_id": "6_17713911",
       "direction_id": "1",
       "headsign": "Strachowskiego",
       "service_id": "6",
@@ -2328,7 +2328,7 @@
       ]
     },
     {
-      "trip_id": "6_17609899",
+      "trip_id": "6_17713912",
       "direction_id": "0",
       "headsign": "IWINY - rondo",
       "service_id": "6",
@@ -2471,7 +2471,7 @@
       ]
     },
     {
-      "trip_id": "6_17609900",
+      "trip_id": "6_17713913",
       "direction_id": "1",
       "headsign": "JAGODNO (P+R)",
       "service_id": "6",
@@ -2506,7 +2506,7 @@
       ]
     },
     {
-      "trip_id": "6_17609901",
+      "trip_id": "6_17713914",
       "direction_id": "1",
       "headsign": "Strachowskiego",
       "service_id": "6",
@@ -2613,7 +2613,7 @@
       ]
     },
     {
-      "trip_id": "6_17609902",
+      "trip_id": "6_17713915",
       "direction_id": "0",
       "headsign": "IWINY - rondo",
       "service_id": "6",
@@ -2756,7 +2756,7 @@
       ]
     },
     {
-      "trip_id": "6_17609903",
+      "trip_id": "6_17713916",
       "direction_id": "1",
       "headsign": "JAGODNO (P+R)",
       "service_id": "6",
@@ -2791,7 +2791,7 @@
       ]
     },
     {
-      "trip_id": "6_17609904",
+      "trip_id": "6_17713917",
       "direction_id": "1",
       "headsign": "Strachowskiego",
       "service_id": "6",
@@ -2898,7 +2898,7 @@
       ]
     },
     {
-      "trip_id": "6_17609905",
+      "trip_id": "6_17713918",
       "direction_id": "0",
       "headsign": "IWINY - rondo",
       "service_id": "6",
@@ -3041,7 +3041,7 @@
       ]
     },
     {
-      "trip_id": "6_17609906",
+      "trip_id": "6_17713919",
       "direction_id": "1",
       "headsign": "JAGODNO (P+R)",
       "service_id": "6",
@@ -3076,7 +3076,7 @@
       ]
     },
     {
-      "trip_id": "6_17609907",
+      "trip_id": "6_17713920",
       "direction_id": "1",
       "headsign": "Strachowskiego",
       "service_id": "6",
@@ -3183,7 +3183,7 @@
       ]
     },
     {
-      "trip_id": "6_17609908",
+      "trip_id": "6_17713921",
       "direction_id": "0",
       "headsign": "IWINY - rondo",
       "service_id": "6",
@@ -3326,7 +3326,7 @@
       ]
     },
     {
-      "trip_id": "6_17609909",
+      "trip_id": "6_17713922",
       "direction_id": "1",
       "headsign": "JAGODNO (P+R)",
       "service_id": "6",
@@ -3361,7 +3361,7 @@
       ]
     },
     {
-      "trip_id": "6_17609910",
+      "trip_id": "6_17713923",
       "direction_id": "1",
       "headsign": "Strachowskiego",
       "service_id": "6",
@@ -3468,7 +3468,7 @@
       ]
     },
     {
-      "trip_id": "6_17609911",
+      "trip_id": "6_17713924",
       "direction_id": "0",
       "headsign": "IWINY - rondo",
       "service_id": "6",
@@ -3611,7 +3611,7 @@
       ]
     },
     {
-      "trip_id": "6_17609912",
+      "trip_id": "6_17713925",
       "direction_id": "1",
       "headsign": "JAGODNO (P+R)",
       "service_id": "6",
@@ -3646,7 +3646,7 @@
       ]
     },
     {
-      "trip_id": "6_17609913",
+      "trip_id": "6_17713926",
       "direction_id": "1",
       "headsign": "Strachowskiego",
       "service_id": "6",
@@ -3753,7 +3753,7 @@
       ]
     },
     {
-      "trip_id": "6_17609914",
+      "trip_id": "6_17713927",
       "direction_id": "0",
       "headsign": "IWINY - rondo",
       "service_id": "6",
@@ -3896,7 +3896,7 @@
       ]
     },
     {
-      "trip_id": "6_17609915",
+      "trip_id": "6_17713928",
       "direction_id": "1",
       "headsign": "Zajezdnia TYSKA",
       "service_id": "6",
@@ -4093,7 +4093,7 @@
       ]
     },
     {
-      "trip_id": "6_17609916",
+      "trip_id": "6_17713929",
       "direction_id": "0",
       "headsign": "JAGODNO (P+R)",
       "service_id": "6",
@@ -4272,7 +4272,7 @@
       ]
     },
     {
-      "trip_id": "6_17609917",
+      "trip_id": "6_17713930",
       "direction_id": "0",
       "headsign": "IWINY - rondo",
       "service_id": "6",
@@ -4316,7 +4316,7 @@
       ]
     },
     {
-      "trip_id": "6_17609918",
+      "trip_id": "6_17713931",
       "direction_id": "1",
       "headsign": "Strachowskiego",
       "service_id": "6",
@@ -4441,7 +4441,7 @@
       ]
     },
     {
-      "trip_id": "6_17609919",
+      "trip_id": "6_17713932",
       "direction_id": "0",
       "headsign": "JAGODNO (P+R)",
       "service_id": "6",
@@ -4557,7 +4557,7 @@
       ]
     },
     {
-      "trip_id": "6_17609920",
+      "trip_id": "6_17713933",
       "direction_id": "0",
       "headsign": "IWINY - rondo",
       "service_id": "6",
@@ -4601,7 +4601,7 @@
       ]
     },
     {
-      "trip_id": "6_17609921",
+      "trip_id": "6_17713934",
       "direction_id": "1",
       "headsign": "Strachowskiego",
       "service_id": "6",
@@ -4726,7 +4726,7 @@
       ]
     },
     {
-      "trip_id": "6_17609922",
+      "trip_id": "6_17713935",
       "direction_id": "0",
       "headsign": "JAGODNO (P+R)",
       "service_id": "6",
@@ -4842,7 +4842,7 @@
       ]
     },
     {
-      "trip_id": "6_17609923",
+      "trip_id": "6_17713936",
       "direction_id": "0",
       "headsign": "IWINY - rondo",
       "service_id": "6",
@@ -4886,7 +4886,7 @@
       ]
     },
     {
-      "trip_id": "6_17609924",
+      "trip_id": "6_17713937",
       "direction_id": "1",
       "headsign": "Strachowskiego",
       "service_id": "6",
@@ -5011,7 +5011,7 @@
       ]
     },
     {
-      "trip_id": "6_17609925",
+      "trip_id": "6_17713938",
       "direction_id": "0",
       "headsign": "JAGODNO (P+R)",
       "service_id": "6",
@@ -5127,7 +5127,7 @@
       ]
     },
     {
-      "trip_id": "6_17609926",
+      "trip_id": "6_17713939",
       "direction_id": "0",
       "headsign": "IWINY - rondo",
       "service_id": "6",
@@ -5171,7 +5171,7 @@
       ]
     },
     {
-      "trip_id": "6_17609927",
+      "trip_id": "6_17713940",
       "direction_id": "1",
       "headsign": "Strachowskiego",
       "service_id": "6",
@@ -5296,7 +5296,7 @@
       ]
     },
     {
-      "trip_id": "6_17609928",
+      "trip_id": "6_17713941",
       "direction_id": "0",
       "headsign": "JAGODNO (P+R)",
       "service_id": "6",
@@ -5412,7 +5412,7 @@
       ]
     },
     {
-      "trip_id": "6_17609929",
+      "trip_id": "6_17713942",
       "direction_id": "0",
       "headsign": "IWINY - rondo",
       "service_id": "6",
@@ -5456,7 +5456,7 @@
       ]
     },
     {
-      "trip_id": "6_17609930",
+      "trip_id": "6_17713943",
       "direction_id": "1",
       "headsign": "Strachowskiego",
       "service_id": "6",
@@ -5581,7 +5581,7 @@
       ]
     },
     {
-      "trip_id": "6_17609931",
+      "trip_id": "6_17713944",
       "direction_id": "0",
       "headsign": "JAGODNO (P+R)",
       "service_id": "6",
@@ -5697,7 +5697,7 @@
       ]
     },
     {
-      "trip_id": "6_17609932",
+      "trip_id": "6_17713945",
       "direction_id": "0",
       "headsign": "IWINY - rondo",
       "service_id": "6",
@@ -5741,7 +5741,7 @@
       ]
     },
     {
-      "trip_id": "6_17609933",
+      "trip_id": "6_17713946",
       "direction_id": "1",
       "headsign": "Strachowskiego",
       "service_id": "6",
@@ -5866,7 +5866,7 @@
       ]
     },
     {
-      "trip_id": "6_17609934",
+      "trip_id": "6_17713947",
       "direction_id": "0",
       "headsign": "IWINY - rondo",
       "service_id": "6",
@@ -6009,7 +6009,7 @@
       ]
     },
     {
-      "trip_id": "6_17609935",
+      "trip_id": "6_17713948",
       "direction_id": "1",
       "headsign": "Strachowskiego",
       "service_id": "6",
@@ -6134,7 +6134,7 @@
       ]
     },
     {
-      "trip_id": "6_17609936",
+      "trip_id": "6_17713949",
       "direction_id": "0",
       "headsign": "IWINY - rondo",
       "service_id": "6",
@@ -6277,7 +6277,7 @@
       ]
     },
     {
-      "trip_id": "6_17609937",
+      "trip_id": "6_17713950",
       "direction_id": "1",
       "headsign": "JAGODNO (P+R)",
       "service_id": "6",
@@ -6312,7 +6312,7 @@
       ]
     },
     {
-      "trip_id": "6_17609938",
+      "trip_id": "6_17713951",
       "direction_id": "1",
       "headsign": "Strachowskiego",
       "service_id": "6",
@@ -6419,7 +6419,7 @@
       ]
     },
     {
-      "trip_id": "6_17609939",
+      "trip_id": "6_17713952",
       "direction_id": "0",
       "headsign": "IWINY - rondo",
       "service_id": "6",
@@ -6562,7 +6562,7 @@
       ]
     },
     {
-      "trip_id": "6_17609940",
+      "trip_id": "6_17713953",
       "direction_id": "1",
       "headsign": "JAGODNO (P+R)",
       "service_id": "6",
@@ -6597,7 +6597,7 @@
       ]
     },
     {
-      "trip_id": "6_17609941",
+      "trip_id": "6_17713954",
       "direction_id": "1",
       "headsign": "Strachowskiego",
       "service_id": "6",
@@ -6704,7 +6704,7 @@
       ]
     },
     {
-      "trip_id": "6_17609942",
+      "trip_id": "6_17713955",
       "direction_id": "0",
       "headsign": "IWINY - rondo",
       "service_id": "6",
@@ -6847,7 +6847,7 @@
       ]
     },
     {
-      "trip_id": "6_17609943",
+      "trip_id": "6_17713956",
       "direction_id": "1",
       "headsign": "JAGODNO (P+R)",
       "service_id": "6",
@@ -6882,7 +6882,7 @@
       ]
     },
     {
-      "trip_id": "6_17609944",
+      "trip_id": "6_17713957",
       "direction_id": "1",
       "headsign": "Strachowskiego",
       "service_id": "6",
@@ -6989,7 +6989,7 @@
       ]
     },
     {
-      "trip_id": "6_17609945",
+      "trip_id": "6_17713958",
       "direction_id": "0",
       "headsign": "IWINY - rondo",
       "service_id": "6",
@@ -7132,7 +7132,7 @@
       ]
     },
     {
-      "trip_id": "6_17609946",
+      "trip_id": "6_17713959",
       "direction_id": "1",
       "headsign": "JAGODNO (P+R)",
       "service_id": "6",
@@ -7167,7 +7167,7 @@
       ]
     },
     {
-      "trip_id": "6_17609947",
+      "trip_id": "6_17713960",
       "direction_id": "1",
       "headsign": "Strachowskiego",
       "service_id": "6",
@@ -7274,7 +7274,7 @@
       ]
     },
     {
-      "trip_id": "6_17609948",
+      "trip_id": "6_17713961",
       "direction_id": "0",
       "headsign": "IWINY - rondo",
       "service_id": "6",
@@ -7417,7 +7417,7 @@
       ]
     },
     {
-      "trip_id": "6_17609949",
+      "trip_id": "6_17713962",
       "direction_id": "1",
       "headsign": "Zajezdnia TYSKA",
       "service_id": "6",
@@ -7614,7 +7614,7 @@
       ]
     },
     {
-      "trip_id": "6_17609950",
+      "trip_id": "6_17713963",
       "direction_id": "0",
       "headsign": "JAGODNO (P+R)",
       "service_id": "6",
@@ -7793,7 +7793,7 @@
       ]
     },
     {
-      "trip_id": "6_17609951",
+      "trip_id": "6_17713964",
       "direction_id": "0",
       "headsign": "IWINY - rondo",
       "service_id": "6",
@@ -7837,7 +7837,7 @@
       ]
     },
     {
-      "trip_id": "6_17609952",
+      "trip_id": "6_17713965",
       "direction_id": "1",
       "headsign": "Strachowskiego",
       "service_id": "6",
@@ -7962,7 +7962,7 @@
       ]
     },
     {
-      "trip_id": "6_17609953",
+      "trip_id": "6_17713966",
       "direction_id": "0",
       "headsign": "JAGODNO (P+R)",
       "service_id": "6",
@@ -8078,7 +8078,7 @@
       ]
     },
     {
-      "trip_id": "6_17609954",
+      "trip_id": "6_17713967",
       "direction_id": "0",
       "headsign": "IWINY - rondo",
       "service_id": "6",
@@ -8122,7 +8122,7 @@
       ]
     },
     {
-      "trip_id": "6_17609955",
+      "trip_id": "6_17713968",
       "direction_id": "1",
       "headsign": "Parafialna",
       "service_id": "6",
@@ -8220,7 +8220,7 @@
       ]
     },
     {
-      "trip_id": "6_17609956",
+      "trip_id": "6_17713969",
       "direction_id": "0",
       "headsign": "JAGODNO (P+R)",
       "service_id": "6",
@@ -8291,7 +8291,7 @@
       ]
     },
     {
-      "trip_id": "6_17609957",
+      "trip_id": "6_17713970",
       "direction_id": "0",
       "headsign": "IWINY - rondo",
       "service_id": "6",
@@ -8335,7 +8335,7 @@
       ]
     },
     {
-      "trip_id": "6_17609958",
+      "trip_id": "6_17713971",
       "direction_id": "1",
       "headsign": "Strachowskiego",
       "service_id": "6",
@@ -8460,7 +8460,7 @@
       ]
     },
     {
-      "trip_id": "6_17609959",
+      "trip_id": "6_17713972",
       "direction_id": "0",
       "headsign": "JAGODNO (P+R)",
       "service_id": "6",
@@ -8576,7 +8576,7 @@
       ]
     },
     {
-      "trip_id": "6_17609960",
+      "trip_id": "6_17713973",
       "direction_id": "1",
       "headsign": "Zajezdnia TYSKA",
       "service_id": "6",
@@ -8755,7 +8755,7 @@
       ]
     },
     {
-      "trip_id": "6_17609961",
+      "trip_id": "6_17713974",
       "direction_id": "0",
       "headsign": "JAGODNO (P+R)",
       "service_id": "6",
@@ -8934,7 +8934,7 @@
       ]
     },
     {
-      "trip_id": "6_17609962",
+      "trip_id": "6_17713975",
       "direction_id": "1",
       "headsign": "Strachowskiego",
       "service_id": "6",
@@ -9041,7 +9041,7 @@
       ]
     },
     {
-      "trip_id": "6_17609963",
+      "trip_id": "6_17713976",
       "direction_id": "0",
       "headsign": "IWINY - rondo",
       "service_id": "6",
@@ -9184,7 +9184,7 @@
       ]
     },
     {
-      "trip_id": "6_17609964",
+      "trip_id": "6_17713977",
       "direction_id": "1",
       "headsign": "JAGODNO (P+R)",
       "service_id": "6",
@@ -9219,7 +9219,7 @@
       ]
     },
     {
-      "trip_id": "6_17609965",
+      "trip_id": "6_17713978",
       "direction_id": "1",
       "headsign": "Strachowskiego",
       "service_id": "6",
@@ -9326,7 +9326,7 @@
       ]
     },
     {
-      "trip_id": "6_17609966",
+      "trip_id": "6_17713979",
       "direction_id": "0",
       "headsign": "IWINY - rondo",
       "service_id": "6",
@@ -9469,7 +9469,7 @@
       ]
     },
     {
-      "trip_id": "6_17609967",
+      "trip_id": "6_17713980",
       "direction_id": "1",
       "headsign": "JAGODNO (P+R)",
       "service_id": "6",
@@ -9504,7 +9504,7 @@
       ]
     },
     {
-      "trip_id": "6_17609968",
+      "trip_id": "6_17713981",
       "direction_id": "1",
       "headsign": "Strachowskiego",
       "service_id": "6",
@@ -9611,7 +9611,7 @@
       ]
     },
     {
-      "trip_id": "6_17609969",
+      "trip_id": "6_17713982",
       "direction_id": "0",
       "headsign": "IWINY - rondo",
       "service_id": "6",
@@ -9754,7 +9754,7 @@
       ]
     },
     {
-      "trip_id": "6_17609970",
+      "trip_id": "6_17713983",
       "direction_id": "1",
       "headsign": "JAGODNO (P+R)",
       "service_id": "6",
@@ -9789,7 +9789,7 @@
       ]
     },
     {
-      "trip_id": "6_17609971",
+      "trip_id": "6_17713984",
       "direction_id": "1",
       "headsign": "Strachowskiego",
       "service_id": "6",
@@ -9896,7 +9896,7 @@
       ]
     },
     {
-      "trip_id": "6_17609972",
+      "trip_id": "6_17713985",
       "direction_id": "0",
       "headsign": "IWINY - rondo",
       "service_id": "6",
@@ -10039,7 +10039,7 @@
       ]
     },
     {
-      "trip_id": "6_17609973",
+      "trip_id": "6_17713986",
       "direction_id": "1",
       "headsign": "JAGODNO (P+R)",
       "service_id": "6",
@@ -10074,7 +10074,7 @@
       ]
     },
     {
-      "trip_id": "6_17609974",
+      "trip_id": "6_17713987",
       "direction_id": "1",
       "headsign": "Strachowskiego",
       "service_id": "6",
@@ -10181,7 +10181,7 @@
       ]
     },
     {
-      "trip_id": "6_17609975",
+      "trip_id": "6_17713988",
       "direction_id": "0",
       "headsign": "IWINY - rondo",
       "service_id": "6",
@@ -10324,7 +10324,7 @@
       ]
     },
     {
-      "trip_id": "6_17609976",
+      "trip_id": "6_17713989",
       "direction_id": "1",
       "headsign": "JAGODNO (P+R)",
       "service_id": "6",
@@ -10359,7 +10359,7 @@
       ]
     },
     {
-      "trip_id": "6_17609977",
+      "trip_id": "6_17713990",
       "direction_id": "1",
       "headsign": "Strachowskiego",
       "service_id": "6",
@@ -10466,7 +10466,7 @@
       ]
     },
     {
-      "trip_id": "6_17609978",
+      "trip_id": "6_17713991",
       "direction_id": "0",
       "headsign": "IWINY - rondo",
       "service_id": "6",
@@ -10609,7 +10609,7 @@
       ]
     },
     {
-      "trip_id": "6_17609979",
+      "trip_id": "6_17713992",
       "direction_id": "1",
       "headsign": "Zajezdnia TYSKA",
       "service_id": "6",
@@ -10806,7 +10806,7 @@
       ]
     },
     {
-      "trip_id": "6_17609980",
+      "trip_id": "6_17713993",
       "direction_id": "0",
       "headsign": "JAGODNO (P+R)",
       "service_id": "6",
@@ -10985,7 +10985,7 @@
       ]
     },
     {
-      "trip_id": "6_17609981",
+      "trip_id": "6_17713994",
       "direction_id": "0",
       "headsign": "IWINY - rondo",
       "service_id": "6",
@@ -11029,7 +11029,7 @@
       ]
     },
     {
-      "trip_id": "6_17609982",
+      "trip_id": "6_17713995",
       "direction_id": "1",
       "headsign": "Strachowskiego",
       "service_id": "6",
@@ -11154,7 +11154,7 @@
       ]
     },
     {
-      "trip_id": "6_17609983",
+      "trip_id": "6_17713996",
       "direction_id": "0",
       "headsign": "JAGODNO (P+R)",
       "service_id": "6",
@@ -11270,7 +11270,7 @@
       ]
     },
     {
-      "trip_id": "6_17609984",
+      "trip_id": "6_17713997",
       "direction_id": "0",
       "headsign": "IWINY - rondo",
       "service_id": "6",
@@ -11314,7 +11314,7 @@
       ]
     },
     {
-      "trip_id": "6_17609985",
+      "trip_id": "6_17713998",
       "direction_id": "1",
       "headsign": "Parafialna",
       "service_id": "6",
@@ -11412,7 +11412,7 @@
       ]
     },
     {
-      "trip_id": "6_17609986",
+      "trip_id": "6_17713999",
       "direction_id": "0",
       "headsign": "JAGODNO (P+R)",
       "service_id": "6",
@@ -11483,7 +11483,7 @@
       ]
     },
     {
-      "trip_id": "6_17609987",
+      "trip_id": "6_17714000",
       "direction_id": "0",
       "headsign": "IWINY - rondo",
       "service_id": "6",
@@ -11527,7 +11527,7 @@
       ]
     },
     {
-      "trip_id": "6_17609988",
+      "trip_id": "6_17714001",
       "direction_id": "1",
       "headsign": "Strachowskiego",
       "service_id": "6",
@@ -11652,7 +11652,7 @@
       ]
     },
     {
-      "trip_id": "6_17609989",
+      "trip_id": "6_17714002",
       "direction_id": "0",
       "headsign": "JAGODNO (P+R)",
       "service_id": "6",
@@ -11768,7 +11768,7 @@
       ]
     },
     {
-      "trip_id": "6_17609990",
+      "trip_id": "6_17714003",
       "direction_id": "0",
       "headsign": "IWINY - rondo",
       "service_id": "6",
@@ -11812,7 +11812,7 @@
       ]
     },
     {
-      "trip_id": "6_17609991",
+      "trip_id": "6_17714004",
       "direction_id": "1",
       "headsign": "Strachowskiego",
       "service_id": "6",
@@ -11937,7 +11937,7 @@
       ]
     },
     {
-      "trip_id": "6_17609992",
+      "trip_id": "6_17714005",
       "direction_id": "0",
       "headsign": "JAGODNO (P+R)",
       "service_id": "6",
@@ -12053,7 +12053,7 @@
       ]
     },
     {
-      "trip_id": "6_17609993",
+      "trip_id": "6_17714006",
       "direction_id": "1",
       "headsign": "Zajezdnia TYSKA",
       "service_id": "6",
@@ -12232,7 +12232,7 @@
       ]
     },
     {
-      "trip_id": "6_17609994",
+      "trip_id": "6_17714007",
       "direction_id": "0",
       "headsign": "IWINY - rondo",
       "service_id": "6",
@@ -12438,7 +12438,7 @@
       ]
     },
     {
-      "trip_id": "6_17609995",
+      "trip_id": "6_17714008",
       "direction_id": "1",
       "headsign": "Strachowskiego",
       "service_id": "6",
@@ -12563,7 +12563,7 @@
       ]
     },
     {
-      "trip_id": "6_17609996",
+      "trip_id": "6_17714009",
       "direction_id": "0",
       "headsign": "IWINY - rondo",
       "service_id": "6",
@@ -12706,7 +12706,7 @@
       ]
     },
     {
-      "trip_id": "6_17609997",
+      "trip_id": "6_17714010",
       "direction_id": "1",
       "headsign": "JAGODNO (P+R)",
       "service_id": "6",
@@ -12741,7 +12741,7 @@
       ]
     },
     {
-      "trip_id": "6_17609998",
+      "trip_id": "6_17714011",
       "direction_id": "1",
       "headsign": "Strachowskiego",
       "service_id": "6",
@@ -12848,7 +12848,7 @@
       ]
     },
     {
-      "trip_id": "6_17609999",
+      "trip_id": "6_17714012",
       "direction_id": "0",
       "headsign": "IWINY - rondo",
       "service_id": "6",
@@ -12991,7 +12991,7 @@
       ]
     },
     {
-      "trip_id": "6_17610000",
+      "trip_id": "6_17714013",
       "direction_id": "1",
       "headsign": "JAGODNO (P+R)",
       "service_id": "6",
@@ -13026,7 +13026,7 @@
       ]
     },
     {
-      "trip_id": "6_17610001",
+      "trip_id": "6_17714014",
       "direction_id": "1",
       "headsign": "Strachowskiego",
       "service_id": "6",
@@ -13133,7 +13133,7 @@
       ]
     },
     {
-      "trip_id": "6_17610002",
+      "trip_id": "6_17714015",
       "direction_id": "0",
       "headsign": "IWINY - rondo",
       "service_id": "6",
@@ -13276,7 +13276,7 @@
       ]
     },
     {
-      "trip_id": "6_17610003",
+      "trip_id": "6_17714016",
       "direction_id": "1",
       "headsign": "JAGODNO (P+R)",
       "service_id": "6",
@@ -13311,7 +13311,7 @@
       ]
     },
     {
-      "trip_id": "6_17610004",
+      "trip_id": "6_17714017",
       "direction_id": "1",
       "headsign": "Strachowskiego",
       "service_id": "6",
@@ -13418,7 +13418,7 @@
       ]
     },
     {
-      "trip_id": "6_17610005",
+      "trip_id": "6_17714018",
       "direction_id": "0",
       "headsign": "IWINY - rondo",
       "service_id": "6",
@@ -13561,7 +13561,7 @@
       ]
     },
     {
-      "trip_id": "6_17610006",
+      "trip_id": "6_17714019",
       "direction_id": "1",
       "headsign": "JAGODNO (P+R)",
       "service_id": "6",
@@ -13596,7 +13596,7 @@
       ]
     },
     {
-      "trip_id": "6_17610007",
+      "trip_id": "6_17714020",
       "direction_id": "1",
       "headsign": "Strachowskiego",
       "service_id": "6",
@@ -13703,7 +13703,7 @@
       ]
     },
     {
-      "trip_id": "6_17610008",
+      "trip_id": "6_17714021",
       "direction_id": "0",
       "headsign": "IWINY - rondo",
       "service_id": "6",
@@ -13846,7 +13846,7 @@
       ]
     },
     {
-      "trip_id": "6_17610009",
+      "trip_id": "6_17714022",
       "direction_id": "1",
       "headsign": "JAGODNO (P+R)",
       "service_id": "6",
@@ -13881,7 +13881,7 @@
       ]
     },
     {
-      "trip_id": "6_17610010",
+      "trip_id": "6_17714023",
       "direction_id": "1",
       "headsign": "Strachowskiego",
       "service_id": "6",
@@ -13988,7 +13988,7 @@
       ]
     },
     {
-      "trip_id": "6_17610011",
+      "trip_id": "6_17714024",
       "direction_id": "0",
       "headsign": "IWINY - rondo",
       "service_id": "6",
@@ -14131,7 +14131,7 @@
       ]
     },
     {
-      "trip_id": "6_17610012",
+      "trip_id": "6_17714025",
       "direction_id": "1",
       "headsign": "Zajezdnia TYSKA",
       "service_id": "6",
@@ -14328,7 +14328,7 @@
       ]
     },
     {
-      "trip_id": "8_17616705",
+      "trip_id": "8_17720718",
       "direction_id": "0",
       "headsign": "JAGODNO (P+R)",
       "service_id": "8",
@@ -14507,7 +14507,7 @@
       ]
     },
     {
-      "trip_id": "8_17616706",
+      "trip_id": "8_17720719",
       "direction_id": "0",
       "headsign": "IWINY - rondo",
       "service_id": "8",
@@ -14551,7 +14551,7 @@
       ]
     },
     {
-      "trip_id": "8_17616707",
+      "trip_id": "8_17720720",
       "direction_id": "1",
       "headsign": "Strachowskiego",
       "service_id": "8",
@@ -14676,7 +14676,7 @@
       ]
     },
     {
-      "trip_id": "8_17616708",
+      "trip_id": "8_17720721",
       "direction_id": "0",
       "headsign": "JAGODNO (P+R)",
       "service_id": "8",
@@ -14792,7 +14792,7 @@
       ]
     },
     {
-      "trip_id": "8_17616709",
+      "trip_id": "8_17720722",
       "direction_id": "0",
       "headsign": "IWINY - rondo",
       "service_id": "8",
@@ -14836,7 +14836,7 @@
       ]
     },
     {
-      "trip_id": "8_17616710",
+      "trip_id": "8_17720723",
       "direction_id": "1",
       "headsign": "Strachowskiego",
       "service_id": "8",
@@ -14961,7 +14961,7 @@
       ]
     },
     {
-      "trip_id": "8_17616711",
+      "trip_id": "8_17720724",
       "direction_id": "0",
       "headsign": "JAGODNO (P+R)",
       "service_id": "8",
@@ -15077,7 +15077,7 @@
       ]
     },
     {
-      "trip_id": "8_17616712",
+      "trip_id": "8_17720725",
       "direction_id": "0",
       "headsign": "IWINY - rondo",
       "service_id": "8",
@@ -15121,7 +15121,7 @@
       ]
     },
     {
-      "trip_id": "8_17616713",
+      "trip_id": "8_17720726",
       "direction_id": "1",
       "headsign": "Strachowskiego",
       "service_id": "8",
@@ -15246,7 +15246,7 @@
       ]
     },
     {
-      "trip_id": "8_17616714",
+      "trip_id": "8_17720727",
       "direction_id": "0",
       "headsign": "JAGODNO (P+R)",
       "service_id": "8",
@@ -15362,7 +15362,7 @@
       ]
     },
     {
-      "trip_id": "8_17616715",
+      "trip_id": "8_17720728",
       "direction_id": "0",
       "headsign": "IWINY - rondo",
       "service_id": "8",
@@ -15406,7 +15406,7 @@
       ]
     },
     {
-      "trip_id": "8_17616716",
+      "trip_id": "8_17720729",
       "direction_id": "1",
       "headsign": "Strachowskiego",
       "service_id": "8",
@@ -15531,7 +15531,7 @@
       ]
     },
     {
-      "trip_id": "8_17616717",
+      "trip_id": "8_17720730",
       "direction_id": "0",
       "headsign": "JAGODNO (P+R)",
       "service_id": "8",
@@ -15647,7 +15647,7 @@
       ]
     },
     {
-      "trip_id": "8_17616718",
+      "trip_id": "8_17720731",
       "direction_id": "0",
       "headsign": "IWINY - rondo",
       "service_id": "8",
@@ -15691,7 +15691,7 @@
       ]
     },
     {
-      "trip_id": "8_17616719",
+      "trip_id": "8_17720732",
       "direction_id": "1",
       "headsign": "Strachowskiego",
       "service_id": "8",
@@ -15816,7 +15816,7 @@
       ]
     },
     {
-      "trip_id": "8_17616720",
+      "trip_id": "8_17720733",
       "direction_id": "0",
       "headsign": "JAGODNO (P+R)",
       "service_id": "8",
@@ -15932,7 +15932,7 @@
       ]
     },
     {
-      "trip_id": "8_17616721",
+      "trip_id": "8_17720734",
       "direction_id": "0",
       "headsign": "IWINY - rondo",
       "service_id": "8",
@@ -15976,7 +15976,7 @@
       ]
     },
     {
-      "trip_id": "8_17616722",
+      "trip_id": "8_17720735",
       "direction_id": "1",
       "headsign": "Strachowskiego",
       "service_id": "8",
@@ -16101,7 +16101,7 @@
       ]
     },
     {
-      "trip_id": "8_17616723",
+      "trip_id": "8_17720736",
       "direction_id": "0",
       "headsign": "IWINY - rondo",
       "service_id": "8",
@@ -16244,7 +16244,7 @@
       ]
     },
     {
-      "trip_id": "8_17616724",
+      "trip_id": "8_17720737",
       "direction_id": "1",
       "headsign": "Strachowskiego",
       "service_id": "8",
@@ -16369,7 +16369,7 @@
       ]
     },
     {
-      "trip_id": "8_17616725",
+      "trip_id": "8_17720738",
       "direction_id": "0",
       "headsign": "IWINY - rondo",
       "service_id": "8",
@@ -16512,7 +16512,7 @@
       ]
     },
     {
-      "trip_id": "8_17616726",
+      "trip_id": "8_17720739",
       "direction_id": "1",
       "headsign": "JAGODNO (P+R)",
       "service_id": "8",
@@ -16547,7 +16547,7 @@
       ]
     },
     {
-      "trip_id": "8_17616727",
+      "trip_id": "8_17720740",
       "direction_id": "1",
       "headsign": "Strachowskiego",
       "service_id": "8",
@@ -16654,7 +16654,7 @@
       ]
     },
     {
-      "trip_id": "8_17616728",
+      "trip_id": "8_17720741",
       "direction_id": "0",
       "headsign": "IWINY - rondo",
       "service_id": "8",
@@ -16797,7 +16797,7 @@
       ]
     },
     {
-      "trip_id": "8_17616729",
+      "trip_id": "8_17720742",
       "direction_id": "1",
       "headsign": "JAGODNO (P+R)",
       "service_id": "8",
@@ -16832,7 +16832,7 @@
       ]
     },
     {
-      "trip_id": "8_17616730",
+      "trip_id": "8_17720743",
       "direction_id": "1",
       "headsign": "Strachowskiego",
       "service_id": "8",
@@ -16939,7 +16939,7 @@
       ]
     },
     {
-      "trip_id": "8_17616731",
+      "trip_id": "8_17720744",
       "direction_id": "0",
       "headsign": "IWINY - rondo",
       "service_id": "8",
@@ -17082,7 +17082,7 @@
       ]
     },
     {
-      "trip_id": "8_17616732",
+      "trip_id": "8_17720745",
       "direction_id": "1",
       "headsign": "JAGODNO (P+R)",
       "service_id": "8",
@@ -17117,7 +17117,7 @@
       ]
     },
     {
-      "trip_id": "8_17616733",
+      "trip_id": "8_17720746",
       "direction_id": "1",
       "headsign": "Strachowskiego",
       "service_id": "8",
@@ -17224,7 +17224,7 @@
       ]
     },
     {
-      "trip_id": "8_17616734",
+      "trip_id": "8_17720747",
       "direction_id": "0",
       "headsign": "IWINY - rondo",
       "service_id": "8",
@@ -17367,7 +17367,7 @@
       ]
     },
     {
-      "trip_id": "8_17616735",
+      "trip_id": "8_17720748",
       "direction_id": "1",
       "headsign": "JAGODNO (P+R)",
       "service_id": "8",
@@ -17402,7 +17402,7 @@
       ]
     },
     {
-      "trip_id": "8_17616736",
+      "trip_id": "8_17720749",
       "direction_id": "1",
       "headsign": "Strachowskiego",
       "service_id": "8",
@@ -17509,7 +17509,7 @@
       ]
     },
     {
-      "trip_id": "8_17616737",
+      "trip_id": "8_17720750",
       "direction_id": "0",
       "headsign": "IWINY - rondo",
       "service_id": "8",
@@ -17652,7 +17652,7 @@
       ]
     },
     {
-      "trip_id": "8_17616738",
+      "trip_id": "8_17720751",
       "direction_id": "1",
       "headsign": "JAGODNO (P+R)",
       "service_id": "8",
@@ -17687,7 +17687,7 @@
       ]
     },
     {
-      "trip_id": "8_17616739",
+      "trip_id": "8_17720752",
       "direction_id": "1",
       "headsign": "Strachowskiego",
       "service_id": "8",
@@ -17794,7 +17794,7 @@
       ]
     },
     {
-      "trip_id": "8_17616740",
+      "trip_id": "8_17720753",
       "direction_id": "0",
       "headsign": "IWINY - rondo",
       "service_id": "8",
@@ -17937,7 +17937,7 @@
       ]
     },
     {
-      "trip_id": "8_17616741",
+      "trip_id": "8_17720754",
       "direction_id": "1",
       "headsign": "JAGODNO (P+R)",
       "service_id": "8",
@@ -17972,7 +17972,7 @@
       ]
     },
     {
-      "trip_id": "8_17616742",
+      "trip_id": "8_17720755",
       "direction_id": "1",
       "headsign": "Strachowskiego",
       "service_id": "8",
@@ -18079,7 +18079,7 @@
       ]
     },
     {
-      "trip_id": "8_17616743",
+      "trip_id": "8_17720756",
       "direction_id": "0",
       "headsign": "IWINY - rondo",
       "service_id": "8",
@@ -18222,7 +18222,7 @@
       ]
     },
     {
-      "trip_id": "8_17616744",
+      "trip_id": "8_17720757",
       "direction_id": "1",
       "headsign": "Zajezdnia TYSKA",
       "service_id": "8",
@@ -18419,7 +18419,7 @@
       ]
     },
     {
-      "trip_id": "8_17616745",
+      "trip_id": "8_17720758",
       "direction_id": "0",
       "headsign": "JAGODNO (P+R)",
       "service_id": "8",
@@ -18598,7 +18598,7 @@
       ]
     },
     {
-      "trip_id": "8_17616746",
+      "trip_id": "8_17720759",
       "direction_id": "0",
       "headsign": "IWINY - rondo",
       "service_id": "8",
@@ -18642,7 +18642,7 @@
       ]
     },
     {
-      "trip_id": "8_17616747",
+      "trip_id": "8_17720760",
       "direction_id": "1",
       "headsign": "Strachowskiego",
       "service_id": "8",
@@ -18767,7 +18767,7 @@
       ]
     },
     {
-      "trip_id": "8_17616748",
+      "trip_id": "8_17720761",
       "direction_id": "0",
       "headsign": "JAGODNO (P+R)",
       "service_id": "8",
@@ -18883,7 +18883,7 @@
       ]
     },
     {
-      "trip_id": "8_17616749",
+      "trip_id": "8_17720762",
       "direction_id": "0",
       "headsign": "IWINY - rondo",
       "service_id": "8",
@@ -18927,7 +18927,7 @@
       ]
     },
     {
-      "trip_id": "8_17616750",
+      "trip_id": "8_17720763",
       "direction_id": "1",
       "headsign": "Strachowskiego",
       "service_id": "8",
@@ -19052,7 +19052,7 @@
       ]
     },
     {
-      "trip_id": "8_17616751",
+      "trip_id": "8_17720764",
       "direction_id": "0",
       "headsign": "JAGODNO (P+R)",
       "service_id": "8",
@@ -19168,7 +19168,7 @@
       ]
     },
     {
-      "trip_id": "8_17616752",
+      "trip_id": "8_17720765",
       "direction_id": "0",
       "headsign": "IWINY - rondo",
       "service_id": "8",
@@ -19212,7 +19212,7 @@
       ]
     },
     {
-      "trip_id": "8_17616753",
+      "trip_id": "8_17720766",
       "direction_id": "1",
       "headsign": "Strachowskiego",
       "service_id": "8",
@@ -19337,7 +19337,7 @@
       ]
     },
     {
-      "trip_id": "8_17616754",
+      "trip_id": "8_17720767",
       "direction_id": "0",
       "headsign": "JAGODNO (P+R)",
       "service_id": "8",
@@ -19453,7 +19453,7 @@
       ]
     },
     {
-      "trip_id": "8_17616755",
+      "trip_id": "8_17720768",
       "direction_id": "0",
       "headsign": "IWINY - rondo",
       "service_id": "8",
@@ -19497,7 +19497,7 @@
       ]
     },
     {
-      "trip_id": "8_17616756",
+      "trip_id": "8_17720769",
       "direction_id": "1",
       "headsign": "Strachowskiego",
       "service_id": "8",
@@ -19622,7 +19622,7 @@
       ]
     },
     {
-      "trip_id": "8_17616757",
+      "trip_id": "8_17720770",
       "direction_id": "0",
       "headsign": "JAGODNO (P+R)",
       "service_id": "8",
@@ -19738,7 +19738,7 @@
       ]
     },
     {
-      "trip_id": "8_17616758",
+      "trip_id": "8_17720771",
       "direction_id": "0",
       "headsign": "IWINY - rondo",
       "service_id": "8",
@@ -19782,7 +19782,7 @@
       ]
     },
     {
-      "trip_id": "8_17616759",
+      "trip_id": "8_17720772",
       "direction_id": "1",
       "headsign": "Strachowskiego",
       "service_id": "8",
@@ -19907,7 +19907,7 @@
       ]
     },
     {
-      "trip_id": "8_17616760",
+      "trip_id": "8_17720773",
       "direction_id": "0",
       "headsign": "JAGODNO (P+R)",
       "service_id": "8",
@@ -20023,7 +20023,7 @@
       ]
     },
     {
-      "trip_id": "8_17616761",
+      "trip_id": "8_17720774",
       "direction_id": "0",
       "headsign": "IWINY - rondo",
       "service_id": "8",
@@ -20067,7 +20067,7 @@
       ]
     },
     {
-      "trip_id": "8_17616762",
+      "trip_id": "8_17720775",
       "direction_id": "1",
       "headsign": "Strachowskiego",
       "service_id": "8",
@@ -20192,7 +20192,7 @@
       ]
     },
     {
-      "trip_id": "8_17616763",
+      "trip_id": "8_17720776",
       "direction_id": "0",
       "headsign": "IWINY - rondo",
       "service_id": "8",
@@ -20335,7 +20335,7 @@
       ]
     },
     {
-      "trip_id": "8_17616764",
+      "trip_id": "8_17720777",
       "direction_id": "1",
       "headsign": "Strachowskiego",
       "service_id": "8",
@@ -20460,7 +20460,7 @@
       ]
     },
     {
-      "trip_id": "8_17616765",
+      "trip_id": "8_17720778",
       "direction_id": "0",
       "headsign": "IWINY - rondo",
       "service_id": "8",
@@ -20603,7 +20603,7 @@
       ]
     },
     {
-      "trip_id": "8_17616766",
+      "trip_id": "8_17720779",
       "direction_id": "1",
       "headsign": "JAGODNO (P+R)",
       "service_id": "8",
@@ -20638,7 +20638,7 @@
       ]
     },
     {
-      "trip_id": "8_17616767",
+      "trip_id": "8_17720780",
       "direction_id": "1",
       "headsign": "Strachowskiego",
       "service_id": "8",
@@ -20745,7 +20745,7 @@
       ]
     },
     {
-      "trip_id": "8_17616768",
+      "trip_id": "8_17720781",
       "direction_id": "0",
       "headsign": "IWINY - rondo",
       "service_id": "8",
@@ -20888,7 +20888,7 @@
       ]
     },
     {
-      "trip_id": "8_17616769",
+      "trip_id": "8_17720782",
       "direction_id": "1",
       "headsign": "JAGODNO (P+R)",
       "service_id": "8",
@@ -20923,7 +20923,7 @@
       ]
     },
     {
-      "trip_id": "8_17616770",
+      "trip_id": "8_17720783",
       "direction_id": "1",
       "headsign": "Strachowskiego",
       "service_id": "8",
@@ -21030,7 +21030,7 @@
       ]
     },
     {
-      "trip_id": "8_17616771",
+      "trip_id": "8_17720784",
       "direction_id": "0",
       "headsign": "IWINY - rondo",
       "service_id": "8",
@@ -21173,7 +21173,7 @@
       ]
     },
     {
-      "trip_id": "8_17616772",
+      "trip_id": "8_17720785",
       "direction_id": "1",
       "headsign": "JAGODNO (P+R)",
       "service_id": "8",
@@ -21208,7 +21208,7 @@
       ]
     },
     {
-      "trip_id": "8_17616773",
+      "trip_id": "8_17720786",
       "direction_id": "1",
       "headsign": "Strachowskiego",
       "service_id": "8",
@@ -21315,7 +21315,7 @@
       ]
     },
     {
-      "trip_id": "8_17616774",
+      "trip_id": "8_17720787",
       "direction_id": "0",
       "headsign": "IWINY - rondo",
       "service_id": "8",
@@ -21458,7 +21458,7 @@
       ]
     },
     {
-      "trip_id": "8_17616775",
+      "trip_id": "8_17720788",
       "direction_id": "1",
       "headsign": "JAGODNO (P+R)",
       "service_id": "8",
@@ -21493,7 +21493,7 @@
       ]
     },
     {
-      "trip_id": "8_17616776",
+      "trip_id": "8_17720789",
       "direction_id": "1",
       "headsign": "Strachowskiego",
       "service_id": "8",
@@ -21600,7 +21600,7 @@
       ]
     },
     {
-      "trip_id": "8_17616777",
+      "trip_id": "8_17720790",
       "direction_id": "0",
       "headsign": "IWINY - rondo",
       "service_id": "8",
@@ -21743,7 +21743,7 @@
       ]
     },
     {
-      "trip_id": "8_17616778",
+      "trip_id": "8_17720791",
       "direction_id": "1",
       "headsign": "Zajezdnia TYSKA",
       "service_id": "8",
@@ -21940,7 +21940,7 @@
       ]
     },
     {
-      "trip_id": "8_17616779",
+      "trip_id": "8_17720792",
       "direction_id": "0",
       "headsign": "JAGODNO (P+R)",
       "service_id": "8",
@@ -22119,7 +22119,7 @@
       ]
     },
     {
-      "trip_id": "8_17616780",
+      "trip_id": "8_17720793",
       "direction_id": "0",
       "headsign": "IWINY - rondo",
       "service_id": "8",
@@ -22163,7 +22163,7 @@
       ]
     },
     {
-      "trip_id": "8_17616781",
+      "trip_id": "8_17720794",
       "direction_id": "1",
       "headsign": "Strachowskiego",
       "service_id": "8",
@@ -22288,7 +22288,7 @@
       ]
     },
     {
-      "trip_id": "8_17616782",
+      "trip_id": "8_17720795",
       "direction_id": "0",
       "headsign": "JAGODNO (P+R)",
       "service_id": "8",
@@ -22404,7 +22404,7 @@
       ]
     },
     {
-      "trip_id": "8_17616783",
+      "trip_id": "8_17720796",
       "direction_id": "0",
       "headsign": "IWINY - rondo",
       "service_id": "8",
@@ -22448,7 +22448,7 @@
       ]
     },
     {
-      "trip_id": "8_17616784",
+      "trip_id": "8_17720797",
       "direction_id": "1",
       "headsign": "Parafialna",
       "service_id": "8",
@@ -22546,7 +22546,7 @@
       ]
     },
     {
-      "trip_id": "8_17616785",
+      "trip_id": "8_17720798",
       "direction_id": "0",
       "headsign": "JAGODNO (P+R)",
       "service_id": "8",
@@ -22617,7 +22617,7 @@
       ]
     },
     {
-      "trip_id": "8_17616786",
+      "trip_id": "8_17720799",
       "direction_id": "0",
       "headsign": "IWINY - rondo",
       "service_id": "8",
@@ -22661,7 +22661,7 @@
       ]
     },
     {
-      "trip_id": "8_17616787",
+      "trip_id": "8_17720800",
       "direction_id": "1",
       "headsign": "Strachowskiego",
       "service_id": "8",
@@ -22786,7 +22786,7 @@
       ]
     },
     {
-      "trip_id": "8_17616788",
+      "trip_id": "8_17720801",
       "direction_id": "0",
       "headsign": "JAGODNO (P+R)",
       "service_id": "8",
@@ -22902,7 +22902,7 @@
       ]
     },
     {
-      "trip_id": "8_17616789",
+      "trip_id": "8_17720802",
       "direction_id": "1",
       "headsign": "Zajezdnia TYSKA",
       "service_id": "8",
@@ -23081,7 +23081,7 @@
       ]
     },
     {
-      "trip_id": "8_17616790",
+      "trip_id": "8_17720803",
       "direction_id": "0",
       "headsign": "JAGODNO (P+R)",
       "service_id": "8",
@@ -23260,7 +23260,7 @@
       ]
     },
     {
-      "trip_id": "8_17616791",
+      "trip_id": "8_17720804",
       "direction_id": "1",
       "headsign": "Strachowskiego",
       "service_id": "8",
@@ -23367,7 +23367,7 @@
       ]
     },
     {
-      "trip_id": "8_17616792",
+      "trip_id": "8_17720805",
       "direction_id": "0",
       "headsign": "IWINY - rondo",
       "service_id": "8",
@@ -23510,7 +23510,7 @@
       ]
     },
     {
-      "trip_id": "8_17616793",
+      "trip_id": "8_17720806",
       "direction_id": "1",
       "headsign": "JAGODNO (P+R)",
       "service_id": "8",
@@ -23545,7 +23545,7 @@
       ]
     },
     {
-      "trip_id": "8_17616794",
+      "trip_id": "8_17720807",
       "direction_id": "1",
       "headsign": "Strachowskiego",
       "service_id": "8",
@@ -23652,7 +23652,7 @@
       ]
     },
     {
-      "trip_id": "8_17616795",
+      "trip_id": "8_17720808",
       "direction_id": "0",
       "headsign": "IWINY - rondo",
       "service_id": "8",
@@ -23795,7 +23795,7 @@
       ]
     },
     {
-      "trip_id": "8_17616796",
+      "trip_id": "8_17720809",
       "direction_id": "1",
       "headsign": "JAGODNO (P+R)",
       "service_id": "8",
@@ -23830,7 +23830,7 @@
       ]
     },
     {
-      "trip_id": "8_17616797",
+      "trip_id": "8_17720810",
       "direction_id": "1",
       "headsign": "Strachowskiego",
       "service_id": "8",
@@ -23937,7 +23937,7 @@
       ]
     },
     {
-      "trip_id": "8_17616798",
+      "trip_id": "8_17720811",
       "direction_id": "0",
       "headsign": "IWINY - rondo",
       "service_id": "8",
@@ -24080,7 +24080,7 @@
       ]
     },
     {
-      "trip_id": "8_17616799",
+      "trip_id": "8_17720812",
       "direction_id": "1",
       "headsign": "JAGODNO (P+R)",
       "service_id": "8",
@@ -24115,7 +24115,7 @@
       ]
     },
     {
-      "trip_id": "8_17616800",
+      "trip_id": "8_17720813",
       "direction_id": "1",
       "headsign": "Strachowskiego",
       "service_id": "8",
@@ -24222,7 +24222,7 @@
       ]
     },
     {
-      "trip_id": "8_17616801",
+      "trip_id": "8_17720814",
       "direction_id": "0",
       "headsign": "IWINY - rondo",
       "service_id": "8",
@@ -24365,7 +24365,7 @@
       ]
     },
     {
-      "trip_id": "8_17616802",
+      "trip_id": "8_17720815",
       "direction_id": "1",
       "headsign": "JAGODNO (P+R)",
       "service_id": "8",
@@ -24400,7 +24400,7 @@
       ]
     },
     {
-      "trip_id": "8_17616803",
+      "trip_id": "8_17720816",
       "direction_id": "1",
       "headsign": "Strachowskiego",
       "service_id": "8",
@@ -24507,7 +24507,7 @@
       ]
     },
     {
-      "trip_id": "8_17616804",
+      "trip_id": "8_17720817",
       "direction_id": "0",
       "headsign": "IWINY - rondo",
       "service_id": "8",
@@ -24650,7 +24650,7 @@
       ]
     },
     {
-      "trip_id": "8_17616805",
+      "trip_id": "8_17720818",
       "direction_id": "1",
       "headsign": "JAGODNO (P+R)",
       "service_id": "8",
@@ -24685,7 +24685,7 @@
       ]
     },
     {
-      "trip_id": "8_17616806",
+      "trip_id": "8_17720819",
       "direction_id": "1",
       "headsign": "Strachowskiego",
       "service_id": "8",
@@ -24792,7 +24792,7 @@
       ]
     },
     {
-      "trip_id": "8_17616807",
+      "trip_id": "8_17720820",
       "direction_id": "0",
       "headsign": "IWINY - rondo",
       "service_id": "8",
@@ -24935,7 +24935,7 @@
       ]
     },
     {
-      "trip_id": "8_17616808",
+      "trip_id": "8_17720821",
       "direction_id": "1",
       "headsign": "Zajezdnia TYSKA",
       "service_id": "8",
@@ -25132,7 +25132,7 @@
       ]
     },
     {
-      "trip_id": "8_17616809",
+      "trip_id": "8_17720822",
       "direction_id": "0",
       "headsign": "JAGODNO (P+R)",
       "service_id": "8",
@@ -25311,7 +25311,7 @@
       ]
     },
     {
-      "trip_id": "8_17616810",
+      "trip_id": "8_17720823",
       "direction_id": "0",
       "headsign": "IWINY - rondo",
       "service_id": "8",
@@ -25355,7 +25355,7 @@
       ]
     },
     {
-      "trip_id": "8_17616811",
+      "trip_id": "8_17720824",
       "direction_id": "1",
       "headsign": "Strachowskiego",
       "service_id": "8",
@@ -25480,7 +25480,7 @@
       ]
     },
     {
-      "trip_id": "8_17616812",
+      "trip_id": "8_17720825",
       "direction_id": "0",
       "headsign": "JAGODNO (P+R)",
       "service_id": "8",
@@ -25596,7 +25596,7 @@
       ]
     },
     {
-      "trip_id": "8_17616813",
+      "trip_id": "8_17720826",
       "direction_id": "0",
       "headsign": "IWINY - rondo",
       "service_id": "8",
@@ -25640,7 +25640,7 @@
       ]
     },
     {
-      "trip_id": "8_17616814",
+      "trip_id": "8_17720827",
       "direction_id": "1",
       "headsign": "Parafialna",
       "service_id": "8",
@@ -25738,7 +25738,7 @@
       ]
     },
     {
-      "trip_id": "8_17616815",
+      "trip_id": "8_17720828",
       "direction_id": "0",
       "headsign": "JAGODNO (P+R)",
       "service_id": "8",
@@ -25809,7 +25809,7 @@
       ]
     },
     {
-      "trip_id": "8_17616816",
+      "trip_id": "8_17720829",
       "direction_id": "0",
       "headsign": "IWINY - rondo",
       "service_id": "8",
@@ -25853,7 +25853,7 @@
       ]
     },
     {
-      "trip_id": "8_17616817",
+      "trip_id": "8_17720830",
       "direction_id": "1",
       "headsign": "Strachowskiego",
       "service_id": "8",
@@ -25978,7 +25978,7 @@
       ]
     },
     {
-      "trip_id": "8_17616818",
+      "trip_id": "8_17720831",
       "direction_id": "0",
       "headsign": "JAGODNO (P+R)",
       "service_id": "8",
@@ -26094,7 +26094,7 @@
       ]
     },
     {
-      "trip_id": "8_17616819",
+      "trip_id": "8_17720832",
       "direction_id": "0",
       "headsign": "IWINY - rondo",
       "service_id": "8",
@@ -26138,7 +26138,7 @@
       ]
     },
     {
-      "trip_id": "8_17616820",
+      "trip_id": "8_17720833",
       "direction_id": "1",
       "headsign": "Strachowskiego",
       "service_id": "8",
@@ -26263,7 +26263,7 @@
       ]
     },
     {
-      "trip_id": "8_17616821",
+      "trip_id": "8_17720834",
       "direction_id": "0",
       "headsign": "JAGODNO (P+R)",
       "service_id": "8",
@@ -26379,7 +26379,7 @@
       ]
     },
     {
-      "trip_id": "8_17616822",
+      "trip_id": "8_17720835",
       "direction_id": "1",
       "headsign": "Zajezdnia TYSKA",
       "service_id": "8",
@@ -26558,7 +26558,7 @@
       ]
     },
     {
-      "trip_id": "8_17616823",
+      "trip_id": "8_17720836",
       "direction_id": "0",
       "headsign": "IWINY - rondo",
       "service_id": "8",
@@ -26764,7 +26764,7 @@
       ]
     },
     {
-      "trip_id": "8_17616824",
+      "trip_id": "8_17720837",
       "direction_id": "1",
       "headsign": "Strachowskiego",
       "service_id": "8",
@@ -26889,7 +26889,7 @@
       ]
     },
     {
-      "trip_id": "8_17616825",
+      "trip_id": "8_17720838",
       "direction_id": "0",
       "headsign": "IWINY - rondo",
       "service_id": "8",
@@ -27032,7 +27032,7 @@
       ]
     },
     {
-      "trip_id": "8_17616826",
+      "trip_id": "8_17720839",
       "direction_id": "1",
       "headsign": "JAGODNO (P+R)",
       "service_id": "8",
@@ -27067,7 +27067,7 @@
       ]
     },
     {
-      "trip_id": "8_17616827",
+      "trip_id": "8_17720840",
       "direction_id": "1",
       "headsign": "Strachowskiego",
       "service_id": "8",
@@ -27174,7 +27174,7 @@
       ]
     },
     {
-      "trip_id": "8_17616828",
+      "trip_id": "8_17720841",
       "direction_id": "0",
       "headsign": "IWINY - rondo",
       "service_id": "8",
@@ -27317,7 +27317,7 @@
       ]
     },
     {
-      "trip_id": "8_17616829",
+      "trip_id": "8_17720842",
       "direction_id": "1",
       "headsign": "JAGODNO (P+R)",
       "service_id": "8",
@@ -27352,7 +27352,7 @@
       ]
     },
     {
-      "trip_id": "8_17616830",
+      "trip_id": "8_17720843",
       "direction_id": "1",
       "headsign": "Strachowskiego",
       "service_id": "8",
@@ -27459,7 +27459,7 @@
       ]
     },
     {
-      "trip_id": "8_17616831",
+      "trip_id": "8_17720844",
       "direction_id": "0",
       "headsign": "IWINY - rondo",
       "service_id": "8",
@@ -27602,7 +27602,7 @@
       ]
     },
     {
-      "trip_id": "8_17616832",
+      "trip_id": "8_17720845",
       "direction_id": "1",
       "headsign": "JAGODNO (P+R)",
       "service_id": "8",
@@ -27637,7 +27637,7 @@
       ]
     },
     {
-      "trip_id": "8_17616833",
+      "trip_id": "8_17720846",
       "direction_id": "1",
       "headsign": "Strachowskiego",
       "service_id": "8",
@@ -27744,7 +27744,7 @@
       ]
     },
     {
-      "trip_id": "8_17616834",
+      "trip_id": "8_17720847",
       "direction_id": "0",
       "headsign": "IWINY - rondo",
       "service_id": "8",
@@ -27887,7 +27887,7 @@
       ]
     },
     {
-      "trip_id": "8_17616835",
+      "trip_id": "8_17720848",
       "direction_id": "1",
       "headsign": "JAGODNO (P+R)",
       "service_id": "8",
@@ -27922,7 +27922,7 @@
       ]
     },
     {
-      "trip_id": "8_17616836",
+      "trip_id": "8_17720849",
       "direction_id": "1",
       "headsign": "Strachowskiego",
       "service_id": "8",
@@ -28029,7 +28029,7 @@
       ]
     },
     {
-      "trip_id": "8_17616837",
+      "trip_id": "8_17720850",
       "direction_id": "0",
       "headsign": "IWINY - rondo",
       "service_id": "8",
@@ -28172,7 +28172,7 @@
       ]
     },
     {
-      "trip_id": "8_17616838",
+      "trip_id": "8_17720851",
       "direction_id": "1",
       "headsign": "JAGODNO (P+R)",
       "service_id": "8",
@@ -28207,7 +28207,7 @@
       ]
     },
     {
-      "trip_id": "8_17616839",
+      "trip_id": "8_17720852",
       "direction_id": "1",
       "headsign": "Strachowskiego",
       "service_id": "8",
@@ -28314,7 +28314,7 @@
       ]
     },
     {
-      "trip_id": "8_17616840",
+      "trip_id": "8_17720853",
       "direction_id": "0",
       "headsign": "IWINY - rondo",
       "service_id": "8",
@@ -28457,7 +28457,7 @@
       ]
     },
     {
-      "trip_id": "8_17616841",
+      "trip_id": "8_17720854",
       "direction_id": "1",
       "headsign": "Zajezdnia TYSKA",
       "service_id": "8",

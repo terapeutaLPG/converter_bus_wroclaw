@@ -2,7 +2,7 @@
   "line": "152",
   "trips": [
     {
-      "trip_id": "3_17598704",
+      "trip_id": "3_17702717",
       "direction_id": "0",
       "headsign": "PILCZYCE",
       "service_id": "3",
@@ -127,7 +127,7 @@
       ]
     },
     {
-      "trip_id": "3_17598705",
+      "trip_id": "3_17702718",
       "direction_id": "1",
       "headsign": "BLACHARSKA",
       "service_id": "3",
@@ -414,7 +414,7 @@
       ]
     },
     {
-      "trip_id": "3_17598706",
+      "trip_id": "3_17702719",
       "direction_id": "0",
       "headsign": "PILCZYCE",
       "service_id": "3",
@@ -701,7 +701,7 @@
       ]
     },
     {
-      "trip_id": "3_17598707",
+      "trip_id": "3_17702720",
       "direction_id": "1",
       "headsign": "BLACHARSKA",
       "service_id": "3",
@@ -988,7 +988,7 @@
       ]
     },
     {
-      "trip_id": "3_17598708",
+      "trip_id": "3_17702721",
       "direction_id": "0",
       "headsign": "PILCZYCE",
       "service_id": "3",
@@ -1275,7 +1275,7 @@
       ]
     },
     {
-      "trip_id": "3_17598709",
+      "trip_id": "3_17702722",
       "direction_id": "1",
       "headsign": "BLACHARSKA",
       "service_id": "3",
@@ -1562,7 +1562,7 @@
       ]
     },
     {
-      "trip_id": "3_17598710",
+      "trip_id": "3_17702723",
       "direction_id": "0",
       "headsign": "PILCZYCE",
       "service_id": "3",
@@ -1849,7 +1849,7 @@
       ]
     },
     {
-      "trip_id": "3_17598711",
+      "trip_id": "3_17702724",
       "direction_id": "1",
       "headsign": "BLACHARSKA",
       "service_id": "3",
@@ -2136,7 +2136,7 @@
       ]
     },
     {
-      "trip_id": "3_17598712",
+      "trip_id": "3_17702725",
       "direction_id": "0",
       "headsign": "PILCZYCE",
       "service_id": "3",
@@ -2423,7 +2423,7 @@
       ]
     },
     {
-      "trip_id": "3_17598713",
+      "trip_id": "3_17702726",
       "direction_id": "1",
       "headsign": "BLACHARSKA",
       "service_id": "3",
@@ -2710,7 +2710,7 @@
       ]
     },
     {
-      "trip_id": "3_17598714",
+      "trip_id": "3_17702727",
       "direction_id": "0",
       "headsign": "PILCZYCE",
       "service_id": "3",
@@ -2997,7 +2997,7 @@
       ]
     },
     {
-      "trip_id": "3_17598715",
+      "trip_id": "3_17702728",
       "direction_id": "1",
       "headsign": "BLACHARSKA",
       "service_id": "3",
@@ -3284,7 +3284,7 @@
       ]
     },
     {
-      "trip_id": "3_17598716",
+      "trip_id": "3_17702729",
       "direction_id": "0",
       "headsign": "PILCZYCE",
       "service_id": "3",
@@ -3571,7 +3571,7 @@
       ]
     },
     {
-      "trip_id": "3_17598717",
+      "trip_id": "3_17702730",
       "direction_id": "1",
       "headsign": "BLACHARSKA",
       "service_id": "3",
@@ -3858,7 +3858,7 @@
       ]
     },
     {
-      "trip_id": "3_17598718",
+      "trip_id": "3_17702731",
       "direction_id": "0",
       "headsign": "PILCZYCE",
       "service_id": "3",
@@ -4145,7 +4145,7 @@
       ]
     },
     {
-      "trip_id": "3_17598719",
+      "trip_id": "3_17702732",
       "direction_id": "1",
       "headsign": "BLACHARSKA",
       "service_id": "3",
@@ -4432,7 +4432,7 @@
       ]
     },
     {
-      "trip_id": "3_17598720",
+      "trip_id": "3_17702733",
       "direction_id": "0",
       "headsign": "PILCZYCE",
       "service_id": "3",
@@ -4719,7 +4719,7 @@
       ]
     },
     {
-      "trip_id": "3_17598721",
+      "trip_id": "3_17702734",
       "direction_id": "1",
       "headsign": "BLACHARSKA",
       "service_id": "3",
@@ -5006,7 +5006,7 @@
       ]
     },
     {
-      "trip_id": "3_17598722",
+      "trip_id": "3_17702735",
       "direction_id": "0",
       "headsign": "PILCZYCE",
       "service_id": "3",
@@ -5293,7 +5293,7 @@
       ]
     },
     {
-      "trip_id": "3_17598723",
+      "trip_id": "3_17702736",
       "direction_id": "1",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "3",
@@ -5418,7 +5418,7 @@
       ]
     },
     {
-      "trip_id": "3_17598724",
+      "trip_id": "3_17702737",
       "direction_id": "1",
       "headsign": "BLACHARSKA",
       "service_id": "3",
@@ -5651,7 +5651,7 @@
       ]
     },
     {
-      "trip_id": "3_17598725",
+      "trip_id": "3_17702738",
       "direction_id": "0",
       "headsign": "PILCZYCE",
       "service_id": "3",
@@ -5938,7 +5938,7 @@
       ]
     },
     {
-      "trip_id": "3_17598726",
+      "trip_id": "3_17702739",
       "direction_id": "1",
       "headsign": "BLACHARSKA",
       "service_id": "3",
@@ -6225,7 +6225,7 @@
       ]
     },
     {
-      "trip_id": "3_17598727",
+      "trip_id": "3_17702740",
       "direction_id": "0",
       "headsign": "PILCZYCE",
       "service_id": "3",
@@ -6512,7 +6512,7 @@
       ]
     },
     {
-      "trip_id": "3_17598728",
+      "trip_id": "3_17702741",
       "direction_id": "1",
       "headsign": "BLACHARSKA",
       "service_id": "3",
@@ -6799,7 +6799,7 @@
       ]
     },
     {
-      "trip_id": "3_17598729",
+      "trip_id": "3_17702742",
       "direction_id": "0",
       "headsign": "PILCZYCE",
       "service_id": "3",
@@ -7086,7 +7086,7 @@
       ]
     },
     {
-      "trip_id": "3_17598730",
+      "trip_id": "3_17702743",
       "direction_id": "1",
       "headsign": "BLACHARSKA",
       "service_id": "3",
@@ -7373,7 +7373,7 @@
       ]
     },
     {
-      "trip_id": "3_17598731",
+      "trip_id": "3_17702744",
       "direction_id": "0",
       "headsign": "PILCZYCE",
       "service_id": "3",
@@ -7660,7 +7660,7 @@
       ]
     },
     {
-      "trip_id": "3_17598732",
+      "trip_id": "3_17702745",
       "direction_id": "1",
       "headsign": "BLACHARSKA",
       "service_id": "3",
@@ -7947,7 +7947,7 @@
       ]
     },
     {
-      "trip_id": "3_17598733",
+      "trip_id": "3_17702746",
       "direction_id": "0",
       "headsign": "PILCZYCE",
       "service_id": "3",
@@ -8234,7 +8234,7 @@
       ]
     },
     {
-      "trip_id": "3_17598734",
+      "trip_id": "3_17702747",
       "direction_id": "1",
       "headsign": "BLACHARSKA",
       "service_id": "3",
@@ -8521,7 +8521,7 @@
       ]
     },
     {
-      "trip_id": "3_17598735",
+      "trip_id": "3_17702748",
       "direction_id": "0",
       "headsign": "PILCZYCE",
       "service_id": "3",
@@ -8808,7 +8808,7 @@
       ]
     },
     {
-      "trip_id": "3_17598736",
+      "trip_id": "3_17702749",
       "direction_id": "1",
       "headsign": "BLACHARSKA",
       "service_id": "3",
@@ -9095,7 +9095,7 @@
       ]
     },
     {
-      "trip_id": "3_17598737",
+      "trip_id": "3_17702750",
       "direction_id": "0",
       "headsign": "PILCZYCE",
       "service_id": "3",
@@ -9382,7 +9382,7 @@
       ]
     },
     {
-      "trip_id": "3_17598738",
+      "trip_id": "3_17702751",
       "direction_id": "1",
       "headsign": "BLACHARSKA",
       "service_id": "3",
@@ -9669,7 +9669,7 @@
       ]
     },
     {
-      "trip_id": "3_17598739",
+      "trip_id": "3_17702752",
       "direction_id": "0",
       "headsign": "PILCZYCE",
       "service_id": "3",
@@ -9956,7 +9956,7 @@
       ]
     },
     {
-      "trip_id": "3_17598740",
+      "trip_id": "3_17702753",
       "direction_id": "1",
       "headsign": "BLACHARSKA",
       "service_id": "3",
@@ -10243,7 +10243,7 @@
       ]
     },
     {
-      "trip_id": "3_17598741",
+      "trip_id": "3_17702754",
       "direction_id": "0",
       "headsign": "PILCZYCE",
       "service_id": "3",
@@ -10530,7 +10530,7 @@
       ]
     },
     {
-      "trip_id": "3_17598742",
+      "trip_id": "3_17702755",
       "direction_id": "1",
       "headsign": "BLACHARSKA",
       "service_id": "3",
@@ -10817,7 +10817,7 @@
       ]
     },
     {
-      "trip_id": "3_17598743",
+      "trip_id": "3_17702756",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "3",
@@ -11059,7 +11059,7 @@
       ]
     },
     {
-      "trip_id": "3_17598744",
+      "trip_id": "3_17702757",
       "direction_id": "0",
       "headsign": "PILCZYCE",
       "service_id": "3",
@@ -11184,7 +11184,7 @@
       ]
     },
     {
-      "trip_id": "3_17598745",
+      "trip_id": "3_17702758",
       "direction_id": "1",
       "headsign": "BLACHARSKA",
       "service_id": "3",
@@ -11471,7 +11471,7 @@
       ]
     },
     {
-      "trip_id": "3_17598746",
+      "trip_id": "3_17702759",
       "direction_id": "0",
       "headsign": "PILCZYCE",
       "service_id": "3",
@@ -11758,7 +11758,7 @@
       ]
     },
     {
-      "trip_id": "3_17598747",
+      "trip_id": "3_17702760",
       "direction_id": "1",
       "headsign": "BLACHARSKA",
       "service_id": "3",
@@ -12045,7 +12045,7 @@
       ]
     },
     {
-      "trip_id": "3_17598748",
+      "trip_id": "3_17702761",
       "direction_id": "0",
       "headsign": "PILCZYCE",
       "service_id": "3",
@@ -12332,7 +12332,7 @@
       ]
     },
     {
-      "trip_id": "3_17598749",
+      "trip_id": "3_17702762",
       "direction_id": "1",
       "headsign": "BLACHARSKA",
       "service_id": "3",
@@ -12619,7 +12619,7 @@
       ]
     },
     {
-      "trip_id": "3_17598750",
+      "trip_id": "3_17702763",
       "direction_id": "0",
       "headsign": "PILCZYCE",
       "service_id": "3",
@@ -12906,7 +12906,7 @@
       ]
     },
     {
-      "trip_id": "3_17598751",
+      "trip_id": "3_17702764",
       "direction_id": "1",
       "headsign": "BLACHARSKA",
       "service_id": "3",
@@ -13193,7 +13193,7 @@
       ]
     },
     {
-      "trip_id": "3_17598752",
+      "trip_id": "3_17702765",
       "direction_id": "0",
       "headsign": "PILCZYCE",
       "service_id": "3",
@@ -13480,7 +13480,7 @@
       ]
     },
     {
-      "trip_id": "3_17598753",
+      "trip_id": "3_17702766",
       "direction_id": "1",
       "headsign": "BLACHARSKA",
       "service_id": "3",
@@ -13767,7 +13767,7 @@
       ]
     },
     {
-      "trip_id": "3_17598754",
+      "trip_id": "3_17702767",
       "direction_id": "0",
       "headsign": "PILCZYCE",
       "service_id": "3",
@@ -14054,7 +14054,7 @@
       ]
     },
     {
-      "trip_id": "3_17598755",
+      "trip_id": "3_17702768",
       "direction_id": "1",
       "headsign": "BLACHARSKA",
       "service_id": "3",
@@ -14341,7 +14341,7 @@
       ]
     },
     {
-      "trip_id": "3_17598756",
+      "trip_id": "3_17702769",
       "direction_id": "0",
       "headsign": "PILCZYCE",
       "service_id": "3",
@@ -14628,7 +14628,7 @@
       ]
     },
     {
-      "trip_id": "3_17598757",
+      "trip_id": "3_17702770",
       "direction_id": "1",
       "headsign": "BLACHARSKA",
       "service_id": "3",
@@ -14915,7 +14915,7 @@
       ]
     },
     {
-      "trip_id": "3_17598758",
+      "trip_id": "3_17702771",
       "direction_id": "0",
       "headsign": "PILCZYCE",
       "service_id": "3",
@@ -15202,7 +15202,7 @@
       ]
     },
     {
-      "trip_id": "3_17598759",
+      "trip_id": "3_17702772",
       "direction_id": "1",
       "headsign": "BLACHARSKA",
       "service_id": "3",
@@ -15489,7 +15489,7 @@
       ]
     },
     {
-      "trip_id": "3_17598760",
+      "trip_id": "3_17702773",
       "direction_id": "0",
       "headsign": "PILCZYCE",
       "service_id": "3",
@@ -15776,7 +15776,7 @@
       ]
     },
     {
-      "trip_id": "3_17598761",
+      "trip_id": "3_17702774",
       "direction_id": "1",
       "headsign": "BLACHARSKA",
       "service_id": "3",
@@ -16063,7 +16063,7 @@
       ]
     },
     {
-      "trip_id": "3_17598762",
+      "trip_id": "3_17702775",
       "direction_id": "0",
       "headsign": "PILCZYCE",
       "service_id": "3",
@@ -16350,7 +16350,7 @@
       ]
     },
     {
-      "trip_id": "3_17598763",
+      "trip_id": "3_17702776",
       "direction_id": "1",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "3",
@@ -16475,7 +16475,7 @@
       ]
     },
     {
-      "trip_id": "3_17598764",
+      "trip_id": "3_17702777",
       "direction_id": "0",
       "headsign": "PILCZYCE",
       "service_id": "3",
@@ -16600,7 +16600,7 @@
       ]
     },
     {
-      "trip_id": "3_17598765",
+      "trip_id": "3_17702778",
       "direction_id": "1",
       "headsign": "BLACHARSKA",
       "service_id": "3",
@@ -16887,7 +16887,7 @@
       ]
     },
     {
-      "trip_id": "3_17598766",
+      "trip_id": "3_17702779",
       "direction_id": "0",
       "headsign": "PILCZYCE",
       "service_id": "3",
@@ -17174,7 +17174,7 @@
       ]
     },
     {
-      "trip_id": "3_17598767",
+      "trip_id": "3_17702780",
       "direction_id": "1",
       "headsign": "BLACHARSKA",
       "service_id": "3",
@@ -17461,7 +17461,7 @@
       ]
     },
     {
-      "trip_id": "3_17598768",
+      "trip_id": "3_17702781",
       "direction_id": "0",
       "headsign": "PILCZYCE",
       "service_id": "3",
@@ -17748,7 +17748,7 @@
       ]
     },
     {
-      "trip_id": "3_17598769",
+      "trip_id": "3_17702782",
       "direction_id": "1",
       "headsign": "BLACHARSKA",
       "service_id": "3",
@@ -18035,7 +18035,7 @@
       ]
     },
     {
-      "trip_id": "3_17598770",
+      "trip_id": "3_17702783",
       "direction_id": "0",
       "headsign": "PILCZYCE",
       "service_id": "3",
@@ -18322,7 +18322,7 @@
       ]
     },
     {
-      "trip_id": "3_17598771",
+      "trip_id": "3_17702784",
       "direction_id": "1",
       "headsign": "BLACHARSKA",
       "service_id": "3",
@@ -18609,7 +18609,7 @@
       ]
     },
     {
-      "trip_id": "3_17598772",
+      "trip_id": "3_17702785",
       "direction_id": "0",
       "headsign": "PILCZYCE",
       "service_id": "3",
@@ -18896,7 +18896,7 @@
       ]
     },
     {
-      "trip_id": "3_17598773",
+      "trip_id": "3_17702786",
       "direction_id": "1",
       "headsign": "BLACHARSKA",
       "service_id": "3",
@@ -19183,7 +19183,7 @@
       ]
     },
     {
-      "trip_id": "3_17598774",
+      "trip_id": "3_17702787",
       "direction_id": "0",
       "headsign": "PILCZYCE",
       "service_id": "3",
@@ -19470,7 +19470,7 @@
       ]
     },
     {
-      "trip_id": "3_17598775",
+      "trip_id": "3_17702788",
       "direction_id": "1",
       "headsign": "BLACHARSKA",
       "service_id": "3",
@@ -19757,7 +19757,7 @@
       ]
     },
     {
-      "trip_id": "3_17598776",
+      "trip_id": "3_17702789",
       "direction_id": "0",
       "headsign": "PILCZYCE",
       "service_id": "3",
@@ -20044,7 +20044,7 @@
       ]
     },
     {
-      "trip_id": "3_17598777",
+      "trip_id": "3_17702790",
       "direction_id": "1",
       "headsign": "BLACHARSKA",
       "service_id": "3",
@@ -20331,7 +20331,7 @@
       ]
     },
     {
-      "trip_id": "3_17598778",
+      "trip_id": "3_17702791",
       "direction_id": "0",
       "headsign": "PILCZYCE",
       "service_id": "3",
@@ -20618,7 +20618,7 @@
       ]
     },
     {
-      "trip_id": "3_17598779",
+      "trip_id": "3_17702792",
       "direction_id": "1",
       "headsign": "BLACHARSKA",
       "service_id": "3",
@@ -20905,7 +20905,7 @@
       ]
     },
     {
-      "trip_id": "3_17598780",
+      "trip_id": "3_17702793",
       "direction_id": "0",
       "headsign": "PILCZYCE",
       "service_id": "3",
@@ -21192,7 +21192,7 @@
       ]
     },
     {
-      "trip_id": "3_17598781",
+      "trip_id": "3_17702794",
       "direction_id": "1",
       "headsign": "BLACHARSKA",
       "service_id": "3",
@@ -21479,7 +21479,7 @@
       ]
     },
     {
-      "trip_id": "3_17598782",
+      "trip_id": "3_17702795",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "3",
@@ -21721,7 +21721,7 @@
       ]
     },
     {
-      "trip_id": "4_17603120",
+      "trip_id": "4_17707133",
       "direction_id": "1",
       "headsign": "BLACHARSKA",
       "service_id": "4",
@@ -21954,7 +21954,7 @@
       ]
     },
     {
-      "trip_id": "4_17603121",
+      "trip_id": "4_17707134",
       "direction_id": "0",
       "headsign": "PILCZYCE",
       "service_id": "4",
@@ -22241,7 +22241,7 @@
       ]
     },
     {
-      "trip_id": "4_17603122",
+      "trip_id": "4_17707135",
       "direction_id": "1",
       "headsign": "BLACHARSKA",
       "service_id": "4",
@@ -22528,7 +22528,7 @@
       ]
     },
     {
-      "trip_id": "4_17603123",
+      "trip_id": "4_17707136",
       "direction_id": "0",
       "headsign": "PILCZYCE",
       "service_id": "4",
@@ -22815,7 +22815,7 @@
       ]
     },
     {
-      "trip_id": "4_17603124",
+      "trip_id": "4_17707137",
       "direction_id": "1",
       "headsign": "BLACHARSKA",
       "service_id": "4",
@@ -23102,7 +23102,7 @@
       ]
     },
     {
-      "trip_id": "4_17603125",
+      "trip_id": "4_17707138",
       "direction_id": "0",
       "headsign": "PILCZYCE",
       "service_id": "4",
@@ -23389,7 +23389,7 @@
       ]
     },
     {
-      "trip_id": "4_17603126",
+      "trip_id": "4_17707139",
       "direction_id": "1",
       "headsign": "BLACHARSKA",
       "service_id": "4",
@@ -23676,7 +23676,7 @@
       ]
     },
     {
-      "trip_id": "4_17603127",
+      "trip_id": "4_17707140",
       "direction_id": "0",
       "headsign": "PILCZYCE",
       "service_id": "4",
@@ -23963,7 +23963,7 @@
       ]
     },
     {
-      "trip_id": "4_17603128",
+      "trip_id": "4_17707141",
       "direction_id": "1",
       "headsign": "BLACHARSKA",
       "service_id": "4",
@@ -24250,7 +24250,7 @@
       ]
     },
     {
-      "trip_id": "4_17603129",
+      "trip_id": "4_17707142",
       "direction_id": "0",
       "headsign": "PILCZYCE",
       "service_id": "4",
@@ -24537,7 +24537,7 @@
       ]
     },
     {
-      "trip_id": "4_17603130",
+      "trip_id": "4_17707143",
       "direction_id": "1",
       "headsign": "BLACHARSKA",
       "service_id": "4",
@@ -24824,7 +24824,7 @@
       ]
     },
     {
-      "trip_id": "4_17603131",
+      "trip_id": "4_17707144",
       "direction_id": "0",
       "headsign": "PILCZYCE",
       "service_id": "4",
@@ -25111,7 +25111,7 @@
       ]
     },
     {
-      "trip_id": "4_17603132",
+      "trip_id": "4_17707145",
       "direction_id": "1",
       "headsign": "BLACHARSKA",
       "service_id": "4",
@@ -25398,7 +25398,7 @@
       ]
     },
     {
-      "trip_id": "4_17603133",
+      "trip_id": "4_17707146",
       "direction_id": "0",
       "headsign": "PILCZYCE",
       "service_id": "4",
@@ -25685,7 +25685,7 @@
       ]
     },
     {
-      "trip_id": "4_17603134",
+      "trip_id": "4_17707147",
       "direction_id": "1",
       "headsign": "BLACHARSKA",
       "service_id": "4",
@@ -25972,7 +25972,7 @@
       ]
     },
     {
-      "trip_id": "4_17603135",
+      "trip_id": "4_17707148",
       "direction_id": "0",
       "headsign": "PILCZYCE",
       "service_id": "4",
@@ -26259,7 +26259,7 @@
       ]
     },
     {
-      "trip_id": "4_17603136",
+      "trip_id": "4_17707149",
       "direction_id": "1",
       "headsign": "BLACHARSKA",
       "service_id": "4",
@@ -26546,7 +26546,7 @@
       ]
     },
     {
-      "trip_id": "4_17603137",
+      "trip_id": "4_17707150",
       "direction_id": "0",
       "headsign": "PILCZYCE",
       "service_id": "4",
@@ -26833,7 +26833,7 @@
       ]
     },
     {
-      "trip_id": "4_17603138",
+      "trip_id": "4_17707151",
       "direction_id": "1",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "4",
@@ -26958,7 +26958,7 @@
       ]
     },
     {
-      "trip_id": "4_17603139",
+      "trip_id": "4_17707152",
       "direction_id": "0",
       "headsign": "PILCZYCE",
       "service_id": "4",
@@ -27083,7 +27083,7 @@
       ]
     },
     {
-      "trip_id": "4_17603140",
+      "trip_id": "4_17707153",
       "direction_id": "1",
       "headsign": "BLACHARSKA",
       "service_id": "4",
@@ -27370,7 +27370,7 @@
       ]
     },
     {
-      "trip_id": "4_17603141",
+      "trip_id": "4_17707154",
       "direction_id": "0",
       "headsign": "PILCZYCE",
       "service_id": "4",
@@ -27657,7 +27657,7 @@
       ]
     },
     {
-      "trip_id": "4_17603142",
+      "trip_id": "4_17707155",
       "direction_id": "1",
       "headsign": "BLACHARSKA",
       "service_id": "4",
@@ -27944,7 +27944,7 @@
       ]
     },
     {
-      "trip_id": "4_17603143",
+      "trip_id": "4_17707156",
       "direction_id": "0",
       "headsign": "PILCZYCE",
       "service_id": "4",
@@ -28231,7 +28231,7 @@
       ]
     },
     {
-      "trip_id": "4_17603144",
+      "trip_id": "4_17707157",
       "direction_id": "1",
       "headsign": "BLACHARSKA",
       "service_id": "4",
@@ -28518,7 +28518,7 @@
       ]
     },
     {
-      "trip_id": "4_17603145",
+      "trip_id": "4_17707158",
       "direction_id": "0",
       "headsign": "PILCZYCE",
       "service_id": "4",
@@ -28805,7 +28805,7 @@
       ]
     },
     {
-      "trip_id": "4_17603146",
+      "trip_id": "4_17707159",
       "direction_id": "1",
       "headsign": "BLACHARSKA",
       "service_id": "4",
@@ -29092,7 +29092,7 @@
       ]
     },
     {
-      "trip_id": "4_17603147",
+      "trip_id": "4_17707160",
       "direction_id": "0",
       "headsign": "PILCZYCE",
       "service_id": "4",
@@ -29379,7 +29379,7 @@
       ]
     },
     {
-      "trip_id": "4_17603148",
+      "trip_id": "4_17707161",
       "direction_id": "1",
       "headsign": "BLACHARSKA",
       "service_id": "4",
@@ -29666,7 +29666,7 @@
       ]
     },
     {
-      "trip_id": "4_17603149",
+      "trip_id": "4_17707162",
       "direction_id": "0",
       "headsign": "PILCZYCE",
       "service_id": "4",
@@ -29953,7 +29953,7 @@
       ]
     },
     {
-      "trip_id": "4_17603150",
+      "trip_id": "4_17707163",
       "direction_id": "1",
       "headsign": "BLACHARSKA",
       "service_id": "4",
@@ -30240,7 +30240,7 @@
       ]
     },
     {
-      "trip_id": "4_17603151",
+      "trip_id": "4_17707164",
       "direction_id": "0",
       "headsign": "PILCZYCE",
       "service_id": "4",
@@ -30527,7 +30527,7 @@
       ]
     },
     {
-      "trip_id": "4_17603152",
+      "trip_id": "4_17707165",
       "direction_id": "1",
       "headsign": "BLACHARSKA",
       "service_id": "4",
@@ -30814,7 +30814,7 @@
       ]
     },
     {
-      "trip_id": "4_17603153",
+      "trip_id": "4_17707166",
       "direction_id": "0",
       "headsign": "PILCZYCE",
       "service_id": "4",
@@ -31101,7 +31101,7 @@
       ]
     },
     {
-      "trip_id": "4_17603154",
+      "trip_id": "4_17707167",
       "direction_id": "1",
       "headsign": "BLACHARSKA",
       "service_id": "4",
@@ -31388,7 +31388,7 @@
       ]
     },
     {
-      "trip_id": "4_17603155",
+      "trip_id": "4_17707168",
       "direction_id": "0",
       "headsign": "PILCZYCE",
       "service_id": "4",
@@ -31675,7 +31675,7 @@
       ]
     },
     {
-      "trip_id": "4_17603156",
+      "trip_id": "4_17707169",
       "direction_id": "1",
       "headsign": "BLACHARSKA",
       "service_id": "4",
@@ -31962,7 +31962,7 @@
       ]
     },
     {
-      "trip_id": "4_17603157",
+      "trip_id": "4_17707170",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "4",
@@ -32204,7 +32204,7 @@
       ]
     },
     {
-      "trip_id": "4_17603158",
+      "trip_id": "4_17707171",
       "direction_id": "1",
       "headsign": "BLACHARSKA",
       "service_id": "4",
@@ -32437,7 +32437,7 @@
       ]
     },
     {
-      "trip_id": "4_17603159",
+      "trip_id": "4_17707172",
       "direction_id": "0",
       "headsign": "PILCZYCE",
       "service_id": "4",
@@ -32724,7 +32724,7 @@
       ]
     },
     {
-      "trip_id": "4_17603160",
+      "trip_id": "4_17707173",
       "direction_id": "1",
       "headsign": "BLACHARSKA",
       "service_id": "4",
@@ -33011,7 +33011,7 @@
       ]
     },
     {
-      "trip_id": "4_17603161",
+      "trip_id": "4_17707174",
       "direction_id": "0",
       "headsign": "PILCZYCE",
       "service_id": "4",
@@ -33298,7 +33298,7 @@
       ]
     },
     {
-      "trip_id": "4_17603162",
+      "trip_id": "4_17707175",
       "direction_id": "1",
       "headsign": "BLACHARSKA",
       "service_id": "4",
@@ -33585,7 +33585,7 @@
       ]
     },
     {
-      "trip_id": "4_17603163",
+      "trip_id": "4_17707176",
       "direction_id": "0",
       "headsign": "PILCZYCE",
       "service_id": "4",
@@ -33872,7 +33872,7 @@
       ]
     },
     {
-      "trip_id": "4_17603164",
+      "trip_id": "4_17707177",
       "direction_id": "1",
       "headsign": "BLACHARSKA",
       "service_id": "4",
@@ -34159,7 +34159,7 @@
       ]
     },
     {
-      "trip_id": "4_17603165",
+      "trip_id": "4_17707178",
       "direction_id": "0",
       "headsign": "PILCZYCE",
       "service_id": "4",
@@ -34446,7 +34446,7 @@
       ]
     },
     {
-      "trip_id": "4_17603166",
+      "trip_id": "4_17707179",
       "direction_id": "1",
       "headsign": "BLACHARSKA",
       "service_id": "4",
@@ -34733,7 +34733,7 @@
       ]
     },
     {
-      "trip_id": "4_17603167",
+      "trip_id": "4_17707180",
       "direction_id": "0",
       "headsign": "PILCZYCE",
       "service_id": "4",
@@ -35020,7 +35020,7 @@
       ]
     },
     {
-      "trip_id": "4_17603168",
+      "trip_id": "4_17707181",
       "direction_id": "1",
       "headsign": "BLACHARSKA",
       "service_id": "4",
@@ -35307,7 +35307,7 @@
       ]
     },
     {
-      "trip_id": "4_17603169",
+      "trip_id": "4_17707182",
       "direction_id": "0",
       "headsign": "PILCZYCE",
       "service_id": "4",
@@ -35594,7 +35594,7 @@
       ]
     },
     {
-      "trip_id": "4_17603170",
+      "trip_id": "4_17707183",
       "direction_id": "1",
       "headsign": "BLACHARSKA",
       "service_id": "4",
@@ -35881,7 +35881,7 @@
       ]
     },
     {
-      "trip_id": "4_17603171",
+      "trip_id": "4_17707184",
       "direction_id": "0",
       "headsign": "PILCZYCE",
       "service_id": "4",
@@ -36168,7 +36168,7 @@
       ]
     },
     {
-      "trip_id": "4_17603172",
+      "trip_id": "4_17707185",
       "direction_id": "1",
       "headsign": "BLACHARSKA",
       "service_id": "4",
@@ -36455,7 +36455,7 @@
       ]
     },
     {
-      "trip_id": "4_17603173",
+      "trip_id": "4_17707186",
       "direction_id": "0",
       "headsign": "PILCZYCE",
       "service_id": "4",
@@ -36742,7 +36742,7 @@
       ]
     },
     {
-      "trip_id": "4_17603174",
+      "trip_id": "4_17707187",
       "direction_id": "1",
       "headsign": "BLACHARSKA",
       "service_id": "4",
@@ -37029,7 +37029,7 @@
       ]
     },
     {
-      "trip_id": "4_17603175",
+      "trip_id": "4_17707188",
       "direction_id": "0",
       "headsign": "PILCZYCE",
       "service_id": "4",
@@ -37316,7 +37316,7 @@
       ]
     },
     {
-      "trip_id": "4_17603176",
+      "trip_id": "4_17707189",
       "direction_id": "1",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "4",
@@ -37441,7 +37441,7 @@
       ]
     },
     {
-      "trip_id": "4_17603177",
+      "trip_id": "4_17707190",
       "direction_id": "0",
       "headsign": "PILCZYCE",
       "service_id": "4",
@@ -37566,7 +37566,7 @@
       ]
     },
     {
-      "trip_id": "4_17603178",
+      "trip_id": "4_17707191",
       "direction_id": "1",
       "headsign": "BLACHARSKA",
       "service_id": "4",
@@ -37853,7 +37853,7 @@
       ]
     },
     {
-      "trip_id": "4_17603179",
+      "trip_id": "4_17707192",
       "direction_id": "0",
       "headsign": "PILCZYCE",
       "service_id": "4",
@@ -38140,7 +38140,7 @@
       ]
     },
     {
-      "trip_id": "4_17603180",
+      "trip_id": "4_17707193",
       "direction_id": "1",
       "headsign": "BLACHARSKA",
       "service_id": "4",
@@ -38427,7 +38427,7 @@
       ]
     },
     {
-      "trip_id": "4_17603181",
+      "trip_id": "4_17707194",
       "direction_id": "0",
       "headsign": "PILCZYCE",
       "service_id": "4",
@@ -38714,7 +38714,7 @@
       ]
     },
     {
-      "trip_id": "4_17603182",
+      "trip_id": "4_17707195",
       "direction_id": "1",
       "headsign": "BLACHARSKA",
       "service_id": "4",
@@ -39001,7 +39001,7 @@
       ]
     },
     {
-      "trip_id": "4_17603183",
+      "trip_id": "4_17707196",
       "direction_id": "0",
       "headsign": "PILCZYCE",
       "service_id": "4",
@@ -39288,7 +39288,7 @@
       ]
     },
     {
-      "trip_id": "4_17603184",
+      "trip_id": "4_17707197",
       "direction_id": "1",
       "headsign": "BLACHARSKA",
       "service_id": "4",
@@ -39575,7 +39575,7 @@
       ]
     },
     {
-      "trip_id": "4_17603185",
+      "trip_id": "4_17707198",
       "direction_id": "0",
       "headsign": "PILCZYCE",
       "service_id": "4",
@@ -39862,7 +39862,7 @@
       ]
     },
     {
-      "trip_id": "4_17603186",
+      "trip_id": "4_17707199",
       "direction_id": "1",
       "headsign": "BLACHARSKA",
       "service_id": "4",
@@ -40149,7 +40149,7 @@
       ]
     },
     {
-      "trip_id": "4_17603187",
+      "trip_id": "4_17707200",
       "direction_id": "0",
       "headsign": "PILCZYCE",
       "service_id": "4",
@@ -40436,7 +40436,7 @@
       ]
     },
     {
-      "trip_id": "4_17603188",
+      "trip_id": "4_17707201",
       "direction_id": "1",
       "headsign": "BLACHARSKA",
       "service_id": "4",
@@ -40723,7 +40723,7 @@
       ]
     },
     {
-      "trip_id": "4_17603189",
+      "trip_id": "4_17707202",
       "direction_id": "0",
       "headsign": "PILCZYCE",
       "service_id": "4",
@@ -41010,7 +41010,7 @@
       ]
     },
     {
-      "trip_id": "4_17603190",
+      "trip_id": "4_17707203",
       "direction_id": "1",
       "headsign": "BLACHARSKA",
       "service_id": "4",
@@ -41297,7 +41297,7 @@
       ]
     },
     {
-      "trip_id": "4_17603191",
+      "trip_id": "4_17707204",
       "direction_id": "0",
       "headsign": "PILCZYCE",
       "service_id": "4",
@@ -41584,7 +41584,7 @@
       ]
     },
     {
-      "trip_id": "4_17603192",
+      "trip_id": "4_17707205",
       "direction_id": "1",
       "headsign": "BLACHARSKA",
       "service_id": "4",
@@ -41871,7 +41871,7 @@
       ]
     },
     {
-      "trip_id": "4_17603193",
+      "trip_id": "4_17707206",
       "direction_id": "0",
       "headsign": "PILCZYCE",
       "service_id": "4",
@@ -42158,7 +42158,7 @@
       ]
     },
     {
-      "trip_id": "4_17603194",
+      "trip_id": "4_17707207",
       "direction_id": "1",
       "headsign": "BLACHARSKA",
       "service_id": "4",
@@ -42445,7 +42445,7 @@
       ]
     },
     {
-      "trip_id": "4_17603195",
+      "trip_id": "4_17707208",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "4",
@@ -42687,7 +42687,7 @@
       ]
     },
     {
-      "trip_id": "6_17609242",
+      "trip_id": "6_17713255",
       "direction_id": "0",
       "headsign": "Kosmonautów (Pętla)",
       "service_id": "6",
@@ -42884,7 +42884,7 @@
       ]
     },
     {
-      "trip_id": "6_17609243",
+      "trip_id": "6_17713256",
       "direction_id": "1",
       "headsign": "BLACHARSKA",
       "service_id": "6",
@@ -43252,7 +43252,7 @@
       ]
     },
     {
-      "trip_id": "6_17609244",
+      "trip_id": "6_17713257",
       "direction_id": "0",
       "headsign": "PILCZYCE",
       "service_id": "6",
@@ -43539,7 +43539,7 @@
       ]
     },
     {
-      "trip_id": "6_17609245",
+      "trip_id": "6_17713258",
       "direction_id": "1",
       "headsign": "BLACHARSKA",
       "service_id": "6",
@@ -43826,7 +43826,7 @@
       ]
     },
     {
-      "trip_id": "6_17609246",
+      "trip_id": "6_17713259",
       "direction_id": "0",
       "headsign": "Kosmonautów (Pętla)",
       "service_id": "6",
@@ -44185,7 +44185,7 @@
       ]
     },
     {
-      "trip_id": "6_17609247",
+      "trip_id": "6_17713260",
       "direction_id": "1",
       "headsign": "BLACHARSKA",
       "service_id": "6",
@@ -44553,7 +44553,7 @@
       ]
     },
     {
-      "trip_id": "6_17609248",
+      "trip_id": "6_17713261",
       "direction_id": "0",
       "headsign": "PILCZYCE",
       "service_id": "6",
@@ -44840,7 +44840,7 @@
       ]
     },
     {
-      "trip_id": "6_17609249",
+      "trip_id": "6_17713262",
       "direction_id": "1",
       "headsign": "BLACHARSKA",
       "service_id": "6",
@@ -45127,7 +45127,7 @@
       ]
     },
     {
-      "trip_id": "6_17609250",
+      "trip_id": "6_17713263",
       "direction_id": "0",
       "headsign": "Kosmonautów (Pętla)",
       "service_id": "6",
@@ -45486,7 +45486,7 @@
       ]
     },
     {
-      "trip_id": "6_17609251",
+      "trip_id": "6_17713264",
       "direction_id": "1",
       "headsign": "BLACHARSKA",
       "service_id": "6",
@@ -45854,7 +45854,7 @@
       ]
     },
     {
-      "trip_id": "6_17609252",
+      "trip_id": "6_17713265",
       "direction_id": "0",
       "headsign": "PILCZYCE",
       "service_id": "6",
@@ -46141,7 +46141,7 @@
       ]
     },
     {
-      "trip_id": "6_17609253",
+      "trip_id": "6_17713266",
       "direction_id": "1",
       "headsign": "BLACHARSKA",
       "service_id": "6",
@@ -46428,7 +46428,7 @@
       ]
     },
     {
-      "trip_id": "6_17609254",
+      "trip_id": "6_17713267",
       "direction_id": "0",
       "headsign": "Kosmonautów (Pętla)",
       "service_id": "6",
@@ -46787,7 +46787,7 @@
       ]
     },
     {
-      "trip_id": "6_17609255",
+      "trip_id": "6_17713268",
       "direction_id": "1",
       "headsign": "BLACHARSKA",
       "service_id": "6",
@@ -47155,7 +47155,7 @@
       ]
     },
     {
-      "trip_id": "6_17609256",
+      "trip_id": "6_17713269",
       "direction_id": "0",
       "headsign": "PILCZYCE",
       "service_id": "6",
@@ -47442,7 +47442,7 @@
       ]
     },
     {
-      "trip_id": "6_17609257",
+      "trip_id": "6_17713270",
       "direction_id": "1",
       "headsign": "BLACHARSKA",
       "service_id": "6",
@@ -47729,7 +47729,7 @@
       ]
     },
     {
-      "trip_id": "6_17609258",
+      "trip_id": "6_17713271",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "6",
@@ -47971,7 +47971,7 @@
       ]
     },
     {
-      "trip_id": "6_17609259",
+      "trip_id": "6_17713272",
       "direction_id": "1",
       "headsign": "BLACHARSKA",
       "service_id": "6",
@@ -48204,7 +48204,7 @@
       ]
     },
     {
-      "trip_id": "6_17609260",
+      "trip_id": "6_17713273",
       "direction_id": "0",
       "headsign": "Kosmonautów (Pętla)",
       "service_id": "6",
@@ -48563,7 +48563,7 @@
       ]
     },
     {
-      "trip_id": "6_17609261",
+      "trip_id": "6_17713274",
       "direction_id": "1",
       "headsign": "BLACHARSKA",
       "service_id": "6",
@@ -48931,7 +48931,7 @@
       ]
     },
     {
-      "trip_id": "6_17609262",
+      "trip_id": "6_17713275",
       "direction_id": "0",
       "headsign": "PILCZYCE",
       "service_id": "6",
@@ -49218,7 +49218,7 @@
       ]
     },
     {
-      "trip_id": "6_17609263",
+      "trip_id": "6_17713276",
       "direction_id": "1",
       "headsign": "BLACHARSKA",
       "service_id": "6",
@@ -49505,7 +49505,7 @@
       ]
     },
     {
-      "trip_id": "6_17609264",
+      "trip_id": "6_17713277",
       "direction_id": "0",
       "headsign": "Kosmonautów (Pętla)",
       "service_id": "6",
@@ -49864,7 +49864,7 @@
       ]
     },
     {
-      "trip_id": "6_17609265",
+      "trip_id": "6_17713278",
       "direction_id": "1",
       "headsign": "BLACHARSKA",
       "service_id": "6",
@@ -50232,7 +50232,7 @@
       ]
     },
     {
-      "trip_id": "6_17609266",
+      "trip_id": "6_17713279",
       "direction_id": "0",
       "headsign": "PILCZYCE",
       "service_id": "6",
@@ -50519,7 +50519,7 @@
       ]
     },
     {
-      "trip_id": "6_17609267",
+      "trip_id": "6_17713280",
       "direction_id": "1",
       "headsign": "BLACHARSKA",
       "service_id": "6",
@@ -50806,7 +50806,7 @@
       ]
     },
     {
-      "trip_id": "6_17609268",
+      "trip_id": "6_17713281",
       "direction_id": "0",
       "headsign": "Kosmonautów (Pętla)",
       "service_id": "6",
@@ -51165,7 +51165,7 @@
       ]
     },
     {
-      "trip_id": "6_17609269",
+      "trip_id": "6_17713282",
       "direction_id": "1",
       "headsign": "BLACHARSKA",
       "service_id": "6",
@@ -51533,7 +51533,7 @@
       ]
     },
     {
-      "trip_id": "6_17609270",
+      "trip_id": "6_17713283",
       "direction_id": "0",
       "headsign": "PILCZYCE",
       "service_id": "6",
@@ -51820,7 +51820,7 @@
       ]
     },
     {
-      "trip_id": "6_17609271",
+      "trip_id": "6_17713284",
       "direction_id": "1",
       "headsign": "BLACHARSKA",
       "service_id": "6",
@@ -52107,7 +52107,7 @@
       ]
     },
     {
-      "trip_id": "6_17609272",
+      "trip_id": "6_17713285",
       "direction_id": "0",
       "headsign": "Kosmonautów (Pętla)",
       "service_id": "6",
@@ -52466,7 +52466,7 @@
       ]
     },
     {
-      "trip_id": "6_17609273",
+      "trip_id": "6_17713286",
       "direction_id": "1",
       "headsign": "BLACHARSKA",
       "service_id": "6",
@@ -52834,7 +52834,7 @@
       ]
     },
     {
-      "trip_id": "6_17609274",
+      "trip_id": "6_17713287",
       "direction_id": "0",
       "headsign": "PILCZYCE",
       "service_id": "6",
@@ -53121,7 +53121,7 @@
       ]
     },
     {
-      "trip_id": "6_17609275",
+      "trip_id": "6_17713288",
       "direction_id": "1",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "6",
@@ -53246,7 +53246,7 @@
       ]
     },
     {
-      "trip_id": "6_17609276",
+      "trip_id": "6_17713289",
       "direction_id": "1",
       "headsign": "BLACHARSKA",
       "service_id": "6",
@@ -53479,7 +53479,7 @@
       ]
     },
     {
-      "trip_id": "6_17609277",
+      "trip_id": "6_17713290",
       "direction_id": "0",
       "headsign": "Kosmonautów (Pętla)",
       "service_id": "6",
@@ -53838,7 +53838,7 @@
       ]
     },
     {
-      "trip_id": "6_17609278",
+      "trip_id": "6_17713291",
       "direction_id": "1",
       "headsign": "BLACHARSKA",
       "service_id": "6",
@@ -54206,7 +54206,7 @@
       ]
     },
     {
-      "trip_id": "6_17609279",
+      "trip_id": "6_17713292",
       "direction_id": "0",
       "headsign": "PILCZYCE",
       "service_id": "6",
@@ -54493,7 +54493,7 @@
       ]
     },
     {
-      "trip_id": "6_17609280",
+      "trip_id": "6_17713293",
       "direction_id": "1",
       "headsign": "BLACHARSKA",
       "service_id": "6",
@@ -54780,7 +54780,7 @@
       ]
     },
     {
-      "trip_id": "6_17609281",
+      "trip_id": "6_17713294",
       "direction_id": "0",
       "headsign": "Kosmonautów (Pętla)",
       "service_id": "6",
@@ -55139,7 +55139,7 @@
       ]
     },
     {
-      "trip_id": "6_17609282",
+      "trip_id": "6_17713295",
       "direction_id": "1",
       "headsign": "BLACHARSKA",
       "service_id": "6",
@@ -55507,7 +55507,7 @@
       ]
     },
     {
-      "trip_id": "6_17609283",
+      "trip_id": "6_17713296",
       "direction_id": "0",
       "headsign": "PILCZYCE",
       "service_id": "6",
@@ -55794,7 +55794,7 @@
       ]
     },
     {
-      "trip_id": "6_17609284",
+      "trip_id": "6_17713297",
       "direction_id": "1",
       "headsign": "BLACHARSKA",
       "service_id": "6",
@@ -56081,7 +56081,7 @@
       ]
     },
     {
-      "trip_id": "6_17609285",
+      "trip_id": "6_17713298",
       "direction_id": "0",
       "headsign": "Kosmonautów (Pętla)",
       "service_id": "6",
@@ -56440,7 +56440,7 @@
       ]
     },
     {
-      "trip_id": "6_17609286",
+      "trip_id": "6_17713299",
       "direction_id": "1",
       "headsign": "BLACHARSKA",
       "service_id": "6",
@@ -56808,7 +56808,7 @@
       ]
     },
     {
-      "trip_id": "6_17609287",
+      "trip_id": "6_17713300",
       "direction_id": "0",
       "headsign": "PILCZYCE",
       "service_id": "6",
@@ -57095,7 +57095,7 @@
       ]
     },
     {
-      "trip_id": "6_17609288",
+      "trip_id": "6_17713301",
       "direction_id": "1",
       "headsign": "BLACHARSKA",
       "service_id": "6",
@@ -57382,7 +57382,7 @@
       ]
     },
     {
-      "trip_id": "6_17609289",
+      "trip_id": "6_17713302",
       "direction_id": "0",
       "headsign": "Kosmonautów (Pętla)",
       "service_id": "6",
@@ -57741,7 +57741,7 @@
       ]
     },
     {
-      "trip_id": "6_17609290",
+      "trip_id": "6_17713303",
       "direction_id": "1",
       "headsign": "BLACHARSKA",
       "service_id": "6",
@@ -58109,7 +58109,7 @@
       ]
     },
     {
-      "trip_id": "6_17609291",
+      "trip_id": "6_17713304",
       "direction_id": "0",
       "headsign": "PILCZYCE",
       "service_id": "6",
@@ -58396,7 +58396,7 @@
       ]
     },
     {
-      "trip_id": "6_17609292",
+      "trip_id": "6_17713305",
       "direction_id": "1",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "6",
@@ -58521,7 +58521,7 @@
       ]
     },
     {
-      "trip_id": "6_17609293",
+      "trip_id": "6_17713306",
       "direction_id": "1",
       "headsign": "BLACHARSKA",
       "service_id": "6",
@@ -58754,7 +58754,7 @@
       ]
     },
     {
-      "trip_id": "6_17609294",
+      "trip_id": "6_17713307",
       "direction_id": "0",
       "headsign": "PILCZYCE",
       "service_id": "6",
@@ -59041,7 +59041,7 @@
       ]
     },
     {
-      "trip_id": "6_17609295",
+      "trip_id": "6_17713308",
       "direction_id": "1",
       "headsign": "BLACHARSKA",
       "service_id": "6",
@@ -59328,7 +59328,7 @@
       ]
     },
     {
-      "trip_id": "6_17609296",
+      "trip_id": "6_17713309",
       "direction_id": "0",
       "headsign": "Kosmonautów (Pętla)",
       "service_id": "6",
@@ -59687,7 +59687,7 @@
       ]
     },
     {
-      "trip_id": "6_17609297",
+      "trip_id": "6_17713310",
       "direction_id": "1",
       "headsign": "BLACHARSKA",
       "service_id": "6",
@@ -60055,7 +60055,7 @@
       ]
     },
     {
-      "trip_id": "6_17609298",
+      "trip_id": "6_17713311",
       "direction_id": "0",
       "headsign": "PILCZYCE",
       "service_id": "6",
@@ -60342,7 +60342,7 @@
       ]
     },
     {
-      "trip_id": "6_17609299",
+      "trip_id": "6_17713312",
       "direction_id": "1",
       "headsign": "BLACHARSKA",
       "service_id": "6",
@@ -60629,7 +60629,7 @@
       ]
     },
     {
-      "trip_id": "6_17609300",
+      "trip_id": "6_17713313",
       "direction_id": "0",
       "headsign": "Kosmonautów (Pętla)",
       "service_id": "6",
@@ -60988,7 +60988,7 @@
       ]
     },
     {
-      "trip_id": "6_17609301",
+      "trip_id": "6_17713314",
       "direction_id": "1",
       "headsign": "BLACHARSKA",
       "service_id": "6",
@@ -61356,7 +61356,7 @@
       ]
     },
     {
-      "trip_id": "6_17609302",
+      "trip_id": "6_17713315",
       "direction_id": "0",
       "headsign": "PILCZYCE",
       "service_id": "6",
@@ -61643,7 +61643,7 @@
       ]
     },
     {
-      "trip_id": "6_17609303",
+      "trip_id": "6_17713316",
       "direction_id": "1",
       "headsign": "BLACHARSKA",
       "service_id": "6",
@@ -61930,7 +61930,7 @@
       ]
     },
     {
-      "trip_id": "6_17609304",
+      "trip_id": "6_17713317",
       "direction_id": "0",
       "headsign": "Kosmonautów (Pętla)",
       "service_id": "6",
@@ -62289,7 +62289,7 @@
       ]
     },
     {
-      "trip_id": "6_17609305",
+      "trip_id": "6_17713318",
       "direction_id": "1",
       "headsign": "BLACHARSKA",
       "service_id": "6",
@@ -62657,7 +62657,7 @@
       ]
     },
     {
-      "trip_id": "6_17609306",
+      "trip_id": "6_17713319",
       "direction_id": "0",
       "headsign": "PILCZYCE",
       "service_id": "6",
@@ -62944,7 +62944,7 @@
       ]
     },
     {
-      "trip_id": "6_17609307",
+      "trip_id": "6_17713320",
       "direction_id": "1",
       "headsign": "BLACHARSKA",
       "service_id": "6",
@@ -63231,7 +63231,7 @@
       ]
     },
     {
-      "trip_id": "6_17609308",
+      "trip_id": "6_17713321",
       "direction_id": "0",
       "headsign": "Kosmonautów (Pętla)",
       "service_id": "6",
@@ -63590,7 +63590,7 @@
       ]
     },
     {
-      "trip_id": "6_17609309",
+      "trip_id": "6_17713322",
       "direction_id": "1",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "6",
@@ -63796,7 +63796,7 @@
       ]
     },
     {
-      "trip_id": "6_17609310",
+      "trip_id": "6_17713323",
       "direction_id": "0",
       "headsign": "PILCZYCE",
       "service_id": "6",
@@ -63921,7 +63921,7 @@
       ]
     },
     {
-      "trip_id": "6_17609311",
+      "trip_id": "6_17713324",
       "direction_id": "1",
       "headsign": "BLACHARSKA",
       "service_id": "6",
@@ -64208,7 +64208,7 @@
       ]
     },
     {
-      "trip_id": "6_17609312",
+      "trip_id": "6_17713325",
       "direction_id": "0",
       "headsign": "Kosmonautów (Pętla)",
       "service_id": "6",
@@ -64567,7 +64567,7 @@
       ]
     },
     {
-      "trip_id": "6_17609313",
+      "trip_id": "6_17713326",
       "direction_id": "1",
       "headsign": "BLACHARSKA",
       "service_id": "6",
@@ -64935,7 +64935,7 @@
       ]
     },
     {
-      "trip_id": "6_17609314",
+      "trip_id": "6_17713327",
       "direction_id": "0",
       "headsign": "PILCZYCE",
       "service_id": "6",
@@ -65222,7 +65222,7 @@
       ]
     },
     {
-      "trip_id": "6_17609315",
+      "trip_id": "6_17713328",
       "direction_id": "1",
       "headsign": "BLACHARSKA",
       "service_id": "6",
@@ -65509,7 +65509,7 @@
       ]
     },
     {
-      "trip_id": "6_17609316",
+      "trip_id": "6_17713329",
       "direction_id": "0",
       "headsign": "Kosmonautów (Pętla)",
       "service_id": "6",
@@ -65868,7 +65868,7 @@
       ]
     },
     {
-      "trip_id": "6_17609317",
+      "trip_id": "6_17713330",
       "direction_id": "1",
       "headsign": "BLACHARSKA",
       "service_id": "6",
@@ -66236,7 +66236,7 @@
       ]
     },
     {
-      "trip_id": "6_17609318",
+      "trip_id": "6_17713331",
       "direction_id": "0",
       "headsign": "PILCZYCE",
       "service_id": "6",
@@ -66523,7 +66523,7 @@
       ]
     },
     {
-      "trip_id": "6_17609319",
+      "trip_id": "6_17713332",
       "direction_id": "1",
       "headsign": "BLACHARSKA",
       "service_id": "6",
@@ -66810,7 +66810,7 @@
       ]
     },
     {
-      "trip_id": "6_17609320",
+      "trip_id": "6_17713333",
       "direction_id": "0",
       "headsign": "Kosmonautów (Pętla)",
       "service_id": "6",
@@ -67169,7 +67169,7 @@
       ]
     },
     {
-      "trip_id": "6_17609321",
+      "trip_id": "6_17713334",
       "direction_id": "1",
       "headsign": "BLACHARSKA",
       "service_id": "6",
@@ -67537,7 +67537,7 @@
       ]
     },
     {
-      "trip_id": "6_17609322",
+      "trip_id": "6_17713335",
       "direction_id": "0",
       "headsign": "PILCZYCE",
       "service_id": "6",
@@ -67824,7 +67824,7 @@
       ]
     },
     {
-      "trip_id": "6_17609323",
+      "trip_id": "6_17713336",
       "direction_id": "1",
       "headsign": "BLACHARSKA",
       "service_id": "6",
@@ -68111,7 +68111,7 @@
       ]
     },
     {
-      "trip_id": "6_17609324",
+      "trip_id": "6_17713337",
       "direction_id": "0",
       "headsign": "Kosmonautów (Pętla)",
       "service_id": "6",
@@ -68470,7 +68470,7 @@
       ]
     },
     {
-      "trip_id": "6_17609325",
+      "trip_id": "6_17713338",
       "direction_id": "1",
       "headsign": "BLACHARSKA",
       "service_id": "6",
@@ -68838,7 +68838,7 @@
       ]
     },
     {
-      "trip_id": "6_17609326",
+      "trip_id": "6_17713339",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "6",
@@ -69080,7 +69080,7 @@
       ]
     },
     {
-      "trip_id": "8_17616068",
+      "trip_id": "8_17720081",
       "direction_id": "0",
       "headsign": "Kosmonautów (Pętla)",
       "service_id": "8",
@@ -69277,7 +69277,7 @@
       ]
     },
     {
-      "trip_id": "8_17616069",
+      "trip_id": "8_17720082",
       "direction_id": "1",
       "headsign": "BLACHARSKA",
       "service_id": "8",
@@ -69645,7 +69645,7 @@
       ]
     },
     {
-      "trip_id": "8_17616070",
+      "trip_id": "8_17720083",
       "direction_id": "0",
       "headsign": "PILCZYCE",
       "service_id": "8",
@@ -69932,7 +69932,7 @@
       ]
     },
     {
-      "trip_id": "8_17616071",
+      "trip_id": "8_17720084",
       "direction_id": "1",
       "headsign": "BLACHARSKA",
       "service_id": "8",
@@ -70219,7 +70219,7 @@
       ]
     },
     {
-      "trip_id": "8_17616072",
+      "trip_id": "8_17720085",
       "direction_id": "0",
       "headsign": "Kosmonautów (Pętla)",
       "service_id": "8",
@@ -70578,7 +70578,7 @@
       ]
     },
     {
-      "trip_id": "8_17616073",
+      "trip_id": "8_17720086",
       "direction_id": "1",
       "headsign": "BLACHARSKA",
       "service_id": "8",
@@ -70946,7 +70946,7 @@
       ]
     },
     {
-      "trip_id": "8_17616074",
+      "trip_id": "8_17720087",
       "direction_id": "0",
       "headsign": "PILCZYCE",
       "service_id": "8",
@@ -71233,7 +71233,7 @@
       ]
     },
     {
-      "trip_id": "8_17616075",
+      "trip_id": "8_17720088",
       "direction_id": "1",
       "headsign": "BLACHARSKA",
       "service_id": "8",
@@ -71520,7 +71520,7 @@
       ]
     },
     {
-      "trip_id": "8_17616076",
+      "trip_id": "8_17720089",
       "direction_id": "0",
       "headsign": "Kosmonautów (Pętla)",
       "service_id": "8",
@@ -71879,7 +71879,7 @@
       ]
     },
     {
-      "trip_id": "8_17616077",
+      "trip_id": "8_17720090",
       "direction_id": "1",
       "headsign": "BLACHARSKA",
       "service_id": "8",
@@ -72247,7 +72247,7 @@
       ]
     },
     {
-      "trip_id": "8_17616078",
+      "trip_id": "8_17720091",
       "direction_id": "0",
       "headsign": "PILCZYCE",
       "service_id": "8",
@@ -72534,7 +72534,7 @@
       ]
     },
     {
-      "trip_id": "8_17616079",
+      "trip_id": "8_17720092",
       "direction_id": "1",
       "headsign": "BLACHARSKA",
       "service_id": "8",
@@ -72821,7 +72821,7 @@
       ]
     },
     {
-      "trip_id": "8_17616080",
+      "trip_id": "8_17720093",
       "direction_id": "0",
       "headsign": "Kosmonautów (Pętla)",
       "service_id": "8",
@@ -73180,7 +73180,7 @@
       ]
     },
     {
-      "trip_id": "8_17616081",
+      "trip_id": "8_17720094",
       "direction_id": "1",
       "headsign": "BLACHARSKA",
       "service_id": "8",
@@ -73548,7 +73548,7 @@
       ]
     },
     {
-      "trip_id": "8_17616082",
+      "trip_id": "8_17720095",
       "direction_id": "0",
       "headsign": "PILCZYCE",
       "service_id": "8",
@@ -73835,7 +73835,7 @@
       ]
     },
     {
-      "trip_id": "8_17616083",
+      "trip_id": "8_17720096",
       "direction_id": "1",
       "headsign": "BLACHARSKA",
       "service_id": "8",
@@ -74122,7 +74122,7 @@
       ]
     },
     {
-      "trip_id": "8_17616084",
+      "trip_id": "8_17720097",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "8",
@@ -74364,7 +74364,7 @@
       ]
     },
     {
-      "trip_id": "8_17616085",
+      "trip_id": "8_17720098",
       "direction_id": "1",
       "headsign": "BLACHARSKA",
       "service_id": "8",
@@ -74597,7 +74597,7 @@
       ]
     },
     {
-      "trip_id": "8_17616086",
+      "trip_id": "8_17720099",
       "direction_id": "0",
       "headsign": "Kosmonautów (Pętla)",
       "service_id": "8",
@@ -74956,7 +74956,7 @@
       ]
     },
     {
-      "trip_id": "8_17616087",
+      "trip_id": "8_17720100",
       "direction_id": "1",
       "headsign": "BLACHARSKA",
       "service_id": "8",
@@ -75324,7 +75324,7 @@
       ]
     },
     {
-      "trip_id": "8_17616088",
+      "trip_id": "8_17720101",
       "direction_id": "0",
       "headsign": "PILCZYCE",
       "service_id": "8",
@@ -75611,7 +75611,7 @@
       ]
     },
     {
-      "trip_id": "8_17616089",
+      "trip_id": "8_17720102",
       "direction_id": "1",
       "headsign": "BLACHARSKA",
       "service_id": "8",
@@ -75898,7 +75898,7 @@
       ]
     },
     {
-      "trip_id": "8_17616090",
+      "trip_id": "8_17720103",
       "direction_id": "0",
       "headsign": "Kosmonautów (Pętla)",
       "service_id": "8",
@@ -76257,7 +76257,7 @@
       ]
     },
     {
-      "trip_id": "8_17616091",
+      "trip_id": "8_17720104",
       "direction_id": "1",
       "headsign": "BLACHARSKA",
       "service_id": "8",
@@ -76625,7 +76625,7 @@
       ]
     },
     {
-      "trip_id": "8_17616092",
+      "trip_id": "8_17720105",
       "direction_id": "0",
       "headsign": "PILCZYCE",
       "service_id": "8",
@@ -76912,7 +76912,7 @@
       ]
     },
     {
-      "trip_id": "8_17616093",
+      "trip_id": "8_17720106",
       "direction_id": "1",
       "headsign": "BLACHARSKA",
       "service_id": "8",
@@ -77199,7 +77199,7 @@
       ]
     },
     {
-      "trip_id": "8_17616094",
+      "trip_id": "8_17720107",
       "direction_id": "0",
       "headsign": "Kosmonautów (Pętla)",
       "service_id": "8",
@@ -77558,7 +77558,7 @@
       ]
     },
     {
-      "trip_id": "8_17616095",
+      "trip_id": "8_17720108",
       "direction_id": "1",
       "headsign": "BLACHARSKA",
       "service_id": "8",
@@ -77926,7 +77926,7 @@
       ]
     },
     {
-      "trip_id": "8_17616096",
+      "trip_id": "8_17720109",
       "direction_id": "0",
       "headsign": "PILCZYCE",
       "service_id": "8",
@@ -78213,7 +78213,7 @@
       ]
     },
     {
-      "trip_id": "8_17616097",
+      "trip_id": "8_17720110",
       "direction_id": "1",
       "headsign": "BLACHARSKA",
       "service_id": "8",
@@ -78500,7 +78500,7 @@
       ]
     },
     {
-      "trip_id": "8_17616098",
+      "trip_id": "8_17720111",
       "direction_id": "0",
       "headsign": "Kosmonautów (Pętla)",
       "service_id": "8",
@@ -78859,7 +78859,7 @@
       ]
     },
     {
-      "trip_id": "8_17616099",
+      "trip_id": "8_17720112",
       "direction_id": "1",
       "headsign": "BLACHARSKA",
       "service_id": "8",
@@ -79227,7 +79227,7 @@
       ]
     },
     {
-      "trip_id": "8_17616100",
+      "trip_id": "8_17720113",
       "direction_id": "0",
       "headsign": "PILCZYCE",
       "service_id": "8",
@@ -79514,7 +79514,7 @@
       ]
     },
     {
-      "trip_id": "8_17616101",
+      "trip_id": "8_17720114",
       "direction_id": "1",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "8",
@@ -79639,7 +79639,7 @@
       ]
     },
     {
-      "trip_id": "8_17616102",
+      "trip_id": "8_17720115",
       "direction_id": "1",
       "headsign": "BLACHARSKA",
       "service_id": "8",
@@ -79872,7 +79872,7 @@
       ]
     },
     {
-      "trip_id": "8_17616103",
+      "trip_id": "8_17720116",
       "direction_id": "0",
       "headsign": "Kosmonautów (Pętla)",
       "service_id": "8",
@@ -80231,7 +80231,7 @@
       ]
     },
     {
-      "trip_id": "8_17616104",
+      "trip_id": "8_17720117",
       "direction_id": "1",
       "headsign": "BLACHARSKA",
       "service_id": "8",
@@ -80599,7 +80599,7 @@
       ]
     },
     {
-      "trip_id": "8_17616105",
+      "trip_id": "8_17720118",
       "direction_id": "0",
       "headsign": "PILCZYCE",
       "service_id": "8",
@@ -80886,7 +80886,7 @@
       ]
     },
     {
-      "trip_id": "8_17616106",
+      "trip_id": "8_17720119",
       "direction_id": "1",
       "headsign": "BLACHARSKA",
       "service_id": "8",
@@ -81173,7 +81173,7 @@
       ]
     },
     {
-      "trip_id": "8_17616107",
+      "trip_id": "8_17720120",
       "direction_id": "0",
       "headsign": "Kosmonautów (Pętla)",
       "service_id": "8",
@@ -81532,7 +81532,7 @@
       ]
     },
     {
-      "trip_id": "8_17616108",
+      "trip_id": "8_17720121",
       "direction_id": "1",
       "headsign": "BLACHARSKA",
       "service_id": "8",
@@ -81900,7 +81900,7 @@
       ]
     },
     {
-      "trip_id": "8_17616109",
+      "trip_id": "8_17720122",
       "direction_id": "0",
       "headsign": "PILCZYCE",
       "service_id": "8",
@@ -82187,7 +82187,7 @@
       ]
     },
     {
-      "trip_id": "8_17616110",
+      "trip_id": "8_17720123",
       "direction_id": "1",
       "headsign": "BLACHARSKA",
       "service_id": "8",
@@ -82474,7 +82474,7 @@
       ]
     },
     {
-      "trip_id": "8_17616111",
+      "trip_id": "8_17720124",
       "direction_id": "0",
       "headsign": "Kosmonautów (Pętla)",
       "service_id": "8",
@@ -82833,7 +82833,7 @@
       ]
     },
     {
-      "trip_id": "8_17616112",
+      "trip_id": "8_17720125",
       "direction_id": "1",
       "headsign": "BLACHARSKA",
       "service_id": "8",
@@ -83201,7 +83201,7 @@
       ]
     },
     {
-      "trip_id": "8_17616113",
+      "trip_id": "8_17720126",
       "direction_id": "0",
       "headsign": "PILCZYCE",
       "service_id": "8",
@@ -83488,7 +83488,7 @@
       ]
     },
     {
-      "trip_id": "8_17616114",
+      "trip_id": "8_17720127",
       "direction_id": "1",
       "headsign": "BLACHARSKA",
       "service_id": "8",
@@ -83775,7 +83775,7 @@
       ]
     },
     {
-      "trip_id": "8_17616115",
+      "trip_id": "8_17720128",
       "direction_id": "0",
       "headsign": "Kosmonautów (Pętla)",
       "service_id": "8",
@@ -84134,7 +84134,7 @@
       ]
     },
     {
-      "trip_id": "8_17616116",
+      "trip_id": "8_17720129",
       "direction_id": "1",
       "headsign": "BLACHARSKA",
       "service_id": "8",
@@ -84502,7 +84502,7 @@
       ]
     },
     {
-      "trip_id": "8_17616117",
+      "trip_id": "8_17720130",
       "direction_id": "0",
       "headsign": "PILCZYCE",
       "service_id": "8",
@@ -84789,7 +84789,7 @@
       ]
     },
     {
-      "trip_id": "8_17616118",
+      "trip_id": "8_17720131",
       "direction_id": "1",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "8",
@@ -84914,7 +84914,7 @@
       ]
     },
     {
-      "trip_id": "8_17616119",
+      "trip_id": "8_17720132",
       "direction_id": "1",
       "headsign": "BLACHARSKA",
       "service_id": "8",
@@ -85147,7 +85147,7 @@
       ]
     },
     {
-      "trip_id": "8_17616120",
+      "trip_id": "8_17720133",
       "direction_id": "0",
       "headsign": "PILCZYCE",
       "service_id": "8",
@@ -85434,7 +85434,7 @@
       ]
     },
     {
-      "trip_id": "8_17616121",
+      "trip_id": "8_17720134",
       "direction_id": "1",
       "headsign": "BLACHARSKA",
       "service_id": "8",
@@ -85721,7 +85721,7 @@
       ]
     },
     {
-      "trip_id": "8_17616122",
+      "trip_id": "8_17720135",
       "direction_id": "0",
       "headsign": "Kosmonautów (Pętla)",
       "service_id": "8",
@@ -86080,7 +86080,7 @@
       ]
     },
     {
-      "trip_id": "8_17616123",
+      "trip_id": "8_17720136",
       "direction_id": "1",
       "headsign": "BLACHARSKA",
       "service_id": "8",
@@ -86448,7 +86448,7 @@
       ]
     },
     {
-      "trip_id": "8_17616124",
+      "trip_id": "8_17720137",
       "direction_id": "0",
       "headsign": "PILCZYCE",
       "service_id": "8",
@@ -86735,7 +86735,7 @@
       ]
     },
     {
-      "trip_id": "8_17616125",
+      "trip_id": "8_17720138",
       "direction_id": "1",
       "headsign": "BLACHARSKA",
       "service_id": "8",
@@ -87022,7 +87022,7 @@
       ]
     },
     {
-      "trip_id": "8_17616126",
+      "trip_id": "8_17720139",
       "direction_id": "0",
       "headsign": "Kosmonautów (Pętla)",
       "service_id": "8",
@@ -87381,7 +87381,7 @@
       ]
     },
     {
-      "trip_id": "8_17616127",
+      "trip_id": "8_17720140",
       "direction_id": "1",
       "headsign": "BLACHARSKA",
       "service_id": "8",
@@ -87749,7 +87749,7 @@
       ]
     },
     {
-      "trip_id": "8_17616128",
+      "trip_id": "8_17720141",
       "direction_id": "0",
       "headsign": "PILCZYCE",
       "service_id": "8",
@@ -88036,7 +88036,7 @@
       ]
     },
     {
-      "trip_id": "8_17616129",
+      "trip_id": "8_17720142",
       "direction_id": "1",
       "headsign": "BLACHARSKA",
       "service_id": "8",
@@ -88323,7 +88323,7 @@
       ]
     },
     {
-      "trip_id": "8_17616130",
+      "trip_id": "8_17720143",
       "direction_id": "0",
       "headsign": "Kosmonautów (Pętla)",
       "service_id": "8",
@@ -88682,7 +88682,7 @@
       ]
     },
     {
-      "trip_id": "8_17616131",
+      "trip_id": "8_17720144",
       "direction_id": "1",
       "headsign": "BLACHARSKA",
       "service_id": "8",
@@ -89050,7 +89050,7 @@
       ]
     },
     {
-      "trip_id": "8_17616132",
+      "trip_id": "8_17720145",
       "direction_id": "0",
       "headsign": "PILCZYCE",
       "service_id": "8",
@@ -89337,7 +89337,7 @@
       ]
     },
     {
-      "trip_id": "8_17616133",
+      "trip_id": "8_17720146",
       "direction_id": "1",
       "headsign": "BLACHARSKA",
       "service_id": "8",
@@ -89624,7 +89624,7 @@
       ]
     },
     {
-      "trip_id": "8_17616134",
+      "trip_id": "8_17720147",
       "direction_id": "0",
       "headsign": "Kosmonautów (Pętla)",
       "service_id": "8",
@@ -89983,7 +89983,7 @@
       ]
     },
     {
-      "trip_id": "8_17616135",
+      "trip_id": "8_17720148",
       "direction_id": "1",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "8",
@@ -90189,7 +90189,7 @@
       ]
     },
     {
-      "trip_id": "8_17616136",
+      "trip_id": "8_17720149",
       "direction_id": "0",
       "headsign": "PILCZYCE",
       "service_id": "8",
@@ -90314,7 +90314,7 @@
       ]
     },
     {
-      "trip_id": "8_17616137",
+      "trip_id": "8_17720150",
       "direction_id": "1",
       "headsign": "BLACHARSKA",
       "service_id": "8",
@@ -90601,7 +90601,7 @@
       ]
     },
     {
-      "trip_id": "8_17616138",
+      "trip_id": "8_17720151",
       "direction_id": "0",
       "headsign": "Kosmonautów (Pętla)",
       "service_id": "8",
@@ -90960,7 +90960,7 @@
       ]
     },
     {
-      "trip_id": "8_17616139",
+      "trip_id": "8_17720152",
       "direction_id": "1",
       "headsign": "BLACHARSKA",
       "service_id": "8",
@@ -91328,7 +91328,7 @@
       ]
     },
     {
-      "trip_id": "8_17616140",
+      "trip_id": "8_17720153",
       "direction_id": "0",
       "headsign": "PILCZYCE",
       "service_id": "8",
@@ -91615,7 +91615,7 @@
       ]
     },
     {
-      "trip_id": "8_17616141",
+      "trip_id": "8_17720154",
       "direction_id": "1",
       "headsign": "BLACHARSKA",
       "service_id": "8",
@@ -91902,7 +91902,7 @@
       ]
     },
     {
-      "trip_id": "8_17616142",
+      "trip_id": "8_17720155",
       "direction_id": "0",
       "headsign": "Kosmonautów (Pętla)",
       "service_id": "8",
@@ -92261,7 +92261,7 @@
       ]
     },
     {
-      "trip_id": "8_17616143",
+      "trip_id": "8_17720156",
       "direction_id": "1",
       "headsign": "BLACHARSKA",
       "service_id": "8",
@@ -92629,7 +92629,7 @@
       ]
     },
     {
-      "trip_id": "8_17616144",
+      "trip_id": "8_17720157",
       "direction_id": "0",
       "headsign": "PILCZYCE",
       "service_id": "8",
@@ -92916,7 +92916,7 @@
       ]
     },
     {
-      "trip_id": "8_17616145",
+      "trip_id": "8_17720158",
       "direction_id": "1",
       "headsign": "BLACHARSKA",
       "service_id": "8",
@@ -93203,7 +93203,7 @@
       ]
     },
     {
-      "trip_id": "8_17616146",
+      "trip_id": "8_17720159",
       "direction_id": "0",
       "headsign": "Kosmonautów (Pętla)",
       "service_id": "8",
@@ -93562,7 +93562,7 @@
       ]
     },
     {
-      "trip_id": "8_17616147",
+      "trip_id": "8_17720160",
       "direction_id": "1",
       "headsign": "BLACHARSKA",
       "service_id": "8",
@@ -93930,7 +93930,7 @@
       ]
     },
     {
-      "trip_id": "8_17616148",
+      "trip_id": "8_17720161",
       "direction_id": "0",
       "headsign": "PILCZYCE",
       "service_id": "8",
@@ -94217,7 +94217,7 @@
       ]
     },
     {
-      "trip_id": "8_17616149",
+      "trip_id": "8_17720162",
       "direction_id": "1",
       "headsign": "BLACHARSKA",
       "service_id": "8",
@@ -94504,7 +94504,7 @@
       ]
     },
     {
-      "trip_id": "8_17616150",
+      "trip_id": "8_17720163",
       "direction_id": "0",
       "headsign": "Kosmonautów (Pętla)",
       "service_id": "8",
@@ -94863,7 +94863,7 @@
       ]
     },
     {
-      "trip_id": "8_17616151",
+      "trip_id": "8_17720164",
       "direction_id": "1",
       "headsign": "BLACHARSKA",
       "service_id": "8",
@@ -95231,7 +95231,7 @@
       ]
     },
     {
-      "trip_id": "8_17616152",
+      "trip_id": "8_17720165",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "8",

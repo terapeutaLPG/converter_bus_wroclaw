@@ -2,7 +2,7 @@
   "line": "136",
   "trips": [
     {
-      "trip_id": "3_17597843",
+      "trip_id": "3_17701856",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "3",
@@ -73,7 +73,7 @@
       ]
     },
     {
-      "trip_id": "3_17597844",
+      "trip_id": "3_17701857",
       "direction_id": "1",
       "headsign": "TARNOGAJ",
       "service_id": "3",
@@ -369,7 +369,7 @@
       ]
     },
     {
-      "trip_id": "3_17597845",
+      "trip_id": "3_17701858",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "3",
@@ -665,7 +665,7 @@
       ]
     },
     {
-      "trip_id": "3_17597846",
+      "trip_id": "3_17701859",
       "direction_id": "1",
       "headsign": "TARNOGAJ",
       "service_id": "3",
@@ -961,7 +961,7 @@
       ]
     },
     {
-      "trip_id": "3_17597847",
+      "trip_id": "3_17701860",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "3",
@@ -1257,7 +1257,7 @@
       ]
     },
     {
-      "trip_id": "3_17597848",
+      "trip_id": "3_17701861",
       "direction_id": "1",
       "headsign": "TARNOGAJ",
       "service_id": "3",
@@ -1553,7 +1553,7 @@
       ]
     },
     {
-      "trip_id": "3_17597849",
+      "trip_id": "3_17701862",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "3",
@@ -1849,7 +1849,7 @@
       ]
     },
     {
-      "trip_id": "3_17597850",
+      "trip_id": "3_17701863",
       "direction_id": "1",
       "headsign": "TARNOGAJ",
       "service_id": "3",
@@ -2145,7 +2145,7 @@
       ]
     },
     {
-      "trip_id": "3_17597851",
+      "trip_id": "3_17701864",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "3",
@@ -2441,7 +2441,7 @@
       ]
     },
     {
-      "trip_id": "3_17597852",
+      "trip_id": "3_17701865",
       "direction_id": "1",
       "headsign": "TARNOGAJ",
       "service_id": "3",
@@ -2737,7 +2737,7 @@
       ]
     },
     {
-      "trip_id": "3_17597853",
+      "trip_id": "3_17701866",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "3",
@@ -3033,7 +3033,7 @@
       ]
     },
     {
-      "trip_id": "3_17597854",
+      "trip_id": "3_17701867",
       "direction_id": "1",
       "headsign": "TARNOGAJ",
       "service_id": "3",
@@ -3329,7 +3329,7 @@
       ]
     },
     {
-      "trip_id": "3_17597855",
+      "trip_id": "3_17701868",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "3",
@@ -3625,7 +3625,7 @@
       ]
     },
     {
-      "trip_id": "3_17597856",
+      "trip_id": "3_17701869",
       "direction_id": "1",
       "headsign": "TARNOGAJ",
       "service_id": "3",
@@ -3921,7 +3921,7 @@
       ]
     },
     {
-      "trip_id": "3_17597857",
+      "trip_id": "3_17701870",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "3",
@@ -4217,7 +4217,7 @@
       ]
     },
     {
-      "trip_id": "3_17597858",
+      "trip_id": "3_17701871",
       "direction_id": "1",
       "headsign": "TARNOGAJ",
       "service_id": "3",
@@ -4513,7 +4513,7 @@
       ]
     },
     {
-      "trip_id": "3_17597859",
+      "trip_id": "3_17701872",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "3",
@@ -4809,7 +4809,7 @@
       ]
     },
     {
-      "trip_id": "3_17597860",
+      "trip_id": "3_17701873",
       "direction_id": "1",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "3",
@@ -4907,7 +4907,7 @@
       ]
     },
     {
-      "trip_id": "3_17597861",
+      "trip_id": "3_17701874",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "3",
@@ -4978,7 +4978,7 @@
       ]
     },
     {
-      "trip_id": "3_17597862",
+      "trip_id": "3_17701875",
       "direction_id": "1",
       "headsign": "TARNOGAJ",
       "service_id": "3",
@@ -5274,7 +5274,7 @@
       ]
     },
     {
-      "trip_id": "3_17597863",
+      "trip_id": "3_17701876",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "3",
@@ -5570,7 +5570,7 @@
       ]
     },
     {
-      "trip_id": "3_17597864",
+      "trip_id": "3_17701877",
       "direction_id": "1",
       "headsign": "TARNOGAJ",
       "service_id": "3",
@@ -5866,7 +5866,7 @@
       ]
     },
     {
-      "trip_id": "3_17597865",
+      "trip_id": "3_17701878",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "3",
@@ -6162,7 +6162,7 @@
       ]
     },
     {
-      "trip_id": "3_17597866",
+      "trip_id": "3_17701879",
       "direction_id": "1",
       "headsign": "TARNOGAJ",
       "service_id": "3",
@@ -6458,7 +6458,7 @@
       ]
     },
     {
-      "trip_id": "3_17597867",
+      "trip_id": "3_17701880",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "3",
@@ -6754,7 +6754,7 @@
       ]
     },
     {
-      "trip_id": "3_17597868",
+      "trip_id": "3_17701881",
       "direction_id": "1",
       "headsign": "TARNOGAJ",
       "service_id": "3",
@@ -7050,7 +7050,7 @@
       ]
     },
     {
-      "trip_id": "3_17597869",
+      "trip_id": "3_17701882",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "3",
@@ -7346,7 +7346,7 @@
       ]
     },
     {
-      "trip_id": "3_17597870",
+      "trip_id": "3_17701883",
       "direction_id": "1",
       "headsign": "TARNOGAJ",
       "service_id": "3",
@@ -7642,7 +7642,7 @@
       ]
     },
     {
-      "trip_id": "3_17597871",
+      "trip_id": "3_17701884",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "3",
@@ -7938,7 +7938,7 @@
       ]
     },
     {
-      "trip_id": "3_17597872",
+      "trip_id": "3_17701885",
       "direction_id": "1",
       "headsign": "TARNOGAJ",
       "service_id": "3",
@@ -8234,7 +8234,7 @@
       ]
     },
     {
-      "trip_id": "3_17597873",
+      "trip_id": "3_17701886",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "3",
@@ -8530,7 +8530,7 @@
       ]
     },
     {
-      "trip_id": "3_17597874",
+      "trip_id": "3_17701887",
       "direction_id": "1",
       "headsign": "TARNOGAJ",
       "service_id": "3",
@@ -8826,7 +8826,7 @@
       ]
     },
     {
-      "trip_id": "3_17597875",
+      "trip_id": "3_17701888",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "3",
@@ -9122,7 +9122,7 @@
       ]
     },
     {
-      "trip_id": "3_17597876",
+      "trip_id": "3_17701889",
       "direction_id": "1",
       "headsign": "TARNOGAJ",
       "service_id": "3",
@@ -9418,7 +9418,7 @@
       ]
     },
     {
-      "trip_id": "3_17597877",
+      "trip_id": "3_17701890",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "3",
@@ -9714,7 +9714,7 @@
       ]
     },
     {
-      "trip_id": "3_17597878",
+      "trip_id": "3_17701891",
       "direction_id": "1",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "3",
@@ -9812,7 +9812,7 @@
       ]
     },
     {
-      "trip_id": "3_17597879",
+      "trip_id": "3_17701892",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "3",
@@ -9883,7 +9883,7 @@
       ]
     },
     {
-      "trip_id": "3_17597880",
+      "trip_id": "3_17701893",
       "direction_id": "1",
       "headsign": "TARNOGAJ",
       "service_id": "3",
@@ -10179,7 +10179,7 @@
       ]
     },
     {
-      "trip_id": "3_17597881",
+      "trip_id": "3_17701894",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "3",
@@ -10475,7 +10475,7 @@
       ]
     },
     {
-      "trip_id": "3_17597882",
+      "trip_id": "3_17701895",
       "direction_id": "1",
       "headsign": "TARNOGAJ",
       "service_id": "3",
@@ -10771,7 +10771,7 @@
       ]
     },
     {
-      "trip_id": "3_17597883",
+      "trip_id": "3_17701896",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "3",
@@ -11067,7 +11067,7 @@
       ]
     },
     {
-      "trip_id": "3_17597884",
+      "trip_id": "3_17701897",
       "direction_id": "1",
       "headsign": "TARNOGAJ",
       "service_id": "3",
@@ -11363,7 +11363,7 @@
       ]
     },
     {
-      "trip_id": "3_17597885",
+      "trip_id": "3_17701898",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "3",
@@ -11659,7 +11659,7 @@
       ]
     },
     {
-      "trip_id": "3_17597886",
+      "trip_id": "3_17701899",
       "direction_id": "1",
       "headsign": "TARNOGAJ",
       "service_id": "3",
@@ -11955,7 +11955,7 @@
       ]
     },
     {
-      "trip_id": "3_17597887",
+      "trip_id": "3_17701900",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "3",
@@ -12251,7 +12251,7 @@
       ]
     },
     {
-      "trip_id": "3_17597888",
+      "trip_id": "3_17701901",
       "direction_id": "1",
       "headsign": "TARNOGAJ",
       "service_id": "3",
@@ -12547,7 +12547,7 @@
       ]
     },
     {
-      "trip_id": "3_17597889",
+      "trip_id": "3_17701902",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "3",
@@ -12843,7 +12843,7 @@
       ]
     },
     {
-      "trip_id": "3_17597890",
+      "trip_id": "3_17701903",
       "direction_id": "1",
       "headsign": "TARNOGAJ",
       "service_id": "3",
@@ -13139,7 +13139,7 @@
       ]
     },
     {
-      "trip_id": "3_17597891",
+      "trip_id": "3_17701904",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "3",
@@ -13435,7 +13435,7 @@
       ]
     },
     {
-      "trip_id": "3_17597892",
+      "trip_id": "3_17701905",
       "direction_id": "1",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "3",
@@ -13533,7 +13533,7 @@
       ]
     },
     {
-      "trip_id": "3_17597893",
+      "trip_id": "3_17701906",
       "direction_id": "1",
       "headsign": "TARNOGAJ",
       "service_id": "3",
@@ -13640,7 +13640,7 @@
       ]
     },
     {
-      "trip_id": "3_17597894",
+      "trip_id": "3_17701907",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "3",
@@ -13936,7 +13936,7 @@
       ]
     },
     {
-      "trip_id": "3_17597895",
+      "trip_id": "3_17701908",
       "direction_id": "1",
       "headsign": "TARNOGAJ",
       "service_id": "3",
@@ -14232,7 +14232,7 @@
       ]
     },
     {
-      "trip_id": "3_17597896",
+      "trip_id": "3_17701909",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "3",
@@ -14528,7 +14528,7 @@
       ]
     },
     {
-      "trip_id": "3_17597897",
+      "trip_id": "3_17701910",
       "direction_id": "1",
       "headsign": "TARNOGAJ",
       "service_id": "3",
@@ -14824,7 +14824,7 @@
       ]
     },
     {
-      "trip_id": "3_17597898",
+      "trip_id": "3_17701911",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "3",
@@ -15120,7 +15120,7 @@
       ]
     },
     {
-      "trip_id": "3_17597899",
+      "trip_id": "3_17701912",
       "direction_id": "1",
       "headsign": "TARNOGAJ",
       "service_id": "3",
@@ -15416,7 +15416,7 @@
       ]
     },
     {
-      "trip_id": "3_17597900",
+      "trip_id": "3_17701913",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "3",
@@ -15712,7 +15712,7 @@
       ]
     },
     {
-      "trip_id": "3_17597901",
+      "trip_id": "3_17701914",
       "direction_id": "1",
       "headsign": "TARNOGAJ",
       "service_id": "3",
@@ -16008,7 +16008,7 @@
       ]
     },
     {
-      "trip_id": "3_17597902",
+      "trip_id": "3_17701915",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "3",
@@ -16304,7 +16304,7 @@
       ]
     },
     {
-      "trip_id": "3_17597903",
+      "trip_id": "3_17701916",
       "direction_id": "1",
       "headsign": "TARNOGAJ",
       "service_id": "3",
@@ -16600,7 +16600,7 @@
       ]
     },
     {
-      "trip_id": "3_17597904",
+      "trip_id": "3_17701917",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "3",
@@ -16896,7 +16896,7 @@
       ]
     },
     {
-      "trip_id": "3_17597905",
+      "trip_id": "3_17701918",
       "direction_id": "1",
       "headsign": "TARNOGAJ",
       "service_id": "3",
@@ -17192,7 +17192,7 @@
       ]
     },
     {
-      "trip_id": "3_17597906",
+      "trip_id": "3_17701919",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "3",
@@ -17488,7 +17488,7 @@
       ]
     },
     {
-      "trip_id": "3_17597907",
+      "trip_id": "3_17701920",
       "direction_id": "1",
       "headsign": "TARNOGAJ",
       "service_id": "3",
@@ -17784,7 +17784,7 @@
       ]
     },
     {
-      "trip_id": "3_17597908",
+      "trip_id": "3_17701921",
       "direction_id": "0",
       "headsign": "Zajezdnia TYSKA",
       "service_id": "3",
@@ -17882,7 +17882,7 @@
       ]
     },
     {
-      "trip_id": "3_17597909",
+      "trip_id": "3_17701922",
       "direction_id": "1",
       "headsign": "TARNOGAJ",
       "service_id": "3",
@@ -17989,7 +17989,7 @@
       ]
     },
     {
-      "trip_id": "3_17597910",
+      "trip_id": "3_17701923",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "3",
@@ -18285,7 +18285,7 @@
       ]
     },
     {
-      "trip_id": "3_17597911",
+      "trip_id": "3_17701924",
       "direction_id": "1",
       "headsign": "TARNOGAJ",
       "service_id": "3",
@@ -18581,7 +18581,7 @@
       ]
     },
     {
-      "trip_id": "3_17597912",
+      "trip_id": "3_17701925",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "3",
@@ -18877,7 +18877,7 @@
       ]
     },
     {
-      "trip_id": "3_17597913",
+      "trip_id": "3_17701926",
       "direction_id": "1",
       "headsign": "TARNOGAJ",
       "service_id": "3",
@@ -19173,7 +19173,7 @@
       ]
     },
     {
-      "trip_id": "3_17597914",
+      "trip_id": "3_17701927",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "3",
@@ -19469,7 +19469,7 @@
       ]
     },
     {
-      "trip_id": "3_17597915",
+      "trip_id": "3_17701928",
       "direction_id": "1",
       "headsign": "TARNOGAJ",
       "service_id": "3",
@@ -19765,7 +19765,7 @@
       ]
     },
     {
-      "trip_id": "3_17597916",
+      "trip_id": "3_17701929",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "3",
@@ -20061,7 +20061,7 @@
       ]
     },
     {
-      "trip_id": "3_17597917",
+      "trip_id": "3_17701930",
       "direction_id": "1",
       "headsign": "TARNOGAJ",
       "service_id": "3",
@@ -20357,7 +20357,7 @@
       ]
     },
     {
-      "trip_id": "3_17597918",
+      "trip_id": "3_17701931",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "3",
@@ -20653,7 +20653,7 @@
       ]
     },
     {
-      "trip_id": "3_17597919",
+      "trip_id": "3_17701932",
       "direction_id": "1",
       "headsign": "TARNOGAJ",
       "service_id": "3",
@@ -20949,7 +20949,7 @@
       ]
     },
     {
-      "trip_id": "3_17597920",
+      "trip_id": "3_17701933",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "3",
@@ -21245,7 +21245,7 @@
       ]
     },
     {
-      "trip_id": "3_17597921",
+      "trip_id": "3_17701934",
       "direction_id": "1",
       "headsign": "TARNOGAJ",
       "service_id": "3",
@@ -21541,7 +21541,7 @@
       ]
     },
     {
-      "trip_id": "3_17597922",
+      "trip_id": "3_17701935",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "3",
@@ -21837,7 +21837,7 @@
       ]
     },
     {
-      "trip_id": "3_17597923",
+      "trip_id": "3_17701936",
       "direction_id": "1",
       "headsign": "TARNOGAJ",
       "service_id": "3",
@@ -22133,7 +22133,7 @@
       ]
     },
     {
-      "trip_id": "3_17597924",
+      "trip_id": "3_17701937",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "3",
@@ -22429,7 +22429,7 @@
       ]
     },
     {
-      "trip_id": "3_17597925",
+      "trip_id": "3_17701938",
       "direction_id": "1",
       "headsign": "TARNOGAJ",
       "service_id": "3",
@@ -22725,7 +22725,7 @@
       ]
     },
     {
-      "trip_id": "3_17597926",
+      "trip_id": "3_17701939",
       "direction_id": "0",
       "headsign": "Zajezdnia TYSKA",
       "service_id": "3",
@@ -22823,7 +22823,7 @@
       ]
     },
     {
-      "trip_id": "3_17598886",
+      "trip_id": "3_17702899",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "3",
@@ -22894,7 +22894,7 @@
       ]
     },
     {
-      "trip_id": "3_17598887",
+      "trip_id": "3_17702900",
       "direction_id": "1",
       "headsign": "TARNOGAJ",
       "service_id": "3",
@@ -23190,7 +23190,7 @@
       ]
     },
     {
-      "trip_id": "4_17602283",
+      "trip_id": "4_17706296",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "4",
@@ -23261,7 +23261,7 @@
       ]
     },
     {
-      "trip_id": "4_17602284",
+      "trip_id": "4_17706297",
       "direction_id": "1",
       "headsign": "TARNOGAJ",
       "service_id": "4",
@@ -23557,7 +23557,7 @@
       ]
     },
     {
-      "trip_id": "4_17602285",
+      "trip_id": "4_17706298",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "4",
@@ -23853,7 +23853,7 @@
       ]
     },
     {
-      "trip_id": "4_17602286",
+      "trip_id": "4_17706299",
       "direction_id": "1",
       "headsign": "TARNOGAJ",
       "service_id": "4",
@@ -24149,7 +24149,7 @@
       ]
     },
     {
-      "trip_id": "4_17602287",
+      "trip_id": "4_17706300",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "4",
@@ -24445,7 +24445,7 @@
       ]
     },
     {
-      "trip_id": "4_17602288",
+      "trip_id": "4_17706301",
       "direction_id": "1",
       "headsign": "TARNOGAJ",
       "service_id": "4",
@@ -24741,7 +24741,7 @@
       ]
     },
     {
-      "trip_id": "4_17602289",
+      "trip_id": "4_17706302",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "4",
@@ -25037,7 +25037,7 @@
       ]
     },
     {
-      "trip_id": "4_17602290",
+      "trip_id": "4_17706303",
       "direction_id": "1",
       "headsign": "TARNOGAJ",
       "service_id": "4",
@@ -25333,7 +25333,7 @@
       ]
     },
     {
-      "trip_id": "4_17602291",
+      "trip_id": "4_17706304",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "4",
@@ -25629,7 +25629,7 @@
       ]
     },
     {
-      "trip_id": "4_17602292",
+      "trip_id": "4_17706305",
       "direction_id": "1",
       "headsign": "TARNOGAJ",
       "service_id": "4",
@@ -25925,7 +25925,7 @@
       ]
     },
     {
-      "trip_id": "4_17602293",
+      "trip_id": "4_17706306",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "4",
@@ -26221,7 +26221,7 @@
       ]
     },
     {
-      "trip_id": "4_17602294",
+      "trip_id": "4_17706307",
       "direction_id": "1",
       "headsign": "TARNOGAJ",
       "service_id": "4",
@@ -26517,7 +26517,7 @@
       ]
     },
     {
-      "trip_id": "4_17602295",
+      "trip_id": "4_17706308",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "4",
@@ -26813,7 +26813,7 @@
       ]
     },
     {
-      "trip_id": "4_17602296",
+      "trip_id": "4_17706309",
       "direction_id": "1",
       "headsign": "TARNOGAJ",
       "service_id": "4",
@@ -27109,7 +27109,7 @@
       ]
     },
     {
-      "trip_id": "4_17602297",
+      "trip_id": "4_17706310",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "4",
@@ -27405,7 +27405,7 @@
       ]
     },
     {
-      "trip_id": "4_17602298",
+      "trip_id": "4_17706311",
       "direction_id": "1",
       "headsign": "TARNOGAJ",
       "service_id": "4",
@@ -27701,7 +27701,7 @@
       ]
     },
     {
-      "trip_id": "4_17602299",
+      "trip_id": "4_17706312",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "4",
@@ -27997,7 +27997,7 @@
       ]
     },
     {
-      "trip_id": "4_17602300",
+      "trip_id": "4_17706313",
       "direction_id": "1",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "4",
@@ -28095,7 +28095,7 @@
       ]
     },
     {
-      "trip_id": "4_17602301",
+      "trip_id": "4_17706314",
       "direction_id": "1",
       "headsign": "TARNOGAJ",
       "service_id": "4",
@@ -28337,7 +28337,7 @@
       ]
     },
     {
-      "trip_id": "4_17602302",
+      "trip_id": "4_17706315",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "4",
@@ -28633,7 +28633,7 @@
       ]
     },
     {
-      "trip_id": "4_17602303",
+      "trip_id": "4_17706316",
       "direction_id": "1",
       "headsign": "TARNOGAJ",
       "service_id": "4",
@@ -28929,7 +28929,7 @@
       ]
     },
     {
-      "trip_id": "4_17602304",
+      "trip_id": "4_17706317",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "4",
@@ -29225,7 +29225,7 @@
       ]
     },
     {
-      "trip_id": "4_17602305",
+      "trip_id": "4_17706318",
       "direction_id": "1",
       "headsign": "TARNOGAJ",
       "service_id": "4",
@@ -29521,7 +29521,7 @@
       ]
     },
     {
-      "trip_id": "4_17602306",
+      "trip_id": "4_17706319",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "4",
@@ -29817,7 +29817,7 @@
       ]
     },
     {
-      "trip_id": "4_17602307",
+      "trip_id": "4_17706320",
       "direction_id": "1",
       "headsign": "TARNOGAJ",
       "service_id": "4",
@@ -30113,7 +30113,7 @@
       ]
     },
     {
-      "trip_id": "4_17602308",
+      "trip_id": "4_17706321",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "4",
@@ -30409,7 +30409,7 @@
       ]
     },
     {
-      "trip_id": "4_17602309",
+      "trip_id": "4_17706322",
       "direction_id": "1",
       "headsign": "TARNOGAJ",
       "service_id": "4",
@@ -30705,7 +30705,7 @@
       ]
     },
     {
-      "trip_id": "4_17602310",
+      "trip_id": "4_17706323",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "4",
@@ -31001,7 +31001,7 @@
       ]
     },
     {
-      "trip_id": "4_17602311",
+      "trip_id": "4_17706324",
       "direction_id": "1",
       "headsign": "TARNOGAJ",
       "service_id": "4",
@@ -31297,7 +31297,7 @@
       ]
     },
     {
-      "trip_id": "4_17602312",
+      "trip_id": "4_17706325",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "4",
@@ -31593,7 +31593,7 @@
       ]
     },
     {
-      "trip_id": "4_17602313",
+      "trip_id": "4_17706326",
       "direction_id": "1",
       "headsign": "TARNOGAJ",
       "service_id": "4",
@@ -31889,7 +31889,7 @@
       ]
     },
     {
-      "trip_id": "4_17602314",
+      "trip_id": "4_17706327",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "4",
@@ -32185,7 +32185,7 @@
       ]
     },
     {
-      "trip_id": "4_17602315",
+      "trip_id": "4_17706328",
       "direction_id": "1",
       "headsign": "TARNOGAJ",
       "service_id": "4",
@@ -32481,7 +32481,7 @@
       ]
     },
     {
-      "trip_id": "4_17602316",
+      "trip_id": "4_17706329",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "4",
@@ -32777,7 +32777,7 @@
       ]
     },
     {
-      "trip_id": "4_17602317",
+      "trip_id": "4_17706330",
       "direction_id": "1",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "4",
@@ -32875,7 +32875,7 @@
       ]
     },
     {
-      "trip_id": "4_17602318",
+      "trip_id": "4_17706331",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "4",
@@ -32946,7 +32946,7 @@
       ]
     },
     {
-      "trip_id": "4_17602319",
+      "trip_id": "4_17706332",
       "direction_id": "1",
       "headsign": "TARNOGAJ",
       "service_id": "4",
@@ -33242,7 +33242,7 @@
       ]
     },
     {
-      "trip_id": "4_17602320",
+      "trip_id": "4_17706333",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "4",
@@ -33538,7 +33538,7 @@
       ]
     },
     {
-      "trip_id": "4_17602321",
+      "trip_id": "4_17706334",
       "direction_id": "1",
       "headsign": "TARNOGAJ",
       "service_id": "4",
@@ -33834,7 +33834,7 @@
       ]
     },
     {
-      "trip_id": "4_17602322",
+      "trip_id": "4_17706335",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "4",
@@ -34130,7 +34130,7 @@
       ]
     },
     {
-      "trip_id": "4_17602323",
+      "trip_id": "4_17706336",
       "direction_id": "1",
       "headsign": "TARNOGAJ",
       "service_id": "4",
@@ -34426,7 +34426,7 @@
       ]
     },
     {
-      "trip_id": "4_17602324",
+      "trip_id": "4_17706337",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "4",
@@ -34722,7 +34722,7 @@
       ]
     },
     {
-      "trip_id": "4_17602325",
+      "trip_id": "4_17706338",
       "direction_id": "1",
       "headsign": "TARNOGAJ",
       "service_id": "4",
@@ -35018,7 +35018,7 @@
       ]
     },
     {
-      "trip_id": "4_17602326",
+      "trip_id": "4_17706339",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "4",
@@ -35314,7 +35314,7 @@
       ]
     },
     {
-      "trip_id": "4_17602327",
+      "trip_id": "4_17706340",
       "direction_id": "1",
       "headsign": "TARNOGAJ",
       "service_id": "4",
@@ -35610,7 +35610,7 @@
       ]
     },
     {
-      "trip_id": "4_17602328",
+      "trip_id": "4_17706341",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "4",
@@ -35906,7 +35906,7 @@
       ]
     },
     {
-      "trip_id": "4_17602329",
+      "trip_id": "4_17706342",
       "direction_id": "1",
       "headsign": "TARNOGAJ",
       "service_id": "4",
@@ -36202,7 +36202,7 @@
       ]
     },
     {
-      "trip_id": "4_17602330",
+      "trip_id": "4_17706343",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "4",
@@ -36498,7 +36498,7 @@
       ]
     },
     {
-      "trip_id": "4_17602331",
+      "trip_id": "4_17706344",
       "direction_id": "1",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "4",
@@ -36596,7 +36596,7 @@
       ]
     },
     {
-      "trip_id": "4_17602332",
+      "trip_id": "4_17706345",
       "direction_id": "1",
       "headsign": "TARNOGAJ",
       "service_id": "4",
@@ -36703,7 +36703,7 @@
       ]
     },
     {
-      "trip_id": "4_17602333",
+      "trip_id": "4_17706346",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "4",
@@ -36999,7 +36999,7 @@
       ]
     },
     {
-      "trip_id": "4_17602334",
+      "trip_id": "4_17706347",
       "direction_id": "1",
       "headsign": "TARNOGAJ",
       "service_id": "4",
@@ -37295,7 +37295,7 @@
       ]
     },
     {
-      "trip_id": "4_17602335",
+      "trip_id": "4_17706348",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "4",
@@ -37591,7 +37591,7 @@
       ]
     },
     {
-      "trip_id": "4_17602336",
+      "trip_id": "4_17706349",
       "direction_id": "1",
       "headsign": "TARNOGAJ",
       "service_id": "4",
@@ -37887,7 +37887,7 @@
       ]
     },
     {
-      "trip_id": "4_17602337",
+      "trip_id": "4_17706350",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "4",
@@ -38183,7 +38183,7 @@
       ]
     },
     {
-      "trip_id": "4_17602338",
+      "trip_id": "4_17706351",
       "direction_id": "1",
       "headsign": "TARNOGAJ",
       "service_id": "4",
@@ -38479,7 +38479,7 @@
       ]
     },
     {
-      "trip_id": "4_17602339",
+      "trip_id": "4_17706352",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "4",
@@ -38775,7 +38775,7 @@
       ]
     },
     {
-      "trip_id": "4_17602340",
+      "trip_id": "4_17706353",
       "direction_id": "1",
       "headsign": "TARNOGAJ",
       "service_id": "4",
@@ -39071,7 +39071,7 @@
       ]
     },
     {
-      "trip_id": "4_17602341",
+      "trip_id": "4_17706354",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "4",
@@ -39367,7 +39367,7 @@
       ]
     },
     {
-      "trip_id": "4_17602342",
+      "trip_id": "4_17706355",
       "direction_id": "1",
       "headsign": "TARNOGAJ",
       "service_id": "4",
@@ -39663,7 +39663,7 @@
       ]
     },
     {
-      "trip_id": "4_17602343",
+      "trip_id": "4_17706356",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "4",
@@ -39959,7 +39959,7 @@
       ]
     },
     {
-      "trip_id": "4_17602344",
+      "trip_id": "4_17706357",
       "direction_id": "1",
       "headsign": "TARNOGAJ",
       "service_id": "4",
@@ -40255,7 +40255,7 @@
       ]
     },
     {
-      "trip_id": "4_17602345",
+      "trip_id": "4_17706358",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "4",
@@ -40551,7 +40551,7 @@
       ]
     },
     {
-      "trip_id": "4_17602346",
+      "trip_id": "4_17706359",
       "direction_id": "1",
       "headsign": "TARNOGAJ",
       "service_id": "4",
@@ -40847,7 +40847,7 @@
       ]
     },
     {
-      "trip_id": "4_17602347",
+      "trip_id": "4_17706360",
       "direction_id": "0",
       "headsign": "Zajezdnia TYSKA",
       "service_id": "4",
@@ -40945,7 +40945,7 @@
       ]
     },
     {
-      "trip_id": "4_17602348",
+      "trip_id": "4_17706361",
       "direction_id": "1",
       "headsign": "TARNOGAJ",
       "service_id": "4",
@@ -41052,7 +41052,7 @@
       ]
     },
     {
-      "trip_id": "4_17602349",
+      "trip_id": "4_17706362",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "4",
@@ -41348,7 +41348,7 @@
       ]
     },
     {
-      "trip_id": "4_17602350",
+      "trip_id": "4_17706363",
       "direction_id": "1",
       "headsign": "TARNOGAJ",
       "service_id": "4",
@@ -41644,7 +41644,7 @@
       ]
     },
     {
-      "trip_id": "4_17602351",
+      "trip_id": "4_17706364",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "4",
@@ -41940,7 +41940,7 @@
       ]
     },
     {
-      "trip_id": "4_17602352",
+      "trip_id": "4_17706365",
       "direction_id": "1",
       "headsign": "TARNOGAJ",
       "service_id": "4",
@@ -42236,7 +42236,7 @@
       ]
     },
     {
-      "trip_id": "4_17602353",
+      "trip_id": "4_17706366",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "4",
@@ -42532,7 +42532,7 @@
       ]
     },
     {
-      "trip_id": "4_17602354",
+      "trip_id": "4_17706367",
       "direction_id": "1",
       "headsign": "TARNOGAJ",
       "service_id": "4",
@@ -42828,7 +42828,7 @@
       ]
     },
     {
-      "trip_id": "4_17602355",
+      "trip_id": "4_17706368",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "4",
@@ -43124,7 +43124,7 @@
       ]
     },
     {
-      "trip_id": "4_17602356",
+      "trip_id": "4_17706369",
       "direction_id": "1",
       "headsign": "TARNOGAJ",
       "service_id": "4",
@@ -43420,7 +43420,7 @@
       ]
     },
     {
-      "trip_id": "4_17602357",
+      "trip_id": "4_17706370",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "4",
@@ -43716,7 +43716,7 @@
       ]
     },
     {
-      "trip_id": "4_17602358",
+      "trip_id": "4_17706371",
       "direction_id": "1",
       "headsign": "TARNOGAJ",
       "service_id": "4",
@@ -44012,7 +44012,7 @@
       ]
     },
     {
-      "trip_id": "4_17602359",
+      "trip_id": "4_17706372",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "4",
@@ -44308,7 +44308,7 @@
       ]
     },
     {
-      "trip_id": "4_17602360",
+      "trip_id": "4_17706373",
       "direction_id": "1",
       "headsign": "TARNOGAJ",
       "service_id": "4",
@@ -44604,7 +44604,7 @@
       ]
     },
     {
-      "trip_id": "4_17602361",
+      "trip_id": "4_17706374",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "4",
@@ -44900,7 +44900,7 @@
       ]
     },
     {
-      "trip_id": "4_17602362",
+      "trip_id": "4_17706375",
       "direction_id": "1",
       "headsign": "TARNOGAJ",
       "service_id": "4",
@@ -45196,7 +45196,7 @@
       ]
     },
     {
-      "trip_id": "4_17602363",
+      "trip_id": "4_17706376",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "4",
@@ -45492,7 +45492,7 @@
       ]
     },
     {
-      "trip_id": "4_17602364",
+      "trip_id": "4_17706377",
       "direction_id": "1",
       "headsign": "TARNOGAJ",
       "service_id": "4",
@@ -45788,7 +45788,7 @@
       ]
     },
     {
-      "trip_id": "4_17602365",
+      "trip_id": "4_17706378",
       "direction_id": "0",
       "headsign": "Zajezdnia TYSKA",
       "service_id": "4",
@@ -45886,7 +45886,7 @@
       ]
     },
     {
-      "trip_id": "4_17603298",
+      "trip_id": "4_17707311",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "4",
@@ -45957,7 +45957,7 @@
       ]
     },
     {
-      "trip_id": "4_17603299",
+      "trip_id": "4_17707312",
       "direction_id": "1",
       "headsign": "TARNOGAJ",
       "service_id": "4",
@@ -46253,7 +46253,7 @@
       ]
     },
     {
-      "trip_id": "6_17607855",
+      "trip_id": "6_17711868",
       "direction_id": "1",
       "headsign": "TARNOGAJ",
       "service_id": "6",
@@ -46495,7 +46495,7 @@
       ]
     },
     {
-      "trip_id": "6_17607856",
+      "trip_id": "6_17711869",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "6",
@@ -46791,7 +46791,7 @@
       ]
     },
     {
-      "trip_id": "6_17607857",
+      "trip_id": "6_17711870",
       "direction_id": "1",
       "headsign": "TARNOGAJ",
       "service_id": "6",
@@ -47087,7 +47087,7 @@
       ]
     },
     {
-      "trip_id": "6_17607858",
+      "trip_id": "6_17711871",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "6",
@@ -47383,7 +47383,7 @@
       ]
     },
     {
-      "trip_id": "6_17607859",
+      "trip_id": "6_17711872",
       "direction_id": "1",
       "headsign": "TARNOGAJ",
       "service_id": "6",
@@ -47679,7 +47679,7 @@
       ]
     },
     {
-      "trip_id": "6_17607860",
+      "trip_id": "6_17711873",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "6",
@@ -47975,7 +47975,7 @@
       ]
     },
     {
-      "trip_id": "6_17607861",
+      "trip_id": "6_17711874",
       "direction_id": "1",
       "headsign": "TARNOGAJ",
       "service_id": "6",
@@ -48271,7 +48271,7 @@
       ]
     },
     {
-      "trip_id": "6_17607862",
+      "trip_id": "6_17711875",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "6",
@@ -48567,7 +48567,7 @@
       ]
     },
     {
-      "trip_id": "6_17607863",
+      "trip_id": "6_17711876",
       "direction_id": "1",
       "headsign": "TARNOGAJ",
       "service_id": "6",
@@ -48863,7 +48863,7 @@
       ]
     },
     {
-      "trip_id": "6_17607864",
+      "trip_id": "6_17711877",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "6",
@@ -49159,7 +49159,7 @@
       ]
     },
     {
-      "trip_id": "6_17607865",
+      "trip_id": "6_17711878",
       "direction_id": "1",
       "headsign": "TARNOGAJ",
       "service_id": "6",
@@ -49455,7 +49455,7 @@
       ]
     },
     {
-      "trip_id": "6_17607866",
+      "trip_id": "6_17711879",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "6",
@@ -49697,7 +49697,7 @@
       ]
     },
     {
-      "trip_id": "6_17607867",
+      "trip_id": "6_17711880",
       "direction_id": "1",
       "headsign": "TARNOGAJ",
       "service_id": "6",
@@ -49939,7 +49939,7 @@
       ]
     },
     {
-      "trip_id": "6_17607868",
+      "trip_id": "6_17711881",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "6",
@@ -50235,7 +50235,7 @@
       ]
     },
     {
-      "trip_id": "6_17607869",
+      "trip_id": "6_17711882",
       "direction_id": "1",
       "headsign": "TARNOGAJ",
       "service_id": "6",
@@ -50531,7 +50531,7 @@
       ]
     },
     {
-      "trip_id": "6_17607870",
+      "trip_id": "6_17711883",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "6",
@@ -50827,7 +50827,7 @@
       ]
     },
     {
-      "trip_id": "6_17607871",
+      "trip_id": "6_17711884",
       "direction_id": "1",
       "headsign": "TARNOGAJ",
       "service_id": "6",
@@ -51123,7 +51123,7 @@
       ]
     },
     {
-      "trip_id": "6_17607872",
+      "trip_id": "6_17711885",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "6",
@@ -51419,7 +51419,7 @@
       ]
     },
     {
-      "trip_id": "6_17607873",
+      "trip_id": "6_17711886",
       "direction_id": "1",
       "headsign": "TARNOGAJ",
       "service_id": "6",
@@ -51715,7 +51715,7 @@
       ]
     },
     {
-      "trip_id": "6_17607874",
+      "trip_id": "6_17711887",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "6",
@@ -52011,7 +52011,7 @@
       ]
     },
     {
-      "trip_id": "6_17607875",
+      "trip_id": "6_17711888",
       "direction_id": "1",
       "headsign": "TARNOGAJ",
       "service_id": "6",
@@ -52307,7 +52307,7 @@
       ]
     },
     {
-      "trip_id": "6_17607876",
+      "trip_id": "6_17711889",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "6",
@@ -52603,7 +52603,7 @@
       ]
     },
     {
-      "trip_id": "6_17607877",
+      "trip_id": "6_17711890",
       "direction_id": "1",
       "headsign": "TARNOGAJ",
       "service_id": "6",
@@ -52899,7 +52899,7 @@
       ]
     },
     {
-      "trip_id": "6_17607878",
+      "trip_id": "6_17711891",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "6",
@@ -53195,7 +53195,7 @@
       ]
     },
     {
-      "trip_id": "6_17607879",
+      "trip_id": "6_17711892",
       "direction_id": "1",
       "headsign": "TARNOGAJ",
       "service_id": "6",
@@ -53491,7 +53491,7 @@
       ]
     },
     {
-      "trip_id": "6_17607880",
+      "trip_id": "6_17711893",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "6",
@@ -53787,7 +53787,7 @@
       ]
     },
     {
-      "trip_id": "6_17607881",
+      "trip_id": "6_17711894",
       "direction_id": "1",
       "headsign": "TARNOGAJ",
       "service_id": "6",
@@ -54083,7 +54083,7 @@
       ]
     },
     {
-      "trip_id": "6_17607882",
+      "trip_id": "6_17711895",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "6",
@@ -54379,7 +54379,7 @@
       ]
     },
     {
-      "trip_id": "6_17607883",
+      "trip_id": "6_17711896",
       "direction_id": "1",
       "headsign": "TARNOGAJ",
       "service_id": "6",
@@ -54675,7 +54675,7 @@
       ]
     },
     {
-      "trip_id": "6_17607884",
+      "trip_id": "6_17711897",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "6",
@@ -54971,7 +54971,7 @@
       ]
     },
     {
-      "trip_id": "6_17607885",
+      "trip_id": "6_17711898",
       "direction_id": "1",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "6",
@@ -55069,7 +55069,7 @@
       ]
     },
     {
-      "trip_id": "6_17607886",
+      "trip_id": "6_17711899",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "6",
@@ -55140,7 +55140,7 @@
       ]
     },
     {
-      "trip_id": "6_17607887",
+      "trip_id": "6_17711900",
       "direction_id": "1",
       "headsign": "TARNOGAJ",
       "service_id": "6",
@@ -55436,7 +55436,7 @@
       ]
     },
     {
-      "trip_id": "6_17607888",
+      "trip_id": "6_17711901",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "6",
@@ -55732,7 +55732,7 @@
       ]
     },
     {
-      "trip_id": "6_17607889",
+      "trip_id": "6_17711902",
       "direction_id": "1",
       "headsign": "TARNOGAJ",
       "service_id": "6",
@@ -56028,7 +56028,7 @@
       ]
     },
     {
-      "trip_id": "6_17607890",
+      "trip_id": "6_17711903",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "6",
@@ -56324,7 +56324,7 @@
       ]
     },
     {
-      "trip_id": "6_17607891",
+      "trip_id": "6_17711904",
       "direction_id": "1",
       "headsign": "TARNOGAJ",
       "service_id": "6",
@@ -56620,7 +56620,7 @@
       ]
     },
     {
-      "trip_id": "6_17607892",
+      "trip_id": "6_17711905",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "6",
@@ -56916,7 +56916,7 @@
       ]
     },
     {
-      "trip_id": "6_17607893",
+      "trip_id": "6_17711906",
       "direction_id": "1",
       "headsign": "TARNOGAJ",
       "service_id": "6",
@@ -57212,7 +57212,7 @@
       ]
     },
     {
-      "trip_id": "6_17607894",
+      "trip_id": "6_17711907",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "6",
@@ -57508,7 +57508,7 @@
       ]
     },
     {
-      "trip_id": "6_17607895",
+      "trip_id": "6_17711908",
       "direction_id": "1",
       "headsign": "TARNOGAJ",
       "service_id": "6",
@@ -57804,7 +57804,7 @@
       ]
     },
     {
-      "trip_id": "6_17607896",
+      "trip_id": "6_17711909",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "6",
@@ -58100,7 +58100,7 @@
       ]
     },
     {
-      "trip_id": "6_17607897",
+      "trip_id": "6_17711910",
       "direction_id": "1",
       "headsign": "TARNOGAJ",
       "service_id": "6",
@@ -58396,7 +58396,7 @@
       ]
     },
     {
-      "trip_id": "6_17607898",
+      "trip_id": "6_17711911",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "6",
@@ -58638,7 +58638,7 @@
       ]
     },
     {
-      "trip_id": "6_17607899",
+      "trip_id": "6_17711912",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "6",
@@ -58709,7 +58709,7 @@
       ]
     },
     {
-      "trip_id": "6_17607900",
+      "trip_id": "6_17711913",
       "direction_id": "1",
       "headsign": "TARNOGAJ",
       "service_id": "6",
@@ -59005,7 +59005,7 @@
       ]
     },
     {
-      "trip_id": "6_17607901",
+      "trip_id": "6_17711914",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "6",
@@ -59301,7 +59301,7 @@
       ]
     },
     {
-      "trip_id": "6_17607902",
+      "trip_id": "6_17711915",
       "direction_id": "1",
       "headsign": "TARNOGAJ",
       "service_id": "6",
@@ -59597,7 +59597,7 @@
       ]
     },
     {
-      "trip_id": "6_17607903",
+      "trip_id": "6_17711916",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "6",
@@ -59893,7 +59893,7 @@
       ]
     },
     {
-      "trip_id": "6_17607904",
+      "trip_id": "6_17711917",
       "direction_id": "1",
       "headsign": "TARNOGAJ",
       "service_id": "6",
@@ -60189,7 +60189,7 @@
       ]
     },
     {
-      "trip_id": "6_17607905",
+      "trip_id": "6_17711918",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "6",
@@ -60485,7 +60485,7 @@
       ]
     },
     {
-      "trip_id": "6_17607906",
+      "trip_id": "6_17711919",
       "direction_id": "1",
       "headsign": "TARNOGAJ",
       "service_id": "6",
@@ -60781,7 +60781,7 @@
       ]
     },
     {
-      "trip_id": "6_17607907",
+      "trip_id": "6_17711920",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "6",
@@ -61077,7 +61077,7 @@
       ]
     },
     {
-      "trip_id": "6_17607908",
+      "trip_id": "6_17711921",
       "direction_id": "1",
       "headsign": "TARNOGAJ",
       "service_id": "6",
@@ -61373,7 +61373,7 @@
       ]
     },
     {
-      "trip_id": "6_17607909",
+      "trip_id": "6_17711922",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "6",
@@ -61669,7 +61669,7 @@
       ]
     },
     {
-      "trip_id": "6_17607910",
+      "trip_id": "6_17711923",
       "direction_id": "1",
       "headsign": "TARNOGAJ",
       "service_id": "6",
@@ -61965,7 +61965,7 @@
       ]
     },
     {
-      "trip_id": "6_17607911",
+      "trip_id": "6_17711924",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "6",
@@ -62261,7 +62261,7 @@
       ]
     },
     {
-      "trip_id": "6_17607912",
+      "trip_id": "6_17711925",
       "direction_id": "1",
       "headsign": "TARNOGAJ",
       "service_id": "6",
@@ -62557,7 +62557,7 @@
       ]
     },
     {
-      "trip_id": "6_17607913",
+      "trip_id": "6_17711926",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "6",
@@ -62853,7 +62853,7 @@
       ]
     },
     {
-      "trip_id": "6_17607914",
+      "trip_id": "6_17711927",
       "direction_id": "1",
       "headsign": "TARNOGAJ",
       "service_id": "6",
@@ -63149,7 +63149,7 @@
       ]
     },
     {
-      "trip_id": "6_17607915",
+      "trip_id": "6_17711928",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "6",
@@ -63445,7 +63445,7 @@
       ]
     },
     {
-      "trip_id": "6_17607916",
+      "trip_id": "6_17711929",
       "direction_id": "1",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "6",
@@ -63543,7 +63543,7 @@
       ]
     },
     {
-      "trip_id": "6_17607917",
+      "trip_id": "6_17711930",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "6",
@@ -63614,7 +63614,7 @@
       ]
     },
     {
-      "trip_id": "6_17607918",
+      "trip_id": "6_17711931",
       "direction_id": "1",
       "headsign": "TARNOGAJ",
       "service_id": "6",
@@ -63910,7 +63910,7 @@
       ]
     },
     {
-      "trip_id": "6_17607919",
+      "trip_id": "6_17711932",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "6",
@@ -64206,7 +64206,7 @@
       ]
     },
     {
-      "trip_id": "6_17607920",
+      "trip_id": "6_17711933",
       "direction_id": "1",
       "headsign": "TARNOGAJ",
       "service_id": "6",
@@ -64502,7 +64502,7 @@
       ]
     },
     {
-      "trip_id": "6_17607921",
+      "trip_id": "6_17711934",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "6",
@@ -64798,7 +64798,7 @@
       ]
     },
     {
-      "trip_id": "6_17607922",
+      "trip_id": "6_17711935",
       "direction_id": "1",
       "headsign": "TARNOGAJ",
       "service_id": "6",
@@ -65094,7 +65094,7 @@
       ]
     },
     {
-      "trip_id": "6_17607923",
+      "trip_id": "6_17711936",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "6",
@@ -65390,7 +65390,7 @@
       ]
     },
     {
-      "trip_id": "6_17607924",
+      "trip_id": "6_17711937",
       "direction_id": "1",
       "headsign": "TARNOGAJ",
       "service_id": "6",
@@ -65686,7 +65686,7 @@
       ]
     },
     {
-      "trip_id": "6_17607925",
+      "trip_id": "6_17711938",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "6",
@@ -65982,7 +65982,7 @@
       ]
     },
     {
-      "trip_id": "6_17607926",
+      "trip_id": "6_17711939",
       "direction_id": "1",
       "headsign": "TARNOGAJ",
       "service_id": "6",
@@ -66278,7 +66278,7 @@
       ]
     },
     {
-      "trip_id": "6_17607927",
+      "trip_id": "6_17711940",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "6",
@@ -66574,7 +66574,7 @@
       ]
     },
     {
-      "trip_id": "6_17607928",
+      "trip_id": "6_17711941",
       "direction_id": "1",
       "headsign": "TARNOGAJ",
       "service_id": "6",
@@ -66870,7 +66870,7 @@
       ]
     },
     {
-      "trip_id": "6_17607929",
+      "trip_id": "6_17711942",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "6",
@@ -67166,7 +67166,7 @@
       ]
     },
     {
-      "trip_id": "6_17607930",
+      "trip_id": "6_17711943",
       "direction_id": "1",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "6",
@@ -67264,7 +67264,7 @@
       ]
     },
     {
-      "trip_id": "6_17607931",
+      "trip_id": "6_17711944",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "6",
@@ -67335,7 +67335,7 @@
       ]
     },
     {
-      "trip_id": "6_17607932",
+      "trip_id": "6_17711945",
       "direction_id": "1",
       "headsign": "TARNOGAJ",
       "service_id": "6",
@@ -67631,7 +67631,7 @@
       ]
     },
     {
-      "trip_id": "6_17607933",
+      "trip_id": "6_17711946",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "6",
@@ -67927,7 +67927,7 @@
       ]
     },
     {
-      "trip_id": "6_17607934",
+      "trip_id": "6_17711947",
       "direction_id": "1",
       "headsign": "TARNOGAJ",
       "service_id": "6",
@@ -68223,7 +68223,7 @@
       ]
     },
     {
-      "trip_id": "6_17607935",
+      "trip_id": "6_17711948",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "6",
@@ -68519,7 +68519,7 @@
       ]
     },
     {
-      "trip_id": "6_17607936",
+      "trip_id": "6_17711949",
       "direction_id": "1",
       "headsign": "TARNOGAJ",
       "service_id": "6",
@@ -68815,7 +68815,7 @@
       ]
     },
     {
-      "trip_id": "6_17607937",
+      "trip_id": "6_17711950",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "6",
@@ -69111,7 +69111,7 @@
       ]
     },
     {
-      "trip_id": "6_17607938",
+      "trip_id": "6_17711951",
       "direction_id": "1",
       "headsign": "TARNOGAJ",
       "service_id": "6",
@@ -69407,7 +69407,7 @@
       ]
     },
     {
-      "trip_id": "6_17607939",
+      "trip_id": "6_17711952",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "6",
@@ -69703,7 +69703,7 @@
       ]
     },
     {
-      "trip_id": "6_17607940",
+      "trip_id": "6_17711953",
       "direction_id": "1",
       "headsign": "TARNOGAJ",
       "service_id": "6",
@@ -69999,7 +69999,7 @@
       ]
     },
     {
-      "trip_id": "6_17607941",
+      "trip_id": "6_17711954",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "6",
@@ -70295,7 +70295,7 @@
       ]
     },
     {
-      "trip_id": "6_17607942",
+      "trip_id": "6_17711955",
       "direction_id": "1",
       "headsign": "TARNOGAJ",
       "service_id": "6",
@@ -70591,7 +70591,7 @@
       ]
     },
     {
-      "trip_id": "6_17607943",
+      "trip_id": "6_17711956",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "6",
@@ -70887,7 +70887,7 @@
       ]
     },
     {
-      "trip_id": "6_17607944",
+      "trip_id": "6_17711957",
       "direction_id": "1",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "6",
@@ -70985,7 +70985,7 @@
       ]
     },
     {
-      "trip_id": "6_17607945",
+      "trip_id": "6_17711958",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "6",
@@ -71056,7 +71056,7 @@
       ]
     },
     {
-      "trip_id": "6_17607946",
+      "trip_id": "6_17711959",
       "direction_id": "1",
       "headsign": "TARNOGAJ",
       "service_id": "6",
@@ -71352,7 +71352,7 @@
       ]
     },
     {
-      "trip_id": "6_17607947",
+      "trip_id": "6_17711960",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "6",
@@ -71648,7 +71648,7 @@
       ]
     },
     {
-      "trip_id": "6_17607948",
+      "trip_id": "6_17711961",
       "direction_id": "1",
       "headsign": "TARNOGAJ",
       "service_id": "6",
@@ -71944,7 +71944,7 @@
       ]
     },
     {
-      "trip_id": "6_17607949",
+      "trip_id": "6_17711962",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "6",
@@ -72240,7 +72240,7 @@
       ]
     },
     {
-      "trip_id": "6_17607950",
+      "trip_id": "6_17711963",
       "direction_id": "1",
       "headsign": "TARNOGAJ",
       "service_id": "6",
@@ -72536,7 +72536,7 @@
       ]
     },
     {
-      "trip_id": "6_17607951",
+      "trip_id": "6_17711964",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "6",
@@ -72832,7 +72832,7 @@
       ]
     },
     {
-      "trip_id": "6_17607952",
+      "trip_id": "6_17711965",
       "direction_id": "1",
       "headsign": "TARNOGAJ",
       "service_id": "6",
@@ -73128,7 +73128,7 @@
       ]
     },
     {
-      "trip_id": "6_17607953",
+      "trip_id": "6_17711966",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "6",
@@ -73424,7 +73424,7 @@
       ]
     },
     {
-      "trip_id": "6_17607954",
+      "trip_id": "6_17711967",
       "direction_id": "1",
       "headsign": "TARNOGAJ",
       "service_id": "6",
@@ -73720,7 +73720,7 @@
       ]
     },
     {
-      "trip_id": "6_17607955",
+      "trip_id": "6_17711968",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "6",
@@ -74016,7 +74016,7 @@
       ]
     },
     {
-      "trip_id": "6_17607956",
+      "trip_id": "6_17711969",
       "direction_id": "1",
       "headsign": "TARNOGAJ",
       "service_id": "6",
@@ -74312,7 +74312,7 @@
       ]
     },
     {
-      "trip_id": "6_17607957",
+      "trip_id": "6_17711970",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "6",
@@ -74608,7 +74608,7 @@
       ]
     },
     {
-      "trip_id": "6_17607958",
+      "trip_id": "6_17711971",
       "direction_id": "1",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "6",
@@ -74706,7 +74706,7 @@
       ]
     },
     {
-      "trip_id": "6_17607959",
+      "trip_id": "6_17711972",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "6",
@@ -74777,7 +74777,7 @@
       ]
     },
     {
-      "trip_id": "6_17607960",
+      "trip_id": "6_17711973",
       "direction_id": "1",
       "headsign": "TARNOGAJ",
       "service_id": "6",
@@ -75073,7 +75073,7 @@
       ]
     },
     {
-      "trip_id": "6_17607961",
+      "trip_id": "6_17711974",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "6",
@@ -75369,7 +75369,7 @@
       ]
     },
     {
-      "trip_id": "6_17607962",
+      "trip_id": "6_17711975",
       "direction_id": "1",
       "headsign": "TARNOGAJ",
       "service_id": "6",
@@ -75665,7 +75665,7 @@
       ]
     },
     {
-      "trip_id": "6_17607963",
+      "trip_id": "6_17711976",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "6",
@@ -75961,7 +75961,7 @@
       ]
     },
     {
-      "trip_id": "6_17607964",
+      "trip_id": "6_17711977",
       "direction_id": "1",
       "headsign": "TARNOGAJ",
       "service_id": "6",
@@ -76257,7 +76257,7 @@
       ]
     },
     {
-      "trip_id": "6_17607965",
+      "trip_id": "6_17711978",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "6",
@@ -76553,7 +76553,7 @@
       ]
     },
     {
-      "trip_id": "6_17607966",
+      "trip_id": "6_17711979",
       "direction_id": "1",
       "headsign": "TARNOGAJ",
       "service_id": "6",
@@ -76849,7 +76849,7 @@
       ]
     },
     {
-      "trip_id": "6_17607967",
+      "trip_id": "6_17711980",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "6",
@@ -77145,7 +77145,7 @@
       ]
     },
     {
-      "trip_id": "6_17607968",
+      "trip_id": "6_17711981",
       "direction_id": "1",
       "headsign": "TARNOGAJ",
       "service_id": "6",
@@ -77441,7 +77441,7 @@
       ]
     },
     {
-      "trip_id": "6_17607969",
+      "trip_id": "6_17711982",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "6",
@@ -77737,7 +77737,7 @@
       ]
     },
     {
-      "trip_id": "6_17607970",
+      "trip_id": "6_17711983",
       "direction_id": "1",
       "headsign": "TARNOGAJ",
       "service_id": "6",
@@ -78033,7 +78033,7 @@
       ]
     },
     {
-      "trip_id": "6_17607971",
+      "trip_id": "6_17711984",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "6",
@@ -78329,7 +78329,7 @@
       ]
     },
     {
-      "trip_id": "6_17607972",
+      "trip_id": "6_17711985",
       "direction_id": "1",
       "headsign": "TARNOGAJ",
       "service_id": "6",
@@ -78625,7 +78625,7 @@
       ]
     },
     {
-      "trip_id": "6_17607973",
+      "trip_id": "6_17711986",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "6",
@@ -78921,7 +78921,7 @@
       ]
     },
     {
-      "trip_id": "6_17607974",
+      "trip_id": "6_17711987",
       "direction_id": "1",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "6",
@@ -79019,7 +79019,7 @@
       ]
     },
     {
-      "trip_id": "6_17607975",
+      "trip_id": "6_17711988",
       "direction_id": "1",
       "headsign": "TARNOGAJ",
       "service_id": "6",
@@ -79126,7 +79126,7 @@
       ]
     },
     {
-      "trip_id": "6_17607976",
+      "trip_id": "6_17711989",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "6",
@@ -79422,7 +79422,7 @@
       ]
     },
     {
-      "trip_id": "6_17607977",
+      "trip_id": "6_17711990",
       "direction_id": "1",
       "headsign": "TARNOGAJ",
       "service_id": "6",
@@ -79718,7 +79718,7 @@
       ]
     },
     {
-      "trip_id": "6_17607978",
+      "trip_id": "6_17711991",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "6",
@@ -80014,7 +80014,7 @@
       ]
     },
     {
-      "trip_id": "6_17607979",
+      "trip_id": "6_17711992",
       "direction_id": "1",
       "headsign": "TARNOGAJ",
       "service_id": "6",
@@ -80310,7 +80310,7 @@
       ]
     },
     {
-      "trip_id": "6_17607980",
+      "trip_id": "6_17711993",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "6",
@@ -80606,7 +80606,7 @@
       ]
     },
     {
-      "trip_id": "6_17607981",
+      "trip_id": "6_17711994",
       "direction_id": "1",
       "headsign": "TARNOGAJ",
       "service_id": "6",
@@ -80902,7 +80902,7 @@
       ]
     },
     {
-      "trip_id": "6_17607982",
+      "trip_id": "6_17711995",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "6",
@@ -81198,7 +81198,7 @@
       ]
     },
     {
-      "trip_id": "6_17607983",
+      "trip_id": "6_17711996",
       "direction_id": "1",
       "headsign": "TARNOGAJ",
       "service_id": "6",
@@ -81494,7 +81494,7 @@
       ]
     },
     {
-      "trip_id": "6_17607984",
+      "trip_id": "6_17711997",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "6",
@@ -81790,7 +81790,7 @@
       ]
     },
     {
-      "trip_id": "6_17607985",
+      "trip_id": "6_17711998",
       "direction_id": "1",
       "headsign": "TARNOGAJ",
       "service_id": "6",
@@ -82086,7 +82086,7 @@
       ]
     },
     {
-      "trip_id": "6_17607986",
+      "trip_id": "6_17711999",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "6",
@@ -82382,7 +82382,7 @@
       ]
     },
     {
-      "trip_id": "6_17607987",
+      "trip_id": "6_17712000",
       "direction_id": "1",
       "headsign": "TARNOGAJ",
       "service_id": "6",
@@ -82678,7 +82678,7 @@
       ]
     },
     {
-      "trip_id": "6_17607988",
+      "trip_id": "6_17712001",
       "direction_id": "0",
       "headsign": "Zajezdnia TYSKA",
       "service_id": "6",
@@ -82776,7 +82776,7 @@
       ]
     },
     {
-      "trip_id": "6_17607989",
+      "trip_id": "6_17712002",
       "direction_id": "1",
       "headsign": "TARNOGAJ",
       "service_id": "6",
@@ -82883,7 +82883,7 @@
       ]
     },
     {
-      "trip_id": "6_17607990",
+      "trip_id": "6_17712003",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "6",
@@ -83179,7 +83179,7 @@
       ]
     },
     {
-      "trip_id": "6_17607991",
+      "trip_id": "6_17712004",
       "direction_id": "1",
       "headsign": "TARNOGAJ",
       "service_id": "6",
@@ -83475,7 +83475,7 @@
       ]
     },
     {
-      "trip_id": "6_17607992",
+      "trip_id": "6_17712005",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "6",
@@ -83771,7 +83771,7 @@
       ]
     },
     {
-      "trip_id": "6_17607993",
+      "trip_id": "6_17712006",
       "direction_id": "1",
       "headsign": "TARNOGAJ",
       "service_id": "6",
@@ -84067,7 +84067,7 @@
       ]
     },
     {
-      "trip_id": "6_17607994",
+      "trip_id": "6_17712007",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "6",
@@ -84363,7 +84363,7 @@
       ]
     },
     {
-      "trip_id": "6_17607995",
+      "trip_id": "6_17712008",
       "direction_id": "1",
       "headsign": "TARNOGAJ",
       "service_id": "6",
@@ -84659,7 +84659,7 @@
       ]
     },
     {
-      "trip_id": "6_17607996",
+      "trip_id": "6_17712009",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "6",
@@ -84955,7 +84955,7 @@
       ]
     },
     {
-      "trip_id": "6_17607997",
+      "trip_id": "6_17712010",
       "direction_id": "1",
       "headsign": "TARNOGAJ",
       "service_id": "6",
@@ -85251,7 +85251,7 @@
       ]
     },
     {
-      "trip_id": "6_17607998",
+      "trip_id": "6_17712011",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "6",
@@ -85547,7 +85547,7 @@
       ]
     },
     {
-      "trip_id": "6_17607999",
+      "trip_id": "6_17712012",
       "direction_id": "1",
       "headsign": "TARNOGAJ",
       "service_id": "6",
@@ -85843,7 +85843,7 @@
       ]
     },
     {
-      "trip_id": "6_17608000",
+      "trip_id": "6_17712013",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "6",
@@ -86139,7 +86139,7 @@
       ]
     },
     {
-      "trip_id": "6_17608001",
+      "trip_id": "6_17712014",
       "direction_id": "1",
       "headsign": "TARNOGAJ",
       "service_id": "6",
@@ -86435,7 +86435,7 @@
       ]
     },
     {
-      "trip_id": "6_17608002",
+      "trip_id": "6_17712015",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "6",
@@ -86731,7 +86731,7 @@
       ]
     },
     {
-      "trip_id": "6_17608003",
+      "trip_id": "6_17712016",
       "direction_id": "1",
       "headsign": "TARNOGAJ",
       "service_id": "6",
@@ -87027,7 +87027,7 @@
       ]
     },
     {
-      "trip_id": "6_17608004",
+      "trip_id": "6_17712017",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "6",
@@ -87323,7 +87323,7 @@
       ]
     },
     {
-      "trip_id": "6_17608005",
+      "trip_id": "6_17712018",
       "direction_id": "1",
       "headsign": "TARNOGAJ",
       "service_id": "6",
@@ -87619,7 +87619,7 @@
       ]
     },
     {
-      "trip_id": "6_17608006",
+      "trip_id": "6_17712019",
       "direction_id": "0",
       "headsign": "Zajezdnia TYSKA",
       "service_id": "6",
@@ -87717,7 +87717,7 @@
       ]
     },
     {
-      "trip_id": "6_17609497",
+      "trip_id": "6_17713510",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "6",
@@ -87788,7 +87788,7 @@
       ]
     },
     {
-      "trip_id": "6_17609498",
+      "trip_id": "6_17713511",
       "direction_id": "1",
       "headsign": "TARNOGAJ",
       "service_id": "6",
@@ -88084,7 +88084,7 @@
       ]
     },
     {
-      "trip_id": "8_17614681",
+      "trip_id": "8_17718694",
       "direction_id": "1",
       "headsign": "TARNOGAJ",
       "service_id": "8",
@@ -88326,7 +88326,7 @@
       ]
     },
     {
-      "trip_id": "8_17614682",
+      "trip_id": "8_17718695",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "8",
@@ -88622,7 +88622,7 @@
       ]
     },
     {
-      "trip_id": "8_17614683",
+      "trip_id": "8_17718696",
       "direction_id": "1",
       "headsign": "TARNOGAJ",
       "service_id": "8",
@@ -88918,7 +88918,7 @@
       ]
     },
     {
-      "trip_id": "8_17614684",
+      "trip_id": "8_17718697",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "8",
@@ -89214,7 +89214,7 @@
       ]
     },
     {
-      "trip_id": "8_17614685",
+      "trip_id": "8_17718698",
       "direction_id": "1",
       "headsign": "TARNOGAJ",
       "service_id": "8",
@@ -89510,7 +89510,7 @@
       ]
     },
     {
-      "trip_id": "8_17614686",
+      "trip_id": "8_17718699",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "8",
@@ -89806,7 +89806,7 @@
       ]
     },
     {
-      "trip_id": "8_17614687",
+      "trip_id": "8_17718700",
       "direction_id": "1",
       "headsign": "TARNOGAJ",
       "service_id": "8",
@@ -90102,7 +90102,7 @@
       ]
     },
     {
-      "trip_id": "8_17614688",
+      "trip_id": "8_17718701",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "8",
@@ -90398,7 +90398,7 @@
       ]
     },
     {
-      "trip_id": "8_17614689",
+      "trip_id": "8_17718702",
       "direction_id": "1",
       "headsign": "TARNOGAJ",
       "service_id": "8",
@@ -90694,7 +90694,7 @@
       ]
     },
     {
-      "trip_id": "8_17614690",
+      "trip_id": "8_17718703",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "8",
@@ -90990,7 +90990,7 @@
       ]
     },
     {
-      "trip_id": "8_17614691",
+      "trip_id": "8_17718704",
       "direction_id": "1",
       "headsign": "TARNOGAJ",
       "service_id": "8",
@@ -91286,7 +91286,7 @@
       ]
     },
     {
-      "trip_id": "8_17614692",
+      "trip_id": "8_17718705",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "8",
@@ -91528,7 +91528,7 @@
       ]
     },
     {
-      "trip_id": "8_17614693",
+      "trip_id": "8_17718706",
       "direction_id": "1",
       "headsign": "TARNOGAJ",
       "service_id": "8",
@@ -91770,7 +91770,7 @@
       ]
     },
     {
-      "trip_id": "8_17614694",
+      "trip_id": "8_17718707",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "8",
@@ -92066,7 +92066,7 @@
       ]
     },
     {
-      "trip_id": "8_17614695",
+      "trip_id": "8_17718708",
       "direction_id": "1",
       "headsign": "TARNOGAJ",
       "service_id": "8",
@@ -92362,7 +92362,7 @@
       ]
     },
     {
-      "trip_id": "8_17614696",
+      "trip_id": "8_17718709",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "8",
@@ -92658,7 +92658,7 @@
       ]
     },
     {
-      "trip_id": "8_17614697",
+      "trip_id": "8_17718710",
       "direction_id": "1",
       "headsign": "TARNOGAJ",
       "service_id": "8",
@@ -92954,7 +92954,7 @@
       ]
     },
     {
-      "trip_id": "8_17614698",
+      "trip_id": "8_17718711",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "8",
@@ -93250,7 +93250,7 @@
       ]
     },
     {
-      "trip_id": "8_17614699",
+      "trip_id": "8_17718712",
       "direction_id": "1",
       "headsign": "TARNOGAJ",
       "service_id": "8",
@@ -93546,7 +93546,7 @@
       ]
     },
     {
-      "trip_id": "8_17614700",
+      "trip_id": "8_17718713",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "8",
@@ -93842,7 +93842,7 @@
       ]
     },
     {
-      "trip_id": "8_17614701",
+      "trip_id": "8_17718714",
       "direction_id": "1",
       "headsign": "TARNOGAJ",
       "service_id": "8",
@@ -94138,7 +94138,7 @@
       ]
     },
     {
-      "trip_id": "8_17614702",
+      "trip_id": "8_17718715",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "8",
@@ -94434,7 +94434,7 @@
       ]
     },
     {
-      "trip_id": "8_17614703",
+      "trip_id": "8_17718716",
       "direction_id": "1",
       "headsign": "TARNOGAJ",
       "service_id": "8",
@@ -94730,7 +94730,7 @@
       ]
     },
     {
-      "trip_id": "8_17614704",
+      "trip_id": "8_17718717",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "8",
@@ -95026,7 +95026,7 @@
       ]
     },
     {
-      "trip_id": "8_17614705",
+      "trip_id": "8_17718718",
       "direction_id": "1",
       "headsign": "TARNOGAJ",
       "service_id": "8",
@@ -95322,7 +95322,7 @@
       ]
     },
     {
-      "trip_id": "8_17614706",
+      "trip_id": "8_17718719",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "8",
@@ -95618,7 +95618,7 @@
       ]
     },
     {
-      "trip_id": "8_17614707",
+      "trip_id": "8_17718720",
       "direction_id": "1",
       "headsign": "TARNOGAJ",
       "service_id": "8",
@@ -95914,7 +95914,7 @@
       ]
     },
     {
-      "trip_id": "8_17614708",
+      "trip_id": "8_17718721",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "8",
@@ -96210,7 +96210,7 @@
       ]
     },
     {
-      "trip_id": "8_17614709",
+      "trip_id": "8_17718722",
       "direction_id": "1",
       "headsign": "TARNOGAJ",
       "service_id": "8",
@@ -96506,7 +96506,7 @@
       ]
     },
     {
-      "trip_id": "8_17614710",
+      "trip_id": "8_17718723",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "8",
@@ -96802,7 +96802,7 @@
       ]
     },
     {
-      "trip_id": "8_17614711",
+      "trip_id": "8_17718724",
       "direction_id": "1",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "8",
@@ -96900,7 +96900,7 @@
       ]
     },
     {
-      "trip_id": "8_17614712",
+      "trip_id": "8_17718725",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "8",
@@ -96971,7 +96971,7 @@
       ]
     },
     {
-      "trip_id": "8_17614713",
+      "trip_id": "8_17718726",
       "direction_id": "1",
       "headsign": "TARNOGAJ",
       "service_id": "8",
@@ -97267,7 +97267,7 @@
       ]
     },
     {
-      "trip_id": "8_17614714",
+      "trip_id": "8_17718727",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "8",
@@ -97563,7 +97563,7 @@
       ]
     },
     {
-      "trip_id": "8_17614715",
+      "trip_id": "8_17718728",
       "direction_id": "1",
       "headsign": "TARNOGAJ",
       "service_id": "8",
@@ -97859,7 +97859,7 @@
       ]
     },
     {
-      "trip_id": "8_17614716",
+      "trip_id": "8_17718729",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "8",
@@ -98155,7 +98155,7 @@
       ]
     },
     {
-      "trip_id": "8_17614717",
+      "trip_id": "8_17718730",
       "direction_id": "1",
       "headsign": "TARNOGAJ",
       "service_id": "8",
@@ -98451,7 +98451,7 @@
       ]
     },
     {
-      "trip_id": "8_17614718",
+      "trip_id": "8_17718731",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "8",
@@ -98747,7 +98747,7 @@
       ]
     },
     {
-      "trip_id": "8_17614719",
+      "trip_id": "8_17718732",
       "direction_id": "1",
       "headsign": "TARNOGAJ",
       "service_id": "8",
@@ -99043,7 +99043,7 @@
       ]
     },
     {
-      "trip_id": "8_17614720",
+      "trip_id": "8_17718733",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "8",
@@ -99339,7 +99339,7 @@
       ]
     },
     {
-      "trip_id": "8_17614721",
+      "trip_id": "8_17718734",
       "direction_id": "1",
       "headsign": "TARNOGAJ",
       "service_id": "8",
@@ -99635,7 +99635,7 @@
       ]
     },
     {
-      "trip_id": "8_17614722",
+      "trip_id": "8_17718735",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "8",
@@ -99931,7 +99931,7 @@
       ]
     },
     {
-      "trip_id": "8_17614723",
+      "trip_id": "8_17718736",
       "direction_id": "1",
       "headsign": "TARNOGAJ",
       "service_id": "8",
@@ -100227,7 +100227,7 @@
       ]
     },
     {
-      "trip_id": "8_17614724",
+      "trip_id": "8_17718737",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "8",
@@ -100469,7 +100469,7 @@
       ]
     },
     {
-      "trip_id": "8_17614725",
+      "trip_id": "8_17718738",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "8",
@@ -100540,7 +100540,7 @@
       ]
     },
     {
-      "trip_id": "8_17614726",
+      "trip_id": "8_17718739",
       "direction_id": "1",
       "headsign": "TARNOGAJ",
       "service_id": "8",
@@ -100836,7 +100836,7 @@
       ]
     },
     {
-      "trip_id": "8_17614727",
+      "trip_id": "8_17718740",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "8",
@@ -101132,7 +101132,7 @@
       ]
     },
     {
-      "trip_id": "8_17614728",
+      "trip_id": "8_17718741",
       "direction_id": "1",
       "headsign": "TARNOGAJ",
       "service_id": "8",
@@ -101428,7 +101428,7 @@
       ]
     },
     {
-      "trip_id": "8_17614729",
+      "trip_id": "8_17718742",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "8",
@@ -101724,7 +101724,7 @@
       ]
     },
     {
-      "trip_id": "8_17614730",
+      "trip_id": "8_17718743",
       "direction_id": "1",
       "headsign": "TARNOGAJ",
       "service_id": "8",
@@ -102020,7 +102020,7 @@
       ]
     },
     {
-      "trip_id": "8_17614731",
+      "trip_id": "8_17718744",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "8",
@@ -102316,7 +102316,7 @@
       ]
     },
     {
-      "trip_id": "8_17614732",
+      "trip_id": "8_17718745",
       "direction_id": "1",
       "headsign": "TARNOGAJ",
       "service_id": "8",
@@ -102612,7 +102612,7 @@
       ]
     },
     {
-      "trip_id": "8_17614733",
+      "trip_id": "8_17718746",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "8",
@@ -102908,7 +102908,7 @@
       ]
     },
     {
-      "trip_id": "8_17614734",
+      "trip_id": "8_17718747",
       "direction_id": "1",
       "headsign": "TARNOGAJ",
       "service_id": "8",
@@ -103204,7 +103204,7 @@
       ]
     },
     {
-      "trip_id": "8_17614735",
+      "trip_id": "8_17718748",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "8",
@@ -103500,7 +103500,7 @@
       ]
     },
     {
-      "trip_id": "8_17614736",
+      "trip_id": "8_17718749",
       "direction_id": "1",
       "headsign": "TARNOGAJ",
       "service_id": "8",
@@ -103796,7 +103796,7 @@
       ]
     },
     {
-      "trip_id": "8_17614737",
+      "trip_id": "8_17718750",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "8",
@@ -104092,7 +104092,7 @@
       ]
     },
     {
-      "trip_id": "8_17614738",
+      "trip_id": "8_17718751",
       "direction_id": "1",
       "headsign": "TARNOGAJ",
       "service_id": "8",
@@ -104388,7 +104388,7 @@
       ]
     },
     {
-      "trip_id": "8_17614739",
+      "trip_id": "8_17718752",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "8",
@@ -104684,7 +104684,7 @@
       ]
     },
     {
-      "trip_id": "8_17614740",
+      "trip_id": "8_17718753",
       "direction_id": "1",
       "headsign": "TARNOGAJ",
       "service_id": "8",
@@ -104980,7 +104980,7 @@
       ]
     },
     {
-      "trip_id": "8_17614741",
+      "trip_id": "8_17718754",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "8",
@@ -105276,7 +105276,7 @@
       ]
     },
     {
-      "trip_id": "8_17614742",
+      "trip_id": "8_17718755",
       "direction_id": "1",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "8",
@@ -105374,7 +105374,7 @@
       ]
     },
     {
-      "trip_id": "8_17614743",
+      "trip_id": "8_17718756",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "8",
@@ -105445,7 +105445,7 @@
       ]
     },
     {
-      "trip_id": "8_17614744",
+      "trip_id": "8_17718757",
       "direction_id": "1",
       "headsign": "TARNOGAJ",
       "service_id": "8",
@@ -105741,7 +105741,7 @@
       ]
     },
     {
-      "trip_id": "8_17614745",
+      "trip_id": "8_17718758",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "8",
@@ -106037,7 +106037,7 @@
       ]
     },
     {
-      "trip_id": "8_17614746",
+      "trip_id": "8_17718759",
       "direction_id": "1",
       "headsign": "TARNOGAJ",
       "service_id": "8",
@@ -106333,7 +106333,7 @@
       ]
     },
     {
-      "trip_id": "8_17614747",
+      "trip_id": "8_17718760",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "8",
@@ -106629,7 +106629,7 @@
       ]
     },
     {
-      "trip_id": "8_17614748",
+      "trip_id": "8_17718761",
       "direction_id": "1",
       "headsign": "TARNOGAJ",
       "service_id": "8",
@@ -106925,7 +106925,7 @@
       ]
     },
     {
-      "trip_id": "8_17614749",
+      "trip_id": "8_17718762",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "8",
@@ -107221,7 +107221,7 @@
       ]
     },
     {
-      "trip_id": "8_17614750",
+      "trip_id": "8_17718763",
       "direction_id": "1",
       "headsign": "TARNOGAJ",
       "service_id": "8",
@@ -107517,7 +107517,7 @@
       ]
     },
     {
-      "trip_id": "8_17614751",
+      "trip_id": "8_17718764",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "8",
@@ -107813,7 +107813,7 @@
       ]
     },
     {
-      "trip_id": "8_17614752",
+      "trip_id": "8_17718765",
       "direction_id": "1",
       "headsign": "TARNOGAJ",
       "service_id": "8",
@@ -108109,7 +108109,7 @@
       ]
     },
     {
-      "trip_id": "8_17614753",
+      "trip_id": "8_17718766",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "8",
@@ -108405,7 +108405,7 @@
       ]
     },
     {
-      "trip_id": "8_17614754",
+      "trip_id": "8_17718767",
       "direction_id": "1",
       "headsign": "TARNOGAJ",
       "service_id": "8",
@@ -108701,7 +108701,7 @@
       ]
     },
     {
-      "trip_id": "8_17614755",
+      "trip_id": "8_17718768",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "8",
@@ -108997,7 +108997,7 @@
       ]
     },
     {
-      "trip_id": "8_17614756",
+      "trip_id": "8_17718769",
       "direction_id": "1",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "8",
@@ -109095,7 +109095,7 @@
       ]
     },
     {
-      "trip_id": "8_17614757",
+      "trip_id": "8_17718770",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "8",
@@ -109166,7 +109166,7 @@
       ]
     },
     {
-      "trip_id": "8_17614758",
+      "trip_id": "8_17718771",
       "direction_id": "1",
       "headsign": "TARNOGAJ",
       "service_id": "8",
@@ -109462,7 +109462,7 @@
       ]
     },
     {
-      "trip_id": "8_17614759",
+      "trip_id": "8_17718772",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "8",
@@ -109758,7 +109758,7 @@
       ]
     },
     {
-      "trip_id": "8_17614760",
+      "trip_id": "8_17718773",
       "direction_id": "1",
       "headsign": "TARNOGAJ",
       "service_id": "8",
@@ -110054,7 +110054,7 @@
       ]
     },
     {
-      "trip_id": "8_17614761",
+      "trip_id": "8_17718774",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "8",
@@ -110350,7 +110350,7 @@
       ]
     },
     {
-      "trip_id": "8_17614762",
+      "trip_id": "8_17718775",
       "direction_id": "1",
       "headsign": "TARNOGAJ",
       "service_id": "8",
@@ -110646,7 +110646,7 @@
       ]
     },
     {
-      "trip_id": "8_17614763",
+      "trip_id": "8_17718776",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "8",
@@ -110942,7 +110942,7 @@
       ]
     },
     {
-      "trip_id": "8_17614764",
+      "trip_id": "8_17718777",
       "direction_id": "1",
       "headsign": "TARNOGAJ",
       "service_id": "8",
@@ -111238,7 +111238,7 @@
       ]
     },
     {
-      "trip_id": "8_17614765",
+      "trip_id": "8_17718778",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "8",
@@ -111534,7 +111534,7 @@
       ]
     },
     {
-      "trip_id": "8_17614766",
+      "trip_id": "8_17718779",
       "direction_id": "1",
       "headsign": "TARNOGAJ",
       "service_id": "8",
@@ -111830,7 +111830,7 @@
       ]
     },
     {
-      "trip_id": "8_17614767",
+      "trip_id": "8_17718780",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "8",
@@ -112126,7 +112126,7 @@
       ]
     },
     {
-      "trip_id": "8_17614768",
+      "trip_id": "8_17718781",
       "direction_id": "1",
       "headsign": "TARNOGAJ",
       "service_id": "8",
@@ -112422,7 +112422,7 @@
       ]
     },
     {
-      "trip_id": "8_17614769",
+      "trip_id": "8_17718782",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "8",
@@ -112718,7 +112718,7 @@
       ]
     },
     {
-      "trip_id": "8_17614770",
+      "trip_id": "8_17718783",
       "direction_id": "1",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "8",
@@ -112816,7 +112816,7 @@
       ]
     },
     {
-      "trip_id": "8_17614771",
+      "trip_id": "8_17718784",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "8",
@@ -112887,7 +112887,7 @@
       ]
     },
     {
-      "trip_id": "8_17614772",
+      "trip_id": "8_17718785",
       "direction_id": "1",
       "headsign": "TARNOGAJ",
       "service_id": "8",
@@ -113183,7 +113183,7 @@
       ]
     },
     {
-      "trip_id": "8_17614773",
+      "trip_id": "8_17718786",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "8",
@@ -113479,7 +113479,7 @@
       ]
     },
     {
-      "trip_id": "8_17614774",
+      "trip_id": "8_17718787",
       "direction_id": "1",
       "headsign": "TARNOGAJ",
       "service_id": "8",
@@ -113775,7 +113775,7 @@
       ]
     },
     {
-      "trip_id": "8_17614775",
+      "trip_id": "8_17718788",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "8",
@@ -114071,7 +114071,7 @@
       ]
     },
     {
-      "trip_id": "8_17614776",
+      "trip_id": "8_17718789",
       "direction_id": "1",
       "headsign": "TARNOGAJ",
       "service_id": "8",
@@ -114367,7 +114367,7 @@
       ]
     },
     {
-      "trip_id": "8_17614777",
+      "trip_id": "8_17718790",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "8",
@@ -114663,7 +114663,7 @@
       ]
     },
     {
-      "trip_id": "8_17614778",
+      "trip_id": "8_17718791",
       "direction_id": "1",
       "headsign": "TARNOGAJ",
       "service_id": "8",
@@ -114959,7 +114959,7 @@
       ]
     },
     {
-      "trip_id": "8_17614779",
+      "trip_id": "8_17718792",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "8",
@@ -115255,7 +115255,7 @@
       ]
     },
     {
-      "trip_id": "8_17614780",
+      "trip_id": "8_17718793",
       "direction_id": "1",
       "headsign": "TARNOGAJ",
       "service_id": "8",
@@ -115551,7 +115551,7 @@
       ]
     },
     {
-      "trip_id": "8_17614781",
+      "trip_id": "8_17718794",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "8",
@@ -115847,7 +115847,7 @@
       ]
     },
     {
-      "trip_id": "8_17614782",
+      "trip_id": "8_17718795",
       "direction_id": "1",
       "headsign": "TARNOGAJ",
       "service_id": "8",
@@ -116143,7 +116143,7 @@
       ]
     },
     {
-      "trip_id": "8_17614783",
+      "trip_id": "8_17718796",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "8",
@@ -116439,7 +116439,7 @@
       ]
     },
     {
-      "trip_id": "8_17614784",
+      "trip_id": "8_17718797",
       "direction_id": "1",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "8",
@@ -116537,7 +116537,7 @@
       ]
     },
     {
-      "trip_id": "8_17614785",
+      "trip_id": "8_17718798",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "8",
@@ -116608,7 +116608,7 @@
       ]
     },
     {
-      "trip_id": "8_17614786",
+      "trip_id": "8_17718799",
       "direction_id": "1",
       "headsign": "TARNOGAJ",
       "service_id": "8",
@@ -116904,7 +116904,7 @@
       ]
     },
     {
-      "trip_id": "8_17614787",
+      "trip_id": "8_17718800",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "8",
@@ -117200,7 +117200,7 @@
       ]
     },
     {
-      "trip_id": "8_17614788",
+      "trip_id": "8_17718801",
       "direction_id": "1",
       "headsign": "TARNOGAJ",
       "service_id": "8",
@@ -117496,7 +117496,7 @@
       ]
     },
     {
-      "trip_id": "8_17614789",
+      "trip_id": "8_17718802",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "8",
@@ -117792,7 +117792,7 @@
       ]
     },
     {
-      "trip_id": "8_17614790",
+      "trip_id": "8_17718803",
       "direction_id": "1",
       "headsign": "TARNOGAJ",
       "service_id": "8",
@@ -118088,7 +118088,7 @@
       ]
     },
     {
-      "trip_id": "8_17614791",
+      "trip_id": "8_17718804",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "8",
@@ -118384,7 +118384,7 @@
       ]
     },
     {
-      "trip_id": "8_17614792",
+      "trip_id": "8_17718805",
       "direction_id": "1",
       "headsign": "TARNOGAJ",
       "service_id": "8",
@@ -118680,7 +118680,7 @@
       ]
     },
     {
-      "trip_id": "8_17614793",
+      "trip_id": "8_17718806",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "8",
@@ -118976,7 +118976,7 @@
       ]
     },
     {
-      "trip_id": "8_17614794",
+      "trip_id": "8_17718807",
       "direction_id": "1",
       "headsign": "TARNOGAJ",
       "service_id": "8",
@@ -119272,7 +119272,7 @@
       ]
     },
     {
-      "trip_id": "8_17614795",
+      "trip_id": "8_17718808",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "8",
@@ -119568,7 +119568,7 @@
       ]
     },
     {
-      "trip_id": "8_17614796",
+      "trip_id": "8_17718809",
       "direction_id": "1",
       "headsign": "TARNOGAJ",
       "service_id": "8",
@@ -119864,7 +119864,7 @@
       ]
     },
     {
-      "trip_id": "8_17614797",
+      "trip_id": "8_17718810",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "8",
@@ -120160,7 +120160,7 @@
       ]
     },
     {
-      "trip_id": "8_17614798",
+      "trip_id": "8_17718811",
       "direction_id": "1",
       "headsign": "TARNOGAJ",
       "service_id": "8",
@@ -120456,7 +120456,7 @@
       ]
     },
     {
-      "trip_id": "8_17614799",
+      "trip_id": "8_17718812",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "8",
@@ -120752,7 +120752,7 @@
       ]
     },
     {
-      "trip_id": "8_17614800",
+      "trip_id": "8_17718813",
       "direction_id": "1",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "8",
@@ -120850,7 +120850,7 @@
       ]
     },
     {
-      "trip_id": "8_17614801",
+      "trip_id": "8_17718814",
       "direction_id": "1",
       "headsign": "TARNOGAJ",
       "service_id": "8",
@@ -120957,7 +120957,7 @@
       ]
     },
     {
-      "trip_id": "8_17614802",
+      "trip_id": "8_17718815",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "8",
@@ -121253,7 +121253,7 @@
       ]
     },
     {
-      "trip_id": "8_17614803",
+      "trip_id": "8_17718816",
       "direction_id": "1",
       "headsign": "TARNOGAJ",
       "service_id": "8",
@@ -121549,7 +121549,7 @@
       ]
     },
     {
-      "trip_id": "8_17614804",
+      "trip_id": "8_17718817",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "8",
@@ -121845,7 +121845,7 @@
       ]
     },
     {
-      "trip_id": "8_17614805",
+      "trip_id": "8_17718818",
       "direction_id": "1",
       "headsign": "TARNOGAJ",
       "service_id": "8",
@@ -122141,7 +122141,7 @@
       ]
     },
     {
-      "trip_id": "8_17614806",
+      "trip_id": "8_17718819",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "8",
@@ -122437,7 +122437,7 @@
       ]
     },
     {
-      "trip_id": "8_17614807",
+      "trip_id": "8_17718820",
       "direction_id": "1",
       "headsign": "TARNOGAJ",
       "service_id": "8",
@@ -122733,7 +122733,7 @@
       ]
     },
     {
-      "trip_id": "8_17614808",
+      "trip_id": "8_17718821",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "8",
@@ -123029,7 +123029,7 @@
       ]
     },
     {
-      "trip_id": "8_17614809",
+      "trip_id": "8_17718822",
       "direction_id": "1",
       "headsign": "TARNOGAJ",
       "service_id": "8",
@@ -123325,7 +123325,7 @@
       ]
     },
     {
-      "trip_id": "8_17614810",
+      "trip_id": "8_17718823",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "8",
@@ -123621,7 +123621,7 @@
       ]
     },
     {
-      "trip_id": "8_17614811",
+      "trip_id": "8_17718824",
       "direction_id": "1",
       "headsign": "TARNOGAJ",
       "service_id": "8",
@@ -123917,7 +123917,7 @@
       ]
     },
     {
-      "trip_id": "8_17614812",
+      "trip_id": "8_17718825",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "8",
@@ -124213,7 +124213,7 @@
       ]
     },
     {
-      "trip_id": "8_17614813",
+      "trip_id": "8_17718826",
       "direction_id": "1",
       "headsign": "TARNOGAJ",
       "service_id": "8",
@@ -124509,7 +124509,7 @@
       ]
     },
     {
-      "trip_id": "8_17614814",
+      "trip_id": "8_17718827",
       "direction_id": "0",
       "headsign": "Zajezdnia TYSKA",
       "service_id": "8",
@@ -124607,7 +124607,7 @@
       ]
     },
     {
-      "trip_id": "8_17614815",
+      "trip_id": "8_17718828",
       "direction_id": "1",
       "headsign": "TARNOGAJ",
       "service_id": "8",
@@ -124714,7 +124714,7 @@
       ]
     },
     {
-      "trip_id": "8_17614816",
+      "trip_id": "8_17718829",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "8",
@@ -125010,7 +125010,7 @@
       ]
     },
     {
-      "trip_id": "8_17614817",
+      "trip_id": "8_17718830",
       "direction_id": "1",
       "headsign": "TARNOGAJ",
       "service_id": "8",
@@ -125306,7 +125306,7 @@
       ]
     },
     {
-      "trip_id": "8_17614818",
+      "trip_id": "8_17718831",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "8",
@@ -125602,7 +125602,7 @@
       ]
     },
     {
-      "trip_id": "8_17614819",
+      "trip_id": "8_17718832",
       "direction_id": "1",
       "headsign": "TARNOGAJ",
       "service_id": "8",
@@ -125898,7 +125898,7 @@
       ]
     },
     {
-      "trip_id": "8_17614820",
+      "trip_id": "8_17718833",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "8",
@@ -126194,7 +126194,7 @@
       ]
     },
     {
-      "trip_id": "8_17614821",
+      "trip_id": "8_17718834",
       "direction_id": "1",
       "headsign": "TARNOGAJ",
       "service_id": "8",
@@ -126490,7 +126490,7 @@
       ]
     },
     {
-      "trip_id": "8_17614822",
+      "trip_id": "8_17718835",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "8",
@@ -126786,7 +126786,7 @@
       ]
     },
     {
-      "trip_id": "8_17614823",
+      "trip_id": "8_17718836",
       "direction_id": "1",
       "headsign": "TARNOGAJ",
       "service_id": "8",
@@ -127082,7 +127082,7 @@
       ]
     },
     {
-      "trip_id": "8_17614824",
+      "trip_id": "8_17718837",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "8",
@@ -127378,7 +127378,7 @@
       ]
     },
     {
-      "trip_id": "8_17614825",
+      "trip_id": "8_17718838",
       "direction_id": "1",
       "headsign": "TARNOGAJ",
       "service_id": "8",
@@ -127674,7 +127674,7 @@
       ]
     },
     {
-      "trip_id": "8_17614826",
+      "trip_id": "8_17718839",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "8",
@@ -127970,7 +127970,7 @@
       ]
     },
     {
-      "trip_id": "8_17614827",
+      "trip_id": "8_17718840",
       "direction_id": "1",
       "headsign": "TARNOGAJ",
       "service_id": "8",
@@ -128266,7 +128266,7 @@
       ]
     },
     {
-      "trip_id": "8_17614828",
+      "trip_id": "8_17718841",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "8",
@@ -128562,7 +128562,7 @@
       ]
     },
     {
-      "trip_id": "8_17614829",
+      "trip_id": "8_17718842",
       "direction_id": "1",
       "headsign": "TARNOGAJ",
       "service_id": "8",
@@ -128858,7 +128858,7 @@
       ]
     },
     {
-      "trip_id": "8_17614830",
+      "trip_id": "8_17718843",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "8",
@@ -129154,7 +129154,7 @@
       ]
     },
     {
-      "trip_id": "8_17614831",
+      "trip_id": "8_17718844",
       "direction_id": "1",
       "headsign": "TARNOGAJ",
       "service_id": "8",
@@ -129450,7 +129450,7 @@
       ]
     },
     {
-      "trip_id": "8_17614832",
+      "trip_id": "8_17718845",
       "direction_id": "0",
       "headsign": "Zajezdnia TYSKA",
       "service_id": "8",
@@ -129548,7 +129548,7 @@
       ]
     },
     {
-      "trip_id": "8_17616323",
+      "trip_id": "8_17720336",
       "direction_id": "0",
       "headsign": "KOZANÓW",
       "service_id": "8",
@@ -129619,7 +129619,7 @@
       ]
     },
     {
-      "trip_id": "8_17616324",
+      "trip_id": "8_17720337",
       "direction_id": "1",
       "headsign": "TARNOGAJ",
       "service_id": "8",

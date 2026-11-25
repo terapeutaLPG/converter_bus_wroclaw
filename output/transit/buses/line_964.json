@@ -2,7 +2,7 @@
   "line": "964",
   "trips": [
     {
-      "trip_id": "6_17619507",
+      "trip_id": "6_17638182",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "6",
@@ -280,7 +280,7 @@
       ]
     },
     {
-      "trip_id": "6_17619508",
+      "trip_id": "6_17638183",
       "direction_id": "1",
       "headsign": "Brzezia Łąka - Główna pętla",
       "service_id": "6",
@@ -540,7 +540,7 @@
       ]
     },
     {
-      "trip_id": "6_17619509",
+      "trip_id": "6_17638184",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "6",
@@ -818,7 +818,7 @@
       ]
     },
     {
-      "trip_id": "6_17619510",
+      "trip_id": "6_17638185",
       "direction_id": "1",
       "headsign": "Raków IV",
       "service_id": "6",
@@ -1105,7 +1105,7 @@
       ]
     },
     {
-      "trip_id": "6_17619511",
+      "trip_id": "6_17638186",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "6",
@@ -1410,7 +1410,7 @@
       ]
     },
     {
-      "trip_id": "6_17619512",
+      "trip_id": "6_17638187",
       "direction_id": "1",
       "headsign": "Raków IV",
       "service_id": "6",
@@ -1697,7 +1697,7 @@
       ]
     },
     {
-      "trip_id": "6_17619513",
+      "trip_id": "6_17638188",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "6",
@@ -2002,7 +2002,7 @@
       ]
     },
     {
-      "trip_id": "6_17619514",
+      "trip_id": "6_17638189",
       "direction_id": "1",
       "headsign": "Raków IV",
       "service_id": "6",
@@ -2289,7 +2289,7 @@
       ]
     },
     {
-      "trip_id": "6_17619522",
+      "trip_id": "6_17638197",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "6",
@@ -2594,7 +2594,7 @@
       ]
     },
     {
-      "trip_id": "6_17619523",
+      "trip_id": "6_17638198",
       "direction_id": "1",
       "headsign": "Raków IV",
       "service_id": "6",
@@ -2881,7 +2881,7 @@
       ]
     },
     {
-      "trip_id": "6_17619524",
+      "trip_id": "6_17638199",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "6",
@@ -3186,7 +3186,7 @@
       ]
     },
     {
-      "trip_id": "6_17619525",
+      "trip_id": "6_17638200",
       "direction_id": "1",
       "headsign": "Raków IV",
       "service_id": "6",
@@ -3473,7 +3473,7 @@
       ]
     },
     {
-      "trip_id": "6_17619526",
+      "trip_id": "6_17638201",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "6",
@@ -3778,7 +3778,7 @@
       ]
     },
     {
-      "trip_id": "6_17619527",
+      "trip_id": "6_17638202",
       "direction_id": "1",
       "headsign": "Raków IV",
       "service_id": "6",
@@ -4065,7 +4065,7 @@
       ]
     },
     {
-      "trip_id": "6_17619528",
+      "trip_id": "6_17638203",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "6",
@@ -4370,7 +4370,7 @@
       ]
     },
     {
-      "trip_id": "6_17619529",
+      "trip_id": "6_17638204",
       "direction_id": "1",
       "headsign": "Raków IV",
       "service_id": "6",
@@ -4657,7 +4657,7 @@
       ]
     },
     {
-      "trip_id": "6_17619530",
+      "trip_id": "6_17638205",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "6",
@@ -4962,7 +4962,7 @@
       ]
     },
     {
-      "trip_id": "6_17619531",
+      "trip_id": "6_17638206",
       "direction_id": "1",
       "headsign": "Brzezia Łąka - Główna pętla",
       "service_id": "6",
@@ -5222,7 +5222,7 @@
       ]
     },
     {
-      "trip_id": "6_17619532",
+      "trip_id": "6_17638207",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "6",
@@ -5500,7 +5500,7 @@
       ]
     },
     {
-      "trip_id": "6_17619533",
+      "trip_id": "6_17638208",
       "direction_id": "1",
       "headsign": "Brzezia Łąka - Główna pętla",
       "service_id": "6",
@@ -5760,7 +5760,7 @@
       ]
     },
     {
-      "trip_id": "6_17619534",
+      "trip_id": "6_17638209",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "6",
@@ -6038,7 +6038,7 @@
       ]
     },
     {
-      "trip_id": "6_17619535",
+      "trip_id": "6_17638210",
       "direction_id": "1",
       "headsign": "Raków IV",
       "service_id": "6",
@@ -6325,7 +6325,7 @@
       ]
     },
     {
-      "trip_id": "6_17619536",
+      "trip_id": "6_17638211",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "6",
@@ -6630,7 +6630,7 @@
       ]
     },
     {
-      "trip_id": "6_17619537",
+      "trip_id": "6_17638212",
       "direction_id": "1",
       "headsign": "Raków IV",
       "service_id": "6",
@@ -6917,7 +6917,7 @@
       ]
     },
     {
-      "trip_id": "6_17619538",
+      "trip_id": "6_17638213",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "6",
@@ -7222,7 +7222,7 @@
       ]
     },
     {
-      "trip_id": "6_17619539",
+      "trip_id": "6_17638214",
       "direction_id": "1",
       "headsign": "Raków IV",
       "service_id": "6",
@@ -7509,7 +7509,7 @@
       ]
     },
     {
-      "trip_id": "6_17619605",
+      "trip_id": "6_17638280",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "6",
@@ -7814,7 +7814,7 @@
       ]
     },
     {
-      "trip_id": "6_17619606",
+      "trip_id": "6_17638281",
       "direction_id": "1",
       "headsign": "Raków IV",
       "service_id": "6",
@@ -8101,7 +8101,7 @@
       ]
     },
     {
-      "trip_id": "6_17619607",
+      "trip_id": "6_17638282",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "6",
@@ -8406,7 +8406,7 @@
       ]
     },
     {
-      "trip_id": "6_17619608",
+      "trip_id": "6_17638283",
       "direction_id": "1",
       "headsign": "Raków IV",
       "service_id": "6",
@@ -8693,7 +8693,7 @@
       ]
     },
     {
-      "trip_id": "6_17619609",
+      "trip_id": "6_17638284",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "6",
@@ -8998,7 +8998,7 @@
       ]
     },
     {
-      "trip_id": "6_17619610",
+      "trip_id": "6_17638285",
       "direction_id": "1",
       "headsign": "Raków IV",
       "service_id": "6",
@@ -9285,7 +9285,7 @@
       ]
     },
     {
-      "trip_id": "6_17619611",
+      "trip_id": "6_17638286",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "6",
@@ -9590,7 +9590,7 @@
       ]
     },
     {
-      "trip_id": "6_17619612",
+      "trip_id": "6_17638287",
       "direction_id": "1",
       "headsign": "Raków IV",
       "service_id": "6",
@@ -9877,7 +9877,7 @@
       ]
     },
     {
-      "trip_id": "6_17619613",
+      "trip_id": "6_17638288",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "6",
@@ -10182,7 +10182,7 @@
       ]
     },
     {
-      "trip_id": "6_17619867",
+      "trip_id": "6_17638542",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "6",
@@ -10487,7 +10487,7 @@
       ]
     },
     {
-      "trip_id": "6_17619868",
+      "trip_id": "6_17638543",
       "direction_id": "1",
       "headsign": "Raków IV",
       "service_id": "6",
@@ -10774,7 +10774,7 @@
       ]
     },
     {
-      "trip_id": "6_17619869",
+      "trip_id": "6_17638544",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "6",
@@ -11079,7 +11079,7 @@
       ]
     },
     {
-      "trip_id": "6_17619870",
+      "trip_id": "6_17638545",
       "direction_id": "1",
       "headsign": "Brzezia Łąka - Główna pętla",
       "service_id": "6",
@@ -11339,7 +11339,7 @@
       ]
     },
     {
-      "trip_id": "6_17619871",
+      "trip_id": "6_17638546",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "6",
@@ -11617,7 +11617,7 @@
       ]
     },
     {
-      "trip_id": "6_17619872",
+      "trip_id": "6_17638547",
       "direction_id": "1",
       "headsign": "Brzezia Łąka - Główna pętla",
       "service_id": "6",
@@ -11877,7 +11877,7 @@
       ]
     },
     {
-      "trip_id": "6_17620131",
+      "trip_id": "6_17638806",
       "direction_id": "1",
       "headsign": "Brzezia Łąka - Główna pętla",
       "service_id": "6",
@@ -12137,7 +12137,7 @@
       ]
     },
     {
-      "trip_id": "6_17620132",
+      "trip_id": "6_17638807",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "6",
@@ -12415,7 +12415,7 @@
       ]
     },
     {
-      "trip_id": "6_17620133",
+      "trip_id": "6_17638808",
       "direction_id": "1",
       "headsign": "Raków IV",
       "service_id": "6",
@@ -12702,7 +12702,7 @@
       ]
     },
     {
-      "trip_id": "6_17620134",
+      "trip_id": "6_17638809",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "6",
@@ -13007,7 +13007,7 @@
       ]
     },
     {
-      "trip_id": "6_17620135",
+      "trip_id": "6_17638810",
       "direction_id": "1",
       "headsign": "Raków IV",
       "service_id": "6",
@@ -13294,7 +13294,7 @@
       ]
     },
     {
-      "trip_id": "6_17620136",
+      "trip_id": "6_17638811",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "6",
@@ -13599,7 +13599,7 @@
       ]
     },
     {
-      "trip_id": "8_17620553",
+      "trip_id": "8_17639228",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "8",
@@ -13877,7 +13877,7 @@
       ]
     },
     {
-      "trip_id": "8_17620554",
+      "trip_id": "8_17639229",
       "direction_id": "1",
       "headsign": "Brzezia Łąka - Główna pętla",
       "service_id": "8",
@@ -14137,7 +14137,7 @@
       ]
     },
     {
-      "trip_id": "8_17620555",
+      "trip_id": "8_17639230",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "8",
@@ -14415,7 +14415,7 @@
       ]
     },
     {
-      "trip_id": "8_17620556",
+      "trip_id": "8_17639231",
       "direction_id": "1",
       "headsign": "Raków IV",
       "service_id": "8",
@@ -14702,7 +14702,7 @@
       ]
     },
     {
-      "trip_id": "8_17620557",
+      "trip_id": "8_17639232",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "8",
@@ -15007,7 +15007,7 @@
       ]
     },
     {
-      "trip_id": "8_17620558",
+      "trip_id": "8_17639233",
       "direction_id": "1",
       "headsign": "Raków IV",
       "service_id": "8",
@@ -15294,7 +15294,7 @@
       ]
     },
     {
-      "trip_id": "8_17620559",
+      "trip_id": "8_17639234",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "8",
@@ -15599,7 +15599,7 @@
       ]
     },
     {
-      "trip_id": "8_17620560",
+      "trip_id": "8_17639235",
       "direction_id": "1",
       "headsign": "Raków IV",
       "service_id": "8",
@@ -15886,7 +15886,7 @@
       ]
     },
     {
-      "trip_id": "8_17620568",
+      "trip_id": "8_17639243",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "8",
@@ -16191,7 +16191,7 @@
       ]
     },
     {
-      "trip_id": "8_17620569",
+      "trip_id": "8_17639244",
       "direction_id": "1",
       "headsign": "Raków IV",
       "service_id": "8",
@@ -16478,7 +16478,7 @@
       ]
     },
     {
-      "trip_id": "8_17620570",
+      "trip_id": "8_17639245",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "8",
@@ -16783,7 +16783,7 @@
       ]
     },
     {
-      "trip_id": "8_17620571",
+      "trip_id": "8_17639246",
       "direction_id": "1",
       "headsign": "Raków IV",
       "service_id": "8",
@@ -17070,7 +17070,7 @@
       ]
     },
     {
-      "trip_id": "8_17620572",
+      "trip_id": "8_17639247",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "8",
@@ -17375,7 +17375,7 @@
       ]
     },
     {
-      "trip_id": "8_17620573",
+      "trip_id": "8_17639248",
       "direction_id": "1",
       "headsign": "Raków IV",
       "service_id": "8",
@@ -17662,7 +17662,7 @@
       ]
     },
     {
-      "trip_id": "8_17620574",
+      "trip_id": "8_17639249",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "8",
@@ -17967,7 +17967,7 @@
       ]
     },
     {
-      "trip_id": "8_17620575",
+      "trip_id": "8_17639250",
       "direction_id": "1",
       "headsign": "Raków IV",
       "service_id": "8",
@@ -18254,7 +18254,7 @@
       ]
     },
     {
-      "trip_id": "8_17620576",
+      "trip_id": "8_17639251",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "8",
@@ -18559,7 +18559,7 @@
       ]
     },
     {
-      "trip_id": "8_17620577",
+      "trip_id": "8_17639252",
       "direction_id": "1",
       "headsign": "Brzezia Łąka - Główna pętla",
       "service_id": "8",
@@ -18819,7 +18819,7 @@
       ]
     },
     {
-      "trip_id": "8_17620578",
+      "trip_id": "8_17639253",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "8",
@@ -19097,7 +19097,7 @@
       ]
     },
     {
-      "trip_id": "8_17620579",
+      "trip_id": "8_17639254",
       "direction_id": "1",
       "headsign": "Brzezia Łąka - Główna pętla",
       "service_id": "8",
@@ -19357,7 +19357,7 @@
       ]
     },
     {
-      "trip_id": "8_17620580",
+      "trip_id": "8_17639255",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "8",
@@ -19635,7 +19635,7 @@
       ]
     },
     {
-      "trip_id": "8_17620581",
+      "trip_id": "8_17639256",
       "direction_id": "1",
       "headsign": "Raków IV",
       "service_id": "8",
@@ -19922,7 +19922,7 @@
       ]
     },
     {
-      "trip_id": "8_17620582",
+      "trip_id": "8_17639257",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "8",
@@ -20227,7 +20227,7 @@
       ]
     },
     {
-      "trip_id": "8_17620583",
+      "trip_id": "8_17639258",
       "direction_id": "1",
       "headsign": "Raków IV",
       "service_id": "8",
@@ -20514,7 +20514,7 @@
       ]
     },
     {
-      "trip_id": "8_17620584",
+      "trip_id": "8_17639259",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "8",
@@ -20819,7 +20819,7 @@
       ]
     },
     {
-      "trip_id": "8_17620585",
+      "trip_id": "8_17639260",
       "direction_id": "1",
       "headsign": "Raków IV",
       "service_id": "8",
@@ -21106,7 +21106,7 @@
       ]
     },
     {
-      "trip_id": "8_17620651",
+      "trip_id": "8_17639326",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "8",
@@ -21411,7 +21411,7 @@
       ]
     },
     {
-      "trip_id": "8_17620652",
+      "trip_id": "8_17639327",
       "direction_id": "1",
       "headsign": "Raków IV",
       "service_id": "8",
@@ -21698,7 +21698,7 @@
       ]
     },
     {
-      "trip_id": "8_17620653",
+      "trip_id": "8_17639328",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "8",
@@ -22003,7 +22003,7 @@
       ]
     },
     {
-      "trip_id": "8_17620654",
+      "trip_id": "8_17639329",
       "direction_id": "1",
       "headsign": "Raków IV",
       "service_id": "8",
@@ -22290,7 +22290,7 @@
       ]
     },
     {
-      "trip_id": "8_17620655",
+      "trip_id": "8_17639330",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "8",
@@ -22595,7 +22595,7 @@
       ]
     },
     {
-      "trip_id": "8_17620656",
+      "trip_id": "8_17639331",
       "direction_id": "1",
       "headsign": "Raków IV",
       "service_id": "8",
@@ -22882,7 +22882,7 @@
       ]
     },
     {
-      "trip_id": "8_17620657",
+      "trip_id": "8_17639332",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "8",
@@ -23187,7 +23187,7 @@
       ]
     },
     {
-      "trip_id": "8_17620658",
+      "trip_id": "8_17639333",
       "direction_id": "1",
       "headsign": "Raków IV",
       "service_id": "8",
@@ -23474,7 +23474,7 @@
       ]
     },
     {
-      "trip_id": "8_17620659",
+      "trip_id": "8_17639334",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "8",
@@ -23779,7 +23779,7 @@
       ]
     },
     {
-      "trip_id": "8_17620913",
+      "trip_id": "8_17639588",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "8",
@@ -24084,7 +24084,7 @@
       ]
     },
     {
-      "trip_id": "8_17620914",
+      "trip_id": "8_17639589",
       "direction_id": "1",
       "headsign": "Raków IV",
       "service_id": "8",
@@ -24371,7 +24371,7 @@
       ]
     },
     {
-      "trip_id": "8_17620915",
+      "trip_id": "8_17639590",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "8",
@@ -24676,7 +24676,7 @@
       ]
     },
     {
-      "trip_id": "8_17620916",
+      "trip_id": "8_17639591",
       "direction_id": "1",
       "headsign": "Brzezia Łąka - Główna pętla",
       "service_id": "8",
@@ -24936,7 +24936,7 @@
       ]
     },
     {
-      "trip_id": "8_17620917",
+      "trip_id": "8_17639592",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "8",
@@ -25214,7 +25214,7 @@
       ]
     },
     {
-      "trip_id": "8_17620918",
+      "trip_id": "8_17639593",
       "direction_id": "1",
       "headsign": "Brzezia Łąka - Główna pętla",
       "service_id": "8",
@@ -25474,7 +25474,7 @@
       ]
     },
     {
-      "trip_id": "8_17621177",
+      "trip_id": "8_17639852",
       "direction_id": "1",
       "headsign": "Brzezia Łąka - Główna pętla",
       "service_id": "8",
@@ -25734,7 +25734,7 @@
       ]
     },
     {
-      "trip_id": "8_17621178",
+      "trip_id": "8_17639853",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "8",
@@ -26012,7 +26012,7 @@
       ]
     },
     {
-      "trip_id": "8_17621179",
+      "trip_id": "8_17639854",
       "direction_id": "1",
       "headsign": "Raków IV",
       "service_id": "8",
@@ -26299,7 +26299,7 @@
       ]
     },
     {
-      "trip_id": "8_17621180",
+      "trip_id": "8_17639855",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "8",
@@ -26604,7 +26604,7 @@
       ]
     },
     {
-      "trip_id": "8_17621181",
+      "trip_id": "8_17639856",
       "direction_id": "1",
       "headsign": "Raków IV",
       "service_id": "8",
@@ -26891,7 +26891,7 @@
       ]
     },
     {
-      "trip_id": "8_17621182",
+      "trip_id": "8_17639857",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "8",

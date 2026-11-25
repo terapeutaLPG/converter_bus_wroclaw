@@ -2,7 +2,7 @@
   "line": "948",
   "trips": [
     {
-      "trip_id": "6_17449067",
+      "trip_id": "6_17722348",
       "direction_id": "1",
       "headsign": "Miękinia - pętla",
       "service_id": "6",
@@ -118,7 +118,7 @@
       ]
     },
     {
-      "trip_id": "6_17449068",
+      "trip_id": "6_17722349",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "6",
@@ -270,7 +270,7 @@
       ]
     },
     {
-      "trip_id": "6_17449164",
+      "trip_id": "6_17722445",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "6",
@@ -422,7 +422,7 @@
       ]
     },
     {
-      "trip_id": "6_17449240",
+      "trip_id": "6_17722521",
       "direction_id": "1",
       "headsign": "Miękinia - pętla",
       "service_id": "6",
@@ -538,7 +538,7 @@
       ]
     },
     {
-      "trip_id": "6_17449241",
+      "trip_id": "6_17722522",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "6",
@@ -690,7 +690,7 @@
       ]
     },
     {
-      "trip_id": "6_17449284",
+      "trip_id": "6_17722565",
       "direction_id": "1",
       "headsign": "Miękinia - pętla",
       "service_id": "6",
@@ -806,7 +806,7 @@
       ]
     },
     {
-      "trip_id": "6_17449285",
+      "trip_id": "6_17722566",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "6",
@@ -985,7 +985,7 @@
       ]
     },
     {
-      "trip_id": "6_17449387",
+      "trip_id": "6_17722668",
       "direction_id": "1",
       "headsign": "Miękinia - pętla",
       "service_id": "6",
@@ -1137,7 +1137,7 @@
       ]
     },
     {
-      "trip_id": "6_17449388",
+      "trip_id": "6_17722669",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "6",
@@ -1316,7 +1316,7 @@
       ]
     },
     {
-      "trip_id": "8_17449449",
+      "trip_id": "8_17722730",
       "direction_id": "1",
       "headsign": "Miękinia - pętla",
       "service_id": "8",
@@ -1432,7 +1432,7 @@
       ]
     },
     {
-      "trip_id": "8_17449450",
+      "trip_id": "8_17722731",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "8",
@@ -1584,7 +1584,7 @@
       ]
     },
     {
-      "trip_id": "8_17449546",
+      "trip_id": "8_17722827",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "8",
@@ -1736,7 +1736,7 @@
       ]
     },
     {
-      "trip_id": "8_17449622",
+      "trip_id": "8_17722903",
       "direction_id": "1",
       "headsign": "Miękinia - pętla",
       "service_id": "8",
@@ -1852,7 +1852,7 @@
       ]
     },
     {
-      "trip_id": "8_17449623",
+      "trip_id": "8_17722904",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "8",
@@ -2004,7 +2004,7 @@
       ]
     },
     {
-      "trip_id": "8_17449666",
+      "trip_id": "8_17722947",
       "direction_id": "1",
       "headsign": "Miękinia - pętla",
       "service_id": "8",
@@ -2120,7 +2120,7 @@
       ]
     },
     {
-      "trip_id": "8_17449667",
+      "trip_id": "8_17722948",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "8",
@@ -2299,7 +2299,7 @@
       ]
     },
     {
-      "trip_id": "8_17449769",
+      "trip_id": "8_17723050",
       "direction_id": "1",
       "headsign": "Miękinia - pętla",
       "service_id": "8",
@@ -2451,7 +2451,7 @@
       ]
     },
     {
-      "trip_id": "8_17449770",
+      "trip_id": "8_17723051",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "8",

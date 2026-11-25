@@ -2,7 +2,7 @@
   "line": "123",
   "trips": [
     {
-      "trip_id": "3_17547510",
+      "trip_id": "3_17721912",
       "direction_id": "1",
       "headsign": "Metalowców",
       "service_id": "3",
@@ -253,7 +253,7 @@
       ]
     },
     {
-      "trip_id": "3_17547511",
+      "trip_id": "3_17721913",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "3",
@@ -468,7 +468,7 @@
       ]
     },
     {
-      "trip_id": "3_17547518",
+      "trip_id": "3_17721920",
       "direction_id": "1",
       "headsign": "Metalowców",
       "service_id": "3",
@@ -719,7 +719,7 @@
       ]
     },
     {
-      "trip_id": "3_17547519",
+      "trip_id": "3_17721921",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "3",
@@ -961,7 +961,7 @@
       ]
     },
     {
-      "trip_id": "3_17547526",
+      "trip_id": "3_17721928",
       "direction_id": "1",
       "headsign": "Metalowców",
       "service_id": "3",
@@ -1212,7 +1212,7 @@
       ]
     },
     {
-      "trip_id": "3_17547527",
+      "trip_id": "3_17721929",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "3",
@@ -1454,7 +1454,7 @@
       ]
     },
     {
-      "trip_id": "3_17547528",
+      "trip_id": "3_17721930",
       "direction_id": "1",
       "headsign": "Metalowców",
       "service_id": "3",
@@ -1705,7 +1705,7 @@
       ]
     },
     {
-      "trip_id": "3_17547529",
+      "trip_id": "3_17721931",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "3",
@@ -1920,7 +1920,7 @@
       ]
     },
     {
-      "trip_id": "3_17547545",
+      "trip_id": "3_17721947",
       "direction_id": "1",
       "headsign": "Metalowców",
       "service_id": "3",
@@ -2171,7 +2171,7 @@
       ]
     },
     {
-      "trip_id": "3_17547546",
+      "trip_id": "3_17721948",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "3",
@@ -2413,7 +2413,7 @@
       ]
     },
     {
-      "trip_id": "3_17547547",
+      "trip_id": "3_17721949",
       "direction_id": "1",
       "headsign": "Metalowców",
       "service_id": "3",
@@ -2664,7 +2664,7 @@
       ]
     },
     {
-      "trip_id": "3_17547548",
+      "trip_id": "3_17721950",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "3",
@@ -2879,7 +2879,7 @@
       ]
     },
     {
-      "trip_id": "3_17547561",
+      "trip_id": "3_17721963",
       "direction_id": "1",
       "headsign": "Metalowców",
       "service_id": "3",
@@ -3130,7 +3130,7 @@
       ]
     },
     {
-      "trip_id": "3_17547562",
+      "trip_id": "3_17721964",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "3",
@@ -3372,7 +3372,7 @@
       ]
     },
     {
-      "trip_id": "3_17547564",
+      "trip_id": "3_17721966",
       "direction_id": "1",
       "headsign": "Metalowców",
       "service_id": "3",
@@ -3623,7 +3623,7 @@
       ]
     },
     {
-      "trip_id": "3_17547565",
+      "trip_id": "3_17721967",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "3",
@@ -3865,7 +3865,7 @@
       ]
     },
     {
-      "trip_id": "3_17547566",
+      "trip_id": "3_17721968",
       "direction_id": "1",
       "headsign": "Metalowców",
       "service_id": "3",
@@ -4116,7 +4116,7 @@
       ]
     },
     {
-      "trip_id": "3_17547567",
+      "trip_id": "3_17721969",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "3",
@@ -4358,7 +4358,7 @@
       ]
     },
     {
-      "trip_id": "3_17547570",
+      "trip_id": "3_17721972",
       "direction_id": "1",
       "headsign": "Metalowców",
       "service_id": "3",
@@ -4609,7 +4609,7 @@
       ]
     },
     {
-      "trip_id": "3_17547571",
+      "trip_id": "3_17721973",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "3",
@@ -4851,7 +4851,7 @@
       ]
     },
     {
-      "trip_id": "3_17547572",
+      "trip_id": "3_17721974",
       "direction_id": "1",
       "headsign": "Metalowców",
       "service_id": "3",
@@ -5102,7 +5102,7 @@
       ]
     },
     {
-      "trip_id": "3_17547573",
+      "trip_id": "3_17721975",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "3",
@@ -5344,7 +5344,7 @@
       ]
     },
     {
-      "trip_id": "3_17547576",
+      "trip_id": "3_17721978",
       "direction_id": "1",
       "headsign": "Metalowców",
       "service_id": "3",
@@ -5595,7 +5595,7 @@
       ]
     },
     {
-      "trip_id": "3_17547577",
+      "trip_id": "3_17721979",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "3",
@@ -5837,7 +5837,7 @@
       ]
     },
     {
-      "trip_id": "3_17547584",
+      "trip_id": "3_17721986",
       "direction_id": "1",
       "headsign": "Metalowców",
       "service_id": "3",
@@ -6088,7 +6088,7 @@
       ]
     },
     {
-      "trip_id": "3_17547585",
+      "trip_id": "3_17721987",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "3",
@@ -6330,7 +6330,7 @@
       ]
     },
     {
-      "trip_id": "3_17547624",
+      "trip_id": "3_17722026",
       "direction_id": "1",
       "headsign": "Metalowców",
       "service_id": "3",
@@ -6581,7 +6581,7 @@
       ]
     },
     {
-      "trip_id": "3_17547625",
+      "trip_id": "3_17722027",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "3",
@@ -6823,7 +6823,7 @@
       ]
     },
     {
-      "trip_id": "3_17547631",
+      "trip_id": "3_17722033",
       "direction_id": "1",
       "headsign": "Metalowców",
       "service_id": "3",
@@ -7074,7 +7074,7 @@
       ]
     },
     {
-      "trip_id": "3_17547632",
+      "trip_id": "3_17722034",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "3",
@@ -7316,7 +7316,7 @@
       ]
     },
     {
-      "trip_id": "3_17547633",
+      "trip_id": "3_17722035",
       "direction_id": "1",
       "headsign": "Metalowców",
       "service_id": "3",
@@ -7567,7 +7567,7 @@
       ]
     },
     {
-      "trip_id": "3_17547634",
+      "trip_id": "3_17722036",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "3",
@@ -7782,7 +7782,7 @@
       ]
     },
     {
-      "trip_id": "3_17547647",
+      "trip_id": "3_17722049",
       "direction_id": "1",
       "headsign": "Metalowców",
       "service_id": "3",
@@ -8033,7 +8033,7 @@
       ]
     },
     {
-      "trip_id": "3_17547648",
+      "trip_id": "3_17722050",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "3",
@@ -8275,7 +8275,7 @@
       ]
     },
     {
-      "trip_id": "3_17547650",
+      "trip_id": "3_17722052",
       "direction_id": "1",
       "headsign": "Metalowców",
       "service_id": "3",
@@ -8526,7 +8526,7 @@
       ]
     },
     {
-      "trip_id": "3_17547651",
+      "trip_id": "3_17722053",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "3",
@@ -8768,7 +8768,7 @@
       ]
     },
     {
-      "trip_id": "3_17547652",
+      "trip_id": "3_17722054",
       "direction_id": "1",
       "headsign": "Metalowców",
       "service_id": "3",
@@ -9019,7 +9019,7 @@
       ]
     },
     {
-      "trip_id": "3_17547653",
+      "trip_id": "3_17722055",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "3",
@@ -9234,7 +9234,7 @@
       ]
     },
     {
-      "trip_id": "3_17547658",
+      "trip_id": "3_17722060",
       "direction_id": "1",
       "headsign": "Metalowców",
       "service_id": "3",
@@ -9485,7 +9485,7 @@
       ]
     },
     {
-      "trip_id": "3_17547659",
+      "trip_id": "3_17722061",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "3",
@@ -9727,7 +9727,7 @@
       ]
     },
     {
-      "trip_id": "3_17547660",
+      "trip_id": "3_17722062",
       "direction_id": "1",
       "headsign": "Metalowców",
       "service_id": "3",
@@ -9978,7 +9978,7 @@
       ]
     },
     {
-      "trip_id": "3_17547661",
+      "trip_id": "3_17722063",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "3",
@@ -10220,7 +10220,7 @@
       ]
     },
     {
-      "trip_id": "3_17547662",
+      "trip_id": "3_17722064",
       "direction_id": "1",
       "headsign": "Metalowców",
       "service_id": "3",
@@ -10471,7 +10471,7 @@
       ]
     },
     {
-      "trip_id": "3_17547663",
+      "trip_id": "3_17722065",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "3",
@@ -10686,7 +10686,7 @@
       ]
     },
     {
-      "trip_id": "3_17547682",
+      "trip_id": "3_17722084",
       "direction_id": "1",
       "headsign": "Metalowców",
       "service_id": "3",
@@ -10937,7 +10937,7 @@
       ]
     },
     {
-      "trip_id": "3_17547683",
+      "trip_id": "3_17722085",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "3",
@@ -11179,7 +11179,7 @@
       ]
     },
     {
-      "trip_id": "3_17547684",
+      "trip_id": "3_17722086",
       "direction_id": "1",
       "headsign": "Metalowców",
       "service_id": "3",
@@ -11430,7 +11430,7 @@
       ]
     },
     {
-      "trip_id": "3_17547685",
+      "trip_id": "3_17722087",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "3",
@@ -11672,7 +11672,7 @@
       ]
     },
     {
-      "trip_id": "3_17547690",
+      "trip_id": "3_17722092",
       "direction_id": "1",
       "headsign": "Metalowców",
       "service_id": "3",
@@ -11923,7 +11923,7 @@
       ]
     },
     {
-      "trip_id": "3_17547691",
+      "trip_id": "3_17722093",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "3",
@@ -12138,7 +12138,7 @@
       ]
     },
     {
-      "trip_id": "3_17547696",
+      "trip_id": "3_17722098",
       "direction_id": "1",
       "headsign": "Metalowców",
       "service_id": "3",
@@ -12389,7 +12389,7 @@
       ]
     },
     {
-      "trip_id": "3_17547697",
+      "trip_id": "3_17722099",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "3",
@@ -12631,7 +12631,7 @@
       ]
     },
     {
-      "trip_id": "3_17547700",
+      "trip_id": "3_17722102",
       "direction_id": "1",
       "headsign": "Metalowców",
       "service_id": "3",
@@ -12882,7 +12882,7 @@
       ]
     },
     {
-      "trip_id": "3_17547701",
+      "trip_id": "3_17722103",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "3",
@@ -13124,7 +13124,7 @@
       ]
     },
     {
-      "trip_id": "3_17547702",
+      "trip_id": "3_17722104",
       "direction_id": "1",
       "headsign": "Metalowców",
       "service_id": "3",
@@ -13375,7 +13375,7 @@
       ]
     },
     {
-      "trip_id": "3_17547703",
+      "trip_id": "3_17722105",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "3",
@@ -13617,7 +13617,7 @@
       ]
     },
     {
-      "trip_id": "3_17547706",
+      "trip_id": "3_17722108",
       "direction_id": "1",
       "headsign": "Metalowców",
       "service_id": "3",
@@ -13868,7 +13868,7 @@
       ]
     },
     {
-      "trip_id": "3_17547707",
+      "trip_id": "3_17722109",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "3",
@@ -14110,7 +14110,7 @@
       ]
     },
     {
-      "trip_id": "3_17547708",
+      "trip_id": "3_17722110",
       "direction_id": "1",
       "headsign": "Metalowców",
       "service_id": "3",
@@ -14361,7 +14361,7 @@
       ]
     },
     {
-      "trip_id": "3_17547709",
+      "trip_id": "3_17722111",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "3",
@@ -14576,7 +14576,7 @@
       ]
     },
     {
-      "trip_id": "3_17547712",
+      "trip_id": "3_17722114",
       "direction_id": "1",
       "headsign": "Metalowców",
       "service_id": "3",
@@ -14827,7 +14827,7 @@
       ]
     },
     {
-      "trip_id": "3_17547713",
+      "trip_id": "3_17722115",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "3",
@@ -15069,7 +15069,7 @@
       ]
     },
     {
-      "trip_id": "3_17547714",
+      "trip_id": "3_17722116",
       "direction_id": "1",
       "headsign": "Metalowców",
       "service_id": "3",
@@ -15320,7 +15320,7 @@
       ]
     },
     {
-      "trip_id": "3_17547715",
+      "trip_id": "3_17722117",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "3",
@@ -15535,7 +15535,7 @@
       ]
     },
     {
-      "trip_id": "4_17547735",
+      "trip_id": "4_17722137",
       "direction_id": "1",
       "headsign": "Metalowców",
       "service_id": "4",
@@ -15786,7 +15786,7 @@
       ]
     },
     {
-      "trip_id": "4_17547736",
+      "trip_id": "4_17722138",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "4",
@@ -16001,7 +16001,7 @@
       ]
     },
     {
-      "trip_id": "4_17547743",
+      "trip_id": "4_17722145",
       "direction_id": "1",
       "headsign": "Metalowców",
       "service_id": "4",
@@ -16252,7 +16252,7 @@
       ]
     },
     {
-      "trip_id": "4_17547744",
+      "trip_id": "4_17722146",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "4",
@@ -16494,7 +16494,7 @@
       ]
     },
     {
-      "trip_id": "4_17547751",
+      "trip_id": "4_17722153",
       "direction_id": "1",
       "headsign": "Metalowców",
       "service_id": "4",
@@ -16745,7 +16745,7 @@
       ]
     },
     {
-      "trip_id": "4_17547752",
+      "trip_id": "4_17722154",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "4",
@@ -16987,7 +16987,7 @@
       ]
     },
     {
-      "trip_id": "4_17547753",
+      "trip_id": "4_17722155",
       "direction_id": "1",
       "headsign": "Metalowców",
       "service_id": "4",
@@ -17238,7 +17238,7 @@
       ]
     },
     {
-      "trip_id": "4_17547754",
+      "trip_id": "4_17722156",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "4",
@@ -17453,7 +17453,7 @@
       ]
     },
     {
-      "trip_id": "4_17547770",
+      "trip_id": "4_17722172",
       "direction_id": "1",
       "headsign": "Metalowców",
       "service_id": "4",
@@ -17704,7 +17704,7 @@
       ]
     },
     {
-      "trip_id": "4_17547771",
+      "trip_id": "4_17722173",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "4",
@@ -17946,7 +17946,7 @@
       ]
     },
     {
-      "trip_id": "4_17547772",
+      "trip_id": "4_17722174",
       "direction_id": "1",
       "headsign": "Metalowców",
       "service_id": "4",
@@ -18197,7 +18197,7 @@
       ]
     },
     {
-      "trip_id": "4_17547773",
+      "trip_id": "4_17722175",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "4",
@@ -18412,7 +18412,7 @@
       ]
     },
     {
-      "trip_id": "4_17547786",
+      "trip_id": "4_17722188",
       "direction_id": "1",
       "headsign": "Metalowców",
       "service_id": "4",
@@ -18663,7 +18663,7 @@
       ]
     },
     {
-      "trip_id": "4_17547787",
+      "trip_id": "4_17722189",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "4",
@@ -18905,7 +18905,7 @@
       ]
     },
     {
-      "trip_id": "4_17547789",
+      "trip_id": "4_17722191",
       "direction_id": "1",
       "headsign": "Metalowców",
       "service_id": "4",
@@ -19156,7 +19156,7 @@
       ]
     },
     {
-      "trip_id": "4_17547790",
+      "trip_id": "4_17722192",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "4",
@@ -19398,7 +19398,7 @@
       ]
     },
     {
-      "trip_id": "4_17547791",
+      "trip_id": "4_17722193",
       "direction_id": "1",
       "headsign": "Metalowców",
       "service_id": "4",
@@ -19649,7 +19649,7 @@
       ]
     },
     {
-      "trip_id": "4_17547792",
+      "trip_id": "4_17722194",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "4",
@@ -19891,7 +19891,7 @@
       ]
     },
     {
-      "trip_id": "4_17547795",
+      "trip_id": "4_17722197",
       "direction_id": "1",
       "headsign": "Metalowców",
       "service_id": "4",
@@ -20142,7 +20142,7 @@
       ]
     },
     {
-      "trip_id": "4_17547796",
+      "trip_id": "4_17722198",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "4",
@@ -20384,7 +20384,7 @@
       ]
     },
     {
-      "trip_id": "4_17547797",
+      "trip_id": "4_17722199",
       "direction_id": "1",
       "headsign": "Metalowców",
       "service_id": "4",
@@ -20635,7 +20635,7 @@
       ]
     },
     {
-      "trip_id": "4_17547798",
+      "trip_id": "4_17722200",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "4",
@@ -20877,7 +20877,7 @@
       ]
     },
     {
-      "trip_id": "4_17547801",
+      "trip_id": "4_17722203",
       "direction_id": "1",
       "headsign": "Metalowców",
       "service_id": "4",
@@ -21128,7 +21128,7 @@
       ]
     },
     {
-      "trip_id": "4_17547802",
+      "trip_id": "4_17722204",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "4",
@@ -21370,7 +21370,7 @@
       ]
     },
     {
-      "trip_id": "4_17547809",
+      "trip_id": "4_17722211",
       "direction_id": "1",
       "headsign": "Metalowców",
       "service_id": "4",
@@ -21621,7 +21621,7 @@
       ]
     },
     {
-      "trip_id": "4_17547810",
+      "trip_id": "4_17722212",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "4",
@@ -21863,7 +21863,7 @@
       ]
     },
     {
-      "trip_id": "4_17547848",
+      "trip_id": "4_17722250",
       "direction_id": "1",
       "headsign": "Metalowców",
       "service_id": "4",
@@ -22114,7 +22114,7 @@
       ]
     },
     {
-      "trip_id": "4_17547849",
+      "trip_id": "4_17722251",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "4",
@@ -22356,7 +22356,7 @@
       ]
     },
     {
-      "trip_id": "4_17547855",
+      "trip_id": "4_17722257",
       "direction_id": "1",
       "headsign": "Metalowców",
       "service_id": "4",
@@ -22607,7 +22607,7 @@
       ]
     },
     {
-      "trip_id": "4_17547856",
+      "trip_id": "4_17722258",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "4",
@@ -22849,7 +22849,7 @@
       ]
     },
     {
-      "trip_id": "4_17547857",
+      "trip_id": "4_17722259",
       "direction_id": "1",
       "headsign": "Metalowców",
       "service_id": "4",
@@ -23100,7 +23100,7 @@
       ]
     },
     {
-      "trip_id": "4_17547858",
+      "trip_id": "4_17722260",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "4",
@@ -23315,7 +23315,7 @@
       ]
     },
     {
-      "trip_id": "4_17547871",
+      "trip_id": "4_17722273",
       "direction_id": "1",
       "headsign": "Metalowców",
       "service_id": "4",
@@ -23566,7 +23566,7 @@
       ]
     },
     {
-      "trip_id": "4_17547872",
+      "trip_id": "4_17722274",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "4",
@@ -23808,7 +23808,7 @@
       ]
     },
     {
-      "trip_id": "4_17547873",
+      "trip_id": "4_17722275",
       "direction_id": "1",
       "headsign": "Metalowców",
       "service_id": "4",
@@ -24059,7 +24059,7 @@
       ]
     },
     {
-      "trip_id": "4_17547874",
+      "trip_id": "4_17722276",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "4",
@@ -24301,7 +24301,7 @@
       ]
     },
     {
-      "trip_id": "4_17547875",
+      "trip_id": "4_17722277",
       "direction_id": "1",
       "headsign": "Metalowców",
       "service_id": "4",
@@ -24552,7 +24552,7 @@
       ]
     },
     {
-      "trip_id": "4_17547876",
+      "trip_id": "4_17722278",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "4",
@@ -24767,7 +24767,7 @@
       ]
     },
     {
-      "trip_id": "4_17547881",
+      "trip_id": "4_17722283",
       "direction_id": "1",
       "headsign": "Metalowców",
       "service_id": "4",
@@ -25018,7 +25018,7 @@
       ]
     },
     {
-      "trip_id": "4_17547882",
+      "trip_id": "4_17722284",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "4",
@@ -25260,7 +25260,7 @@
       ]
     },
     {
-      "trip_id": "4_17547883",
+      "trip_id": "4_17722285",
       "direction_id": "1",
       "headsign": "Metalowców",
       "service_id": "4",
@@ -25511,7 +25511,7 @@
       ]
     },
     {
-      "trip_id": "4_17547884",
+      "trip_id": "4_17722286",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "4",
@@ -25753,7 +25753,7 @@
       ]
     },
     {
-      "trip_id": "4_17547885",
+      "trip_id": "4_17722287",
       "direction_id": "1",
       "headsign": "Metalowców",
       "service_id": "4",
@@ -26004,7 +26004,7 @@
       ]
     },
     {
-      "trip_id": "4_17547886",
+      "trip_id": "4_17722288",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "4",
@@ -26219,7 +26219,7 @@
       ]
     },
     {
-      "trip_id": "4_17547901",
+      "trip_id": "4_17722303",
       "direction_id": "1",
       "headsign": "Metalowców",
       "service_id": "4",
@@ -26470,7 +26470,7 @@
       ]
     },
     {
-      "trip_id": "4_17547902",
+      "trip_id": "4_17722304",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "4",
@@ -26712,7 +26712,7 @@
       ]
     },
     {
-      "trip_id": "4_17547903",
+      "trip_id": "4_17722305",
       "direction_id": "1",
       "headsign": "Metalowców",
       "service_id": "4",
@@ -26963,7 +26963,7 @@
       ]
     },
     {
-      "trip_id": "4_17547904",
+      "trip_id": "4_17722306",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "4",
@@ -27205,7 +27205,7 @@
       ]
     },
     {
-      "trip_id": "4_17547909",
+      "trip_id": "4_17722311",
       "direction_id": "1",
       "headsign": "Metalowców",
       "service_id": "4",
@@ -27456,7 +27456,7 @@
       ]
     },
     {
-      "trip_id": "4_17547910",
+      "trip_id": "4_17722312",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "4",
@@ -27671,7 +27671,7 @@
       ]
     },
     {
-      "trip_id": "4_17547915",
+      "trip_id": "4_17722317",
       "direction_id": "1",
       "headsign": "Metalowców",
       "service_id": "4",
@@ -27922,7 +27922,7 @@
       ]
     },
     {
-      "trip_id": "4_17547916",
+      "trip_id": "4_17722318",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "4",
@@ -28164,7 +28164,7 @@
       ]
     },
     {
-      "trip_id": "4_17547917",
+      "trip_id": "4_17722319",
       "direction_id": "1",
       "headsign": "Metalowców",
       "service_id": "4",
@@ -28415,7 +28415,7 @@
       ]
     },
     {
-      "trip_id": "4_17547918",
+      "trip_id": "4_17722320",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "4",
@@ -28657,7 +28657,7 @@
       ]
     },
     {
-      "trip_id": "4_17547919",
+      "trip_id": "4_17722321",
       "direction_id": "1",
       "headsign": "Metalowców",
       "service_id": "4",
@@ -28908,7 +28908,7 @@
       ]
     },
     {
-      "trip_id": "4_17547920",
+      "trip_id": "4_17722322",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "4",
@@ -29150,7 +29150,7 @@
       ]
     },
     {
-      "trip_id": "4_17547923",
+      "trip_id": "4_17722325",
       "direction_id": "1",
       "headsign": "Metalowców",
       "service_id": "4",
@@ -29401,7 +29401,7 @@
       ]
     },
     {
-      "trip_id": "4_17547924",
+      "trip_id": "4_17722326",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "4",
@@ -29643,7 +29643,7 @@
       ]
     },
     {
-      "trip_id": "4_17547925",
+      "trip_id": "4_17722327",
       "direction_id": "1",
       "headsign": "Metalowców",
       "service_id": "4",
@@ -29894,7 +29894,7 @@
       ]
     },
     {
-      "trip_id": "4_17547926",
+      "trip_id": "4_17722328",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "4",
@@ -30109,7 +30109,7 @@
       ]
     },
     {
-      "trip_id": "4_17547929",
+      "trip_id": "4_17722331",
       "direction_id": "1",
       "headsign": "Metalowców",
       "service_id": "4",
@@ -30360,7 +30360,7 @@
       ]
     },
     {
-      "trip_id": "4_17547930",
+      "trip_id": "4_17722332",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "4",
@@ -30602,7 +30602,7 @@
       ]
     },
     {
-      "trip_id": "4_17547931",
+      "trip_id": "4_17722333",
       "direction_id": "1",
       "headsign": "Metalowców",
       "service_id": "4",
@@ -30853,7 +30853,7 @@
       ]
     },
     {
-      "trip_id": "4_17547932",
+      "trip_id": "4_17722334",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "4",
@@ -31068,7 +31068,7 @@
       ]
     },
     {
-      "trip_id": "6_17449071",
+      "trip_id": "6_17722352",
       "direction_id": "1",
       "headsign": "Metalowców",
       "service_id": "6",
@@ -31319,7 +31319,7 @@
       ]
     },
     {
-      "trip_id": "6_17449072",
+      "trip_id": "6_17722353",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "6",
@@ -31561,7 +31561,7 @@
       ]
     },
     {
-      "trip_id": "6_17449073",
+      "trip_id": "6_17722354",
       "direction_id": "1",
       "headsign": "Metalowców",
       "service_id": "6",
@@ -31812,7 +31812,7 @@
       ]
     },
     {
-      "trip_id": "6_17449074",
+      "trip_id": "6_17722355",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "6",
@@ -32054,7 +32054,7 @@
       ]
     },
     {
-      "trip_id": "6_17449075",
+      "trip_id": "6_17722356",
       "direction_id": "1",
       "headsign": "Metalowców",
       "service_id": "6",
@@ -32305,7 +32305,7 @@
       ]
     },
     {
-      "trip_id": "6_17449076",
+      "trip_id": "6_17722357",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "6",
@@ -32547,7 +32547,7 @@
       ]
     },
     {
-      "trip_id": "6_17449081",
+      "trip_id": "6_17722362",
       "direction_id": "1",
       "headsign": "Metalowców",
       "service_id": "6",
@@ -32798,7 +32798,7 @@
       ]
     },
     {
-      "trip_id": "6_17449082",
+      "trip_id": "6_17722363",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "6",
@@ -33040,7 +33040,7 @@
       ]
     },
     {
-      "trip_id": "6_17449125",
+      "trip_id": "6_17722406",
       "direction_id": "1",
       "headsign": "Metalowców",
       "service_id": "6",
@@ -33291,7 +33291,7 @@
       ]
     },
     {
-      "trip_id": "6_17449126",
+      "trip_id": "6_17722407",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "6",
@@ -33533,7 +33533,7 @@
       ]
     },
     {
-      "trip_id": "6_17449127",
+      "trip_id": "6_17722408",
       "direction_id": "1",
       "headsign": "Metalowców",
       "service_id": "6",
@@ -33784,7 +33784,7 @@
       ]
     },
     {
-      "trip_id": "6_17449128",
+      "trip_id": "6_17722409",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "6",
@@ -33999,7 +33999,7 @@
       ]
     },
     {
-      "trip_id": "6_17449137",
+      "trip_id": "6_17722418",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "6",
@@ -34241,7 +34241,7 @@
       ]
     },
     {
-      "trip_id": "6_17449138",
+      "trip_id": "6_17722419",
       "direction_id": "1",
       "headsign": "Metalowców",
       "service_id": "6",
@@ -34492,7 +34492,7 @@
       ]
     },
     {
-      "trip_id": "6_17449139",
+      "trip_id": "6_17722420",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "6",
@@ -34707,7 +34707,7 @@
       ]
     },
     {
-      "trip_id": "6_17449146",
+      "trip_id": "6_17722427",
       "direction_id": "1",
       "headsign": "Metalowców",
       "service_id": "6",
@@ -34958,7 +34958,7 @@
       ]
     },
     {
-      "trip_id": "6_17449147",
+      "trip_id": "6_17722428",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "6",
@@ -35200,7 +35200,7 @@
       ]
     },
     {
-      "trip_id": "6_17449150",
+      "trip_id": "6_17722431",
       "direction_id": "1",
       "headsign": "Metalowców",
       "service_id": "6",
@@ -35451,7 +35451,7 @@
       ]
     },
     {
-      "trip_id": "6_17449151",
+      "trip_id": "6_17722432",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "6",
@@ -35693,7 +35693,7 @@
       ]
     },
     {
-      "trip_id": "6_17449158",
+      "trip_id": "6_17722439",
       "direction_id": "1",
       "headsign": "Metalowców",
       "service_id": "6",
@@ -35944,7 +35944,7 @@
       ]
     },
     {
-      "trip_id": "6_17449159",
+      "trip_id": "6_17722440",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "6",
@@ -36186,7 +36186,7 @@
       ]
     },
     {
-      "trip_id": "6_17449160",
+      "trip_id": "6_17722441",
       "direction_id": "1",
       "headsign": "Metalowców",
       "service_id": "6",
@@ -36437,7 +36437,7 @@
       ]
     },
     {
-      "trip_id": "6_17449161",
+      "trip_id": "6_17722442",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "6",
@@ -36679,7 +36679,7 @@
       ]
     },
     {
-      "trip_id": "6_17449162",
+      "trip_id": "6_17722443",
       "direction_id": "1",
       "headsign": "Metalowców",
       "service_id": "6",
@@ -36930,7 +36930,7 @@
       ]
     },
     {
-      "trip_id": "6_17449163",
+      "trip_id": "6_17722444",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "6",
@@ -37172,7 +37172,7 @@
       ]
     },
     {
-      "trip_id": "6_17449180",
+      "trip_id": "6_17722461",
       "direction_id": "1",
       "headsign": "Metalowców",
       "service_id": "6",
@@ -37423,7 +37423,7 @@
       ]
     },
     {
-      "trip_id": "6_17449181",
+      "trip_id": "6_17722462",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "6",
@@ -37665,7 +37665,7 @@
       ]
     },
     {
-      "trip_id": "6_17449192",
+      "trip_id": "6_17722473",
       "direction_id": "1",
       "headsign": "Metalowców",
       "service_id": "6",
@@ -37916,7 +37916,7 @@
       ]
     },
     {
-      "trip_id": "6_17449193",
+      "trip_id": "6_17722474",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "6",
@@ -38158,7 +38158,7 @@
       ]
     },
     {
-      "trip_id": "6_17449194",
+      "trip_id": "6_17722475",
       "direction_id": "1",
       "headsign": "Metalowców",
       "service_id": "6",
@@ -38409,7 +38409,7 @@
       ]
     },
     {
-      "trip_id": "6_17449195",
+      "trip_id": "6_17722476",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "6",
@@ -38651,7 +38651,7 @@
       ]
     },
     {
-      "trip_id": "6_17449206",
+      "trip_id": "6_17722487",
       "direction_id": "1",
       "headsign": "Metalowców",
       "service_id": "6",
@@ -38902,7 +38902,7 @@
       ]
     },
     {
-      "trip_id": "6_17449207",
+      "trip_id": "6_17722488",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "6",
@@ -39117,7 +39117,7 @@
       ]
     },
     {
-      "trip_id": "6_17449210",
+      "trip_id": "6_17722491",
       "direction_id": "1",
       "headsign": "Metalowców",
       "service_id": "6",
@@ -39368,7 +39368,7 @@
       ]
     },
     {
-      "trip_id": "6_17449211",
+      "trip_id": "6_17722492",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "6",
@@ -39583,7 +39583,7 @@
       ]
     },
     {
-      "trip_id": "6_17449214",
+      "trip_id": "6_17722495",
       "direction_id": "1",
       "headsign": "Metalowców",
       "service_id": "6",
@@ -39834,7 +39834,7 @@
       ]
     },
     {
-      "trip_id": "6_17449215",
+      "trip_id": "6_17722496",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "6",
@@ -40076,7 +40076,7 @@
       ]
     },
     {
-      "trip_id": "6_17449216",
+      "trip_id": "6_17722497",
       "direction_id": "1",
       "headsign": "Metalowców",
       "service_id": "6",
@@ -40327,7 +40327,7 @@
       ]
     },
     {
-      "trip_id": "6_17449217",
+      "trip_id": "6_17722498",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "6",
@@ -40542,7 +40542,7 @@
       ]
     },
     {
-      "trip_id": "6_17449230",
+      "trip_id": "6_17722511",
       "direction_id": "1",
       "headsign": "Metalowców",
       "service_id": "6",
@@ -40793,7 +40793,7 @@
       ]
     },
     {
-      "trip_id": "6_17449231",
+      "trip_id": "6_17722512",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "6",
@@ -41008,7 +41008,7 @@
       ]
     },
     {
-      "trip_id": "6_17449246",
+      "trip_id": "6_17722527",
       "direction_id": "1",
       "headsign": "Metalowców",
       "service_id": "6",
@@ -41259,7 +41259,7 @@
       ]
     },
     {
-      "trip_id": "6_17449247",
+      "trip_id": "6_17722528",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "6",
@@ -41474,7 +41474,7 @@
       ]
     },
     {
-      "trip_id": "6_17449265",
+      "trip_id": "6_17722546",
       "direction_id": "1",
       "headsign": "Metalowców",
       "service_id": "6",
@@ -41725,7 +41725,7 @@
       ]
     },
     {
-      "trip_id": "6_17449266",
+      "trip_id": "6_17722547",
       "direction_id": "1",
       "headsign": "Metalowców",
       "service_id": "6",
@@ -41976,7 +41976,7 @@
       ]
     },
     {
-      "trip_id": "6_17449267",
+      "trip_id": "6_17722548",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "6",
@@ -42218,7 +42218,7 @@
       ]
     },
     {
-      "trip_id": "6_17449268",
+      "trip_id": "6_17722549",
       "direction_id": "1",
       "headsign": "Metalowców",
       "service_id": "6",
@@ -42469,7 +42469,7 @@
       ]
     },
     {
-      "trip_id": "6_17449269",
+      "trip_id": "6_17722550",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "6",
@@ -42711,7 +42711,7 @@
       ]
     },
     {
-      "trip_id": "6_17449272",
+      "trip_id": "6_17722553",
       "direction_id": "1",
       "headsign": "Metalowców",
       "service_id": "6",
@@ -42962,7 +42962,7 @@
       ]
     },
     {
-      "trip_id": "6_17449273",
+      "trip_id": "6_17722554",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "6",
@@ -43204,7 +43204,7 @@
       ]
     },
     {
-      "trip_id": "6_17449275",
+      "trip_id": "6_17722556",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "6",
@@ -43293,7 +43293,7 @@
       ]
     },
     {
-      "trip_id": "6_17449278",
+      "trip_id": "6_17722559",
       "direction_id": "1",
       "headsign": "Metalowców",
       "service_id": "6",
@@ -43544,7 +43544,7 @@
       ]
     },
     {
-      "trip_id": "6_17449279",
+      "trip_id": "6_17722560",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "6",
@@ -43786,7 +43786,7 @@
       ]
     },
     {
-      "trip_id": "6_17449290",
+      "trip_id": "6_17722571",
       "direction_id": "1",
       "headsign": "Metalowców",
       "service_id": "6",
@@ -44037,7 +44037,7 @@
       ]
     },
     {
-      "trip_id": "6_17449291",
+      "trip_id": "6_17722572",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "6",
@@ -44279,7 +44279,7 @@
       ]
     },
     {
-      "trip_id": "6_17449292",
+      "trip_id": "6_17722573",
       "direction_id": "1",
       "headsign": "Metalowców",
       "service_id": "6",
@@ -44530,7 +44530,7 @@
       ]
     },
     {
-      "trip_id": "6_17449293",
+      "trip_id": "6_17722574",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "6",
@@ -44745,7 +44745,7 @@
       ]
     },
     {
-      "trip_id": "6_17449302",
+      "trip_id": "6_17722583",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "6",
@@ -44915,7 +44915,7 @@
       ]
     },
     {
-      "trip_id": "6_17449330",
+      "trip_id": "6_17722611",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "6",
@@ -45112,7 +45112,7 @@
       ]
     },
     {
-      "trip_id": "6_17449331",
+      "trip_id": "6_17722612",
       "direction_id": "1",
       "headsign": "Metalowców",
       "service_id": "6",
@@ -45363,7 +45363,7 @@
       ]
     },
     {
-      "trip_id": "6_17449332",
+      "trip_id": "6_17722613",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "6",
@@ -45605,7 +45605,7 @@
       ]
     },
     {
-      "trip_id": "6_17449371",
+      "trip_id": "6_17722652",
       "direction_id": "1",
       "headsign": "Metalowców",
       "service_id": "6",
@@ -45856,7 +45856,7 @@
       ]
     },
     {
-      "trip_id": "6_17449372",
+      "trip_id": "6_17722653",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "6",
@@ -46098,7 +46098,7 @@
       ]
     },
     {
-      "trip_id": "6_17449373",
+      "trip_id": "6_17722654",
       "direction_id": "1",
       "headsign": "Metalowców",
       "service_id": "6",
@@ -46349,7 +46349,7 @@
       ]
     },
     {
-      "trip_id": "6_17449374",
+      "trip_id": "6_17722655",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "6",
@@ -46591,7 +46591,7 @@
       ]
     },
     {
-      "trip_id": "6_17449375",
+      "trip_id": "6_17722656",
       "direction_id": "1",
       "headsign": "Metalowców",
       "service_id": "6",
@@ -46842,7 +46842,7 @@
       ]
     },
     {
-      "trip_id": "6_17449376",
+      "trip_id": "6_17722657",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "6",
@@ -47084,7 +47084,7 @@
       ]
     },
     {
-      "trip_id": "6_17449377",
+      "trip_id": "6_17722658",
       "direction_id": "1",
       "headsign": "Metalowców",
       "service_id": "6",
@@ -47335,7 +47335,7 @@
       ]
     },
     {
-      "trip_id": "6_17449378",
+      "trip_id": "6_17722659",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "6",
@@ -47577,7 +47577,7 @@
       ]
     },
     {
-      "trip_id": "6_17449379",
+      "trip_id": "6_17722660",
       "direction_id": "1",
       "headsign": "Metalowców",
       "service_id": "6",
@@ -47828,7 +47828,7 @@
       ]
     },
     {
-      "trip_id": "6_17449380",
+      "trip_id": "6_17722661",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "6",
@@ -48070,7 +48070,7 @@
       ]
     },
     {
-      "trip_id": "6_17449383",
+      "trip_id": "6_17722664",
       "direction_id": "1",
       "headsign": "Metalowców",
       "service_id": "6",
@@ -48321,7 +48321,7 @@
       ]
     },
     {
-      "trip_id": "6_17449384",
+      "trip_id": "6_17722665",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "6",
@@ -48563,7 +48563,7 @@
       ]
     },
     {
-      "trip_id": "6_17449391",
+      "trip_id": "6_17722672",
       "direction_id": "1",
       "headsign": "Metalowców",
       "service_id": "6",
@@ -48814,7 +48814,7 @@
       ]
     },
     {
-      "trip_id": "6_17449392",
+      "trip_id": "6_17722673",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "6",
@@ -49056,7 +49056,7 @@
       ]
     },
     {
-      "trip_id": "6_17449393",
+      "trip_id": "6_17722674",
       "direction_id": "1",
       "headsign": "Metalowców",
       "service_id": "6",
@@ -49307,7 +49307,7 @@
       ]
     },
     {
-      "trip_id": "6_17449394",
+      "trip_id": "6_17722675",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "6",
@@ -49549,7 +49549,7 @@
       ]
     },
     {
-      "trip_id": "6_17449397",
+      "trip_id": "6_17722678",
       "direction_id": "1",
       "headsign": "Metalowców",
       "service_id": "6",
@@ -49800,7 +49800,7 @@
       ]
     },
     {
-      "trip_id": "6_17449398",
+      "trip_id": "6_17722679",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "6",
@@ -50042,7 +50042,7 @@
       ]
     },
     {
-      "trip_id": "6_17449415",
+      "trip_id": "6_17722696",
       "direction_id": "1",
       "headsign": "Metalowców",
       "service_id": "6",
@@ -50293,7 +50293,7 @@
       ]
     },
     {
-      "trip_id": "6_17449416",
+      "trip_id": "6_17722697",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "6",
@@ -50535,7 +50535,7 @@
       ]
     },
     {
-      "trip_id": "6_17449431",
+      "trip_id": "6_17722712",
       "direction_id": "1",
       "headsign": "Metalowców",
       "service_id": "6",
@@ -50786,7 +50786,7 @@
       ]
     },
     {
-      "trip_id": "6_17449432",
+      "trip_id": "6_17722713",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "6",
@@ -51028,7 +51028,7 @@
       ]
     },
     {
-      "trip_id": "6_17449437",
+      "trip_id": "6_17722718",
       "direction_id": "1",
       "headsign": "Metalowców",
       "service_id": "6",
@@ -51279,7 +51279,7 @@
       ]
     },
     {
-      "trip_id": "6_17449438",
+      "trip_id": "6_17722719",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "6",
@@ -51521,7 +51521,7 @@
       ]
     },
     {
-      "trip_id": "6_17449439",
+      "trip_id": "6_17722720",
       "direction_id": "1",
       "headsign": "Metalowców",
       "service_id": "6",
@@ -51772,7 +51772,7 @@
       ]
     },
     {
-      "trip_id": "6_17449440",
+      "trip_id": "6_17722721",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "6",
@@ -52014,7 +52014,7 @@
       ]
     },
     {
-      "trip_id": "8_17449453",
+      "trip_id": "8_17722734",
       "direction_id": "1",
       "headsign": "Metalowców",
       "service_id": "8",
@@ -52265,7 +52265,7 @@
       ]
     },
     {
-      "trip_id": "8_17449454",
+      "trip_id": "8_17722735",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "8",
@@ -52507,7 +52507,7 @@
       ]
     },
     {
-      "trip_id": "8_17449455",
+      "trip_id": "8_17722736",
       "direction_id": "1",
       "headsign": "Metalowców",
       "service_id": "8",
@@ -52758,7 +52758,7 @@
       ]
     },
     {
-      "trip_id": "8_17449456",
+      "trip_id": "8_17722737",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "8",
@@ -53000,7 +53000,7 @@
       ]
     },
     {
-      "trip_id": "8_17449457",
+      "trip_id": "8_17722738",
       "direction_id": "1",
       "headsign": "Metalowców",
       "service_id": "8",
@@ -53251,7 +53251,7 @@
       ]
     },
     {
-      "trip_id": "8_17449458",
+      "trip_id": "8_17722739",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "8",
@@ -53493,7 +53493,7 @@
       ]
     },
     {
-      "trip_id": "8_17449463",
+      "trip_id": "8_17722744",
       "direction_id": "1",
       "headsign": "Metalowców",
       "service_id": "8",
@@ -53744,7 +53744,7 @@
       ]
     },
     {
-      "trip_id": "8_17449464",
+      "trip_id": "8_17722745",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "8",
@@ -53986,7 +53986,7 @@
       ]
     },
     {
-      "trip_id": "8_17449507",
+      "trip_id": "8_17722788",
       "direction_id": "1",
       "headsign": "Metalowców",
       "service_id": "8",
@@ -54237,7 +54237,7 @@
       ]
     },
     {
-      "trip_id": "8_17449508",
+      "trip_id": "8_17722789",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "8",
@@ -54479,7 +54479,7 @@
       ]
     },
     {
-      "trip_id": "8_17449509",
+      "trip_id": "8_17722790",
       "direction_id": "1",
       "headsign": "Metalowców",
       "service_id": "8",
@@ -54730,7 +54730,7 @@
       ]
     },
     {
-      "trip_id": "8_17449510",
+      "trip_id": "8_17722791",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "8",
@@ -54945,7 +54945,7 @@
       ]
     },
     {
-      "trip_id": "8_17449519",
+      "trip_id": "8_17722800",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "8",
@@ -55187,7 +55187,7 @@
       ]
     },
     {
-      "trip_id": "8_17449520",
+      "trip_id": "8_17722801",
       "direction_id": "1",
       "headsign": "Metalowców",
       "service_id": "8",
@@ -55438,7 +55438,7 @@
       ]
     },
     {
-      "trip_id": "8_17449521",
+      "trip_id": "8_17722802",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "8",
@@ -55653,7 +55653,7 @@
       ]
     },
     {
-      "trip_id": "8_17449528",
+      "trip_id": "8_17722809",
       "direction_id": "1",
       "headsign": "Metalowców",
       "service_id": "8",
@@ -55904,7 +55904,7 @@
       ]
     },
     {
-      "trip_id": "8_17449529",
+      "trip_id": "8_17722810",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "8",
@@ -56146,7 +56146,7 @@
       ]
     },
     {
-      "trip_id": "8_17449532",
+      "trip_id": "8_17722813",
       "direction_id": "1",
       "headsign": "Metalowców",
       "service_id": "8",
@@ -56397,7 +56397,7 @@
       ]
     },
     {
-      "trip_id": "8_17449533",
+      "trip_id": "8_17722814",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "8",
@@ -56639,7 +56639,7 @@
       ]
     },
     {
-      "trip_id": "8_17449540",
+      "trip_id": "8_17722821",
       "direction_id": "1",
       "headsign": "Metalowców",
       "service_id": "8",
@@ -56890,7 +56890,7 @@
       ]
     },
     {
-      "trip_id": "8_17449541",
+      "trip_id": "8_17722822",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "8",
@@ -57132,7 +57132,7 @@
       ]
     },
     {
-      "trip_id": "8_17449542",
+      "trip_id": "8_17722823",
       "direction_id": "1",
       "headsign": "Metalowców",
       "service_id": "8",
@@ -57383,7 +57383,7 @@
       ]
     },
     {
-      "trip_id": "8_17449543",
+      "trip_id": "8_17722824",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "8",
@@ -57625,7 +57625,7 @@
       ]
     },
     {
-      "trip_id": "8_17449544",
+      "trip_id": "8_17722825",
       "direction_id": "1",
       "headsign": "Metalowców",
       "service_id": "8",
@@ -57876,7 +57876,7 @@
       ]
     },
     {
-      "trip_id": "8_17449545",
+      "trip_id": "8_17722826",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "8",
@@ -58118,7 +58118,7 @@
       ]
     },
     {
-      "trip_id": "8_17449562",
+      "trip_id": "8_17722843",
       "direction_id": "1",
       "headsign": "Metalowców",
       "service_id": "8",
@@ -58369,7 +58369,7 @@
       ]
     },
     {
-      "trip_id": "8_17449563",
+      "trip_id": "8_17722844",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "8",
@@ -58611,7 +58611,7 @@
       ]
     },
     {
-      "trip_id": "8_17449574",
+      "trip_id": "8_17722855",
       "direction_id": "1",
       "headsign": "Metalowców",
       "service_id": "8",
@@ -58862,7 +58862,7 @@
       ]
     },
     {
-      "trip_id": "8_17449575",
+      "trip_id": "8_17722856",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "8",
@@ -59104,7 +59104,7 @@
       ]
     },
     {
-      "trip_id": "8_17449576",
+      "trip_id": "8_17722857",
       "direction_id": "1",
       "headsign": "Metalowców",
       "service_id": "8",
@@ -59355,7 +59355,7 @@
       ]
     },
     {
-      "trip_id": "8_17449577",
+      "trip_id": "8_17722858",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "8",
@@ -59597,7 +59597,7 @@
       ]
     },
     {
-      "trip_id": "8_17449588",
+      "trip_id": "8_17722869",
       "direction_id": "1",
       "headsign": "Metalowców",
       "service_id": "8",
@@ -59848,7 +59848,7 @@
       ]
     },
     {
-      "trip_id": "8_17449589",
+      "trip_id": "8_17722870",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "8",
@@ -60063,7 +60063,7 @@
       ]
     },
     {
-      "trip_id": "8_17449592",
+      "trip_id": "8_17722873",
       "direction_id": "1",
       "headsign": "Metalowców",
       "service_id": "8",
@@ -60314,7 +60314,7 @@
       ]
     },
     {
-      "trip_id": "8_17449593",
+      "trip_id": "8_17722874",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "8",
@@ -60529,7 +60529,7 @@
       ]
     },
     {
-      "trip_id": "8_17449596",
+      "trip_id": "8_17722877",
       "direction_id": "1",
       "headsign": "Metalowców",
       "service_id": "8",
@@ -60780,7 +60780,7 @@
       ]
     },
     {
-      "trip_id": "8_17449597",
+      "trip_id": "8_17722878",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "8",
@@ -61022,7 +61022,7 @@
       ]
     },
     {
-      "trip_id": "8_17449598",
+      "trip_id": "8_17722879",
       "direction_id": "1",
       "headsign": "Metalowców",
       "service_id": "8",
@@ -61273,7 +61273,7 @@
       ]
     },
     {
-      "trip_id": "8_17449599",
+      "trip_id": "8_17722880",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "8",
@@ -61488,7 +61488,7 @@
       ]
     },
     {
-      "trip_id": "8_17449612",
+      "trip_id": "8_17722893",
       "direction_id": "1",
       "headsign": "Metalowców",
       "service_id": "8",
@@ -61739,7 +61739,7 @@
       ]
     },
     {
-      "trip_id": "8_17449613",
+      "trip_id": "8_17722894",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "8",
@@ -61954,7 +61954,7 @@
       ]
     },
     {
-      "trip_id": "8_17449628",
+      "trip_id": "8_17722909",
       "direction_id": "1",
       "headsign": "Metalowców",
       "service_id": "8",
@@ -62205,7 +62205,7 @@
       ]
     },
     {
-      "trip_id": "8_17449629",
+      "trip_id": "8_17722910",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "8",
@@ -62420,7 +62420,7 @@
       ]
     },
     {
-      "trip_id": "8_17449647",
+      "trip_id": "8_17722928",
       "direction_id": "1",
       "headsign": "Metalowców",
       "service_id": "8",
@@ -62671,7 +62671,7 @@
       ]
     },
     {
-      "trip_id": "8_17449648",
+      "trip_id": "8_17722929",
       "direction_id": "1",
       "headsign": "Metalowców",
       "service_id": "8",
@@ -62922,7 +62922,7 @@
       ]
     },
     {
-      "trip_id": "8_17449649",
+      "trip_id": "8_17722930",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "8",
@@ -63164,7 +63164,7 @@
       ]
     },
     {
-      "trip_id": "8_17449650",
+      "trip_id": "8_17722931",
       "direction_id": "1",
       "headsign": "Metalowców",
       "service_id": "8",
@@ -63415,7 +63415,7 @@
       ]
     },
     {
-      "trip_id": "8_17449651",
+      "trip_id": "8_17722932",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "8",
@@ -63657,7 +63657,7 @@
       ]
     },
     {
-      "trip_id": "8_17449654",
+      "trip_id": "8_17722935",
       "direction_id": "1",
       "headsign": "Metalowców",
       "service_id": "8",
@@ -63908,7 +63908,7 @@
       ]
     },
     {
-      "trip_id": "8_17449655",
+      "trip_id": "8_17722936",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "8",
@@ -64150,7 +64150,7 @@
       ]
     },
     {
-      "trip_id": "8_17449657",
+      "trip_id": "8_17722938",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "8",
@@ -64239,7 +64239,7 @@
       ]
     },
     {
-      "trip_id": "8_17449660",
+      "trip_id": "8_17722941",
       "direction_id": "1",
       "headsign": "Metalowców",
       "service_id": "8",
@@ -64490,7 +64490,7 @@
       ]
     },
     {
-      "trip_id": "8_17449661",
+      "trip_id": "8_17722942",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "8",
@@ -64732,7 +64732,7 @@
       ]
     },
     {
-      "trip_id": "8_17449672",
+      "trip_id": "8_17722953",
       "direction_id": "1",
       "headsign": "Metalowców",
       "service_id": "8",
@@ -64983,7 +64983,7 @@
       ]
     },
     {
-      "trip_id": "8_17449673",
+      "trip_id": "8_17722954",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "8",
@@ -65225,7 +65225,7 @@
       ]
     },
     {
-      "trip_id": "8_17449674",
+      "trip_id": "8_17722955",
       "direction_id": "1",
       "headsign": "Metalowców",
       "service_id": "8",
@@ -65476,7 +65476,7 @@
       ]
     },
     {
-      "trip_id": "8_17449675",
+      "trip_id": "8_17722956",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "8",
@@ -65691,7 +65691,7 @@
       ]
     },
     {
-      "trip_id": "8_17449684",
+      "trip_id": "8_17722965",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "8",
@@ -65861,7 +65861,7 @@
       ]
     },
     {
-      "trip_id": "8_17449712",
+      "trip_id": "8_17722993",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "8",
@@ -66058,7 +66058,7 @@
       ]
     },
     {
-      "trip_id": "8_17449713",
+      "trip_id": "8_17722994",
       "direction_id": "1",
       "headsign": "Metalowców",
       "service_id": "8",
@@ -66309,7 +66309,7 @@
       ]
     },
     {
-      "trip_id": "8_17449714",
+      "trip_id": "8_17722995",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "8",
@@ -66551,7 +66551,7 @@
       ]
     },
     {
-      "trip_id": "8_17449753",
+      "trip_id": "8_17723034",
       "direction_id": "1",
       "headsign": "Metalowców",
       "service_id": "8",
@@ -66802,7 +66802,7 @@
       ]
     },
     {
-      "trip_id": "8_17449754",
+      "trip_id": "8_17723035",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "8",
@@ -67044,7 +67044,7 @@
       ]
     },
     {
-      "trip_id": "8_17449755",
+      "trip_id": "8_17723036",
       "direction_id": "1",
       "headsign": "Metalowców",
       "service_id": "8",
@@ -67295,7 +67295,7 @@
       ]
     },
     {
-      "trip_id": "8_17449756",
+      "trip_id": "8_17723037",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "8",
@@ -67537,7 +67537,7 @@
       ]
     },
     {
-      "trip_id": "8_17449757",
+      "trip_id": "8_17723038",
       "direction_id": "1",
       "headsign": "Metalowców",
       "service_id": "8",
@@ -67788,7 +67788,7 @@
       ]
     },
     {
-      "trip_id": "8_17449758",
+      "trip_id": "8_17723039",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "8",
@@ -68030,7 +68030,7 @@
       ]
     },
     {
-      "trip_id": "8_17449759",
+      "trip_id": "8_17723040",
       "direction_id": "1",
       "headsign": "Metalowców",
       "service_id": "8",
@@ -68281,7 +68281,7 @@
       ]
     },
     {
-      "trip_id": "8_17449760",
+      "trip_id": "8_17723041",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "8",
@@ -68523,7 +68523,7 @@
       ]
     },
     {
-      "trip_id": "8_17449761",
+      "trip_id": "8_17723042",
       "direction_id": "1",
       "headsign": "Metalowców",
       "service_id": "8",
@@ -68774,7 +68774,7 @@
       ]
     },
     {
-      "trip_id": "8_17449762",
+      "trip_id": "8_17723043",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "8",
@@ -69016,7 +69016,7 @@
       ]
     },
     {
-      "trip_id": "8_17449765",
+      "trip_id": "8_17723046",
       "direction_id": "1",
       "headsign": "Metalowców",
       "service_id": "8",
@@ -69267,7 +69267,7 @@
       ]
     },
     {
-      "trip_id": "8_17449766",
+      "trip_id": "8_17723047",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "8",
@@ -69509,7 +69509,7 @@
       ]
     },
     {
-      "trip_id": "8_17449773",
+      "trip_id": "8_17723054",
       "direction_id": "1",
       "headsign": "Metalowców",
       "service_id": "8",
@@ -69760,7 +69760,7 @@
       ]
     },
     {
-      "trip_id": "8_17449774",
+      "trip_id": "8_17723055",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "8",
@@ -70002,7 +70002,7 @@
       ]
     },
     {
-      "trip_id": "8_17449775",
+      "trip_id": "8_17723056",
       "direction_id": "1",
       "headsign": "Metalowców",
       "service_id": "8",
@@ -70253,7 +70253,7 @@
       ]
     },
     {
-      "trip_id": "8_17449776",
+      "trip_id": "8_17723057",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "8",
@@ -70495,7 +70495,7 @@
       ]
     },
     {
-      "trip_id": "8_17449779",
+      "trip_id": "8_17723060",
       "direction_id": "1",
       "headsign": "Metalowców",
       "service_id": "8",
@@ -70746,7 +70746,7 @@
       ]
     },
     {
-      "trip_id": "8_17449780",
+      "trip_id": "8_17723061",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "8",
@@ -70988,7 +70988,7 @@
       ]
     },
     {
-      "trip_id": "8_17449797",
+      "trip_id": "8_17723078",
       "direction_id": "1",
       "headsign": "Metalowców",
       "service_id": "8",
@@ -71239,7 +71239,7 @@
       ]
     },
     {
-      "trip_id": "8_17449798",
+      "trip_id": "8_17723079",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "8",
@@ -71481,7 +71481,7 @@
       ]
     },
     {
-      "trip_id": "8_17449813",
+      "trip_id": "8_17723094",
       "direction_id": "1",
       "headsign": "Metalowców",
       "service_id": "8",
@@ -71732,7 +71732,7 @@
       ]
     },
     {
-      "trip_id": "8_17449814",
+      "trip_id": "8_17723095",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "8",
@@ -71974,7 +71974,7 @@
       ]
     },
     {
-      "trip_id": "8_17449819",
+      "trip_id": "8_17723100",
       "direction_id": "1",
       "headsign": "Metalowców",
       "service_id": "8",
@@ -72225,7 +72225,7 @@
       ]
     },
     {
-      "trip_id": "8_17449820",
+      "trip_id": "8_17723101",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "8",
@@ -72467,7 +72467,7 @@
       ]
     },
     {
-      "trip_id": "8_17449821",
+      "trip_id": "8_17723102",
       "direction_id": "1",
       "headsign": "Metalowców",
       "service_id": "8",
@@ -72718,7 +72718,7 @@
       ]
     },
     {
-      "trip_id": "8_17449822",
+      "trip_id": "8_17723103",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "8",

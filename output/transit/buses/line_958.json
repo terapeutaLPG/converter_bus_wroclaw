@@ -2,7 +2,7 @@
   "line": "958",
   "trips": [
     {
-      "trip_id": "6_17449105",
+      "trip_id": "6_17722386",
       "direction_id": "1",
       "headsign": "Księginice P&R",
       "service_id": "6",
@@ -109,7 +109,7 @@
       ]
     },
     {
-      "trip_id": "6_17449106",
+      "trip_id": "6_17722387",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "6",
@@ -324,7 +324,7 @@
       ]
     },
     {
-      "trip_id": "6_17449238",
+      "trip_id": "6_17722519",
       "direction_id": "1",
       "headsign": "Księginice P&R",
       "service_id": "6",
@@ -530,7 +530,7 @@
       ]
     },
     {
-      "trip_id": "6_17449239",
+      "trip_id": "6_17722520",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "6",
@@ -745,7 +745,7 @@
       ]
     },
     {
-      "trip_id": "6_17449325",
+      "trip_id": "6_17722606",
       "direction_id": "1",
       "headsign": "Księginice P&R",
       "service_id": "6",
@@ -987,7 +987,7 @@
       ]
     },
     {
-      "trip_id": "6_17449326",
+      "trip_id": "6_17722607",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "6",
@@ -1229,7 +1229,7 @@
       ]
     },
     {
-      "trip_id": "8_17449487",
+      "trip_id": "8_17722768",
       "direction_id": "1",
       "headsign": "Księginice P&R",
       "service_id": "8",
@@ -1336,7 +1336,7 @@
       ]
     },
     {
-      "trip_id": "8_17449488",
+      "trip_id": "8_17722769",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "8",
@@ -1551,7 +1551,7 @@
       ]
     },
     {
-      "trip_id": "8_17449620",
+      "trip_id": "8_17722901",
       "direction_id": "1",
       "headsign": "Księginice P&R",
       "service_id": "8",
@@ -1757,7 +1757,7 @@
       ]
     },
     {
-      "trip_id": "8_17449621",
+      "trip_id": "8_17722902",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "8",
@@ -1972,7 +1972,7 @@
       ]
     },
     {
-      "trip_id": "8_17449707",
+      "trip_id": "8_17722988",
       "direction_id": "1",
       "headsign": "Księginice P&R",
       "service_id": "8",
@@ -2214,7 +2214,7 @@
       ]
     },
     {
-      "trip_id": "8_17449708",
+      "trip_id": "8_17722989",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "8",

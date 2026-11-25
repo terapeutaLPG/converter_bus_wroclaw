@@ -2,7 +2,7 @@
   "line": "118",
   "trips": [
     {
-      "trip_id": "3_17596625",
+      "trip_id": "3_17700638",
       "direction_id": "0",
       "headsign": "RĘDZIN",
       "service_id": "3",
@@ -136,7 +136,7 @@
       ]
     },
     {
-      "trip_id": "3_17596626",
+      "trip_id": "3_17700639",
       "direction_id": "1",
       "headsign": "8 Maja",
       "service_id": "3",
@@ -495,7 +495,7 @@
       ]
     },
     {
-      "trip_id": "3_17596627",
+      "trip_id": "3_17700640",
       "direction_id": "0",
       "headsign": "RĘDZIN",
       "service_id": "3",
@@ -845,7 +845,7 @@
       ]
     },
     {
-      "trip_id": "3_17596628",
+      "trip_id": "3_17700641",
       "direction_id": "1",
       "headsign": "8 Maja",
       "service_id": "3",
@@ -1195,7 +1195,7 @@
       ]
     },
     {
-      "trip_id": "3_17596629",
+      "trip_id": "3_17700642",
       "direction_id": "0",
       "headsign": "RĘDZIN",
       "service_id": "3",
@@ -1545,7 +1545,7 @@
       ]
     },
     {
-      "trip_id": "3_17596630",
+      "trip_id": "3_17700643",
       "direction_id": "1",
       "headsign": "8 Maja",
       "service_id": "3",
@@ -1895,7 +1895,7 @@
       ]
     },
     {
-      "trip_id": "3_17596631",
+      "trip_id": "3_17700644",
       "direction_id": "0",
       "headsign": "RĘDZIN",
       "service_id": "3",
@@ -2245,7 +2245,7 @@
       ]
     },
     {
-      "trip_id": "3_17596632",
+      "trip_id": "3_17700645",
       "direction_id": "1",
       "headsign": "8 Maja",
       "service_id": "3",
@@ -2595,7 +2595,7 @@
       ]
     },
     {
-      "trip_id": "3_17596633",
+      "trip_id": "3_17700646",
       "direction_id": "0",
       "headsign": "RĘDZIN",
       "service_id": "3",
@@ -2945,7 +2945,7 @@
       ]
     },
     {
-      "trip_id": "3_17596634",
+      "trip_id": "3_17700647",
       "direction_id": "1",
       "headsign": "8 Maja",
       "service_id": "3",
@@ -3295,7 +3295,7 @@
       ]
     },
     {
-      "trip_id": "3_17596635",
+      "trip_id": "3_17700648",
       "direction_id": "0",
       "headsign": "RĘDZIN",
       "service_id": "3",
@@ -3645,7 +3645,7 @@
       ]
     },
     {
-      "trip_id": "3_17596636",
+      "trip_id": "3_17700649",
       "direction_id": "1",
       "headsign": "8 Maja",
       "service_id": "3",
@@ -3995,7 +3995,7 @@
       ]
     },
     {
-      "trip_id": "3_17596637",
+      "trip_id": "3_17700650",
       "direction_id": "0",
       "headsign": "RĘDZIN",
       "service_id": "3",
@@ -4345,7 +4345,7 @@
       ]
     },
     {
-      "trip_id": "3_17596638",
+      "trip_id": "3_17700651",
       "direction_id": "1",
       "headsign": "8 Maja",
       "service_id": "3",
@@ -4695,7 +4695,7 @@
       ]
     },
     {
-      "trip_id": "3_17596639",
+      "trip_id": "3_17700652",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "3",
@@ -4973,7 +4973,7 @@
       ]
     },
     {
-      "trip_id": "3_17596640",
+      "trip_id": "3_17700653",
       "direction_id": "0",
       "headsign": "RĘDZIN",
       "service_id": "3",
@@ -5107,7 +5107,7 @@
       ]
     },
     {
-      "trip_id": "3_17596641",
+      "trip_id": "3_17700654",
       "direction_id": "1",
       "headsign": "8 Maja",
       "service_id": "3",
@@ -5457,7 +5457,7 @@
       ]
     },
     {
-      "trip_id": "3_17596642",
+      "trip_id": "3_17700655",
       "direction_id": "0",
       "headsign": "RĘDZIN",
       "service_id": "3",
@@ -5807,7 +5807,7 @@
       ]
     },
     {
-      "trip_id": "3_17596643",
+      "trip_id": "3_17700656",
       "direction_id": "1",
       "headsign": "8 Maja",
       "service_id": "3",
@@ -6157,7 +6157,7 @@
       ]
     },
     {
-      "trip_id": "3_17596644",
+      "trip_id": "3_17700657",
       "direction_id": "0",
       "headsign": "RĘDZIN",
       "service_id": "3",
@@ -6507,7 +6507,7 @@
       ]
     },
     {
-      "trip_id": "3_17596645",
+      "trip_id": "3_17700658",
       "direction_id": "1",
       "headsign": "8 Maja",
       "service_id": "3",
@@ -6857,7 +6857,7 @@
       ]
     },
     {
-      "trip_id": "3_17596646",
+      "trip_id": "3_17700659",
       "direction_id": "0",
       "headsign": "RĘDZIN",
       "service_id": "3",
@@ -7207,7 +7207,7 @@
       ]
     },
     {
-      "trip_id": "3_17596647",
+      "trip_id": "3_17700660",
       "direction_id": "1",
       "headsign": "8 Maja",
       "service_id": "3",
@@ -7557,7 +7557,7 @@
       ]
     },
     {
-      "trip_id": "3_17596648",
+      "trip_id": "3_17700661",
       "direction_id": "0",
       "headsign": "RĘDZIN",
       "service_id": "3",
@@ -7907,7 +7907,7 @@
       ]
     },
     {
-      "trip_id": "3_17596649",
+      "trip_id": "3_17700662",
       "direction_id": "1",
       "headsign": "8 Maja",
       "service_id": "3",
@@ -8257,7 +8257,7 @@
       ]
     },
     {
-      "trip_id": "3_17596650",
+      "trip_id": "3_17700663",
       "direction_id": "0",
       "headsign": "RĘDZIN",
       "service_id": "3",
@@ -8607,7 +8607,7 @@
       ]
     },
     {
-      "trip_id": "3_17596651",
+      "trip_id": "3_17700664",
       "direction_id": "1",
       "headsign": "8 Maja",
       "service_id": "3",
@@ -8957,7 +8957,7 @@
       ]
     },
     {
-      "trip_id": "3_17596652",
+      "trip_id": "3_17700665",
       "direction_id": "0",
       "headsign": "RĘDZIN",
       "service_id": "3",
@@ -9307,7 +9307,7 @@
       ]
     },
     {
-      "trip_id": "3_17596653",
+      "trip_id": "3_17700666",
       "direction_id": "1",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "3",
@@ -9423,7 +9423,7 @@
       ]
     },
     {
-      "trip_id": "3_17596654",
+      "trip_id": "3_17700667",
       "direction_id": "1",
       "headsign": "8 Maja",
       "service_id": "3",
@@ -9719,7 +9719,7 @@
       ]
     },
     {
-      "trip_id": "3_17596655",
+      "trip_id": "3_17700668",
       "direction_id": "0",
       "headsign": "RĘDZIN",
       "service_id": "3",
@@ -10069,7 +10069,7 @@
       ]
     },
     {
-      "trip_id": "3_17596656",
+      "trip_id": "3_17700669",
       "direction_id": "1",
       "headsign": "8 Maja",
       "service_id": "3",
@@ -10419,7 +10419,7 @@
       ]
     },
     {
-      "trip_id": "3_17596657",
+      "trip_id": "3_17700670",
       "direction_id": "0",
       "headsign": "RĘDZIN",
       "service_id": "3",
@@ -10769,7 +10769,7 @@
       ]
     },
     {
-      "trip_id": "3_17596658",
+      "trip_id": "3_17700671",
       "direction_id": "1",
       "headsign": "8 Maja",
       "service_id": "3",
@@ -11119,7 +11119,7 @@
       ]
     },
     {
-      "trip_id": "3_17596659",
+      "trip_id": "3_17700672",
       "direction_id": "0",
       "headsign": "RĘDZIN",
       "service_id": "3",
@@ -11469,7 +11469,7 @@
       ]
     },
     {
-      "trip_id": "3_17596660",
+      "trip_id": "3_17700673",
       "direction_id": "1",
       "headsign": "8 Maja",
       "service_id": "3",
@@ -11819,7 +11819,7 @@
       ]
     },
     {
-      "trip_id": "3_17596661",
+      "trip_id": "3_17700674",
       "direction_id": "0",
       "headsign": "RĘDZIN",
       "service_id": "3",
@@ -12169,7 +12169,7 @@
       ]
     },
     {
-      "trip_id": "3_17596662",
+      "trip_id": "3_17700675",
       "direction_id": "1",
       "headsign": "8 Maja",
       "service_id": "3",
@@ -12519,7 +12519,7 @@
       ]
     },
     {
-      "trip_id": "3_17596663",
+      "trip_id": "3_17700676",
       "direction_id": "0",
       "headsign": "RĘDZIN",
       "service_id": "3",
@@ -12869,7 +12869,7 @@
       ]
     },
     {
-      "trip_id": "3_17596664",
+      "trip_id": "3_17700677",
       "direction_id": "1",
       "headsign": "8 Maja",
       "service_id": "3",
@@ -13219,7 +13219,7 @@
       ]
     },
     {
-      "trip_id": "3_17596665",
+      "trip_id": "3_17700678",
       "direction_id": "0",
       "headsign": "RĘDZIN",
       "service_id": "3",
@@ -13569,7 +13569,7 @@
       ]
     },
     {
-      "trip_id": "3_17596666",
+      "trip_id": "3_17700679",
       "direction_id": "1",
       "headsign": "8 Maja",
       "service_id": "3",
@@ -13919,7 +13919,7 @@
       ]
     },
     {
-      "trip_id": "3_17596667",
+      "trip_id": "3_17700680",
       "direction_id": "0",
       "headsign": "RĘDZIN",
       "service_id": "3",
@@ -14269,7 +14269,7 @@
       ]
     },
     {
-      "trip_id": "3_17596668",
+      "trip_id": "3_17700681",
       "direction_id": "1",
       "headsign": "8 Maja",
       "service_id": "3",
@@ -14619,7 +14619,7 @@
       ]
     },
     {
-      "trip_id": "3_17596669",
+      "trip_id": "3_17700682",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "3",
@@ -14897,7 +14897,7 @@
       ]
     },
     {
-      "trip_id": "3_17596670",
+      "trip_id": "3_17700683",
       "direction_id": "0",
       "headsign": "RĘDZIN",
       "service_id": "3",
@@ -15031,7 +15031,7 @@
       ]
     },
     {
-      "trip_id": "3_17596671",
+      "trip_id": "3_17700684",
       "direction_id": "1",
       "headsign": "8 Maja",
       "service_id": "3",
@@ -15381,7 +15381,7 @@
       ]
     },
     {
-      "trip_id": "3_17596672",
+      "trip_id": "3_17700685",
       "direction_id": "0",
       "headsign": "RĘDZIN",
       "service_id": "3",
@@ -15731,7 +15731,7 @@
       ]
     },
     {
-      "trip_id": "3_17596673",
+      "trip_id": "3_17700686",
       "direction_id": "1",
       "headsign": "8 Maja",
       "service_id": "3",
@@ -16081,7 +16081,7 @@
       ]
     },
     {
-      "trip_id": "3_17596674",
+      "trip_id": "3_17700687",
       "direction_id": "0",
       "headsign": "RĘDZIN",
       "service_id": "3",
@@ -16431,7 +16431,7 @@
       ]
     },
     {
-      "trip_id": "3_17596675",
+      "trip_id": "3_17700688",
       "direction_id": "1",
       "headsign": "8 Maja",
       "service_id": "3",
@@ -16781,7 +16781,7 @@
       ]
     },
     {
-      "trip_id": "3_17596676",
+      "trip_id": "3_17700689",
       "direction_id": "0",
       "headsign": "RĘDZIN",
       "service_id": "3",
@@ -17131,7 +17131,7 @@
       ]
     },
     {
-      "trip_id": "3_17596677",
+      "trip_id": "3_17700690",
       "direction_id": "1",
       "headsign": "8 Maja",
       "service_id": "3",
@@ -17481,7 +17481,7 @@
       ]
     },
     {
-      "trip_id": "3_17596678",
+      "trip_id": "3_17700691",
       "direction_id": "0",
       "headsign": "RĘDZIN",
       "service_id": "3",
@@ -17831,7 +17831,7 @@
       ]
     },
     {
-      "trip_id": "3_17596679",
+      "trip_id": "3_17700692",
       "direction_id": "1",
       "headsign": "8 Maja",
       "service_id": "3",
@@ -18181,7 +18181,7 @@
       ]
     },
     {
-      "trip_id": "3_17596680",
+      "trip_id": "3_17700693",
       "direction_id": "0",
       "headsign": "RĘDZIN",
       "service_id": "3",
@@ -18531,7 +18531,7 @@
       ]
     },
     {
-      "trip_id": "3_17596681",
+      "trip_id": "3_17700694",
       "direction_id": "1",
       "headsign": "8 Maja",
       "service_id": "3",
@@ -18881,7 +18881,7 @@
       ]
     },
     {
-      "trip_id": "3_17596682",
+      "trip_id": "3_17700695",
       "direction_id": "0",
       "headsign": "RĘDZIN",
       "service_id": "3",
@@ -19231,7 +19231,7 @@
       ]
     },
     {
-      "trip_id": "3_17596683",
+      "trip_id": "3_17700696",
       "direction_id": "1",
       "headsign": "8 Maja",
       "service_id": "3",
@@ -19581,7 +19581,7 @@
       ]
     },
     {
-      "trip_id": "3_17596684",
+      "trip_id": "3_17700697",
       "direction_id": "0",
       "headsign": "RĘDZIN",
       "service_id": "3",
@@ -19931,7 +19931,7 @@
       ]
     },
     {
-      "trip_id": "3_17596685",
+      "trip_id": "3_17700698",
       "direction_id": "1",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "3",
@@ -20047,7 +20047,7 @@
       ]
     },
     {
-      "trip_id": "3_17596686",
+      "trip_id": "3_17700699",
       "direction_id": "1",
       "headsign": "8 Maja",
       "service_id": "3",
@@ -20343,7 +20343,7 @@
       ]
     },
     {
-      "trip_id": "3_17596687",
+      "trip_id": "3_17700700",
       "direction_id": "0",
       "headsign": "RĘDZIN",
       "service_id": "3",
@@ -20693,7 +20693,7 @@
       ]
     },
     {
-      "trip_id": "3_17596688",
+      "trip_id": "3_17700701",
       "direction_id": "1",
       "headsign": "8 Maja",
       "service_id": "3",
@@ -21043,7 +21043,7 @@
       ]
     },
     {
-      "trip_id": "3_17596689",
+      "trip_id": "3_17700702",
       "direction_id": "0",
       "headsign": "RĘDZIN",
       "service_id": "3",
@@ -21393,7 +21393,7 @@
       ]
     },
     {
-      "trip_id": "3_17596690",
+      "trip_id": "3_17700703",
       "direction_id": "1",
       "headsign": "8 Maja",
       "service_id": "3",
@@ -21743,7 +21743,7 @@
       ]
     },
     {
-      "trip_id": "3_17596691",
+      "trip_id": "3_17700704",
       "direction_id": "0",
       "headsign": "RĘDZIN",
       "service_id": "3",
@@ -22093,7 +22093,7 @@
       ]
     },
     {
-      "trip_id": "3_17596692",
+      "trip_id": "3_17700705",
       "direction_id": "1",
       "headsign": "8 Maja",
       "service_id": "3",
@@ -22443,7 +22443,7 @@
       ]
     },
     {
-      "trip_id": "3_17596693",
+      "trip_id": "3_17700706",
       "direction_id": "0",
       "headsign": "RĘDZIN",
       "service_id": "3",
@@ -22793,7 +22793,7 @@
       ]
     },
     {
-      "trip_id": "3_17596694",
+      "trip_id": "3_17700707",
       "direction_id": "1",
       "headsign": "8 Maja",
       "service_id": "3",
@@ -23143,7 +23143,7 @@
       ]
     },
     {
-      "trip_id": "3_17596695",
+      "trip_id": "3_17700708",
       "direction_id": "0",
       "headsign": "RĘDZIN",
       "service_id": "3",
@@ -23493,7 +23493,7 @@
       ]
     },
     {
-      "trip_id": "3_17596696",
+      "trip_id": "3_17700709",
       "direction_id": "1",
       "headsign": "8 Maja",
       "service_id": "3",
@@ -23843,7 +23843,7 @@
       ]
     },
     {
-      "trip_id": "3_17596697",
+      "trip_id": "3_17700710",
       "direction_id": "0",
       "headsign": "RĘDZIN",
       "service_id": "3",
@@ -24193,7 +24193,7 @@
       ]
     },
     {
-      "trip_id": "3_17596698",
+      "trip_id": "3_17700711",
       "direction_id": "1",
       "headsign": "8 Maja",
       "service_id": "3",
@@ -24543,7 +24543,7 @@
       ]
     },
     {
-      "trip_id": "3_17596699",
+      "trip_id": "3_17700712",
       "direction_id": "0",
       "headsign": "RĘDZIN",
       "service_id": "3",
@@ -24893,7 +24893,7 @@
       ]
     },
     {
-      "trip_id": "3_17596700",
+      "trip_id": "3_17700713",
       "direction_id": "1",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "3",
@@ -25009,7 +25009,7 @@
       ]
     },
     {
-      "trip_id": "3_17599203",
+      "trip_id": "3_17703216",
       "direction_id": "0",
       "headsign": "RĘDZIN",
       "service_id": "3",
@@ -25143,7 +25143,7 @@
       ]
     },
     {
-      "trip_id": "3_17599204",
+      "trip_id": "3_17703217",
       "direction_id": "1",
       "headsign": "8 Maja",
       "service_id": "3",
@@ -25493,7 +25493,7 @@
       ]
     },
     {
-      "trip_id": "3_17599205",
+      "trip_id": "3_17703218",
       "direction_id": "0",
       "headsign": "RĘDZIN",
       "service_id": "3",
@@ -25843,7 +25843,7 @@
       ]
     },
     {
-      "trip_id": "4_17601131",
+      "trip_id": "4_17705144",
       "direction_id": "0",
       "headsign": "RĘDZIN",
       "service_id": "4",
@@ -25977,7 +25977,7 @@
       ]
     },
     {
-      "trip_id": "4_17601132",
+      "trip_id": "4_17705145",
       "direction_id": "1",
       "headsign": "8 Maja",
       "service_id": "4",
@@ -26327,7 +26327,7 @@
       ]
     },
     {
-      "trip_id": "4_17601133",
+      "trip_id": "4_17705146",
       "direction_id": "0",
       "headsign": "RĘDZIN",
       "service_id": "4",
@@ -26677,7 +26677,7 @@
       ]
     },
     {
-      "trip_id": "4_17601134",
+      "trip_id": "4_17705147",
       "direction_id": "1",
       "headsign": "8 Maja",
       "service_id": "4",
@@ -27027,7 +27027,7 @@
       ]
     },
     {
-      "trip_id": "4_17601135",
+      "trip_id": "4_17705148",
       "direction_id": "0",
       "headsign": "RĘDZIN",
       "service_id": "4",
@@ -27377,7 +27377,7 @@
       ]
     },
     {
-      "trip_id": "4_17601136",
+      "trip_id": "4_17705149",
       "direction_id": "1",
       "headsign": "8 Maja",
       "service_id": "4",
@@ -27727,7 +27727,7 @@
       ]
     },
     {
-      "trip_id": "4_17601137",
+      "trip_id": "4_17705150",
       "direction_id": "0",
       "headsign": "RĘDZIN",
       "service_id": "4",
@@ -28077,7 +28077,7 @@
       ]
     },
     {
-      "trip_id": "4_17601138",
+      "trip_id": "4_17705151",
       "direction_id": "1",
       "headsign": "8 Maja",
       "service_id": "4",
@@ -28427,7 +28427,7 @@
       ]
     },
     {
-      "trip_id": "4_17601139",
+      "trip_id": "4_17705152",
       "direction_id": "0",
       "headsign": "RĘDZIN",
       "service_id": "4",
@@ -28777,7 +28777,7 @@
       ]
     },
     {
-      "trip_id": "4_17601140",
+      "trip_id": "4_17705153",
       "direction_id": "1",
       "headsign": "8 Maja",
       "service_id": "4",
@@ -29127,7 +29127,7 @@
       ]
     },
     {
-      "trip_id": "4_17601141",
+      "trip_id": "4_17705154",
       "direction_id": "0",
       "headsign": "RĘDZIN",
       "service_id": "4",
@@ -29477,7 +29477,7 @@
       ]
     },
     {
-      "trip_id": "4_17601142",
+      "trip_id": "4_17705155",
       "direction_id": "1",
       "headsign": "8 Maja",
       "service_id": "4",
@@ -29827,7 +29827,7 @@
       ]
     },
     {
-      "trip_id": "4_17601143",
+      "trip_id": "4_17705156",
       "direction_id": "0",
       "headsign": "RĘDZIN",
       "service_id": "4",
@@ -30177,7 +30177,7 @@
       ]
     },
     {
-      "trip_id": "4_17601144",
+      "trip_id": "4_17705157",
       "direction_id": "1",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "4",
@@ -30293,7 +30293,7 @@
       ]
     },
     {
-      "trip_id": "4_17601145",
+      "trip_id": "4_17705158",
       "direction_id": "1",
       "headsign": "8 Maja",
       "service_id": "4",
@@ -30589,7 +30589,7 @@
       ]
     },
     {
-      "trip_id": "4_17601146",
+      "trip_id": "4_17705159",
       "direction_id": "0",
       "headsign": "RĘDZIN",
       "service_id": "4",
@@ -30939,7 +30939,7 @@
       ]
     },
     {
-      "trip_id": "4_17601147",
+      "trip_id": "4_17705160",
       "direction_id": "1",
       "headsign": "8 Maja",
       "service_id": "4",
@@ -31289,7 +31289,7 @@
       ]
     },
     {
-      "trip_id": "4_17601148",
+      "trip_id": "4_17705161",
       "direction_id": "0",
       "headsign": "RĘDZIN",
       "service_id": "4",
@@ -31639,7 +31639,7 @@
       ]
     },
     {
-      "trip_id": "4_17601149",
+      "trip_id": "4_17705162",
       "direction_id": "1",
       "headsign": "8 Maja",
       "service_id": "4",
@@ -31989,7 +31989,7 @@
       ]
     },
     {
-      "trip_id": "4_17601150",
+      "trip_id": "4_17705163",
       "direction_id": "0",
       "headsign": "RĘDZIN",
       "service_id": "4",
@@ -32339,7 +32339,7 @@
       ]
     },
     {
-      "trip_id": "4_17601151",
+      "trip_id": "4_17705164",
       "direction_id": "1",
       "headsign": "8 Maja",
       "service_id": "4",
@@ -32689,7 +32689,7 @@
       ]
     },
     {
-      "trip_id": "4_17601152",
+      "trip_id": "4_17705165",
       "direction_id": "0",
       "headsign": "RĘDZIN",
       "service_id": "4",
@@ -33039,7 +33039,7 @@
       ]
     },
     {
-      "trip_id": "4_17601153",
+      "trip_id": "4_17705166",
       "direction_id": "1",
       "headsign": "8 Maja",
       "service_id": "4",
@@ -33389,7 +33389,7 @@
       ]
     },
     {
-      "trip_id": "4_17601154",
+      "trip_id": "4_17705167",
       "direction_id": "0",
       "headsign": "RĘDZIN",
       "service_id": "4",
@@ -33739,7 +33739,7 @@
       ]
     },
     {
-      "trip_id": "4_17601155",
+      "trip_id": "4_17705168",
       "direction_id": "1",
       "headsign": "8 Maja",
       "service_id": "4",
@@ -34089,7 +34089,7 @@
       ]
     },
     {
-      "trip_id": "4_17601156",
+      "trip_id": "4_17705169",
       "direction_id": "0",
       "headsign": "RĘDZIN",
       "service_id": "4",
@@ -34439,7 +34439,7 @@
       ]
     },
     {
-      "trip_id": "4_17601157",
+      "trip_id": "4_17705170",
       "direction_id": "1",
       "headsign": "8 Maja",
       "service_id": "4",
@@ -34789,7 +34789,7 @@
       ]
     },
     {
-      "trip_id": "4_17601158",
+      "trip_id": "4_17705171",
       "direction_id": "0",
       "headsign": "RĘDZIN",
       "service_id": "4",
@@ -35139,7 +35139,7 @@
       ]
     },
     {
-      "trip_id": "4_17601159",
+      "trip_id": "4_17705172",
       "direction_id": "1",
       "headsign": "8 Maja",
       "service_id": "4",
@@ -35489,7 +35489,7 @@
       ]
     },
     {
-      "trip_id": "4_17601160",
+      "trip_id": "4_17705173",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "4",
@@ -35767,7 +35767,7 @@
       ]
     },
     {
-      "trip_id": "4_17601161",
+      "trip_id": "4_17705174",
       "direction_id": "1",
       "headsign": "8 Maja",
       "service_id": "4",
@@ -36063,7 +36063,7 @@
       ]
     },
     {
-      "trip_id": "4_17601162",
+      "trip_id": "4_17705175",
       "direction_id": "0",
       "headsign": "RĘDZIN",
       "service_id": "4",
@@ -36413,7 +36413,7 @@
       ]
     },
     {
-      "trip_id": "4_17601163",
+      "trip_id": "4_17705176",
       "direction_id": "1",
       "headsign": "8 Maja",
       "service_id": "4",
@@ -36763,7 +36763,7 @@
       ]
     },
     {
-      "trip_id": "4_17601164",
+      "trip_id": "4_17705177",
       "direction_id": "0",
       "headsign": "RĘDZIN",
       "service_id": "4",
@@ -37113,7 +37113,7 @@
       ]
     },
     {
-      "trip_id": "4_17601165",
+      "trip_id": "4_17705178",
       "direction_id": "1",
       "headsign": "8 Maja",
       "service_id": "4",
@@ -37463,7 +37463,7 @@
       ]
     },
     {
-      "trip_id": "4_17601166",
+      "trip_id": "4_17705179",
       "direction_id": "0",
       "headsign": "RĘDZIN",
       "service_id": "4",
@@ -37813,7 +37813,7 @@
       ]
     },
     {
-      "trip_id": "4_17601167",
+      "trip_id": "4_17705180",
       "direction_id": "1",
       "headsign": "8 Maja",
       "service_id": "4",
@@ -38163,7 +38163,7 @@
       ]
     },
     {
-      "trip_id": "4_17601168",
+      "trip_id": "4_17705181",
       "direction_id": "0",
       "headsign": "RĘDZIN",
       "service_id": "4",
@@ -38513,7 +38513,7 @@
       ]
     },
     {
-      "trip_id": "4_17601169",
+      "trip_id": "4_17705182",
       "direction_id": "1",
       "headsign": "8 Maja",
       "service_id": "4",
@@ -38863,7 +38863,7 @@
       ]
     },
     {
-      "trip_id": "4_17601170",
+      "trip_id": "4_17705183",
       "direction_id": "0",
       "headsign": "RĘDZIN",
       "service_id": "4",
@@ -39213,7 +39213,7 @@
       ]
     },
     {
-      "trip_id": "4_17601171",
+      "trip_id": "4_17705184",
       "direction_id": "1",
       "headsign": "8 Maja",
       "service_id": "4",
@@ -39563,7 +39563,7 @@
       ]
     },
     {
-      "trip_id": "4_17601172",
+      "trip_id": "4_17705185",
       "direction_id": "0",
       "headsign": "RĘDZIN",
       "service_id": "4",
@@ -39913,7 +39913,7 @@
       ]
     },
     {
-      "trip_id": "4_17601173",
+      "trip_id": "4_17705186",
       "direction_id": "1",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "4",
@@ -40029,7 +40029,7 @@
       ]
     },
     {
-      "trip_id": "4_17603610",
+      "trip_id": "4_17707623",
       "direction_id": "0",
       "headsign": "RĘDZIN",
       "service_id": "4",
@@ -40163,7 +40163,7 @@
       ]
     },
     {
-      "trip_id": "4_17603611",
+      "trip_id": "4_17707624",
       "direction_id": "1",
       "headsign": "8 Maja",
       "service_id": "4",
@@ -40513,7 +40513,7 @@
       ]
     },
     {
-      "trip_id": "4_17603612",
+      "trip_id": "4_17707625",
       "direction_id": "0",
       "headsign": "RĘDZIN",
       "service_id": "4",
@@ -40863,7 +40863,7 @@
       ]
     },
     {
-      "trip_id": "6_17605997",
+      "trip_id": "6_17710010",
       "direction_id": "0",
       "headsign": "RĘDZIN",
       "service_id": "6",
@@ -40997,7 +40997,7 @@
       ]
     },
     {
-      "trip_id": "6_17605998",
+      "trip_id": "6_17710011",
       "direction_id": "1",
       "headsign": "WOJNÓW (Pętla)",
       "service_id": "6",
@@ -41374,7 +41374,7 @@
       ]
     },
     {
-      "trip_id": "6_17606171",
+      "trip_id": "6_17710184",
       "direction_id": "0",
       "headsign": "RĘDZIN",
       "service_id": "6",
@@ -41508,7 +41508,7 @@
       ]
     },
     {
-      "trip_id": "6_17606172",
+      "trip_id": "6_17710185",
       "direction_id": "1",
       "headsign": "8 Maja",
       "service_id": "6",
@@ -41858,7 +41858,7 @@
       ]
     },
     {
-      "trip_id": "6_17606173",
+      "trip_id": "6_17710186",
       "direction_id": "0",
       "headsign": "RĘDZIN",
       "service_id": "6",
@@ -42208,7 +42208,7 @@
       ]
     },
     {
-      "trip_id": "6_17606174",
+      "trip_id": "6_17710187",
       "direction_id": "1",
       "headsign": "WOJNÓW (Pętla)",
       "service_id": "6",
@@ -42567,7 +42567,7 @@
       ]
     },
     {
-      "trip_id": "6_17606175",
+      "trip_id": "6_17710188",
       "direction_id": "0",
       "headsign": "RĘDZIN",
       "service_id": "6",
@@ -42935,7 +42935,7 @@
       ]
     },
     {
-      "trip_id": "6_17606176",
+      "trip_id": "6_17710189",
       "direction_id": "1",
       "headsign": "WOJNÓW (Pętla)",
       "service_id": "6",
@@ -43294,7 +43294,7 @@
       ]
     },
     {
-      "trip_id": "6_17606177",
+      "trip_id": "6_17710190",
       "direction_id": "0",
       "headsign": "RĘDZIN",
       "service_id": "6",
@@ -43662,7 +43662,7 @@
       ]
     },
     {
-      "trip_id": "6_17606178",
+      "trip_id": "6_17710191",
       "direction_id": "1",
       "headsign": "8 Maja",
       "service_id": "6",
@@ -44012,7 +44012,7 @@
       ]
     },
     {
-      "trip_id": "6_17606179",
+      "trip_id": "6_17710192",
       "direction_id": "0",
       "headsign": "RĘDZIN",
       "service_id": "6",
@@ -44389,7 +44389,7 @@
       ]
     },
     {
-      "trip_id": "6_17606180",
+      "trip_id": "6_17710193",
       "direction_id": "1",
       "headsign": "WOJNÓW (Pętla)",
       "service_id": "6",
@@ -44748,7 +44748,7 @@
       ]
     },
     {
-      "trip_id": "6_17606181",
+      "trip_id": "6_17710194",
       "direction_id": "0",
       "headsign": "RĘDZIN",
       "service_id": "6",
@@ -45116,7 +45116,7 @@
       ]
     },
     {
-      "trip_id": "6_17606182",
+      "trip_id": "6_17710195",
       "direction_id": "1",
       "headsign": "WOJNÓW (Pętla)",
       "service_id": "6",
@@ -45475,7 +45475,7 @@
       ]
     },
     {
-      "trip_id": "6_17606183",
+      "trip_id": "6_17710196",
       "direction_id": "0",
       "headsign": "RĘDZIN",
       "service_id": "6",
@@ -45843,7 +45843,7 @@
       ]
     },
     {
-      "trip_id": "6_17606184",
+      "trip_id": "6_17710197",
       "direction_id": "1",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "6",
@@ -45959,7 +45959,7 @@
       ]
     },
     {
-      "trip_id": "6_17606185",
+      "trip_id": "6_17710198",
       "direction_id": "0",
       "headsign": "RĘDZIN",
       "service_id": "6",
@@ -46093,7 +46093,7 @@
       ]
     },
     {
-      "trip_id": "6_17606186",
+      "trip_id": "6_17710199",
       "direction_id": "1",
       "headsign": "WOJNÓW (Pętla)",
       "service_id": "6",
@@ -46461,7 +46461,7 @@
       ]
     },
     {
-      "trip_id": "6_17606187",
+      "trip_id": "6_17710200",
       "direction_id": "0",
       "headsign": "RĘDZIN",
       "service_id": "6",
@@ -46838,7 +46838,7 @@
       ]
     },
     {
-      "trip_id": "6_17606188",
+      "trip_id": "6_17710201",
       "direction_id": "1",
       "headsign": "WOJNÓW (Pętla)",
       "service_id": "6",
@@ -47215,7 +47215,7 @@
       ]
     },
     {
-      "trip_id": "6_17606189",
+      "trip_id": "6_17710202",
       "direction_id": "0",
       "headsign": "RĘDZIN",
       "service_id": "6",
@@ -47583,7 +47583,7 @@
       ]
     },
     {
-      "trip_id": "6_17606190",
+      "trip_id": "6_17710203",
       "direction_id": "1",
       "headsign": "WOJNÓW (Pętla)",
       "service_id": "6",
@@ -47942,7 +47942,7 @@
       ]
     },
     {
-      "trip_id": "6_17606191",
+      "trip_id": "6_17710204",
       "direction_id": "0",
       "headsign": "RĘDZIN",
       "service_id": "6",
@@ -48310,7 +48310,7 @@
       ]
     },
     {
-      "trip_id": "6_17606192",
+      "trip_id": "6_17710205",
       "direction_id": "1",
       "headsign": "8 Maja",
       "service_id": "6",
@@ -48669,7 +48669,7 @@
       ]
     },
     {
-      "trip_id": "6_17606193",
+      "trip_id": "6_17710206",
       "direction_id": "0",
       "headsign": "RĘDZIN",
       "service_id": "6",
@@ -49037,7 +49037,7 @@
       ]
     },
     {
-      "trip_id": "6_17606194",
+      "trip_id": "6_17710207",
       "direction_id": "1",
       "headsign": "WOJNÓW (Pętla)",
       "service_id": "6",
@@ -49396,7 +49396,7 @@
       ]
     },
     {
-      "trip_id": "6_17606195",
+      "trip_id": "6_17710208",
       "direction_id": "0",
       "headsign": "RĘDZIN",
       "service_id": "6",
@@ -49764,7 +49764,7 @@
       ]
     },
     {
-      "trip_id": "6_17606196",
+      "trip_id": "6_17710209",
       "direction_id": "1",
       "headsign": "WOJNÓW (Pętla)",
       "service_id": "6",
@@ -50123,7 +50123,7 @@
       ]
     },
     {
-      "trip_id": "6_17606197",
+      "trip_id": "6_17710210",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "6",
@@ -50419,7 +50419,7 @@
       ]
     },
     {
-      "trip_id": "6_17606198",
+      "trip_id": "6_17710211",
       "direction_id": "0",
       "headsign": "RĘDZIN",
       "service_id": "6",
@@ -50553,7 +50553,7 @@
       ]
     },
     {
-      "trip_id": "6_17606199",
+      "trip_id": "6_17710212",
       "direction_id": "1",
       "headsign": "8 Maja",
       "service_id": "6",
@@ -50921,7 +50921,7 @@
       ]
     },
     {
-      "trip_id": "6_17606200",
+      "trip_id": "6_17710213",
       "direction_id": "0",
       "headsign": "RĘDZIN",
       "service_id": "6",
@@ -51271,7 +51271,7 @@
       ]
     },
     {
-      "trip_id": "6_17606201",
+      "trip_id": "6_17710214",
       "direction_id": "1",
       "headsign": "8 Maja",
       "service_id": "6",
@@ -51621,7 +51621,7 @@
       ]
     },
     {
-      "trip_id": "6_17606202",
+      "trip_id": "6_17710215",
       "direction_id": "0",
       "headsign": "RĘDZIN",
       "service_id": "6",
@@ -51971,7 +51971,7 @@
       ]
     },
     {
-      "trip_id": "6_17606203",
+      "trip_id": "6_17710216",
       "direction_id": "1",
       "headsign": "8 Maja",
       "service_id": "6",
@@ -52321,7 +52321,7 @@
       ]
     },
     {
-      "trip_id": "6_17606204",
+      "trip_id": "6_17710217",
       "direction_id": "0",
       "headsign": "RĘDZIN",
       "service_id": "6",
@@ -52671,7 +52671,7 @@
       ]
     },
     {
-      "trip_id": "6_17606205",
+      "trip_id": "6_17710218",
       "direction_id": "1",
       "headsign": "8 Maja",
       "service_id": "6",
@@ -53021,7 +53021,7 @@
       ]
     },
     {
-      "trip_id": "6_17606206",
+      "trip_id": "6_17710219",
       "direction_id": "0",
       "headsign": "RĘDZIN",
       "service_id": "6",
@@ -53371,7 +53371,7 @@
       ]
     },
     {
-      "trip_id": "6_17606207",
+      "trip_id": "6_17710220",
       "direction_id": "1",
       "headsign": "8 Maja",
       "service_id": "6",
@@ -53721,7 +53721,7 @@
       ]
     },
     {
-      "trip_id": "6_17606208",
+      "trip_id": "6_17710221",
       "direction_id": "0",
       "headsign": "RĘDZIN",
       "service_id": "6",
@@ -54071,7 +54071,7 @@
       ]
     },
     {
-      "trip_id": "6_17606209",
+      "trip_id": "6_17710222",
       "direction_id": "1",
       "headsign": "8 Maja",
       "service_id": "6",
@@ -54421,7 +54421,7 @@
       ]
     },
     {
-      "trip_id": "6_17606210",
+      "trip_id": "6_17710223",
       "direction_id": "0",
       "headsign": "RĘDZIN",
       "service_id": "6",
@@ -54771,7 +54771,7 @@
       ]
     },
     {
-      "trip_id": "6_17606211",
+      "trip_id": "6_17710224",
       "direction_id": "1",
       "headsign": "8 Maja",
       "service_id": "6",
@@ -55121,7 +55121,7 @@
       ]
     },
     {
-      "trip_id": "6_17606212",
+      "trip_id": "6_17710225",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "6",
@@ -55399,7 +55399,7 @@
       ]
     },
     {
-      "trip_id": "6_17606213",
+      "trip_id": "6_17710226",
       "direction_id": "0",
       "headsign": "RĘDZIN",
       "service_id": "6",
@@ -55533,7 +55533,7 @@
       ]
     },
     {
-      "trip_id": "6_17606214",
+      "trip_id": "6_17710227",
       "direction_id": "1",
       "headsign": "WOJNÓW (Pętla)",
       "service_id": "6",
@@ -55892,7 +55892,7 @@
       ]
     },
     {
-      "trip_id": "6_17606215",
+      "trip_id": "6_17710228",
       "direction_id": "0",
       "headsign": "RĘDZIN",
       "service_id": "6",
@@ -56260,7 +56260,7 @@
       ]
     },
     {
-      "trip_id": "6_17606216",
+      "trip_id": "6_17710229",
       "direction_id": "1",
       "headsign": "WOJNÓW (Pętla)",
       "service_id": "6",
@@ -56619,7 +56619,7 @@
       ]
     },
     {
-      "trip_id": "6_17606217",
+      "trip_id": "6_17710230",
       "direction_id": "0",
       "headsign": "RĘDZIN",
       "service_id": "6",
@@ -56987,7 +56987,7 @@
       ]
     },
     {
-      "trip_id": "6_17606218",
+      "trip_id": "6_17710231",
       "direction_id": "1",
       "headsign": "8 Maja",
       "service_id": "6",
@@ -57337,7 +57337,7 @@
       ]
     },
     {
-      "trip_id": "6_17606219",
+      "trip_id": "6_17710232",
       "direction_id": "0",
       "headsign": "RĘDZIN",
       "service_id": "6",
@@ -57687,7 +57687,7 @@
       ]
     },
     {
-      "trip_id": "6_17606220",
+      "trip_id": "6_17710233",
       "direction_id": "1",
       "headsign": "WOJNÓW (Pętla)",
       "service_id": "6",
@@ -58046,7 +58046,7 @@
       ]
     },
     {
-      "trip_id": "6_17606221",
+      "trip_id": "6_17710234",
       "direction_id": "0",
       "headsign": "RĘDZIN",
       "service_id": "6",
@@ -58414,7 +58414,7 @@
       ]
     },
     {
-      "trip_id": "6_17606222",
+      "trip_id": "6_17710235",
       "direction_id": "1",
       "headsign": "WOJNÓW (Pętla)",
       "service_id": "6",
@@ -58773,7 +58773,7 @@
       ]
     },
     {
-      "trip_id": "6_17606223",
+      "trip_id": "6_17710236",
       "direction_id": "0",
       "headsign": "RĘDZIN",
       "service_id": "6",
@@ -59141,7 +59141,7 @@
       ]
     },
     {
-      "trip_id": "6_17606224",
+      "trip_id": "6_17710237",
       "direction_id": "1",
       "headsign": "8 Maja",
       "service_id": "6",
@@ -59491,7 +59491,7 @@
       ]
     },
     {
-      "trip_id": "6_17606225",
+      "trip_id": "6_17710238",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "6",
@@ -59769,7 +59769,7 @@
       ]
     },
     {
-      "trip_id": "6_17606226",
+      "trip_id": "6_17710239",
       "direction_id": "1",
       "headsign": "WOJNÓW (Pętla)",
       "service_id": "6",
@@ -60074,7 +60074,7 @@
       ]
     },
     {
-      "trip_id": "6_17606227",
+      "trip_id": "6_17710240",
       "direction_id": "0",
       "headsign": "RĘDZIN",
       "service_id": "6",
@@ -60442,7 +60442,7 @@
       ]
     },
     {
-      "trip_id": "6_17606228",
+      "trip_id": "6_17710241",
       "direction_id": "1",
       "headsign": "8 Maja",
       "service_id": "6",
@@ -60810,7 +60810,7 @@
       ]
     },
     {
-      "trip_id": "6_17606229",
+      "trip_id": "6_17710242",
       "direction_id": "0",
       "headsign": "RĘDZIN",
       "service_id": "6",
@@ -61160,7 +61160,7 @@
       ]
     },
     {
-      "trip_id": "6_17606230",
+      "trip_id": "6_17710243",
       "direction_id": "1",
       "headsign": "8 Maja",
       "service_id": "6",
@@ -61510,7 +61510,7 @@
       ]
     },
     {
-      "trip_id": "6_17606231",
+      "trip_id": "6_17710244",
       "direction_id": "0",
       "headsign": "RĘDZIN",
       "service_id": "6",
@@ -61860,7 +61860,7 @@
       ]
     },
     {
-      "trip_id": "6_17606232",
+      "trip_id": "6_17710245",
       "direction_id": "1",
       "headsign": "WOJNÓW (Pętla)",
       "service_id": "6",
@@ -62219,7 +62219,7 @@
       ]
     },
     {
-      "trip_id": "6_17606233",
+      "trip_id": "6_17710246",
       "direction_id": "0",
       "headsign": "RĘDZIN",
       "service_id": "6",
@@ -62587,7 +62587,7 @@
       ]
     },
     {
-      "trip_id": "6_17606234",
+      "trip_id": "6_17710247",
       "direction_id": "1",
       "headsign": "8 Maja",
       "service_id": "6",
@@ -62937,7 +62937,7 @@
       ]
     },
     {
-      "trip_id": "6_17606235",
+      "trip_id": "6_17710248",
       "direction_id": "0",
       "headsign": "RĘDZIN",
       "service_id": "6",
@@ -63296,7 +63296,7 @@
       ]
     },
     {
-      "trip_id": "6_17606236",
+      "trip_id": "6_17710249",
       "direction_id": "1",
       "headsign": "8 Maja",
       "service_id": "6",
@@ -63646,7 +63646,7 @@
       ]
     },
     {
-      "trip_id": "6_17606237",
+      "trip_id": "6_17710250",
       "direction_id": "0",
       "headsign": "RĘDZIN",
       "service_id": "6",
@@ -63996,7 +63996,7 @@
       ]
     },
     {
-      "trip_id": "6_17606238",
+      "trip_id": "6_17710251",
       "direction_id": "1",
       "headsign": "8 Maja",
       "service_id": "6",
@@ -64355,7 +64355,7 @@
       ]
     },
     {
-      "trip_id": "6_17606239",
+      "trip_id": "6_17710252",
       "direction_id": "0",
       "headsign": "Kowalska I",
       "service_id": "6",
@@ -64462,7 +64462,7 @@
       ]
     },
     {
-      "trip_id": "6_17606240",
+      "trip_id": "6_17710253",
       "direction_id": "1",
       "headsign": "8 Maja",
       "service_id": "6",
@@ -64578,7 +64578,7 @@
       ]
     },
     {
-      "trip_id": "6_17606241",
+      "trip_id": "6_17710254",
       "direction_id": "0",
       "headsign": "RĘDZIN",
       "service_id": "6",
@@ -64937,7 +64937,7 @@
       ]
     },
     {
-      "trip_id": "6_17606242",
+      "trip_id": "6_17710255",
       "direction_id": "1",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "6",
@@ -65053,7 +65053,7 @@
       ]
     },
     {
-      "trip_id": "6_17606243",
+      "trip_id": "6_17710256",
       "direction_id": "0",
       "headsign": "RĘDZIN",
       "service_id": "6",
@@ -65187,7 +65187,7 @@
       ]
     },
     {
-      "trip_id": "6_17606244",
+      "trip_id": "6_17710257",
       "direction_id": "1",
       "headsign": "8 Maja",
       "service_id": "6",
@@ -65546,7 +65546,7 @@
       ]
     },
     {
-      "trip_id": "6_17606245",
+      "trip_id": "6_17710258",
       "direction_id": "0",
       "headsign": "RĘDZIN",
       "service_id": "6",
@@ -65896,7 +65896,7 @@
       ]
     },
     {
-      "trip_id": "6_17606246",
+      "trip_id": "6_17710259",
       "direction_id": "1",
       "headsign": "8 Maja",
       "service_id": "6",
@@ -66246,7 +66246,7 @@
       ]
     },
     {
-      "trip_id": "6_17606247",
+      "trip_id": "6_17710260",
       "direction_id": "0",
       "headsign": "RĘDZIN",
       "service_id": "6",
@@ -66596,7 +66596,7 @@
       ]
     },
     {
-      "trip_id": "6_17606248",
+      "trip_id": "6_17710261",
       "direction_id": "1",
       "headsign": "8 Maja",
       "service_id": "6",
@@ -66955,7 +66955,7 @@
       ]
     },
     {
-      "trip_id": "6_17606249",
+      "trip_id": "6_17710262",
       "direction_id": "0",
       "headsign": "RĘDZIN",
       "service_id": "6",
@@ -67323,7 +67323,7 @@
       ]
     },
     {
-      "trip_id": "6_17606250",
+      "trip_id": "6_17710263",
       "direction_id": "1",
       "headsign": "8 Maja",
       "service_id": "6",
@@ -67673,7 +67673,7 @@
       ]
     },
     {
-      "trip_id": "6_17606251",
+      "trip_id": "6_17710264",
       "direction_id": "0",
       "headsign": "RĘDZIN",
       "service_id": "6",
@@ -68023,7 +68023,7 @@
       ]
     },
     {
-      "trip_id": "6_17606252",
+      "trip_id": "6_17710265",
       "direction_id": "1",
       "headsign": "8 Maja",
       "service_id": "6",
@@ -68373,7 +68373,7 @@
       ]
     },
     {
-      "trip_id": "6_17606253",
+      "trip_id": "6_17710266",
       "direction_id": "0",
       "headsign": "RĘDZIN",
       "service_id": "6",
@@ -68723,7 +68723,7 @@
       ]
     },
     {
-      "trip_id": "6_17606254",
+      "trip_id": "6_17710267",
       "direction_id": "1",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "6",
@@ -68839,7 +68839,7 @@
       ]
     },
     {
-      "trip_id": "6_17609800",
+      "trip_id": "6_17713813",
       "direction_id": "0",
       "headsign": "RĘDZIN",
       "service_id": "6",
@@ -68973,7 +68973,7 @@
       ]
     },
     {
-      "trip_id": "6_17609801",
+      "trip_id": "6_17713814",
       "direction_id": "1",
       "headsign": "8 Maja",
       "service_id": "6",
@@ -69323,7 +69323,7 @@
       ]
     },
     {
-      "trip_id": "6_17609802",
+      "trip_id": "6_17713815",
       "direction_id": "0",
       "headsign": "RĘDZIN",
       "service_id": "6",
@@ -69673,7 +69673,7 @@
       ]
     },
     {
-      "trip_id": "8_17612823",
+      "trip_id": "8_17716836",
       "direction_id": "0",
       "headsign": "RĘDZIN",
       "service_id": "8",
@@ -69807,7 +69807,7 @@
       ]
     },
     {
-      "trip_id": "8_17612824",
+      "trip_id": "8_17716837",
       "direction_id": "1",
       "headsign": "WOJNÓW (Pętla)",
       "service_id": "8",
@@ -70184,7 +70184,7 @@
       ]
     },
     {
-      "trip_id": "8_17612997",
+      "trip_id": "8_17717010",
       "direction_id": "0",
       "headsign": "RĘDZIN",
       "service_id": "8",
@@ -70318,7 +70318,7 @@
       ]
     },
     {
-      "trip_id": "8_17612998",
+      "trip_id": "8_17717011",
       "direction_id": "1",
       "headsign": "8 Maja",
       "service_id": "8",
@@ -70668,7 +70668,7 @@
       ]
     },
     {
-      "trip_id": "8_17612999",
+      "trip_id": "8_17717012",
       "direction_id": "0",
       "headsign": "RĘDZIN",
       "service_id": "8",
@@ -71018,7 +71018,7 @@
       ]
     },
     {
-      "trip_id": "8_17613000",
+      "trip_id": "8_17717013",
       "direction_id": "1",
       "headsign": "WOJNÓW (Pętla)",
       "service_id": "8",
@@ -71377,7 +71377,7 @@
       ]
     },
     {
-      "trip_id": "8_17613001",
+      "trip_id": "8_17717014",
       "direction_id": "0",
       "headsign": "RĘDZIN",
       "service_id": "8",
@@ -71745,7 +71745,7 @@
       ]
     },
     {
-      "trip_id": "8_17613002",
+      "trip_id": "8_17717015",
       "direction_id": "1",
       "headsign": "WOJNÓW (Pętla)",
       "service_id": "8",
@@ -72104,7 +72104,7 @@
       ]
     },
     {
-      "trip_id": "8_17613003",
+      "trip_id": "8_17717016",
       "direction_id": "0",
       "headsign": "RĘDZIN",
       "service_id": "8",
@@ -72472,7 +72472,7 @@
       ]
     },
     {
-      "trip_id": "8_17613004",
+      "trip_id": "8_17717017",
       "direction_id": "1",
       "headsign": "8 Maja",
       "service_id": "8",
@@ -72822,7 +72822,7 @@
       ]
     },
     {
-      "trip_id": "8_17613005",
+      "trip_id": "8_17717018",
       "direction_id": "0",
       "headsign": "RĘDZIN",
       "service_id": "8",
@@ -73199,7 +73199,7 @@
       ]
     },
     {
-      "trip_id": "8_17613006",
+      "trip_id": "8_17717019",
       "direction_id": "1",
       "headsign": "WOJNÓW (Pętla)",
       "service_id": "8",
@@ -73558,7 +73558,7 @@
       ]
     },
     {
-      "trip_id": "8_17613007",
+      "trip_id": "8_17717020",
       "direction_id": "0",
       "headsign": "RĘDZIN",
       "service_id": "8",
@@ -73926,7 +73926,7 @@
       ]
     },
     {
-      "trip_id": "8_17613008",
+      "trip_id": "8_17717021",
       "direction_id": "1",
       "headsign": "WOJNÓW (Pętla)",
       "service_id": "8",
@@ -74285,7 +74285,7 @@
       ]
     },
     {
-      "trip_id": "8_17613009",
+      "trip_id": "8_17717022",
       "direction_id": "0",
       "headsign": "RĘDZIN",
       "service_id": "8",
@@ -74653,7 +74653,7 @@
       ]
     },
     {
-      "trip_id": "8_17613010",
+      "trip_id": "8_17717023",
       "direction_id": "1",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "8",
@@ -74769,7 +74769,7 @@
       ]
     },
     {
-      "trip_id": "8_17613011",
+      "trip_id": "8_17717024",
       "direction_id": "0",
       "headsign": "RĘDZIN",
       "service_id": "8",
@@ -74903,7 +74903,7 @@
       ]
     },
     {
-      "trip_id": "8_17613012",
+      "trip_id": "8_17717025",
       "direction_id": "1",
       "headsign": "WOJNÓW (Pętla)",
       "service_id": "8",
@@ -75271,7 +75271,7 @@
       ]
     },
     {
-      "trip_id": "8_17613013",
+      "trip_id": "8_17717026",
       "direction_id": "0",
       "headsign": "RĘDZIN",
       "service_id": "8",
@@ -75648,7 +75648,7 @@
       ]
     },
     {
-      "trip_id": "8_17613014",
+      "trip_id": "8_17717027",
       "direction_id": "1",
       "headsign": "WOJNÓW (Pętla)",
       "service_id": "8",
@@ -76025,7 +76025,7 @@
       ]
     },
     {
-      "trip_id": "8_17613015",
+      "trip_id": "8_17717028",
       "direction_id": "0",
       "headsign": "RĘDZIN",
       "service_id": "8",
@@ -76393,7 +76393,7 @@
       ]
     },
     {
-      "trip_id": "8_17613016",
+      "trip_id": "8_17717029",
       "direction_id": "1",
       "headsign": "WOJNÓW (Pętla)",
       "service_id": "8",
@@ -76752,7 +76752,7 @@
       ]
     },
     {
-      "trip_id": "8_17613017",
+      "trip_id": "8_17717030",
       "direction_id": "0",
       "headsign": "RĘDZIN",
       "service_id": "8",
@@ -77120,7 +77120,7 @@
       ]
     },
     {
-      "trip_id": "8_17613018",
+      "trip_id": "8_17717031",
       "direction_id": "1",
       "headsign": "8 Maja",
       "service_id": "8",
@@ -77479,7 +77479,7 @@
       ]
     },
     {
-      "trip_id": "8_17613019",
+      "trip_id": "8_17717032",
       "direction_id": "0",
       "headsign": "RĘDZIN",
       "service_id": "8",
@@ -77847,7 +77847,7 @@
       ]
     },
     {
-      "trip_id": "8_17613020",
+      "trip_id": "8_17717033",
       "direction_id": "1",
       "headsign": "WOJNÓW (Pętla)",
       "service_id": "8",
@@ -78206,7 +78206,7 @@
       ]
     },
     {
-      "trip_id": "8_17613021",
+      "trip_id": "8_17717034",
       "direction_id": "0",
       "headsign": "RĘDZIN",
       "service_id": "8",
@@ -78574,7 +78574,7 @@
       ]
     },
     {
-      "trip_id": "8_17613022",
+      "trip_id": "8_17717035",
       "direction_id": "1",
       "headsign": "WOJNÓW (Pętla)",
       "service_id": "8",
@@ -78933,7 +78933,7 @@
       ]
     },
     {
-      "trip_id": "8_17613023",
+      "trip_id": "8_17717036",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "8",
@@ -79229,7 +79229,7 @@
       ]
     },
     {
-      "trip_id": "8_17613024",
+      "trip_id": "8_17717037",
       "direction_id": "0",
       "headsign": "RĘDZIN",
       "service_id": "8",
@@ -79363,7 +79363,7 @@
       ]
     },
     {
-      "trip_id": "8_17613025",
+      "trip_id": "8_17717038",
       "direction_id": "1",
       "headsign": "8 Maja",
       "service_id": "8",
@@ -79731,7 +79731,7 @@
       ]
     },
     {
-      "trip_id": "8_17613026",
+      "trip_id": "8_17717039",
       "direction_id": "0",
       "headsign": "RĘDZIN",
       "service_id": "8",
@@ -80081,7 +80081,7 @@
       ]
     },
     {
-      "trip_id": "8_17613027",
+      "trip_id": "8_17717040",
       "direction_id": "1",
       "headsign": "8 Maja",
       "service_id": "8",
@@ -80431,7 +80431,7 @@
       ]
     },
     {
-      "trip_id": "8_17613028",
+      "trip_id": "8_17717041",
       "direction_id": "0",
       "headsign": "RĘDZIN",
       "service_id": "8",
@@ -80781,7 +80781,7 @@
       ]
     },
     {
-      "trip_id": "8_17613029",
+      "trip_id": "8_17717042",
       "direction_id": "1",
       "headsign": "8 Maja",
       "service_id": "8",
@@ -81131,7 +81131,7 @@
       ]
     },
     {
-      "trip_id": "8_17613030",
+      "trip_id": "8_17717043",
       "direction_id": "0",
       "headsign": "RĘDZIN",
       "service_id": "8",
@@ -81481,7 +81481,7 @@
       ]
     },
     {
-      "trip_id": "8_17613031",
+      "trip_id": "8_17717044",
       "direction_id": "1",
       "headsign": "8 Maja",
       "service_id": "8",
@@ -81831,7 +81831,7 @@
       ]
     },
     {
-      "trip_id": "8_17613032",
+      "trip_id": "8_17717045",
       "direction_id": "0",
       "headsign": "RĘDZIN",
       "service_id": "8",
@@ -82181,7 +82181,7 @@
       ]
     },
     {
-      "trip_id": "8_17613033",
+      "trip_id": "8_17717046",
       "direction_id": "1",
       "headsign": "8 Maja",
       "service_id": "8",
@@ -82531,7 +82531,7 @@
       ]
     },
     {
-      "trip_id": "8_17613034",
+      "trip_id": "8_17717047",
       "direction_id": "0",
       "headsign": "RĘDZIN",
       "service_id": "8",
@@ -82881,7 +82881,7 @@
       ]
     },
     {
-      "trip_id": "8_17613035",
+      "trip_id": "8_17717048",
       "direction_id": "1",
       "headsign": "8 Maja",
       "service_id": "8",
@@ -83231,7 +83231,7 @@
       ]
     },
     {
-      "trip_id": "8_17613036",
+      "trip_id": "8_17717049",
       "direction_id": "0",
       "headsign": "RĘDZIN",
       "service_id": "8",
@@ -83581,7 +83581,7 @@
       ]
     },
     {
-      "trip_id": "8_17613037",
+      "trip_id": "8_17717050",
       "direction_id": "1",
       "headsign": "8 Maja",
       "service_id": "8",
@@ -83931,7 +83931,7 @@
       ]
     },
     {
-      "trip_id": "8_17613038",
+      "trip_id": "8_17717051",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "8",
@@ -84209,7 +84209,7 @@
       ]
     },
     {
-      "trip_id": "8_17613039",
+      "trip_id": "8_17717052",
       "direction_id": "0",
       "headsign": "RĘDZIN",
       "service_id": "8",
@@ -84343,7 +84343,7 @@
       ]
     },
     {
-      "trip_id": "8_17613040",
+      "trip_id": "8_17717053",
       "direction_id": "1",
       "headsign": "WOJNÓW (Pętla)",
       "service_id": "8",
@@ -84702,7 +84702,7 @@
       ]
     },
     {
-      "trip_id": "8_17613041",
+      "trip_id": "8_17717054",
       "direction_id": "0",
       "headsign": "RĘDZIN",
       "service_id": "8",
@@ -85070,7 +85070,7 @@
       ]
     },
     {
-      "trip_id": "8_17613042",
+      "trip_id": "8_17717055",
       "direction_id": "1",
       "headsign": "WOJNÓW (Pętla)",
       "service_id": "8",
@@ -85429,7 +85429,7 @@
       ]
     },
     {
-      "trip_id": "8_17613043",
+      "trip_id": "8_17717056",
       "direction_id": "0",
       "headsign": "RĘDZIN",
       "service_id": "8",
@@ -85797,7 +85797,7 @@
       ]
     },
     {
-      "trip_id": "8_17613044",
+      "trip_id": "8_17717057",
       "direction_id": "1",
       "headsign": "8 Maja",
       "service_id": "8",
@@ -86147,7 +86147,7 @@
       ]
     },
     {
-      "trip_id": "8_17613045",
+      "trip_id": "8_17717058",
       "direction_id": "0",
       "headsign": "RĘDZIN",
       "service_id": "8",
@@ -86497,7 +86497,7 @@
       ]
     },
     {
-      "trip_id": "8_17613046",
+      "trip_id": "8_17717059",
       "direction_id": "1",
       "headsign": "WOJNÓW (Pętla)",
       "service_id": "8",
@@ -86856,7 +86856,7 @@
       ]
     },
     {
-      "trip_id": "8_17613047",
+      "trip_id": "8_17717060",
       "direction_id": "0",
       "headsign": "RĘDZIN",
       "service_id": "8",
@@ -87224,7 +87224,7 @@
       ]
     },
     {
-      "trip_id": "8_17613048",
+      "trip_id": "8_17717061",
       "direction_id": "1",
       "headsign": "WOJNÓW (Pętla)",
       "service_id": "8",
@@ -87583,7 +87583,7 @@
       ]
     },
     {
-      "trip_id": "8_17613049",
+      "trip_id": "8_17717062",
       "direction_id": "0",
       "headsign": "RĘDZIN",
       "service_id": "8",
@@ -87951,7 +87951,7 @@
       ]
     },
     {
-      "trip_id": "8_17613050",
+      "trip_id": "8_17717063",
       "direction_id": "1",
       "headsign": "8 Maja",
       "service_id": "8",
@@ -88301,7 +88301,7 @@
       ]
     },
     {
-      "trip_id": "8_17613051",
+      "trip_id": "8_17717064",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "8",
@@ -88579,7 +88579,7 @@
       ]
     },
     {
-      "trip_id": "8_17613052",
+      "trip_id": "8_17717065",
       "direction_id": "1",
       "headsign": "WOJNÓW (Pętla)",
       "service_id": "8",
@@ -88884,7 +88884,7 @@
       ]
     },
     {
-      "trip_id": "8_17613053",
+      "trip_id": "8_17717066",
       "direction_id": "0",
       "headsign": "RĘDZIN",
       "service_id": "8",
@@ -89252,7 +89252,7 @@
       ]
     },
     {
-      "trip_id": "8_17613054",
+      "trip_id": "8_17717067",
       "direction_id": "1",
       "headsign": "8 Maja",
       "service_id": "8",
@@ -89620,7 +89620,7 @@
       ]
     },
     {
-      "trip_id": "8_17613055",
+      "trip_id": "8_17717068",
       "direction_id": "0",
       "headsign": "RĘDZIN",
       "service_id": "8",
@@ -89970,7 +89970,7 @@
       ]
     },
     {
-      "trip_id": "8_17613056",
+      "trip_id": "8_17717069",
       "direction_id": "1",
       "headsign": "8 Maja",
       "service_id": "8",
@@ -90320,7 +90320,7 @@
       ]
     },
     {
-      "trip_id": "8_17613057",
+      "trip_id": "8_17717070",
       "direction_id": "0",
       "headsign": "RĘDZIN",
       "service_id": "8",
@@ -90670,7 +90670,7 @@
       ]
     },
     {
-      "trip_id": "8_17613058",
+      "trip_id": "8_17717071",
       "direction_id": "1",
       "headsign": "WOJNÓW (Pętla)",
       "service_id": "8",
@@ -91029,7 +91029,7 @@
       ]
     },
     {
-      "trip_id": "8_17613059",
+      "trip_id": "8_17717072",
       "direction_id": "0",
       "headsign": "RĘDZIN",
       "service_id": "8",
@@ -91397,7 +91397,7 @@
       ]
     },
     {
-      "trip_id": "8_17613060",
+      "trip_id": "8_17717073",
       "direction_id": "1",
       "headsign": "8 Maja",
       "service_id": "8",
@@ -91747,7 +91747,7 @@
       ]
     },
     {
-      "trip_id": "8_17613061",
+      "trip_id": "8_17717074",
       "direction_id": "0",
       "headsign": "RĘDZIN",
       "service_id": "8",
@@ -92106,7 +92106,7 @@
       ]
     },
     {
-      "trip_id": "8_17613062",
+      "trip_id": "8_17717075",
       "direction_id": "1",
       "headsign": "8 Maja",
       "service_id": "8",
@@ -92456,7 +92456,7 @@
       ]
     },
     {
-      "trip_id": "8_17613063",
+      "trip_id": "8_17717076",
       "direction_id": "0",
       "headsign": "RĘDZIN",
       "service_id": "8",
@@ -92806,7 +92806,7 @@
       ]
     },
     {
-      "trip_id": "8_17613064",
+      "trip_id": "8_17717077",
       "direction_id": "1",
       "headsign": "8 Maja",
       "service_id": "8",
@@ -93165,7 +93165,7 @@
       ]
     },
     {
-      "trip_id": "8_17613065",
+      "trip_id": "8_17717078",
       "direction_id": "0",
       "headsign": "Kowalska I",
       "service_id": "8",
@@ -93272,7 +93272,7 @@
       ]
     },
     {
-      "trip_id": "8_17613066",
+      "trip_id": "8_17717079",
       "direction_id": "1",
       "headsign": "8 Maja",
       "service_id": "8",
@@ -93388,7 +93388,7 @@
       ]
     },
     {
-      "trip_id": "8_17613067",
+      "trip_id": "8_17717080",
       "direction_id": "0",
       "headsign": "RĘDZIN",
       "service_id": "8",
@@ -93747,7 +93747,7 @@
       ]
     },
     {
-      "trip_id": "8_17613068",
+      "trip_id": "8_17717081",
       "direction_id": "1",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "8",
@@ -93863,7 +93863,7 @@
       ]
     },
     {
-      "trip_id": "8_17613069",
+      "trip_id": "8_17717082",
       "direction_id": "0",
       "headsign": "RĘDZIN",
       "service_id": "8",
@@ -93997,7 +93997,7 @@
       ]
     },
     {
-      "trip_id": "8_17613070",
+      "trip_id": "8_17717083",
       "direction_id": "1",
       "headsign": "8 Maja",
       "service_id": "8",
@@ -94356,7 +94356,7 @@
       ]
     },
     {
-      "trip_id": "8_17613071",
+      "trip_id": "8_17717084",
       "direction_id": "0",
       "headsign": "RĘDZIN",
       "service_id": "8",
@@ -94706,7 +94706,7 @@
       ]
     },
     {
-      "trip_id": "8_17613072",
+      "trip_id": "8_17717085",
       "direction_id": "1",
       "headsign": "8 Maja",
       "service_id": "8",
@@ -95056,7 +95056,7 @@
       ]
     },
     {
-      "trip_id": "8_17613073",
+      "trip_id": "8_17717086",
       "direction_id": "0",
       "headsign": "RĘDZIN",
       "service_id": "8",
@@ -95406,7 +95406,7 @@
       ]
     },
     {
-      "trip_id": "8_17613074",
+      "trip_id": "8_17717087",
       "direction_id": "1",
       "headsign": "8 Maja",
       "service_id": "8",
@@ -95765,7 +95765,7 @@
       ]
     },
     {
-      "trip_id": "8_17613075",
+      "trip_id": "8_17717088",
       "direction_id": "0",
       "headsign": "RĘDZIN",
       "service_id": "8",
@@ -96133,7 +96133,7 @@
       ]
     },
     {
-      "trip_id": "8_17613076",
+      "trip_id": "8_17717089",
       "direction_id": "1",
       "headsign": "8 Maja",
       "service_id": "8",
@@ -96483,7 +96483,7 @@
       ]
     },
     {
-      "trip_id": "8_17613077",
+      "trip_id": "8_17717090",
       "direction_id": "0",
       "headsign": "RĘDZIN",
       "service_id": "8",
@@ -96833,7 +96833,7 @@
       ]
     },
     {
-      "trip_id": "8_17613078",
+      "trip_id": "8_17717091",
       "direction_id": "1",
       "headsign": "8 Maja",
       "service_id": "8",
@@ -97183,7 +97183,7 @@
       ]
     },
     {
-      "trip_id": "8_17613079",
+      "trip_id": "8_17717092",
       "direction_id": "0",
       "headsign": "RĘDZIN",
       "service_id": "8",
@@ -97533,7 +97533,7 @@
       ]
     },
     {
-      "trip_id": "8_17613080",
+      "trip_id": "8_17717093",
       "direction_id": "1",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "8",
@@ -97649,7 +97649,7 @@
       ]
     },
     {
-      "trip_id": "8_17616631",
+      "trip_id": "8_17720644",
       "direction_id": "0",
       "headsign": "RĘDZIN",
       "service_id": "8",
@@ -97783,7 +97783,7 @@
       ]
     },
     {
-      "trip_id": "8_17616632",
+      "trip_id": "8_17720645",
       "direction_id": "1",
       "headsign": "8 Maja",
       "service_id": "8",
@@ -98133,7 +98133,7 @@
       ]
     },
     {
-      "trip_id": "8_17616633",
+      "trip_id": "8_17720646",
       "direction_id": "0",
       "headsign": "RĘDZIN",
       "service_id": "8",

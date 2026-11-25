@@ -2,7 +2,7 @@
   "line": "928",
   "trips": [
     {
-      "trip_id": "3_17618373",
+      "trip_id": "3_17637053",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "3",
@@ -325,7 +325,7 @@
       ]
     },
     {
-      "trip_id": "3_17618374",
+      "trip_id": "3_17637054",
       "direction_id": "1",
       "headsign": "Januszkowice - Wrocławska",
       "service_id": "3",
@@ -639,7 +639,7 @@
       ]
     },
     {
-      "trip_id": "3_17618375",
+      "trip_id": "3_17637055",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "3",
@@ -935,7 +935,7 @@
       ]
     },
     {
-      "trip_id": "3_17618376",
+      "trip_id": "3_17637056",
       "direction_id": "1",
       "headsign": "Januszkowice - Wrocławska",
       "service_id": "3",
@@ -1231,7 +1231,7 @@
       ]
     },
     {
-      "trip_id": "3_17618377",
+      "trip_id": "3_17637057",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "3",
@@ -1527,7 +1527,7 @@
       ]
     },
     {
-      "trip_id": "3_17618378",
+      "trip_id": "3_17637058",
       "direction_id": "1",
       "headsign": "Januszkowice - Wrocławska",
       "service_id": "3",
@@ -1823,7 +1823,7 @@
       ]
     },
     {
-      "trip_id": "3_17618379",
+      "trip_id": "3_17637059",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "3",
@@ -2119,7 +2119,7 @@
       ]
     },
     {
-      "trip_id": "3_17618380",
+      "trip_id": "3_17637060",
       "direction_id": "1",
       "headsign": "Januszkowice - Wrocławska",
       "service_id": "3",
@@ -2415,7 +2415,7 @@
       ]
     },
     {
-      "trip_id": "3_17618381",
+      "trip_id": "3_17637061",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "3",
@@ -2738,7 +2738,7 @@
       ]
     },
     {
-      "trip_id": "3_17618382",
+      "trip_id": "3_17637062",
       "direction_id": "1",
       "headsign": "Januszkowice - Wrocławska",
       "service_id": "3",
@@ -3052,7 +3052,7 @@
       ]
     },
     {
-      "trip_id": "3_17618383",
+      "trip_id": "3_17637063",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "3",
@@ -3348,7 +3348,7 @@
       ]
     },
     {
-      "trip_id": "3_17618384",
+      "trip_id": "3_17637064",
       "direction_id": "1",
       "headsign": "Januszkowice - Wrocławska",
       "service_id": "3",
@@ -3644,7 +3644,7 @@
       ]
     },
     {
-      "trip_id": "3_17618385",
+      "trip_id": "3_17637065",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "3",
@@ -3940,7 +3940,7 @@
       ]
     },
     {
-      "trip_id": "3_17618386",
+      "trip_id": "3_17637066",
       "direction_id": "1",
       "headsign": "Januszkowice - Wrocławska",
       "service_id": "3",
@@ -4236,7 +4236,7 @@
       ]
     },
     {
-      "trip_id": "3_17618387",
+      "trip_id": "3_17637067",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "3",
@@ -4532,7 +4532,7 @@
       ]
     },
     {
-      "trip_id": "3_17618388",
+      "trip_id": "3_17637068",
       "direction_id": "1",
       "headsign": "Januszkowice - Wrocławska",
       "service_id": "3",
@@ -4828,7 +4828,7 @@
       ]
     },
     {
-      "trip_id": "3_17618389",
+      "trip_id": "3_17637069",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "3",
@@ -5151,7 +5151,7 @@
       ]
     },
     {
-      "trip_id": "3_17618390",
+      "trip_id": "3_17637070",
       "direction_id": "1",
       "headsign": "Januszkowice - Wrocławska",
       "service_id": "3",
@@ -5465,7 +5465,7 @@
       ]
     },
     {
-      "trip_id": "3_17618391",
+      "trip_id": "3_17637071",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "3",
@@ -5761,7 +5761,7 @@
       ]
     },
     {
-      "trip_id": "3_17618392",
+      "trip_id": "3_17637072",
       "direction_id": "1",
       "headsign": "Januszkowice - Wrocławska",
       "service_id": "3",
@@ -6057,7 +6057,7 @@
       ]
     },
     {
-      "trip_id": "3_17618393",
+      "trip_id": "3_17637073",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "3",
@@ -6335,7 +6335,7 @@
       ]
     },
     {
-      "trip_id": "3_17618394",
+      "trip_id": "3_17637074",
       "direction_id": "1",
       "headsign": "Januszkowice - Wrocławska",
       "service_id": "3",
@@ -6613,7 +6613,7 @@
       ]
     },
     {
-      "trip_id": "3_17618395",
+      "trip_id": "3_17637075",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "3",
@@ -6891,7 +6891,7 @@
       ]
     },
     {
-      "trip_id": "3_17618396",
+      "trip_id": "3_17637076",
       "direction_id": "1",
       "headsign": "Januszkowice - Wrocławska",
       "service_id": "3",
@@ -7169,7 +7169,7 @@
       ]
     },
     {
-      "trip_id": "3_17618397",
+      "trip_id": "3_17637077",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "3",
@@ -7447,7 +7447,7 @@
       ]
     },
     {
-      "trip_id": "3_17618398",
+      "trip_id": "3_17637078",
       "direction_id": "1",
       "headsign": "Januszkowice - Wrocławska",
       "service_id": "3",
@@ -7725,7 +7725,7 @@
       ]
     },
     {
-      "trip_id": "3_17618399",
+      "trip_id": "3_17637079",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "3",
@@ -8003,7 +8003,7 @@
       ]
     },
     {
-      "trip_id": "3_17618400",
+      "trip_id": "3_17637080",
       "direction_id": "1",
       "headsign": "Januszkowice - Wrocławska",
       "service_id": "3",
@@ -8281,7 +8281,7 @@
       ]
     },
     {
-      "trip_id": "3_17618401",
+      "trip_id": "3_17637081",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "3",
@@ -8559,7 +8559,7 @@
       ]
     },
     {
-      "trip_id": "3_17618402",
+      "trip_id": "3_17637082",
       "direction_id": "1",
       "headsign": "Januszkowice - Wrocławska",
       "service_id": "3",
@@ -8837,7 +8837,7 @@
       ]
     },
     {
-      "trip_id": "3_17618403",
+      "trip_id": "3_17637083",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "3",
@@ -9115,7 +9115,7 @@
       ]
     },
     {
-      "trip_id": "3_17618404",
+      "trip_id": "3_17637084",
       "direction_id": "1",
       "headsign": "Januszkowice - Wrocławska",
       "service_id": "3",
@@ -9393,7 +9393,7 @@
       ]
     },
     {
-      "trip_id": "3_17618405",
+      "trip_id": "3_17637085",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "3",
@@ -9671,7 +9671,7 @@
       ]
     },
     {
-      "trip_id": "3_17618406",
+      "trip_id": "3_17637086",
       "direction_id": "1",
       "headsign": "Januszkowice - Wrocławska",
       "service_id": "3",
@@ -9949,7 +9949,7 @@
       ]
     },
     {
-      "trip_id": "3_17618407",
+      "trip_id": "3_17637087",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "3",
@@ -10245,7 +10245,7 @@
       ]
     },
     {
-      "trip_id": "3_17618408",
+      "trip_id": "3_17637088",
       "direction_id": "1",
       "headsign": "Januszkowice - Wrocławska",
       "service_id": "3",
@@ -10541,7 +10541,7 @@
       ]
     },
     {
-      "trip_id": "4_17618972",
+      "trip_id": "4_17637647",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "4",
@@ -10837,7 +10837,7 @@
       ]
     },
     {
-      "trip_id": "4_17618973",
+      "trip_id": "4_17637648",
       "direction_id": "1",
       "headsign": "Januszkowice - Wrocławska",
       "service_id": "4",
@@ -11133,7 +11133,7 @@
       ]
     },
     {
-      "trip_id": "4_17618974",
+      "trip_id": "4_17637649",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "4",
@@ -11429,7 +11429,7 @@
       ]
     },
     {
-      "trip_id": "4_17618975",
+      "trip_id": "4_17637650",
       "direction_id": "1",
       "headsign": "Januszkowice - Wrocławska",
       "service_id": "4",
@@ -11725,7 +11725,7 @@
       ]
     },
     {
-      "trip_id": "4_17618976",
+      "trip_id": "4_17637651",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "4",
@@ -12021,7 +12021,7 @@
       ]
     },
     {
-      "trip_id": "4_17618977",
+      "trip_id": "4_17637652",
       "direction_id": "1",
       "headsign": "Januszkowice - Wrocławska",
       "service_id": "4",
@@ -12317,7 +12317,7 @@
       ]
     },
     {
-      "trip_id": "4_17618978",
+      "trip_id": "4_17637653",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "4",
@@ -12640,7 +12640,7 @@
       ]
     },
     {
-      "trip_id": "4_17618979",
+      "trip_id": "4_17637654",
       "direction_id": "1",
       "headsign": "Januszkowice - Wrocławska",
       "service_id": "4",
@@ -12954,7 +12954,7 @@
       ]
     },
     {
-      "trip_id": "4_17618980",
+      "trip_id": "4_17637655",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "4",
@@ -13250,7 +13250,7 @@
       ]
     },
     {
-      "trip_id": "4_17618981",
+      "trip_id": "4_17637656",
       "direction_id": "1",
       "headsign": "Januszkowice - Wrocławska",
       "service_id": "4",
@@ -13546,7 +13546,7 @@
       ]
     },
     {
-      "trip_id": "4_17618982",
+      "trip_id": "4_17637657",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "4",
@@ -13842,7 +13842,7 @@
       ]
     },
     {
-      "trip_id": "4_17618983",
+      "trip_id": "4_17637658",
       "direction_id": "1",
       "headsign": "Januszkowice - Wrocławska",
       "service_id": "4",
@@ -14138,7 +14138,7 @@
       ]
     },
     {
-      "trip_id": "4_17618984",
+      "trip_id": "4_17637659",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "4",
@@ -14434,7 +14434,7 @@
       ]
     },
     {
-      "trip_id": "4_17618985",
+      "trip_id": "4_17637660",
       "direction_id": "1",
       "headsign": "Januszkowice - Wrocławska",
       "service_id": "4",
@@ -14730,7 +14730,7 @@
       ]
     },
     {
-      "trip_id": "4_17618986",
+      "trip_id": "4_17637661",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "4",
@@ -15053,7 +15053,7 @@
       ]
     },
     {
-      "trip_id": "4_17618987",
+      "trip_id": "4_17637662",
       "direction_id": "1",
       "headsign": "Januszkowice - Wrocławska",
       "service_id": "4",
@@ -15367,7 +15367,7 @@
       ]
     },
     {
-      "trip_id": "4_17618988",
+      "trip_id": "4_17637663",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "4",
@@ -15663,7 +15663,7 @@
       ]
     },
     {
-      "trip_id": "4_17618989",
+      "trip_id": "4_17637664",
       "direction_id": "1",
       "headsign": "Januszkowice - Wrocławska",
       "service_id": "4",
@@ -15959,7 +15959,7 @@
       ]
     },
     {
-      "trip_id": "4_17618990",
+      "trip_id": "4_17637665",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "4",
@@ -16237,7 +16237,7 @@
       ]
     },
     {
-      "trip_id": "4_17618991",
+      "trip_id": "4_17637666",
       "direction_id": "1",
       "headsign": "Januszkowice - Wrocławska",
       "service_id": "4",
@@ -16515,7 +16515,7 @@
       ]
     },
     {
-      "trip_id": "4_17618992",
+      "trip_id": "4_17637667",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "4",
@@ -16793,7 +16793,7 @@
       ]
     },
     {
-      "trip_id": "4_17618993",
+      "trip_id": "4_17637668",
       "direction_id": "1",
       "headsign": "Januszkowice - Wrocławska",
       "service_id": "4",
@@ -17071,7 +17071,7 @@
       ]
     },
     {
-      "trip_id": "4_17618994",
+      "trip_id": "4_17637669",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "4",
@@ -17349,7 +17349,7 @@
       ]
     },
     {
-      "trip_id": "4_17618995",
+      "trip_id": "4_17637670",
       "direction_id": "1",
       "headsign": "Januszkowice - Wrocławska",
       "service_id": "4",
@@ -17627,7 +17627,7 @@
       ]
     },
     {
-      "trip_id": "4_17618996",
+      "trip_id": "4_17637671",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "4",
@@ -17905,7 +17905,7 @@
       ]
     },
     {
-      "trip_id": "4_17618997",
+      "trip_id": "4_17637672",
       "direction_id": "1",
       "headsign": "Januszkowice - Wrocławska",
       "service_id": "4",
@@ -18183,7 +18183,7 @@
       ]
     },
     {
-      "trip_id": "4_17618998",
+      "trip_id": "4_17637673",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "4",
@@ -18461,7 +18461,7 @@
       ]
     },
     {
-      "trip_id": "4_17618999",
+      "trip_id": "4_17637674",
       "direction_id": "1",
       "headsign": "Januszkowice - Wrocławska",
       "service_id": "4",
@@ -18739,7 +18739,7 @@
       ]
     },
     {
-      "trip_id": "4_17619000",
+      "trip_id": "4_17637675",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "4",
@@ -19017,7 +19017,7 @@
       ]
     },
     {
-      "trip_id": "4_17619001",
+      "trip_id": "4_17637676",
       "direction_id": "1",
       "headsign": "Januszkowice - Wrocławska",
       "service_id": "4",
@@ -19295,7 +19295,7 @@
       ]
     },
     {
-      "trip_id": "4_17619002",
+      "trip_id": "4_17637677",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "4",
@@ -19573,7 +19573,7 @@
       ]
     },
     {
-      "trip_id": "4_17619003",
+      "trip_id": "4_17637678",
       "direction_id": "1",
       "headsign": "Januszkowice - Wrocławska",
       "service_id": "4",
@@ -19851,7 +19851,7 @@
       ]
     },
     {
-      "trip_id": "6_17619420",
+      "trip_id": "6_17638095",
       "direction_id": "1",
       "headsign": "Bierzyce - wieś",
       "service_id": "6",
@@ -20093,7 +20093,7 @@
       ]
     },
     {
-      "trip_id": "6_17619421",
+      "trip_id": "6_17638096",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "6",
@@ -20353,7 +20353,7 @@
       ]
     },
     {
-      "trip_id": "6_17619614",
+      "trip_id": "6_17638289",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "6",
@@ -20586,7 +20586,7 @@
       ]
     },
     {
-      "trip_id": "6_17619625",
+      "trip_id": "6_17638300",
       "direction_id": "1",
       "headsign": "Bierzyce - wieś",
       "service_id": "6",
@@ -20855,7 +20855,7 @@
       ]
     },
     {
-      "trip_id": "6_17619626",
+      "trip_id": "6_17638301",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "6",
@@ -21088,7 +21088,7 @@
       ]
     },
     {
-      "trip_id": "6_17619859",
+      "trip_id": "6_17638534",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "6",
@@ -21348,7 +21348,7 @@
       ]
     },
     {
-      "trip_id": "6_17619860",
+      "trip_id": "6_17638535",
       "direction_id": "1",
       "headsign": "Bierzyce - wieś",
       "service_id": "6",
@@ -21590,7 +21590,7 @@
       ]
     },
     {
-      "trip_id": "6_17619861",
+      "trip_id": "6_17638536",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "6",
@@ -21850,7 +21850,7 @@
       ]
     },
     {
-      "trip_id": "6_17619862",
+      "trip_id": "6_17638537",
       "direction_id": "1",
       "headsign": "Bierzyce - wieś",
       "service_id": "6",
@@ -22092,7 +22092,7 @@
       ]
     },
     {
-      "trip_id": "6_17619863",
+      "trip_id": "6_17638538",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "6",
@@ -22325,7 +22325,7 @@
       ]
     },
     {
-      "trip_id": "6_17619864",
+      "trip_id": "6_17638539",
       "direction_id": "1",
       "headsign": "Bierzyce - wieś",
       "service_id": "6",
@@ -22594,7 +22594,7 @@
       ]
     },
     {
-      "trip_id": "6_17619865",
+      "trip_id": "6_17638540",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "6",
@@ -22827,7 +22827,7 @@
       ]
     },
     {
-      "trip_id": "6_17619866",
+      "trip_id": "6_17638541",
       "direction_id": "1",
       "headsign": "Bierzyce - wieś",
       "service_id": "6",
@@ -23069,7 +23069,7 @@
       ]
     },
     {
-      "trip_id": "6_17619911",
+      "trip_id": "6_17638586",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "6",
@@ -23365,7 +23365,7 @@
       ]
     },
     {
-      "trip_id": "6_17619912",
+      "trip_id": "6_17638587",
       "direction_id": "1",
       "headsign": "Januszkowice - Wrocławska",
       "service_id": "6",
@@ -23661,7 +23661,7 @@
       ]
     },
     {
-      "trip_id": "6_17619913",
+      "trip_id": "6_17638588",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "6",
@@ -23957,7 +23957,7 @@
       ]
     },
     {
-      "trip_id": "6_17619914",
+      "trip_id": "6_17638589",
       "direction_id": "1",
       "headsign": "Januszkowice - Wrocławska",
       "service_id": "6",
@@ -24271,7 +24271,7 @@
       ]
     },
     {
-      "trip_id": "6_17619915",
+      "trip_id": "6_17638590",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "6",
@@ -24567,7 +24567,7 @@
       ]
     },
     {
-      "trip_id": "6_17619916",
+      "trip_id": "6_17638591",
       "direction_id": "1",
       "headsign": "Januszkowice - Wrocławska",
       "service_id": "6",
@@ -24845,7 +24845,7 @@
       ]
     },
     {
-      "trip_id": "6_17619917",
+      "trip_id": "6_17638592",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "6",
@@ -25141,7 +25141,7 @@
       ]
     },
     {
-      "trip_id": "6_17619918",
+      "trip_id": "6_17638593",
       "direction_id": "1",
       "headsign": "Januszkowice - Wrocławska",
       "service_id": "6",
@@ -25419,7 +25419,7 @@
       ]
     },
     {
-      "trip_id": "6_17619919",
+      "trip_id": "6_17638594",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "6",
@@ -25742,7 +25742,7 @@
       ]
     },
     {
-      "trip_id": "6_17619920",
+      "trip_id": "6_17638595",
       "direction_id": "1",
       "headsign": "Januszkowice - Wrocławska",
       "service_id": "6",
@@ -26038,7 +26038,7 @@
       ]
     },
     {
-      "trip_id": "6_17619921",
+      "trip_id": "6_17638596",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "6",
@@ -26334,7 +26334,7 @@
       ]
     },
     {
-      "trip_id": "6_17619922",
+      "trip_id": "6_17638597",
       "direction_id": "1",
       "headsign": "Januszkowice - Wrocławska",
       "service_id": "6",
@@ -26630,7 +26630,7 @@
       ]
     },
     {
-      "trip_id": "6_17619923",
+      "trip_id": "6_17638598",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "6",
@@ -26926,7 +26926,7 @@
       ]
     },
     {
-      "trip_id": "6_17619924",
+      "trip_id": "6_17638599",
       "direction_id": "1",
       "headsign": "Januszkowice - Wrocławska",
       "service_id": "6",
@@ -27222,7 +27222,7 @@
       ]
     },
     {
-      "trip_id": "6_17619925",
+      "trip_id": "6_17638600",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "6",
@@ -27545,7 +27545,7 @@
       ]
     },
     {
-      "trip_id": "6_17619926",
+      "trip_id": "6_17638601",
       "direction_id": "1",
       "headsign": "Januszkowice - Wrocławska",
       "service_id": "6",
@@ -27859,7 +27859,7 @@
       ]
     },
     {
-      "trip_id": "6_17619927",
+      "trip_id": "6_17638602",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "6",
@@ -28182,7 +28182,7 @@
       ]
     },
     {
-      "trip_id": "6_17619928",
+      "trip_id": "6_17638603",
       "direction_id": "1",
       "headsign": "Januszkowice - Wrocławska",
       "service_id": "6",
@@ -28478,7 +28478,7 @@
       ]
     },
     {
-      "trip_id": "6_17619929",
+      "trip_id": "6_17638604",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "6",
@@ -28774,7 +28774,7 @@
       ]
     },
     {
-      "trip_id": "6_17619930",
+      "trip_id": "6_17638605",
       "direction_id": "1",
       "headsign": "Januszkowice - Wrocławska",
       "service_id": "6",
@@ -29088,7 +29088,7 @@
       ]
     },
     {
-      "trip_id": "6_17619931",
+      "trip_id": "6_17638606",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "6",
@@ -29411,7 +29411,7 @@
       ]
     },
     {
-      "trip_id": "6_17619932",
+      "trip_id": "6_17638607",
       "direction_id": "1",
       "headsign": "Januszkowice - Wrocławska",
       "service_id": "6",
@@ -29725,7 +29725,7 @@
       ]
     },
     {
-      "trip_id": "6_17619933",
+      "trip_id": "6_17638608",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "6",
@@ -30021,7 +30021,7 @@
       ]
     },
     {
-      "trip_id": "6_17619934",
+      "trip_id": "6_17638609",
       "direction_id": "1",
       "headsign": "Januszkowice - Wrocławska",
       "service_id": "6",
@@ -30317,7 +30317,7 @@
       ]
     },
     {
-      "trip_id": "6_17619935",
+      "trip_id": "6_17638610",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "6",
@@ -30595,7 +30595,7 @@
       ]
     },
     {
-      "trip_id": "6_17619936",
+      "trip_id": "6_17638611",
       "direction_id": "1",
       "headsign": "Januszkowice - Wrocławska",
       "service_id": "6",
@@ -30891,7 +30891,7 @@
       ]
     },
     {
-      "trip_id": "6_17619937",
+      "trip_id": "6_17638612",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "6",
@@ -31169,7 +31169,7 @@
       ]
     },
     {
-      "trip_id": "6_17619938",
+      "trip_id": "6_17638613",
       "direction_id": "1",
       "headsign": "Januszkowice - Wrocławska",
       "service_id": "6",
@@ -31465,7 +31465,7 @@
       ]
     },
     {
-      "trip_id": "6_17619939",
+      "trip_id": "6_17638614",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "6",
@@ -31761,7 +31761,7 @@
       ]
     },
     {
-      "trip_id": "6_17619940",
+      "trip_id": "6_17638615",
       "direction_id": "1",
       "headsign": "Januszkowice - Wrocławska",
       "service_id": "6",
@@ -32075,7 +32075,7 @@
       ]
     },
     {
-      "trip_id": "6_17619941",
+      "trip_id": "6_17638616",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "6",
@@ -32353,7 +32353,7 @@
       ]
     },
     {
-      "trip_id": "6_17619942",
+      "trip_id": "6_17638617",
       "direction_id": "1",
       "headsign": "Januszkowice - Wrocławska",
       "service_id": "6",
@@ -32649,7 +32649,7 @@
       ]
     },
     {
-      "trip_id": "6_17619943",
+      "trip_id": "6_17638618",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "6",
@@ -32927,7 +32927,7 @@
       ]
     },
     {
-      "trip_id": "6_17619944",
+      "trip_id": "6_17638619",
       "direction_id": "1",
       "headsign": "Januszkowice - Wrocławska",
       "service_id": "6",
@@ -33205,7 +33205,7 @@
       ]
     },
     {
-      "trip_id": "6_17619945",
+      "trip_id": "6_17638620",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "6",
@@ -33483,7 +33483,7 @@
       ]
     },
     {
-      "trip_id": "6_17619946",
+      "trip_id": "6_17638621",
       "direction_id": "1",
       "headsign": "Januszkowice - Wrocławska",
       "service_id": "6",
@@ -33761,7 +33761,7 @@
       ]
     },
     {
-      "trip_id": "6_17619947",
+      "trip_id": "6_17638622",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "6",
@@ -34084,7 +34084,7 @@
       ]
     },
     {
-      "trip_id": "6_17619948",
+      "trip_id": "6_17638623",
       "direction_id": "1",
       "headsign": "Januszkowice - Wrocławska",
       "service_id": "6",
@@ -34398,7 +34398,7 @@
       ]
     },
     {
-      "trip_id": "6_17620126",
+      "trip_id": "6_17638801",
       "direction_id": "1",
       "headsign": "Bierzyce - wieś",
       "service_id": "6",
@@ -34640,7 +34640,7 @@
       ]
     },
     {
-      "trip_id": "6_17620127",
+      "trip_id": "6_17638802",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "6",
@@ -34900,7 +34900,7 @@
       ]
     },
     {
-      "trip_id": "6_17620128",
+      "trip_id": "6_17638803",
       "direction_id": "1",
       "headsign": "Bierzyce - wieś",
       "service_id": "6",
@@ -35169,7 +35169,7 @@
       ]
     },
     {
-      "trip_id": "6_17620129",
+      "trip_id": "6_17638804",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "6",
@@ -35402,7 +35402,7 @@
       ]
     },
     {
-      "trip_id": "8_17620466",
+      "trip_id": "8_17639141",
       "direction_id": "1",
       "headsign": "Bierzyce - wieś",
       "service_id": "8",
@@ -35644,7 +35644,7 @@
       ]
     },
     {
-      "trip_id": "8_17620467",
+      "trip_id": "8_17639142",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "8",
@@ -35904,7 +35904,7 @@
       ]
     },
     {
-      "trip_id": "8_17620660",
+      "trip_id": "8_17639335",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "8",
@@ -36137,7 +36137,7 @@
       ]
     },
     {
-      "trip_id": "8_17620671",
+      "trip_id": "8_17639346",
       "direction_id": "1",
       "headsign": "Bierzyce - wieś",
       "service_id": "8",
@@ -36406,7 +36406,7 @@
       ]
     },
     {
-      "trip_id": "8_17620672",
+      "trip_id": "8_17639347",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "8",
@@ -36639,7 +36639,7 @@
       ]
     },
     {
-      "trip_id": "8_17620905",
+      "trip_id": "8_17639580",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "8",
@@ -36899,7 +36899,7 @@
       ]
     },
     {
-      "trip_id": "8_17620906",
+      "trip_id": "8_17639581",
       "direction_id": "1",
       "headsign": "Bierzyce - wieś",
       "service_id": "8",
@@ -37141,7 +37141,7 @@
       ]
     },
     {
-      "trip_id": "8_17620907",
+      "trip_id": "8_17639582",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "8",
@@ -37401,7 +37401,7 @@
       ]
     },
     {
-      "trip_id": "8_17620908",
+      "trip_id": "8_17639583",
       "direction_id": "1",
       "headsign": "Bierzyce - wieś",
       "service_id": "8",
@@ -37643,7 +37643,7 @@
       ]
     },
     {
-      "trip_id": "8_17620909",
+      "trip_id": "8_17639584",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "8",
@@ -37876,7 +37876,7 @@
       ]
     },
     {
-      "trip_id": "8_17620910",
+      "trip_id": "8_17639585",
       "direction_id": "1",
       "headsign": "Bierzyce - wieś",
       "service_id": "8",
@@ -38145,7 +38145,7 @@
       ]
     },
     {
-      "trip_id": "8_17620911",
+      "trip_id": "8_17639586",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "8",
@@ -38378,7 +38378,7 @@
       ]
     },
     {
-      "trip_id": "8_17620912",
+      "trip_id": "8_17639587",
       "direction_id": "1",
       "headsign": "Bierzyce - wieś",
       "service_id": "8",
@@ -38620,7 +38620,7 @@
       ]
     },
     {
-      "trip_id": "8_17620957",
+      "trip_id": "8_17639632",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "8",
@@ -38916,7 +38916,7 @@
       ]
     },
     {
-      "trip_id": "8_17620958",
+      "trip_id": "8_17639633",
       "direction_id": "1",
       "headsign": "Januszkowice - Wrocławska",
       "service_id": "8",
@@ -39212,7 +39212,7 @@
       ]
     },
     {
-      "trip_id": "8_17620959",
+      "trip_id": "8_17639634",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "8",
@@ -39508,7 +39508,7 @@
       ]
     },
     {
-      "trip_id": "8_17620960",
+      "trip_id": "8_17639635",
       "direction_id": "1",
       "headsign": "Januszkowice - Wrocławska",
       "service_id": "8",
@@ -39822,7 +39822,7 @@
       ]
     },
     {
-      "trip_id": "8_17620961",
+      "trip_id": "8_17639636",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "8",
@@ -40118,7 +40118,7 @@
       ]
     },
     {
-      "trip_id": "8_17620962",
+      "trip_id": "8_17639637",
       "direction_id": "1",
       "headsign": "Januszkowice - Wrocławska",
       "service_id": "8",
@@ -40396,7 +40396,7 @@
       ]
     },
     {
-      "trip_id": "8_17620963",
+      "trip_id": "8_17639638",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "8",
@@ -40692,7 +40692,7 @@
       ]
     },
     {
-      "trip_id": "8_17620964",
+      "trip_id": "8_17639639",
       "direction_id": "1",
       "headsign": "Januszkowice - Wrocławska",
       "service_id": "8",
@@ -40970,7 +40970,7 @@
       ]
     },
     {
-      "trip_id": "8_17620965",
+      "trip_id": "8_17639640",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "8",
@@ -41293,7 +41293,7 @@
       ]
     },
     {
-      "trip_id": "8_17620966",
+      "trip_id": "8_17639641",
       "direction_id": "1",
       "headsign": "Januszkowice - Wrocławska",
       "service_id": "8",
@@ -41589,7 +41589,7 @@
       ]
     },
     {
-      "trip_id": "8_17620967",
+      "trip_id": "8_17639642",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "8",
@@ -41885,7 +41885,7 @@
       ]
     },
     {
-      "trip_id": "8_17620968",
+      "trip_id": "8_17639643",
       "direction_id": "1",
       "headsign": "Januszkowice - Wrocławska",
       "service_id": "8",
@@ -42181,7 +42181,7 @@
       ]
     },
     {
-      "trip_id": "8_17620969",
+      "trip_id": "8_17639644",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "8",
@@ -42477,7 +42477,7 @@
       ]
     },
     {
-      "trip_id": "8_17620970",
+      "trip_id": "8_17639645",
       "direction_id": "1",
       "headsign": "Januszkowice - Wrocławska",
       "service_id": "8",
@@ -42773,7 +42773,7 @@
       ]
     },
     {
-      "trip_id": "8_17620971",
+      "trip_id": "8_17639646",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "8",
@@ -43096,7 +43096,7 @@
       ]
     },
     {
-      "trip_id": "8_17620972",
+      "trip_id": "8_17639647",
       "direction_id": "1",
       "headsign": "Januszkowice - Wrocławska",
       "service_id": "8",
@@ -43410,7 +43410,7 @@
       ]
     },
     {
-      "trip_id": "8_17620973",
+      "trip_id": "8_17639648",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "8",
@@ -43733,7 +43733,7 @@
       ]
     },
     {
-      "trip_id": "8_17620974",
+      "trip_id": "8_17639649",
       "direction_id": "1",
       "headsign": "Januszkowice - Wrocławska",
       "service_id": "8",
@@ -44029,7 +44029,7 @@
       ]
     },
     {
-      "trip_id": "8_17620975",
+      "trip_id": "8_17639650",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "8",
@@ -44325,7 +44325,7 @@
       ]
     },
     {
-      "trip_id": "8_17620976",
+      "trip_id": "8_17639651",
       "direction_id": "1",
       "headsign": "Januszkowice - Wrocławska",
       "service_id": "8",
@@ -44639,7 +44639,7 @@
       ]
     },
     {
-      "trip_id": "8_17620977",
+      "trip_id": "8_17639652",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "8",
@@ -44962,7 +44962,7 @@
       ]
     },
     {
-      "trip_id": "8_17620978",
+      "trip_id": "8_17639653",
       "direction_id": "1",
       "headsign": "Januszkowice - Wrocławska",
       "service_id": "8",
@@ -45276,7 +45276,7 @@
       ]
     },
     {
-      "trip_id": "8_17620979",
+      "trip_id": "8_17639654",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "8",
@@ -45572,7 +45572,7 @@
       ]
     },
     {
-      "trip_id": "8_17620980",
+      "trip_id": "8_17639655",
       "direction_id": "1",
       "headsign": "Januszkowice - Wrocławska",
       "service_id": "8",
@@ -45868,7 +45868,7 @@
       ]
     },
     {
-      "trip_id": "8_17620981",
+      "trip_id": "8_17639656",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "8",
@@ -46146,7 +46146,7 @@
       ]
     },
     {
-      "trip_id": "8_17620982",
+      "trip_id": "8_17639657",
       "direction_id": "1",
       "headsign": "Januszkowice - Wrocławska",
       "service_id": "8",
@@ -46442,7 +46442,7 @@
       ]
     },
     {
-      "trip_id": "8_17620983",
+      "trip_id": "8_17639658",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "8",
@@ -46720,7 +46720,7 @@
       ]
     },
     {
-      "trip_id": "8_17620984",
+      "trip_id": "8_17639659",
       "direction_id": "1",
       "headsign": "Januszkowice - Wrocławska",
       "service_id": "8",
@@ -47016,7 +47016,7 @@
       ]
     },
     {
-      "trip_id": "8_17620985",
+      "trip_id": "8_17639660",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "8",
@@ -47312,7 +47312,7 @@
       ]
     },
     {
-      "trip_id": "8_17620986",
+      "trip_id": "8_17639661",
       "direction_id": "1",
       "headsign": "Januszkowice - Wrocławska",
       "service_id": "8",
@@ -47626,7 +47626,7 @@
       ]
     },
     {
-      "trip_id": "8_17620987",
+      "trip_id": "8_17639662",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "8",
@@ -47904,7 +47904,7 @@
       ]
     },
     {
-      "trip_id": "8_17620988",
+      "trip_id": "8_17639663",
       "direction_id": "1",
       "headsign": "Januszkowice - Wrocławska",
       "service_id": "8",
@@ -48200,7 +48200,7 @@
       ]
     },
     {
-      "trip_id": "8_17620989",
+      "trip_id": "8_17639664",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "8",
@@ -48478,7 +48478,7 @@
       ]
     },
     {
-      "trip_id": "8_17620990",
+      "trip_id": "8_17639665",
       "direction_id": "1",
       "headsign": "Januszkowice - Wrocławska",
       "service_id": "8",
@@ -48756,7 +48756,7 @@
       ]
     },
     {
-      "trip_id": "8_17620991",
+      "trip_id": "8_17639666",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "8",
@@ -49034,7 +49034,7 @@
       ]
     },
     {
-      "trip_id": "8_17620992",
+      "trip_id": "8_17639667",
       "direction_id": "1",
       "headsign": "Januszkowice - Wrocławska",
       "service_id": "8",
@@ -49312,7 +49312,7 @@
       ]
     },
     {
-      "trip_id": "8_17620993",
+      "trip_id": "8_17639668",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "8",
@@ -49635,7 +49635,7 @@
       ]
     },
     {
-      "trip_id": "8_17620994",
+      "trip_id": "8_17639669",
       "direction_id": "1",
       "headsign": "Januszkowice - Wrocławska",
       "service_id": "8",
@@ -49949,7 +49949,7 @@
       ]
     },
     {
-      "trip_id": "8_17621172",
+      "trip_id": "8_17639847",
       "direction_id": "1",
       "headsign": "Bierzyce - wieś",
       "service_id": "8",
@@ -50191,7 +50191,7 @@
       ]
     },
     {
-      "trip_id": "8_17621173",
+      "trip_id": "8_17639848",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "8",
@@ -50451,7 +50451,7 @@
       ]
     },
     {
-      "trip_id": "8_17621174",
+      "trip_id": "8_17639849",
       "direction_id": "1",
       "headsign": "Bierzyce - wieś",
       "service_id": "8",
@@ -50720,7 +50720,7 @@
       ]
     },
     {
-      "trip_id": "8_17621175",
+      "trip_id": "8_17639850",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "8",

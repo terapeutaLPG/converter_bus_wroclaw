@@ -2,7 +2,7 @@
   "line": "129",
   "trips": [
     {
-      "trip_id": "3_17597296",
+      "trip_id": "3_17701309",
       "direction_id": "0",
       "headsign": "POŚWIĘCKA (Ośrodek Zdrowia)",
       "service_id": "3",
@@ -127,7 +127,7 @@
       ]
     },
     {
-      "trip_id": "3_17597297",
+      "trip_id": "3_17701310",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "3",
@@ -486,7 +486,7 @@
       ]
     },
     {
-      "trip_id": "3_17597298",
+      "trip_id": "3_17701311",
       "direction_id": "0",
       "headsign": "POŚWIĘCKA (Ośrodek Zdrowia)",
       "service_id": "3",
@@ -854,7 +854,7 @@
       ]
     },
     {
-      "trip_id": "3_17597299",
+      "trip_id": "3_17701312",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "3",
@@ -1213,7 +1213,7 @@
       ]
     },
     {
-      "trip_id": "3_17597300",
+      "trip_id": "3_17701313",
       "direction_id": "0",
       "headsign": "POŚWIĘCKA (Ośrodek Zdrowia)",
       "service_id": "3",
@@ -1581,7 +1581,7 @@
       ]
     },
     {
-      "trip_id": "3_17597301",
+      "trip_id": "3_17701314",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "3",
@@ -1940,7 +1940,7 @@
       ]
     },
     {
-      "trip_id": "3_17597302",
+      "trip_id": "3_17701315",
       "direction_id": "0",
       "headsign": "POŚWIĘCKA (Ośrodek Zdrowia)",
       "service_id": "3",
@@ -2308,7 +2308,7 @@
       ]
     },
     {
-      "trip_id": "3_17597303",
+      "trip_id": "3_17701316",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "3",
@@ -2667,7 +2667,7 @@
       ]
     },
     {
-      "trip_id": "3_17597304",
+      "trip_id": "3_17701317",
       "direction_id": "0",
       "headsign": "POŚWIĘCKA (Ośrodek Zdrowia)",
       "service_id": "3",
@@ -3035,7 +3035,7 @@
       ]
     },
     {
-      "trip_id": "3_17597305",
+      "trip_id": "3_17701318",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "3",
@@ -3394,7 +3394,7 @@
       ]
     },
     {
-      "trip_id": "3_17597306",
+      "trip_id": "3_17701319",
       "direction_id": "0",
       "headsign": "POŚWIĘCKA (Ośrodek Zdrowia)",
       "service_id": "3",
@@ -3762,7 +3762,7 @@
       ]
     },
     {
-      "trip_id": "3_17597307",
+      "trip_id": "3_17701320",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "3",
@@ -4121,7 +4121,7 @@
       ]
     },
     {
-      "trip_id": "3_17597308",
+      "trip_id": "3_17701321",
       "direction_id": "0",
       "headsign": "POŚWIĘCKA (Ośrodek Zdrowia)",
       "service_id": "3",
@@ -4489,7 +4489,7 @@
       ]
     },
     {
-      "trip_id": "3_17597309",
+      "trip_id": "3_17701322",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "3",
@@ -4848,7 +4848,7 @@
       ]
     },
     {
-      "trip_id": "3_17597310",
+      "trip_id": "3_17701323",
       "direction_id": "0",
       "headsign": "POŚWIĘCKA (Ośrodek Zdrowia)",
       "service_id": "3",
@@ -5216,7 +5216,7 @@
       ]
     },
     {
-      "trip_id": "3_17597311",
+      "trip_id": "3_17701324",
       "direction_id": "1",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "3",
@@ -5332,7 +5332,7 @@
       ]
     },
     {
-      "trip_id": "3_17597312",
+      "trip_id": "3_17701325",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "3",
@@ -5673,7 +5673,7 @@
       ]
     },
     {
-      "trip_id": "3_17597313",
+      "trip_id": "3_17701326",
       "direction_id": "0",
       "headsign": "POŚWIĘCKA (Ośrodek Zdrowia)",
       "service_id": "3",
@@ -6041,7 +6041,7 @@
       ]
     },
     {
-      "trip_id": "3_17597314",
+      "trip_id": "3_17701327",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "3",
@@ -6400,7 +6400,7 @@
       ]
     },
     {
-      "trip_id": "3_17597315",
+      "trip_id": "3_17701328",
       "direction_id": "0",
       "headsign": "POŚWIĘCKA (Ośrodek Zdrowia)",
       "service_id": "3",
@@ -6768,7 +6768,7 @@
       ]
     },
     {
-      "trip_id": "3_17597316",
+      "trip_id": "3_17701329",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "3",
@@ -7127,7 +7127,7 @@
       ]
     },
     {
-      "trip_id": "3_17597317",
+      "trip_id": "3_17701330",
       "direction_id": "0",
       "headsign": "POŚWIĘCKA (Ośrodek Zdrowia)",
       "service_id": "3",
@@ -7495,7 +7495,7 @@
       ]
     },
     {
-      "trip_id": "3_17597318",
+      "trip_id": "3_17701331",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "3",
@@ -7854,7 +7854,7 @@
       ]
     },
     {
-      "trip_id": "3_17597319",
+      "trip_id": "3_17701332",
       "direction_id": "0",
       "headsign": "POŚWIĘCKA (Ośrodek Zdrowia)",
       "service_id": "3",
@@ -8222,7 +8222,7 @@
       ]
     },
     {
-      "trip_id": "3_17597320",
+      "trip_id": "3_17701333",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "3",
@@ -8581,7 +8581,7 @@
       ]
     },
     {
-      "trip_id": "3_17597321",
+      "trip_id": "3_17701334",
       "direction_id": "0",
       "headsign": "POŚWIĘCKA (Ośrodek Zdrowia)",
       "service_id": "3",
@@ -8949,7 +8949,7 @@
       ]
     },
     {
-      "trip_id": "3_17597322",
+      "trip_id": "3_17701335",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "3",
@@ -9308,7 +9308,7 @@
       ]
     },
     {
-      "trip_id": "3_17597323",
+      "trip_id": "3_17701336",
       "direction_id": "0",
       "headsign": "POŚWIĘCKA (Ośrodek Zdrowia)",
       "service_id": "3",
@@ -9676,7 +9676,7 @@
       ]
     },
     {
-      "trip_id": "3_17597324",
+      "trip_id": "3_17701337",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "3",
@@ -10035,7 +10035,7 @@
       ]
     },
     {
-      "trip_id": "3_17597325",
+      "trip_id": "3_17701338",
       "direction_id": "0",
       "headsign": "POŚWIĘCKA (Ośrodek Zdrowia)",
       "service_id": "3",
@@ -10403,7 +10403,7 @@
       ]
     },
     {
-      "trip_id": "3_17597326",
+      "trip_id": "3_17701339",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "3",
@@ -10762,7 +10762,7 @@
       ]
     },
     {
-      "trip_id": "3_17597327",
+      "trip_id": "3_17701340",
       "direction_id": "0",
       "headsign": "POŚWIĘCKA (Ośrodek Zdrowia)",
       "service_id": "3",
@@ -11130,7 +11130,7 @@
       ]
     },
     {
-      "trip_id": "3_17597328",
+      "trip_id": "3_17701341",
       "direction_id": "1",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "3",
@@ -11246,7 +11246,7 @@
       ]
     },
     {
-      "trip_id": "3_17597329",
+      "trip_id": "3_17701342",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "3",
@@ -11587,7 +11587,7 @@
       ]
     },
     {
-      "trip_id": "3_17597330",
+      "trip_id": "3_17701343",
       "direction_id": "0",
       "headsign": "POŚWIĘCKA (Ośrodek Zdrowia)",
       "service_id": "3",
@@ -11955,7 +11955,7 @@
       ]
     },
     {
-      "trip_id": "3_17597331",
+      "trip_id": "3_17701344",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "3",
@@ -12314,7 +12314,7 @@
       ]
     },
     {
-      "trip_id": "3_17597332",
+      "trip_id": "3_17701345",
       "direction_id": "0",
       "headsign": "POŚWIĘCKA (Ośrodek Zdrowia)",
       "service_id": "3",
@@ -12682,7 +12682,7 @@
       ]
     },
     {
-      "trip_id": "3_17597333",
+      "trip_id": "3_17701346",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "3",
@@ -13041,7 +13041,7 @@
       ]
     },
     {
-      "trip_id": "3_17597334",
+      "trip_id": "3_17701347",
       "direction_id": "0",
       "headsign": "POŚWIĘCKA (Ośrodek Zdrowia)",
       "service_id": "3",
@@ -13409,7 +13409,7 @@
       ]
     },
     {
-      "trip_id": "3_17597335",
+      "trip_id": "3_17701348",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "3",
@@ -13768,7 +13768,7 @@
       ]
     },
     {
-      "trip_id": "3_17597336",
+      "trip_id": "3_17701349",
       "direction_id": "0",
       "headsign": "POŚWIĘCKA (Ośrodek Zdrowia)",
       "service_id": "3",
@@ -14136,7 +14136,7 @@
       ]
     },
     {
-      "trip_id": "3_17597337",
+      "trip_id": "3_17701350",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "3",
@@ -14495,7 +14495,7 @@
       ]
     },
     {
-      "trip_id": "3_17597338",
+      "trip_id": "3_17701351",
       "direction_id": "0",
       "headsign": "POŚWIĘCKA (Ośrodek Zdrowia)",
       "service_id": "3",
@@ -14863,7 +14863,7 @@
       ]
     },
     {
-      "trip_id": "3_17597339",
+      "trip_id": "3_17701352",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "3",
@@ -15222,7 +15222,7 @@
       ]
     },
     {
-      "trip_id": "3_17597340",
+      "trip_id": "3_17701353",
       "direction_id": "0",
       "headsign": "POŚWIĘCKA (Ośrodek Zdrowia)",
       "service_id": "3",
@@ -15590,7 +15590,7 @@
       ]
     },
     {
-      "trip_id": "3_17597341",
+      "trip_id": "3_17701354",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "3",
@@ -15949,7 +15949,7 @@
       ]
     },
     {
-      "trip_id": "3_17597342",
+      "trip_id": "3_17701355",
       "direction_id": "0",
       "headsign": "POŚWIĘCKA (Ośrodek Zdrowia)",
       "service_id": "3",
@@ -16317,7 +16317,7 @@
       ]
     },
     {
-      "trip_id": "3_17597343",
+      "trip_id": "3_17701356",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "3",
@@ -16676,7 +16676,7 @@
       ]
     },
     {
-      "trip_id": "3_17597344",
+      "trip_id": "3_17701357",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "3",
@@ -17026,7 +17026,7 @@
       ]
     },
     {
-      "trip_id": "3_17597345",
+      "trip_id": "3_17701358",
       "direction_id": "0",
       "headsign": "POŚWIĘCKA (Ośrodek Zdrowia)",
       "service_id": "3",
@@ -17151,7 +17151,7 @@
       ]
     },
     {
-      "trip_id": "3_17597346",
+      "trip_id": "3_17701359",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "3",
@@ -17510,7 +17510,7 @@
       ]
     },
     {
-      "trip_id": "3_17597347",
+      "trip_id": "3_17701360",
       "direction_id": "0",
       "headsign": "POŚWIĘCKA (Ośrodek Zdrowia)",
       "service_id": "3",
@@ -17878,7 +17878,7 @@
       ]
     },
     {
-      "trip_id": "3_17597348",
+      "trip_id": "3_17701361",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "3",
@@ -18237,7 +18237,7 @@
       ]
     },
     {
-      "trip_id": "3_17597349",
+      "trip_id": "3_17701362",
       "direction_id": "0",
       "headsign": "POŚWIĘCKA (Ośrodek Zdrowia)",
       "service_id": "3",
@@ -18605,7 +18605,7 @@
       ]
     },
     {
-      "trip_id": "3_17597350",
+      "trip_id": "3_17701363",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "3",
@@ -18964,7 +18964,7 @@
       ]
     },
     {
-      "trip_id": "3_17597351",
+      "trip_id": "3_17701364",
       "direction_id": "0",
       "headsign": "POŚWIĘCKA (Ośrodek Zdrowia)",
       "service_id": "3",
@@ -19332,7 +19332,7 @@
       ]
     },
     {
-      "trip_id": "3_17597352",
+      "trip_id": "3_17701365",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "3",
@@ -19691,7 +19691,7 @@
       ]
     },
     {
-      "trip_id": "3_17597353",
+      "trip_id": "3_17701366",
       "direction_id": "0",
       "headsign": "POŚWIĘCKA (Ośrodek Zdrowia)",
       "service_id": "3",
@@ -20059,7 +20059,7 @@
       ]
     },
     {
-      "trip_id": "3_17597354",
+      "trip_id": "3_17701367",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "3",
@@ -20418,7 +20418,7 @@
       ]
     },
     {
-      "trip_id": "3_17597355",
+      "trip_id": "3_17701368",
       "direction_id": "0",
       "headsign": "POŚWIĘCKA (Ośrodek Zdrowia)",
       "service_id": "3",
@@ -20786,7 +20786,7 @@
       ]
     },
     {
-      "trip_id": "3_17597356",
+      "trip_id": "3_17701369",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "3",
@@ -21145,7 +21145,7 @@
       ]
     },
     {
-      "trip_id": "3_17597357",
+      "trip_id": "3_17701370",
       "direction_id": "0",
       "headsign": "POŚWIĘCKA (Ośrodek Zdrowia)",
       "service_id": "3",
@@ -21513,7 +21513,7 @@
       ]
     },
     {
-      "trip_id": "3_17597358",
+      "trip_id": "3_17701371",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "3",
@@ -21872,7 +21872,7 @@
       ]
     },
     {
-      "trip_id": "3_17597359",
+      "trip_id": "3_17701372",
       "direction_id": "0",
       "headsign": "POŚWIĘCKA (Ośrodek Zdrowia)",
       "service_id": "3",
@@ -22240,7 +22240,7 @@
       ]
     },
     {
-      "trip_id": "3_17597360",
+      "trip_id": "3_17701373",
       "direction_id": "1",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "3",
@@ -22356,7 +22356,7 @@
       ]
     },
     {
-      "trip_id": "3_17597361",
+      "trip_id": "3_17701374",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "3",
@@ -22697,7 +22697,7 @@
       ]
     },
     {
-      "trip_id": "3_17597362",
+      "trip_id": "3_17701375",
       "direction_id": "0",
       "headsign": "POŚWIĘCKA (Ośrodek Zdrowia)",
       "service_id": "3",
@@ -23065,7 +23065,7 @@
       ]
     },
     {
-      "trip_id": "3_17597363",
+      "trip_id": "3_17701376",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "3",
@@ -23424,7 +23424,7 @@
       ]
     },
     {
-      "trip_id": "3_17597364",
+      "trip_id": "3_17701377",
       "direction_id": "0",
       "headsign": "POŚWIĘCKA (Ośrodek Zdrowia)",
       "service_id": "3",
@@ -23792,7 +23792,7 @@
       ]
     },
     {
-      "trip_id": "3_17597365",
+      "trip_id": "3_17701378",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "3",
@@ -24151,7 +24151,7 @@
       ]
     },
     {
-      "trip_id": "3_17597366",
+      "trip_id": "3_17701379",
       "direction_id": "0",
       "headsign": "POŚWIĘCKA (Ośrodek Zdrowia)",
       "service_id": "3",
@@ -24519,7 +24519,7 @@
       ]
     },
     {
-      "trip_id": "3_17597367",
+      "trip_id": "3_17701380",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "3",
@@ -24878,7 +24878,7 @@
       ]
     },
     {
-      "trip_id": "3_17597368",
+      "trip_id": "3_17701381",
       "direction_id": "0",
       "headsign": "POŚWIĘCKA (Ośrodek Zdrowia)",
       "service_id": "3",
@@ -25246,7 +25246,7 @@
       ]
     },
     {
-      "trip_id": "3_17597369",
+      "trip_id": "3_17701382",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "3",
@@ -25605,7 +25605,7 @@
       ]
     },
     {
-      "trip_id": "3_17597370",
+      "trip_id": "3_17701383",
       "direction_id": "0",
       "headsign": "POŚWIĘCKA (Ośrodek Zdrowia)",
       "service_id": "3",
@@ -25973,7 +25973,7 @@
       ]
     },
     {
-      "trip_id": "3_17597371",
+      "trip_id": "3_17701384",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "3",
@@ -26332,7 +26332,7 @@
       ]
     },
     {
-      "trip_id": "3_17597372",
+      "trip_id": "3_17701385",
       "direction_id": "0",
       "headsign": "POŚWIĘCKA (Ośrodek Zdrowia)",
       "service_id": "3",
@@ -26700,7 +26700,7 @@
       ]
     },
     {
-      "trip_id": "3_17597373",
+      "trip_id": "3_17701386",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "3",
@@ -27059,7 +27059,7 @@
       ]
     },
     {
-      "trip_id": "3_17597374",
+      "trip_id": "3_17701387",
       "direction_id": "0",
       "headsign": "POŚWIĘCKA (Ośrodek Zdrowia)",
       "service_id": "3",
@@ -27427,7 +27427,7 @@
       ]
     },
     {
-      "trip_id": "3_17597375",
+      "trip_id": "3_17701388",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "3",
@@ -27786,7 +27786,7 @@
       ]
     },
     {
-      "trip_id": "3_17597376",
+      "trip_id": "3_17701389",
       "direction_id": "0",
       "headsign": "POŚWIĘCKA (Ośrodek Zdrowia)",
       "service_id": "3",
@@ -28154,7 +28154,7 @@
       ]
     },
     {
-      "trip_id": "3_17597377",
+      "trip_id": "3_17701390",
       "direction_id": "1",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "3",
@@ -28270,7 +28270,7 @@
       ]
     },
     {
-      "trip_id": "4_17601766",
+      "trip_id": "4_17705779",
       "direction_id": "0",
       "headsign": "POŚWIĘCKA (Ośrodek Zdrowia)",
       "service_id": "4",
@@ -28395,7 +28395,7 @@
       ]
     },
     {
-      "trip_id": "4_17601767",
+      "trip_id": "4_17705780",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "4",
@@ -28754,7 +28754,7 @@
       ]
     },
     {
-      "trip_id": "4_17601768",
+      "trip_id": "4_17705781",
       "direction_id": "0",
       "headsign": "POŚWIĘCKA (Ośrodek Zdrowia)",
       "service_id": "4",
@@ -29122,7 +29122,7 @@
       ]
     },
     {
-      "trip_id": "4_17601769",
+      "trip_id": "4_17705782",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "4",
@@ -29481,7 +29481,7 @@
       ]
     },
     {
-      "trip_id": "4_17601770",
+      "trip_id": "4_17705783",
       "direction_id": "0",
       "headsign": "POŚWIĘCKA (Ośrodek Zdrowia)",
       "service_id": "4",
@@ -29849,7 +29849,7 @@
       ]
     },
     {
-      "trip_id": "4_17601771",
+      "trip_id": "4_17705784",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "4",
@@ -30208,7 +30208,7 @@
       ]
     },
     {
-      "trip_id": "4_17601772",
+      "trip_id": "4_17705785",
       "direction_id": "0",
       "headsign": "POŚWIĘCKA (Ośrodek Zdrowia)",
       "service_id": "4",
@@ -30576,7 +30576,7 @@
       ]
     },
     {
-      "trip_id": "4_17601773",
+      "trip_id": "4_17705786",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "4",
@@ -30935,7 +30935,7 @@
       ]
     },
     {
-      "trip_id": "4_17601774",
+      "trip_id": "4_17705787",
       "direction_id": "0",
       "headsign": "POŚWIĘCKA (Ośrodek Zdrowia)",
       "service_id": "4",
@@ -31303,7 +31303,7 @@
       ]
     },
     {
-      "trip_id": "4_17601775",
+      "trip_id": "4_17705788",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "4",
@@ -31662,7 +31662,7 @@
       ]
     },
     {
-      "trip_id": "4_17601776",
+      "trip_id": "4_17705789",
       "direction_id": "0",
       "headsign": "POŚWIĘCKA (Ośrodek Zdrowia)",
       "service_id": "4",
@@ -32030,7 +32030,7 @@
       ]
     },
     {
-      "trip_id": "4_17601777",
+      "trip_id": "4_17705790",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "4",
@@ -32389,7 +32389,7 @@
       ]
     },
     {
-      "trip_id": "4_17601778",
+      "trip_id": "4_17705791",
       "direction_id": "0",
       "headsign": "POŚWIĘCKA (Ośrodek Zdrowia)",
       "service_id": "4",
@@ -32757,7 +32757,7 @@
       ]
     },
     {
-      "trip_id": "4_17601779",
+      "trip_id": "4_17705792",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "4",
@@ -33116,7 +33116,7 @@
       ]
     },
     {
-      "trip_id": "4_17601780",
+      "trip_id": "4_17705793",
       "direction_id": "0",
       "headsign": "POŚWIĘCKA (Ośrodek Zdrowia)",
       "service_id": "4",
@@ -33484,7 +33484,7 @@
       ]
     },
     {
-      "trip_id": "4_17601781",
+      "trip_id": "4_17705794",
       "direction_id": "1",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "4",
@@ -33600,7 +33600,7 @@
       ]
     },
     {
-      "trip_id": "4_17601782",
+      "trip_id": "4_17705795",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "4",
@@ -33941,7 +33941,7 @@
       ]
     },
     {
-      "trip_id": "4_17601783",
+      "trip_id": "4_17705796",
       "direction_id": "0",
       "headsign": "POŚWIĘCKA (Ośrodek Zdrowia)",
       "service_id": "4",
@@ -34309,7 +34309,7 @@
       ]
     },
     {
-      "trip_id": "4_17601784",
+      "trip_id": "4_17705797",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "4",
@@ -34668,7 +34668,7 @@
       ]
     },
     {
-      "trip_id": "4_17601785",
+      "trip_id": "4_17705798",
       "direction_id": "0",
       "headsign": "POŚWIĘCKA (Ośrodek Zdrowia)",
       "service_id": "4",
@@ -35036,7 +35036,7 @@
       ]
     },
     {
-      "trip_id": "4_17601786",
+      "trip_id": "4_17705799",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "4",
@@ -35395,7 +35395,7 @@
       ]
     },
     {
-      "trip_id": "4_17601787",
+      "trip_id": "4_17705800",
       "direction_id": "0",
       "headsign": "POŚWIĘCKA (Ośrodek Zdrowia)",
       "service_id": "4",
@@ -35763,7 +35763,7 @@
       ]
     },
     {
-      "trip_id": "4_17601788",
+      "trip_id": "4_17705801",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "4",
@@ -36122,7 +36122,7 @@
       ]
     },
     {
-      "trip_id": "4_17601789",
+      "trip_id": "4_17705802",
       "direction_id": "0",
       "headsign": "POŚWIĘCKA (Ośrodek Zdrowia)",
       "service_id": "4",
@@ -36490,7 +36490,7 @@
       ]
     },
     {
-      "trip_id": "4_17601790",
+      "trip_id": "4_17705803",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "4",
@@ -36849,7 +36849,7 @@
       ]
     },
     {
-      "trip_id": "4_17601791",
+      "trip_id": "4_17705804",
       "direction_id": "0",
       "headsign": "POŚWIĘCKA (Ośrodek Zdrowia)",
       "service_id": "4",
@@ -37217,7 +37217,7 @@
       ]
     },
     {
-      "trip_id": "4_17601792",
+      "trip_id": "4_17705805",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "4",
@@ -37576,7 +37576,7 @@
       ]
     },
     {
-      "trip_id": "4_17601793",
+      "trip_id": "4_17705806",
       "direction_id": "0",
       "headsign": "POŚWIĘCKA (Ośrodek Zdrowia)",
       "service_id": "4",
@@ -37944,7 +37944,7 @@
       ]
     },
     {
-      "trip_id": "4_17601794",
+      "trip_id": "4_17705807",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "4",
@@ -38303,7 +38303,7 @@
       ]
     },
     {
-      "trip_id": "4_17601795",
+      "trip_id": "4_17705808",
       "direction_id": "0",
       "headsign": "POŚWIĘCKA (Ośrodek Zdrowia)",
       "service_id": "4",
@@ -38671,7 +38671,7 @@
       ]
     },
     {
-      "trip_id": "4_17601796",
+      "trip_id": "4_17705809",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "4",
@@ -39030,7 +39030,7 @@
       ]
     },
     {
-      "trip_id": "4_17601797",
+      "trip_id": "4_17705810",
       "direction_id": "0",
       "headsign": "POŚWIĘCKA (Ośrodek Zdrowia)",
       "service_id": "4",
@@ -39398,7 +39398,7 @@
       ]
     },
     {
-      "trip_id": "4_17601798",
+      "trip_id": "4_17705811",
       "direction_id": "1",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "4",
@@ -39514,7 +39514,7 @@
       ]
     },
     {
-      "trip_id": "4_17601799",
+      "trip_id": "4_17705812",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "4",
@@ -39855,7 +39855,7 @@
       ]
     },
     {
-      "trip_id": "4_17601800",
+      "trip_id": "4_17705813",
       "direction_id": "0",
       "headsign": "POŚWIĘCKA (Ośrodek Zdrowia)",
       "service_id": "4",
@@ -40223,7 +40223,7 @@
       ]
     },
     {
-      "trip_id": "4_17601801",
+      "trip_id": "4_17705814",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "4",
@@ -40582,7 +40582,7 @@
       ]
     },
     {
-      "trip_id": "4_17601802",
+      "trip_id": "4_17705815",
       "direction_id": "0",
       "headsign": "POŚWIĘCKA (Ośrodek Zdrowia)",
       "service_id": "4",
@@ -40950,7 +40950,7 @@
       ]
     },
     {
-      "trip_id": "4_17601803",
+      "trip_id": "4_17705816",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "4",
@@ -41309,7 +41309,7 @@
       ]
     },
     {
-      "trip_id": "4_17601804",
+      "trip_id": "4_17705817",
       "direction_id": "0",
       "headsign": "POŚWIĘCKA (Ośrodek Zdrowia)",
       "service_id": "4",
@@ -41677,7 +41677,7 @@
       ]
     },
     {
-      "trip_id": "4_17601805",
+      "trip_id": "4_17705818",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "4",
@@ -42036,7 +42036,7 @@
       ]
     },
     {
-      "trip_id": "4_17601806",
+      "trip_id": "4_17705819",
       "direction_id": "0",
       "headsign": "POŚWIĘCKA (Ośrodek Zdrowia)",
       "service_id": "4",
@@ -42404,7 +42404,7 @@
       ]
     },
     {
-      "trip_id": "4_17601807",
+      "trip_id": "4_17705820",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "4",
@@ -42763,7 +42763,7 @@
       ]
     },
     {
-      "trip_id": "4_17601808",
+      "trip_id": "4_17705821",
       "direction_id": "0",
       "headsign": "POŚWIĘCKA (Ośrodek Zdrowia)",
       "service_id": "4",
@@ -43131,7 +43131,7 @@
       ]
     },
     {
-      "trip_id": "4_17601809",
+      "trip_id": "4_17705822",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "4",
@@ -43490,7 +43490,7 @@
       ]
     },
     {
-      "trip_id": "4_17601810",
+      "trip_id": "4_17705823",
       "direction_id": "0",
       "headsign": "POŚWIĘCKA (Ośrodek Zdrowia)",
       "service_id": "4",
@@ -43858,7 +43858,7 @@
       ]
     },
     {
-      "trip_id": "4_17601811",
+      "trip_id": "4_17705824",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "4",
@@ -44217,7 +44217,7 @@
       ]
     },
     {
-      "trip_id": "4_17601812",
+      "trip_id": "4_17705825",
       "direction_id": "0",
       "headsign": "POŚWIĘCKA (Ośrodek Zdrowia)",
       "service_id": "4",
@@ -44585,7 +44585,7 @@
       ]
     },
     {
-      "trip_id": "4_17601813",
+      "trip_id": "4_17705826",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "4",
@@ -44944,7 +44944,7 @@
       ]
     },
     {
-      "trip_id": "4_17601814",
+      "trip_id": "4_17705827",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "4",
@@ -45294,7 +45294,7 @@
       ]
     },
     {
-      "trip_id": "4_17601815",
+      "trip_id": "4_17705828",
       "direction_id": "0",
       "headsign": "POŚWIĘCKA (Ośrodek Zdrowia)",
       "service_id": "4",
@@ -45419,7 +45419,7 @@
       ]
     },
     {
-      "trip_id": "4_17601816",
+      "trip_id": "4_17705829",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "4",
@@ -45778,7 +45778,7 @@
       ]
     },
     {
-      "trip_id": "4_17601817",
+      "trip_id": "4_17705830",
       "direction_id": "0",
       "headsign": "POŚWIĘCKA (Ośrodek Zdrowia)",
       "service_id": "4",
@@ -46146,7 +46146,7 @@
       ]
     },
     {
-      "trip_id": "4_17601818",
+      "trip_id": "4_17705831",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "4",
@@ -46505,7 +46505,7 @@
       ]
     },
     {
-      "trip_id": "4_17601819",
+      "trip_id": "4_17705832",
       "direction_id": "0",
       "headsign": "POŚWIĘCKA (Ośrodek Zdrowia)",
       "service_id": "4",
@@ -46873,7 +46873,7 @@
       ]
     },
     {
-      "trip_id": "4_17601820",
+      "trip_id": "4_17705833",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "4",
@@ -47232,7 +47232,7 @@
       ]
     },
     {
-      "trip_id": "4_17601821",
+      "trip_id": "4_17705834",
       "direction_id": "0",
       "headsign": "POŚWIĘCKA (Ośrodek Zdrowia)",
       "service_id": "4",
@@ -47600,7 +47600,7 @@
       ]
     },
     {
-      "trip_id": "4_17601822",
+      "trip_id": "4_17705835",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "4",
@@ -47959,7 +47959,7 @@
       ]
     },
     {
-      "trip_id": "4_17601823",
+      "trip_id": "4_17705836",
       "direction_id": "0",
       "headsign": "POŚWIĘCKA (Ośrodek Zdrowia)",
       "service_id": "4",
@@ -48327,7 +48327,7 @@
       ]
     },
     {
-      "trip_id": "4_17601824",
+      "trip_id": "4_17705837",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "4",
@@ -48686,7 +48686,7 @@
       ]
     },
     {
-      "trip_id": "4_17601825",
+      "trip_id": "4_17705838",
       "direction_id": "0",
       "headsign": "POŚWIĘCKA (Ośrodek Zdrowia)",
       "service_id": "4",
@@ -49054,7 +49054,7 @@
       ]
     },
     {
-      "trip_id": "4_17601826",
+      "trip_id": "4_17705839",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "4",
@@ -49413,7 +49413,7 @@
       ]
     },
     {
-      "trip_id": "4_17601827",
+      "trip_id": "4_17705840",
       "direction_id": "0",
       "headsign": "POŚWIĘCKA (Ośrodek Zdrowia)",
       "service_id": "4",
@@ -49781,7 +49781,7 @@
       ]
     },
     {
-      "trip_id": "4_17601828",
+      "trip_id": "4_17705841",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "4",
@@ -50140,7 +50140,7 @@
       ]
     },
     {
-      "trip_id": "4_17601829",
+      "trip_id": "4_17705842",
       "direction_id": "0",
       "headsign": "POŚWIĘCKA (Ośrodek Zdrowia)",
       "service_id": "4",
@@ -50508,7 +50508,7 @@
       ]
     },
     {
-      "trip_id": "4_17601830",
+      "trip_id": "4_17705843",
       "direction_id": "1",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "4",
@@ -50624,7 +50624,7 @@
       ]
     },
     {
-      "trip_id": "4_17601831",
+      "trip_id": "4_17705844",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "4",
@@ -50965,7 +50965,7 @@
       ]
     },
     {
-      "trip_id": "4_17601832",
+      "trip_id": "4_17705845",
       "direction_id": "0",
       "headsign": "POŚWIĘCKA (Ośrodek Zdrowia)",
       "service_id": "4",
@@ -51333,7 +51333,7 @@
       ]
     },
     {
-      "trip_id": "4_17601833",
+      "trip_id": "4_17705846",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "4",
@@ -51692,7 +51692,7 @@
       ]
     },
     {
-      "trip_id": "4_17601834",
+      "trip_id": "4_17705847",
       "direction_id": "0",
       "headsign": "POŚWIĘCKA (Ośrodek Zdrowia)",
       "service_id": "4",
@@ -52060,7 +52060,7 @@
       ]
     },
     {
-      "trip_id": "4_17601835",
+      "trip_id": "4_17705848",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "4",
@@ -52419,7 +52419,7 @@
       ]
     },
     {
-      "trip_id": "4_17601836",
+      "trip_id": "4_17705849",
       "direction_id": "0",
       "headsign": "POŚWIĘCKA (Ośrodek Zdrowia)",
       "service_id": "4",
@@ -52787,7 +52787,7 @@
       ]
     },
     {
-      "trip_id": "4_17601837",
+      "trip_id": "4_17705850",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "4",
@@ -53146,7 +53146,7 @@
       ]
     },
     {
-      "trip_id": "4_17601838",
+      "trip_id": "4_17705851",
       "direction_id": "0",
       "headsign": "POŚWIĘCKA (Ośrodek Zdrowia)",
       "service_id": "4",
@@ -53514,7 +53514,7 @@
       ]
     },
     {
-      "trip_id": "4_17601839",
+      "trip_id": "4_17705852",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "4",
@@ -53873,7 +53873,7 @@
       ]
     },
     {
-      "trip_id": "4_17601840",
+      "trip_id": "4_17705853",
       "direction_id": "0",
       "headsign": "POŚWIĘCKA (Ośrodek Zdrowia)",
       "service_id": "4",
@@ -54241,7 +54241,7 @@
       ]
     },
     {
-      "trip_id": "4_17601841",
+      "trip_id": "4_17705854",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "4",
@@ -54600,7 +54600,7 @@
       ]
     },
     {
-      "trip_id": "4_17601842",
+      "trip_id": "4_17705855",
       "direction_id": "0",
       "headsign": "POŚWIĘCKA (Ośrodek Zdrowia)",
       "service_id": "4",
@@ -54968,7 +54968,7 @@
       ]
     },
     {
-      "trip_id": "4_17601843",
+      "trip_id": "4_17705856",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "4",
@@ -55327,7 +55327,7 @@
       ]
     },
     {
-      "trip_id": "4_17601844",
+      "trip_id": "4_17705857",
       "direction_id": "0",
       "headsign": "POŚWIĘCKA (Ośrodek Zdrowia)",
       "service_id": "4",
@@ -55695,7 +55695,7 @@
       ]
     },
     {
-      "trip_id": "4_17601845",
+      "trip_id": "4_17705858",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "4",
@@ -56054,7 +56054,7 @@
       ]
     },
     {
-      "trip_id": "4_17601846",
+      "trip_id": "4_17705859",
       "direction_id": "0",
       "headsign": "POŚWIĘCKA (Ośrodek Zdrowia)",
       "service_id": "4",
@@ -56422,7 +56422,7 @@
       ]
     },
     {
-      "trip_id": "4_17601847",
+      "trip_id": "4_17705860",
       "direction_id": "1",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "4",
@@ -56538,7 +56538,7 @@
       ]
     },
     {
-      "trip_id": "6_17607092",
+      "trip_id": "6_17711105",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "6",
@@ -56879,7 +56879,7 @@
       ]
     },
     {
-      "trip_id": "6_17607093",
+      "trip_id": "6_17711106",
       "direction_id": "0",
       "headsign": "POŚWIĘCKA (Ośrodek Zdrowia)",
       "service_id": "6",
@@ -57247,7 +57247,7 @@
       ]
     },
     {
-      "trip_id": "6_17607094",
+      "trip_id": "6_17711107",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "6",
@@ -57606,7 +57606,7 @@
       ]
     },
     {
-      "trip_id": "6_17607095",
+      "trip_id": "6_17711108",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "6",
@@ -57956,7 +57956,7 @@
       ]
     },
     {
-      "trip_id": "6_17607096",
+      "trip_id": "6_17711109",
       "direction_id": "0",
       "headsign": "POŚWIĘCKA (Ośrodek Zdrowia)",
       "service_id": "6",
@@ -58081,7 +58081,7 @@
       ]
     },
     {
-      "trip_id": "6_17607097",
+      "trip_id": "6_17711110",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "6",
@@ -58440,7 +58440,7 @@
       ]
     },
     {
-      "trip_id": "6_17607098",
+      "trip_id": "6_17711111",
       "direction_id": "0",
       "headsign": "POŚWIĘCKA (Ośrodek Zdrowia)",
       "service_id": "6",
@@ -58808,7 +58808,7 @@
       ]
     },
     {
-      "trip_id": "6_17607099",
+      "trip_id": "6_17711112",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "6",
@@ -59167,7 +59167,7 @@
       ]
     },
     {
-      "trip_id": "6_17607100",
+      "trip_id": "6_17711113",
       "direction_id": "0",
       "headsign": "POŚWIĘCKA (Ośrodek Zdrowia)",
       "service_id": "6",
@@ -59535,7 +59535,7 @@
       ]
     },
     {
-      "trip_id": "6_17607101",
+      "trip_id": "6_17711114",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "6",
@@ -59894,7 +59894,7 @@
       ]
     },
     {
-      "trip_id": "6_17607102",
+      "trip_id": "6_17711115",
       "direction_id": "0",
       "headsign": "POŚWIĘCKA (Ośrodek Zdrowia)",
       "service_id": "6",
@@ -60262,7 +60262,7 @@
       ]
     },
     {
-      "trip_id": "6_17607103",
+      "trip_id": "6_17711116",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "6",
@@ -60621,7 +60621,7 @@
       ]
     },
     {
-      "trip_id": "6_17607104",
+      "trip_id": "6_17711117",
       "direction_id": "0",
       "headsign": "POŚWIĘCKA (Ośrodek Zdrowia)",
       "service_id": "6",
@@ -60989,7 +60989,7 @@
       ]
     },
     {
-      "trip_id": "6_17607105",
+      "trip_id": "6_17711118",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "6",
@@ -61348,7 +61348,7 @@
       ]
     },
     {
-      "trip_id": "6_17607106",
+      "trip_id": "6_17711119",
       "direction_id": "0",
       "headsign": "POŚWIĘCKA (Ośrodek Zdrowia)",
       "service_id": "6",
@@ -61716,7 +61716,7 @@
       ]
     },
     {
-      "trip_id": "6_17607107",
+      "trip_id": "6_17711120",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "6",
@@ -62075,7 +62075,7 @@
       ]
     },
     {
-      "trip_id": "6_17607108",
+      "trip_id": "6_17711121",
       "direction_id": "0",
       "headsign": "POŚWIĘCKA (Ośrodek Zdrowia)",
       "service_id": "6",
@@ -62443,7 +62443,7 @@
       ]
     },
     {
-      "trip_id": "6_17607109",
+      "trip_id": "6_17711122",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "6",
@@ -62802,7 +62802,7 @@
       ]
     },
     {
-      "trip_id": "6_17607110",
+      "trip_id": "6_17711123",
       "direction_id": "0",
       "headsign": "POŚWIĘCKA (Ośrodek Zdrowia)",
       "service_id": "6",
@@ -63170,7 +63170,7 @@
       ]
     },
     {
-      "trip_id": "6_17607111",
+      "trip_id": "6_17711124",
       "direction_id": "1",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "6",
@@ -63286,7 +63286,7 @@
       ]
     },
     {
-      "trip_id": "6_17607112",
+      "trip_id": "6_17711125",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "6",
@@ -63627,7 +63627,7 @@
       ]
     },
     {
-      "trip_id": "6_17607113",
+      "trip_id": "6_17711126",
       "direction_id": "0",
       "headsign": "POŚWIĘCKA (Ośrodek Zdrowia)",
       "service_id": "6",
@@ -63995,7 +63995,7 @@
       ]
     },
     {
-      "trip_id": "6_17607114",
+      "trip_id": "6_17711127",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "6",
@@ -64354,7 +64354,7 @@
       ]
     },
     {
-      "trip_id": "6_17607115",
+      "trip_id": "6_17711128",
       "direction_id": "0",
       "headsign": "POŚWIĘCKA (Ośrodek Zdrowia)",
       "service_id": "6",
@@ -64722,7 +64722,7 @@
       ]
     },
     {
-      "trip_id": "6_17607116",
+      "trip_id": "6_17711129",
       "direction_id": "1",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "6",
@@ -64838,7 +64838,7 @@
       ]
     },
     {
-      "trip_id": "6_17607117",
+      "trip_id": "6_17711130",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "6",
@@ -65179,7 +65179,7 @@
       ]
     },
     {
-      "trip_id": "6_17607118",
+      "trip_id": "6_17711131",
       "direction_id": "0",
       "headsign": "POŚWIĘCKA (Ośrodek Zdrowia)",
       "service_id": "6",
@@ -65547,7 +65547,7 @@
       ]
     },
     {
-      "trip_id": "6_17607119",
+      "trip_id": "6_17711132",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "6",
@@ -65906,7 +65906,7 @@
       ]
     },
     {
-      "trip_id": "6_17607120",
+      "trip_id": "6_17711133",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "6",
@@ -66256,7 +66256,7 @@
       ]
     },
     {
-      "trip_id": "6_17607121",
+      "trip_id": "6_17711134",
       "direction_id": "0",
       "headsign": "POŚWIĘCKA (Ośrodek Zdrowia)",
       "service_id": "6",
@@ -66381,7 +66381,7 @@
       ]
     },
     {
-      "trip_id": "6_17607122",
+      "trip_id": "6_17711135",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "6",
@@ -66740,7 +66740,7 @@
       ]
     },
     {
-      "trip_id": "6_17607123",
+      "trip_id": "6_17711136",
       "direction_id": "0",
       "headsign": "POŚWIĘCKA (Ośrodek Zdrowia)",
       "service_id": "6",
@@ -67108,7 +67108,7 @@
       ]
     },
     {
-      "trip_id": "6_17607124",
+      "trip_id": "6_17711137",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "6",
@@ -67467,7 +67467,7 @@
       ]
     },
     {
-      "trip_id": "6_17607125",
+      "trip_id": "6_17711138",
       "direction_id": "0",
       "headsign": "POŚWIĘCKA (Ośrodek Zdrowia)",
       "service_id": "6",
@@ -67835,7 +67835,7 @@
       ]
     },
     {
-      "trip_id": "6_17607126",
+      "trip_id": "6_17711139",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "6",
@@ -68194,7 +68194,7 @@
       ]
     },
     {
-      "trip_id": "6_17607127",
+      "trip_id": "6_17711140",
       "direction_id": "0",
       "headsign": "POŚWIĘCKA (Ośrodek Zdrowia)",
       "service_id": "6",
@@ -68562,7 +68562,7 @@
       ]
     },
     {
-      "trip_id": "6_17607128",
+      "trip_id": "6_17711141",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "6",
@@ -68921,7 +68921,7 @@
       ]
     },
     {
-      "trip_id": "6_17607129",
+      "trip_id": "6_17711142",
       "direction_id": "0",
       "headsign": "POŚWIĘCKA (Ośrodek Zdrowia)",
       "service_id": "6",
@@ -69289,7 +69289,7 @@
       ]
     },
     {
-      "trip_id": "6_17607130",
+      "trip_id": "6_17711143",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "6",
@@ -69648,7 +69648,7 @@
       ]
     },
     {
-      "trip_id": "6_17607131",
+      "trip_id": "6_17711144",
       "direction_id": "0",
       "headsign": "POŚWIĘCKA (Ośrodek Zdrowia)",
       "service_id": "6",
@@ -70016,7 +70016,7 @@
       ]
     },
     {
-      "trip_id": "6_17607132",
+      "trip_id": "6_17711145",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "6",
@@ -70375,7 +70375,7 @@
       ]
     },
     {
-      "trip_id": "6_17607133",
+      "trip_id": "6_17711146",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "6",
@@ -70725,7 +70725,7 @@
       ]
     },
     {
-      "trip_id": "6_17607134",
+      "trip_id": "6_17711147",
       "direction_id": "0",
       "headsign": "POŚWIĘCKA (Ośrodek Zdrowia)",
       "service_id": "6",
@@ -70850,7 +70850,7 @@
       ]
     },
     {
-      "trip_id": "6_17607135",
+      "trip_id": "6_17711148",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "6",
@@ -71209,7 +71209,7 @@
       ]
     },
     {
-      "trip_id": "6_17607136",
+      "trip_id": "6_17711149",
       "direction_id": "0",
       "headsign": "POŚWIĘCKA (Ośrodek Zdrowia)",
       "service_id": "6",
@@ -71577,7 +71577,7 @@
       ]
     },
     {
-      "trip_id": "6_17607137",
+      "trip_id": "6_17711150",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "6",
@@ -71936,7 +71936,7 @@
       ]
     },
     {
-      "trip_id": "6_17607138",
+      "trip_id": "6_17711151",
       "direction_id": "0",
       "headsign": "POŚWIĘCKA (Ośrodek Zdrowia)",
       "service_id": "6",
@@ -72304,7 +72304,7 @@
       ]
     },
     {
-      "trip_id": "6_17607139",
+      "trip_id": "6_17711152",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "6",
@@ -72663,7 +72663,7 @@
       ]
     },
     {
-      "trip_id": "6_17607140",
+      "trip_id": "6_17711153",
       "direction_id": "0",
       "headsign": "POŚWIĘCKA (Ośrodek Zdrowia)",
       "service_id": "6",
@@ -73031,7 +73031,7 @@
       ]
     },
     {
-      "trip_id": "6_17607141",
+      "trip_id": "6_17711154",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "6",
@@ -73390,7 +73390,7 @@
       ]
     },
     {
-      "trip_id": "6_17607142",
+      "trip_id": "6_17711155",
       "direction_id": "0",
       "headsign": "POŚWIĘCKA (Ośrodek Zdrowia)",
       "service_id": "6",
@@ -73758,7 +73758,7 @@
       ]
     },
     {
-      "trip_id": "6_17607143",
+      "trip_id": "6_17711156",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "6",
@@ -74117,7 +74117,7 @@
       ]
     },
     {
-      "trip_id": "6_17607144",
+      "trip_id": "6_17711157",
       "direction_id": "0",
       "headsign": "POŚWIĘCKA (Ośrodek Zdrowia)",
       "service_id": "6",
@@ -74485,7 +74485,7 @@
       ]
     },
     {
-      "trip_id": "6_17607145",
+      "trip_id": "6_17711158",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "6",
@@ -74844,7 +74844,7 @@
       ]
     },
     {
-      "trip_id": "6_17607146",
+      "trip_id": "6_17711159",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "6",
@@ -75194,7 +75194,7 @@
       ]
     },
     {
-      "trip_id": "6_17607147",
+      "trip_id": "6_17711160",
       "direction_id": "0",
       "headsign": "POŚWIĘCKA (Ośrodek Zdrowia)",
       "service_id": "6",
@@ -75319,7 +75319,7 @@
       ]
     },
     {
-      "trip_id": "6_17607148",
+      "trip_id": "6_17711161",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "6",
@@ -75678,7 +75678,7 @@
       ]
     },
     {
-      "trip_id": "6_17607149",
+      "trip_id": "6_17711162",
       "direction_id": "0",
       "headsign": "POŚWIĘCKA (Ośrodek Zdrowia)",
       "service_id": "6",
@@ -76046,7 +76046,7 @@
       ]
     },
     {
-      "trip_id": "6_17607150",
+      "trip_id": "6_17711163",
       "direction_id": "1",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "6",
@@ -76162,7 +76162,7 @@
       ]
     },
     {
-      "trip_id": "6_17607151",
+      "trip_id": "6_17711164",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "6",
@@ -76503,7 +76503,7 @@
       ]
     },
     {
-      "trip_id": "6_17607152",
+      "trip_id": "6_17711165",
       "direction_id": "0",
       "headsign": "POŚWIĘCKA (Ośrodek Zdrowia)",
       "service_id": "6",
@@ -76871,7 +76871,7 @@
       ]
     },
     {
-      "trip_id": "6_17607153",
+      "trip_id": "6_17711166",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "6",
@@ -77230,7 +77230,7 @@
       ]
     },
     {
-      "trip_id": "6_17607154",
+      "trip_id": "6_17711167",
       "direction_id": "0",
       "headsign": "POŚWIĘCKA (Ośrodek Zdrowia)",
       "service_id": "6",
@@ -77598,7 +77598,7 @@
       ]
     },
     {
-      "trip_id": "6_17607155",
+      "trip_id": "6_17711168",
       "direction_id": "1",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "6",
@@ -77714,7 +77714,7 @@
       ]
     },
     {
-      "trip_id": "6_17607156",
+      "trip_id": "6_17711169",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "6",
@@ -78055,7 +78055,7 @@
       ]
     },
     {
-      "trip_id": "6_17607157",
+      "trip_id": "6_17711170",
       "direction_id": "0",
       "headsign": "POŚWIĘCKA (Ośrodek Zdrowia)",
       "service_id": "6",
@@ -78423,7 +78423,7 @@
       ]
     },
     {
-      "trip_id": "6_17607158",
+      "trip_id": "6_17711171",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "6",
@@ -78782,7 +78782,7 @@
       ]
     },
     {
-      "trip_id": "6_17607159",
+      "trip_id": "6_17711172",
       "direction_id": "0",
       "headsign": "POŚWIĘCKA (Ośrodek Zdrowia)",
       "service_id": "6",
@@ -79150,7 +79150,7 @@
       ]
     },
     {
-      "trip_id": "6_17607160",
+      "trip_id": "6_17711173",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "6",
@@ -79509,7 +79509,7 @@
       ]
     },
     {
-      "trip_id": "6_17607161",
+      "trip_id": "6_17711174",
       "direction_id": "0",
       "headsign": "POŚWIĘCKA (Ośrodek Zdrowia)",
       "service_id": "6",
@@ -79877,7 +79877,7 @@
       ]
     },
     {
-      "trip_id": "6_17607162",
+      "trip_id": "6_17711175",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "6",
@@ -80236,7 +80236,7 @@
       ]
     },
     {
-      "trip_id": "6_17607163",
+      "trip_id": "6_17711176",
       "direction_id": "0",
       "headsign": "POŚWIĘCKA (Ośrodek Zdrowia)",
       "service_id": "6",
@@ -80604,7 +80604,7 @@
       ]
     },
     {
-      "trip_id": "6_17607164",
+      "trip_id": "6_17711177",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "6",
@@ -80963,7 +80963,7 @@
       ]
     },
     {
-      "trip_id": "6_17607165",
+      "trip_id": "6_17711178",
       "direction_id": "0",
       "headsign": "POŚWIĘCKA (Ośrodek Zdrowia)",
       "service_id": "6",
@@ -81331,7 +81331,7 @@
       ]
     },
     {
-      "trip_id": "6_17607166",
+      "trip_id": "6_17711179",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "6",
@@ -81690,7 +81690,7 @@
       ]
     },
     {
-      "trip_id": "6_17607167",
+      "trip_id": "6_17711180",
       "direction_id": "0",
       "headsign": "POŚWIĘCKA (Ośrodek Zdrowia)",
       "service_id": "6",
@@ -82058,7 +82058,7 @@
       ]
     },
     {
-      "trip_id": "6_17607168",
+      "trip_id": "6_17711181",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "6",
@@ -82417,7 +82417,7 @@
       ]
     },
     {
-      "trip_id": "6_17607169",
+      "trip_id": "6_17711182",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "6",
@@ -82767,7 +82767,7 @@
       ]
     },
     {
-      "trip_id": "6_17607170",
+      "trip_id": "6_17711183",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "6",
@@ -83108,7 +83108,7 @@
       ]
     },
     {
-      "trip_id": "6_17607171",
+      "trip_id": "6_17711184",
       "direction_id": "0",
       "headsign": "POŚWIĘCKA (Ośrodek Zdrowia)",
       "service_id": "6",
@@ -83476,7 +83476,7 @@
       ]
     },
     {
-      "trip_id": "6_17607172",
+      "trip_id": "6_17711185",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "6",
@@ -83835,7 +83835,7 @@
       ]
     },
     {
-      "trip_id": "6_17607173",
+      "trip_id": "6_17711186",
       "direction_id": "0",
       "headsign": "POŚWIĘCKA (Ośrodek Zdrowia)",
       "service_id": "6",
@@ -84203,7 +84203,7 @@
       ]
     },
     {
-      "trip_id": "6_17607174",
+      "trip_id": "6_17711187",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "6",
@@ -84562,7 +84562,7 @@
       ]
     },
     {
-      "trip_id": "6_17607175",
+      "trip_id": "6_17711188",
       "direction_id": "0",
       "headsign": "POŚWIĘCKA (Ośrodek Zdrowia)",
       "service_id": "6",
@@ -84930,7 +84930,7 @@
       ]
     },
     {
-      "trip_id": "6_17607176",
+      "trip_id": "6_17711189",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "6",
@@ -85289,7 +85289,7 @@
       ]
     },
     {
-      "trip_id": "6_17607177",
+      "trip_id": "6_17711190",
       "direction_id": "0",
       "headsign": "POŚWIĘCKA (Ośrodek Zdrowia)",
       "service_id": "6",
@@ -85657,7 +85657,7 @@
       ]
     },
     {
-      "trip_id": "6_17607178",
+      "trip_id": "6_17711191",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "6",
@@ -86016,7 +86016,7 @@
       ]
     },
     {
-      "trip_id": "6_17607179",
+      "trip_id": "6_17711192",
       "direction_id": "0",
       "headsign": "POŚWIĘCKA (Ośrodek Zdrowia)",
       "service_id": "6",
@@ -86384,7 +86384,7 @@
       ]
     },
     {
-      "trip_id": "6_17607180",
+      "trip_id": "6_17711193",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "6",
@@ -86743,7 +86743,7 @@
       ]
     },
     {
-      "trip_id": "6_17607181",
+      "trip_id": "6_17711194",
       "direction_id": "0",
       "headsign": "POŚWIĘCKA (Ośrodek Zdrowia)",
       "service_id": "6",
@@ -87111,7 +87111,7 @@
       ]
     },
     {
-      "trip_id": "6_17607182",
+      "trip_id": "6_17711195",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "6",
@@ -87470,7 +87470,7 @@
       ]
     },
     {
-      "trip_id": "6_17607183",
+      "trip_id": "6_17711196",
       "direction_id": "0",
       "headsign": "POŚWIĘCKA (Ośrodek Zdrowia)",
       "service_id": "6",
@@ -87838,7 +87838,7 @@
       ]
     },
     {
-      "trip_id": "6_17607184",
+      "trip_id": "6_17711197",
       "direction_id": "1",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "6",
@@ -87954,7 +87954,7 @@
       ]
     },
     {
-      "trip_id": "6_17607185",
+      "trip_id": "6_17711198",
       "direction_id": "0",
       "headsign": "POŚWIĘCKA (Ośrodek Zdrowia)",
       "service_id": "6",
@@ -88079,7 +88079,7 @@
       ]
     },
     {
-      "trip_id": "6_17607186",
+      "trip_id": "6_17711199",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "6",
@@ -88438,7 +88438,7 @@
       ]
     },
     {
-      "trip_id": "6_17607187",
+      "trip_id": "6_17711200",
       "direction_id": "0",
       "headsign": "POŚWIĘCKA (Ośrodek Zdrowia)",
       "service_id": "6",
@@ -88806,7 +88806,7 @@
       ]
     },
     {
-      "trip_id": "6_17607188",
+      "trip_id": "6_17711201",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "6",
@@ -89165,7 +89165,7 @@
       ]
     },
     {
-      "trip_id": "6_17607189",
+      "trip_id": "6_17711202",
       "direction_id": "0",
       "headsign": "POŚWIĘCKA (Ośrodek Zdrowia)",
       "service_id": "6",
@@ -89533,7 +89533,7 @@
       ]
     },
     {
-      "trip_id": "6_17607190",
+      "trip_id": "6_17711203",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "6",
@@ -89892,7 +89892,7 @@
       ]
     },
     {
-      "trip_id": "6_17607191",
+      "trip_id": "6_17711204",
       "direction_id": "0",
       "headsign": "POŚWIĘCKA (Ośrodek Zdrowia)",
       "service_id": "6",
@@ -90260,7 +90260,7 @@
       ]
     },
     {
-      "trip_id": "6_17607192",
+      "trip_id": "6_17711205",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "6",
@@ -90619,7 +90619,7 @@
       ]
     },
     {
-      "trip_id": "6_17607193",
+      "trip_id": "6_17711206",
       "direction_id": "0",
       "headsign": "POŚWIĘCKA (Ośrodek Zdrowia)",
       "service_id": "6",
@@ -90987,7 +90987,7 @@
       ]
     },
     {
-      "trip_id": "6_17607194",
+      "trip_id": "6_17711207",
       "direction_id": "1",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "6",
@@ -91103,7 +91103,7 @@
       ]
     },
     {
-      "trip_id": "6_17607195",
+      "trip_id": "6_17711208",
       "direction_id": "0",
       "headsign": "POŚWIĘCKA (Ośrodek Zdrowia)",
       "service_id": "6",
@@ -91228,7 +91228,7 @@
       ]
     },
     {
-      "trip_id": "6_17607196",
+      "trip_id": "6_17711209",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "6",
@@ -91587,7 +91587,7 @@
       ]
     },
     {
-      "trip_id": "6_17607197",
+      "trip_id": "6_17711210",
       "direction_id": "0",
       "headsign": "POŚWIĘCKA (Ośrodek Zdrowia)",
       "service_id": "6",
@@ -91955,7 +91955,7 @@
       ]
     },
     {
-      "trip_id": "6_17607198",
+      "trip_id": "6_17711211",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "6",
@@ -92314,7 +92314,7 @@
       ]
     },
     {
-      "trip_id": "6_17607199",
+      "trip_id": "6_17711212",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "6",
@@ -92664,7 +92664,7 @@
       ]
     },
     {
-      "trip_id": "6_17607200",
+      "trip_id": "6_17711213",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "6",
@@ -93005,7 +93005,7 @@
       ]
     },
     {
-      "trip_id": "6_17607201",
+      "trip_id": "6_17711214",
       "direction_id": "0",
       "headsign": "POŚWIĘCKA (Ośrodek Zdrowia)",
       "service_id": "6",
@@ -93373,7 +93373,7 @@
       ]
     },
     {
-      "trip_id": "6_17607202",
+      "trip_id": "6_17711215",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "6",
@@ -93732,7 +93732,7 @@
       ]
     },
     {
-      "trip_id": "6_17607203",
+      "trip_id": "6_17711216",
       "direction_id": "0",
       "headsign": "POŚWIĘCKA (Ośrodek Zdrowia)",
       "service_id": "6",
@@ -94100,7 +94100,7 @@
       ]
     },
     {
-      "trip_id": "6_17607204",
+      "trip_id": "6_17711217",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "6",
@@ -94459,7 +94459,7 @@
       ]
     },
     {
-      "trip_id": "6_17607205",
+      "trip_id": "6_17711218",
       "direction_id": "0",
       "headsign": "POŚWIĘCKA (Ośrodek Zdrowia)",
       "service_id": "6",
@@ -94827,7 +94827,7 @@
       ]
     },
     {
-      "trip_id": "6_17607206",
+      "trip_id": "6_17711219",
       "direction_id": "1",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "6",
@@ -94943,7 +94943,7 @@
       ]
     },
     {
-      "trip_id": "6_17607207",
+      "trip_id": "6_17711220",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "6",
@@ -95284,7 +95284,7 @@
       ]
     },
     {
-      "trip_id": "6_17607208",
+      "trip_id": "6_17711221",
       "direction_id": "0",
       "headsign": "POŚWIĘCKA (Ośrodek Zdrowia)",
       "service_id": "6",
@@ -95652,7 +95652,7 @@
       ]
     },
     {
-      "trip_id": "6_17607209",
+      "trip_id": "6_17711222",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "6",
@@ -96011,7 +96011,7 @@
       ]
     },
     {
-      "trip_id": "6_17607210",
+      "trip_id": "6_17711223",
       "direction_id": "0",
       "headsign": "POŚWIĘCKA (Ośrodek Zdrowia)",
       "service_id": "6",
@@ -96379,7 +96379,7 @@
       ]
     },
     {
-      "trip_id": "6_17607211",
+      "trip_id": "6_17711224",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "6",
@@ -96738,7 +96738,7 @@
       ]
     },
     {
-      "trip_id": "6_17607212",
+      "trip_id": "6_17711225",
       "direction_id": "0",
       "headsign": "POŚWIĘCKA (Ośrodek Zdrowia)",
       "service_id": "6",
@@ -97106,7 +97106,7 @@
       ]
     },
     {
-      "trip_id": "6_17607213",
+      "trip_id": "6_17711226",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "6",
@@ -97465,7 +97465,7 @@
       ]
     },
     {
-      "trip_id": "6_17607214",
+      "trip_id": "6_17711227",
       "direction_id": "0",
       "headsign": "POŚWIĘCKA (Ośrodek Zdrowia)",
       "service_id": "6",
@@ -97833,7 +97833,7 @@
       ]
     },
     {
-      "trip_id": "6_17607215",
+      "trip_id": "6_17711228",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "6",
@@ -98192,7 +98192,7 @@
       ]
     },
     {
-      "trip_id": "6_17607216",
+      "trip_id": "6_17711229",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "6",
@@ -98542,7 +98542,7 @@
       ]
     },
     {
-      "trip_id": "6_17607217",
+      "trip_id": "6_17711230",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "6",
@@ -98883,7 +98883,7 @@
       ]
     },
     {
-      "trip_id": "6_17607218",
+      "trip_id": "6_17711231",
       "direction_id": "0",
       "headsign": "POŚWIĘCKA (Ośrodek Zdrowia)",
       "service_id": "6",
@@ -99251,7 +99251,7 @@
       ]
     },
     {
-      "trip_id": "6_17607219",
+      "trip_id": "6_17711232",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "6",
@@ -99610,7 +99610,7 @@
       ]
     },
     {
-      "trip_id": "6_17607220",
+      "trip_id": "6_17711233",
       "direction_id": "0",
       "headsign": "POŚWIĘCKA (Ośrodek Zdrowia)",
       "service_id": "6",
@@ -99978,7 +99978,7 @@
       ]
     },
     {
-      "trip_id": "6_17607221",
+      "trip_id": "6_17711234",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "6",
@@ -100337,7 +100337,7 @@
       ]
     },
     {
-      "trip_id": "6_17607222",
+      "trip_id": "6_17711235",
       "direction_id": "0",
       "headsign": "POŚWIĘCKA (Ośrodek Zdrowia)",
       "service_id": "6",
@@ -100705,7 +100705,7 @@
       ]
     },
     {
-      "trip_id": "6_17607223",
+      "trip_id": "6_17711236",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "6",
@@ -101064,7 +101064,7 @@
       ]
     },
     {
-      "trip_id": "6_17607224",
+      "trip_id": "6_17711237",
       "direction_id": "0",
       "headsign": "POŚWIĘCKA (Ośrodek Zdrowia)",
       "service_id": "6",
@@ -101432,7 +101432,7 @@
       ]
     },
     {
-      "trip_id": "6_17607225",
+      "trip_id": "6_17711238",
       "direction_id": "1",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "6",
@@ -101548,7 +101548,7 @@
       ]
     },
     {
-      "trip_id": "6_17607226",
+      "trip_id": "6_17711239",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "6",
@@ -101889,7 +101889,7 @@
       ]
     },
     {
-      "trip_id": "6_17607227",
+      "trip_id": "6_17711240",
       "direction_id": "0",
       "headsign": "POŚWIĘCKA (Ośrodek Zdrowia)",
       "service_id": "6",
@@ -102257,7 +102257,7 @@
       ]
     },
     {
-      "trip_id": "6_17607228",
+      "trip_id": "6_17711241",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "6",
@@ -102616,7 +102616,7 @@
       ]
     },
     {
-      "trip_id": "6_17607229",
+      "trip_id": "6_17711242",
       "direction_id": "0",
       "headsign": "POŚWIĘCKA (Ośrodek Zdrowia)",
       "service_id": "6",
@@ -102984,7 +102984,7 @@
       ]
     },
     {
-      "trip_id": "6_17607230",
+      "trip_id": "6_17711243",
       "direction_id": "1",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "6",
@@ -103100,7 +103100,7 @@
       ]
     },
     {
-      "trip_id": "8_17613918",
+      "trip_id": "8_17717931",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "8",
@@ -103441,7 +103441,7 @@
       ]
     },
     {
-      "trip_id": "8_17613919",
+      "trip_id": "8_17717932",
       "direction_id": "0",
       "headsign": "POŚWIĘCKA (Ośrodek Zdrowia)",
       "service_id": "8",
@@ -103809,7 +103809,7 @@
       ]
     },
     {
-      "trip_id": "8_17613920",
+      "trip_id": "8_17717933",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "8",
@@ -104168,7 +104168,7 @@
       ]
     },
     {
-      "trip_id": "8_17613921",
+      "trip_id": "8_17717934",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "8",
@@ -104518,7 +104518,7 @@
       ]
     },
     {
-      "trip_id": "8_17613922",
+      "trip_id": "8_17717935",
       "direction_id": "0",
       "headsign": "POŚWIĘCKA (Ośrodek Zdrowia)",
       "service_id": "8",
@@ -104643,7 +104643,7 @@
       ]
     },
     {
-      "trip_id": "8_17613923",
+      "trip_id": "8_17717936",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "8",
@@ -105002,7 +105002,7 @@
       ]
     },
     {
-      "trip_id": "8_17613924",
+      "trip_id": "8_17717937",
       "direction_id": "0",
       "headsign": "POŚWIĘCKA (Ośrodek Zdrowia)",
       "service_id": "8",
@@ -105370,7 +105370,7 @@
       ]
     },
     {
-      "trip_id": "8_17613925",
+      "trip_id": "8_17717938",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "8",
@@ -105729,7 +105729,7 @@
       ]
     },
     {
-      "trip_id": "8_17613926",
+      "trip_id": "8_17717939",
       "direction_id": "0",
       "headsign": "POŚWIĘCKA (Ośrodek Zdrowia)",
       "service_id": "8",
@@ -106097,7 +106097,7 @@
       ]
     },
     {
-      "trip_id": "8_17613927",
+      "trip_id": "8_17717940",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "8",
@@ -106456,7 +106456,7 @@
       ]
     },
     {
-      "trip_id": "8_17613928",
+      "trip_id": "8_17717941",
       "direction_id": "0",
       "headsign": "POŚWIĘCKA (Ośrodek Zdrowia)",
       "service_id": "8",
@@ -106824,7 +106824,7 @@
       ]
     },
     {
-      "trip_id": "8_17613929",
+      "trip_id": "8_17717942",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "8",
@@ -107183,7 +107183,7 @@
       ]
     },
     {
-      "trip_id": "8_17613930",
+      "trip_id": "8_17717943",
       "direction_id": "0",
       "headsign": "POŚWIĘCKA (Ośrodek Zdrowia)",
       "service_id": "8",
@@ -107551,7 +107551,7 @@
       ]
     },
     {
-      "trip_id": "8_17613931",
+      "trip_id": "8_17717944",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "8",
@@ -107910,7 +107910,7 @@
       ]
     },
     {
-      "trip_id": "8_17613932",
+      "trip_id": "8_17717945",
       "direction_id": "0",
       "headsign": "POŚWIĘCKA (Ośrodek Zdrowia)",
       "service_id": "8",
@@ -108278,7 +108278,7 @@
       ]
     },
     {
-      "trip_id": "8_17613933",
+      "trip_id": "8_17717946",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "8",
@@ -108637,7 +108637,7 @@
       ]
     },
     {
-      "trip_id": "8_17613934",
+      "trip_id": "8_17717947",
       "direction_id": "0",
       "headsign": "POŚWIĘCKA (Ośrodek Zdrowia)",
       "service_id": "8",
@@ -109005,7 +109005,7 @@
       ]
     },
     {
-      "trip_id": "8_17613935",
+      "trip_id": "8_17717948",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "8",
@@ -109364,7 +109364,7 @@
       ]
     },
     {
-      "trip_id": "8_17613936",
+      "trip_id": "8_17717949",
       "direction_id": "0",
       "headsign": "POŚWIĘCKA (Ośrodek Zdrowia)",
       "service_id": "8",
@@ -109732,7 +109732,7 @@
       ]
     },
     {
-      "trip_id": "8_17613937",
+      "trip_id": "8_17717950",
       "direction_id": "1",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "8",
@@ -109848,7 +109848,7 @@
       ]
     },
     {
-      "trip_id": "8_17613938",
+      "trip_id": "8_17717951",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "8",
@@ -110189,7 +110189,7 @@
       ]
     },
     {
-      "trip_id": "8_17613939",
+      "trip_id": "8_17717952",
       "direction_id": "0",
       "headsign": "POŚWIĘCKA (Ośrodek Zdrowia)",
       "service_id": "8",
@@ -110557,7 +110557,7 @@
       ]
     },
     {
-      "trip_id": "8_17613940",
+      "trip_id": "8_17717953",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "8",
@@ -110916,7 +110916,7 @@
       ]
     },
     {
-      "trip_id": "8_17613941",
+      "trip_id": "8_17717954",
       "direction_id": "0",
       "headsign": "POŚWIĘCKA (Ośrodek Zdrowia)",
       "service_id": "8",
@@ -111284,7 +111284,7 @@
       ]
     },
     {
-      "trip_id": "8_17613942",
+      "trip_id": "8_17717955",
       "direction_id": "1",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "8",
@@ -111400,7 +111400,7 @@
       ]
     },
     {
-      "trip_id": "8_17613943",
+      "trip_id": "8_17717956",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "8",
@@ -111741,7 +111741,7 @@
       ]
     },
     {
-      "trip_id": "8_17613944",
+      "trip_id": "8_17717957",
       "direction_id": "0",
       "headsign": "POŚWIĘCKA (Ośrodek Zdrowia)",
       "service_id": "8",
@@ -112109,7 +112109,7 @@
       ]
     },
     {
-      "trip_id": "8_17613945",
+      "trip_id": "8_17717958",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "8",
@@ -112468,7 +112468,7 @@
       ]
     },
     {
-      "trip_id": "8_17613946",
+      "trip_id": "8_17717959",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "8",
@@ -112818,7 +112818,7 @@
       ]
     },
     {
-      "trip_id": "8_17613947",
+      "trip_id": "8_17717960",
       "direction_id": "0",
       "headsign": "POŚWIĘCKA (Ośrodek Zdrowia)",
       "service_id": "8",
@@ -112943,7 +112943,7 @@
       ]
     },
     {
-      "trip_id": "8_17613948",
+      "trip_id": "8_17717961",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "8",
@@ -113302,7 +113302,7 @@
       ]
     },
     {
-      "trip_id": "8_17613949",
+      "trip_id": "8_17717962",
       "direction_id": "0",
       "headsign": "POŚWIĘCKA (Ośrodek Zdrowia)",
       "service_id": "8",
@@ -113670,7 +113670,7 @@
       ]
     },
     {
-      "trip_id": "8_17613950",
+      "trip_id": "8_17717963",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "8",
@@ -114029,7 +114029,7 @@
       ]
     },
     {
-      "trip_id": "8_17613951",
+      "trip_id": "8_17717964",
       "direction_id": "0",
       "headsign": "POŚWIĘCKA (Ośrodek Zdrowia)",
       "service_id": "8",
@@ -114397,7 +114397,7 @@
       ]
     },
     {
-      "trip_id": "8_17613952",
+      "trip_id": "8_17717965",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "8",
@@ -114756,7 +114756,7 @@
       ]
     },
     {
-      "trip_id": "8_17613953",
+      "trip_id": "8_17717966",
       "direction_id": "0",
       "headsign": "POŚWIĘCKA (Ośrodek Zdrowia)",
       "service_id": "8",
@@ -115124,7 +115124,7 @@
       ]
     },
     {
-      "trip_id": "8_17613954",
+      "trip_id": "8_17717967",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "8",
@@ -115483,7 +115483,7 @@
       ]
     },
     {
-      "trip_id": "8_17613955",
+      "trip_id": "8_17717968",
       "direction_id": "0",
       "headsign": "POŚWIĘCKA (Ośrodek Zdrowia)",
       "service_id": "8",
@@ -115851,7 +115851,7 @@
       ]
     },
     {
-      "trip_id": "8_17613956",
+      "trip_id": "8_17717969",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "8",
@@ -116210,7 +116210,7 @@
       ]
     },
     {
-      "trip_id": "8_17613957",
+      "trip_id": "8_17717970",
       "direction_id": "0",
       "headsign": "POŚWIĘCKA (Ośrodek Zdrowia)",
       "service_id": "8",
@@ -116578,7 +116578,7 @@
       ]
     },
     {
-      "trip_id": "8_17613958",
+      "trip_id": "8_17717971",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "8",
@@ -116937,7 +116937,7 @@
       ]
     },
     {
-      "trip_id": "8_17613959",
+      "trip_id": "8_17717972",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "8",
@@ -117287,7 +117287,7 @@
       ]
     },
     {
-      "trip_id": "8_17613960",
+      "trip_id": "8_17717973",
       "direction_id": "0",
       "headsign": "POŚWIĘCKA (Ośrodek Zdrowia)",
       "service_id": "8",
@@ -117412,7 +117412,7 @@
       ]
     },
     {
-      "trip_id": "8_17613961",
+      "trip_id": "8_17717974",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "8",
@@ -117771,7 +117771,7 @@
       ]
     },
     {
-      "trip_id": "8_17613962",
+      "trip_id": "8_17717975",
       "direction_id": "0",
       "headsign": "POŚWIĘCKA (Ośrodek Zdrowia)",
       "service_id": "8",
@@ -118139,7 +118139,7 @@
       ]
     },
     {
-      "trip_id": "8_17613963",
+      "trip_id": "8_17717976",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "8",
@@ -118498,7 +118498,7 @@
       ]
     },
     {
-      "trip_id": "8_17613964",
+      "trip_id": "8_17717977",
       "direction_id": "0",
       "headsign": "POŚWIĘCKA (Ośrodek Zdrowia)",
       "service_id": "8",
@@ -118866,7 +118866,7 @@
       ]
     },
     {
-      "trip_id": "8_17613965",
+      "trip_id": "8_17717978",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "8",
@@ -119225,7 +119225,7 @@
       ]
     },
     {
-      "trip_id": "8_17613966",
+      "trip_id": "8_17717979",
       "direction_id": "0",
       "headsign": "POŚWIĘCKA (Ośrodek Zdrowia)",
       "service_id": "8",
@@ -119593,7 +119593,7 @@
       ]
     },
     {
-      "trip_id": "8_17613967",
+      "trip_id": "8_17717980",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "8",
@@ -119952,7 +119952,7 @@
       ]
     },
     {
-      "trip_id": "8_17613968",
+      "trip_id": "8_17717981",
       "direction_id": "0",
       "headsign": "POŚWIĘCKA (Ośrodek Zdrowia)",
       "service_id": "8",
@@ -120320,7 +120320,7 @@
       ]
     },
     {
-      "trip_id": "8_17613969",
+      "trip_id": "8_17717982",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "8",
@@ -120679,7 +120679,7 @@
       ]
     },
     {
-      "trip_id": "8_17613970",
+      "trip_id": "8_17717983",
       "direction_id": "0",
       "headsign": "POŚWIĘCKA (Ośrodek Zdrowia)",
       "service_id": "8",
@@ -121047,7 +121047,7 @@
       ]
     },
     {
-      "trip_id": "8_17613971",
+      "trip_id": "8_17717984",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "8",
@@ -121406,7 +121406,7 @@
       ]
     },
     {
-      "trip_id": "8_17613972",
+      "trip_id": "8_17717985",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "8",
@@ -121756,7 +121756,7 @@
       ]
     },
     {
-      "trip_id": "8_17613973",
+      "trip_id": "8_17717986",
       "direction_id": "0",
       "headsign": "POŚWIĘCKA (Ośrodek Zdrowia)",
       "service_id": "8",
@@ -121881,7 +121881,7 @@
       ]
     },
     {
-      "trip_id": "8_17613974",
+      "trip_id": "8_17717987",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "8",
@@ -122240,7 +122240,7 @@
       ]
     },
     {
-      "trip_id": "8_17613975",
+      "trip_id": "8_17717988",
       "direction_id": "0",
       "headsign": "POŚWIĘCKA (Ośrodek Zdrowia)",
       "service_id": "8",
@@ -122608,7 +122608,7 @@
       ]
     },
     {
-      "trip_id": "8_17613976",
+      "trip_id": "8_17717989",
       "direction_id": "1",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "8",
@@ -122724,7 +122724,7 @@
       ]
     },
     {
-      "trip_id": "8_17613977",
+      "trip_id": "8_17717990",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "8",
@@ -123065,7 +123065,7 @@
       ]
     },
     {
-      "trip_id": "8_17613978",
+      "trip_id": "8_17717991",
       "direction_id": "0",
       "headsign": "POŚWIĘCKA (Ośrodek Zdrowia)",
       "service_id": "8",
@@ -123433,7 +123433,7 @@
       ]
     },
     {
-      "trip_id": "8_17613979",
+      "trip_id": "8_17717992",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "8",
@@ -123792,7 +123792,7 @@
       ]
     },
     {
-      "trip_id": "8_17613980",
+      "trip_id": "8_17717993",
       "direction_id": "0",
       "headsign": "POŚWIĘCKA (Ośrodek Zdrowia)",
       "service_id": "8",
@@ -124160,7 +124160,7 @@
       ]
     },
     {
-      "trip_id": "8_17613981",
+      "trip_id": "8_17717994",
       "direction_id": "1",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "8",
@@ -124276,7 +124276,7 @@
       ]
     },
     {
-      "trip_id": "8_17613982",
+      "trip_id": "8_17717995",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "8",
@@ -124617,7 +124617,7 @@
       ]
     },
     {
-      "trip_id": "8_17613983",
+      "trip_id": "8_17717996",
       "direction_id": "0",
       "headsign": "POŚWIĘCKA (Ośrodek Zdrowia)",
       "service_id": "8",
@@ -124985,7 +124985,7 @@
       ]
     },
     {
-      "trip_id": "8_17613984",
+      "trip_id": "8_17717997",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "8",
@@ -125344,7 +125344,7 @@
       ]
     },
     {
-      "trip_id": "8_17613985",
+      "trip_id": "8_17717998",
       "direction_id": "0",
       "headsign": "POŚWIĘCKA (Ośrodek Zdrowia)",
       "service_id": "8",
@@ -125712,7 +125712,7 @@
       ]
     },
     {
-      "trip_id": "8_17613986",
+      "trip_id": "8_17717999",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "8",
@@ -126071,7 +126071,7 @@
       ]
     },
     {
-      "trip_id": "8_17613987",
+      "trip_id": "8_17718000",
       "direction_id": "0",
       "headsign": "POŚWIĘCKA (Ośrodek Zdrowia)",
       "service_id": "8",
@@ -126439,7 +126439,7 @@
       ]
     },
     {
-      "trip_id": "8_17613988",
+      "trip_id": "8_17718001",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "8",
@@ -126798,7 +126798,7 @@
       ]
     },
     {
-      "trip_id": "8_17613989",
+      "trip_id": "8_17718002",
       "direction_id": "0",
       "headsign": "POŚWIĘCKA (Ośrodek Zdrowia)",
       "service_id": "8",
@@ -127166,7 +127166,7 @@
       ]
     },
     {
-      "trip_id": "8_17613990",
+      "trip_id": "8_17718003",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "8",
@@ -127525,7 +127525,7 @@
       ]
     },
     {
-      "trip_id": "8_17613991",
+      "trip_id": "8_17718004",
       "direction_id": "0",
       "headsign": "POŚWIĘCKA (Ośrodek Zdrowia)",
       "service_id": "8",
@@ -127893,7 +127893,7 @@
       ]
     },
     {
-      "trip_id": "8_17613992",
+      "trip_id": "8_17718005",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "8",
@@ -128252,7 +128252,7 @@
       ]
     },
     {
-      "trip_id": "8_17613993",
+      "trip_id": "8_17718006",
       "direction_id": "0",
       "headsign": "POŚWIĘCKA (Ośrodek Zdrowia)",
       "service_id": "8",
@@ -128620,7 +128620,7 @@
       ]
     },
     {
-      "trip_id": "8_17613994",
+      "trip_id": "8_17718007",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "8",
@@ -128979,7 +128979,7 @@
       ]
     },
     {
-      "trip_id": "8_17613995",
+      "trip_id": "8_17718008",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "8",
@@ -129329,7 +129329,7 @@
       ]
     },
     {
-      "trip_id": "8_17613996",
+      "trip_id": "8_17718009",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "8",
@@ -129670,7 +129670,7 @@
       ]
     },
     {
-      "trip_id": "8_17613997",
+      "trip_id": "8_17718010",
       "direction_id": "0",
       "headsign": "POŚWIĘCKA (Ośrodek Zdrowia)",
       "service_id": "8",
@@ -130038,7 +130038,7 @@
       ]
     },
     {
-      "trip_id": "8_17613998",
+      "trip_id": "8_17718011",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "8",
@@ -130397,7 +130397,7 @@
       ]
     },
     {
-      "trip_id": "8_17613999",
+      "trip_id": "8_17718012",
       "direction_id": "0",
       "headsign": "POŚWIĘCKA (Ośrodek Zdrowia)",
       "service_id": "8",
@@ -130765,7 +130765,7 @@
       ]
     },
     {
-      "trip_id": "8_17614000",
+      "trip_id": "8_17718013",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "8",
@@ -131124,7 +131124,7 @@
       ]
     },
     {
-      "trip_id": "8_17614001",
+      "trip_id": "8_17718014",
       "direction_id": "0",
       "headsign": "POŚWIĘCKA (Ośrodek Zdrowia)",
       "service_id": "8",
@@ -131492,7 +131492,7 @@
       ]
     },
     {
-      "trip_id": "8_17614002",
+      "trip_id": "8_17718015",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "8",
@@ -131851,7 +131851,7 @@
       ]
     },
     {
-      "trip_id": "8_17614003",
+      "trip_id": "8_17718016",
       "direction_id": "0",
       "headsign": "POŚWIĘCKA (Ośrodek Zdrowia)",
       "service_id": "8",
@@ -132219,7 +132219,7 @@
       ]
     },
     {
-      "trip_id": "8_17614004",
+      "trip_id": "8_17718017",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "8",
@@ -132578,7 +132578,7 @@
       ]
     },
     {
-      "trip_id": "8_17614005",
+      "trip_id": "8_17718018",
       "direction_id": "0",
       "headsign": "POŚWIĘCKA (Ośrodek Zdrowia)",
       "service_id": "8",
@@ -132946,7 +132946,7 @@
       ]
     },
     {
-      "trip_id": "8_17614006",
+      "trip_id": "8_17718019",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "8",
@@ -133305,7 +133305,7 @@
       ]
     },
     {
-      "trip_id": "8_17614007",
+      "trip_id": "8_17718020",
       "direction_id": "0",
       "headsign": "POŚWIĘCKA (Ośrodek Zdrowia)",
       "service_id": "8",
@@ -133673,7 +133673,7 @@
       ]
     },
     {
-      "trip_id": "8_17614008",
+      "trip_id": "8_17718021",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "8",
@@ -134032,7 +134032,7 @@
       ]
     },
     {
-      "trip_id": "8_17614009",
+      "trip_id": "8_17718022",
       "direction_id": "0",
       "headsign": "POŚWIĘCKA (Ośrodek Zdrowia)",
       "service_id": "8",
@@ -134400,7 +134400,7 @@
       ]
     },
     {
-      "trip_id": "8_17614010",
+      "trip_id": "8_17718023",
       "direction_id": "1",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "8",
@@ -134516,7 +134516,7 @@
       ]
     },
     {
-      "trip_id": "8_17614011",
+      "trip_id": "8_17718024",
       "direction_id": "0",
       "headsign": "POŚWIĘCKA (Ośrodek Zdrowia)",
       "service_id": "8",
@@ -134641,7 +134641,7 @@
       ]
     },
     {
-      "trip_id": "8_17614012",
+      "trip_id": "8_17718025",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "8",
@@ -135000,7 +135000,7 @@
       ]
     },
     {
-      "trip_id": "8_17614013",
+      "trip_id": "8_17718026",
       "direction_id": "0",
       "headsign": "POŚWIĘCKA (Ośrodek Zdrowia)",
       "service_id": "8",
@@ -135368,7 +135368,7 @@
       ]
     },
     {
-      "trip_id": "8_17614014",
+      "trip_id": "8_17718027",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "8",
@@ -135727,7 +135727,7 @@
       ]
     },
     {
-      "trip_id": "8_17614015",
+      "trip_id": "8_17718028",
       "direction_id": "0",
       "headsign": "POŚWIĘCKA (Ośrodek Zdrowia)",
       "service_id": "8",
@@ -136095,7 +136095,7 @@
       ]
     },
     {
-      "trip_id": "8_17614016",
+      "trip_id": "8_17718029",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "8",
@@ -136454,7 +136454,7 @@
       ]
     },
     {
-      "trip_id": "8_17614017",
+      "trip_id": "8_17718030",
       "direction_id": "0",
       "headsign": "POŚWIĘCKA (Ośrodek Zdrowia)",
       "service_id": "8",
@@ -136822,7 +136822,7 @@
       ]
     },
     {
-      "trip_id": "8_17614018",
+      "trip_id": "8_17718031",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "8",
@@ -137181,7 +137181,7 @@
       ]
     },
     {
-      "trip_id": "8_17614019",
+      "trip_id": "8_17718032",
       "direction_id": "0",
       "headsign": "POŚWIĘCKA (Ośrodek Zdrowia)",
       "service_id": "8",
@@ -137549,7 +137549,7 @@
       ]
     },
     {
-      "trip_id": "8_17614020",
+      "trip_id": "8_17718033",
       "direction_id": "1",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "8",
@@ -137665,7 +137665,7 @@
       ]
     },
     {
-      "trip_id": "8_17614021",
+      "trip_id": "8_17718034",
       "direction_id": "0",
       "headsign": "POŚWIĘCKA (Ośrodek Zdrowia)",
       "service_id": "8",
@@ -137790,7 +137790,7 @@
       ]
     },
     {
-      "trip_id": "8_17614022",
+      "trip_id": "8_17718035",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "8",
@@ -138149,7 +138149,7 @@
       ]
     },
     {
-      "trip_id": "8_17614023",
+      "trip_id": "8_17718036",
       "direction_id": "0",
       "headsign": "POŚWIĘCKA (Ośrodek Zdrowia)",
       "service_id": "8",
@@ -138517,7 +138517,7 @@
       ]
     },
     {
-      "trip_id": "8_17614024",
+      "trip_id": "8_17718037",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "8",
@@ -138876,7 +138876,7 @@
       ]
     },
     {
-      "trip_id": "8_17614025",
+      "trip_id": "8_17718038",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "8",
@@ -139226,7 +139226,7 @@
       ]
     },
     {
-      "trip_id": "8_17614026",
+      "trip_id": "8_17718039",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "8",
@@ -139567,7 +139567,7 @@
       ]
     },
     {
-      "trip_id": "8_17614027",
+      "trip_id": "8_17718040",
       "direction_id": "0",
       "headsign": "POŚWIĘCKA (Ośrodek Zdrowia)",
       "service_id": "8",
@@ -139935,7 +139935,7 @@
       ]
     },
     {
-      "trip_id": "8_17614028",
+      "trip_id": "8_17718041",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "8",
@@ -140294,7 +140294,7 @@
       ]
     },
     {
-      "trip_id": "8_17614029",
+      "trip_id": "8_17718042",
       "direction_id": "0",
       "headsign": "POŚWIĘCKA (Ośrodek Zdrowia)",
       "service_id": "8",
@@ -140662,7 +140662,7 @@
       ]
     },
     {
-      "trip_id": "8_17614030",
+      "trip_id": "8_17718043",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "8",
@@ -141021,7 +141021,7 @@
       ]
     },
     {
-      "trip_id": "8_17614031",
+      "trip_id": "8_17718044",
       "direction_id": "0",
       "headsign": "POŚWIĘCKA (Ośrodek Zdrowia)",
       "service_id": "8",
@@ -141389,7 +141389,7 @@
       ]
     },
     {
-      "trip_id": "8_17614032",
+      "trip_id": "8_17718045",
       "direction_id": "1",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "8",
@@ -141505,7 +141505,7 @@
       ]
     },
     {
-      "trip_id": "8_17614033",
+      "trip_id": "8_17718046",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "8",
@@ -141846,7 +141846,7 @@
       ]
     },
     {
-      "trip_id": "8_17614034",
+      "trip_id": "8_17718047",
       "direction_id": "0",
       "headsign": "POŚWIĘCKA (Ośrodek Zdrowia)",
       "service_id": "8",
@@ -142214,7 +142214,7 @@
       ]
     },
     {
-      "trip_id": "8_17614035",
+      "trip_id": "8_17718048",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "8",
@@ -142573,7 +142573,7 @@
       ]
     },
     {
-      "trip_id": "8_17614036",
+      "trip_id": "8_17718049",
       "direction_id": "0",
       "headsign": "POŚWIĘCKA (Ośrodek Zdrowia)",
       "service_id": "8",
@@ -142941,7 +142941,7 @@
       ]
     },
     {
-      "trip_id": "8_17614037",
+      "trip_id": "8_17718050",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "8",
@@ -143300,7 +143300,7 @@
       ]
     },
     {
-      "trip_id": "8_17614038",
+      "trip_id": "8_17718051",
       "direction_id": "0",
       "headsign": "POŚWIĘCKA (Ośrodek Zdrowia)",
       "service_id": "8",
@@ -143668,7 +143668,7 @@
       ]
     },
     {
-      "trip_id": "8_17614039",
+      "trip_id": "8_17718052",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "8",
@@ -144027,7 +144027,7 @@
       ]
     },
     {
-      "trip_id": "8_17614040",
+      "trip_id": "8_17718053",
       "direction_id": "0",
       "headsign": "POŚWIĘCKA (Ośrodek Zdrowia)",
       "service_id": "8",
@@ -144395,7 +144395,7 @@
       ]
     },
     {
-      "trip_id": "8_17614041",
+      "trip_id": "8_17718054",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "8",
@@ -144754,7 +144754,7 @@
       ]
     },
     {
-      "trip_id": "8_17614042",
+      "trip_id": "8_17718055",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "8",
@@ -145104,7 +145104,7 @@
       ]
     },
     {
-      "trip_id": "8_17614043",
+      "trip_id": "8_17718056",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "8",
@@ -145445,7 +145445,7 @@
       ]
     },
     {
-      "trip_id": "8_17614044",
+      "trip_id": "8_17718057",
       "direction_id": "0",
       "headsign": "POŚWIĘCKA (Ośrodek Zdrowia)",
       "service_id": "8",
@@ -145813,7 +145813,7 @@
       ]
     },
     {
-      "trip_id": "8_17614045",
+      "trip_id": "8_17718058",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "8",
@@ -146172,7 +146172,7 @@
       ]
     },
     {
-      "trip_id": "8_17614046",
+      "trip_id": "8_17718059",
       "direction_id": "0",
       "headsign": "POŚWIĘCKA (Ośrodek Zdrowia)",
       "service_id": "8",
@@ -146540,7 +146540,7 @@
       ]
     },
     {
-      "trip_id": "8_17614047",
+      "trip_id": "8_17718060",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "8",
@@ -146899,7 +146899,7 @@
       ]
     },
     {
-      "trip_id": "8_17614048",
+      "trip_id": "8_17718061",
       "direction_id": "0",
       "headsign": "POŚWIĘCKA (Ośrodek Zdrowia)",
       "service_id": "8",
@@ -147267,7 +147267,7 @@
       ]
     },
     {
-      "trip_id": "8_17614049",
+      "trip_id": "8_17718062",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "8",
@@ -147626,7 +147626,7 @@
       ]
     },
     {
-      "trip_id": "8_17614050",
+      "trip_id": "8_17718063",
       "direction_id": "0",
       "headsign": "POŚWIĘCKA (Ośrodek Zdrowia)",
       "service_id": "8",
@@ -147994,7 +147994,7 @@
       ]
     },
     {
-      "trip_id": "8_17614051",
+      "trip_id": "8_17718064",
       "direction_id": "1",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "8",
@@ -148110,7 +148110,7 @@
       ]
     },
     {
-      "trip_id": "8_17614052",
+      "trip_id": "8_17718065",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "8",
@@ -148451,7 +148451,7 @@
       ]
     },
     {
-      "trip_id": "8_17614053",
+      "trip_id": "8_17718066",
       "direction_id": "0",
       "headsign": "POŚWIĘCKA (Ośrodek Zdrowia)",
       "service_id": "8",
@@ -148819,7 +148819,7 @@
       ]
     },
     {
-      "trip_id": "8_17614054",
+      "trip_id": "8_17718067",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "8",
@@ -149178,7 +149178,7 @@
       ]
     },
     {
-      "trip_id": "8_17614055",
+      "trip_id": "8_17718068",
       "direction_id": "0",
       "headsign": "POŚWIĘCKA (Ośrodek Zdrowia)",
       "service_id": "8",
@@ -149546,7 +149546,7 @@
       ]
     },
     {
-      "trip_id": "8_17614056",
+      "trip_id": "8_17718069",
       "direction_id": "1",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "8",

@@ -2,7 +2,7 @@
   "line": "147",
   "trips": [
     {
-      "trip_id": "3_17598385",
+      "trip_id": "3_17702398",
       "direction_id": "1",
       "headsign": "ROD Pod Dębem",
       "service_id": "3",
@@ -253,7 +253,7 @@
       ]
     },
     {
-      "trip_id": "3_17598386",
+      "trip_id": "3_17702399",
       "direction_id": "0",
       "headsign": "MULICKA",
       "service_id": "3",
@@ -324,7 +324,7 @@
       ]
     },
     {
-      "trip_id": "3_17598387",
+      "trip_id": "3_17702400",
       "direction_id": "1",
       "headsign": "ROD Pod Dębem",
       "service_id": "3",
@@ -386,7 +386,7 @@
       ]
     },
     {
-      "trip_id": "3_17598388",
+      "trip_id": "3_17702401",
       "direction_id": "0",
       "headsign": "MULICKA",
       "service_id": "3",
@@ -457,7 +457,7 @@
       ]
     },
     {
-      "trip_id": "3_17598389",
+      "trip_id": "3_17702402",
       "direction_id": "1",
       "headsign": "ROD Pod Dębem",
       "service_id": "3",
@@ -519,7 +519,7 @@
       ]
     },
     {
-      "trip_id": "3_17598390",
+      "trip_id": "3_17702403",
       "direction_id": "0",
       "headsign": "MULICKA",
       "service_id": "3",
@@ -590,7 +590,7 @@
       ]
     },
     {
-      "trip_id": "3_17598391",
+      "trip_id": "3_17702404",
       "direction_id": "1",
       "headsign": "ROD Pod Dębem",
       "service_id": "3",
@@ -652,7 +652,7 @@
       ]
     },
     {
-      "trip_id": "3_17598392",
+      "trip_id": "3_17702405",
       "direction_id": "0",
       "headsign": "MULICKA",
       "service_id": "3",
@@ -723,7 +723,7 @@
       ]
     },
     {
-      "trip_id": "3_17598393",
+      "trip_id": "3_17702406",
       "direction_id": "1",
       "headsign": "ROD Pod Dębem",
       "service_id": "3",
@@ -785,7 +785,7 @@
       ]
     },
     {
-      "trip_id": "3_17598394",
+      "trip_id": "3_17702407",
       "direction_id": "0",
       "headsign": "MULICKA",
       "service_id": "3",
@@ -856,7 +856,7 @@
       ]
     },
     {
-      "trip_id": "3_17598395",
+      "trip_id": "3_17702408",
       "direction_id": "1",
       "headsign": "ROD Pod Dębem",
       "service_id": "3",
@@ -918,7 +918,7 @@
       ]
     },
     {
-      "trip_id": "3_17598396",
+      "trip_id": "3_17702409",
       "direction_id": "0",
       "headsign": "MULICKA",
       "service_id": "3",
@@ -989,7 +989,7 @@
       ]
     },
     {
-      "trip_id": "3_17598397",
+      "trip_id": "3_17702410",
       "direction_id": "1",
       "headsign": "ROD Pod Dębem",
       "service_id": "3",
@@ -1051,7 +1051,7 @@
       ]
     },
     {
-      "trip_id": "3_17598398",
+      "trip_id": "3_17702411",
       "direction_id": "0",
       "headsign": "MULICKA",
       "service_id": "3",
@@ -1122,7 +1122,7 @@
       ]
     },
     {
-      "trip_id": "3_17598399",
+      "trip_id": "3_17702412",
       "direction_id": "1",
       "headsign": "ROD Pod Dębem",
       "service_id": "3",
@@ -1184,7 +1184,7 @@
       ]
     },
     {
-      "trip_id": "3_17598400",
+      "trip_id": "3_17702413",
       "direction_id": "0",
       "headsign": "MULICKA",
       "service_id": "3",
@@ -1255,7 +1255,7 @@
       ]
     },
     {
-      "trip_id": "3_17598401",
+      "trip_id": "3_17702414",
       "direction_id": "1",
       "headsign": "ROD Pod Dębem",
       "service_id": "3",
@@ -1317,7 +1317,7 @@
       ]
     },
     {
-      "trip_id": "3_17598402",
+      "trip_id": "3_17702415",
       "direction_id": "0",
       "headsign": "LITEWSKA",
       "service_id": "3",
@@ -1415,7 +1415,7 @@
       ]
     },
     {
-      "trip_id": "3_17598403",
+      "trip_id": "3_17702416",
       "direction_id": "1",
       "headsign": "ROD Pod Dębem",
       "service_id": "3",
@@ -1504,7 +1504,7 @@
       ]
     },
     {
-      "trip_id": "3_17598404",
+      "trip_id": "3_17702417",
       "direction_id": "0",
       "headsign": "LITEWSKA",
       "service_id": "3",
@@ -1602,7 +1602,7 @@
       ]
     },
     {
-      "trip_id": "3_17598405",
+      "trip_id": "3_17702418",
       "direction_id": "1",
       "headsign": "ROD Pod Dębem",
       "service_id": "3",
@@ -1691,7 +1691,7 @@
       ]
     },
     {
-      "trip_id": "3_17598406",
+      "trip_id": "3_17702419",
       "direction_id": "0",
       "headsign": "LITEWSKA",
       "service_id": "3",
@@ -1789,7 +1789,7 @@
       ]
     },
     {
-      "trip_id": "3_17598407",
+      "trip_id": "3_17702420",
       "direction_id": "1",
       "headsign": "ROD Pod Dębem",
       "service_id": "3",
@@ -1878,7 +1878,7 @@
       ]
     },
     {
-      "trip_id": "3_17598408",
+      "trip_id": "3_17702421",
       "direction_id": "0",
       "headsign": "LITEWSKA",
       "service_id": "3",
@@ -1976,7 +1976,7 @@
       ]
     },
     {
-      "trip_id": "3_17598409",
+      "trip_id": "3_17702422",
       "direction_id": "1",
       "headsign": "ROD Pod Dębem",
       "service_id": "3",
@@ -2065,7 +2065,7 @@
       ]
     },
     {
-      "trip_id": "3_17598410",
+      "trip_id": "3_17702423",
       "direction_id": "0",
       "headsign": "LITEWSKA",
       "service_id": "3",
@@ -2163,7 +2163,7 @@
       ]
     },
     {
-      "trip_id": "3_17598411",
+      "trip_id": "3_17702424",
       "direction_id": "1",
       "headsign": "ROD Pod Dębem",
       "service_id": "3",
@@ -2252,7 +2252,7 @@
       ]
     },
     {
-      "trip_id": "3_17598412",
+      "trip_id": "3_17702425",
       "direction_id": "0",
       "headsign": "LITEWSKA",
       "service_id": "3",
@@ -2350,7 +2350,7 @@
       ]
     },
     {
-      "trip_id": "3_17598413",
+      "trip_id": "3_17702426",
       "direction_id": "1",
       "headsign": "ROD Pod Dębem",
       "service_id": "3",
@@ -2439,7 +2439,7 @@
       ]
     },
     {
-      "trip_id": "3_17598414",
+      "trip_id": "3_17702427",
       "direction_id": "0",
       "headsign": "LITEWSKA",
       "service_id": "3",
@@ -2537,7 +2537,7 @@
       ]
     },
     {
-      "trip_id": "3_17598415",
+      "trip_id": "3_17702428",
       "direction_id": "1",
       "headsign": "ROD Pod Dębem",
       "service_id": "3",
@@ -2626,7 +2626,7 @@
       ]
     },
     {
-      "trip_id": "3_17598416",
+      "trip_id": "3_17702429",
       "direction_id": "0",
       "headsign": "LITEWSKA",
       "service_id": "3",
@@ -2724,7 +2724,7 @@
       ]
     },
     {
-      "trip_id": "3_17598417",
+      "trip_id": "3_17702430",
       "direction_id": "1",
       "headsign": "ROD Pod Dębem",
       "service_id": "3",
@@ -2813,7 +2813,7 @@
       ]
     },
     {
-      "trip_id": "3_17598418",
+      "trip_id": "3_17702431",
       "direction_id": "0",
       "headsign": "LITEWSKA",
       "service_id": "3",
@@ -2911,7 +2911,7 @@
       ]
     },
     {
-      "trip_id": "3_17598419",
+      "trip_id": "3_17702432",
       "direction_id": "1",
       "headsign": "ROD Pod Dębem",
       "service_id": "3",
@@ -3000,7 +3000,7 @@
       ]
     },
     {
-      "trip_id": "3_17598420",
+      "trip_id": "3_17702433",
       "direction_id": "0",
       "headsign": "LITEWSKA",
       "service_id": "3",
@@ -3098,7 +3098,7 @@
       ]
     },
     {
-      "trip_id": "3_17598421",
+      "trip_id": "3_17702434",
       "direction_id": "1",
       "headsign": "ROD Pod Dębem",
       "service_id": "3",
@@ -3187,7 +3187,7 @@
       ]
     },
     {
-      "trip_id": "3_17598422",
+      "trip_id": "3_17702435",
       "direction_id": "0",
       "headsign": "LITEWSKA",
       "service_id": "3",
@@ -3285,7 +3285,7 @@
       ]
     },
     {
-      "trip_id": "3_17598423",
+      "trip_id": "3_17702436",
       "direction_id": "1",
       "headsign": "ROD Pod Dębem",
       "service_id": "3",
@@ -3374,7 +3374,7 @@
       ]
     },
     {
-      "trip_id": "3_17598424",
+      "trip_id": "3_17702437",
       "direction_id": "0",
       "headsign": "LITEWSKA",
       "service_id": "3",
@@ -3472,7 +3472,7 @@
       ]
     },
     {
-      "trip_id": "3_17598425",
+      "trip_id": "3_17702438",
       "direction_id": "1",
       "headsign": "ROD Pod Dębem",
       "service_id": "3",
@@ -3561,7 +3561,7 @@
       ]
     },
     {
-      "trip_id": "3_17598426",
+      "trip_id": "3_17702439",
       "direction_id": "0",
       "headsign": "Zajezdnia TYSKA",
       "service_id": "3",
@@ -3848,7 +3848,7 @@
       ]
     },
     {
-      "trip_id": "3_17598427",
+      "trip_id": "3_17702440",
       "direction_id": "0",
       "headsign": "LITEWSKA",
       "service_id": "3",
@@ -4099,7 +4099,7 @@
       ]
     },
     {
-      "trip_id": "3_17598428",
+      "trip_id": "3_17702441",
       "direction_id": "1",
       "headsign": "ROD Pod Dębem",
       "service_id": "3",
@@ -4188,7 +4188,7 @@
       ]
     },
     {
-      "trip_id": "3_17598429",
+      "trip_id": "3_17702442",
       "direction_id": "0",
       "headsign": "LITEWSKA",
       "service_id": "3",
@@ -4286,7 +4286,7 @@
       ]
     },
     {
-      "trip_id": "3_17598430",
+      "trip_id": "3_17702443",
       "direction_id": "1",
       "headsign": "ROD Pod Dębem",
       "service_id": "3",
@@ -4375,7 +4375,7 @@
       ]
     },
     {
-      "trip_id": "3_17598431",
+      "trip_id": "3_17702444",
       "direction_id": "0",
       "headsign": "LITEWSKA",
       "service_id": "3",
@@ -4473,7 +4473,7 @@
       ]
     },
     {
-      "trip_id": "3_17598432",
+      "trip_id": "3_17702445",
       "direction_id": "1",
       "headsign": "ROD Pod Dębem",
       "service_id": "3",
@@ -4562,7 +4562,7 @@
       ]
     },
     {
-      "trip_id": "3_17598433",
+      "trip_id": "3_17702446",
       "direction_id": "0",
       "headsign": "LITEWSKA",
       "service_id": "3",
@@ -4660,7 +4660,7 @@
       ]
     },
     {
-      "trip_id": "3_17598434",
+      "trip_id": "3_17702447",
       "direction_id": "1",
       "headsign": "ROD Pod Dębem",
       "service_id": "3",
@@ -4749,7 +4749,7 @@
       ]
     },
     {
-      "trip_id": "3_17598435",
+      "trip_id": "3_17702448",
       "direction_id": "0",
       "headsign": "LITEWSKA",
       "service_id": "3",
@@ -4847,7 +4847,7 @@
       ]
     },
     {
-      "trip_id": "3_17598436",
+      "trip_id": "3_17702449",
       "direction_id": "1",
       "headsign": "ROD Pod Dębem",
       "service_id": "3",
@@ -4936,7 +4936,7 @@
       ]
     },
     {
-      "trip_id": "3_17598437",
+      "trip_id": "3_17702450",
       "direction_id": "0",
       "headsign": "LITEWSKA",
       "service_id": "3",
@@ -5034,7 +5034,7 @@
       ]
     },
     {
-      "trip_id": "3_17598438",
+      "trip_id": "3_17702451",
       "direction_id": "1",
       "headsign": "ROD Pod Dębem",
       "service_id": "3",
@@ -5123,7 +5123,7 @@
       ]
     },
     {
-      "trip_id": "3_17598439",
+      "trip_id": "3_17702452",
       "direction_id": "0",
       "headsign": "LITEWSKA",
       "service_id": "3",
@@ -5221,7 +5221,7 @@
       ]
     },
     {
-      "trip_id": "3_17598440",
+      "trip_id": "3_17702453",
       "direction_id": "1",
       "headsign": "ROD Pod Dębem",
       "service_id": "3",
@@ -5310,7 +5310,7 @@
       ]
     },
     {
-      "trip_id": "3_17598441",
+      "trip_id": "3_17702454",
       "direction_id": "0",
       "headsign": "LITEWSKA",
       "service_id": "3",
@@ -5408,7 +5408,7 @@
       ]
     },
     {
-      "trip_id": "3_17598442",
+      "trip_id": "3_17702455",
       "direction_id": "1",
       "headsign": "ROD Pod Dębem",
       "service_id": "3",
@@ -5497,7 +5497,7 @@
       ]
     },
     {
-      "trip_id": "3_17598443",
+      "trip_id": "3_17702456",
       "direction_id": "0",
       "headsign": "LITEWSKA",
       "service_id": "3",
@@ -5595,7 +5595,7 @@
       ]
     },
     {
-      "trip_id": "3_17598444",
+      "trip_id": "3_17702457",
       "direction_id": "1",
       "headsign": "ROD Pod Dębem",
       "service_id": "3",
@@ -5684,7 +5684,7 @@
       ]
     },
     {
-      "trip_id": "3_17598445",
+      "trip_id": "3_17702458",
       "direction_id": "0",
       "headsign": "LITEWSKA",
       "service_id": "3",
@@ -5782,7 +5782,7 @@
       ]
     },
     {
-      "trip_id": "3_17598446",
+      "trip_id": "3_17702459",
       "direction_id": "1",
       "headsign": "ROD Pod Dębem",
       "service_id": "3",
@@ -5871,7 +5871,7 @@
       ]
     },
     {
-      "trip_id": "3_17598447",
+      "trip_id": "3_17702460",
       "direction_id": "0",
       "headsign": "LITEWSKA",
       "service_id": "3",
@@ -5969,7 +5969,7 @@
       ]
     },
     {
-      "trip_id": "3_17598448",
+      "trip_id": "3_17702461",
       "direction_id": "1",
       "headsign": "ROD Pod Dębem",
       "service_id": "3",
@@ -6058,7 +6058,7 @@
       ]
     },
     {
-      "trip_id": "3_17598449",
+      "trip_id": "3_17702462",
       "direction_id": "0",
       "headsign": "LITEWSKA",
       "service_id": "3",
@@ -6156,7 +6156,7 @@
       ]
     },
     {
-      "trip_id": "3_17598450",
+      "trip_id": "3_17702463",
       "direction_id": "1",
       "headsign": "ROD Pod Dębem",
       "service_id": "3",
@@ -6245,7 +6245,7 @@
       ]
     },
     {
-      "trip_id": "3_17598451",
+      "trip_id": "3_17702464",
       "direction_id": "0",
       "headsign": "LITEWSKA",
       "service_id": "3",
@@ -6343,7 +6343,7 @@
       ]
     },
     {
-      "trip_id": "3_17598452",
+      "trip_id": "3_17702465",
       "direction_id": "1",
       "headsign": "ROD Pod Dębem",
       "service_id": "3",
@@ -6432,7 +6432,7 @@
       ]
     },
     {
-      "trip_id": "3_17598453",
+      "trip_id": "3_17702466",
       "direction_id": "0",
       "headsign": "MULICKA",
       "service_id": "3",
@@ -6503,7 +6503,7 @@
       ]
     },
     {
-      "trip_id": "3_17598454",
+      "trip_id": "3_17702467",
       "direction_id": "1",
       "headsign": "ROD Pod Dębem",
       "service_id": "3",
@@ -6565,7 +6565,7 @@
       ]
     },
     {
-      "trip_id": "3_17598455",
+      "trip_id": "3_17702468",
       "direction_id": "0",
       "headsign": "MULICKA",
       "service_id": "3",
@@ -6636,7 +6636,7 @@
       ]
     },
     {
-      "trip_id": "3_17598456",
+      "trip_id": "3_17702469",
       "direction_id": "1",
       "headsign": "ROD Pod Dębem",
       "service_id": "3",
@@ -6698,7 +6698,7 @@
       ]
     },
     {
-      "trip_id": "3_17598457",
+      "trip_id": "3_17702470",
       "direction_id": "0",
       "headsign": "MULICKA",
       "service_id": "3",
@@ -6769,7 +6769,7 @@
       ]
     },
     {
-      "trip_id": "3_17598458",
+      "trip_id": "3_17702471",
       "direction_id": "1",
       "headsign": "ROD Pod Dębem",
       "service_id": "3",
@@ -6831,7 +6831,7 @@
       ]
     },
     {
-      "trip_id": "3_17598459",
+      "trip_id": "3_17702472",
       "direction_id": "0",
       "headsign": "MULICKA",
       "service_id": "3",
@@ -6902,7 +6902,7 @@
       ]
     },
     {
-      "trip_id": "3_17598460",
+      "trip_id": "3_17702473",
       "direction_id": "1",
       "headsign": "ROD Pod Dębem",
       "service_id": "3",
@@ -6964,7 +6964,7 @@
       ]
     },
     {
-      "trip_id": "3_17598461",
+      "trip_id": "3_17702474",
       "direction_id": "0",
       "headsign": "MULICKA",
       "service_id": "3",
@@ -7035,7 +7035,7 @@
       ]
     },
     {
-      "trip_id": "3_17598462",
+      "trip_id": "3_17702475",
       "direction_id": "1",
       "headsign": "ROD Pod Dębem",
       "service_id": "3",
@@ -7097,7 +7097,7 @@
       ]
     },
     {
-      "trip_id": "3_17598463",
+      "trip_id": "3_17702476",
       "direction_id": "0",
       "headsign": "Zajezdnia TYSKA",
       "service_id": "3",
@@ -7384,7 +7384,7 @@
       ]
     },
     {
-      "trip_id": "4_17602819",
+      "trip_id": "4_17706832",
       "direction_id": "1",
       "headsign": "ROD Pod Dębem",
       "service_id": "4",
@@ -7635,7 +7635,7 @@
       ]
     },
     {
-      "trip_id": "4_17602820",
+      "trip_id": "4_17706833",
       "direction_id": "0",
       "headsign": "MULICKA",
       "service_id": "4",
@@ -7706,7 +7706,7 @@
       ]
     },
     {
-      "trip_id": "4_17602821",
+      "trip_id": "4_17706834",
       "direction_id": "1",
       "headsign": "ROD Pod Dębem",
       "service_id": "4",
@@ -7768,7 +7768,7 @@
       ]
     },
     {
-      "trip_id": "4_17602822",
+      "trip_id": "4_17706835",
       "direction_id": "0",
       "headsign": "MULICKA",
       "service_id": "4",
@@ -7839,7 +7839,7 @@
       ]
     },
     {
-      "trip_id": "4_17602823",
+      "trip_id": "4_17706836",
       "direction_id": "1",
       "headsign": "ROD Pod Dębem",
       "service_id": "4",
@@ -7901,7 +7901,7 @@
       ]
     },
     {
-      "trip_id": "4_17602824",
+      "trip_id": "4_17706837",
       "direction_id": "0",
       "headsign": "MULICKA",
       "service_id": "4",
@@ -7972,7 +7972,7 @@
       ]
     },
     {
-      "trip_id": "4_17602825",
+      "trip_id": "4_17706838",
       "direction_id": "1",
       "headsign": "ROD Pod Dębem",
       "service_id": "4",
@@ -8034,7 +8034,7 @@
       ]
     },
     {
-      "trip_id": "4_17602826",
+      "trip_id": "4_17706839",
       "direction_id": "0",
       "headsign": "MULICKA",
       "service_id": "4",
@@ -8105,7 +8105,7 @@
       ]
     },
     {
-      "trip_id": "4_17602827",
+      "trip_id": "4_17706840",
       "direction_id": "1",
       "headsign": "ROD Pod Dębem",
       "service_id": "4",
@@ -8167,7 +8167,7 @@
       ]
     },
     {
-      "trip_id": "4_17602828",
+      "trip_id": "4_17706841",
       "direction_id": "0",
       "headsign": "MULICKA",
       "service_id": "4",
@@ -8238,7 +8238,7 @@
       ]
     },
     {
-      "trip_id": "4_17602829",
+      "trip_id": "4_17706842",
       "direction_id": "1",
       "headsign": "ROD Pod Dębem",
       "service_id": "4",
@@ -8300,7 +8300,7 @@
       ]
     },
     {
-      "trip_id": "4_17602830",
+      "trip_id": "4_17706843",
       "direction_id": "0",
       "headsign": "MULICKA",
       "service_id": "4",
@@ -8371,7 +8371,7 @@
       ]
     },
     {
-      "trip_id": "4_17602831",
+      "trip_id": "4_17706844",
       "direction_id": "1",
       "headsign": "ROD Pod Dębem",
       "service_id": "4",
@@ -8433,7 +8433,7 @@
       ]
     },
     {
-      "trip_id": "4_17602832",
+      "trip_id": "4_17706845",
       "direction_id": "0",
       "headsign": "MULICKA",
       "service_id": "4",
@@ -8504,7 +8504,7 @@
       ]
     },
     {
-      "trip_id": "4_17602833",
+      "trip_id": "4_17706846",
       "direction_id": "1",
       "headsign": "ROD Pod Dębem",
       "service_id": "4",
@@ -8566,7 +8566,7 @@
       ]
     },
     {
-      "trip_id": "4_17602834",
+      "trip_id": "4_17706847",
       "direction_id": "0",
       "headsign": "MULICKA",
       "service_id": "4",
@@ -8637,7 +8637,7 @@
       ]
     },
     {
-      "trip_id": "4_17602835",
+      "trip_id": "4_17706848",
       "direction_id": "1",
       "headsign": "ROD Pod Dębem",
       "service_id": "4",
@@ -8699,7 +8699,7 @@
       ]
     },
     {
-      "trip_id": "4_17602836",
+      "trip_id": "4_17706849",
       "direction_id": "0",
       "headsign": "LITEWSKA",
       "service_id": "4",
@@ -8797,7 +8797,7 @@
       ]
     },
     {
-      "trip_id": "4_17602837",
+      "trip_id": "4_17706850",
       "direction_id": "1",
       "headsign": "ROD Pod Dębem",
       "service_id": "4",
@@ -8886,7 +8886,7 @@
       ]
     },
     {
-      "trip_id": "4_17602838",
+      "trip_id": "4_17706851",
       "direction_id": "0",
       "headsign": "LITEWSKA",
       "service_id": "4",
@@ -8984,7 +8984,7 @@
       ]
     },
     {
-      "trip_id": "4_17602839",
+      "trip_id": "4_17706852",
       "direction_id": "1",
       "headsign": "ROD Pod Dębem",
       "service_id": "4",
@@ -9073,7 +9073,7 @@
       ]
     },
     {
-      "trip_id": "4_17602840",
+      "trip_id": "4_17706853",
       "direction_id": "0",
       "headsign": "LITEWSKA",
       "service_id": "4",
@@ -9171,7 +9171,7 @@
       ]
     },
     {
-      "trip_id": "4_17602841",
+      "trip_id": "4_17706854",
       "direction_id": "1",
       "headsign": "ROD Pod Dębem",
       "service_id": "4",
@@ -9260,7 +9260,7 @@
       ]
     },
     {
-      "trip_id": "4_17602842",
+      "trip_id": "4_17706855",
       "direction_id": "0",
       "headsign": "LITEWSKA",
       "service_id": "4",
@@ -9358,7 +9358,7 @@
       ]
     },
     {
-      "trip_id": "4_17602843",
+      "trip_id": "4_17706856",
       "direction_id": "1",
       "headsign": "ROD Pod Dębem",
       "service_id": "4",
@@ -9447,7 +9447,7 @@
       ]
     },
     {
-      "trip_id": "4_17602844",
+      "trip_id": "4_17706857",
       "direction_id": "0",
       "headsign": "LITEWSKA",
       "service_id": "4",
@@ -9545,7 +9545,7 @@
       ]
     },
     {
-      "trip_id": "4_17602845",
+      "trip_id": "4_17706858",
       "direction_id": "1",
       "headsign": "ROD Pod Dębem",
       "service_id": "4",
@@ -9634,7 +9634,7 @@
       ]
     },
     {
-      "trip_id": "4_17602846",
+      "trip_id": "4_17706859",
       "direction_id": "0",
       "headsign": "LITEWSKA",
       "service_id": "4",
@@ -9732,7 +9732,7 @@
       ]
     },
     {
-      "trip_id": "4_17602847",
+      "trip_id": "4_17706860",
       "direction_id": "1",
       "headsign": "ROD Pod Dębem",
       "service_id": "4",
@@ -9821,7 +9821,7 @@
       ]
     },
     {
-      "trip_id": "4_17602848",
+      "trip_id": "4_17706861",
       "direction_id": "0",
       "headsign": "LITEWSKA",
       "service_id": "4",
@@ -9919,7 +9919,7 @@
       ]
     },
     {
-      "trip_id": "4_17602849",
+      "trip_id": "4_17706862",
       "direction_id": "1",
       "headsign": "ROD Pod Dębem",
       "service_id": "4",
@@ -10008,7 +10008,7 @@
       ]
     },
     {
-      "trip_id": "4_17602850",
+      "trip_id": "4_17706863",
       "direction_id": "0",
       "headsign": "LITEWSKA",
       "service_id": "4",
@@ -10106,7 +10106,7 @@
       ]
     },
     {
-      "trip_id": "4_17602851",
+      "trip_id": "4_17706864",
       "direction_id": "1",
       "headsign": "ROD Pod Dębem",
       "service_id": "4",
@@ -10195,7 +10195,7 @@
       ]
     },
     {
-      "trip_id": "4_17602852",
+      "trip_id": "4_17706865",
       "direction_id": "0",
       "headsign": "LITEWSKA",
       "service_id": "4",
@@ -10293,7 +10293,7 @@
       ]
     },
     {
-      "trip_id": "4_17602853",
+      "trip_id": "4_17706866",
       "direction_id": "1",
       "headsign": "ROD Pod Dębem",
       "service_id": "4",
@@ -10382,7 +10382,7 @@
       ]
     },
     {
-      "trip_id": "4_17602854",
+      "trip_id": "4_17706867",
       "direction_id": "0",
       "headsign": "LITEWSKA",
       "service_id": "4",
@@ -10480,7 +10480,7 @@
       ]
     },
     {
-      "trip_id": "4_17602855",
+      "trip_id": "4_17706868",
       "direction_id": "1",
       "headsign": "ROD Pod Dębem",
       "service_id": "4",
@@ -10569,7 +10569,7 @@
       ]
     },
     {
-      "trip_id": "4_17602856",
+      "trip_id": "4_17706869",
       "direction_id": "0",
       "headsign": "LITEWSKA",
       "service_id": "4",
@@ -10667,7 +10667,7 @@
       ]
     },
     {
-      "trip_id": "4_17602857",
+      "trip_id": "4_17706870",
       "direction_id": "1",
       "headsign": "ROD Pod Dębem",
       "service_id": "4",
@@ -10756,7 +10756,7 @@
       ]
     },
     {
-      "trip_id": "4_17602858",
+      "trip_id": "4_17706871",
       "direction_id": "0",
       "headsign": "LITEWSKA",
       "service_id": "4",
@@ -10854,7 +10854,7 @@
       ]
     },
     {
-      "trip_id": "4_17602859",
+      "trip_id": "4_17706872",
       "direction_id": "1",
       "headsign": "ROD Pod Dębem",
       "service_id": "4",
@@ -10943,7 +10943,7 @@
       ]
     },
     {
-      "trip_id": "4_17602860",
+      "trip_id": "4_17706873",
       "direction_id": "0",
       "headsign": "Zajezdnia TYSKA",
       "service_id": "4",
@@ -11230,7 +11230,7 @@
       ]
     },
     {
-      "trip_id": "4_17602861",
+      "trip_id": "4_17706874",
       "direction_id": "0",
       "headsign": "LITEWSKA",
       "service_id": "4",
@@ -11481,7 +11481,7 @@
       ]
     },
     {
-      "trip_id": "4_17602862",
+      "trip_id": "4_17706875",
       "direction_id": "1",
       "headsign": "ROD Pod Dębem",
       "service_id": "4",
@@ -11570,7 +11570,7 @@
       ]
     },
     {
-      "trip_id": "4_17602863",
+      "trip_id": "4_17706876",
       "direction_id": "0",
       "headsign": "LITEWSKA",
       "service_id": "4",
@@ -11668,7 +11668,7 @@
       ]
     },
     {
-      "trip_id": "4_17602864",
+      "trip_id": "4_17706877",
       "direction_id": "1",
       "headsign": "ROD Pod Dębem",
       "service_id": "4",
@@ -11757,7 +11757,7 @@
       ]
     },
     {
-      "trip_id": "4_17602865",
+      "trip_id": "4_17706878",
       "direction_id": "0",
       "headsign": "LITEWSKA",
       "service_id": "4",
@@ -11855,7 +11855,7 @@
       ]
     },
     {
-      "trip_id": "4_17602866",
+      "trip_id": "4_17706879",
       "direction_id": "1",
       "headsign": "ROD Pod Dębem",
       "service_id": "4",
@@ -11944,7 +11944,7 @@
       ]
     },
     {
-      "trip_id": "4_17602867",
+      "trip_id": "4_17706880",
       "direction_id": "0",
       "headsign": "LITEWSKA",
       "service_id": "4",
@@ -12042,7 +12042,7 @@
       ]
     },
     {
-      "trip_id": "4_17602868",
+      "trip_id": "4_17706881",
       "direction_id": "1",
       "headsign": "ROD Pod Dębem",
       "service_id": "4",
@@ -12131,7 +12131,7 @@
       ]
     },
     {
-      "trip_id": "4_17602869",
+      "trip_id": "4_17706882",
       "direction_id": "0",
       "headsign": "LITEWSKA",
       "service_id": "4",
@@ -12229,7 +12229,7 @@
       ]
     },
     {
-      "trip_id": "4_17602870",
+      "trip_id": "4_17706883",
       "direction_id": "1",
       "headsign": "ROD Pod Dębem",
       "service_id": "4",
@@ -12318,7 +12318,7 @@
       ]
     },
     {
-      "trip_id": "4_17602871",
+      "trip_id": "4_17706884",
       "direction_id": "0",
       "headsign": "LITEWSKA",
       "service_id": "4",
@@ -12416,7 +12416,7 @@
       ]
     },
     {
-      "trip_id": "4_17602872",
+      "trip_id": "4_17706885",
       "direction_id": "1",
       "headsign": "ROD Pod Dębem",
       "service_id": "4",
@@ -12505,7 +12505,7 @@
       ]
     },
     {
-      "trip_id": "4_17602873",
+      "trip_id": "4_17706886",
       "direction_id": "0",
       "headsign": "LITEWSKA",
       "service_id": "4",
@@ -12603,7 +12603,7 @@
       ]
     },
     {
-      "trip_id": "4_17602874",
+      "trip_id": "4_17706887",
       "direction_id": "1",
       "headsign": "ROD Pod Dębem",
       "service_id": "4",
@@ -12692,7 +12692,7 @@
       ]
     },
     {
-      "trip_id": "4_17602875",
+      "trip_id": "4_17706888",
       "direction_id": "0",
       "headsign": "LITEWSKA",
       "service_id": "4",
@@ -12790,7 +12790,7 @@
       ]
     },
     {
-      "trip_id": "4_17602876",
+      "trip_id": "4_17706889",
       "direction_id": "1",
       "headsign": "ROD Pod Dębem",
       "service_id": "4",
@@ -12879,7 +12879,7 @@
       ]
     },
     {
-      "trip_id": "4_17602877",
+      "trip_id": "4_17706890",
       "direction_id": "0",
       "headsign": "LITEWSKA",
       "service_id": "4",
@@ -12977,7 +12977,7 @@
       ]
     },
     {
-      "trip_id": "4_17602878",
+      "trip_id": "4_17706891",
       "direction_id": "1",
       "headsign": "ROD Pod Dębem",
       "service_id": "4",
@@ -13066,7 +13066,7 @@
       ]
     },
     {
-      "trip_id": "4_17602879",
+      "trip_id": "4_17706892",
       "direction_id": "0",
       "headsign": "LITEWSKA",
       "service_id": "4",
@@ -13164,7 +13164,7 @@
       ]
     },
     {
-      "trip_id": "4_17602880",
+      "trip_id": "4_17706893",
       "direction_id": "1",
       "headsign": "ROD Pod Dębem",
       "service_id": "4",
@@ -13253,7 +13253,7 @@
       ]
     },
     {
-      "trip_id": "4_17602881",
+      "trip_id": "4_17706894",
       "direction_id": "0",
       "headsign": "LITEWSKA",
       "service_id": "4",
@@ -13351,7 +13351,7 @@
       ]
     },
     {
-      "trip_id": "4_17602882",
+      "trip_id": "4_17706895",
       "direction_id": "1",
       "headsign": "ROD Pod Dębem",
       "service_id": "4",
@@ -13440,7 +13440,7 @@
       ]
     },
     {
-      "trip_id": "4_17602883",
+      "trip_id": "4_17706896",
       "direction_id": "0",
       "headsign": "LITEWSKA",
       "service_id": "4",
@@ -13538,7 +13538,7 @@
       ]
     },
     {
-      "trip_id": "4_17602884",
+      "trip_id": "4_17706897",
       "direction_id": "1",
       "headsign": "ROD Pod Dębem",
       "service_id": "4",
@@ -13627,7 +13627,7 @@
       ]
     },
     {
-      "trip_id": "4_17602885",
+      "trip_id": "4_17706898",
       "direction_id": "0",
       "headsign": "LITEWSKA",
       "service_id": "4",
@@ -13725,7 +13725,7 @@
       ]
     },
     {
-      "trip_id": "4_17602886",
+      "trip_id": "4_17706899",
       "direction_id": "1",
       "headsign": "ROD Pod Dębem",
       "service_id": "4",
@@ -13814,7 +13814,7 @@
       ]
     },
     {
-      "trip_id": "4_17602887",
+      "trip_id": "4_17706900",
       "direction_id": "0",
       "headsign": "MULICKA",
       "service_id": "4",
@@ -13885,7 +13885,7 @@
       ]
     },
     {
-      "trip_id": "4_17602888",
+      "trip_id": "4_17706901",
       "direction_id": "1",
       "headsign": "ROD Pod Dębem",
       "service_id": "4",
@@ -13947,7 +13947,7 @@
       ]
     },
     {
-      "trip_id": "4_17602889",
+      "trip_id": "4_17706902",
       "direction_id": "0",
       "headsign": "MULICKA",
       "service_id": "4",
@@ -14018,7 +14018,7 @@
       ]
     },
     {
-      "trip_id": "4_17602890",
+      "trip_id": "4_17706903",
       "direction_id": "1",
       "headsign": "ROD Pod Dębem",
       "service_id": "4",
@@ -14080,7 +14080,7 @@
       ]
     },
     {
-      "trip_id": "4_17602891",
+      "trip_id": "4_17706904",
       "direction_id": "0",
       "headsign": "MULICKA",
       "service_id": "4",
@@ -14151,7 +14151,7 @@
       ]
     },
     {
-      "trip_id": "4_17602892",
+      "trip_id": "4_17706905",
       "direction_id": "1",
       "headsign": "ROD Pod Dębem",
       "service_id": "4",
@@ -14213,7 +14213,7 @@
       ]
     },
     {
-      "trip_id": "4_17602893",
+      "trip_id": "4_17706906",
       "direction_id": "0",
       "headsign": "MULICKA",
       "service_id": "4",
@@ -14284,7 +14284,7 @@
       ]
     },
     {
-      "trip_id": "4_17602894",
+      "trip_id": "4_17706907",
       "direction_id": "1",
       "headsign": "ROD Pod Dębem",
       "service_id": "4",
@@ -14346,7 +14346,7 @@
       ]
     },
     {
-      "trip_id": "4_17602895",
+      "trip_id": "4_17706908",
       "direction_id": "0",
       "headsign": "MULICKA",
       "service_id": "4",
@@ -14417,7 +14417,7 @@
       ]
     },
     {
-      "trip_id": "4_17602896",
+      "trip_id": "4_17706909",
       "direction_id": "1",
       "headsign": "ROD Pod Dębem",
       "service_id": "4",
@@ -14479,7 +14479,7 @@
       ]
     },
     {
-      "trip_id": "4_17602897",
+      "trip_id": "4_17706910",
       "direction_id": "0",
       "headsign": "Zajezdnia TYSKA",
       "service_id": "4",
@@ -14766,7 +14766,7 @@
       ]
     },
     {
-      "trip_id": "6_17608702",
+      "trip_id": "6_17712715",
       "direction_id": "1",
       "headsign": "ROD Pod Dębem",
       "service_id": "6",
@@ -14963,7 +14963,7 @@
       ]
     },
     {
-      "trip_id": "6_17608703",
+      "trip_id": "6_17712716",
       "direction_id": "0",
       "headsign": "LITEWSKA",
       "service_id": "6",
@@ -15061,7 +15061,7 @@
       ]
     },
     {
-      "trip_id": "6_17608704",
+      "trip_id": "6_17712717",
       "direction_id": "1",
       "headsign": "ROD Pod Dębem",
       "service_id": "6",
@@ -15150,7 +15150,7 @@
       ]
     },
     {
-      "trip_id": "6_17608705",
+      "trip_id": "6_17712718",
       "direction_id": "0",
       "headsign": "LITEWSKA",
       "service_id": "6",
@@ -15248,7 +15248,7 @@
       ]
     },
     {
-      "trip_id": "6_17608706",
+      "trip_id": "6_17712719",
       "direction_id": "1",
       "headsign": "ROD Pod Dębem",
       "service_id": "6",
@@ -15337,7 +15337,7 @@
       ]
     },
     {
-      "trip_id": "6_17608707",
+      "trip_id": "6_17712720",
       "direction_id": "0",
       "headsign": "LITEWSKA",
       "service_id": "6",
@@ -15435,7 +15435,7 @@
       ]
     },
     {
-      "trip_id": "6_17608708",
+      "trip_id": "6_17712721",
       "direction_id": "1",
       "headsign": "ROD Pod Dębem",
       "service_id": "6",
@@ -15524,7 +15524,7 @@
       ]
     },
     {
-      "trip_id": "6_17608709",
+      "trip_id": "6_17712722",
       "direction_id": "0",
       "headsign": "LITEWSKA",
       "service_id": "6",
@@ -15622,7 +15622,7 @@
       ]
     },
     {
-      "trip_id": "6_17608710",
+      "trip_id": "6_17712723",
       "direction_id": "1",
       "headsign": "ROD Pod Dębem",
       "service_id": "6",
@@ -15711,7 +15711,7 @@
       ]
     },
     {
-      "trip_id": "6_17608711",
+      "trip_id": "6_17712724",
       "direction_id": "0",
       "headsign": "LITEWSKA",
       "service_id": "6",
@@ -15809,7 +15809,7 @@
       ]
     },
     {
-      "trip_id": "6_17608712",
+      "trip_id": "6_17712725",
       "direction_id": "1",
       "headsign": "ROD Pod Dębem",
       "service_id": "6",
@@ -15898,7 +15898,7 @@
       ]
     },
     {
-      "trip_id": "6_17608713",
+      "trip_id": "6_17712726",
       "direction_id": "0",
       "headsign": "LITEWSKA",
       "service_id": "6",
@@ -15996,7 +15996,7 @@
       ]
     },
     {
-      "trip_id": "6_17608714",
+      "trip_id": "6_17712727",
       "direction_id": "1",
       "headsign": "ROD Pod Dębem",
       "service_id": "6",
@@ -16085,7 +16085,7 @@
       ]
     },
     {
-      "trip_id": "6_17608715",
+      "trip_id": "6_17712728",
       "direction_id": "0",
       "headsign": "LITEWSKA",
       "service_id": "6",
@@ -16183,7 +16183,7 @@
       ]
     },
     {
-      "trip_id": "6_17608716",
+      "trip_id": "6_17712729",
       "direction_id": "1",
       "headsign": "ROD Pod Dębem",
       "service_id": "6",
@@ -16272,7 +16272,7 @@
       ]
     },
     {
-      "trip_id": "6_17608717",
+      "trip_id": "6_17712730",
       "direction_id": "0",
       "headsign": "LITEWSKA",
       "service_id": "6",
@@ -16370,7 +16370,7 @@
       ]
     },
     {
-      "trip_id": "6_17608718",
+      "trip_id": "6_17712731",
       "direction_id": "1",
       "headsign": "ROD Pod Dębem",
       "service_id": "6",
@@ -16459,7 +16459,7 @@
       ]
     },
     {
-      "trip_id": "6_17608719",
+      "trip_id": "6_17712732",
       "direction_id": "0",
       "headsign": "LITEWSKA",
       "service_id": "6",
@@ -16557,7 +16557,7 @@
       ]
     },
     {
-      "trip_id": "6_17608720",
+      "trip_id": "6_17712733",
       "direction_id": "1",
       "headsign": "ROD Pod Dębem",
       "service_id": "6",
@@ -16646,7 +16646,7 @@
       ]
     },
     {
-      "trip_id": "6_17608721",
+      "trip_id": "6_17712734",
       "direction_id": "0",
       "headsign": "LITEWSKA",
       "service_id": "6",
@@ -16744,7 +16744,7 @@
       ]
     },
     {
-      "trip_id": "6_17608722",
+      "trip_id": "6_17712735",
       "direction_id": "1",
       "headsign": "ROD Pod Dębem",
       "service_id": "6",
@@ -16833,7 +16833,7 @@
       ]
     },
     {
-      "trip_id": "6_17608723",
+      "trip_id": "6_17712736",
       "direction_id": "0",
       "headsign": "LITEWSKA",
       "service_id": "6",
@@ -16931,7 +16931,7 @@
       ]
     },
     {
-      "trip_id": "6_17608724",
+      "trip_id": "6_17712737",
       "direction_id": "1",
       "headsign": "ROD Pod Dębem",
       "service_id": "6",
@@ -17020,7 +17020,7 @@
       ]
     },
     {
-      "trip_id": "6_17608725",
+      "trip_id": "6_17712738",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "6",
@@ -17226,7 +17226,7 @@
       ]
     },
     {
-      "trip_id": "6_17608728",
+      "trip_id": "6_17712741",
       "direction_id": "0",
       "headsign": "LITEWSKA",
       "service_id": "6",
@@ -17324,7 +17324,7 @@
       ]
     },
     {
-      "trip_id": "6_17608729",
+      "trip_id": "6_17712742",
       "direction_id": "1",
       "headsign": "ROD Pod Dębem",
       "service_id": "6",
@@ -17413,7 +17413,7 @@
       ]
     },
     {
-      "trip_id": "6_17608730",
+      "trip_id": "6_17712743",
       "direction_id": "0",
       "headsign": "LITEWSKA",
       "service_id": "6",
@@ -17511,7 +17511,7 @@
       ]
     },
     {
-      "trip_id": "6_17608731",
+      "trip_id": "6_17712744",
       "direction_id": "1",
       "headsign": "ROD Pod Dębem",
       "service_id": "6",
@@ -17600,7 +17600,7 @@
       ]
     },
     {
-      "trip_id": "6_17608732",
+      "trip_id": "6_17712745",
       "direction_id": "0",
       "headsign": "LITEWSKA",
       "service_id": "6",
@@ -17698,7 +17698,7 @@
       ]
     },
     {
-      "trip_id": "6_17608733",
+      "trip_id": "6_17712746",
       "direction_id": "1",
       "headsign": "ROD Pod Dębem",
       "service_id": "6",
@@ -17787,7 +17787,7 @@
       ]
     },
     {
-      "trip_id": "6_17608734",
+      "trip_id": "6_17712747",
       "direction_id": "0",
       "headsign": "LITEWSKA",
       "service_id": "6",
@@ -17885,7 +17885,7 @@
       ]
     },
     {
-      "trip_id": "6_17608735",
+      "trip_id": "6_17712748",
       "direction_id": "1",
       "headsign": "ROD Pod Dębem",
       "service_id": "6",
@@ -17974,7 +17974,7 @@
       ]
     },
     {
-      "trip_id": "6_17608736",
+      "trip_id": "6_17712749",
       "direction_id": "0",
       "headsign": "LITEWSKA",
       "service_id": "6",
@@ -18072,7 +18072,7 @@
       ]
     },
     {
-      "trip_id": "6_17608737",
+      "trip_id": "6_17712750",
       "direction_id": "1",
       "headsign": "ROD Pod Dębem",
       "service_id": "6",
@@ -18161,7 +18161,7 @@
       ]
     },
     {
-      "trip_id": "6_17608738",
+      "trip_id": "6_17712751",
       "direction_id": "0",
       "headsign": "LITEWSKA",
       "service_id": "6",
@@ -18259,7 +18259,7 @@
       ]
     },
     {
-      "trip_id": "6_17608739",
+      "trip_id": "6_17712752",
       "direction_id": "1",
       "headsign": "ROD Pod Dębem",
       "service_id": "6",
@@ -18348,7 +18348,7 @@
       ]
     },
     {
-      "trip_id": "6_17608740",
+      "trip_id": "6_17712753",
       "direction_id": "0",
       "headsign": "LITEWSKA",
       "service_id": "6",
@@ -18446,7 +18446,7 @@
       ]
     },
     {
-      "trip_id": "6_17608741",
+      "trip_id": "6_17712754",
       "direction_id": "1",
       "headsign": "ROD Pod Dębem",
       "service_id": "6",
@@ -18535,7 +18535,7 @@
       ]
     },
     {
-      "trip_id": "6_17608742",
+      "trip_id": "6_17712755",
       "direction_id": "0",
       "headsign": "LITEWSKA",
       "service_id": "6",
@@ -18633,7 +18633,7 @@
       ]
     },
     {
-      "trip_id": "6_17608743",
+      "trip_id": "6_17712756",
       "direction_id": "1",
       "headsign": "ROD Pod Dębem",
       "service_id": "6",
@@ -18722,7 +18722,7 @@
       ]
     },
     {
-      "trip_id": "6_17608744",
+      "trip_id": "6_17712757",
       "direction_id": "0",
       "headsign": "LITEWSKA",
       "service_id": "6",
@@ -18820,7 +18820,7 @@
       ]
     },
     {
-      "trip_id": "6_17608745",
+      "trip_id": "6_17712758",
       "direction_id": "1",
       "headsign": "ROD Pod Dębem",
       "service_id": "6",
@@ -18909,7 +18909,7 @@
       ]
     },
     {
-      "trip_id": "6_17608746",
+      "trip_id": "6_17712759",
       "direction_id": "0",
       "headsign": "LITEWSKA",
       "service_id": "6",
@@ -19007,7 +19007,7 @@
       ]
     },
     {
-      "trip_id": "6_17608747",
+      "trip_id": "6_17712760",
       "direction_id": "1",
       "headsign": "ROD Pod Dębem",
       "service_id": "6",
@@ -19096,7 +19096,7 @@
       ]
     },
     {
-      "trip_id": "6_17608748",
+      "trip_id": "6_17712761",
       "direction_id": "0",
       "headsign": "LITEWSKA",
       "service_id": "6",
@@ -19194,7 +19194,7 @@
       ]
     },
     {
-      "trip_id": "6_17608749",
+      "trip_id": "6_17712762",
       "direction_id": "1",
       "headsign": "ROD Pod Dębem",
       "service_id": "6",
@@ -19283,7 +19283,7 @@
       ]
     },
     {
-      "trip_id": "6_17608750",
+      "trip_id": "6_17712763",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "6",
@@ -19489,7 +19489,7 @@
       ]
     },
     {
-      "trip_id": "6_17608751",
+      "trip_id": "6_17712764",
       "direction_id": "0",
       "headsign": "LITEWSKA",
       "service_id": "6",
@@ -19686,7 +19686,7 @@
       ]
     },
     {
-      "trip_id": "6_17608752",
+      "trip_id": "6_17712765",
       "direction_id": "1",
       "headsign": "ROD Pod Dębem",
       "service_id": "6",
@@ -19775,7 +19775,7 @@
       ]
     },
     {
-      "trip_id": "6_17608753",
+      "trip_id": "6_17712766",
       "direction_id": "0",
       "headsign": "LITEWSKA",
       "service_id": "6",
@@ -19873,7 +19873,7 @@
       ]
     },
     {
-      "trip_id": "6_17608754",
+      "trip_id": "6_17712767",
       "direction_id": "1",
       "headsign": "ROD Pod Dębem",
       "service_id": "6",
@@ -19962,7 +19962,7 @@
       ]
     },
     {
-      "trip_id": "6_17608755",
+      "trip_id": "6_17712768",
       "direction_id": "0",
       "headsign": "LITEWSKA",
       "service_id": "6",
@@ -20060,7 +20060,7 @@
       ]
     },
     {
-      "trip_id": "6_17608756",
+      "trip_id": "6_17712769",
       "direction_id": "1",
       "headsign": "ROD Pod Dębem",
       "service_id": "6",
@@ -20149,7 +20149,7 @@
       ]
     },
     {
-      "trip_id": "6_17608757",
+      "trip_id": "6_17712770",
       "direction_id": "0",
       "headsign": "LITEWSKA",
       "service_id": "6",
@@ -20247,7 +20247,7 @@
       ]
     },
     {
-      "trip_id": "6_17608758",
+      "trip_id": "6_17712771",
       "direction_id": "1",
       "headsign": "ROD Pod Dębem",
       "service_id": "6",
@@ -20336,7 +20336,7 @@
       ]
     },
     {
-      "trip_id": "6_17608759",
+      "trip_id": "6_17712772",
       "direction_id": "0",
       "headsign": "LITEWSKA",
       "service_id": "6",
@@ -20434,7 +20434,7 @@
       ]
     },
     {
-      "trip_id": "6_17608760",
+      "trip_id": "6_17712773",
       "direction_id": "1",
       "headsign": "ROD Pod Dębem",
       "service_id": "6",
@@ -20523,7 +20523,7 @@
       ]
     },
     {
-      "trip_id": "6_17608761",
+      "trip_id": "6_17712774",
       "direction_id": "0",
       "headsign": "LITEWSKA",
       "service_id": "6",
@@ -20621,7 +20621,7 @@
       ]
     },
     {
-      "trip_id": "6_17608762",
+      "trip_id": "6_17712775",
       "direction_id": "1",
       "headsign": "ROD Pod Dębem",
       "service_id": "6",
@@ -20710,7 +20710,7 @@
       ]
     },
     {
-      "trip_id": "6_17608763",
+      "trip_id": "6_17712776",
       "direction_id": "0",
       "headsign": "LITEWSKA",
       "service_id": "6",
@@ -20808,7 +20808,7 @@
       ]
     },
     {
-      "trip_id": "6_17608764",
+      "trip_id": "6_17712777",
       "direction_id": "1",
       "headsign": "ROD Pod Dębem",
       "service_id": "6",
@@ -20897,7 +20897,7 @@
       ]
     },
     {
-      "trip_id": "6_17608765",
+      "trip_id": "6_17712778",
       "direction_id": "0",
       "headsign": "LITEWSKA",
       "service_id": "6",
@@ -20995,7 +20995,7 @@
       ]
     },
     {
-      "trip_id": "6_17608766",
+      "trip_id": "6_17712779",
       "direction_id": "1",
       "headsign": "ROD Pod Dębem",
       "service_id": "6",
@@ -21084,7 +21084,7 @@
       ]
     },
     {
-      "trip_id": "6_17608767",
+      "trip_id": "6_17712780",
       "direction_id": "0",
       "headsign": "LITEWSKA",
       "service_id": "6",
@@ -21182,7 +21182,7 @@
       ]
     },
     {
-      "trip_id": "6_17608768",
+      "trip_id": "6_17712781",
       "direction_id": "1",
       "headsign": "ROD Pod Dębem",
       "service_id": "6",
@@ -21271,7 +21271,7 @@
       ]
     },
     {
-      "trip_id": "6_17608769",
+      "trip_id": "6_17712782",
       "direction_id": "0",
       "headsign": "LITEWSKA",
       "service_id": "6",
@@ -21369,7 +21369,7 @@
       ]
     },
     {
-      "trip_id": "6_17608770",
+      "trip_id": "6_17712783",
       "direction_id": "1",
       "headsign": "ROD Pod Dębem",
       "service_id": "6",
@@ -21458,7 +21458,7 @@
       ]
     },
     {
-      "trip_id": "6_17608771",
+      "trip_id": "6_17712784",
       "direction_id": "0",
       "headsign": "LITEWSKA",
       "service_id": "6",
@@ -21556,7 +21556,7 @@
       ]
     },
     {
-      "trip_id": "6_17608772",
+      "trip_id": "6_17712785",
       "direction_id": "1",
       "headsign": "ROD Pod Dębem",
       "service_id": "6",
@@ -21645,7 +21645,7 @@
       ]
     },
     {
-      "trip_id": "6_17608773",
+      "trip_id": "6_17712786",
       "direction_id": "0",
       "headsign": "LITEWSKA",
       "service_id": "6",
@@ -21743,7 +21743,7 @@
       ]
     },
     {
-      "trip_id": "6_17608774",
+      "trip_id": "6_17712787",
       "direction_id": "1",
       "headsign": "ROD Pod Dębem",
       "service_id": "6",
@@ -21832,7 +21832,7 @@
       ]
     },
     {
-      "trip_id": "6_17608775",
+      "trip_id": "6_17712788",
       "direction_id": "0",
       "headsign": "LITEWSKA",
       "service_id": "6",
@@ -21930,7 +21930,7 @@
       ]
     },
     {
-      "trip_id": "6_17608776",
+      "trip_id": "6_17712789",
       "direction_id": "1",
       "headsign": "ROD Pod Dębem",
       "service_id": "6",
@@ -22019,7 +22019,7 @@
       ]
     },
     {
-      "trip_id": "6_17608777",
+      "trip_id": "6_17712790",
       "direction_id": "0",
       "headsign": "LITEWSKA",
       "service_id": "6",
@@ -22117,7 +22117,7 @@
       ]
     },
     {
-      "trip_id": "6_17608778",
+      "trip_id": "6_17712791",
       "direction_id": "1",
       "headsign": "ROD Pod Dębem",
       "service_id": "6",
@@ -22206,7 +22206,7 @@
       ]
     },
     {
-      "trip_id": "6_17608779",
+      "trip_id": "6_17712792",
       "direction_id": "0",
       "headsign": "LITEWSKA",
       "service_id": "6",
@@ -22304,7 +22304,7 @@
       ]
     },
     {
-      "trip_id": "6_17608780",
+      "trip_id": "6_17712793",
       "direction_id": "1",
       "headsign": "ROD Pod Dębem",
       "service_id": "6",
@@ -22393,7 +22393,7 @@
       ]
     },
     {
-      "trip_id": "6_17608781",
+      "trip_id": "6_17712794",
       "direction_id": "0",
       "headsign": "LITEWSKA",
       "service_id": "6",
@@ -22491,7 +22491,7 @@
       ]
     },
     {
-      "trip_id": "6_17608782",
+      "trip_id": "6_17712795",
       "direction_id": "1",
       "headsign": "ROD Pod Dębem",
       "service_id": "6",
@@ -22580,7 +22580,7 @@
       ]
     },
     {
-      "trip_id": "6_17608783",
+      "trip_id": "6_17712796",
       "direction_id": "0",
       "headsign": "LITEWSKA",
       "service_id": "6",
@@ -22678,7 +22678,7 @@
       ]
     },
     {
-      "trip_id": "6_17608784",
+      "trip_id": "6_17712797",
       "direction_id": "1",
       "headsign": "ROD Pod Dębem",
       "service_id": "6",
@@ -22767,7 +22767,7 @@
       ]
     },
     {
-      "trip_id": "6_17608785",
+      "trip_id": "6_17712798",
       "direction_id": "0",
       "headsign": "LITEWSKA",
       "service_id": "6",
@@ -22865,7 +22865,7 @@
       ]
     },
     {
-      "trip_id": "6_17608786",
+      "trip_id": "6_17712799",
       "direction_id": "1",
       "headsign": "ROD Pod Dębem",
       "service_id": "6",
@@ -22954,7 +22954,7 @@
       ]
     },
     {
-      "trip_id": "6_17608787",
+      "trip_id": "6_17712800",
       "direction_id": "0",
       "headsign": "LITEWSKA",
       "service_id": "6",
@@ -23052,7 +23052,7 @@
       ]
     },
     {
-      "trip_id": "6_17608788",
+      "trip_id": "6_17712801",
       "direction_id": "1",
       "headsign": "ROD Pod Dębem",
       "service_id": "6",
@@ -23141,7 +23141,7 @@
       ]
     },
     {
-      "trip_id": "6_17608789",
+      "trip_id": "6_17712802",
       "direction_id": "0",
       "headsign": "LITEWSKA",
       "service_id": "6",
@@ -23239,7 +23239,7 @@
       ]
     },
     {
-      "trip_id": "6_17608790",
+      "trip_id": "6_17712803",
       "direction_id": "1",
       "headsign": "ROD Pod Dębem",
       "service_id": "6",
@@ -23328,7 +23328,7 @@
       ]
     },
     {
-      "trip_id": "6_17608791",
+      "trip_id": "6_17712804",
       "direction_id": "0",
       "headsign": "LITEWSKA",
       "service_id": "6",
@@ -23426,7 +23426,7 @@
       ]
     },
     {
-      "trip_id": "6_17608792",
+      "trip_id": "6_17712805",
       "direction_id": "1",
       "headsign": "ROD Pod Dębem",
       "service_id": "6",
@@ -23515,7 +23515,7 @@
       ]
     },
     {
-      "trip_id": "6_17608793",
+      "trip_id": "6_17712806",
       "direction_id": "0",
       "headsign": "LITEWSKA",
       "service_id": "6",
@@ -23613,7 +23613,7 @@
       ]
     },
     {
-      "trip_id": "6_17608794",
+      "trip_id": "6_17712807",
       "direction_id": "1",
       "headsign": "ROD Pod Dębem",
       "service_id": "6",
@@ -23702,7 +23702,7 @@
       ]
     },
     {
-      "trip_id": "6_17608795",
+      "trip_id": "6_17712808",
       "direction_id": "0",
       "headsign": "LITEWSKA",
       "service_id": "6",
@@ -23800,7 +23800,7 @@
       ]
     },
     {
-      "trip_id": "6_17608796",
+      "trip_id": "6_17712809",
       "direction_id": "1",
       "headsign": "ROD Pod Dębem",
       "service_id": "6",
@@ -23889,7 +23889,7 @@
       ]
     },
     {
-      "trip_id": "6_17608797",
+      "trip_id": "6_17712810",
       "direction_id": "0",
       "headsign": "LITEWSKA",
       "service_id": "6",
@@ -23987,7 +23987,7 @@
       ]
     },
     {
-      "trip_id": "6_17608798",
+      "trip_id": "6_17712811",
       "direction_id": "1",
       "headsign": "ROD Pod Dębem",
       "service_id": "6",
@@ -24076,7 +24076,7 @@
       ]
     },
     {
-      "trip_id": "6_17608799",
+      "trip_id": "6_17712812",
       "direction_id": "0",
       "headsign": "LITEWSKA",
       "service_id": "6",
@@ -24174,7 +24174,7 @@
       ]
     },
     {
-      "trip_id": "6_17608800",
+      "trip_id": "6_17712813",
       "direction_id": "1",
       "headsign": "ROD Pod Dębem",
       "service_id": "6",
@@ -24263,7 +24263,7 @@
       ]
     },
     {
-      "trip_id": "6_17608801",
+      "trip_id": "6_17712814",
       "direction_id": "0",
       "headsign": "LITEWSKA",
       "service_id": "6",
@@ -24361,7 +24361,7 @@
       ]
     },
     {
-      "trip_id": "6_17608802",
+      "trip_id": "6_17712815",
       "direction_id": "1",
       "headsign": "ROD Pod Dębem",
       "service_id": "6",
@@ -24450,7 +24450,7 @@
       ]
     },
     {
-      "trip_id": "6_17608803",
+      "trip_id": "6_17712816",
       "direction_id": "0",
       "headsign": "LITEWSKA",
       "service_id": "6",
@@ -24548,7 +24548,7 @@
       ]
     },
     {
-      "trip_id": "6_17608804",
+      "trip_id": "6_17712817",
       "direction_id": "1",
       "headsign": "ROD Pod Dębem",
       "service_id": "6",
@@ -24637,7 +24637,7 @@
       ]
     },
     {
-      "trip_id": "6_17608805",
+      "trip_id": "6_17712818",
       "direction_id": "0",
       "headsign": "LITEWSKA",
       "service_id": "6",
@@ -24735,7 +24735,7 @@
       ]
     },
     {
-      "trip_id": "6_17608806",
+      "trip_id": "6_17712819",
       "direction_id": "1",
       "headsign": "ROD Pod Dębem",
       "service_id": "6",
@@ -24824,7 +24824,7 @@
       ]
     },
     {
-      "trip_id": "6_17608807",
+      "trip_id": "6_17712820",
       "direction_id": "0",
       "headsign": "LITEWSKA",
       "service_id": "6",
@@ -24922,7 +24922,7 @@
       ]
     },
     {
-      "trip_id": "6_17608808",
+      "trip_id": "6_17712821",
       "direction_id": "1",
       "headsign": "ROD Pod Dębem",
       "service_id": "6",
@@ -25011,7 +25011,7 @@
       ]
     },
     {
-      "trip_id": "6_17608809",
+      "trip_id": "6_17712822",
       "direction_id": "0",
       "headsign": "LITEWSKA",
       "service_id": "6",
@@ -25109,7 +25109,7 @@
       ]
     },
     {
-      "trip_id": "6_17608810",
+      "trip_id": "6_17712823",
       "direction_id": "1",
       "headsign": "ROD Pod Dębem",
       "service_id": "6",
@@ -25198,7 +25198,7 @@
       ]
     },
     {
-      "trip_id": "6_17608811",
+      "trip_id": "6_17712824",
       "direction_id": "0",
       "headsign": "LITEWSKA",
       "service_id": "6",
@@ -25296,7 +25296,7 @@
       ]
     },
     {
-      "trip_id": "6_17608812",
+      "trip_id": "6_17712825",
       "direction_id": "1",
       "headsign": "ROD Pod Dębem",
       "service_id": "6",
@@ -25385,7 +25385,7 @@
       ]
     },
     {
-      "trip_id": "6_17608813",
+      "trip_id": "6_17712826",
       "direction_id": "0",
       "headsign": "LITEWSKA",
       "service_id": "6",
@@ -25483,7 +25483,7 @@
       ]
     },
     {
-      "trip_id": "6_17608814",
+      "trip_id": "6_17712827",
       "direction_id": "1",
       "headsign": "ROD Pod Dębem",
       "service_id": "6",
@@ -25572,7 +25572,7 @@
       ]
     },
     {
-      "trip_id": "6_17608815",
+      "trip_id": "6_17712828",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "6",
@@ -25778,7 +25778,7 @@
       ]
     },
     {
-      "trip_id": "8_17615528",
+      "trip_id": "8_17719541",
       "direction_id": "1",
       "headsign": "ROD Pod Dębem",
       "service_id": "8",
@@ -25975,7 +25975,7 @@
       ]
     },
     {
-      "trip_id": "8_17615529",
+      "trip_id": "8_17719542",
       "direction_id": "0",
       "headsign": "LITEWSKA",
       "service_id": "8",
@@ -26073,7 +26073,7 @@
       ]
     },
     {
-      "trip_id": "8_17615530",
+      "trip_id": "8_17719543",
       "direction_id": "1",
       "headsign": "ROD Pod Dębem",
       "service_id": "8",
@@ -26162,7 +26162,7 @@
       ]
     },
     {
-      "trip_id": "8_17615531",
+      "trip_id": "8_17719544",
       "direction_id": "0",
       "headsign": "LITEWSKA",
       "service_id": "8",
@@ -26260,7 +26260,7 @@
       ]
     },
     {
-      "trip_id": "8_17615532",
+      "trip_id": "8_17719545",
       "direction_id": "1",
       "headsign": "ROD Pod Dębem",
       "service_id": "8",
@@ -26349,7 +26349,7 @@
       ]
     },
     {
-      "trip_id": "8_17615533",
+      "trip_id": "8_17719546",
       "direction_id": "0",
       "headsign": "LITEWSKA",
       "service_id": "8",
@@ -26447,7 +26447,7 @@
       ]
     },
     {
-      "trip_id": "8_17615534",
+      "trip_id": "8_17719547",
       "direction_id": "1",
       "headsign": "ROD Pod Dębem",
       "service_id": "8",
@@ -26536,7 +26536,7 @@
       ]
     },
     {
-      "trip_id": "8_17615535",
+      "trip_id": "8_17719548",
       "direction_id": "0",
       "headsign": "LITEWSKA",
       "service_id": "8",
@@ -26634,7 +26634,7 @@
       ]
     },
     {
-      "trip_id": "8_17615536",
+      "trip_id": "8_17719549",
       "direction_id": "1",
       "headsign": "ROD Pod Dębem",
       "service_id": "8",
@@ -26723,7 +26723,7 @@
       ]
     },
     {
-      "trip_id": "8_17615537",
+      "trip_id": "8_17719550",
       "direction_id": "0",
       "headsign": "LITEWSKA",
       "service_id": "8",
@@ -26821,7 +26821,7 @@
       ]
     },
     {
-      "trip_id": "8_17615538",
+      "trip_id": "8_17719551",
       "direction_id": "1",
       "headsign": "ROD Pod Dębem",
       "service_id": "8",
@@ -26910,7 +26910,7 @@
       ]
     },
     {
-      "trip_id": "8_17615539",
+      "trip_id": "8_17719552",
       "direction_id": "0",
       "headsign": "LITEWSKA",
       "service_id": "8",
@@ -27008,7 +27008,7 @@
       ]
     },
     {
-      "trip_id": "8_17615540",
+      "trip_id": "8_17719553",
       "direction_id": "1",
       "headsign": "ROD Pod Dębem",
       "service_id": "8",
@@ -27097,7 +27097,7 @@
       ]
     },
     {
-      "trip_id": "8_17615541",
+      "trip_id": "8_17719554",
       "direction_id": "0",
       "headsign": "LITEWSKA",
       "service_id": "8",
@@ -27195,7 +27195,7 @@
       ]
     },
     {
-      "trip_id": "8_17615542",
+      "trip_id": "8_17719555",
       "direction_id": "1",
       "headsign": "ROD Pod Dębem",
       "service_id": "8",
@@ -27284,7 +27284,7 @@
       ]
     },
     {
-      "trip_id": "8_17615543",
+      "trip_id": "8_17719556",
       "direction_id": "0",
       "headsign": "LITEWSKA",
       "service_id": "8",
@@ -27382,7 +27382,7 @@
       ]
     },
     {
-      "trip_id": "8_17615544",
+      "trip_id": "8_17719557",
       "direction_id": "1",
       "headsign": "ROD Pod Dębem",
       "service_id": "8",
@@ -27471,7 +27471,7 @@
       ]
     },
     {
-      "trip_id": "8_17615545",
+      "trip_id": "8_17719558",
       "direction_id": "0",
       "headsign": "LITEWSKA",
       "service_id": "8",
@@ -27569,7 +27569,7 @@
       ]
     },
     {
-      "trip_id": "8_17615546",
+      "trip_id": "8_17719559",
       "direction_id": "1",
       "headsign": "ROD Pod Dębem",
       "service_id": "8",
@@ -27658,7 +27658,7 @@
       ]
     },
     {
-      "trip_id": "8_17615547",
+      "trip_id": "8_17719560",
       "direction_id": "0",
       "headsign": "LITEWSKA",
       "service_id": "8",
@@ -27756,7 +27756,7 @@
       ]
     },
     {
-      "trip_id": "8_17615548",
+      "trip_id": "8_17719561",
       "direction_id": "1",
       "headsign": "ROD Pod Dębem",
       "service_id": "8",
@@ -27845,7 +27845,7 @@
       ]
     },
     {
-      "trip_id": "8_17615549",
+      "trip_id": "8_17719562",
       "direction_id": "0",
       "headsign": "LITEWSKA",
       "service_id": "8",
@@ -27943,7 +27943,7 @@
       ]
     },
     {
-      "trip_id": "8_17615550",
+      "trip_id": "8_17719563",
       "direction_id": "1",
       "headsign": "ROD Pod Dębem",
       "service_id": "8",
@@ -28032,7 +28032,7 @@
       ]
     },
     {
-      "trip_id": "8_17615551",
+      "trip_id": "8_17719564",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "8",
@@ -28238,7 +28238,7 @@
       ]
     },
     {
-      "trip_id": "8_17615554",
+      "trip_id": "8_17719567",
       "direction_id": "0",
       "headsign": "LITEWSKA",
       "service_id": "8",
@@ -28336,7 +28336,7 @@
       ]
     },
     {
-      "trip_id": "8_17615555",
+      "trip_id": "8_17719568",
       "direction_id": "1",
       "headsign": "ROD Pod Dębem",
       "service_id": "8",
@@ -28425,7 +28425,7 @@
       ]
     },
     {
-      "trip_id": "8_17615556",
+      "trip_id": "8_17719569",
       "direction_id": "0",
       "headsign": "LITEWSKA",
       "service_id": "8",
@@ -28523,7 +28523,7 @@
       ]
     },
     {
-      "trip_id": "8_17615557",
+      "trip_id": "8_17719570",
       "direction_id": "1",
       "headsign": "ROD Pod Dębem",
       "service_id": "8",
@@ -28612,7 +28612,7 @@
       ]
     },
     {
-      "trip_id": "8_17615558",
+      "trip_id": "8_17719571",
       "direction_id": "0",
       "headsign": "LITEWSKA",
       "service_id": "8",
@@ -28710,7 +28710,7 @@
       ]
     },
     {
-      "trip_id": "8_17615559",
+      "trip_id": "8_17719572",
       "direction_id": "1",
       "headsign": "ROD Pod Dębem",
       "service_id": "8",
@@ -28799,7 +28799,7 @@
       ]
     },
     {
-      "trip_id": "8_17615560",
+      "trip_id": "8_17719573",
       "direction_id": "0",
       "headsign": "LITEWSKA",
       "service_id": "8",
@@ -28897,7 +28897,7 @@
       ]
     },
     {
-      "trip_id": "8_17615561",
+      "trip_id": "8_17719574",
       "direction_id": "1",
       "headsign": "ROD Pod Dębem",
       "service_id": "8",
@@ -28986,7 +28986,7 @@
       ]
     },
     {
-      "trip_id": "8_17615562",
+      "trip_id": "8_17719575",
       "direction_id": "0",
       "headsign": "LITEWSKA",
       "service_id": "8",
@@ -29084,7 +29084,7 @@
       ]
     },
     {
-      "trip_id": "8_17615563",
+      "trip_id": "8_17719576",
       "direction_id": "1",
       "headsign": "ROD Pod Dębem",
       "service_id": "8",
@@ -29173,7 +29173,7 @@
       ]
     },
     {
-      "trip_id": "8_17615564",
+      "trip_id": "8_17719577",
       "direction_id": "0",
       "headsign": "LITEWSKA",
       "service_id": "8",
@@ -29271,7 +29271,7 @@
       ]
     },
     {
-      "trip_id": "8_17615565",
+      "trip_id": "8_17719578",
       "direction_id": "1",
       "headsign": "ROD Pod Dębem",
       "service_id": "8",
@@ -29360,7 +29360,7 @@
       ]
     },
     {
-      "trip_id": "8_17615566",
+      "trip_id": "8_17719579",
       "direction_id": "0",
       "headsign": "LITEWSKA",
       "service_id": "8",
@@ -29458,7 +29458,7 @@
       ]
     },
     {
-      "trip_id": "8_17615567",
+      "trip_id": "8_17719580",
       "direction_id": "1",
       "headsign": "ROD Pod Dębem",
       "service_id": "8",
@@ -29547,7 +29547,7 @@
       ]
     },
     {
-      "trip_id": "8_17615568",
+      "trip_id": "8_17719581",
       "direction_id": "0",
       "headsign": "LITEWSKA",
       "service_id": "8",
@@ -29645,7 +29645,7 @@
       ]
     },
     {
-      "trip_id": "8_17615569",
+      "trip_id": "8_17719582",
       "direction_id": "1",
       "headsign": "ROD Pod Dębem",
       "service_id": "8",
@@ -29734,7 +29734,7 @@
       ]
     },
     {
-      "trip_id": "8_17615570",
+      "trip_id": "8_17719583",
       "direction_id": "0",
       "headsign": "LITEWSKA",
       "service_id": "8",
@@ -29832,7 +29832,7 @@
       ]
     },
     {
-      "trip_id": "8_17615571",
+      "trip_id": "8_17719584",
       "direction_id": "1",
       "headsign": "ROD Pod Dębem",
       "service_id": "8",
@@ -29921,7 +29921,7 @@
       ]
     },
     {
-      "trip_id": "8_17615572",
+      "trip_id": "8_17719585",
       "direction_id": "0",
       "headsign": "LITEWSKA",
       "service_id": "8",
@@ -30019,7 +30019,7 @@
       ]
     },
     {
-      "trip_id": "8_17615573",
+      "trip_id": "8_17719586",
       "direction_id": "1",
       "headsign": "ROD Pod Dębem",
       "service_id": "8",
@@ -30108,7 +30108,7 @@
       ]
     },
     {
-      "trip_id": "8_17615574",
+      "trip_id": "8_17719587",
       "direction_id": "0",
       "headsign": "LITEWSKA",
       "service_id": "8",
@@ -30206,7 +30206,7 @@
       ]
     },
     {
-      "trip_id": "8_17615575",
+      "trip_id": "8_17719588",
       "direction_id": "1",
       "headsign": "ROD Pod Dębem",
       "service_id": "8",
@@ -30295,7 +30295,7 @@
       ]
     },
     {
-      "trip_id": "8_17615576",
+      "trip_id": "8_17719589",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "8",
@@ -30501,7 +30501,7 @@
       ]
     },
     {
-      "trip_id": "8_17615577",
+      "trip_id": "8_17719590",
       "direction_id": "0",
       "headsign": "LITEWSKA",
       "service_id": "8",
@@ -30698,7 +30698,7 @@
       ]
     },
     {
-      "trip_id": "8_17615578",
+      "trip_id": "8_17719591",
       "direction_id": "1",
       "headsign": "ROD Pod Dębem",
       "service_id": "8",
@@ -30787,7 +30787,7 @@
       ]
     },
     {
-      "trip_id": "8_17615579",
+      "trip_id": "8_17719592",
       "direction_id": "0",
       "headsign": "LITEWSKA",
       "service_id": "8",
@@ -30885,7 +30885,7 @@
       ]
     },
     {
-      "trip_id": "8_17615580",
+      "trip_id": "8_17719593",
       "direction_id": "1",
       "headsign": "ROD Pod Dębem",
       "service_id": "8",
@@ -30974,7 +30974,7 @@
       ]
     },
     {
-      "trip_id": "8_17615581",
+      "trip_id": "8_17719594",
       "direction_id": "0",
       "headsign": "LITEWSKA",
       "service_id": "8",
@@ -31072,7 +31072,7 @@
       ]
     },
     {
-      "trip_id": "8_17615582",
+      "trip_id": "8_17719595",
       "direction_id": "1",
       "headsign": "ROD Pod Dębem",
       "service_id": "8",
@@ -31161,7 +31161,7 @@
       ]
     },
     {
-      "trip_id": "8_17615583",
+      "trip_id": "8_17719596",
       "direction_id": "0",
       "headsign": "LITEWSKA",
       "service_id": "8",
@@ -31259,7 +31259,7 @@
       ]
     },
     {
-      "trip_id": "8_17615584",
+      "trip_id": "8_17719597",
       "direction_id": "1",
       "headsign": "ROD Pod Dębem",
       "service_id": "8",
@@ -31348,7 +31348,7 @@
       ]
     },
     {
-      "trip_id": "8_17615585",
+      "trip_id": "8_17719598",
       "direction_id": "0",
       "headsign": "LITEWSKA",
       "service_id": "8",
@@ -31446,7 +31446,7 @@
       ]
     },
     {
-      "trip_id": "8_17615586",
+      "trip_id": "8_17719599",
       "direction_id": "1",
       "headsign": "ROD Pod Dębem",
       "service_id": "8",
@@ -31535,7 +31535,7 @@
       ]
     },
     {
-      "trip_id": "8_17615587",
+      "trip_id": "8_17719600",
       "direction_id": "0",
       "headsign": "LITEWSKA",
       "service_id": "8",
@@ -31633,7 +31633,7 @@
       ]
     },
     {
-      "trip_id": "8_17615588",
+      "trip_id": "8_17719601",
       "direction_id": "1",
       "headsign": "ROD Pod Dębem",
       "service_id": "8",
@@ -31722,7 +31722,7 @@
       ]
     },
     {
-      "trip_id": "8_17615589",
+      "trip_id": "8_17719602",
       "direction_id": "0",
       "headsign": "LITEWSKA",
       "service_id": "8",
@@ -31820,7 +31820,7 @@
       ]
     },
     {
-      "trip_id": "8_17615590",
+      "trip_id": "8_17719603",
       "direction_id": "1",
       "headsign": "ROD Pod Dębem",
       "service_id": "8",
@@ -31909,7 +31909,7 @@
       ]
     },
     {
-      "trip_id": "8_17615591",
+      "trip_id": "8_17719604",
       "direction_id": "0",
       "headsign": "LITEWSKA",
       "service_id": "8",
@@ -32007,7 +32007,7 @@
       ]
     },
     {
-      "trip_id": "8_17615592",
+      "trip_id": "8_17719605",
       "direction_id": "1",
       "headsign": "ROD Pod Dębem",
       "service_id": "8",
@@ -32096,7 +32096,7 @@
       ]
     },
     {
-      "trip_id": "8_17615593",
+      "trip_id": "8_17719606",
       "direction_id": "0",
       "headsign": "LITEWSKA",
       "service_id": "8",
@@ -32194,7 +32194,7 @@
       ]
     },
     {
-      "trip_id": "8_17615594",
+      "trip_id": "8_17719607",
       "direction_id": "1",
       "headsign": "ROD Pod Dębem",
       "service_id": "8",
@@ -32283,7 +32283,7 @@
       ]
     },
     {
-      "trip_id": "8_17615595",
+      "trip_id": "8_17719608",
       "direction_id": "0",
       "headsign": "LITEWSKA",
       "service_id": "8",
@@ -32381,7 +32381,7 @@
       ]
     },
     {
-      "trip_id": "8_17615596",
+      "trip_id": "8_17719609",
       "direction_id": "1",
       "headsign": "ROD Pod Dębem",
       "service_id": "8",
@@ -32470,7 +32470,7 @@
       ]
     },
     {
-      "trip_id": "8_17615597",
+      "trip_id": "8_17719610",
       "direction_id": "0",
       "headsign": "LITEWSKA",
       "service_id": "8",
@@ -32568,7 +32568,7 @@
       ]
     },
     {
-      "trip_id": "8_17615598",
+      "trip_id": "8_17719611",
       "direction_id": "1",
       "headsign": "ROD Pod Dębem",
       "service_id": "8",
@@ -32657,7 +32657,7 @@
       ]
     },
     {
-      "trip_id": "8_17615599",
+      "trip_id": "8_17719612",
       "direction_id": "0",
       "headsign": "LITEWSKA",
       "service_id": "8",
@@ -32755,7 +32755,7 @@
       ]
     },
     {
-      "trip_id": "8_17615600",
+      "trip_id": "8_17719613",
       "direction_id": "1",
       "headsign": "ROD Pod Dębem",
       "service_id": "8",
@@ -32844,7 +32844,7 @@
       ]
     },
     {
-      "trip_id": "8_17615601",
+      "trip_id": "8_17719614",
       "direction_id": "0",
       "headsign": "LITEWSKA",
       "service_id": "8",
@@ -32942,7 +32942,7 @@
       ]
     },
     {
-      "trip_id": "8_17615602",
+      "trip_id": "8_17719615",
       "direction_id": "1",
       "headsign": "ROD Pod Dębem",
       "service_id": "8",
@@ -33031,7 +33031,7 @@
       ]
     },
     {
-      "trip_id": "8_17615603",
+      "trip_id": "8_17719616",
       "direction_id": "0",
       "headsign": "LITEWSKA",
       "service_id": "8",
@@ -33129,7 +33129,7 @@
       ]
     },
     {
-      "trip_id": "8_17615604",
+      "trip_id": "8_17719617",
       "direction_id": "1",
       "headsign": "ROD Pod Dębem",
       "service_id": "8",
@@ -33218,7 +33218,7 @@
       ]
     },
     {
-      "trip_id": "8_17615605",
+      "trip_id": "8_17719618",
       "direction_id": "0",
       "headsign": "LITEWSKA",
       "service_id": "8",
@@ -33316,7 +33316,7 @@
       ]
     },
     {
-      "trip_id": "8_17615606",
+      "trip_id": "8_17719619",
       "direction_id": "1",
       "headsign": "ROD Pod Dębem",
       "service_id": "8",
@@ -33405,7 +33405,7 @@
       ]
     },
     {
-      "trip_id": "8_17615607",
+      "trip_id": "8_17719620",
       "direction_id": "0",
       "headsign": "LITEWSKA",
       "service_id": "8",
@@ -33503,7 +33503,7 @@
       ]
     },
     {
-      "trip_id": "8_17615608",
+      "trip_id": "8_17719621",
       "direction_id": "1",
       "headsign": "ROD Pod Dębem",
       "service_id": "8",
@@ -33592,7 +33592,7 @@
       ]
     },
     {
-      "trip_id": "8_17615609",
+      "trip_id": "8_17719622",
       "direction_id": "0",
       "headsign": "LITEWSKA",
       "service_id": "8",
@@ -33690,7 +33690,7 @@
       ]
     },
     {
-      "trip_id": "8_17615610",
+      "trip_id": "8_17719623",
       "direction_id": "1",
       "headsign": "ROD Pod Dębem",
       "service_id": "8",
@@ -33779,7 +33779,7 @@
       ]
     },
     {
-      "trip_id": "8_17615611",
+      "trip_id": "8_17719624",
       "direction_id": "0",
       "headsign": "LITEWSKA",
       "service_id": "8",
@@ -33877,7 +33877,7 @@
       ]
     },
     {
-      "trip_id": "8_17615612",
+      "trip_id": "8_17719625",
       "direction_id": "1",
       "headsign": "ROD Pod Dębem",
       "service_id": "8",
@@ -33966,7 +33966,7 @@
       ]
     },
     {
-      "trip_id": "8_17615613",
+      "trip_id": "8_17719626",
       "direction_id": "0",
       "headsign": "LITEWSKA",
       "service_id": "8",
@@ -34064,7 +34064,7 @@
       ]
     },
     {
-      "trip_id": "8_17615614",
+      "trip_id": "8_17719627",
       "direction_id": "1",
       "headsign": "ROD Pod Dębem",
       "service_id": "8",
@@ -34153,7 +34153,7 @@
       ]
     },
     {
-      "trip_id": "8_17615615",
+      "trip_id": "8_17719628",
       "direction_id": "0",
       "headsign": "LITEWSKA",
       "service_id": "8",
@@ -34251,7 +34251,7 @@
       ]
     },
     {
-      "trip_id": "8_17615616",
+      "trip_id": "8_17719629",
       "direction_id": "1",
       "headsign": "ROD Pod Dębem",
       "service_id": "8",
@@ -34340,7 +34340,7 @@
       ]
     },
     {
-      "trip_id": "8_17615617",
+      "trip_id": "8_17719630",
       "direction_id": "0",
       "headsign": "LITEWSKA",
       "service_id": "8",
@@ -34438,7 +34438,7 @@
       ]
     },
     {
-      "trip_id": "8_17615618",
+      "trip_id": "8_17719631",
       "direction_id": "1",
       "headsign": "ROD Pod Dębem",
       "service_id": "8",
@@ -34527,7 +34527,7 @@
       ]
     },
     {
-      "trip_id": "8_17615619",
+      "trip_id": "8_17719632",
       "direction_id": "0",
       "headsign": "LITEWSKA",
       "service_id": "8",
@@ -34625,7 +34625,7 @@
       ]
     },
     {
-      "trip_id": "8_17615620",
+      "trip_id": "8_17719633",
       "direction_id": "1",
       "headsign": "ROD Pod Dębem",
       "service_id": "8",
@@ -34714,7 +34714,7 @@
       ]
     },
     {
-      "trip_id": "8_17615621",
+      "trip_id": "8_17719634",
       "direction_id": "0",
       "headsign": "LITEWSKA",
       "service_id": "8",
@@ -34812,7 +34812,7 @@
       ]
     },
     {
-      "trip_id": "8_17615622",
+      "trip_id": "8_17719635",
       "direction_id": "1",
       "headsign": "ROD Pod Dębem",
       "service_id": "8",
@@ -34901,7 +34901,7 @@
       ]
     },
     {
-      "trip_id": "8_17615623",
+      "trip_id": "8_17719636",
       "direction_id": "0",
       "headsign": "LITEWSKA",
       "service_id": "8",
@@ -34999,7 +34999,7 @@
       ]
     },
     {
-      "trip_id": "8_17615624",
+      "trip_id": "8_17719637",
       "direction_id": "1",
       "headsign": "ROD Pod Dębem",
       "service_id": "8",
@@ -35088,7 +35088,7 @@
       ]
     },
     {
-      "trip_id": "8_17615625",
+      "trip_id": "8_17719638",
       "direction_id": "0",
       "headsign": "LITEWSKA",
       "service_id": "8",
@@ -35186,7 +35186,7 @@
       ]
     },
     {
-      "trip_id": "8_17615626",
+      "trip_id": "8_17719639",
       "direction_id": "1",
       "headsign": "ROD Pod Dębem",
       "service_id": "8",
@@ -35275,7 +35275,7 @@
       ]
     },
     {
-      "trip_id": "8_17615627",
+      "trip_id": "8_17719640",
       "direction_id": "0",
       "headsign": "LITEWSKA",
       "service_id": "8",
@@ -35373,7 +35373,7 @@
       ]
     },
     {
-      "trip_id": "8_17615628",
+      "trip_id": "8_17719641",
       "direction_id": "1",
       "headsign": "ROD Pod Dębem",
       "service_id": "8",
@@ -35462,7 +35462,7 @@
       ]
     },
     {
-      "trip_id": "8_17615629",
+      "trip_id": "8_17719642",
       "direction_id": "0",
       "headsign": "LITEWSKA",
       "service_id": "8",
@@ -35560,7 +35560,7 @@
       ]
     },
     {
-      "trip_id": "8_17615630",
+      "trip_id": "8_17719643",
       "direction_id": "1",
       "headsign": "ROD Pod Dębem",
       "service_id": "8",
@@ -35649,7 +35649,7 @@
       ]
     },
     {
-      "trip_id": "8_17615631",
+      "trip_id": "8_17719644",
       "direction_id": "0",
       "headsign": "LITEWSKA",
       "service_id": "8",
@@ -35747,7 +35747,7 @@
       ]
     },
     {
-      "trip_id": "8_17615632",
+      "trip_id": "8_17719645",
       "direction_id": "1",
       "headsign": "ROD Pod Dębem",
       "service_id": "8",
@@ -35836,7 +35836,7 @@
       ]
     },
     {
-      "trip_id": "8_17615633",
+      "trip_id": "8_17719646",
       "direction_id": "0",
       "headsign": "LITEWSKA",
       "service_id": "8",
@@ -35934,7 +35934,7 @@
       ]
     },
     {
-      "trip_id": "8_17615634",
+      "trip_id": "8_17719647",
       "direction_id": "1",
       "headsign": "ROD Pod Dębem",
       "service_id": "8",
@@ -36023,7 +36023,7 @@
       ]
     },
     {
-      "trip_id": "8_17615635",
+      "trip_id": "8_17719648",
       "direction_id": "0",
       "headsign": "LITEWSKA",
       "service_id": "8",
@@ -36121,7 +36121,7 @@
       ]
     },
     {
-      "trip_id": "8_17615636",
+      "trip_id": "8_17719649",
       "direction_id": "1",
       "headsign": "ROD Pod Dębem",
       "service_id": "8",
@@ -36210,7 +36210,7 @@
       ]
     },
     {
-      "trip_id": "8_17615637",
+      "trip_id": "8_17719650",
       "direction_id": "0",
       "headsign": "LITEWSKA",
       "service_id": "8",
@@ -36308,7 +36308,7 @@
       ]
     },
     {
-      "trip_id": "8_17615638",
+      "trip_id": "8_17719651",
       "direction_id": "1",
       "headsign": "ROD Pod Dębem",
       "service_id": "8",
@@ -36397,7 +36397,7 @@
       ]
     },
     {
-      "trip_id": "8_17615639",
+      "trip_id": "8_17719652",
       "direction_id": "0",
       "headsign": "LITEWSKA",
       "service_id": "8",
@@ -36495,7 +36495,7 @@
       ]
     },
     {
-      "trip_id": "8_17615640",
+      "trip_id": "8_17719653",
       "direction_id": "1",
       "headsign": "ROD Pod Dębem",
       "service_id": "8",
@@ -36584,7 +36584,7 @@
       ]
     },
     {
-      "trip_id": "8_17615641",
+      "trip_id": "8_17719654",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "8",

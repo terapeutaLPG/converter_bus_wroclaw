@@ -2,7 +2,7 @@
   "line": "931",
   "trips": [
     {
-      "trip_id": "3_17618334",
+      "trip_id": "3_17637014",
       "direction_id": "1",
       "headsign": "Kiełczówek - pętla",
       "service_id": "3",
@@ -316,7 +316,7 @@
       ]
     },
     {
-      "trip_id": "3_17618335",
+      "trip_id": "3_17637015",
       "direction_id": "0",
       "headsign": "Godzieszowa - transformator",
       "service_id": "3",
@@ -630,7 +630,7 @@
       ]
     },
     {
-      "trip_id": "3_17618336",
+      "trip_id": "3_17637016",
       "direction_id": "1",
       "headsign": "Kiełczówek - pętla",
       "service_id": "3",
@@ -944,7 +944,7 @@
       ]
     },
     {
-      "trip_id": "3_17618337",
+      "trip_id": "3_17637017",
       "direction_id": "0",
       "headsign": "Godzieszowa - transformator",
       "service_id": "3",
@@ -1258,7 +1258,7 @@
       ]
     },
     {
-      "trip_id": "3_17618338",
+      "trip_id": "3_17637018",
       "direction_id": "1",
       "headsign": "Kiełczówek - pętla",
       "service_id": "3",
@@ -1572,7 +1572,7 @@
       ]
     },
     {
-      "trip_id": "3_17618339",
+      "trip_id": "3_17637019",
       "direction_id": "0",
       "headsign": "Godzieszowa - transformator",
       "service_id": "3",
@@ -1886,7 +1886,7 @@
       ]
     },
     {
-      "trip_id": "3_17618340",
+      "trip_id": "3_17637020",
       "direction_id": "1",
       "headsign": "Kiełczówek - pętla",
       "service_id": "3",
@@ -2200,7 +2200,7 @@
       ]
     },
     {
-      "trip_id": "3_17618341",
+      "trip_id": "3_17637021",
       "direction_id": "0",
       "headsign": "Godzieszowa - transformator",
       "service_id": "3",
@@ -2514,7 +2514,7 @@
       ]
     },
     {
-      "trip_id": "3_17618342",
+      "trip_id": "3_17637022",
       "direction_id": "1",
       "headsign": "Kiełczówek - pętla",
       "service_id": "3",
@@ -2828,7 +2828,7 @@
       ]
     },
     {
-      "trip_id": "3_17618343",
+      "trip_id": "3_17637023",
       "direction_id": "0",
       "headsign": "Godzieszowa - transformator",
       "service_id": "3",
@@ -3142,7 +3142,7 @@
       ]
     },
     {
-      "trip_id": "3_17618344",
+      "trip_id": "3_17637024",
       "direction_id": "1",
       "headsign": "Kiełczówek - pętla",
       "service_id": "3",
@@ -3456,7 +3456,7 @@
       ]
     },
     {
-      "trip_id": "3_17618345",
+      "trip_id": "3_17637025",
       "direction_id": "0",
       "headsign": "Godzieszowa - transformator",
       "service_id": "3",
@@ -3770,7 +3770,7 @@
       ]
     },
     {
-      "trip_id": "3_17618346",
+      "trip_id": "3_17637026",
       "direction_id": "1",
       "headsign": "Kiełczówek - pętla",
       "service_id": "3",
@@ -4084,7 +4084,7 @@
       ]
     },
     {
-      "trip_id": "3_17618347",
+      "trip_id": "3_17637027",
       "direction_id": "0",
       "headsign": "MULICKA",
       "service_id": "3",
@@ -4245,7 +4245,7 @@
       ]
     },
     {
-      "trip_id": "3_17618348",
+      "trip_id": "3_17637028",
       "direction_id": "1",
       "headsign": "Kiełczówek - pętla",
       "service_id": "3",
@@ -4397,7 +4397,7 @@
       ]
     },
     {
-      "trip_id": "3_17618349",
+      "trip_id": "3_17637029",
       "direction_id": "0",
       "headsign": "MULICKA",
       "service_id": "3",
@@ -4558,7 +4558,7 @@
       ]
     },
     {
-      "trip_id": "3_17618350",
+      "trip_id": "3_17637030",
       "direction_id": "1",
       "headsign": "Kiełczówek - pętla",
       "service_id": "3",
@@ -4710,7 +4710,7 @@
       ]
     },
     {
-      "trip_id": "3_17618351",
+      "trip_id": "3_17637031",
       "direction_id": "0",
       "headsign": "MULICKA",
       "service_id": "3",
@@ -4871,7 +4871,7 @@
       ]
     },
     {
-      "trip_id": "3_17618352",
+      "trip_id": "3_17637032",
       "direction_id": "1",
       "headsign": "Kiełczówek - pętla",
       "service_id": "3",
@@ -5023,7 +5023,7 @@
       ]
     },
     {
-      "trip_id": "3_17618355",
+      "trip_id": "3_17637035",
       "direction_id": "1",
       "headsign": "Kiełczówek - pętla",
       "service_id": "3",
@@ -5175,7 +5175,7 @@
       ]
     },
     {
-      "trip_id": "3_17618356",
+      "trip_id": "3_17637036",
       "direction_id": "0",
       "headsign": "MULICKA",
       "service_id": "3",
@@ -5336,7 +5336,7 @@
       ]
     },
     {
-      "trip_id": "3_17618357",
+      "trip_id": "3_17637037",
       "direction_id": "1",
       "headsign": "Kiełczówek - pętla",
       "service_id": "3",
@@ -5488,7 +5488,7 @@
       ]
     },
     {
-      "trip_id": "3_17618358",
+      "trip_id": "3_17637038",
       "direction_id": "0",
       "headsign": "Godzieszowa - transformator",
       "service_id": "3",
@@ -5802,7 +5802,7 @@
       ]
     },
     {
-      "trip_id": "3_17618359",
+      "trip_id": "3_17637039",
       "direction_id": "1",
       "headsign": "Kiełczówek - pętla",
       "service_id": "3",
@@ -6116,7 +6116,7 @@
       ]
     },
     {
-      "trip_id": "3_17618360",
+      "trip_id": "3_17637040",
       "direction_id": "0",
       "headsign": "Godzieszowa - transformator",
       "service_id": "3",
@@ -6430,7 +6430,7 @@
       ]
     },
     {
-      "trip_id": "3_17618361",
+      "trip_id": "3_17637041",
       "direction_id": "1",
       "headsign": "Kiełczówek - pętla",
       "service_id": "3",
@@ -6744,7 +6744,7 @@
       ]
     },
     {
-      "trip_id": "3_17618362",
+      "trip_id": "3_17637042",
       "direction_id": "0",
       "headsign": "Godzieszowa - transformator",
       "service_id": "3",
@@ -7058,7 +7058,7 @@
       ]
     },
     {
-      "trip_id": "3_17618363",
+      "trip_id": "3_17637043",
       "direction_id": "1",
       "headsign": "Kiełczówek - pętla",
       "service_id": "3",
@@ -7372,7 +7372,7 @@
       ]
     },
     {
-      "trip_id": "3_17618364",
+      "trip_id": "3_17637044",
       "direction_id": "0",
       "headsign": "Godzieszowa - transformator",
       "service_id": "3",
@@ -7686,7 +7686,7 @@
       ]
     },
     {
-      "trip_id": "3_17618365",
+      "trip_id": "3_17637045",
       "direction_id": "1",
       "headsign": "Kiełczówek - pętla",
       "service_id": "3",
@@ -8000,7 +8000,7 @@
       ]
     },
     {
-      "trip_id": "3_17618366",
+      "trip_id": "3_17637046",
       "direction_id": "0",
       "headsign": "Godzieszowa - transformator",
       "service_id": "3",
@@ -8314,7 +8314,7 @@
       ]
     },
     {
-      "trip_id": "3_17618367",
+      "trip_id": "3_17637047",
       "direction_id": "1",
       "headsign": "Kiełczówek - pętla",
       "service_id": "3",
@@ -8628,7 +8628,7 @@
       ]
     },
     {
-      "trip_id": "3_17618368",
+      "trip_id": "3_17637048",
       "direction_id": "0",
       "headsign": "Godzieszowa - transformator",
       "service_id": "3",
@@ -8942,7 +8942,7 @@
       ]
     },
     {
-      "trip_id": "3_17618369",
+      "trip_id": "3_17637049",
       "direction_id": "1",
       "headsign": "Kiełczówek - pętla",
       "service_id": "3",
@@ -9256,7 +9256,7 @@
       ]
     },
     {
-      "trip_id": "3_17618370",
+      "trip_id": "3_17637050",
       "direction_id": "0",
       "headsign": "Godzieszowa - transformator",
       "service_id": "3",
@@ -9570,7 +9570,7 @@
       ]
     },
     {
-      "trip_id": "3_17618371",
+      "trip_id": "3_17637051",
       "direction_id": "1",
       "headsign": "Kiełczówek - pętla",
       "service_id": "3",
@@ -9884,7 +9884,7 @@
       ]
     },
     {
-      "trip_id": "3_17618372",
+      "trip_id": "3_17637052",
       "direction_id": "0",
       "headsign": "Godzieszowa - transformator",
       "service_id": "3",
@@ -10198,7 +10198,7 @@
       ]
     },
     {
-      "trip_id": "4_17618823",
+      "trip_id": "4_17637498",
       "direction_id": "1",
       "headsign": "Kiełczówek - pętla",
       "service_id": "4",
@@ -10350,7 +10350,7 @@
       ]
     },
     {
-      "trip_id": "4_17618824",
+      "trip_id": "4_17637499",
       "direction_id": "0",
       "headsign": "MULICKA",
       "service_id": "4",
@@ -10511,7 +10511,7 @@
       ]
     },
     {
-      "trip_id": "4_17618954",
+      "trip_id": "4_17637629",
       "direction_id": "1",
       "headsign": "Kiełczówek - pętla",
       "service_id": "4",
@@ -10663,7 +10663,7 @@
       ]
     },
     {
-      "trip_id": "4_17618955",
+      "trip_id": "4_17637630",
       "direction_id": "0",
       "headsign": "MULICKA",
       "service_id": "4",
@@ -10824,7 +10824,7 @@
       ]
     },
     {
-      "trip_id": "4_17618956",
+      "trip_id": "4_17637631",
       "direction_id": "1",
       "headsign": "Kiełczówek - pętla",
       "service_id": "4",
@@ -10976,7 +10976,7 @@
       ]
     },
     {
-      "trip_id": "4_17618957",
+      "trip_id": "4_17637632",
       "direction_id": "0",
       "headsign": "Godzieszowa - transformator",
       "service_id": "4",
@@ -11290,7 +11290,7 @@
       ]
     },
     {
-      "trip_id": "4_17618958",
+      "trip_id": "4_17637633",
       "direction_id": "1",
       "headsign": "Kiełczówek - pętla",
       "service_id": "4",
@@ -11604,7 +11604,7 @@
       ]
     },
     {
-      "trip_id": "4_17618959",
+      "trip_id": "4_17637634",
       "direction_id": "0",
       "headsign": "Godzieszowa - transformator",
       "service_id": "4",
@@ -11918,7 +11918,7 @@
       ]
     },
     {
-      "trip_id": "4_17618960",
+      "trip_id": "4_17637635",
       "direction_id": "1",
       "headsign": "Kiełczówek - pętla",
       "service_id": "4",
@@ -12232,7 +12232,7 @@
       ]
     },
     {
-      "trip_id": "4_17618961",
+      "trip_id": "4_17637636",
       "direction_id": "0",
       "headsign": "Godzieszowa - transformator",
       "service_id": "4",
@@ -12546,7 +12546,7 @@
       ]
     },
     {
-      "trip_id": "4_17618962",
+      "trip_id": "4_17637637",
       "direction_id": "1",
       "headsign": "Kiełczówek - pętla",
       "service_id": "4",
@@ -12860,7 +12860,7 @@
       ]
     },
     {
-      "trip_id": "4_17618963",
+      "trip_id": "4_17637638",
       "direction_id": "0",
       "headsign": "Godzieszowa - transformator",
       "service_id": "4",
@@ -13174,7 +13174,7 @@
       ]
     },
     {
-      "trip_id": "4_17618964",
+      "trip_id": "4_17637639",
       "direction_id": "1",
       "headsign": "Kiełczówek - pętla",
       "service_id": "4",
@@ -13488,7 +13488,7 @@
       ]
     },
     {
-      "trip_id": "4_17618965",
+      "trip_id": "4_17637640",
       "direction_id": "0",
       "headsign": "Godzieszowa - transformator",
       "service_id": "4",
@@ -13802,7 +13802,7 @@
       ]
     },
     {
-      "trip_id": "4_17618966",
+      "trip_id": "4_17637641",
       "direction_id": "1",
       "headsign": "Kiełczówek - pętla",
       "service_id": "4",
@@ -14116,7 +14116,7 @@
       ]
     },
     {
-      "trip_id": "4_17618967",
+      "trip_id": "4_17637642",
       "direction_id": "0",
       "headsign": "Godzieszowa - transformator",
       "service_id": "4",
@@ -14430,7 +14430,7 @@
       ]
     },
     {
-      "trip_id": "4_17618968",
+      "trip_id": "4_17637643",
       "direction_id": "1",
       "headsign": "Kiełczówek - pętla",
       "service_id": "4",
@@ -14744,7 +14744,7 @@
       ]
     },
     {
-      "trip_id": "4_17618969",
+      "trip_id": "4_17637644",
       "direction_id": "0",
       "headsign": "Godzieszowa - transformator",
       "service_id": "4",
@@ -15058,7 +15058,7 @@
       ]
     },
     {
-      "trip_id": "4_17618970",
+      "trip_id": "4_17637645",
       "direction_id": "1",
       "headsign": "Kiełczówek - pętla",
       "service_id": "4",
@@ -15372,7 +15372,7 @@
       ]
     },
     {
-      "trip_id": "4_17618971",
+      "trip_id": "4_17637646",
       "direction_id": "0",
       "headsign": "Godzieszowa - transformator",
       "service_id": "4",
@@ -15686,7 +15686,7 @@
       ]
     },
     {
-      "trip_id": "4_17619073",
+      "trip_id": "4_17637748",
       "direction_id": "1",
       "headsign": "Kiełczówek - pętla",
       "service_id": "4",
@@ -15838,7 +15838,7 @@
       ]
     },
     {
-      "trip_id": "4_17619074",
+      "trip_id": "4_17637749",
       "direction_id": "0",
       "headsign": "Godzieszowa - transformator",
       "service_id": "4",
@@ -16152,7 +16152,7 @@
       ]
     },
     {
-      "trip_id": "4_17619075",
+      "trip_id": "4_17637750",
       "direction_id": "1",
       "headsign": "Kiełczówek - pętla",
       "service_id": "4",
@@ -16466,7 +16466,7 @@
       ]
     },
     {
-      "trip_id": "4_17619076",
+      "trip_id": "4_17637751",
       "direction_id": "0",
       "headsign": "MULICKA",
       "service_id": "4",
@@ -16627,7 +16627,7 @@
       ]
     },
     {
-      "trip_id": "4_17619077",
+      "trip_id": "4_17637752",
       "direction_id": "1",
       "headsign": "Kiełczówek - pętla",
       "service_id": "4",
@@ -16779,7 +16779,7 @@
       ]
     },
     {
-      "trip_id": "4_17619078",
+      "trip_id": "4_17637753",
       "direction_id": "0",
       "headsign": "MULICKA",
       "service_id": "4",
@@ -16940,7 +16940,7 @@
       ]
     },
     {
-      "trip_id": "4_17619079",
+      "trip_id": "4_17637754",
       "direction_id": "1",
       "headsign": "Kiełczówek - pętla",
       "service_id": "4",
@@ -17092,7 +17092,7 @@
       ]
     },
     {
-      "trip_id": "4_17619080",
+      "trip_id": "4_17637755",
       "direction_id": "0",
       "headsign": "MULICKA",
       "service_id": "4",
@@ -17253,7 +17253,7 @@
       ]
     },
     {
-      "trip_id": "4_17619081",
+      "trip_id": "4_17637756",
       "direction_id": "1",
       "headsign": "Kiełczówek - pętla",
       "service_id": "4",
@@ -17405,7 +17405,7 @@
       ]
     },
     {
-      "trip_id": "4_17619082",
+      "trip_id": "4_17637757",
       "direction_id": "0",
       "headsign": "Godzieszowa - transformator",
       "service_id": "4",
@@ -17719,7 +17719,7 @@
       ]
     },
     {
-      "trip_id": "4_17619083",
+      "trip_id": "4_17637758",
       "direction_id": "1",
       "headsign": "Kiełczówek - pętla",
       "service_id": "4",
@@ -18033,7 +18033,7 @@
       ]
     },
     {
-      "trip_id": "4_17619084",
+      "trip_id": "4_17637759",
       "direction_id": "0",
       "headsign": "Godzieszowa - transformator",
       "service_id": "4",
@@ -18347,7 +18347,7 @@
       ]
     },
     {
-      "trip_id": "4_17619085",
+      "trip_id": "4_17637760",
       "direction_id": "1",
       "headsign": "Kiełczówek - pętla",
       "service_id": "4",
@@ -18661,7 +18661,7 @@
       ]
     },
     {
-      "trip_id": "4_17619086",
+      "trip_id": "4_17637761",
       "direction_id": "0",
       "headsign": "Godzieszowa - transformator",
       "service_id": "4",
@@ -18975,7 +18975,7 @@
       ]
     },
     {
-      "trip_id": "4_17619087",
+      "trip_id": "4_17637762",
       "direction_id": "1",
       "headsign": "Kiełczówek - pętla",
       "service_id": "4",
@@ -19289,7 +19289,7 @@
       ]
     },
     {
-      "trip_id": "4_17619088",
+      "trip_id": "4_17637763",
       "direction_id": "0",
       "headsign": "MULICKA",
       "service_id": "4",
@@ -19450,7 +19450,7 @@
       ]
     },
     {
-      "trip_id": "4_17619089",
+      "trip_id": "4_17637764",
       "direction_id": "1",
       "headsign": "Kiełczówek - pętla",
       "service_id": "4",
@@ -19602,7 +19602,7 @@
       ]
     },
     {
-      "trip_id": "4_17619090",
+      "trip_id": "4_17637765",
       "direction_id": "0",
       "headsign": "MULICKA",
       "service_id": "4",
@@ -19763,7 +19763,7 @@
       ]
     },
     {
-      "trip_id": "6_17619573",
+      "trip_id": "6_17638248",
       "direction_id": "0",
       "headsign": "Godzieszowa - transformator",
       "service_id": "6",
@@ -20077,7 +20077,7 @@
       ]
     },
     {
-      "trip_id": "6_17619574",
+      "trip_id": "6_17638249",
       "direction_id": "1",
       "headsign": "Kiełczówek - pętla",
       "service_id": "6",
@@ -20391,7 +20391,7 @@
       ]
     },
     {
-      "trip_id": "6_17619575",
+      "trip_id": "6_17638250",
       "direction_id": "0",
       "headsign": "Godzieszowa - transformator",
       "service_id": "6",
@@ -20705,7 +20705,7 @@
       ]
     },
     {
-      "trip_id": "6_17619576",
+      "trip_id": "6_17638251",
       "direction_id": "1",
       "headsign": "Kiełczówek - pętla",
       "service_id": "6",
@@ -21019,7 +21019,7 @@
       ]
     },
     {
-      "trip_id": "6_17619577",
+      "trip_id": "6_17638252",
       "direction_id": "0",
       "headsign": "Godzieszowa - transformator",
       "service_id": "6",
@@ -21333,7 +21333,7 @@
       ]
     },
     {
-      "trip_id": "6_17619578",
+      "trip_id": "6_17638253",
       "direction_id": "1",
       "headsign": "Kiełczówek - pętla",
       "service_id": "6",
@@ -21647,7 +21647,7 @@
       ]
     },
     {
-      "trip_id": "6_17619579",
+      "trip_id": "6_17638254",
       "direction_id": "0",
       "headsign": "Godzieszowa - transformator",
       "service_id": "6",
@@ -21961,7 +21961,7 @@
       ]
     },
     {
-      "trip_id": "6_17619580",
+      "trip_id": "6_17638255",
       "direction_id": "1",
       "headsign": "Kiełczówek - pętla",
       "service_id": "6",
@@ -22275,7 +22275,7 @@
       ]
     },
     {
-      "trip_id": "6_17619581",
+      "trip_id": "6_17638256",
       "direction_id": "0",
       "headsign": "Godzieszowa - transformator",
       "service_id": "6",
@@ -22589,7 +22589,7 @@
       ]
     },
     {
-      "trip_id": "6_17619582",
+      "trip_id": "6_17638257",
       "direction_id": "1",
       "headsign": "Kiełczówek - pętla",
       "service_id": "6",
@@ -22903,7 +22903,7 @@
       ]
     },
     {
-      "trip_id": "6_17619679",
+      "trip_id": "6_17638354",
       "direction_id": "0",
       "headsign": "Godzieszowa - transformator",
       "service_id": "6",
@@ -23217,7 +23217,7 @@
       ]
     },
     {
-      "trip_id": "6_17619680",
+      "trip_id": "6_17638355",
       "direction_id": "1",
       "headsign": "Kiełczówek - pętla",
       "service_id": "6",
@@ -23531,7 +23531,7 @@
       ]
     },
     {
-      "trip_id": "6_17619681",
+      "trip_id": "6_17638356",
       "direction_id": "0",
       "headsign": "Godzieszowa - transformator",
       "service_id": "6",
@@ -23845,7 +23845,7 @@
       ]
     },
     {
-      "trip_id": "6_17619682",
+      "trip_id": "6_17638357",
       "direction_id": "1",
       "headsign": "Kiełczówek - pętla",
       "service_id": "6",
@@ -24159,7 +24159,7 @@
       ]
     },
     {
-      "trip_id": "6_17619683",
+      "trip_id": "6_17638358",
       "direction_id": "0",
       "headsign": "MULICKA",
       "service_id": "6",
@@ -24320,7 +24320,7 @@
       ]
     },
     {
-      "trip_id": "6_17619684",
+      "trip_id": "6_17638359",
       "direction_id": "1",
       "headsign": "Kiełczówek - pętla",
       "service_id": "6",
@@ -24472,7 +24472,7 @@
       ]
     },
     {
-      "trip_id": "6_17619685",
+      "trip_id": "6_17638360",
       "direction_id": "0",
       "headsign": "MULICKA",
       "service_id": "6",
@@ -24633,7 +24633,7 @@
       ]
     },
     {
-      "trip_id": "6_17619686",
+      "trip_id": "6_17638361",
       "direction_id": "1",
       "headsign": "Kiełczówek - pętla",
       "service_id": "6",
@@ -24785,7 +24785,7 @@
       ]
     },
     {
-      "trip_id": "6_17619687",
+      "trip_id": "6_17638362",
       "direction_id": "0",
       "headsign": "MULICKA",
       "service_id": "6",
@@ -24946,7 +24946,7 @@
       ]
     },
     {
-      "trip_id": "6_17619688",
+      "trip_id": "6_17638363",
       "direction_id": "1",
       "headsign": "Kiełczówek - pętla",
       "service_id": "6",
@@ -25098,7 +25098,7 @@
       ]
     },
     {
-      "trip_id": "6_17619689",
+      "trip_id": "6_17638364",
       "direction_id": "0",
       "headsign": "Godzieszowa - transformator",
       "service_id": "6",
@@ -25412,7 +25412,7 @@
       ]
     },
     {
-      "trip_id": "6_17619690",
+      "trip_id": "6_17638365",
       "direction_id": "1",
       "headsign": "Kiełczówek - pętla",
       "service_id": "6",
@@ -25726,7 +25726,7 @@
       ]
     },
     {
-      "trip_id": "6_17619691",
+      "trip_id": "6_17638366",
       "direction_id": "0",
       "headsign": "Godzieszowa - transformator",
       "service_id": "6",
@@ -26040,7 +26040,7 @@
       ]
     },
     {
-      "trip_id": "6_17619692",
+      "trip_id": "6_17638367",
       "direction_id": "1",
       "headsign": "Kiełczówek - pętla",
       "service_id": "6",
@@ -26354,7 +26354,7 @@
       ]
     },
     {
-      "trip_id": "6_17619693",
+      "trip_id": "6_17638368",
       "direction_id": "0",
       "headsign": "Godzieszowa - transformator",
       "service_id": "6",
@@ -26668,7 +26668,7 @@
       ]
     },
     {
-      "trip_id": "6_17619694",
+      "trip_id": "6_17638369",
       "direction_id": "1",
       "headsign": "Kiełczówek - pętla",
       "service_id": "6",
@@ -26982,7 +26982,7 @@
       ]
     },
     {
-      "trip_id": "6_17619695",
+      "trip_id": "6_17638370",
       "direction_id": "0",
       "headsign": "Godzieszowa - transformator",
       "service_id": "6",
@@ -27296,7 +27296,7 @@
       ]
     },
     {
-      "trip_id": "6_17619696",
+      "trip_id": "6_17638371",
       "direction_id": "1",
       "headsign": "Kiełczówek - pętla",
       "service_id": "6",
@@ -27610,7 +27610,7 @@
       ]
     },
     {
-      "trip_id": "6_17619697",
+      "trip_id": "6_17638372",
       "direction_id": "0",
       "headsign": "Godzieszowa - transformator",
       "service_id": "6",
@@ -27924,7 +27924,7 @@
       ]
     },
     {
-      "trip_id": "6_17619699",
+      "trip_id": "6_17638374",
       "direction_id": "1",
       "headsign": "Kiełczówek - pętla",
       "service_id": "6",
@@ -28238,7 +28238,7 @@
       ]
     },
     {
-      "trip_id": "6_17619700",
+      "trip_id": "6_17638375",
       "direction_id": "0",
       "headsign": "Godzieszowa - transformator",
       "service_id": "6",
@@ -28552,7 +28552,7 @@
       ]
     },
     {
-      "trip_id": "6_17619701",
+      "trip_id": "6_17638376",
       "direction_id": "1",
       "headsign": "Kiełczówek - pętla",
       "service_id": "6",
@@ -28866,7 +28866,7 @@
       ]
     },
     {
-      "trip_id": "6_17619702",
+      "trip_id": "6_17638377",
       "direction_id": "0",
       "headsign": "Godzieszowa - transformator",
       "service_id": "6",
@@ -29180,7 +29180,7 @@
       ]
     },
     {
-      "trip_id": "6_17619703",
+      "trip_id": "6_17638378",
       "direction_id": "1",
       "headsign": "Kiełczówek - pętla",
       "service_id": "6",
@@ -29494,7 +29494,7 @@
       ]
     },
     {
-      "trip_id": "6_17619704",
+      "trip_id": "6_17638379",
       "direction_id": "0",
       "headsign": "Godzieszowa - transformator",
       "service_id": "6",
@@ -29808,7 +29808,7 @@
       ]
     },
     {
-      "trip_id": "6_17619705",
+      "trip_id": "6_17638380",
       "direction_id": "1",
       "headsign": "Kiełczówek - pętla",
       "service_id": "6",
@@ -30122,7 +30122,7 @@
       ]
     },
     {
-      "trip_id": "6_17619959",
+      "trip_id": "6_17638634",
       "direction_id": "1",
       "headsign": "Kiełczówek - pętla",
       "service_id": "6",
@@ -30436,7 +30436,7 @@
       ]
     },
     {
-      "trip_id": "6_17619960",
+      "trip_id": "6_17638635",
       "direction_id": "0",
       "headsign": "Godzieszowa - transformator",
       "service_id": "6",
@@ -30750,7 +30750,7 @@
       ]
     },
     {
-      "trip_id": "6_17619961",
+      "trip_id": "6_17638636",
       "direction_id": "1",
       "headsign": "Kiełczówek - pętla",
       "service_id": "6",
@@ -31064,7 +31064,7 @@
       ]
     },
     {
-      "trip_id": "6_17619962",
+      "trip_id": "6_17638637",
       "direction_id": "0",
       "headsign": "MULICKA",
       "service_id": "6",
@@ -31225,7 +31225,7 @@
       ]
     },
     {
-      "trip_id": "6_17619963",
+      "trip_id": "6_17638638",
       "direction_id": "1",
       "headsign": "Kiełczów - pętla (Plac Jana Gdaka)",
       "service_id": "6",
@@ -31332,7 +31332,7 @@
       ]
     },
     {
-      "trip_id": "6_17620054",
+      "trip_id": "6_17638729",
       "direction_id": "1",
       "headsign": "Kiełczówek - pętla",
       "service_id": "6",
@@ -31646,7 +31646,7 @@
       ]
     },
     {
-      "trip_id": "6_17620055",
+      "trip_id": "6_17638730",
       "direction_id": "0",
       "headsign": "Godzieszowa - transformator",
       "service_id": "6",
@@ -31960,7 +31960,7 @@
       ]
     },
     {
-      "trip_id": "6_17620056",
+      "trip_id": "6_17638731",
       "direction_id": "1",
       "headsign": "Kiełczówek - pętla",
       "service_id": "6",
@@ -32274,7 +32274,7 @@
       ]
     },
     {
-      "trip_id": "6_17620057",
+      "trip_id": "6_17638732",
       "direction_id": "0",
       "headsign": "Godzieszowa - transformator",
       "service_id": "6",
@@ -32588,7 +32588,7 @@
       ]
     },
     {
-      "trip_id": "6_17620058",
+      "trip_id": "6_17638733",
       "direction_id": "1",
       "headsign": "Kiełczówek - pętla",
       "service_id": "6",
@@ -32902,7 +32902,7 @@
       ]
     },
     {
-      "trip_id": "6_17620059",
+      "trip_id": "6_17638734",
       "direction_id": "0",
       "headsign": "MULICKA",
       "service_id": "6",
@@ -33063,7 +33063,7 @@
       ]
     },
     {
-      "trip_id": "6_17620060",
+      "trip_id": "6_17638735",
       "direction_id": "1",
       "headsign": "Kiełczówek - pętla",
       "service_id": "6",
@@ -33215,7 +33215,7 @@
       ]
     },
     {
-      "trip_id": "6_17620061",
+      "trip_id": "6_17638736",
       "direction_id": "0",
       "headsign": "MULICKA",
       "service_id": "6",
@@ -33376,7 +33376,7 @@
       ]
     },
     {
-      "trip_id": "6_17620062",
+      "trip_id": "6_17638737",
       "direction_id": "1",
       "headsign": "Kiełczówek - pętla",
       "service_id": "6",
@@ -33528,7 +33528,7 @@
       ]
     },
     {
-      "trip_id": "6_17620063",
+      "trip_id": "6_17638738",
       "direction_id": "0",
       "headsign": "MULICKA",
       "service_id": "6",
@@ -33689,7 +33689,7 @@
       ]
     },
     {
-      "trip_id": "6_17620064",
+      "trip_id": "6_17638739",
       "direction_id": "1",
       "headsign": "Kiełczówek - pętla",
       "service_id": "6",
@@ -33841,7 +33841,7 @@
       ]
     },
     {
-      "trip_id": "6_17620065",
+      "trip_id": "6_17638740",
       "direction_id": "0",
       "headsign": "MULICKA",
       "service_id": "6",
@@ -34002,7 +34002,7 @@
       ]
     },
     {
-      "trip_id": "6_17620066",
+      "trip_id": "6_17638741",
       "direction_id": "1",
       "headsign": "Kiełczówek - pętla",
       "service_id": "6",
@@ -34154,7 +34154,7 @@
       ]
     },
     {
-      "trip_id": "6_17620067",
+      "trip_id": "6_17638742",
       "direction_id": "0",
       "headsign": "MULICKA",
       "service_id": "6",
@@ -34315,7 +34315,7 @@
       ]
     },
     {
-      "trip_id": "6_17620068",
+      "trip_id": "6_17638743",
       "direction_id": "1",
       "headsign": "Kiełczówek - pętla",
       "service_id": "6",
@@ -34467,7 +34467,7 @@
       ]
     },
     {
-      "trip_id": "6_17620069",
+      "trip_id": "6_17638744",
       "direction_id": "0",
       "headsign": "MULICKA",
       "service_id": "6",
@@ -34628,7 +34628,7 @@
       ]
     },
     {
-      "trip_id": "6_17620070",
+      "trip_id": "6_17638745",
       "direction_id": "1",
       "headsign": "Kiełczówek - pętla",
       "service_id": "6",
@@ -34780,7 +34780,7 @@
       ]
     },
     {
-      "trip_id": "6_17620071",
+      "trip_id": "6_17638746",
       "direction_id": "0",
       "headsign": "MULICKA",
       "service_id": "6",
@@ -34941,7 +34941,7 @@
       ]
     },
     {
-      "trip_id": "6_17620072",
+      "trip_id": "6_17638747",
       "direction_id": "1",
       "headsign": "Kiełczówek - pętla",
       "service_id": "6",
@@ -35093,7 +35093,7 @@
       ]
     },
     {
-      "trip_id": "6_17620073",
+      "trip_id": "6_17638748",
       "direction_id": "0",
       "headsign": "MULICKA",
       "service_id": "6",
@@ -35254,7 +35254,7 @@
       ]
     },
     {
-      "trip_id": "6_17620074",
+      "trip_id": "6_17638749",
       "direction_id": "1",
       "headsign": "Kiełczówek - pętla",
       "service_id": "6",
@@ -35406,7 +35406,7 @@
       ]
     },
     {
-      "trip_id": "6_17620075",
+      "trip_id": "6_17638750",
       "direction_id": "1",
       "headsign": "Kiełczówek - pętla",
       "service_id": "6",
@@ -35720,7 +35720,7 @@
       ]
     },
     {
-      "trip_id": "6_17620076",
+      "trip_id": "6_17638751",
       "direction_id": "0",
       "headsign": "Godzieszowa - transformator",
       "service_id": "6",
@@ -36034,7 +36034,7 @@
       ]
     },
     {
-      "trip_id": "8_17620619",
+      "trip_id": "8_17639294",
       "direction_id": "0",
       "headsign": "Godzieszowa - transformator",
       "service_id": "8",
@@ -36348,7 +36348,7 @@
       ]
     },
     {
-      "trip_id": "8_17620620",
+      "trip_id": "8_17639295",
       "direction_id": "1",
       "headsign": "Kiełczówek - pętla",
       "service_id": "8",
@@ -36662,7 +36662,7 @@
       ]
     },
     {
-      "trip_id": "8_17620621",
+      "trip_id": "8_17639296",
       "direction_id": "0",
       "headsign": "Godzieszowa - transformator",
       "service_id": "8",
@@ -36976,7 +36976,7 @@
       ]
     },
     {
-      "trip_id": "8_17620622",
+      "trip_id": "8_17639297",
       "direction_id": "1",
       "headsign": "Kiełczówek - pętla",
       "service_id": "8",
@@ -37290,7 +37290,7 @@
       ]
     },
     {
-      "trip_id": "8_17620623",
+      "trip_id": "8_17639298",
       "direction_id": "0",
       "headsign": "Godzieszowa - transformator",
       "service_id": "8",
@@ -37604,7 +37604,7 @@
       ]
     },
     {
-      "trip_id": "8_17620624",
+      "trip_id": "8_17639299",
       "direction_id": "1",
       "headsign": "Kiełczówek - pętla",
       "service_id": "8",
@@ -37918,7 +37918,7 @@
       ]
     },
     {
-      "trip_id": "8_17620625",
+      "trip_id": "8_17639300",
       "direction_id": "0",
       "headsign": "Godzieszowa - transformator",
       "service_id": "8",
@@ -38232,7 +38232,7 @@
       ]
     },
     {
-      "trip_id": "8_17620626",
+      "trip_id": "8_17639301",
       "direction_id": "1",
       "headsign": "Kiełczówek - pętla",
       "service_id": "8",
@@ -38546,7 +38546,7 @@
       ]
     },
     {
-      "trip_id": "8_17620627",
+      "trip_id": "8_17639302",
       "direction_id": "0",
       "headsign": "Godzieszowa - transformator",
       "service_id": "8",
@@ -38860,7 +38860,7 @@
       ]
     },
     {
-      "trip_id": "8_17620628",
+      "trip_id": "8_17639303",
       "direction_id": "1",
       "headsign": "Kiełczówek - pętla",
       "service_id": "8",
@@ -39174,7 +39174,7 @@
       ]
     },
     {
-      "trip_id": "8_17620725",
+      "trip_id": "8_17639400",
       "direction_id": "0",
       "headsign": "Godzieszowa - transformator",
       "service_id": "8",
@@ -39488,7 +39488,7 @@
       ]
     },
     {
-      "trip_id": "8_17620726",
+      "trip_id": "8_17639401",
       "direction_id": "1",
       "headsign": "Kiełczówek - pętla",
       "service_id": "8",
@@ -39802,7 +39802,7 @@
       ]
     },
     {
-      "trip_id": "8_17620727",
+      "trip_id": "8_17639402",
       "direction_id": "0",
       "headsign": "Godzieszowa - transformator",
       "service_id": "8",
@@ -40116,7 +40116,7 @@
       ]
     },
     {
-      "trip_id": "8_17620728",
+      "trip_id": "8_17639403",
       "direction_id": "1",
       "headsign": "Kiełczówek - pętla",
       "service_id": "8",
@@ -40430,7 +40430,7 @@
       ]
     },
     {
-      "trip_id": "8_17620729",
+      "trip_id": "8_17639404",
       "direction_id": "0",
       "headsign": "MULICKA",
       "service_id": "8",
@@ -40591,7 +40591,7 @@
       ]
     },
     {
-      "trip_id": "8_17620730",
+      "trip_id": "8_17639405",
       "direction_id": "1",
       "headsign": "Kiełczówek - pętla",
       "service_id": "8",
@@ -40743,7 +40743,7 @@
       ]
     },
     {
-      "trip_id": "8_17620731",
+      "trip_id": "8_17639406",
       "direction_id": "0",
       "headsign": "MULICKA",
       "service_id": "8",
@@ -40904,7 +40904,7 @@
       ]
     },
     {
-      "trip_id": "8_17620732",
+      "trip_id": "8_17639407",
       "direction_id": "1",
       "headsign": "Kiełczówek - pętla",
       "service_id": "8",
@@ -41056,7 +41056,7 @@
       ]
     },
     {
-      "trip_id": "8_17620733",
+      "trip_id": "8_17639408",
       "direction_id": "0",
       "headsign": "MULICKA",
       "service_id": "8",
@@ -41217,7 +41217,7 @@
       ]
     },
     {
-      "trip_id": "8_17620734",
+      "trip_id": "8_17639409",
       "direction_id": "1",
       "headsign": "Kiełczówek - pętla",
       "service_id": "8",
@@ -41369,7 +41369,7 @@
       ]
     },
     {
-      "trip_id": "8_17620735",
+      "trip_id": "8_17639410",
       "direction_id": "0",
       "headsign": "Godzieszowa - transformator",
       "service_id": "8",
@@ -41683,7 +41683,7 @@
       ]
     },
     {
-      "trip_id": "8_17620736",
+      "trip_id": "8_17639411",
       "direction_id": "1",
       "headsign": "Kiełczówek - pętla",
       "service_id": "8",
@@ -41997,7 +41997,7 @@
       ]
     },
     {
-      "trip_id": "8_17620737",
+      "trip_id": "8_17639412",
       "direction_id": "0",
       "headsign": "Godzieszowa - transformator",
       "service_id": "8",
@@ -42311,7 +42311,7 @@
       ]
     },
     {
-      "trip_id": "8_17620738",
+      "trip_id": "8_17639413",
       "direction_id": "1",
       "headsign": "Kiełczówek - pętla",
       "service_id": "8",
@@ -42625,7 +42625,7 @@
       ]
     },
     {
-      "trip_id": "8_17620739",
+      "trip_id": "8_17639414",
       "direction_id": "0",
       "headsign": "Godzieszowa - transformator",
       "service_id": "8",
@@ -42939,7 +42939,7 @@
       ]
     },
     {
-      "trip_id": "8_17620740",
+      "trip_id": "8_17639415",
       "direction_id": "1",
       "headsign": "Kiełczówek - pętla",
       "service_id": "8",
@@ -43253,7 +43253,7 @@
       ]
     },
     {
-      "trip_id": "8_17620741",
+      "trip_id": "8_17639416",
       "direction_id": "0",
       "headsign": "Godzieszowa - transformator",
       "service_id": "8",
@@ -43567,7 +43567,7 @@
       ]
     },
     {
-      "trip_id": "8_17620742",
+      "trip_id": "8_17639417",
       "direction_id": "1",
       "headsign": "Kiełczówek - pętla",
       "service_id": "8",
@@ -43881,7 +43881,7 @@
       ]
     },
     {
-      "trip_id": "8_17620743",
+      "trip_id": "8_17639418",
       "direction_id": "0",
       "headsign": "Godzieszowa - transformator",
       "service_id": "8",
@@ -44195,7 +44195,7 @@
       ]
     },
     {
-      "trip_id": "8_17620745",
+      "trip_id": "8_17639420",
       "direction_id": "1",
       "headsign": "Kiełczówek - pętla",
       "service_id": "8",
@@ -44509,7 +44509,7 @@
       ]
     },
     {
-      "trip_id": "8_17620746",
+      "trip_id": "8_17639421",
       "direction_id": "0",
       "headsign": "Godzieszowa - transformator",
       "service_id": "8",
@@ -44823,7 +44823,7 @@
       ]
     },
     {
-      "trip_id": "8_17620747",
+      "trip_id": "8_17639422",
       "direction_id": "1",
       "headsign": "Kiełczówek - pętla",
       "service_id": "8",
@@ -45137,7 +45137,7 @@
       ]
     },
     {
-      "trip_id": "8_17620748",
+      "trip_id": "8_17639423",
       "direction_id": "0",
       "headsign": "Godzieszowa - transformator",
       "service_id": "8",
@@ -45451,7 +45451,7 @@
       ]
     },
     {
-      "trip_id": "8_17620749",
+      "trip_id": "8_17639424",
       "direction_id": "1",
       "headsign": "Kiełczówek - pętla",
       "service_id": "8",
@@ -45765,7 +45765,7 @@
       ]
     },
     {
-      "trip_id": "8_17620750",
+      "trip_id": "8_17639425",
       "direction_id": "0",
       "headsign": "Godzieszowa - transformator",
       "service_id": "8",
@@ -46079,7 +46079,7 @@
       ]
     },
     {
-      "trip_id": "8_17620751",
+      "trip_id": "8_17639426",
       "direction_id": "1",
       "headsign": "Kiełczówek - pętla",
       "service_id": "8",
@@ -46393,7 +46393,7 @@
       ]
     },
     {
-      "trip_id": "8_17621005",
+      "trip_id": "8_17639680",
       "direction_id": "1",
       "headsign": "Kiełczówek - pętla",
       "service_id": "8",
@@ -46707,7 +46707,7 @@
       ]
     },
     {
-      "trip_id": "8_17621006",
+      "trip_id": "8_17639681",
       "direction_id": "0",
       "headsign": "Godzieszowa - transformator",
       "service_id": "8",
@@ -47021,7 +47021,7 @@
       ]
     },
     {
-      "trip_id": "8_17621007",
+      "trip_id": "8_17639682",
       "direction_id": "1",
       "headsign": "Kiełczówek - pętla",
       "service_id": "8",
@@ -47335,7 +47335,7 @@
       ]
     },
     {
-      "trip_id": "8_17621008",
+      "trip_id": "8_17639683",
       "direction_id": "0",
       "headsign": "MULICKA",
       "service_id": "8",
@@ -47496,7 +47496,7 @@
       ]
     },
     {
-      "trip_id": "8_17621009",
+      "trip_id": "8_17639684",
       "direction_id": "1",
       "headsign": "Kiełczów - pętla (Plac Jana Gdaka)",
       "service_id": "8",
@@ -47603,7 +47603,7 @@
       ]
     },
     {
-      "trip_id": "8_17621100",
+      "trip_id": "8_17639775",
       "direction_id": "1",
       "headsign": "Kiełczówek - pętla",
       "service_id": "8",
@@ -47917,7 +47917,7 @@
       ]
     },
     {
-      "trip_id": "8_17621101",
+      "trip_id": "8_17639776",
       "direction_id": "0",
       "headsign": "Godzieszowa - transformator",
       "service_id": "8",
@@ -48231,7 +48231,7 @@
       ]
     },
     {
-      "trip_id": "8_17621102",
+      "trip_id": "8_17639777",
       "direction_id": "1",
       "headsign": "Kiełczówek - pętla",
       "service_id": "8",
@@ -48545,7 +48545,7 @@
       ]
     },
     {
-      "trip_id": "8_17621103",
+      "trip_id": "8_17639778",
       "direction_id": "0",
       "headsign": "Godzieszowa - transformator",
       "service_id": "8",
@@ -48859,7 +48859,7 @@
       ]
     },
     {
-      "trip_id": "8_17621104",
+      "trip_id": "8_17639779",
       "direction_id": "1",
       "headsign": "Kiełczówek - pętla",
       "service_id": "8",
@@ -49173,7 +49173,7 @@
       ]
     },
     {
-      "trip_id": "8_17621105",
+      "trip_id": "8_17639780",
       "direction_id": "0",
       "headsign": "MULICKA",
       "service_id": "8",
@@ -49334,7 +49334,7 @@
       ]
     },
     {
-      "trip_id": "8_17621106",
+      "trip_id": "8_17639781",
       "direction_id": "1",
       "headsign": "Kiełczówek - pętla",
       "service_id": "8",
@@ -49486,7 +49486,7 @@
       ]
     },
     {
-      "trip_id": "8_17621107",
+      "trip_id": "8_17639782",
       "direction_id": "0",
       "headsign": "MULICKA",
       "service_id": "8",
@@ -49647,7 +49647,7 @@
       ]
     },
     {
-      "trip_id": "8_17621108",
+      "trip_id": "8_17639783",
       "direction_id": "1",
       "headsign": "Kiełczówek - pętla",
       "service_id": "8",
@@ -49799,7 +49799,7 @@
       ]
     },
     {
-      "trip_id": "8_17621109",
+      "trip_id": "8_17639784",
       "direction_id": "0",
       "headsign": "MULICKA",
       "service_id": "8",
@@ -49960,7 +49960,7 @@
       ]
     },
     {
-      "trip_id": "8_17621110",
+      "trip_id": "8_17639785",
       "direction_id": "1",
       "headsign": "Kiełczówek - pętla",
       "service_id": "8",
@@ -50112,7 +50112,7 @@
       ]
     },
     {
-      "trip_id": "8_17621111",
+      "trip_id": "8_17639786",
       "direction_id": "0",
       "headsign": "MULICKA",
       "service_id": "8",
@@ -50273,7 +50273,7 @@
       ]
     },
     {
-      "trip_id": "8_17621112",
+      "trip_id": "8_17639787",
       "direction_id": "1",
       "headsign": "Kiełczówek - pętla",
       "service_id": "8",
@@ -50425,7 +50425,7 @@
       ]
     },
     {
-      "trip_id": "8_17621113",
+      "trip_id": "8_17639788",
       "direction_id": "0",
       "headsign": "MULICKA",
       "service_id": "8",
@@ -50586,7 +50586,7 @@
       ]
     },
     {
-      "trip_id": "8_17621114",
+      "trip_id": "8_17639789",
       "direction_id": "1",
       "headsign": "Kiełczówek - pętla",
       "service_id": "8",
@@ -50738,7 +50738,7 @@
       ]
     },
     {
-      "trip_id": "8_17621115",
+      "trip_id": "8_17639790",
       "direction_id": "0",
       "headsign": "MULICKA",
       "service_id": "8",
@@ -50899,7 +50899,7 @@
       ]
     },
     {
-      "trip_id": "8_17621116",
+      "trip_id": "8_17639791",
       "direction_id": "1",
       "headsign": "Kiełczówek - pętla",
       "service_id": "8",
@@ -51051,7 +51051,7 @@
       ]
     },
     {
-      "trip_id": "8_17621117",
+      "trip_id": "8_17639792",
       "direction_id": "0",
       "headsign": "MULICKA",
       "service_id": "8",
@@ -51212,7 +51212,7 @@
       ]
     },
     {
-      "trip_id": "8_17621118",
+      "trip_id": "8_17639793",
       "direction_id": "1",
       "headsign": "Kiełczówek - pętla",
       "service_id": "8",
@@ -51364,7 +51364,7 @@
       ]
     },
     {
-      "trip_id": "8_17621119",
+      "trip_id": "8_17639794",
       "direction_id": "0",
       "headsign": "MULICKA",
       "service_id": "8",
@@ -51525,7 +51525,7 @@
       ]
     },
     {
-      "trip_id": "8_17621120",
+      "trip_id": "8_17639795",
       "direction_id": "1",
       "headsign": "Kiełczówek - pętla",
       "service_id": "8",
@@ -51677,7 +51677,7 @@
       ]
     },
     {
-      "trip_id": "8_17621121",
+      "trip_id": "8_17639796",
       "direction_id": "1",
       "headsign": "Kiełczówek - pętla",
       "service_id": "8",
@@ -51991,7 +51991,7 @@
       ]
     },
     {
-      "trip_id": "8_17621122",
+      "trip_id": "8_17639797",
       "direction_id": "0",
       "headsign": "Godzieszowa - transformator",
       "service_id": "8",

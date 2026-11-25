@@ -2,7 +2,7 @@
   "line": "921",
   "trips": [
     {
-      "trip_id": "3_17618230",
+      "trip_id": "3_17636910",
       "direction_id": "1",
       "headsign": "Śliwice",
       "service_id": "3",
@@ -82,7 +82,7 @@
       ]
     },
     {
-      "trip_id": "3_17618231",
+      "trip_id": "3_17636911",
       "direction_id": "0",
       "headsign": "KIEŁCZOWSKA (Cmentarz)",
       "service_id": "3",
@@ -153,7 +153,7 @@
       ]
     },
     {
-      "trip_id": "3_17618236",
+      "trip_id": "3_17636916",
       "direction_id": "1",
       "headsign": "Śliwice",
       "service_id": "3",
@@ -233,7 +233,7 @@
       ]
     },
     {
-      "trip_id": "3_17618237",
+      "trip_id": "3_17636917",
       "direction_id": "0",
       "headsign": "KIEŁCZOWSKA (Cmentarz)",
       "service_id": "3",
@@ -304,7 +304,7 @@
       ]
     },
     {
-      "trip_id": "3_17618240",
+      "trip_id": "3_17636920",
       "direction_id": "1",
       "headsign": "Śliwice",
       "service_id": "3",
@@ -384,7 +384,7 @@
       ]
     },
     {
-      "trip_id": "3_17618241",
+      "trip_id": "3_17636921",
       "direction_id": "0",
       "headsign": "KIEŁCZOWSKA (Cmentarz)",
       "service_id": "3",
@@ -455,7 +455,7 @@
       ]
     },
     {
-      "trip_id": "3_17618244",
+      "trip_id": "3_17636924",
       "direction_id": "1",
       "headsign": "Śliwice",
       "service_id": "3",
@@ -535,7 +535,7 @@
       ]
     },
     {
-      "trip_id": "3_17618245",
+      "trip_id": "3_17636925",
       "direction_id": "0",
       "headsign": "KIEŁCZOWSKA (Cmentarz)",
       "service_id": "3",
@@ -606,7 +606,7 @@
       ]
     },
     {
-      "trip_id": "3_17618248",
+      "trip_id": "3_17636928",
       "direction_id": "1",
       "headsign": "Śliwice",
       "service_id": "3",
@@ -686,7 +686,7 @@
       ]
     },
     {
-      "trip_id": "3_17618249",
+      "trip_id": "3_17636929",
       "direction_id": "0",
       "headsign": "KIEŁCZOWSKA (Cmentarz)",
       "service_id": "3",
@@ -757,7 +757,7 @@
       ]
     },
     {
-      "trip_id": "3_17618252",
+      "trip_id": "3_17636932",
       "direction_id": "1",
       "headsign": "Śliwice",
       "service_id": "3",
@@ -837,7 +837,7 @@
       ]
     },
     {
-      "trip_id": "3_17618253",
+      "trip_id": "3_17636933",
       "direction_id": "0",
       "headsign": "KIEŁCZOWSKA (Cmentarz)",
       "service_id": "3",
@@ -908,7 +908,7 @@
       ]
     },
     {
-      "trip_id": "3_17618256",
+      "trip_id": "3_17636936",
       "direction_id": "1",
       "headsign": "Śliwice",
       "service_id": "3",
@@ -988,7 +988,7 @@
       ]
     },
     {
-      "trip_id": "3_17618257",
+      "trip_id": "3_17636937",
       "direction_id": "0",
       "headsign": "KIEŁCZOWSKA (Cmentarz)",
       "service_id": "3",
@@ -1059,7 +1059,7 @@
       ]
     },
     {
-      "trip_id": "3_17618260",
+      "trip_id": "3_17636940",
       "direction_id": "1",
       "headsign": "Śliwice",
       "service_id": "3",
@@ -1139,7 +1139,7 @@
       ]
     },
     {
-      "trip_id": "3_17618261",
+      "trip_id": "3_17636941",
       "direction_id": "0",
       "headsign": "KIEŁCZOWSKA (Cmentarz)",
       "service_id": "3",
@@ -1210,7 +1210,7 @@
       ]
     },
     {
-      "trip_id": "3_17618264",
+      "trip_id": "3_17636944",
       "direction_id": "1",
       "headsign": "Śliwice",
       "service_id": "3",
@@ -1290,7 +1290,7 @@
       ]
     },
     {
-      "trip_id": "3_17618266",
+      "trip_id": "3_17636946",
       "direction_id": "1",
       "headsign": "Śliwice",
       "service_id": "3",
@@ -1370,7 +1370,7 @@
       ]
     },
     {
-      "trip_id": "3_17618267",
+      "trip_id": "3_17636947",
       "direction_id": "0",
       "headsign": "KIEŁCZOWSKA (Cmentarz)",
       "service_id": "3",
@@ -1441,7 +1441,7 @@
       ]
     },
     {
-      "trip_id": "3_17618270",
+      "trip_id": "3_17636950",
       "direction_id": "1",
       "headsign": "Śliwice",
       "service_id": "3",
@@ -1521,7 +1521,7 @@
       ]
     },
     {
-      "trip_id": "3_17618271",
+      "trip_id": "3_17636951",
       "direction_id": "0",
       "headsign": "KIEŁCZOWSKA (Cmentarz)",
       "service_id": "3",
@@ -1592,7 +1592,7 @@
       ]
     },
     {
-      "trip_id": "3_17618274",
+      "trip_id": "3_17636954",
       "direction_id": "1",
       "headsign": "Śliwice",
       "service_id": "3",
@@ -1672,7 +1672,7 @@
       ]
     },
     {
-      "trip_id": "3_17618275",
+      "trip_id": "3_17636955",
       "direction_id": "0",
       "headsign": "KIEŁCZOWSKA (Cmentarz)",
       "service_id": "3",
@@ -1743,7 +1743,7 @@
       ]
     },
     {
-      "trip_id": "3_17618278",
+      "trip_id": "3_17636958",
       "direction_id": "1",
       "headsign": "Śliwice",
       "service_id": "3",
@@ -1823,7 +1823,7 @@
       ]
     },
     {
-      "trip_id": "3_17618279",
+      "trip_id": "3_17636959",
       "direction_id": "0",
       "headsign": "KIEŁCZOWSKA (Cmentarz)",
       "service_id": "3",
@@ -1894,7 +1894,7 @@
       ]
     },
     {
-      "trip_id": "3_17618282",
+      "trip_id": "3_17636962",
       "direction_id": "1",
       "headsign": "Śliwice",
       "service_id": "3",
@@ -1974,7 +1974,7 @@
       ]
     },
     {
-      "trip_id": "3_17618283",
+      "trip_id": "3_17636963",
       "direction_id": "0",
       "headsign": "KIEŁCZOWSKA (Cmentarz)",
       "service_id": "3",
@@ -2045,7 +2045,7 @@
       ]
     },
     {
-      "trip_id": "3_17618286",
+      "trip_id": "3_17636966",
       "direction_id": "1",
       "headsign": "Śliwice",
       "service_id": "3",
@@ -2125,7 +2125,7 @@
       ]
     },
     {
-      "trip_id": "3_17618287",
+      "trip_id": "3_17636967",
       "direction_id": "0",
       "headsign": "KIEŁCZOWSKA (Cmentarz)",
       "service_id": "3",
@@ -2196,7 +2196,7 @@
       ]
     },
     {
-      "trip_id": "3_17618290",
+      "trip_id": "3_17636970",
       "direction_id": "1",
       "headsign": "Śliwice",
       "service_id": "3",
@@ -2276,7 +2276,7 @@
       ]
     },
     {
-      "trip_id": "3_17618291",
+      "trip_id": "3_17636971",
       "direction_id": "0",
       "headsign": "KIEŁCZOWSKA (Cmentarz)",
       "service_id": "3",
@@ -2347,7 +2347,7 @@
       ]
     },
     {
-      "trip_id": "3_17618296",
+      "trip_id": "3_17636976",
       "direction_id": "1",
       "headsign": "Śliwice",
       "service_id": "3",
@@ -2427,7 +2427,7 @@
       ]
     },
     {
-      "trip_id": "3_17618297",
+      "trip_id": "3_17636977",
       "direction_id": "0",
       "headsign": "KIEŁCZOWSKA (Cmentarz)",
       "service_id": "3",
@@ -2498,7 +2498,7 @@
       ]
     },
     {
-      "trip_id": "3_17618300",
+      "trip_id": "3_17636980",
       "direction_id": "1",
       "headsign": "Śliwice",
       "service_id": "3",
@@ -2578,7 +2578,7 @@
       ]
     },
     {
-      "trip_id": "3_17618301",
+      "trip_id": "3_17636981",
       "direction_id": "0",
       "headsign": "KIEŁCZOWSKA (Cmentarz)",
       "service_id": "3",
@@ -2649,7 +2649,7 @@
       ]
     },
     {
-      "trip_id": "3_17618353",
+      "trip_id": "3_17637033",
       "direction_id": "0",
       "headsign": "KIEŁCZOWSKA (Cmentarz)",
       "service_id": "3",
@@ -2720,7 +2720,7 @@
       ]
     },
     {
-      "trip_id": "3_17618429",
+      "trip_id": "3_17637109",
       "direction_id": "1",
       "headsign": "Śliwice",
       "service_id": "3",
@@ -2800,7 +2800,7 @@
       ]
     },
     {
-      "trip_id": "3_17618430",
+      "trip_id": "3_17637110",
       "direction_id": "0",
       "headsign": "KIEŁCZOWSKA (Cmentarz)",
       "service_id": "3",
@@ -2871,7 +2871,7 @@
       ]
     },
     {
-      "trip_id": "3_17618433",
+      "trip_id": "3_17637113",
       "direction_id": "1",
       "headsign": "Śliwice",
       "service_id": "3",
@@ -2951,7 +2951,7 @@
       ]
     },
     {
-      "trip_id": "3_17618434",
+      "trip_id": "3_17637114",
       "direction_id": "0",
       "headsign": "KIEŁCZOWSKA (Cmentarz)",
       "service_id": "3",
@@ -3022,7 +3022,7 @@
       ]
     },
     {
-      "trip_id": "3_17618437",
+      "trip_id": "3_17637117",
       "direction_id": "1",
       "headsign": "Śliwice",
       "service_id": "3",
@@ -3102,7 +3102,7 @@
       ]
     },
     {
-      "trip_id": "3_17618438",
+      "trip_id": "3_17637118",
       "direction_id": "0",
       "headsign": "KIEŁCZOWSKA (Cmentarz)",
       "service_id": "3",
@@ -3173,7 +3173,7 @@
       ]
     },
     {
-      "trip_id": "3_17618441",
+      "trip_id": "3_17637121",
       "direction_id": "1",
       "headsign": "Śliwice",
       "service_id": "3",
@@ -3253,7 +3253,7 @@
       ]
     },
     {
-      "trip_id": "3_17618442",
+      "trip_id": "3_17637122",
       "direction_id": "0",
       "headsign": "KIEŁCZOWSKA (Cmentarz)",
       "service_id": "3",
@@ -3324,7 +3324,7 @@
       ]
     },
     {
-      "trip_id": "3_17618445",
+      "trip_id": "3_17637125",
       "direction_id": "1",
       "headsign": "Śliwice",
       "service_id": "3",
@@ -3404,7 +3404,7 @@
       ]
     },
     {
-      "trip_id": "3_17618446",
+      "trip_id": "3_17637126",
       "direction_id": "0",
       "headsign": "KIEŁCZOWSKA (Cmentarz)",
       "service_id": "3",
@@ -3475,7 +3475,7 @@
       ]
     },
     {
-      "trip_id": "3_17618449",
+      "trip_id": "3_17637129",
       "direction_id": "1",
       "headsign": "Śliwice",
       "service_id": "3",
@@ -3555,7 +3555,7 @@
       ]
     },
     {
-      "trip_id": "3_17618450",
+      "trip_id": "3_17637130",
       "direction_id": "0",
       "headsign": "KIEŁCZOWSKA (Cmentarz)",
       "service_id": "3",
@@ -3626,7 +3626,7 @@
       ]
     },
     {
-      "trip_id": "3_17618480",
+      "trip_id": "3_17637155",
       "direction_id": "0",
       "headsign": "KIEŁCZOWSKA (Cmentarz)",
       "service_id": "3",
@@ -3697,7 +3697,7 @@
       ]
     },
     {
-      "trip_id": "3_17618483",
+      "trip_id": "3_17637158",
       "direction_id": "1",
       "headsign": "Śliwice",
       "service_id": "3",
@@ -3777,7 +3777,7 @@
       ]
     },
     {
-      "trip_id": "3_17618484",
+      "trip_id": "3_17637159",
       "direction_id": "0",
       "headsign": "KIEŁCZOWSKA (Cmentarz)",
       "service_id": "3",
@@ -3848,7 +3848,7 @@
       ]
     },
     {
-      "trip_id": "3_17618487",
+      "trip_id": "3_17637162",
       "direction_id": "1",
       "headsign": "Śliwice",
       "service_id": "3",
@@ -3928,7 +3928,7 @@
       ]
     },
     {
-      "trip_id": "3_17618488",
+      "trip_id": "3_17637163",
       "direction_id": "0",
       "headsign": "KIEŁCZOWSKA (Cmentarz)",
       "service_id": "3",
@@ -3999,7 +3999,7 @@
       ]
     },
     {
-      "trip_id": "3_17618491",
+      "trip_id": "3_17637166",
       "direction_id": "1",
       "headsign": "Śliwice",
       "service_id": "3",
@@ -4079,7 +4079,7 @@
       ]
     },
     {
-      "trip_id": "3_17618492",
+      "trip_id": "3_17637167",
       "direction_id": "0",
       "headsign": "KIEŁCZOWSKA (Cmentarz)",
       "service_id": "3",
@@ -4150,7 +4150,7 @@
       ]
     },
     {
-      "trip_id": "3_17618495",
+      "trip_id": "3_17637170",
       "direction_id": "1",
       "headsign": "Śliwice",
       "service_id": "3",
@@ -4230,7 +4230,7 @@
       ]
     },
     {
-      "trip_id": "3_17618496",
+      "trip_id": "3_17637171",
       "direction_id": "0",
       "headsign": "KIEŁCZOWSKA (Cmentarz)",
       "service_id": "3",
@@ -4301,7 +4301,7 @@
       ]
     },
     {
-      "trip_id": "3_17618499",
+      "trip_id": "3_17637174",
       "direction_id": "1",
       "headsign": "Śliwice",
       "service_id": "3",
@@ -4381,7 +4381,7 @@
       ]
     },
     {
-      "trip_id": "4_17618539",
+      "trip_id": "4_17637214",
       "direction_id": "1",
       "headsign": "Śliwice",
       "service_id": "4",
@@ -4461,7 +4461,7 @@
       ]
     },
     {
-      "trip_id": "4_17618540",
+      "trip_id": "4_17637215",
       "direction_id": "0",
       "headsign": "KIEŁCZOWSKA (Cmentarz)",
       "service_id": "4",
@@ -4532,7 +4532,7 @@
       ]
     },
     {
-      "trip_id": "4_17618543",
+      "trip_id": "4_17637218",
       "direction_id": "1",
       "headsign": "Śliwice",
       "service_id": "4",
@@ -4612,7 +4612,7 @@
       ]
     },
     {
-      "trip_id": "4_17618544",
+      "trip_id": "4_17637219",
       "direction_id": "0",
       "headsign": "KIEŁCZOWSKA (Cmentarz)",
       "service_id": "4",
@@ -4683,7 +4683,7 @@
       ]
     },
     {
-      "trip_id": "4_17618549",
+      "trip_id": "4_17637224",
       "direction_id": "1",
       "headsign": "Śliwice",
       "service_id": "4",
@@ -4763,7 +4763,7 @@
       ]
     },
     {
-      "trip_id": "4_17618550",
+      "trip_id": "4_17637225",
       "direction_id": "0",
       "headsign": "KIEŁCZOWSKA (Cmentarz)",
       "service_id": "4",
@@ -4834,7 +4834,7 @@
       ]
     },
     {
-      "trip_id": "4_17618555",
+      "trip_id": "4_17637230",
       "direction_id": "1",
       "headsign": "Śliwice",
       "service_id": "4",
@@ -4914,7 +4914,7 @@
       ]
     },
     {
-      "trip_id": "4_17618556",
+      "trip_id": "4_17637231",
       "direction_id": "0",
       "headsign": "KIEŁCZOWSKA (Cmentarz)",
       "service_id": "4",
@@ -4985,7 +4985,7 @@
       ]
     },
     {
-      "trip_id": "4_17618561",
+      "trip_id": "4_17637236",
       "direction_id": "1",
       "headsign": "Śliwice",
       "service_id": "4",
@@ -5065,7 +5065,7 @@
       ]
     },
     {
-      "trip_id": "4_17618562",
+      "trip_id": "4_17637237",
       "direction_id": "0",
       "headsign": "KIEŁCZOWSKA (Cmentarz)",
       "service_id": "4",
@@ -5136,7 +5136,7 @@
       ]
     },
     {
-      "trip_id": "4_17618567",
+      "trip_id": "4_17637242",
       "direction_id": "1",
       "headsign": "Śliwice",
       "service_id": "4",
@@ -5216,7 +5216,7 @@
       ]
     },
     {
-      "trip_id": "4_17618568",
+      "trip_id": "4_17637243",
       "direction_id": "0",
       "headsign": "KIEŁCZOWSKA (Cmentarz)",
       "service_id": "4",
@@ -5287,7 +5287,7 @@
       ]
     },
     {
-      "trip_id": "4_17618571",
+      "trip_id": "4_17637246",
       "direction_id": "1",
       "headsign": "Śliwice",
       "service_id": "4",
@@ -5367,7 +5367,7 @@
       ]
     },
     {
-      "trip_id": "4_17618572",
+      "trip_id": "4_17637247",
       "direction_id": "0",
       "headsign": "KIEŁCZOWSKA (Cmentarz)",
       "service_id": "4",
@@ -5438,7 +5438,7 @@
       ]
     },
     {
-      "trip_id": "4_17618738",
+      "trip_id": "4_17637413",
       "direction_id": "1",
       "headsign": "Śliwice",
       "service_id": "4",
@@ -5518,7 +5518,7 @@
       ]
     },
     {
-      "trip_id": "4_17618739",
+      "trip_id": "4_17637414",
       "direction_id": "0",
       "headsign": "KIEŁCZOWSKA (Cmentarz)",
       "service_id": "4",
@@ -5589,7 +5589,7 @@
       ]
     },
     {
-      "trip_id": "4_17618744",
+      "trip_id": "4_17637419",
       "direction_id": "1",
       "headsign": "Śliwice",
       "service_id": "4",
@@ -5669,7 +5669,7 @@
       ]
     },
     {
-      "trip_id": "4_17618745",
+      "trip_id": "4_17637420",
       "direction_id": "0",
       "headsign": "KIEŁCZOWSKA (Cmentarz)",
       "service_id": "4",
@@ -5740,7 +5740,7 @@
       ]
     },
     {
-      "trip_id": "4_17618750",
+      "trip_id": "4_17637425",
       "direction_id": "1",
       "headsign": "Śliwice",
       "service_id": "4",
@@ -5820,7 +5820,7 @@
       ]
     },
     {
-      "trip_id": "4_17618751",
+      "trip_id": "4_17637426",
       "direction_id": "0",
       "headsign": "KIEŁCZOWSKA (Cmentarz)",
       "service_id": "4",
@@ -5891,7 +5891,7 @@
       ]
     },
     {
-      "trip_id": "4_17618756",
+      "trip_id": "4_17637431",
       "direction_id": "1",
       "headsign": "Śliwice",
       "service_id": "4",
@@ -5971,7 +5971,7 @@
       ]
     },
     {
-      "trip_id": "4_17618757",
+      "trip_id": "4_17637432",
       "direction_id": "0",
       "headsign": "KIEŁCZOWSKA (Cmentarz)",
       "service_id": "4",
@@ -6042,7 +6042,7 @@
       ]
     },
     {
-      "trip_id": "4_17618846",
+      "trip_id": "4_17637521",
       "direction_id": "1",
       "headsign": "Śliwice",
       "service_id": "4",
@@ -6122,7 +6122,7 @@
       ]
     },
     {
-      "trip_id": "4_17618847",
+      "trip_id": "4_17637522",
       "direction_id": "0",
       "headsign": "KIEŁCZOWSKA (Cmentarz)",
       "service_id": "4",
@@ -6193,7 +6193,7 @@
       ]
     },
     {
-      "trip_id": "4_17618852",
+      "trip_id": "4_17637527",
       "direction_id": "1",
       "headsign": "Śliwice",
       "service_id": "4",
@@ -6273,7 +6273,7 @@
       ]
     },
     {
-      "trip_id": "4_17618853",
+      "trip_id": "4_17637528",
       "direction_id": "0",
       "headsign": "KIEŁCZOWSKA (Cmentarz)",
       "service_id": "4",
@@ -6344,7 +6344,7 @@
       ]
     },
     {
-      "trip_id": "4_17618858",
+      "trip_id": "4_17637533",
       "direction_id": "1",
       "headsign": "Śliwice",
       "service_id": "4",
@@ -6424,7 +6424,7 @@
       ]
     },
     {
-      "trip_id": "4_17618859",
+      "trip_id": "4_17637534",
       "direction_id": "0",
       "headsign": "KIEŁCZOWSKA (Cmentarz)",
       "service_id": "4",
@@ -6495,7 +6495,7 @@
       ]
     },
     {
-      "trip_id": "4_17618864",
+      "trip_id": "4_17637539",
       "direction_id": "1",
       "headsign": "Śliwice",
       "service_id": "4",
@@ -6575,7 +6575,7 @@
       ]
     },
     {
-      "trip_id": "4_17618865",
+      "trip_id": "4_17637540",
       "direction_id": "0",
       "headsign": "KIEŁCZOWSKA (Cmentarz)",
       "service_id": "4",
@@ -6646,7 +6646,7 @@
       ]
     },
     {
-      "trip_id": "4_17618870",
+      "trip_id": "4_17637545",
       "direction_id": "1",
       "headsign": "Śliwice",
       "service_id": "4",
@@ -6726,7 +6726,7 @@
       ]
     },
     {
-      "trip_id": "4_17618871",
+      "trip_id": "4_17637546",
       "direction_id": "0",
       "headsign": "KIEŁCZOWSKA (Cmentarz)",
       "service_id": "4",
@@ -6797,7 +6797,7 @@
       ]
     },
     {
-      "trip_id": "4_17618874",
+      "trip_id": "4_17637549",
       "direction_id": "1",
       "headsign": "Śliwice",
       "service_id": "4",
@@ -6877,7 +6877,7 @@
       ]
     },
     {
-      "trip_id": "4_17618875",
+      "trip_id": "4_17637550",
       "direction_id": "0",
       "headsign": "KIEŁCZOWSKA (Cmentarz)",
       "service_id": "4",
@@ -6948,7 +6948,7 @@
       ]
     },
     {
-      "trip_id": "6_17619215",
+      "trip_id": "6_17637890",
       "direction_id": "1",
       "headsign": "Śliwice",
       "service_id": "6",
@@ -7028,7 +7028,7 @@
       ]
     },
     {
-      "trip_id": "6_17619216",
+      "trip_id": "6_17637891",
       "direction_id": "0",
       "headsign": "KIEŁCZOWSKA (Cmentarz)",
       "service_id": "6",
@@ -7099,7 +7099,7 @@
       ]
     },
     {
-      "trip_id": "6_17619221",
+      "trip_id": "6_17637896",
       "direction_id": "1",
       "headsign": "Śliwice",
       "service_id": "6",
@@ -7179,7 +7179,7 @@
       ]
     },
     {
-      "trip_id": "6_17619222",
+      "trip_id": "6_17637897",
       "direction_id": "0",
       "headsign": "KIEŁCZOWSKA (Cmentarz)",
       "service_id": "6",
@@ -7250,7 +7250,7 @@
       ]
     },
     {
-      "trip_id": "6_17619225",
+      "trip_id": "6_17637900",
       "direction_id": "1",
       "headsign": "Śliwice",
       "service_id": "6",
@@ -7330,7 +7330,7 @@
       ]
     },
     {
-      "trip_id": "6_17619226",
+      "trip_id": "6_17637901",
       "direction_id": "0",
       "headsign": "KIEŁCZOWSKA (Cmentarz)",
       "service_id": "6",
@@ -7401,7 +7401,7 @@
       ]
     },
     {
-      "trip_id": "6_17619229",
+      "trip_id": "6_17637904",
       "direction_id": "1",
       "headsign": "Śliwice",
       "service_id": "6",
@@ -7481,7 +7481,7 @@
       ]
     },
     {
-      "trip_id": "6_17619230",
+      "trip_id": "6_17637905",
       "direction_id": "0",
       "headsign": "KIEŁCZOWSKA (Cmentarz)",
       "service_id": "6",
@@ -7552,7 +7552,7 @@
       ]
     },
     {
-      "trip_id": "6_17619233",
+      "trip_id": "6_17637908",
       "direction_id": "1",
       "headsign": "Śliwice",
       "service_id": "6",
@@ -7632,7 +7632,7 @@
       ]
     },
     {
-      "trip_id": "6_17619234",
+      "trip_id": "6_17637909",
       "direction_id": "0",
       "headsign": "KIEŁCZOWSKA (Cmentarz)",
       "service_id": "6",
@@ -7703,7 +7703,7 @@
       ]
     },
     {
-      "trip_id": "6_17619239",
+      "trip_id": "6_17637914",
       "direction_id": "1",
       "headsign": "Śliwice",
       "service_id": "6",
@@ -7783,7 +7783,7 @@
       ]
     },
     {
-      "trip_id": "6_17619240",
+      "trip_id": "6_17637915",
       "direction_id": "0",
       "headsign": "KIEŁCZOWSKA (Cmentarz)",
       "service_id": "6",
@@ -7854,7 +7854,7 @@
       ]
     },
     {
-      "trip_id": "6_17619244",
+      "trip_id": "6_17637919",
       "direction_id": "1",
       "headsign": "Śliwice",
       "service_id": "6",
@@ -7934,7 +7934,7 @@
       ]
     },
     {
-      "trip_id": "6_17619245",
+      "trip_id": "6_17637920",
       "direction_id": "0",
       "headsign": "KIEŁCZOWSKA (Cmentarz)",
       "service_id": "6",
@@ -8005,7 +8005,7 @@
       ]
     },
     {
-      "trip_id": "6_17619252",
+      "trip_id": "6_17637927",
       "direction_id": "1",
       "headsign": "Śliwice",
       "service_id": "6",
@@ -8085,7 +8085,7 @@
       ]
     },
     {
-      "trip_id": "6_17619253",
+      "trip_id": "6_17637928",
       "direction_id": "0",
       "headsign": "KIEŁCZOWSKA (Cmentarz)",
       "service_id": "6",
@@ -8156,7 +8156,7 @@
       ]
     },
     {
-      "trip_id": "6_17619259",
+      "trip_id": "6_17637934",
       "direction_id": "1",
       "headsign": "Śliwice",
       "service_id": "6",
@@ -8236,7 +8236,7 @@
       ]
     },
     {
-      "trip_id": "6_17619260",
+      "trip_id": "6_17637935",
       "direction_id": "0",
       "headsign": "KIEŁCZOWSKA (Cmentarz)",
       "service_id": "6",
@@ -8307,7 +8307,7 @@
       ]
     },
     {
-      "trip_id": "6_17619263",
+      "trip_id": "6_17637938",
       "direction_id": "1",
       "headsign": "Śliwice",
       "service_id": "6",
@@ -8387,7 +8387,7 @@
       ]
     },
     {
-      "trip_id": "6_17619264",
+      "trip_id": "6_17637939",
       "direction_id": "0",
       "headsign": "KIEŁCZOWSKA (Cmentarz)",
       "service_id": "6",
@@ -8458,7 +8458,7 @@
       ]
     },
     {
-      "trip_id": "6_17619267",
+      "trip_id": "6_17637942",
       "direction_id": "1",
       "headsign": "Śliwice",
       "service_id": "6",
@@ -8538,7 +8538,7 @@
       ]
     },
     {
-      "trip_id": "6_17619268",
+      "trip_id": "6_17637943",
       "direction_id": "0",
       "headsign": "KIEŁCZOWSKA (Cmentarz)",
       "service_id": "6",
@@ -8609,7 +8609,7 @@
       ]
     },
     {
-      "trip_id": "6_17619271",
+      "trip_id": "6_17637946",
       "direction_id": "1",
       "headsign": "Śliwice",
       "service_id": "6",
@@ -8689,7 +8689,7 @@
       ]
     },
     {
-      "trip_id": "6_17619272",
+      "trip_id": "6_17637947",
       "direction_id": "0",
       "headsign": "KIEŁCZOWSKA (Cmentarz)",
       "service_id": "6",
@@ -8760,7 +8760,7 @@
       ]
     },
     {
-      "trip_id": "6_17619275",
+      "trip_id": "6_17637950",
       "direction_id": "1",
       "headsign": "Śliwice",
       "service_id": "6",
@@ -8840,7 +8840,7 @@
       ]
     },
     {
-      "trip_id": "6_17619276",
+      "trip_id": "6_17637951",
       "direction_id": "0",
       "headsign": "KIEŁCZOWSKA (Cmentarz)",
       "service_id": "6",
@@ -8911,7 +8911,7 @@
       ]
     },
     {
-      "trip_id": "6_17619281",
+      "trip_id": "6_17637956",
       "direction_id": "1",
       "headsign": "Śliwice",
       "service_id": "6",
@@ -8991,7 +8991,7 @@
       ]
     },
     {
-      "trip_id": "6_17619282",
+      "trip_id": "6_17637957",
       "direction_id": "0",
       "headsign": "KIEŁCZOWSKA (Cmentarz)",
       "service_id": "6",
@@ -9062,7 +9062,7 @@
       ]
     },
     {
-      "trip_id": "6_17619287",
+      "trip_id": "6_17637962",
       "direction_id": "1",
       "headsign": "Śliwice",
       "service_id": "6",
@@ -9142,7 +9142,7 @@
       ]
     },
     {
-      "trip_id": "6_17619288",
+      "trip_id": "6_17637963",
       "direction_id": "0",
       "headsign": "KIEŁCZOWSKA (Cmentarz)",
       "service_id": "6",
@@ -9213,7 +9213,7 @@
       ]
     },
     {
-      "trip_id": "6_17619293",
+      "trip_id": "6_17637968",
       "direction_id": "1",
       "headsign": "Śliwice",
       "service_id": "6",
@@ -9293,7 +9293,7 @@
       ]
     },
     {
-      "trip_id": "6_17619294",
+      "trip_id": "6_17637969",
       "direction_id": "0",
       "headsign": "KIEŁCZOWSKA (Cmentarz)",
       "service_id": "6",
@@ -9364,7 +9364,7 @@
       ]
     },
     {
-      "trip_id": "6_17619299",
+      "trip_id": "6_17637974",
       "direction_id": "1",
       "headsign": "Śliwice",
       "service_id": "6",
@@ -9444,7 +9444,7 @@
       ]
     },
     {
-      "trip_id": "6_17619300",
+      "trip_id": "6_17637975",
       "direction_id": "0",
       "headsign": "KIEŁCZOWSKA (Cmentarz)",
       "service_id": "6",
@@ -9515,7 +9515,7 @@
       ]
     },
     {
-      "trip_id": "6_17619309",
+      "trip_id": "6_17637984",
       "direction_id": "1",
       "headsign": "Śliwice",
       "service_id": "6",
@@ -9595,7 +9595,7 @@
       ]
     },
     {
-      "trip_id": "6_17619310",
+      "trip_id": "6_17637985",
       "direction_id": "0",
       "headsign": "KIEŁCZOWSKA (Cmentarz)",
       "service_id": "6",
@@ -9666,7 +9666,7 @@
       ]
     },
     {
-      "trip_id": "6_17619315",
+      "trip_id": "6_17637990",
       "direction_id": "1",
       "headsign": "Śliwice",
       "service_id": "6",
@@ -9746,7 +9746,7 @@
       ]
     },
     {
-      "trip_id": "6_17619316",
+      "trip_id": "6_17637991",
       "direction_id": "0",
       "headsign": "KIEŁCZOWSKA (Cmentarz)",
       "service_id": "6",
@@ -9817,7 +9817,7 @@
       ]
     },
     {
-      "trip_id": "6_17619321",
+      "trip_id": "6_17637996",
       "direction_id": "1",
       "headsign": "Śliwice",
       "service_id": "6",
@@ -9897,7 +9897,7 @@
       ]
     },
     {
-      "trip_id": "6_17619322",
+      "trip_id": "6_17637997",
       "direction_id": "0",
       "headsign": "KIEŁCZOWSKA (Cmentarz)",
       "service_id": "6",
@@ -9968,7 +9968,7 @@
       ]
     },
     {
-      "trip_id": "6_17619342",
+      "trip_id": "6_17638017",
       "direction_id": "1",
       "headsign": "Śliwice",
       "service_id": "6",
@@ -10048,7 +10048,7 @@
       ]
     },
     {
-      "trip_id": "6_17619343",
+      "trip_id": "6_17638018",
       "direction_id": "0",
       "headsign": "KIEŁCZOWSKA (Cmentarz)",
       "service_id": "6",
@@ -10119,7 +10119,7 @@
       ]
     },
     {
-      "trip_id": "6_17619352",
+      "trip_id": "6_17638027",
       "direction_id": "1",
       "headsign": "Śliwice",
       "service_id": "6",
@@ -10199,7 +10199,7 @@
       ]
     },
     {
-      "trip_id": "6_17619353",
+      "trip_id": "6_17638028",
       "direction_id": "0",
       "headsign": "KIEŁCZOWSKA (Cmentarz)",
       "service_id": "6",
@@ -10270,7 +10270,7 @@
       ]
     },
     {
-      "trip_id": "6_17619358",
+      "trip_id": "6_17638033",
       "direction_id": "1",
       "headsign": "Śliwice",
       "service_id": "6",
@@ -10350,7 +10350,7 @@
       ]
     },
     {
-      "trip_id": "6_17619359",
+      "trip_id": "6_17638034",
       "direction_id": "0",
       "headsign": "KIEŁCZOWSKA (Cmentarz)",
       "service_id": "6",
@@ -10421,7 +10421,7 @@
       ]
     },
     {
-      "trip_id": "6_17619362",
+      "trip_id": "6_17638037",
       "direction_id": "1",
       "headsign": "Śliwice",
       "service_id": "6",
@@ -10501,7 +10501,7 @@
       ]
     },
     {
-      "trip_id": "6_17619363",
+      "trip_id": "6_17638038",
       "direction_id": "0",
       "headsign": "KIEŁCZOWSKA (Cmentarz)",
       "service_id": "6",
@@ -10572,7 +10572,7 @@
       ]
     },
     {
-      "trip_id": "6_17619368",
+      "trip_id": "6_17638043",
       "direction_id": "1",
       "headsign": "Śliwice",
       "service_id": "6",
@@ -10652,7 +10652,7 @@
       ]
     },
     {
-      "trip_id": "6_17619369",
+      "trip_id": "6_17638044",
       "direction_id": "0",
       "headsign": "KIEŁCZOWSKA (Cmentarz)",
       "service_id": "6",
@@ -10723,7 +10723,7 @@
       ]
     },
     {
-      "trip_id": "6_17620022",
+      "trip_id": "6_17638697",
       "direction_id": "0",
       "headsign": "KIEŁCZOWSKA (Cmentarz)",
       "service_id": "6",
@@ -10794,7 +10794,7 @@
       ]
     },
     {
-      "trip_id": "6_17620031",
+      "trip_id": "6_17638706",
       "direction_id": "1",
       "headsign": "Śliwice",
       "service_id": "6",
@@ -10874,7 +10874,7 @@
       ]
     },
     {
-      "trip_id": "6_17620032",
+      "trip_id": "6_17638707",
       "direction_id": "0",
       "headsign": "KIEŁCZOWSKA (Cmentarz)",
       "service_id": "6",
@@ -10945,7 +10945,7 @@
       ]
     },
     {
-      "trip_id": "8_17620261",
+      "trip_id": "8_17638936",
       "direction_id": "1",
       "headsign": "Śliwice",
       "service_id": "8",
@@ -11025,7 +11025,7 @@
       ]
     },
     {
-      "trip_id": "8_17620262",
+      "trip_id": "8_17638937",
       "direction_id": "0",
       "headsign": "KIEŁCZOWSKA (Cmentarz)",
       "service_id": "8",
@@ -11096,7 +11096,7 @@
       ]
     },
     {
-      "trip_id": "8_17620267",
+      "trip_id": "8_17638942",
       "direction_id": "1",
       "headsign": "Śliwice",
       "service_id": "8",
@@ -11176,7 +11176,7 @@
       ]
     },
     {
-      "trip_id": "8_17620268",
+      "trip_id": "8_17638943",
       "direction_id": "0",
       "headsign": "KIEŁCZOWSKA (Cmentarz)",
       "service_id": "8",
@@ -11247,7 +11247,7 @@
       ]
     },
     {
-      "trip_id": "8_17620271",
+      "trip_id": "8_17638946",
       "direction_id": "1",
       "headsign": "Śliwice",
       "service_id": "8",
@@ -11327,7 +11327,7 @@
       ]
     },
     {
-      "trip_id": "8_17620272",
+      "trip_id": "8_17638947",
       "direction_id": "0",
       "headsign": "KIEŁCZOWSKA (Cmentarz)",
       "service_id": "8",
@@ -11398,7 +11398,7 @@
       ]
     },
     {
-      "trip_id": "8_17620275",
+      "trip_id": "8_17638950",
       "direction_id": "1",
       "headsign": "Śliwice",
       "service_id": "8",
@@ -11478,7 +11478,7 @@
       ]
     },
     {
-      "trip_id": "8_17620276",
+      "trip_id": "8_17638951",
       "direction_id": "0",
       "headsign": "KIEŁCZOWSKA (Cmentarz)",
       "service_id": "8",
@@ -11549,7 +11549,7 @@
       ]
     },
     {
-      "trip_id": "8_17620279",
+      "trip_id": "8_17638954",
       "direction_id": "1",
       "headsign": "Śliwice",
       "service_id": "8",
@@ -11629,7 +11629,7 @@
       ]
     },
     {
-      "trip_id": "8_17620280",
+      "trip_id": "8_17638955",
       "direction_id": "0",
       "headsign": "KIEŁCZOWSKA (Cmentarz)",
       "service_id": "8",
@@ -11700,7 +11700,7 @@
       ]
     },
     {
-      "trip_id": "8_17620285",
+      "trip_id": "8_17638960",
       "direction_id": "1",
       "headsign": "Śliwice",
       "service_id": "8",
@@ -11780,7 +11780,7 @@
       ]
     },
     {
-      "trip_id": "8_17620286",
+      "trip_id": "8_17638961",
       "direction_id": "0",
       "headsign": "KIEŁCZOWSKA (Cmentarz)",
       "service_id": "8",
@@ -11851,7 +11851,7 @@
       ]
     },
     {
-      "trip_id": "8_17620290",
+      "trip_id": "8_17638965",
       "direction_id": "1",
       "headsign": "Śliwice",
       "service_id": "8",
@@ -11931,7 +11931,7 @@
       ]
     },
     {
-      "trip_id": "8_17620291",
+      "trip_id": "8_17638966",
       "direction_id": "0",
       "headsign": "KIEŁCZOWSKA (Cmentarz)",
       "service_id": "8",
@@ -12002,7 +12002,7 @@
       ]
     },
     {
-      "trip_id": "8_17620298",
+      "trip_id": "8_17638973",
       "direction_id": "1",
       "headsign": "Śliwice",
       "service_id": "8",
@@ -12082,7 +12082,7 @@
       ]
     },
     {
-      "trip_id": "8_17620299",
+      "trip_id": "8_17638974",
       "direction_id": "0",
       "headsign": "KIEŁCZOWSKA (Cmentarz)",
       "service_id": "8",
@@ -12153,7 +12153,7 @@
       ]
     },
     {
-      "trip_id": "8_17620305",
+      "trip_id": "8_17638980",
       "direction_id": "1",
       "headsign": "Śliwice",
       "service_id": "8",
@@ -12233,7 +12233,7 @@
       ]
     },
     {
-      "trip_id": "8_17620306",
+      "trip_id": "8_17638981",
       "direction_id": "0",
       "headsign": "KIEŁCZOWSKA (Cmentarz)",
       "service_id": "8",
@@ -12304,7 +12304,7 @@
       ]
     },
     {
-      "trip_id": "8_17620309",
+      "trip_id": "8_17638984",
       "direction_id": "1",
       "headsign": "Śliwice",
       "service_id": "8",
@@ -12384,7 +12384,7 @@
       ]
     },
     {
-      "trip_id": "8_17620310",
+      "trip_id": "8_17638985",
       "direction_id": "0",
       "headsign": "KIEŁCZOWSKA (Cmentarz)",
       "service_id": "8",
@@ -12455,7 +12455,7 @@
       ]
     },
     {
-      "trip_id": "8_17620313",
+      "trip_id": "8_17638988",
       "direction_id": "1",
       "headsign": "Śliwice",
       "service_id": "8",
@@ -12535,7 +12535,7 @@
       ]
     },
     {
-      "trip_id": "8_17620314",
+      "trip_id": "8_17638989",
       "direction_id": "0",
       "headsign": "KIEŁCZOWSKA (Cmentarz)",
       "service_id": "8",
@@ -12606,7 +12606,7 @@
       ]
     },
     {
-      "trip_id": "8_17620317",
+      "trip_id": "8_17638992",
       "direction_id": "1",
       "headsign": "Śliwice",
       "service_id": "8",
@@ -12686,7 +12686,7 @@
       ]
     },
     {
-      "trip_id": "8_17620318",
+      "trip_id": "8_17638993",
       "direction_id": "0",
       "headsign": "KIEŁCZOWSKA (Cmentarz)",
       "service_id": "8",
@@ -12757,7 +12757,7 @@
       ]
     },
     {
-      "trip_id": "8_17620321",
+      "trip_id": "8_17638996",
       "direction_id": "1",
       "headsign": "Śliwice",
       "service_id": "8",
@@ -12837,7 +12837,7 @@
       ]
     },
     {
-      "trip_id": "8_17620322",
+      "trip_id": "8_17638997",
       "direction_id": "0",
       "headsign": "KIEŁCZOWSKA (Cmentarz)",
       "service_id": "8",
@@ -12908,7 +12908,7 @@
       ]
     },
     {
-      "trip_id": "8_17620327",
+      "trip_id": "8_17639002",
       "direction_id": "1",
       "headsign": "Śliwice",
       "service_id": "8",
@@ -12988,7 +12988,7 @@
       ]
     },
     {
-      "trip_id": "8_17620328",
+      "trip_id": "8_17639003",
       "direction_id": "0",
       "headsign": "KIEŁCZOWSKA (Cmentarz)",
       "service_id": "8",
@@ -13059,7 +13059,7 @@
       ]
     },
     {
-      "trip_id": "8_17620333",
+      "trip_id": "8_17639008",
       "direction_id": "1",
       "headsign": "Śliwice",
       "service_id": "8",
@@ -13139,7 +13139,7 @@
       ]
     },
     {
-      "trip_id": "8_17620334",
+      "trip_id": "8_17639009",
       "direction_id": "0",
       "headsign": "KIEŁCZOWSKA (Cmentarz)",
       "service_id": "8",
@@ -13210,7 +13210,7 @@
       ]
     },
     {
-      "trip_id": "8_17620339",
+      "trip_id": "8_17639014",
       "direction_id": "1",
       "headsign": "Śliwice",
       "service_id": "8",
@@ -13290,7 +13290,7 @@
       ]
     },
     {
-      "trip_id": "8_17620340",
+      "trip_id": "8_17639015",
       "direction_id": "0",
       "headsign": "KIEŁCZOWSKA (Cmentarz)",
       "service_id": "8",
@@ -13361,7 +13361,7 @@
       ]
     },
     {
-      "trip_id": "8_17620345",
+      "trip_id": "8_17639020",
       "direction_id": "1",
       "headsign": "Śliwice",
       "service_id": "8",
@@ -13441,7 +13441,7 @@
       ]
     },
     {
-      "trip_id": "8_17620346",
+      "trip_id": "8_17639021",
       "direction_id": "0",
       "headsign": "KIEŁCZOWSKA (Cmentarz)",
       "service_id": "8",
@@ -13512,7 +13512,7 @@
       ]
     },
     {
-      "trip_id": "8_17620355",
+      "trip_id": "8_17639030",
       "direction_id": "1",
       "headsign": "Śliwice",
       "service_id": "8",
@@ -13592,7 +13592,7 @@
       ]
     },
     {
-      "trip_id": "8_17620356",
+      "trip_id": "8_17639031",
       "direction_id": "0",
       "headsign": "KIEŁCZOWSKA (Cmentarz)",
       "service_id": "8",
@@ -13663,7 +13663,7 @@
       ]
     },
     {
-      "trip_id": "8_17620361",
+      "trip_id": "8_17639036",
       "direction_id": "1",
       "headsign": "Śliwice",
       "service_id": "8",
@@ -13743,7 +13743,7 @@
       ]
     },
     {
-      "trip_id": "8_17620362",
+      "trip_id": "8_17639037",
       "direction_id": "0",
       "headsign": "KIEŁCZOWSKA (Cmentarz)",
       "service_id": "8",
@@ -13814,7 +13814,7 @@
       ]
     },
     {
-      "trip_id": "8_17620367",
+      "trip_id": "8_17639042",
       "direction_id": "1",
       "headsign": "Śliwice",
       "service_id": "8",
@@ -13894,7 +13894,7 @@
       ]
     },
     {
-      "trip_id": "8_17620368",
+      "trip_id": "8_17639043",
       "direction_id": "0",
       "headsign": "KIEŁCZOWSKA (Cmentarz)",
       "service_id": "8",
@@ -13965,7 +13965,7 @@
       ]
     },
     {
-      "trip_id": "8_17620388",
+      "trip_id": "8_17639063",
       "direction_id": "1",
       "headsign": "Śliwice",
       "service_id": "8",
@@ -14045,7 +14045,7 @@
       ]
     },
     {
-      "trip_id": "8_17620389",
+      "trip_id": "8_17639064",
       "direction_id": "0",
       "headsign": "KIEŁCZOWSKA (Cmentarz)",
       "service_id": "8",
@@ -14116,7 +14116,7 @@
       ]
     },
     {
-      "trip_id": "8_17620398",
+      "trip_id": "8_17639073",
       "direction_id": "1",
       "headsign": "Śliwice",
       "service_id": "8",
@@ -14196,7 +14196,7 @@
       ]
     },
     {
-      "trip_id": "8_17620399",
+      "trip_id": "8_17639074",
       "direction_id": "0",
       "headsign": "KIEŁCZOWSKA (Cmentarz)",
       "service_id": "8",
@@ -14267,7 +14267,7 @@
       ]
     },
     {
-      "trip_id": "8_17620404",
+      "trip_id": "8_17639079",
       "direction_id": "1",
       "headsign": "Śliwice",
       "service_id": "8",
@@ -14347,7 +14347,7 @@
       ]
     },
     {
-      "trip_id": "8_17620405",
+      "trip_id": "8_17639080",
       "direction_id": "0",
       "headsign": "KIEŁCZOWSKA (Cmentarz)",
       "service_id": "8",
@@ -14418,7 +14418,7 @@
       ]
     },
     {
-      "trip_id": "8_17620408",
+      "trip_id": "8_17639083",
       "direction_id": "1",
       "headsign": "Śliwice",
       "service_id": "8",
@@ -14498,7 +14498,7 @@
       ]
     },
     {
-      "trip_id": "8_17620409",
+      "trip_id": "8_17639084",
       "direction_id": "0",
       "headsign": "KIEŁCZOWSKA (Cmentarz)",
       "service_id": "8",
@@ -14569,7 +14569,7 @@
       ]
     },
     {
-      "trip_id": "8_17620414",
+      "trip_id": "8_17639089",
       "direction_id": "1",
       "headsign": "Śliwice",
       "service_id": "8",
@@ -14649,7 +14649,7 @@
       ]
     },
     {
-      "trip_id": "8_17620415",
+      "trip_id": "8_17639090",
       "direction_id": "0",
       "headsign": "KIEŁCZOWSKA (Cmentarz)",
       "service_id": "8",
@@ -14720,7 +14720,7 @@
       ]
     },
     {
-      "trip_id": "8_17621068",
+      "trip_id": "8_17639743",
       "direction_id": "0",
       "headsign": "KIEŁCZOWSKA (Cmentarz)",
       "service_id": "8",
@@ -14791,7 +14791,7 @@
       ]
     },
     {
-      "trip_id": "8_17621077",
+      "trip_id": "8_17639752",
       "direction_id": "1",
       "headsign": "Śliwice",
       "service_id": "8",
@@ -14871,7 +14871,7 @@
       ]
     },
     {
-      "trip_id": "8_17621078",
+      "trip_id": "8_17639753",
       "direction_id": "0",
       "headsign": "KIEŁCZOWSKA (Cmentarz)",
       "service_id": "8",

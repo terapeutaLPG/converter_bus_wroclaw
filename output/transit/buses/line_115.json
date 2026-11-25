@@ -2,7 +2,7 @@
   "line": "115",
   "trips": [
     {
-      "trip_id": "3_17596441",
+      "trip_id": "3_17700454",
       "direction_id": "1",
       "headsign": "WOJNÓW (Pętla)",
       "service_id": "3",
@@ -181,7 +181,7 @@
       ]
     },
     {
-      "trip_id": "3_17596442",
+      "trip_id": "3_17700455",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "3",
@@ -378,7 +378,7 @@
       ]
     },
     {
-      "trip_id": "3_17596443",
+      "trip_id": "3_17700456",
       "direction_id": "1",
       "headsign": "WOJNÓW (Pętla)",
       "service_id": "3",
@@ -557,7 +557,7 @@
       ]
     },
     {
-      "trip_id": "3_17596444",
+      "trip_id": "3_17700457",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "3",
@@ -754,7 +754,7 @@
       ]
     },
     {
-      "trip_id": "3_17596445",
+      "trip_id": "3_17700458",
       "direction_id": "1",
       "headsign": "WOJNÓW (Pętla)",
       "service_id": "3",
@@ -933,7 +933,7 @@
       ]
     },
     {
-      "trip_id": "3_17596446",
+      "trip_id": "3_17700459",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "3",
@@ -1130,7 +1130,7 @@
       ]
     },
     {
-      "trip_id": "3_17596447",
+      "trip_id": "3_17700460",
       "direction_id": "1",
       "headsign": "WOJNÓW (Pętla)",
       "service_id": "3",
@@ -1309,7 +1309,7 @@
       ]
     },
     {
-      "trip_id": "3_17596448",
+      "trip_id": "3_17700461",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "3",
@@ -1506,7 +1506,7 @@
       ]
     },
     {
-      "trip_id": "3_17596449",
+      "trip_id": "3_17700462",
       "direction_id": "1",
       "headsign": "WOJNÓW (Pętla)",
       "service_id": "3",
@@ -1685,7 +1685,7 @@
       ]
     },
     {
-      "trip_id": "3_17596450",
+      "trip_id": "3_17700463",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "3",
@@ -1882,7 +1882,7 @@
       ]
     },
     {
-      "trip_id": "3_17596451",
+      "trip_id": "3_17700464",
       "direction_id": "1",
       "headsign": "WOJNÓW (Pętla)",
       "service_id": "3",
@@ -2061,7 +2061,7 @@
       ]
     },
     {
-      "trip_id": "3_17596452",
+      "trip_id": "3_17700465",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "3",
@@ -2258,7 +2258,7 @@
       ]
     },
     {
-      "trip_id": "3_17596453",
+      "trip_id": "3_17700466",
       "direction_id": "1",
       "headsign": "WOJNÓW (Pętla)",
       "service_id": "3",
@@ -2437,7 +2437,7 @@
       ]
     },
     {
-      "trip_id": "3_17596454",
+      "trip_id": "3_17700467",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "3",
@@ -2634,7 +2634,7 @@
       ]
     },
     {
-      "trip_id": "3_17596455",
+      "trip_id": "3_17700468",
       "direction_id": "1",
       "headsign": "WOJNÓW (Pętla)",
       "service_id": "3",
@@ -2813,7 +2813,7 @@
       ]
     },
     {
-      "trip_id": "3_17596456",
+      "trip_id": "3_17700469",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "3",
@@ -3010,7 +3010,7 @@
       ]
     },
     {
-      "trip_id": "3_17596457",
+      "trip_id": "3_17700470",
       "direction_id": "1",
       "headsign": "WOJNÓW (Pętla)",
       "service_id": "3",
@@ -3189,7 +3189,7 @@
       ]
     },
     {
-      "trip_id": "3_17596458",
+      "trip_id": "3_17700471",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "3",
@@ -3386,7 +3386,7 @@
       ]
     },
     {
-      "trip_id": "3_17596459",
+      "trip_id": "3_17700472",
       "direction_id": "1",
       "headsign": "WOJNÓW (Pętla)",
       "service_id": "3",
@@ -3565,7 +3565,7 @@
       ]
     },
     {
-      "trip_id": "3_17596460",
+      "trip_id": "3_17700473",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "3",
@@ -3762,7 +3762,7 @@
       ]
     },
     {
-      "trip_id": "3_17596461",
+      "trip_id": "3_17700474",
       "direction_id": "1",
       "headsign": "WOJNÓW (Pętla)",
       "service_id": "3",
@@ -3941,7 +3941,7 @@
       ]
     },
     {
-      "trip_id": "3_17596462",
+      "trip_id": "3_17700475",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "3",
@@ -4138,7 +4138,7 @@
       ]
     },
     {
-      "trip_id": "3_17596463",
+      "trip_id": "3_17700476",
       "direction_id": "1",
       "headsign": "WOJNÓW (Pętla)",
       "service_id": "3",
@@ -4317,7 +4317,7 @@
       ]
     },
     {
-      "trip_id": "3_17596464",
+      "trip_id": "3_17700477",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "3",
@@ -4514,7 +4514,7 @@
       ]
     },
     {
-      "trip_id": "3_17596465",
+      "trip_id": "3_17700478",
       "direction_id": "1",
       "headsign": "WOJNÓW (Pętla)",
       "service_id": "3",
@@ -4693,7 +4693,7 @@
       ]
     },
     {
-      "trip_id": "3_17596466",
+      "trip_id": "3_17700479",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "3",
@@ -4890,7 +4890,7 @@
       ]
     },
     {
-      "trip_id": "3_17596467",
+      "trip_id": "3_17700480",
       "direction_id": "1",
       "headsign": "WOJNÓW (Pętla)",
       "service_id": "3",
@@ -5069,7 +5069,7 @@
       ]
     },
     {
-      "trip_id": "3_17596468",
+      "trip_id": "3_17700481",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "3",
@@ -5266,7 +5266,7 @@
       ]
     },
     {
-      "trip_id": "3_17596469",
+      "trip_id": "3_17700482",
       "direction_id": "1",
       "headsign": "WOJNÓW (Pętla)",
       "service_id": "3",
@@ -5445,7 +5445,7 @@
       ]
     },
     {
-      "trip_id": "3_17596470",
+      "trip_id": "3_17700483",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "3",
@@ -5642,7 +5642,7 @@
       ]
     },
     {
-      "trip_id": "3_17596471",
+      "trip_id": "3_17700484",
       "direction_id": "1",
       "headsign": "WOJNÓW (Pętla)",
       "service_id": "3",
@@ -5821,7 +5821,7 @@
       ]
     },
     {
-      "trip_id": "3_17596472",
+      "trip_id": "3_17700485",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "3",
@@ -6018,7 +6018,7 @@
       ]
     },
     {
-      "trip_id": "3_17596473",
+      "trip_id": "3_17700486",
       "direction_id": "1",
       "headsign": "WOJNÓW (Pętla)",
       "service_id": "3",
@@ -6197,7 +6197,7 @@
       ]
     },
     {
-      "trip_id": "3_17596474",
+      "trip_id": "3_17700487",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "3",
@@ -6394,7 +6394,7 @@
       ]
     },
     {
-      "trip_id": "3_17596475",
+      "trip_id": "3_17700488",
       "direction_id": "1",
       "headsign": "WOJNÓW (Pętla)",
       "service_id": "3",
@@ -6573,7 +6573,7 @@
       ]
     },
     {
-      "trip_id": "3_17596476",
+      "trip_id": "3_17700489",
       "direction_id": "1",
       "headsign": "WOJNÓW (Pętla)",
       "service_id": "3",
@@ -6752,7 +6752,7 @@
       ]
     },
     {
-      "trip_id": "3_17596477",
+      "trip_id": "3_17700490",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "3",
@@ -6949,7 +6949,7 @@
       ]
     },
     {
-      "trip_id": "3_17596478",
+      "trip_id": "3_17700491",
       "direction_id": "1",
       "headsign": "WOJNÓW (Pętla)",
       "service_id": "3",
@@ -7128,7 +7128,7 @@
       ]
     },
     {
-      "trip_id": "3_17596479",
+      "trip_id": "3_17700492",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "3",
@@ -7325,7 +7325,7 @@
       ]
     },
     {
-      "trip_id": "3_17596480",
+      "trip_id": "3_17700493",
       "direction_id": "1",
       "headsign": "WOJNÓW (Pętla)",
       "service_id": "3",
@@ -7504,7 +7504,7 @@
       ]
     },
     {
-      "trip_id": "3_17596481",
+      "trip_id": "3_17700494",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "3",
@@ -7701,7 +7701,7 @@
       ]
     },
     {
-      "trip_id": "3_17596482",
+      "trip_id": "3_17700495",
       "direction_id": "1",
       "headsign": "WOJNÓW (Pętla)",
       "service_id": "3",
@@ -7880,7 +7880,7 @@
       ]
     },
     {
-      "trip_id": "3_17596483",
+      "trip_id": "3_17700496",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "3",
@@ -8077,7 +8077,7 @@
       ]
     },
     {
-      "trip_id": "3_17596484",
+      "trip_id": "3_17700497",
       "direction_id": "1",
       "headsign": "WOJNÓW (Pętla)",
       "service_id": "3",
@@ -8256,7 +8256,7 @@
       ]
     },
     {
-      "trip_id": "3_17596485",
+      "trip_id": "3_17700498",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "3",
@@ -8453,7 +8453,7 @@
       ]
     },
     {
-      "trip_id": "3_17596486",
+      "trip_id": "3_17700499",
       "direction_id": "1",
       "headsign": "WOJNÓW (Pętla)",
       "service_id": "3",
@@ -8632,7 +8632,7 @@
       ]
     },
     {
-      "trip_id": "3_17596487",
+      "trip_id": "3_17700500",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "3",
@@ -8829,7 +8829,7 @@
       ]
     },
     {
-      "trip_id": "3_17596488",
+      "trip_id": "3_17700501",
       "direction_id": "1",
       "headsign": "WOJNÓW (Pętla)",
       "service_id": "3",
@@ -9008,7 +9008,7 @@
       ]
     },
     {
-      "trip_id": "3_17596489",
+      "trip_id": "3_17700502",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "3",
@@ -9205,7 +9205,7 @@
       ]
     },
     {
-      "trip_id": "3_17596490",
+      "trip_id": "3_17700503",
       "direction_id": "1",
       "headsign": "WOJNÓW (Pętla)",
       "service_id": "3",
@@ -9384,7 +9384,7 @@
       ]
     },
     {
-      "trip_id": "3_17596491",
+      "trip_id": "3_17700504",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "3",
@@ -9581,7 +9581,7 @@
       ]
     },
     {
-      "trip_id": "3_17596492",
+      "trip_id": "3_17700505",
       "direction_id": "1",
       "headsign": "WOJNÓW (Pętla)",
       "service_id": "3",
@@ -9760,7 +9760,7 @@
       ]
     },
     {
-      "trip_id": "3_17596493",
+      "trip_id": "3_17700506",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "3",
@@ -9957,7 +9957,7 @@
       ]
     },
     {
-      "trip_id": "3_17596494",
+      "trip_id": "3_17700507",
       "direction_id": "1",
       "headsign": "WOJNÓW (Pętla)",
       "service_id": "3",
@@ -10136,7 +10136,7 @@
       ]
     },
     {
-      "trip_id": "3_17596495",
+      "trip_id": "3_17700508",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "3",
@@ -10333,7 +10333,7 @@
       ]
     },
     {
-      "trip_id": "3_17596496",
+      "trip_id": "3_17700509",
       "direction_id": "1",
       "headsign": "WOJNÓW (Pętla)",
       "service_id": "3",
@@ -10512,7 +10512,7 @@
       ]
     },
     {
-      "trip_id": "3_17596497",
+      "trip_id": "3_17700510",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "3",
@@ -10709,7 +10709,7 @@
       ]
     },
     {
-      "trip_id": "3_17596498",
+      "trip_id": "3_17700511",
       "direction_id": "1",
       "headsign": "WOJNÓW (Pętla)",
       "service_id": "3",
@@ -10888,7 +10888,7 @@
       ]
     },
     {
-      "trip_id": "3_17596499",
+      "trip_id": "3_17700512",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "3",
@@ -11085,7 +11085,7 @@
       ]
     },
     {
-      "trip_id": "3_17596500",
+      "trip_id": "3_17700513",
       "direction_id": "1",
       "headsign": "WOJNÓW (Pętla)",
       "service_id": "3",
@@ -11264,7 +11264,7 @@
       ]
     },
     {
-      "trip_id": "3_17596501",
+      "trip_id": "3_17700514",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "3",
@@ -11461,7 +11461,7 @@
       ]
     },
     {
-      "trip_id": "3_17596502",
+      "trip_id": "3_17700515",
       "direction_id": "1",
       "headsign": "WOJNÓW (Pętla)",
       "service_id": "3",
@@ -11640,7 +11640,7 @@
       ]
     },
     {
-      "trip_id": "3_17596503",
+      "trip_id": "3_17700516",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "3",
@@ -11837,7 +11837,7 @@
       ]
     },
     {
-      "trip_id": "3_17596504",
+      "trip_id": "3_17700517",
       "direction_id": "1",
       "headsign": "WOJNÓW (Pętla)",
       "service_id": "3",
@@ -12016,7 +12016,7 @@
       ]
     },
     {
-      "trip_id": "3_17596505",
+      "trip_id": "3_17700518",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "3",
@@ -12213,7 +12213,7 @@
       ]
     },
     {
-      "trip_id": "3_17596506",
+      "trip_id": "3_17700519",
       "direction_id": "1",
       "headsign": "WOJNÓW (Pętla)",
       "service_id": "3",
@@ -12392,7 +12392,7 @@
       ]
     },
     {
-      "trip_id": "3_17596507",
+      "trip_id": "3_17700520",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "3",
@@ -12589,7 +12589,7 @@
       ]
     },
     {
-      "trip_id": "3_17596508",
+      "trip_id": "3_17700521",
       "direction_id": "1",
       "headsign": "WOJNÓW (Pętla)",
       "service_id": "3",
@@ -12768,7 +12768,7 @@
       ]
     },
     {
-      "trip_id": "3_17596509",
+      "trip_id": "3_17700522",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "3",
@@ -12965,7 +12965,7 @@
       ]
     },
     {
-      "trip_id": "3_17596510",
+      "trip_id": "3_17700523",
       "direction_id": "1",
       "headsign": "WOJNÓW (Pętla)",
       "service_id": "3",
@@ -13144,7 +13144,7 @@
       ]
     },
     {
-      "trip_id": "3_17596511",
+      "trip_id": "3_17700524",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "3",
@@ -13341,7 +13341,7 @@
       ]
     },
     {
-      "trip_id": "3_17596512",
+      "trip_id": "3_17700525",
       "direction_id": "1",
       "headsign": "WOJNÓW (Pętla)",
       "service_id": "3",
@@ -13520,7 +13520,7 @@
       ]
     },
     {
-      "trip_id": "3_17596513",
+      "trip_id": "3_17700526",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "3",
@@ -13717,7 +13717,7 @@
       ]
     },
     {
-      "trip_id": "3_17596514",
+      "trip_id": "3_17700527",
       "direction_id": "1",
       "headsign": "WOJNÓW (Pętla)",
       "service_id": "3",
@@ -13896,7 +13896,7 @@
       ]
     },
     {
-      "trip_id": "3_17596515",
+      "trip_id": "3_17700528",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "3",
@@ -14093,7 +14093,7 @@
       ]
     },
     {
-      "trip_id": "3_17596516",
+      "trip_id": "3_17700529",
       "direction_id": "1",
       "headsign": "WOJNÓW (Pętla)",
       "service_id": "3",
@@ -14272,7 +14272,7 @@
       ]
     },
     {
-      "trip_id": "3_17596517",
+      "trip_id": "3_17700530",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "3",
@@ -14469,7 +14469,7 @@
       ]
     },
     {
-      "trip_id": "3_17596518",
+      "trip_id": "3_17700531",
       "direction_id": "1",
       "headsign": "WOJNÓW (Pętla)",
       "service_id": "3",
@@ -14648,7 +14648,7 @@
       ]
     },
     {
-      "trip_id": "3_17596519",
+      "trip_id": "3_17700532",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "3",
@@ -14845,7 +14845,7 @@
       ]
     },
     {
-      "trip_id": "3_17596520",
+      "trip_id": "3_17700533",
       "direction_id": "1",
       "headsign": "WOJNÓW (Pętla)",
       "service_id": "3",
@@ -15024,7 +15024,7 @@
       ]
     },
     {
-      "trip_id": "3_17596521",
+      "trip_id": "3_17700534",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "3",
@@ -15221,7 +15221,7 @@
       ]
     },
     {
-      "trip_id": "3_17596522",
+      "trip_id": "3_17700535",
       "direction_id": "1",
       "headsign": "WOJNÓW (Pętla)",
       "service_id": "3",
@@ -15400,7 +15400,7 @@
       ]
     },
     {
-      "trip_id": "3_17596523",
+      "trip_id": "3_17700536",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "3",
@@ -15597,7 +15597,7 @@
       ]
     },
     {
-      "trip_id": "3_17596524",
+      "trip_id": "3_17700537",
       "direction_id": "1",
       "headsign": "WOJNÓW (Pętla)",
       "service_id": "3",
@@ -15776,7 +15776,7 @@
       ]
     },
     {
-      "trip_id": "3_17596525",
+      "trip_id": "3_17700538",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "3",
@@ -15973,7 +15973,7 @@
       ]
     },
     {
-      "trip_id": "3_17596526",
+      "trip_id": "3_17700539",
       "direction_id": "1",
       "headsign": "WOJNÓW (Pętla)",
       "service_id": "3",
@@ -16152,7 +16152,7 @@
       ]
     },
     {
-      "trip_id": "3_17596527",
+      "trip_id": "3_17700540",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "3",
@@ -16349,7 +16349,7 @@
       ]
     },
     {
-      "trip_id": "3_17596528",
+      "trip_id": "3_17700541",
       "direction_id": "1",
       "headsign": "WOJNÓW (Pętla)",
       "service_id": "3",
@@ -16528,7 +16528,7 @@
       ]
     },
     {
-      "trip_id": "3_17596529",
+      "trip_id": "3_17700542",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "3",
@@ -16725,7 +16725,7 @@
       ]
     },
     {
-      "trip_id": "3_17596530",
+      "trip_id": "3_17700543",
       "direction_id": "1",
       "headsign": "WOJNÓW (Pętla)",
       "service_id": "3",
@@ -16904,7 +16904,7 @@
       ]
     },
     {
-      "trip_id": "3_17596531",
+      "trip_id": "3_17700544",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "3",
@@ -17101,7 +17101,7 @@
       ]
     },
     {
-      "trip_id": "3_17596532",
+      "trip_id": "3_17700545",
       "direction_id": "1",
       "headsign": "WOJNÓW (Pętla)",
       "service_id": "3",
@@ -17280,7 +17280,7 @@
       ]
     },
     {
-      "trip_id": "3_17596533",
+      "trip_id": "3_17700546",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "3",
@@ -17477,7 +17477,7 @@
       ]
     },
     {
-      "trip_id": "3_17596534",
+      "trip_id": "3_17700547",
       "direction_id": "1",
       "headsign": "WOJNÓW (Pętla)",
       "service_id": "3",
@@ -17656,7 +17656,7 @@
       ]
     },
     {
-      "trip_id": "3_17596535",
+      "trip_id": "3_17700548",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "3",
@@ -17853,7 +17853,7 @@
       ]
     },
     {
-      "trip_id": "3_17596536",
+      "trip_id": "3_17700549",
       "direction_id": "1",
       "headsign": "WOJNÓW (Pętla)",
       "service_id": "3",
@@ -18032,7 +18032,7 @@
       ]
     },
     {
-      "trip_id": "3_17596537",
+      "trip_id": "3_17700550",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "3",
@@ -18229,7 +18229,7 @@
       ]
     },
     {
-      "trip_id": "3_17596538",
+      "trip_id": "3_17700551",
       "direction_id": "1",
       "headsign": "WOJNÓW (Pętla)",
       "service_id": "3",
@@ -18408,7 +18408,7 @@
       ]
     },
     {
-      "trip_id": "3_17596539",
+      "trip_id": "3_17700552",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "3",
@@ -18605,7 +18605,7 @@
       ]
     },
     {
-      "trip_id": "3_17596540",
+      "trip_id": "3_17700553",
       "direction_id": "1",
       "headsign": "WOJNÓW (Pętla)",
       "service_id": "3",
@@ -18784,7 +18784,7 @@
       ]
     },
     {
-      "trip_id": "3_17596541",
+      "trip_id": "3_17700554",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "3",
@@ -18981,7 +18981,7 @@
       ]
     },
     {
-      "trip_id": "3_17596542",
+      "trip_id": "3_17700555",
       "direction_id": "1",
       "headsign": "WOJNÓW (Pętla)",
       "service_id": "3",
@@ -19160,7 +19160,7 @@
       ]
     },
     {
-      "trip_id": "3_17596543",
+      "trip_id": "3_17700556",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "3",
@@ -19357,7 +19357,7 @@
       ]
     },
     {
-      "trip_id": "3_17596544",
+      "trip_id": "3_17700557",
       "direction_id": "1",
       "headsign": "WOJNÓW (Pętla)",
       "service_id": "3",
@@ -19536,7 +19536,7 @@
       ]
     },
     {
-      "trip_id": "3_17596545",
+      "trip_id": "3_17700558",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "3",
@@ -19733,7 +19733,7 @@
       ]
     },
     {
-      "trip_id": "3_17596546",
+      "trip_id": "3_17700559",
       "direction_id": "1",
       "headsign": "WOJNÓW (Pętla)",
       "service_id": "3",
@@ -19912,7 +19912,7 @@
       ]
     },
     {
-      "trip_id": "3_17596547",
+      "trip_id": "3_17700560",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "3",
@@ -20109,7 +20109,7 @@
       ]
     },
     {
-      "trip_id": "3_17596548",
+      "trip_id": "3_17700561",
       "direction_id": "1",
       "headsign": "WOJNÓW (Pętla)",
       "service_id": "3",
@@ -20288,7 +20288,7 @@
       ]
     },
     {
-      "trip_id": "3_17596549",
+      "trip_id": "3_17700562",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "3",
@@ -20485,7 +20485,7 @@
       ]
     },
     {
-      "trip_id": "3_17596550",
+      "trip_id": "3_17700563",
       "direction_id": "1",
       "headsign": "WOJNÓW (Pętla)",
       "service_id": "3",
@@ -20664,7 +20664,7 @@
       ]
     },
     {
-      "trip_id": "3_17596551",
+      "trip_id": "3_17700564",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "3",
@@ -20861,7 +20861,7 @@
       ]
     },
     {
-      "trip_id": "3_17596552",
+      "trip_id": "3_17700565",
       "direction_id": "1",
       "headsign": "WOJNÓW (Pętla)",
       "service_id": "3",
@@ -21040,7 +21040,7 @@
       ]
     },
     {
-      "trip_id": "3_17596553",
+      "trip_id": "3_17700566",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "3",
@@ -21237,7 +21237,7 @@
       ]
     },
     {
-      "trip_id": "3_17596554",
+      "trip_id": "3_17700567",
       "direction_id": "1",
       "headsign": "WOJNÓW (Pętla)",
       "service_id": "3",
@@ -21416,7 +21416,7 @@
       ]
     },
     {
-      "trip_id": "3_17596555",
+      "trip_id": "3_17700568",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "3",
@@ -21613,7 +21613,7 @@
       ]
     },
     {
-      "trip_id": "3_17596556",
+      "trip_id": "3_17700569",
       "direction_id": "1",
       "headsign": "WOJNÓW (Pętla)",
       "service_id": "3",
@@ -21792,7 +21792,7 @@
       ]
     },
     {
-      "trip_id": "3_17596557",
+      "trip_id": "3_17700570",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "3",
@@ -21989,7 +21989,7 @@
       ]
     },
     {
-      "trip_id": "3_17596558",
+      "trip_id": "3_17700571",
       "direction_id": "1",
       "headsign": "WOJNÓW (Pętla)",
       "service_id": "3",
@@ -22168,7 +22168,7 @@
       ]
     },
     {
-      "trip_id": "3_17596559",
+      "trip_id": "3_17700572",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "3",
@@ -22365,7 +22365,7 @@
       ]
     },
     {
-      "trip_id": "4_17600947",
+      "trip_id": "4_17704960",
       "direction_id": "1",
       "headsign": "WOJNÓW (Pętla)",
       "service_id": "4",
@@ -22544,7 +22544,7 @@
       ]
     },
     {
-      "trip_id": "4_17600948",
+      "trip_id": "4_17704961",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "4",
@@ -22741,7 +22741,7 @@
       ]
     },
     {
-      "trip_id": "4_17600949",
+      "trip_id": "4_17704962",
       "direction_id": "1",
       "headsign": "WOJNÓW (Pętla)",
       "service_id": "4",
@@ -22920,7 +22920,7 @@
       ]
     },
     {
-      "trip_id": "4_17600950",
+      "trip_id": "4_17704963",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "4",
@@ -23117,7 +23117,7 @@
       ]
     },
     {
-      "trip_id": "4_17600951",
+      "trip_id": "4_17704964",
       "direction_id": "1",
       "headsign": "WOJNÓW (Pętla)",
       "service_id": "4",
@@ -23296,7 +23296,7 @@
       ]
     },
     {
-      "trip_id": "4_17600952",
+      "trip_id": "4_17704965",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "4",
@@ -23493,7 +23493,7 @@
       ]
     },
     {
-      "trip_id": "4_17600953",
+      "trip_id": "4_17704966",
       "direction_id": "1",
       "headsign": "WOJNÓW (Pętla)",
       "service_id": "4",
@@ -23672,7 +23672,7 @@
       ]
     },
     {
-      "trip_id": "4_17600954",
+      "trip_id": "4_17704967",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "4",
@@ -23869,7 +23869,7 @@
       ]
     },
     {
-      "trip_id": "4_17600955",
+      "trip_id": "4_17704968",
       "direction_id": "1",
       "headsign": "WOJNÓW (Pętla)",
       "service_id": "4",
@@ -24048,7 +24048,7 @@
       ]
     },
     {
-      "trip_id": "4_17600956",
+      "trip_id": "4_17704969",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "4",
@@ -24245,7 +24245,7 @@
       ]
     },
     {
-      "trip_id": "4_17600957",
+      "trip_id": "4_17704970",
       "direction_id": "1",
       "headsign": "WOJNÓW (Pętla)",
       "service_id": "4",
@@ -24424,7 +24424,7 @@
       ]
     },
     {
-      "trip_id": "4_17600958",
+      "trip_id": "4_17704971",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "4",
@@ -24621,7 +24621,7 @@
       ]
     },
     {
-      "trip_id": "4_17600959",
+      "trip_id": "4_17704972",
       "direction_id": "1",
       "headsign": "WOJNÓW (Pętla)",
       "service_id": "4",
@@ -24800,7 +24800,7 @@
       ]
     },
     {
-      "trip_id": "4_17600960",
+      "trip_id": "4_17704973",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "4",
@@ -24997,7 +24997,7 @@
       ]
     },
     {
-      "trip_id": "4_17600961",
+      "trip_id": "4_17704974",
       "direction_id": "1",
       "headsign": "WOJNÓW (Pętla)",
       "service_id": "4",
@@ -25176,7 +25176,7 @@
       ]
     },
     {
-      "trip_id": "4_17600962",
+      "trip_id": "4_17704975",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "4",
@@ -25373,7 +25373,7 @@
       ]
     },
     {
-      "trip_id": "4_17600963",
+      "trip_id": "4_17704976",
       "direction_id": "1",
       "headsign": "WOJNÓW (Pętla)",
       "service_id": "4",
@@ -25552,7 +25552,7 @@
       ]
     },
     {
-      "trip_id": "4_17600964",
+      "trip_id": "4_17704977",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "4",
@@ -25749,7 +25749,7 @@
       ]
     },
     {
-      "trip_id": "4_17600965",
+      "trip_id": "4_17704978",
       "direction_id": "1",
       "headsign": "WOJNÓW (Pętla)",
       "service_id": "4",
@@ -25928,7 +25928,7 @@
       ]
     },
     {
-      "trip_id": "4_17600966",
+      "trip_id": "4_17704979",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "4",
@@ -26125,7 +26125,7 @@
       ]
     },
     {
-      "trip_id": "4_17600967",
+      "trip_id": "4_17704980",
       "direction_id": "1",
       "headsign": "WOJNÓW (Pętla)",
       "service_id": "4",
@@ -26304,7 +26304,7 @@
       ]
     },
     {
-      "trip_id": "4_17600968",
+      "trip_id": "4_17704981",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "4",
@@ -26501,7 +26501,7 @@
       ]
     },
     {
-      "trip_id": "4_17600969",
+      "trip_id": "4_17704982",
       "direction_id": "1",
       "headsign": "WOJNÓW (Pętla)",
       "service_id": "4",
@@ -26680,7 +26680,7 @@
       ]
     },
     {
-      "trip_id": "4_17600970",
+      "trip_id": "4_17704983",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "4",
@@ -26877,7 +26877,7 @@
       ]
     },
     {
-      "trip_id": "4_17600971",
+      "trip_id": "4_17704984",
       "direction_id": "1",
       "headsign": "WOJNÓW (Pętla)",
       "service_id": "4",
@@ -27056,7 +27056,7 @@
       ]
     },
     {
-      "trip_id": "4_17600972",
+      "trip_id": "4_17704985",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "4",
@@ -27253,7 +27253,7 @@
       ]
     },
     {
-      "trip_id": "4_17600973",
+      "trip_id": "4_17704986",
       "direction_id": "1",
       "headsign": "WOJNÓW (Pętla)",
       "service_id": "4",
@@ -27432,7 +27432,7 @@
       ]
     },
     {
-      "trip_id": "4_17600974",
+      "trip_id": "4_17704987",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "4",
@@ -27629,7 +27629,7 @@
       ]
     },
     {
-      "trip_id": "4_17600975",
+      "trip_id": "4_17704988",
       "direction_id": "1",
       "headsign": "WOJNÓW (Pętla)",
       "service_id": "4",
@@ -27808,7 +27808,7 @@
       ]
     },
     {
-      "trip_id": "4_17600976",
+      "trip_id": "4_17704989",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "4",
@@ -28005,7 +28005,7 @@
       ]
     },
     {
-      "trip_id": "4_17600977",
+      "trip_id": "4_17704990",
       "direction_id": "1",
       "headsign": "WOJNÓW (Pętla)",
       "service_id": "4",
@@ -28184,7 +28184,7 @@
       ]
     },
     {
-      "trip_id": "4_17600978",
+      "trip_id": "4_17704991",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "4",
@@ -28381,7 +28381,7 @@
       ]
     },
     {
-      "trip_id": "4_17600979",
+      "trip_id": "4_17704992",
       "direction_id": "1",
       "headsign": "WOJNÓW (Pętla)",
       "service_id": "4",
@@ -28560,7 +28560,7 @@
       ]
     },
     {
-      "trip_id": "4_17600980",
+      "trip_id": "4_17704993",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "4",
@@ -28757,7 +28757,7 @@
       ]
     },
     {
-      "trip_id": "4_17600981",
+      "trip_id": "4_17704994",
       "direction_id": "1",
       "headsign": "WOJNÓW (Pętla)",
       "service_id": "4",
@@ -28936,7 +28936,7 @@
       ]
     },
     {
-      "trip_id": "4_17600982",
+      "trip_id": "4_17704995",
       "direction_id": "1",
       "headsign": "WOJNÓW (Pętla)",
       "service_id": "4",
@@ -29115,7 +29115,7 @@
       ]
     },
     {
-      "trip_id": "4_17600983",
+      "trip_id": "4_17704996",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "4",
@@ -29312,7 +29312,7 @@
       ]
     },
     {
-      "trip_id": "4_17600984",
+      "trip_id": "4_17704997",
       "direction_id": "1",
       "headsign": "WOJNÓW (Pętla)",
       "service_id": "4",
@@ -29491,7 +29491,7 @@
       ]
     },
     {
-      "trip_id": "4_17600985",
+      "trip_id": "4_17704998",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "4",
@@ -29688,7 +29688,7 @@
       ]
     },
     {
-      "trip_id": "4_17600986",
+      "trip_id": "4_17704999",
       "direction_id": "1",
       "headsign": "WOJNÓW (Pętla)",
       "service_id": "4",
@@ -29867,7 +29867,7 @@
       ]
     },
     {
-      "trip_id": "4_17600987",
+      "trip_id": "4_17705000",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "4",
@@ -30064,7 +30064,7 @@
       ]
     },
     {
-      "trip_id": "4_17600988",
+      "trip_id": "4_17705001",
       "direction_id": "1",
       "headsign": "WOJNÓW (Pętla)",
       "service_id": "4",
@@ -30243,7 +30243,7 @@
       ]
     },
     {
-      "trip_id": "4_17600989",
+      "trip_id": "4_17705002",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "4",
@@ -30440,7 +30440,7 @@
       ]
     },
     {
-      "trip_id": "4_17600990",
+      "trip_id": "4_17705003",
       "direction_id": "1",
       "headsign": "WOJNÓW (Pętla)",
       "service_id": "4",
@@ -30619,7 +30619,7 @@
       ]
     },
     {
-      "trip_id": "4_17600991",
+      "trip_id": "4_17705004",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "4",
@@ -30816,7 +30816,7 @@
       ]
     },
     {
-      "trip_id": "4_17600992",
+      "trip_id": "4_17705005",
       "direction_id": "1",
       "headsign": "WOJNÓW (Pętla)",
       "service_id": "4",
@@ -30995,7 +30995,7 @@
       ]
     },
     {
-      "trip_id": "4_17600993",
+      "trip_id": "4_17705006",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "4",
@@ -31192,7 +31192,7 @@
       ]
     },
     {
-      "trip_id": "4_17600994",
+      "trip_id": "4_17705007",
       "direction_id": "1",
       "headsign": "WOJNÓW (Pętla)",
       "service_id": "4",
@@ -31371,7 +31371,7 @@
       ]
     },
     {
-      "trip_id": "4_17600995",
+      "trip_id": "4_17705008",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "4",
@@ -31568,7 +31568,7 @@
       ]
     },
     {
-      "trip_id": "4_17600996",
+      "trip_id": "4_17705009",
       "direction_id": "1",
       "headsign": "WOJNÓW (Pętla)",
       "service_id": "4",
@@ -31747,7 +31747,7 @@
       ]
     },
     {
-      "trip_id": "4_17600997",
+      "trip_id": "4_17705010",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "4",
@@ -31944,7 +31944,7 @@
       ]
     },
     {
-      "trip_id": "4_17600998",
+      "trip_id": "4_17705011",
       "direction_id": "1",
       "headsign": "WOJNÓW (Pętla)",
       "service_id": "4",
@@ -32123,7 +32123,7 @@
       ]
     },
     {
-      "trip_id": "4_17600999",
+      "trip_id": "4_17705012",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "4",
@@ -32320,7 +32320,7 @@
       ]
     },
     {
-      "trip_id": "4_17601000",
+      "trip_id": "4_17705013",
       "direction_id": "1",
       "headsign": "WOJNÓW (Pętla)",
       "service_id": "4",
@@ -32499,7 +32499,7 @@
       ]
     },
     {
-      "trip_id": "4_17601001",
+      "trip_id": "4_17705014",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "4",
@@ -32696,7 +32696,7 @@
       ]
     },
     {
-      "trip_id": "4_17601002",
+      "trip_id": "4_17705015",
       "direction_id": "1",
       "headsign": "WOJNÓW (Pętla)",
       "service_id": "4",
@@ -32875,7 +32875,7 @@
       ]
     },
     {
-      "trip_id": "4_17601003",
+      "trip_id": "4_17705016",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "4",
@@ -33072,7 +33072,7 @@
       ]
     },
     {
-      "trip_id": "4_17601004",
+      "trip_id": "4_17705017",
       "direction_id": "1",
       "headsign": "WOJNÓW (Pętla)",
       "service_id": "4",
@@ -33251,7 +33251,7 @@
       ]
     },
     {
-      "trip_id": "4_17601005",
+      "trip_id": "4_17705018",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "4",
@@ -33448,7 +33448,7 @@
       ]
     },
     {
-      "trip_id": "4_17601006",
+      "trip_id": "4_17705019",
       "direction_id": "1",
       "headsign": "WOJNÓW (Pętla)",
       "service_id": "4",
@@ -33627,7 +33627,7 @@
       ]
     },
     {
-      "trip_id": "4_17601007",
+      "trip_id": "4_17705020",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "4",
@@ -33824,7 +33824,7 @@
       ]
     },
     {
-      "trip_id": "4_17601008",
+      "trip_id": "4_17705021",
       "direction_id": "1",
       "headsign": "WOJNÓW (Pętla)",
       "service_id": "4",
@@ -34003,7 +34003,7 @@
       ]
     },
     {
-      "trip_id": "4_17601009",
+      "trip_id": "4_17705022",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "4",
@@ -34200,7 +34200,7 @@
       ]
     },
     {
-      "trip_id": "4_17601010",
+      "trip_id": "4_17705023",
       "direction_id": "1",
       "headsign": "WOJNÓW (Pętla)",
       "service_id": "4",
@@ -34379,7 +34379,7 @@
       ]
     },
     {
-      "trip_id": "4_17601011",
+      "trip_id": "4_17705024",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "4",
@@ -34576,7 +34576,7 @@
       ]
     },
     {
-      "trip_id": "4_17601012",
+      "trip_id": "4_17705025",
       "direction_id": "1",
       "headsign": "WOJNÓW (Pętla)",
       "service_id": "4",
@@ -34755,7 +34755,7 @@
       ]
     },
     {
-      "trip_id": "4_17601013",
+      "trip_id": "4_17705026",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "4",
@@ -34952,7 +34952,7 @@
       ]
     },
     {
-      "trip_id": "4_17601014",
+      "trip_id": "4_17705027",
       "direction_id": "1",
       "headsign": "WOJNÓW (Pętla)",
       "service_id": "4",
@@ -35131,7 +35131,7 @@
       ]
     },
     {
-      "trip_id": "4_17601015",
+      "trip_id": "4_17705028",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "4",
@@ -35328,7 +35328,7 @@
       ]
     },
     {
-      "trip_id": "4_17601016",
+      "trip_id": "4_17705029",
       "direction_id": "1",
       "headsign": "WOJNÓW (Pętla)",
       "service_id": "4",
@@ -35507,7 +35507,7 @@
       ]
     },
     {
-      "trip_id": "4_17601017",
+      "trip_id": "4_17705030",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "4",
@@ -35704,7 +35704,7 @@
       ]
     },
     {
-      "trip_id": "4_17601018",
+      "trip_id": "4_17705031",
       "direction_id": "1",
       "headsign": "WOJNÓW (Pętla)",
       "service_id": "4",
@@ -35883,7 +35883,7 @@
       ]
     },
     {
-      "trip_id": "4_17601019",
+      "trip_id": "4_17705032",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "4",
@@ -36080,7 +36080,7 @@
       ]
     },
     {
-      "trip_id": "4_17601020",
+      "trip_id": "4_17705033",
       "direction_id": "1",
       "headsign": "WOJNÓW (Pętla)",
       "service_id": "4",
@@ -36259,7 +36259,7 @@
       ]
     },
     {
-      "trip_id": "4_17601021",
+      "trip_id": "4_17705034",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "4",
@@ -36456,7 +36456,7 @@
       ]
     },
     {
-      "trip_id": "4_17601022",
+      "trip_id": "4_17705035",
       "direction_id": "1",
       "headsign": "WOJNÓW (Pętla)",
       "service_id": "4",
@@ -36635,7 +36635,7 @@
       ]
     },
     {
-      "trip_id": "4_17601023",
+      "trip_id": "4_17705036",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "4",
@@ -36832,7 +36832,7 @@
       ]
     },
     {
-      "trip_id": "4_17601024",
+      "trip_id": "4_17705037",
       "direction_id": "1",
       "headsign": "WOJNÓW (Pętla)",
       "service_id": "4",
@@ -37011,7 +37011,7 @@
       ]
     },
     {
-      "trip_id": "4_17601025",
+      "trip_id": "4_17705038",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "4",
@@ -37208,7 +37208,7 @@
       ]
     },
     {
-      "trip_id": "4_17601026",
+      "trip_id": "4_17705039",
       "direction_id": "1",
       "headsign": "WOJNÓW (Pętla)",
       "service_id": "4",
@@ -37387,7 +37387,7 @@
       ]
     },
     {
-      "trip_id": "4_17601027",
+      "trip_id": "4_17705040",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "4",
@@ -37584,7 +37584,7 @@
       ]
     },
     {
-      "trip_id": "4_17601028",
+      "trip_id": "4_17705041",
       "direction_id": "1",
       "headsign": "WOJNÓW (Pętla)",
       "service_id": "4",
@@ -37763,7 +37763,7 @@
       ]
     },
     {
-      "trip_id": "4_17601029",
+      "trip_id": "4_17705042",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "4",
@@ -37960,7 +37960,7 @@
       ]
     },
     {
-      "trip_id": "4_17601030",
+      "trip_id": "4_17705043",
       "direction_id": "1",
       "headsign": "WOJNÓW (Pętla)",
       "service_id": "4",
@@ -38139,7 +38139,7 @@
       ]
     },
     {
-      "trip_id": "4_17601031",
+      "trip_id": "4_17705044",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "4",
@@ -38336,7 +38336,7 @@
       ]
     },
     {
-      "trip_id": "4_17601032",
+      "trip_id": "4_17705045",
       "direction_id": "1",
       "headsign": "WOJNÓW (Pętla)",
       "service_id": "4",
@@ -38515,7 +38515,7 @@
       ]
     },
     {
-      "trip_id": "4_17601033",
+      "trip_id": "4_17705046",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "4",
@@ -38712,7 +38712,7 @@
       ]
     },
     {
-      "trip_id": "4_17601034",
+      "trip_id": "4_17705047",
       "direction_id": "1",
       "headsign": "WOJNÓW (Pętla)",
       "service_id": "4",
@@ -38891,7 +38891,7 @@
       ]
     },
     {
-      "trip_id": "4_17601035",
+      "trip_id": "4_17705048",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "4",
@@ -39088,7 +39088,7 @@
       ]
     },
     {
-      "trip_id": "4_17601036",
+      "trip_id": "4_17705049",
       "direction_id": "1",
       "headsign": "WOJNÓW (Pętla)",
       "service_id": "4",
@@ -39267,7 +39267,7 @@
       ]
     },
     {
-      "trip_id": "4_17601037",
+      "trip_id": "4_17705050",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "4",
@@ -39464,7 +39464,7 @@
       ]
     },
     {
-      "trip_id": "4_17601038",
+      "trip_id": "4_17705051",
       "direction_id": "1",
       "headsign": "WOJNÓW (Pętla)",
       "service_id": "4",
@@ -39643,7 +39643,7 @@
       ]
     },
     {
-      "trip_id": "4_17601039",
+      "trip_id": "4_17705052",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "4",
@@ -39840,7 +39840,7 @@
       ]
     },
     {
-      "trip_id": "4_17601040",
+      "trip_id": "4_17705053",
       "direction_id": "1",
       "headsign": "WOJNÓW (Pętla)",
       "service_id": "4",
@@ -40019,7 +40019,7 @@
       ]
     },
     {
-      "trip_id": "4_17601041",
+      "trip_id": "4_17705054",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "4",
@@ -40216,7 +40216,7 @@
       ]
     },
     {
-      "trip_id": "4_17601042",
+      "trip_id": "4_17705055",
       "direction_id": "1",
       "headsign": "WOJNÓW (Pętla)",
       "service_id": "4",
@@ -40395,7 +40395,7 @@
       ]
     },
     {
-      "trip_id": "4_17601043",
+      "trip_id": "4_17705056",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "4",
@@ -40592,7 +40592,7 @@
       ]
     },
     {
-      "trip_id": "4_17601044",
+      "trip_id": "4_17705057",
       "direction_id": "1",
       "headsign": "WOJNÓW (Pętla)",
       "service_id": "4",
@@ -40771,7 +40771,7 @@
       ]
     },
     {
-      "trip_id": "4_17601045",
+      "trip_id": "4_17705058",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "4",
@@ -40968,7 +40968,7 @@
       ]
     },
     {
-      "trip_id": "4_17601046",
+      "trip_id": "4_17705059",
       "direction_id": "1",
       "headsign": "WOJNÓW (Pętla)",
       "service_id": "4",
@@ -41147,7 +41147,7 @@
       ]
     },
     {
-      "trip_id": "4_17601047",
+      "trip_id": "4_17705060",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "4",
@@ -41344,7 +41344,7 @@
       ]
     },
     {
-      "trip_id": "4_17601048",
+      "trip_id": "4_17705061",
       "direction_id": "1",
       "headsign": "WOJNÓW (Pętla)",
       "service_id": "4",
@@ -41523,7 +41523,7 @@
       ]
     },
     {
-      "trip_id": "4_17601049",
+      "trip_id": "4_17705062",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "4",
@@ -41720,7 +41720,7 @@
       ]
     },
     {
-      "trip_id": "4_17601050",
+      "trip_id": "4_17705063",
       "direction_id": "1",
       "headsign": "WOJNÓW (Pętla)",
       "service_id": "4",
@@ -41899,7 +41899,7 @@
       ]
     },
     {
-      "trip_id": "4_17601051",
+      "trip_id": "4_17705064",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "4",
@@ -42096,7 +42096,7 @@
       ]
     },
     {
-      "trip_id": "4_17601052",
+      "trip_id": "4_17705065",
       "direction_id": "1",
       "headsign": "WOJNÓW (Pętla)",
       "service_id": "4",
@@ -42275,7 +42275,7 @@
       ]
     },
     {
-      "trip_id": "4_17601053",
+      "trip_id": "4_17705066",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "4",
@@ -42472,7 +42472,7 @@
       ]
     },
     {
-      "trip_id": "4_17601054",
+      "trip_id": "4_17705067",
       "direction_id": "1",
       "headsign": "WOJNÓW (Pętla)",
       "service_id": "4",
@@ -42651,7 +42651,7 @@
       ]
     },
     {
-      "trip_id": "4_17601055",
+      "trip_id": "4_17705068",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "4",
@@ -42848,7 +42848,7 @@
       ]
     },
     {
-      "trip_id": "4_17601056",
+      "trip_id": "4_17705069",
       "direction_id": "1",
       "headsign": "WOJNÓW (Pętla)",
       "service_id": "4",
@@ -43027,7 +43027,7 @@
       ]
     },
     {
-      "trip_id": "4_17601057",
+      "trip_id": "4_17705070",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "4",
@@ -43224,7 +43224,7 @@
       ]
     },
     {
-      "trip_id": "4_17601058",
+      "trip_id": "4_17705071",
       "direction_id": "1",
       "headsign": "WOJNÓW (Pętla)",
       "service_id": "4",
@@ -43403,7 +43403,7 @@
       ]
     },
     {
-      "trip_id": "4_17601059",
+      "trip_id": "4_17705072",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "4",
@@ -43600,7 +43600,7 @@
       ]
     },
     {
-      "trip_id": "4_17601060",
+      "trip_id": "4_17705073",
       "direction_id": "1",
       "headsign": "WOJNÓW (Pętla)",
       "service_id": "4",
@@ -43779,7 +43779,7 @@
       ]
     },
     {
-      "trip_id": "4_17601061",
+      "trip_id": "4_17705074",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "4",
@@ -43976,7 +43976,7 @@
       ]
     },
     {
-      "trip_id": "4_17601062",
+      "trip_id": "4_17705075",
       "direction_id": "1",
       "headsign": "WOJNÓW (Pętla)",
       "service_id": "4",
@@ -44155,7 +44155,7 @@
       ]
     },
     {
-      "trip_id": "4_17601063",
+      "trip_id": "4_17705076",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "4",
@@ -44352,7 +44352,7 @@
       ]
     },
     {
-      "trip_id": "4_17601064",
+      "trip_id": "4_17705077",
       "direction_id": "1",
       "headsign": "WOJNÓW (Pętla)",
       "service_id": "4",
@@ -44531,7 +44531,7 @@
       ]
     },
     {
-      "trip_id": "4_17601065",
+      "trip_id": "4_17705078",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "4",
@@ -44728,7 +44728,7 @@
       ]
     },
     {
-      "trip_id": "6_17605806",
+      "trip_id": "6_17709819",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "6",
@@ -44880,7 +44880,7 @@
       ]
     },
     {
-      "trip_id": "6_17605807",
+      "trip_id": "6_17709820",
       "direction_id": "1",
       "headsign": "WOJNÓW (Pętla)",
       "service_id": "6",
@@ -45059,7 +45059,7 @@
       ]
     },
     {
-      "trip_id": "6_17605808",
+      "trip_id": "6_17709821",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "6",
@@ -45256,7 +45256,7 @@
       ]
     },
     {
-      "trip_id": "6_17605809",
+      "trip_id": "6_17709822",
       "direction_id": "1",
       "headsign": "WOJNÓW (Pętla)",
       "service_id": "6",
@@ -45435,7 +45435,7 @@
       ]
     },
     {
-      "trip_id": "6_17605810",
+      "trip_id": "6_17709823",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "6",
@@ -45632,7 +45632,7 @@
       ]
     },
     {
-      "trip_id": "6_17605811",
+      "trip_id": "6_17709824",
       "direction_id": "1",
       "headsign": "WOJNÓW (Pętla)",
       "service_id": "6",
@@ -45811,7 +45811,7 @@
       ]
     },
     {
-      "trip_id": "6_17605812",
+      "trip_id": "6_17709825",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "6",
@@ -46008,7 +46008,7 @@
       ]
     },
     {
-      "trip_id": "6_17605813",
+      "trip_id": "6_17709826",
       "direction_id": "1",
       "headsign": "WOJNÓW (Pętla)",
       "service_id": "6",
@@ -46187,7 +46187,7 @@
       ]
     },
     {
-      "trip_id": "6_17605814",
+      "trip_id": "6_17709827",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "6",
@@ -46384,7 +46384,7 @@
       ]
     },
     {
-      "trip_id": "6_17605815",
+      "trip_id": "6_17709828",
       "direction_id": "1",
       "headsign": "WOJNÓW (Pętla)",
       "service_id": "6",
@@ -46563,7 +46563,7 @@
       ]
     },
     {
-      "trip_id": "6_17605816",
+      "trip_id": "6_17709829",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "6",
@@ -46760,7 +46760,7 @@
       ]
     },
     {
-      "trip_id": "6_17605817",
+      "trip_id": "6_17709830",
       "direction_id": "1",
       "headsign": "WOJNÓW (Pętla)",
       "service_id": "6",
@@ -46939,7 +46939,7 @@
       ]
     },
     {
-      "trip_id": "6_17605818",
+      "trip_id": "6_17709831",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "6",
@@ -47136,7 +47136,7 @@
       ]
     },
     {
-      "trip_id": "6_17605819",
+      "trip_id": "6_17709832",
       "direction_id": "1",
       "headsign": "WOJNÓW (Pętla)",
       "service_id": "6",
@@ -47315,7 +47315,7 @@
       ]
     },
     {
-      "trip_id": "6_17605820",
+      "trip_id": "6_17709833",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "6",
@@ -47512,7 +47512,7 @@
       ]
     },
     {
-      "trip_id": "6_17605821",
+      "trip_id": "6_17709834",
       "direction_id": "1",
       "headsign": "WOJNÓW (Pętla)",
       "service_id": "6",
@@ -47691,7 +47691,7 @@
       ]
     },
     {
-      "trip_id": "6_17605822",
+      "trip_id": "6_17709835",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "6",
@@ -47888,7 +47888,7 @@
       ]
     },
     {
-      "trip_id": "6_17605823",
+      "trip_id": "6_17709836",
       "direction_id": "1",
       "headsign": "WOJNÓW (Pętla)",
       "service_id": "6",
@@ -48067,7 +48067,7 @@
       ]
     },
     {
-      "trip_id": "6_17605824",
+      "trip_id": "6_17709837",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "6",
@@ -48264,7 +48264,7 @@
       ]
     },
     {
-      "trip_id": "6_17605825",
+      "trip_id": "6_17709838",
       "direction_id": "1",
       "headsign": "WOJNÓW (Pętla)",
       "service_id": "6",
@@ -48443,7 +48443,7 @@
       ]
     },
     {
-      "trip_id": "6_17605826",
+      "trip_id": "6_17709839",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "6",
@@ -48640,7 +48640,7 @@
       ]
     },
     {
-      "trip_id": "6_17605827",
+      "trip_id": "6_17709840",
       "direction_id": "1",
       "headsign": "WOJNÓW (Pętla)",
       "service_id": "6",
@@ -48819,7 +48819,7 @@
       ]
     },
     {
-      "trip_id": "6_17605828",
+      "trip_id": "6_17709841",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "6",
@@ -49016,7 +49016,7 @@
       ]
     },
     {
-      "trip_id": "6_17605829",
+      "trip_id": "6_17709842",
       "direction_id": "1",
       "headsign": "WOJNÓW (Pętla)",
       "service_id": "6",
@@ -49195,7 +49195,7 @@
       ]
     },
     {
-      "trip_id": "6_17605830",
+      "trip_id": "6_17709843",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "6",
@@ -49518,7 +49518,7 @@
       ]
     },
     {
-      "trip_id": "6_17605831",
+      "trip_id": "6_17709844",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "6",
@@ -49670,7 +49670,7 @@
       ]
     },
     {
-      "trip_id": "6_17605832",
+      "trip_id": "6_17709845",
       "direction_id": "1",
       "headsign": "WOJNÓW (Pętla)",
       "service_id": "6",
@@ -49849,7 +49849,7 @@
       ]
     },
     {
-      "trip_id": "6_17605833",
+      "trip_id": "6_17709846",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "6",
@@ -50046,7 +50046,7 @@
       ]
     },
     {
-      "trip_id": "6_17605834",
+      "trip_id": "6_17709847",
       "direction_id": "1",
       "headsign": "WOJNÓW (Pętla)",
       "service_id": "6",
@@ -50225,7 +50225,7 @@
       ]
     },
     {
-      "trip_id": "6_17605835",
+      "trip_id": "6_17709848",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "6",
@@ -50422,7 +50422,7 @@
       ]
     },
     {
-      "trip_id": "6_17605836",
+      "trip_id": "6_17709849",
       "direction_id": "1",
       "headsign": "WOJNÓW (Pętla)",
       "service_id": "6",
@@ -50601,7 +50601,7 @@
       ]
     },
     {
-      "trip_id": "6_17605837",
+      "trip_id": "6_17709850",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "6",
@@ -50798,7 +50798,7 @@
       ]
     },
     {
-      "trip_id": "6_17605838",
+      "trip_id": "6_17709851",
       "direction_id": "1",
       "headsign": "WOJNÓW (Pętla)",
       "service_id": "6",
@@ -50977,7 +50977,7 @@
       ]
     },
     {
-      "trip_id": "6_17605839",
+      "trip_id": "6_17709852",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "6",
@@ -51174,7 +51174,7 @@
       ]
     },
     {
-      "trip_id": "6_17605840",
+      "trip_id": "6_17709853",
       "direction_id": "1",
       "headsign": "WOJNÓW (Pętla)",
       "service_id": "6",
@@ -51353,7 +51353,7 @@
       ]
     },
     {
-      "trip_id": "6_17605841",
+      "trip_id": "6_17709854",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "6",
@@ -51550,7 +51550,7 @@
       ]
     },
     {
-      "trip_id": "6_17605842",
+      "trip_id": "6_17709855",
       "direction_id": "1",
       "headsign": "WOJNÓW (Pętla)",
       "service_id": "6",
@@ -51729,7 +51729,7 @@
       ]
     },
     {
-      "trip_id": "6_17605843",
+      "trip_id": "6_17709856",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "6",
@@ -51926,7 +51926,7 @@
       ]
     },
     {
-      "trip_id": "6_17605844",
+      "trip_id": "6_17709857",
       "direction_id": "1",
       "headsign": "WOJNÓW (Pętla)",
       "service_id": "6",
@@ -52105,7 +52105,7 @@
       ]
     },
     {
-      "trip_id": "6_17605845",
+      "trip_id": "6_17709858",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "6",
@@ -52302,7 +52302,7 @@
       ]
     },
     {
-      "trip_id": "6_17605846",
+      "trip_id": "6_17709859",
       "direction_id": "1",
       "headsign": "WOJNÓW (Pętla)",
       "service_id": "6",
@@ -52481,7 +52481,7 @@
       ]
     },
     {
-      "trip_id": "6_17605847",
+      "trip_id": "6_17709860",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "6",
@@ -52678,7 +52678,7 @@
       ]
     },
     {
-      "trip_id": "6_17605848",
+      "trip_id": "6_17709861",
       "direction_id": "1",
       "headsign": "WOJNÓW (Pętla)",
       "service_id": "6",
@@ -52857,7 +52857,7 @@
       ]
     },
     {
-      "trip_id": "6_17605849",
+      "trip_id": "6_17709862",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "6",
@@ -53054,7 +53054,7 @@
       ]
     },
     {
-      "trip_id": "6_17605850",
+      "trip_id": "6_17709863",
       "direction_id": "1",
       "headsign": "WOJNÓW (Pętla)",
       "service_id": "6",
@@ -53233,7 +53233,7 @@
       ]
     },
     {
-      "trip_id": "6_17605851",
+      "trip_id": "6_17709864",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "6",
@@ -53430,7 +53430,7 @@
       ]
     },
     {
-      "trip_id": "6_17605852",
+      "trip_id": "6_17709865",
       "direction_id": "1",
       "headsign": "WOJNÓW (Pętla)",
       "service_id": "6",
@@ -53609,7 +53609,7 @@
       ]
     },
     {
-      "trip_id": "6_17605853",
+      "trip_id": "6_17709866",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "6",
@@ -53806,7 +53806,7 @@
       ]
     },
     {
-      "trip_id": "6_17605854",
+      "trip_id": "6_17709867",
       "direction_id": "1",
       "headsign": "WOJNÓW (Pętla)",
       "service_id": "6",
@@ -53985,7 +53985,7 @@
       ]
     },
     {
-      "trip_id": "6_17605855",
+      "trip_id": "6_17709868",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "6",
@@ -54182,7 +54182,7 @@
       ]
     },
     {
-      "trip_id": "6_17605856",
+      "trip_id": "6_17709869",
       "direction_id": "1",
       "headsign": "WOJNÓW (Pętla)",
       "service_id": "6",
@@ -54361,7 +54361,7 @@
       ]
     },
     {
-      "trip_id": "6_17605857",
+      "trip_id": "6_17709870",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "6",
@@ -54558,7 +54558,7 @@
       ]
     },
     {
-      "trip_id": "6_17605858",
+      "trip_id": "6_17709871",
       "direction_id": "1",
       "headsign": "WOJNÓW (Pętla)",
       "service_id": "6",
@@ -54737,7 +54737,7 @@
       ]
     },
     {
-      "trip_id": "6_17605859",
+      "trip_id": "6_17709872",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "6",
@@ -54934,7 +54934,7 @@
       ]
     },
     {
-      "trip_id": "6_17605860",
+      "trip_id": "6_17709873",
       "direction_id": "1",
       "headsign": "WOJNÓW (Pętla)",
       "service_id": "6",
@@ -55113,7 +55113,7 @@
       ]
     },
     {
-      "trip_id": "6_17605861",
+      "trip_id": "6_17709874",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "6",
@@ -55310,7 +55310,7 @@
       ]
     },
     {
-      "trip_id": "6_17605862",
+      "trip_id": "6_17709875",
       "direction_id": "1",
       "headsign": "WOJNÓW (Pętla)",
       "service_id": "6",
@@ -55489,7 +55489,7 @@
       ]
     },
     {
-      "trip_id": "6_17605863",
+      "trip_id": "6_17709876",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "6",
@@ -55812,7 +55812,7 @@
       ]
     },
     {
-      "trip_id": "6_17605864",
+      "trip_id": "6_17709877",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "6",
@@ -55964,7 +55964,7 @@
       ]
     },
     {
-      "trip_id": "6_17605865",
+      "trip_id": "6_17709878",
       "direction_id": "1",
       "headsign": "WOJNÓW (Pętla)",
       "service_id": "6",
@@ -56143,7 +56143,7 @@
       ]
     },
     {
-      "trip_id": "6_17605866",
+      "trip_id": "6_17709879",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "6",
@@ -56340,7 +56340,7 @@
       ]
     },
     {
-      "trip_id": "6_17605867",
+      "trip_id": "6_17709880",
       "direction_id": "1",
       "headsign": "WOJNÓW (Pętla)",
       "service_id": "6",
@@ -56519,7 +56519,7 @@
       ]
     },
     {
-      "trip_id": "6_17605868",
+      "trip_id": "6_17709881",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "6",
@@ -56716,7 +56716,7 @@
       ]
     },
     {
-      "trip_id": "6_17605869",
+      "trip_id": "6_17709882",
       "direction_id": "1",
       "headsign": "WOJNÓW (Pętla)",
       "service_id": "6",
@@ -56895,7 +56895,7 @@
       ]
     },
     {
-      "trip_id": "6_17605870",
+      "trip_id": "6_17709883",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "6",
@@ -57092,7 +57092,7 @@
       ]
     },
     {
-      "trip_id": "6_17605871",
+      "trip_id": "6_17709884",
       "direction_id": "1",
       "headsign": "WOJNÓW (Pętla)",
       "service_id": "6",
@@ -57271,7 +57271,7 @@
       ]
     },
     {
-      "trip_id": "6_17605872",
+      "trip_id": "6_17709885",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "6",
@@ -57468,7 +57468,7 @@
       ]
     },
     {
-      "trip_id": "6_17605873",
+      "trip_id": "6_17709886",
       "direction_id": "1",
       "headsign": "WOJNÓW (Pętla)",
       "service_id": "6",
@@ -57647,7 +57647,7 @@
       ]
     },
     {
-      "trip_id": "6_17605874",
+      "trip_id": "6_17709887",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "6",
@@ -57844,7 +57844,7 @@
       ]
     },
     {
-      "trip_id": "6_17605875",
+      "trip_id": "6_17709888",
       "direction_id": "1",
       "headsign": "WOJNÓW (Pętla)",
       "service_id": "6",
@@ -58023,7 +58023,7 @@
       ]
     },
     {
-      "trip_id": "6_17605876",
+      "trip_id": "6_17709889",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "6",
@@ -58220,7 +58220,7 @@
       ]
     },
     {
-      "trip_id": "6_17605877",
+      "trip_id": "6_17709890",
       "direction_id": "1",
       "headsign": "WOJNÓW (Pętla)",
       "service_id": "6",
@@ -58399,7 +58399,7 @@
       ]
     },
     {
-      "trip_id": "6_17605878",
+      "trip_id": "6_17709891",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "6",
@@ -58596,7 +58596,7 @@
       ]
     },
     {
-      "trip_id": "6_17605879",
+      "trip_id": "6_17709892",
       "direction_id": "1",
       "headsign": "WOJNÓW (Pętla)",
       "service_id": "6",
@@ -58775,7 +58775,7 @@
       ]
     },
     {
-      "trip_id": "6_17605880",
+      "trip_id": "6_17709893",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "6",
@@ -58972,7 +58972,7 @@
       ]
     },
     {
-      "trip_id": "6_17605881",
+      "trip_id": "6_17709894",
       "direction_id": "1",
       "headsign": "WOJNÓW (Pętla)",
       "service_id": "6",
@@ -59151,7 +59151,7 @@
       ]
     },
     {
-      "trip_id": "6_17605882",
+      "trip_id": "6_17709895",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "6",
@@ -59348,7 +59348,7 @@
       ]
     },
     {
-      "trip_id": "6_17605883",
+      "trip_id": "6_17709896",
       "direction_id": "1",
       "headsign": "WOJNÓW (Pętla)",
       "service_id": "6",
@@ -59527,7 +59527,7 @@
       ]
     },
     {
-      "trip_id": "6_17605884",
+      "trip_id": "6_17709897",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "6",
@@ -59724,7 +59724,7 @@
       ]
     },
     {
-      "trip_id": "6_17605885",
+      "trip_id": "6_17709898",
       "direction_id": "1",
       "headsign": "WOJNÓW (Pętla)",
       "service_id": "6",
@@ -59903,7 +59903,7 @@
       ]
     },
     {
-      "trip_id": "6_17605886",
+      "trip_id": "6_17709899",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "6",
@@ -60226,7 +60226,7 @@
       ]
     },
     {
-      "trip_id": "6_17605887",
+      "trip_id": "6_17709900",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "6",
@@ -60378,7 +60378,7 @@
       ]
     },
     {
-      "trip_id": "6_17605888",
+      "trip_id": "6_17709901",
       "direction_id": "1",
       "headsign": "WOJNÓW (Pętla)",
       "service_id": "6",
@@ -60557,7 +60557,7 @@
       ]
     },
     {
-      "trip_id": "6_17605889",
+      "trip_id": "6_17709902",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "6",
@@ -60754,7 +60754,7 @@
       ]
     },
     {
-      "trip_id": "6_17605890",
+      "trip_id": "6_17709903",
       "direction_id": "1",
       "headsign": "WOJNÓW (Pętla)",
       "service_id": "6",
@@ -60933,7 +60933,7 @@
       ]
     },
     {
-      "trip_id": "6_17605891",
+      "trip_id": "6_17709904",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "6",
@@ -61130,7 +61130,7 @@
       ]
     },
     {
-      "trip_id": "6_17605892",
+      "trip_id": "6_17709905",
       "direction_id": "1",
       "headsign": "WOJNÓW (Pętla)",
       "service_id": "6",
@@ -61309,7 +61309,7 @@
       ]
     },
     {
-      "trip_id": "6_17605893",
+      "trip_id": "6_17709906",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "6",
@@ -61506,7 +61506,7 @@
       ]
     },
     {
-      "trip_id": "6_17605894",
+      "trip_id": "6_17709907",
       "direction_id": "1",
       "headsign": "WOJNÓW (Pętla)",
       "service_id": "6",
@@ -61685,7 +61685,7 @@
       ]
     },
     {
-      "trip_id": "6_17605895",
+      "trip_id": "6_17709908",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "6",
@@ -61882,7 +61882,7 @@
       ]
     },
     {
-      "trip_id": "6_17605896",
+      "trip_id": "6_17709909",
       "direction_id": "1",
       "headsign": "WOJNÓW (Pętla)",
       "service_id": "6",
@@ -62061,7 +62061,7 @@
       ]
     },
     {
-      "trip_id": "6_17605897",
+      "trip_id": "6_17709910",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "6",
@@ -62258,7 +62258,7 @@
       ]
     },
     {
-      "trip_id": "6_17605898",
+      "trip_id": "6_17709911",
       "direction_id": "1",
       "headsign": "WOJNÓW (Pętla)",
       "service_id": "6",
@@ -62437,7 +62437,7 @@
       ]
     },
     {
-      "trip_id": "6_17605899",
+      "trip_id": "6_17709912",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "6",
@@ -62634,7 +62634,7 @@
       ]
     },
     {
-      "trip_id": "6_17605900",
+      "trip_id": "6_17709913",
       "direction_id": "1",
       "headsign": "WOJNÓW (Pętla)",
       "service_id": "6",
@@ -62813,7 +62813,7 @@
       ]
     },
     {
-      "trip_id": "6_17605901",
+      "trip_id": "6_17709914",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "6",
@@ -63010,7 +63010,7 @@
       ]
     },
     {
-      "trip_id": "6_17605902",
+      "trip_id": "6_17709915",
       "direction_id": "1",
       "headsign": "WOJNÓW (Pętla)",
       "service_id": "6",
@@ -63189,7 +63189,7 @@
       ]
     },
     {
-      "trip_id": "6_17605903",
+      "trip_id": "6_17709916",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "6",
@@ -63386,7 +63386,7 @@
       ]
     },
     {
-      "trip_id": "6_17605904",
+      "trip_id": "6_17709917",
       "direction_id": "1",
       "headsign": "WOJNÓW (Pętla)",
       "service_id": "6",
@@ -63565,7 +63565,7 @@
       ]
     },
     {
-      "trip_id": "6_17605905",
+      "trip_id": "6_17709918",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "6",
@@ -63762,7 +63762,7 @@
       ]
     },
     {
-      "trip_id": "6_17605906",
+      "trip_id": "6_17709919",
       "direction_id": "1",
       "headsign": "WOJNÓW (Pętla)",
       "service_id": "6",
@@ -63941,7 +63941,7 @@
       ]
     },
     {
-      "trip_id": "6_17605907",
+      "trip_id": "6_17709920",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "6",
@@ -64138,7 +64138,7 @@
       ]
     },
     {
-      "trip_id": "6_17605908",
+      "trip_id": "6_17709921",
       "direction_id": "1",
       "headsign": "WOJNÓW (Pętla)",
       "service_id": "6",
@@ -64317,7 +64317,7 @@
       ]
     },
     {
-      "trip_id": "6_17605909",
+      "trip_id": "6_17709922",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "6",
@@ -64514,7 +64514,7 @@
       ]
     },
     {
-      "trip_id": "6_17605910",
+      "trip_id": "6_17709923",
       "direction_id": "1",
       "headsign": "WOJNÓW (Pętla)",
       "service_id": "6",
@@ -64693,7 +64693,7 @@
       ]
     },
     {
-      "trip_id": "6_17605911",
+      "trip_id": "6_17709924",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "6",
@@ -64890,7 +64890,7 @@
       ]
     },
     {
-      "trip_id": "6_17605912",
+      "trip_id": "6_17709925",
       "direction_id": "1",
       "headsign": "WOJNÓW (Pętla)",
       "service_id": "6",
@@ -65069,7 +65069,7 @@
       ]
     },
     {
-      "trip_id": "6_17605913",
+      "trip_id": "6_17709926",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "6",
@@ -65392,7 +65392,7 @@
       ]
     },
     {
-      "trip_id": "6_17605914",
+      "trip_id": "6_17709927",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "6",
@@ -65544,7 +65544,7 @@
       ]
     },
     {
-      "trip_id": "6_17605915",
+      "trip_id": "6_17709928",
       "direction_id": "1",
       "headsign": "WOJNÓW (Pętla)",
       "service_id": "6",
@@ -65723,7 +65723,7 @@
       ]
     },
     {
-      "trip_id": "6_17605916",
+      "trip_id": "6_17709929",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "6",
@@ -65920,7 +65920,7 @@
       ]
     },
     {
-      "trip_id": "6_17605917",
+      "trip_id": "6_17709930",
       "direction_id": "1",
       "headsign": "WOJNÓW (Pętla)",
       "service_id": "6",
@@ -66099,7 +66099,7 @@
       ]
     },
     {
-      "trip_id": "6_17605918",
+      "trip_id": "6_17709931",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "6",
@@ -66296,7 +66296,7 @@
       ]
     },
     {
-      "trip_id": "6_17605919",
+      "trip_id": "6_17709932",
       "direction_id": "1",
       "headsign": "WOJNÓW (Pętla)",
       "service_id": "6",
@@ -66475,7 +66475,7 @@
       ]
     },
     {
-      "trip_id": "6_17605920",
+      "trip_id": "6_17709933",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "6",
@@ -66672,7 +66672,7 @@
       ]
     },
     {
-      "trip_id": "6_17605921",
+      "trip_id": "6_17709934",
       "direction_id": "1",
       "headsign": "WOJNÓW (Pętla)",
       "service_id": "6",
@@ -66851,7 +66851,7 @@
       ]
     },
     {
-      "trip_id": "6_17605922",
+      "trip_id": "6_17709935",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "6",
@@ -67048,7 +67048,7 @@
       ]
     },
     {
-      "trip_id": "6_17605923",
+      "trip_id": "6_17709936",
       "direction_id": "1",
       "headsign": "WOJNÓW (Pętla)",
       "service_id": "6",
@@ -67227,7 +67227,7 @@
       ]
     },
     {
-      "trip_id": "6_17605924",
+      "trip_id": "6_17709937",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "6",
@@ -67424,7 +67424,7 @@
       ]
     },
     {
-      "trip_id": "6_17605925",
+      "trip_id": "6_17709938",
       "direction_id": "1",
       "headsign": "WOJNÓW (Pętla)",
       "service_id": "6",
@@ -67603,7 +67603,7 @@
       ]
     },
     {
-      "trip_id": "6_17605926",
+      "trip_id": "6_17709939",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "6",
@@ -67800,7 +67800,7 @@
       ]
     },
     {
-      "trip_id": "6_17605927",
+      "trip_id": "6_17709940",
       "direction_id": "1",
       "headsign": "WOJNÓW (Pętla)",
       "service_id": "6",
@@ -67979,7 +67979,7 @@
       ]
     },
     {
-      "trip_id": "6_17605928",
+      "trip_id": "6_17709941",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "6",
@@ -68176,7 +68176,7 @@
       ]
     },
     {
-      "trip_id": "6_17605929",
+      "trip_id": "6_17709942",
       "direction_id": "1",
       "headsign": "WOJNÓW (Pętla)",
       "service_id": "6",
@@ -68355,7 +68355,7 @@
       ]
     },
     {
-      "trip_id": "6_17605930",
+      "trip_id": "6_17709943",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "6",
@@ -68552,7 +68552,7 @@
       ]
     },
     {
-      "trip_id": "6_17605931",
+      "trip_id": "6_17709944",
       "direction_id": "1",
       "headsign": "WOJNÓW (Pętla)",
       "service_id": "6",
@@ -68731,7 +68731,7 @@
       ]
     },
     {
-      "trip_id": "6_17605932",
+      "trip_id": "6_17709945",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "6",
@@ -68928,7 +68928,7 @@
       ]
     },
     {
-      "trip_id": "6_17605933",
+      "trip_id": "6_17709946",
       "direction_id": "1",
       "headsign": "WOJNÓW (Pętla)",
       "service_id": "6",
@@ -69107,7 +69107,7 @@
       ]
     },
     {
-      "trip_id": "6_17605934",
+      "trip_id": "6_17709947",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "6",
@@ -69304,7 +69304,7 @@
       ]
     },
     {
-      "trip_id": "6_17605935",
+      "trip_id": "6_17709948",
       "direction_id": "1",
       "headsign": "WOJNÓW (Pętla)",
       "service_id": "6",
@@ -69483,7 +69483,7 @@
       ]
     },
     {
-      "trip_id": "6_17605936",
+      "trip_id": "6_17709949",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "6",
@@ -69680,7 +69680,7 @@
       ]
     },
     {
-      "trip_id": "6_17605937",
+      "trip_id": "6_17709950",
       "direction_id": "1",
       "headsign": "WOJNÓW (Pętla)",
       "service_id": "6",
@@ -69859,7 +69859,7 @@
       ]
     },
     {
-      "trip_id": "6_17605938",
+      "trip_id": "6_17709951",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "6",
@@ -70056,7 +70056,7 @@
       ]
     },
     {
-      "trip_id": "6_17605939",
+      "trip_id": "6_17709952",
       "direction_id": "1",
       "headsign": "WOJNÓW (Pętla)",
       "service_id": "6",
@@ -70235,7 +70235,7 @@
       ]
     },
     {
-      "trip_id": "6_17605940",
+      "trip_id": "6_17709953",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "6",
@@ -70432,7 +70432,7 @@
       ]
     },
     {
-      "trip_id": "6_17605941",
+      "trip_id": "6_17709954",
       "direction_id": "1",
       "headsign": "WOJNÓW (Pętla)",
       "service_id": "6",
@@ -70611,7 +70611,7 @@
       ]
     },
     {
-      "trip_id": "6_17605942",
+      "trip_id": "6_17709955",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "6",
@@ -70934,7 +70934,7 @@
       ]
     },
     {
-      "trip_id": "6_17605943",
+      "trip_id": "6_17709956",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "6",
@@ -71086,7 +71086,7 @@
       ]
     },
     {
-      "trip_id": "6_17605944",
+      "trip_id": "6_17709957",
       "direction_id": "1",
       "headsign": "WOJNÓW (Pętla)",
       "service_id": "6",
@@ -71265,7 +71265,7 @@
       ]
     },
     {
-      "trip_id": "6_17605945",
+      "trip_id": "6_17709958",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "6",
@@ -71462,7 +71462,7 @@
       ]
     },
     {
-      "trip_id": "6_17605946",
+      "trip_id": "6_17709959",
       "direction_id": "1",
       "headsign": "WOJNÓW (Pętla)",
       "service_id": "6",
@@ -71641,7 +71641,7 @@
       ]
     },
     {
-      "trip_id": "6_17605947",
+      "trip_id": "6_17709960",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "6",
@@ -71838,7 +71838,7 @@
       ]
     },
     {
-      "trip_id": "6_17605948",
+      "trip_id": "6_17709961",
       "direction_id": "1",
       "headsign": "WOJNÓW (Pętla)",
       "service_id": "6",
@@ -72017,7 +72017,7 @@
       ]
     },
     {
-      "trip_id": "6_17605949",
+      "trip_id": "6_17709962",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "6",
@@ -72214,7 +72214,7 @@
       ]
     },
     {
-      "trip_id": "6_17605950",
+      "trip_id": "6_17709963",
       "direction_id": "1",
       "headsign": "WOJNÓW (Pętla)",
       "service_id": "6",
@@ -72393,7 +72393,7 @@
       ]
     },
     {
-      "trip_id": "6_17605951",
+      "trip_id": "6_17709964",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "6",
@@ -72590,7 +72590,7 @@
       ]
     },
     {
-      "trip_id": "6_17605952",
+      "trip_id": "6_17709965",
       "direction_id": "1",
       "headsign": "WOJNÓW (Pętla)",
       "service_id": "6",
@@ -72769,7 +72769,7 @@
       ]
     },
     {
-      "trip_id": "6_17605953",
+      "trip_id": "6_17709966",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "6",
@@ -72966,7 +72966,7 @@
       ]
     },
     {
-      "trip_id": "6_17605954",
+      "trip_id": "6_17709967",
       "direction_id": "1",
       "headsign": "WOJNÓW (Pętla)",
       "service_id": "6",
@@ -73145,7 +73145,7 @@
       ]
     },
     {
-      "trip_id": "6_17605955",
+      "trip_id": "6_17709968",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "6",
@@ -73342,7 +73342,7 @@
       ]
     },
     {
-      "trip_id": "6_17605956",
+      "trip_id": "6_17709969",
       "direction_id": "1",
       "headsign": "WOJNÓW (Pętla)",
       "service_id": "6",
@@ -73521,7 +73521,7 @@
       ]
     },
     {
-      "trip_id": "6_17605957",
+      "trip_id": "6_17709970",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "6",
@@ -73718,7 +73718,7 @@
       ]
     },
     {
-      "trip_id": "6_17605958",
+      "trip_id": "6_17709971",
       "direction_id": "1",
       "headsign": "WOJNÓW (Pętla)",
       "service_id": "6",
@@ -73897,7 +73897,7 @@
       ]
     },
     {
-      "trip_id": "6_17605959",
+      "trip_id": "6_17709972",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "6",
@@ -74094,7 +74094,7 @@
       ]
     },
     {
-      "trip_id": "6_17605960",
+      "trip_id": "6_17709973",
       "direction_id": "1",
       "headsign": "WOJNÓW (Pętla)",
       "service_id": "6",
@@ -74273,7 +74273,7 @@
       ]
     },
     {
-      "trip_id": "6_17605961",
+      "trip_id": "6_17709974",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "6",
@@ -74470,7 +74470,7 @@
       ]
     },
     {
-      "trip_id": "6_17605962",
+      "trip_id": "6_17709975",
       "direction_id": "1",
       "headsign": "WOJNÓW (Pętla)",
       "service_id": "6",
@@ -74649,7 +74649,7 @@
       ]
     },
     {
-      "trip_id": "6_17605963",
+      "trip_id": "6_17709976",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "6",
@@ -74846,7 +74846,7 @@
       ]
     },
     {
-      "trip_id": "6_17605964",
+      "trip_id": "6_17709977",
       "direction_id": "1",
       "headsign": "WOJNÓW (Pętla)",
       "service_id": "6",
@@ -75025,7 +75025,7 @@
       ]
     },
     {
-      "trip_id": "6_17605965",
+      "trip_id": "6_17709978",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "6",
@@ -75222,7 +75222,7 @@
       ]
     },
     {
-      "trip_id": "6_17605966",
+      "trip_id": "6_17709979",
       "direction_id": "1",
       "headsign": "WOJNÓW (Pętla)",
       "service_id": "6",
@@ -75401,7 +75401,7 @@
       ]
     },
     {
-      "trip_id": "6_17605967",
+      "trip_id": "6_17709980",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "6",
@@ -75598,7 +75598,7 @@
       ]
     },
     {
-      "trip_id": "6_17605968",
+      "trip_id": "6_17709981",
       "direction_id": "1",
       "headsign": "WOJNÓW (Pętla)",
       "service_id": "6",
@@ -75777,7 +75777,7 @@
       ]
     },
     {
-      "trip_id": "6_17605969",
+      "trip_id": "6_17709982",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "6",
@@ -76100,7 +76100,7 @@
       ]
     },
     {
-      "trip_id": "6_17605970",
+      "trip_id": "6_17709983",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "6",
@@ -76252,7 +76252,7 @@
       ]
     },
     {
-      "trip_id": "6_17605971",
+      "trip_id": "6_17709984",
       "direction_id": "1",
       "headsign": "WOJNÓW (Pętla)",
       "service_id": "6",
@@ -76431,7 +76431,7 @@
       ]
     },
     {
-      "trip_id": "6_17605972",
+      "trip_id": "6_17709985",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "6",
@@ -76628,7 +76628,7 @@
       ]
     },
     {
-      "trip_id": "6_17605973",
+      "trip_id": "6_17709986",
       "direction_id": "1",
       "headsign": "WOJNÓW (Pętla)",
       "service_id": "6",
@@ -76807,7 +76807,7 @@
       ]
     },
     {
-      "trip_id": "6_17605974",
+      "trip_id": "6_17709987",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "6",
@@ -77004,7 +77004,7 @@
       ]
     },
     {
-      "trip_id": "6_17605975",
+      "trip_id": "6_17709988",
       "direction_id": "1",
       "headsign": "WOJNÓW (Pętla)",
       "service_id": "6",
@@ -77183,7 +77183,7 @@
       ]
     },
     {
-      "trip_id": "6_17605976",
+      "trip_id": "6_17709989",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "6",
@@ -77380,7 +77380,7 @@
       ]
     },
     {
-      "trip_id": "6_17605977",
+      "trip_id": "6_17709990",
       "direction_id": "1",
       "headsign": "WOJNÓW (Pętla)",
       "service_id": "6",
@@ -77559,7 +77559,7 @@
       ]
     },
     {
-      "trip_id": "6_17605978",
+      "trip_id": "6_17709991",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "6",
@@ -77756,7 +77756,7 @@
       ]
     },
     {
-      "trip_id": "6_17605979",
+      "trip_id": "6_17709992",
       "direction_id": "1",
       "headsign": "WOJNÓW (Pętla)",
       "service_id": "6",
@@ -77935,7 +77935,7 @@
       ]
     },
     {
-      "trip_id": "6_17605980",
+      "trip_id": "6_17709993",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "6",
@@ -78132,7 +78132,7 @@
       ]
     },
     {
-      "trip_id": "6_17605981",
+      "trip_id": "6_17709994",
       "direction_id": "1",
       "headsign": "WOJNÓW (Pętla)",
       "service_id": "6",
@@ -78311,7 +78311,7 @@
       ]
     },
     {
-      "trip_id": "6_17605982",
+      "trip_id": "6_17709995",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "6",
@@ -78508,7 +78508,7 @@
       ]
     },
     {
-      "trip_id": "6_17605983",
+      "trip_id": "6_17709996",
       "direction_id": "1",
       "headsign": "WOJNÓW (Pętla)",
       "service_id": "6",
@@ -78687,7 +78687,7 @@
       ]
     },
     {
-      "trip_id": "6_17605984",
+      "trip_id": "6_17709997",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "6",
@@ -78884,7 +78884,7 @@
       ]
     },
     {
-      "trip_id": "6_17605985",
+      "trip_id": "6_17709998",
       "direction_id": "1",
       "headsign": "WOJNÓW (Pętla)",
       "service_id": "6",
@@ -79063,7 +79063,7 @@
       ]
     },
     {
-      "trip_id": "6_17605986",
+      "trip_id": "6_17709999",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "6",
@@ -79260,7 +79260,7 @@
       ]
     },
     {
-      "trip_id": "6_17605987",
+      "trip_id": "6_17710000",
       "direction_id": "1",
       "headsign": "WOJNÓW (Pętla)",
       "service_id": "6",
@@ -79439,7 +79439,7 @@
       ]
     },
     {
-      "trip_id": "6_17605988",
+      "trip_id": "6_17710001",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "6",
@@ -79636,7 +79636,7 @@
       ]
     },
     {
-      "trip_id": "6_17605989",
+      "trip_id": "6_17710002",
       "direction_id": "1",
       "headsign": "WOJNÓW (Pętla)",
       "service_id": "6",
@@ -79815,7 +79815,7 @@
       ]
     },
     {
-      "trip_id": "6_17605990",
+      "trip_id": "6_17710003",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "6",
@@ -80012,7 +80012,7 @@
       ]
     },
     {
-      "trip_id": "6_17605991",
+      "trip_id": "6_17710004",
       "direction_id": "1",
       "headsign": "WOJNÓW (Pętla)",
       "service_id": "6",
@@ -80191,7 +80191,7 @@
       ]
     },
     {
-      "trip_id": "6_17605992",
+      "trip_id": "6_17710005",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "6",
@@ -80388,7 +80388,7 @@
       ]
     },
     {
-      "trip_id": "6_17605993",
+      "trip_id": "6_17710006",
       "direction_id": "1",
       "headsign": "WOJNÓW (Pętla)",
       "service_id": "6",
@@ -80567,7 +80567,7 @@
       ]
     },
     {
-      "trip_id": "6_17605994",
+      "trip_id": "6_17710007",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "6",
@@ -80764,7 +80764,7 @@
       ]
     },
     {
-      "trip_id": "6_17605995",
+      "trip_id": "6_17710008",
       "direction_id": "1",
       "headsign": "WOJNÓW (Pętla)",
       "service_id": "6",
@@ -80943,7 +80943,7 @@
       ]
     },
     {
-      "trip_id": "6_17605996",
+      "trip_id": "6_17710009",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "6",
@@ -81266,7 +81266,7 @@
       ]
     },
     {
-      "trip_id": "6_17605999",
+      "trip_id": "6_17710012",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "6",
@@ -81463,7 +81463,7 @@
       ]
     },
     {
-      "trip_id": "6_17606000",
+      "trip_id": "6_17710013",
       "direction_id": "1",
       "headsign": "WOJNÓW (Pętla)",
       "service_id": "6",
@@ -81642,7 +81642,7 @@
       ]
     },
     {
-      "trip_id": "6_17606001",
+      "trip_id": "6_17710014",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "6",
@@ -81839,7 +81839,7 @@
       ]
     },
     {
-      "trip_id": "6_17606002",
+      "trip_id": "6_17710015",
       "direction_id": "1",
       "headsign": "WOJNÓW (Pętla)",
       "service_id": "6",
@@ -82018,7 +82018,7 @@
       ]
     },
     {
-      "trip_id": "6_17606003",
+      "trip_id": "6_17710016",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "6",
@@ -82215,7 +82215,7 @@
       ]
     },
     {
-      "trip_id": "6_17606004",
+      "trip_id": "6_17710017",
       "direction_id": "1",
       "headsign": "WOJNÓW (Pętla)",
       "service_id": "6",
@@ -82394,7 +82394,7 @@
       ]
     },
     {
-      "trip_id": "6_17606005",
+      "trip_id": "6_17710018",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "6",
@@ -82591,7 +82591,7 @@
       ]
     },
     {
-      "trip_id": "6_17606006",
+      "trip_id": "6_17710019",
       "direction_id": "1",
       "headsign": "WOJNÓW (Pętla)",
       "service_id": "6",
@@ -82770,7 +82770,7 @@
       ]
     },
     {
-      "trip_id": "6_17606007",
+      "trip_id": "6_17710020",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "6",
@@ -82967,7 +82967,7 @@
       ]
     },
     {
-      "trip_id": "6_17606008",
+      "trip_id": "6_17710021",
       "direction_id": "1",
       "headsign": "WOJNÓW (Pętla)",
       "service_id": "6",
@@ -83146,7 +83146,7 @@
       ]
     },
     {
-      "trip_id": "6_17606009",
+      "trip_id": "6_17710022",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "6",
@@ -83343,7 +83343,7 @@
       ]
     },
     {
-      "trip_id": "6_17606010",
+      "trip_id": "6_17710023",
       "direction_id": "1",
       "headsign": "WOJNÓW (Pętla)",
       "service_id": "6",
@@ -83522,7 +83522,7 @@
       ]
     },
     {
-      "trip_id": "6_17606011",
+      "trip_id": "6_17710024",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "6",
@@ -83719,7 +83719,7 @@
       ]
     },
     {
-      "trip_id": "6_17606012",
+      "trip_id": "6_17710025",
       "direction_id": "1",
       "headsign": "WOJNÓW (Pętla)",
       "service_id": "6",
@@ -83898,7 +83898,7 @@
       ]
     },
     {
-      "trip_id": "6_17606013",
+      "trip_id": "6_17710026",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "6",
@@ -84095,7 +84095,7 @@
       ]
     },
     {
-      "trip_id": "6_17606014",
+      "trip_id": "6_17710027",
       "direction_id": "1",
       "headsign": "WOJNÓW (Pętla)",
       "service_id": "6",
@@ -84274,7 +84274,7 @@
       ]
     },
     {
-      "trip_id": "6_17606015",
+      "trip_id": "6_17710028",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "6",
@@ -84471,7 +84471,7 @@
       ]
     },
     {
-      "trip_id": "6_17606016",
+      "trip_id": "6_17710029",
       "direction_id": "1",
       "headsign": "WOJNÓW (Pętla)",
       "service_id": "6",
@@ -84650,7 +84650,7 @@
       ]
     },
     {
-      "trip_id": "6_17606017",
+      "trip_id": "6_17710030",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "6",
@@ -84973,7 +84973,7 @@
       ]
     },
     {
-      "trip_id": "8_17612632",
+      "trip_id": "8_17716645",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "8",
@@ -85125,7 +85125,7 @@
       ]
     },
     {
-      "trip_id": "8_17612633",
+      "trip_id": "8_17716646",
       "direction_id": "1",
       "headsign": "WOJNÓW (Pętla)",
       "service_id": "8",
@@ -85304,7 +85304,7 @@
       ]
     },
     {
-      "trip_id": "8_17612634",
+      "trip_id": "8_17716647",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "8",
@@ -85501,7 +85501,7 @@
       ]
     },
     {
-      "trip_id": "8_17612635",
+      "trip_id": "8_17716648",
       "direction_id": "1",
       "headsign": "WOJNÓW (Pętla)",
       "service_id": "8",
@@ -85680,7 +85680,7 @@
       ]
     },
     {
-      "trip_id": "8_17612636",
+      "trip_id": "8_17716649",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "8",
@@ -85877,7 +85877,7 @@
       ]
     },
     {
-      "trip_id": "8_17612637",
+      "trip_id": "8_17716650",
       "direction_id": "1",
       "headsign": "WOJNÓW (Pętla)",
       "service_id": "8",
@@ -86056,7 +86056,7 @@
       ]
     },
     {
-      "trip_id": "8_17612638",
+      "trip_id": "8_17716651",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "8",
@@ -86253,7 +86253,7 @@
       ]
     },
     {
-      "trip_id": "8_17612639",
+      "trip_id": "8_17716652",
       "direction_id": "1",
       "headsign": "WOJNÓW (Pętla)",
       "service_id": "8",
@@ -86432,7 +86432,7 @@
       ]
     },
     {
-      "trip_id": "8_17612640",
+      "trip_id": "8_17716653",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "8",
@@ -86629,7 +86629,7 @@
       ]
     },
     {
-      "trip_id": "8_17612641",
+      "trip_id": "8_17716654",
       "direction_id": "1",
       "headsign": "WOJNÓW (Pętla)",
       "service_id": "8",
@@ -86808,7 +86808,7 @@
       ]
     },
     {
-      "trip_id": "8_17612642",
+      "trip_id": "8_17716655",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "8",
@@ -87005,7 +87005,7 @@
       ]
     },
     {
-      "trip_id": "8_17612643",
+      "trip_id": "8_17716656",
       "direction_id": "1",
       "headsign": "WOJNÓW (Pętla)",
       "service_id": "8",
@@ -87184,7 +87184,7 @@
       ]
     },
     {
-      "trip_id": "8_17612644",
+      "trip_id": "8_17716657",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "8",
@@ -87381,7 +87381,7 @@
       ]
     },
     {
-      "trip_id": "8_17612645",
+      "trip_id": "8_17716658",
       "direction_id": "1",
       "headsign": "WOJNÓW (Pętla)",
       "service_id": "8",
@@ -87560,7 +87560,7 @@
       ]
     },
     {
-      "trip_id": "8_17612646",
+      "trip_id": "8_17716659",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "8",
@@ -87757,7 +87757,7 @@
       ]
     },
     {
-      "trip_id": "8_17612647",
+      "trip_id": "8_17716660",
       "direction_id": "1",
       "headsign": "WOJNÓW (Pętla)",
       "service_id": "8",
@@ -87936,7 +87936,7 @@
       ]
     },
     {
-      "trip_id": "8_17612648",
+      "trip_id": "8_17716661",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "8",
@@ -88133,7 +88133,7 @@
       ]
     },
     {
-      "trip_id": "8_17612649",
+      "trip_id": "8_17716662",
       "direction_id": "1",
       "headsign": "WOJNÓW (Pętla)",
       "service_id": "8",
@@ -88312,7 +88312,7 @@
       ]
     },
     {
-      "trip_id": "8_17612650",
+      "trip_id": "8_17716663",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "8",
@@ -88509,7 +88509,7 @@
       ]
     },
     {
-      "trip_id": "8_17612651",
+      "trip_id": "8_17716664",
       "direction_id": "1",
       "headsign": "WOJNÓW (Pętla)",
       "service_id": "8",
@@ -88688,7 +88688,7 @@
       ]
     },
     {
-      "trip_id": "8_17612652",
+      "trip_id": "8_17716665",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "8",
@@ -88885,7 +88885,7 @@
       ]
     },
     {
-      "trip_id": "8_17612653",
+      "trip_id": "8_17716666",
       "direction_id": "1",
       "headsign": "WOJNÓW (Pętla)",
       "service_id": "8",
@@ -89064,7 +89064,7 @@
       ]
     },
     {
-      "trip_id": "8_17612654",
+      "trip_id": "8_17716667",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "8",
@@ -89261,7 +89261,7 @@
       ]
     },
     {
-      "trip_id": "8_17612655",
+      "trip_id": "8_17716668",
       "direction_id": "1",
       "headsign": "WOJNÓW (Pętla)",
       "service_id": "8",
@@ -89440,7 +89440,7 @@
       ]
     },
     {
-      "trip_id": "8_17612656",
+      "trip_id": "8_17716669",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "8",
@@ -89763,7 +89763,7 @@
       ]
     },
     {
-      "trip_id": "8_17612657",
+      "trip_id": "8_17716670",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "8",
@@ -89915,7 +89915,7 @@
       ]
     },
     {
-      "trip_id": "8_17612658",
+      "trip_id": "8_17716671",
       "direction_id": "1",
       "headsign": "WOJNÓW (Pętla)",
       "service_id": "8",
@@ -90094,7 +90094,7 @@
       ]
     },
     {
-      "trip_id": "8_17612659",
+      "trip_id": "8_17716672",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "8",
@@ -90291,7 +90291,7 @@
       ]
     },
     {
-      "trip_id": "8_17612660",
+      "trip_id": "8_17716673",
       "direction_id": "1",
       "headsign": "WOJNÓW (Pętla)",
       "service_id": "8",
@@ -90470,7 +90470,7 @@
       ]
     },
     {
-      "trip_id": "8_17612661",
+      "trip_id": "8_17716674",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "8",
@@ -90667,7 +90667,7 @@
       ]
     },
     {
-      "trip_id": "8_17612662",
+      "trip_id": "8_17716675",
       "direction_id": "1",
       "headsign": "WOJNÓW (Pętla)",
       "service_id": "8",
@@ -90846,7 +90846,7 @@
       ]
     },
     {
-      "trip_id": "8_17612663",
+      "trip_id": "8_17716676",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "8",
@@ -91043,7 +91043,7 @@
       ]
     },
     {
-      "trip_id": "8_17612664",
+      "trip_id": "8_17716677",
       "direction_id": "1",
       "headsign": "WOJNÓW (Pętla)",
       "service_id": "8",
@@ -91222,7 +91222,7 @@
       ]
     },
     {
-      "trip_id": "8_17612665",
+      "trip_id": "8_17716678",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "8",
@@ -91419,7 +91419,7 @@
       ]
     },
     {
-      "trip_id": "8_17612666",
+      "trip_id": "8_17716679",
       "direction_id": "1",
       "headsign": "WOJNÓW (Pętla)",
       "service_id": "8",
@@ -91598,7 +91598,7 @@
       ]
     },
     {
-      "trip_id": "8_17612667",
+      "trip_id": "8_17716680",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "8",
@@ -91795,7 +91795,7 @@
       ]
     },
     {
-      "trip_id": "8_17612668",
+      "trip_id": "8_17716681",
       "direction_id": "1",
       "headsign": "WOJNÓW (Pętla)",
       "service_id": "8",
@@ -91974,7 +91974,7 @@
       ]
     },
     {
-      "trip_id": "8_17612669",
+      "trip_id": "8_17716682",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "8",
@@ -92171,7 +92171,7 @@
       ]
     },
     {
-      "trip_id": "8_17612670",
+      "trip_id": "8_17716683",
       "direction_id": "1",
       "headsign": "WOJNÓW (Pętla)",
       "service_id": "8",
@@ -92350,7 +92350,7 @@
       ]
     },
     {
-      "trip_id": "8_17612671",
+      "trip_id": "8_17716684",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "8",
@@ -92547,7 +92547,7 @@
       ]
     },
     {
-      "trip_id": "8_17612672",
+      "trip_id": "8_17716685",
       "direction_id": "1",
       "headsign": "WOJNÓW (Pętla)",
       "service_id": "8",
@@ -92726,7 +92726,7 @@
       ]
     },
     {
-      "trip_id": "8_17612673",
+      "trip_id": "8_17716686",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "8",
@@ -92923,7 +92923,7 @@
       ]
     },
     {
-      "trip_id": "8_17612674",
+      "trip_id": "8_17716687",
       "direction_id": "1",
       "headsign": "WOJNÓW (Pętla)",
       "service_id": "8",
@@ -93102,7 +93102,7 @@
       ]
     },
     {
-      "trip_id": "8_17612675",
+      "trip_id": "8_17716688",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "8",
@@ -93299,7 +93299,7 @@
       ]
     },
     {
-      "trip_id": "8_17612676",
+      "trip_id": "8_17716689",
       "direction_id": "1",
       "headsign": "WOJNÓW (Pętla)",
       "service_id": "8",
@@ -93478,7 +93478,7 @@
       ]
     },
     {
-      "trip_id": "8_17612677",
+      "trip_id": "8_17716690",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "8",
@@ -93675,7 +93675,7 @@
       ]
     },
     {
-      "trip_id": "8_17612678",
+      "trip_id": "8_17716691",
       "direction_id": "1",
       "headsign": "WOJNÓW (Pętla)",
       "service_id": "8",
@@ -93854,7 +93854,7 @@
       ]
     },
     {
-      "trip_id": "8_17612679",
+      "trip_id": "8_17716692",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "8",
@@ -94051,7 +94051,7 @@
       ]
     },
     {
-      "trip_id": "8_17612680",
+      "trip_id": "8_17716693",
       "direction_id": "1",
       "headsign": "WOJNÓW (Pętla)",
       "service_id": "8",
@@ -94230,7 +94230,7 @@
       ]
     },
     {
-      "trip_id": "8_17612681",
+      "trip_id": "8_17716694",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "8",
@@ -94427,7 +94427,7 @@
       ]
     },
     {
-      "trip_id": "8_17612682",
+      "trip_id": "8_17716695",
       "direction_id": "1",
       "headsign": "WOJNÓW (Pętla)",
       "service_id": "8",
@@ -94606,7 +94606,7 @@
       ]
     },
     {
-      "trip_id": "8_17612683",
+      "trip_id": "8_17716696",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "8",
@@ -94803,7 +94803,7 @@
       ]
     },
     {
-      "trip_id": "8_17612684",
+      "trip_id": "8_17716697",
       "direction_id": "1",
       "headsign": "WOJNÓW (Pętla)",
       "service_id": "8",
@@ -94982,7 +94982,7 @@
       ]
     },
     {
-      "trip_id": "8_17612685",
+      "trip_id": "8_17716698",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "8",
@@ -95179,7 +95179,7 @@
       ]
     },
     {
-      "trip_id": "8_17612686",
+      "trip_id": "8_17716699",
       "direction_id": "1",
       "headsign": "WOJNÓW (Pętla)",
       "service_id": "8",
@@ -95358,7 +95358,7 @@
       ]
     },
     {
-      "trip_id": "8_17612687",
+      "trip_id": "8_17716700",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "8",
@@ -95555,7 +95555,7 @@
       ]
     },
     {
-      "trip_id": "8_17612688",
+      "trip_id": "8_17716701",
       "direction_id": "1",
       "headsign": "WOJNÓW (Pętla)",
       "service_id": "8",
@@ -95734,7 +95734,7 @@
       ]
     },
     {
-      "trip_id": "8_17612689",
+      "trip_id": "8_17716702",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "8",
@@ -96057,7 +96057,7 @@
       ]
     },
     {
-      "trip_id": "8_17612690",
+      "trip_id": "8_17716703",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "8",
@@ -96209,7 +96209,7 @@
       ]
     },
     {
-      "trip_id": "8_17612691",
+      "trip_id": "8_17716704",
       "direction_id": "1",
       "headsign": "WOJNÓW (Pętla)",
       "service_id": "8",
@@ -96388,7 +96388,7 @@
       ]
     },
     {
-      "trip_id": "8_17612692",
+      "trip_id": "8_17716705",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "8",
@@ -96585,7 +96585,7 @@
       ]
     },
     {
-      "trip_id": "8_17612693",
+      "trip_id": "8_17716706",
       "direction_id": "1",
       "headsign": "WOJNÓW (Pętla)",
       "service_id": "8",
@@ -96764,7 +96764,7 @@
       ]
     },
     {
-      "trip_id": "8_17612694",
+      "trip_id": "8_17716707",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "8",
@@ -96961,7 +96961,7 @@
       ]
     },
     {
-      "trip_id": "8_17612695",
+      "trip_id": "8_17716708",
       "direction_id": "1",
       "headsign": "WOJNÓW (Pętla)",
       "service_id": "8",
@@ -97140,7 +97140,7 @@
       ]
     },
     {
-      "trip_id": "8_17612696",
+      "trip_id": "8_17716709",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "8",
@@ -97337,7 +97337,7 @@
       ]
     },
     {
-      "trip_id": "8_17612697",
+      "trip_id": "8_17716710",
       "direction_id": "1",
       "headsign": "WOJNÓW (Pętla)",
       "service_id": "8",
@@ -97516,7 +97516,7 @@
       ]
     },
     {
-      "trip_id": "8_17612698",
+      "trip_id": "8_17716711",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "8",
@@ -97713,7 +97713,7 @@
       ]
     },
     {
-      "trip_id": "8_17612699",
+      "trip_id": "8_17716712",
       "direction_id": "1",
       "headsign": "WOJNÓW (Pętla)",
       "service_id": "8",
@@ -97892,7 +97892,7 @@
       ]
     },
     {
-      "trip_id": "8_17612700",
+      "trip_id": "8_17716713",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "8",
@@ -98089,7 +98089,7 @@
       ]
     },
     {
-      "trip_id": "8_17612701",
+      "trip_id": "8_17716714",
       "direction_id": "1",
       "headsign": "WOJNÓW (Pętla)",
       "service_id": "8",
@@ -98268,7 +98268,7 @@
       ]
     },
     {
-      "trip_id": "8_17612702",
+      "trip_id": "8_17716715",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "8",
@@ -98465,7 +98465,7 @@
       ]
     },
     {
-      "trip_id": "8_17612703",
+      "trip_id": "8_17716716",
       "direction_id": "1",
       "headsign": "WOJNÓW (Pętla)",
       "service_id": "8",
@@ -98644,7 +98644,7 @@
       ]
     },
     {
-      "trip_id": "8_17612704",
+      "trip_id": "8_17716717",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "8",
@@ -98841,7 +98841,7 @@
       ]
     },
     {
-      "trip_id": "8_17612705",
+      "trip_id": "8_17716718",
       "direction_id": "1",
       "headsign": "WOJNÓW (Pętla)",
       "service_id": "8",
@@ -99020,7 +99020,7 @@
       ]
     },
     {
-      "trip_id": "8_17612706",
+      "trip_id": "8_17716719",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "8",
@@ -99217,7 +99217,7 @@
       ]
     },
     {
-      "trip_id": "8_17612707",
+      "trip_id": "8_17716720",
       "direction_id": "1",
       "headsign": "WOJNÓW (Pętla)",
       "service_id": "8",
@@ -99396,7 +99396,7 @@
       ]
     },
     {
-      "trip_id": "8_17612708",
+      "trip_id": "8_17716721",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "8",
@@ -99593,7 +99593,7 @@
       ]
     },
     {
-      "trip_id": "8_17612709",
+      "trip_id": "8_17716722",
       "direction_id": "1",
       "headsign": "WOJNÓW (Pętla)",
       "service_id": "8",
@@ -99772,7 +99772,7 @@
       ]
     },
     {
-      "trip_id": "8_17612710",
+      "trip_id": "8_17716723",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "8",
@@ -99969,7 +99969,7 @@
       ]
     },
     {
-      "trip_id": "8_17612711",
+      "trip_id": "8_17716724",
       "direction_id": "1",
       "headsign": "WOJNÓW (Pętla)",
       "service_id": "8",
@@ -100148,7 +100148,7 @@
       ]
     },
     {
-      "trip_id": "8_17612712",
+      "trip_id": "8_17716725",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "8",
@@ -100471,7 +100471,7 @@
       ]
     },
     {
-      "trip_id": "8_17612713",
+      "trip_id": "8_17716726",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "8",
@@ -100623,7 +100623,7 @@
       ]
     },
     {
-      "trip_id": "8_17612714",
+      "trip_id": "8_17716727",
       "direction_id": "1",
       "headsign": "WOJNÓW (Pętla)",
       "service_id": "8",
@@ -100802,7 +100802,7 @@
       ]
     },
     {
-      "trip_id": "8_17612715",
+      "trip_id": "8_17716728",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "8",
@@ -100999,7 +100999,7 @@
       ]
     },
     {
-      "trip_id": "8_17612716",
+      "trip_id": "8_17716729",
       "direction_id": "1",
       "headsign": "WOJNÓW (Pętla)",
       "service_id": "8",
@@ -101178,7 +101178,7 @@
       ]
     },
     {
-      "trip_id": "8_17612717",
+      "trip_id": "8_17716730",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "8",
@@ -101375,7 +101375,7 @@
       ]
     },
     {
-      "trip_id": "8_17612718",
+      "trip_id": "8_17716731",
       "direction_id": "1",
       "headsign": "WOJNÓW (Pętla)",
       "service_id": "8",
@@ -101554,7 +101554,7 @@
       ]
     },
     {
-      "trip_id": "8_17612719",
+      "trip_id": "8_17716732",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "8",
@@ -101751,7 +101751,7 @@
       ]
     },
     {
-      "trip_id": "8_17612720",
+      "trip_id": "8_17716733",
       "direction_id": "1",
       "headsign": "WOJNÓW (Pętla)",
       "service_id": "8",
@@ -101930,7 +101930,7 @@
       ]
     },
     {
-      "trip_id": "8_17612721",
+      "trip_id": "8_17716734",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "8",
@@ -102127,7 +102127,7 @@
       ]
     },
     {
-      "trip_id": "8_17612722",
+      "trip_id": "8_17716735",
       "direction_id": "1",
       "headsign": "WOJNÓW (Pętla)",
       "service_id": "8",
@@ -102306,7 +102306,7 @@
       ]
     },
     {
-      "trip_id": "8_17612723",
+      "trip_id": "8_17716736",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "8",
@@ -102503,7 +102503,7 @@
       ]
     },
     {
-      "trip_id": "8_17612724",
+      "trip_id": "8_17716737",
       "direction_id": "1",
       "headsign": "WOJNÓW (Pętla)",
       "service_id": "8",
@@ -102682,7 +102682,7 @@
       ]
     },
     {
-      "trip_id": "8_17612725",
+      "trip_id": "8_17716738",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "8",
@@ -102879,7 +102879,7 @@
       ]
     },
     {
-      "trip_id": "8_17612726",
+      "trip_id": "8_17716739",
       "direction_id": "1",
       "headsign": "WOJNÓW (Pętla)",
       "service_id": "8",
@@ -103058,7 +103058,7 @@
       ]
     },
     {
-      "trip_id": "8_17612727",
+      "trip_id": "8_17716740",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "8",
@@ -103255,7 +103255,7 @@
       ]
     },
     {
-      "trip_id": "8_17612728",
+      "trip_id": "8_17716741",
       "direction_id": "1",
       "headsign": "WOJNÓW (Pętla)",
       "service_id": "8",
@@ -103434,7 +103434,7 @@
       ]
     },
     {
-      "trip_id": "8_17612729",
+      "trip_id": "8_17716742",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "8",
@@ -103631,7 +103631,7 @@
       ]
     },
     {
-      "trip_id": "8_17612730",
+      "trip_id": "8_17716743",
       "direction_id": "1",
       "headsign": "WOJNÓW (Pętla)",
       "service_id": "8",
@@ -103810,7 +103810,7 @@
       ]
     },
     {
-      "trip_id": "8_17612731",
+      "trip_id": "8_17716744",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "8",
@@ -104007,7 +104007,7 @@
       ]
     },
     {
-      "trip_id": "8_17612732",
+      "trip_id": "8_17716745",
       "direction_id": "1",
       "headsign": "WOJNÓW (Pętla)",
       "service_id": "8",
@@ -104186,7 +104186,7 @@
       ]
     },
     {
-      "trip_id": "8_17612733",
+      "trip_id": "8_17716746",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "8",
@@ -104383,7 +104383,7 @@
       ]
     },
     {
-      "trip_id": "8_17612734",
+      "trip_id": "8_17716747",
       "direction_id": "1",
       "headsign": "WOJNÓW (Pętla)",
       "service_id": "8",
@@ -104562,7 +104562,7 @@
       ]
     },
     {
-      "trip_id": "8_17612735",
+      "trip_id": "8_17716748",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "8",
@@ -104759,7 +104759,7 @@
       ]
     },
     {
-      "trip_id": "8_17612736",
+      "trip_id": "8_17716749",
       "direction_id": "1",
       "headsign": "WOJNÓW (Pętla)",
       "service_id": "8",
@@ -104938,7 +104938,7 @@
       ]
     },
     {
-      "trip_id": "8_17612737",
+      "trip_id": "8_17716750",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "8",
@@ -105135,7 +105135,7 @@
       ]
     },
     {
-      "trip_id": "8_17612738",
+      "trip_id": "8_17716751",
       "direction_id": "1",
       "headsign": "WOJNÓW (Pętla)",
       "service_id": "8",
@@ -105314,7 +105314,7 @@
       ]
     },
     {
-      "trip_id": "8_17612739",
+      "trip_id": "8_17716752",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "8",
@@ -105637,7 +105637,7 @@
       ]
     },
     {
-      "trip_id": "8_17612740",
+      "trip_id": "8_17716753",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "8",
@@ -105789,7 +105789,7 @@
       ]
     },
     {
-      "trip_id": "8_17612741",
+      "trip_id": "8_17716754",
       "direction_id": "1",
       "headsign": "WOJNÓW (Pętla)",
       "service_id": "8",
@@ -105968,7 +105968,7 @@
       ]
     },
     {
-      "trip_id": "8_17612742",
+      "trip_id": "8_17716755",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "8",
@@ -106165,7 +106165,7 @@
       ]
     },
     {
-      "trip_id": "8_17612743",
+      "trip_id": "8_17716756",
       "direction_id": "1",
       "headsign": "WOJNÓW (Pętla)",
       "service_id": "8",
@@ -106344,7 +106344,7 @@
       ]
     },
     {
-      "trip_id": "8_17612744",
+      "trip_id": "8_17716757",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "8",
@@ -106541,7 +106541,7 @@
       ]
     },
     {
-      "trip_id": "8_17612745",
+      "trip_id": "8_17716758",
       "direction_id": "1",
       "headsign": "WOJNÓW (Pętla)",
       "service_id": "8",
@@ -106720,7 +106720,7 @@
       ]
     },
     {
-      "trip_id": "8_17612746",
+      "trip_id": "8_17716759",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "8",
@@ -106917,7 +106917,7 @@
       ]
     },
     {
-      "trip_id": "8_17612747",
+      "trip_id": "8_17716760",
       "direction_id": "1",
       "headsign": "WOJNÓW (Pętla)",
       "service_id": "8",
@@ -107096,7 +107096,7 @@
       ]
     },
     {
-      "trip_id": "8_17612748",
+      "trip_id": "8_17716761",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "8",
@@ -107293,7 +107293,7 @@
       ]
     },
     {
-      "trip_id": "8_17612749",
+      "trip_id": "8_17716762",
       "direction_id": "1",
       "headsign": "WOJNÓW (Pętla)",
       "service_id": "8",
@@ -107472,7 +107472,7 @@
       ]
     },
     {
-      "trip_id": "8_17612750",
+      "trip_id": "8_17716763",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "8",
@@ -107669,7 +107669,7 @@
       ]
     },
     {
-      "trip_id": "8_17612751",
+      "trip_id": "8_17716764",
       "direction_id": "1",
       "headsign": "WOJNÓW (Pętla)",
       "service_id": "8",
@@ -107848,7 +107848,7 @@
       ]
     },
     {
-      "trip_id": "8_17612752",
+      "trip_id": "8_17716765",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "8",
@@ -108045,7 +108045,7 @@
       ]
     },
     {
-      "trip_id": "8_17612753",
+      "trip_id": "8_17716766",
       "direction_id": "1",
       "headsign": "WOJNÓW (Pętla)",
       "service_id": "8",
@@ -108224,7 +108224,7 @@
       ]
     },
     {
-      "trip_id": "8_17612754",
+      "trip_id": "8_17716767",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "8",
@@ -108421,7 +108421,7 @@
       ]
     },
     {
-      "trip_id": "8_17612755",
+      "trip_id": "8_17716768",
       "direction_id": "1",
       "headsign": "WOJNÓW (Pętla)",
       "service_id": "8",
@@ -108600,7 +108600,7 @@
       ]
     },
     {
-      "trip_id": "8_17612756",
+      "trip_id": "8_17716769",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "8",
@@ -108797,7 +108797,7 @@
       ]
     },
     {
-      "trip_id": "8_17612757",
+      "trip_id": "8_17716770",
       "direction_id": "1",
       "headsign": "WOJNÓW (Pętla)",
       "service_id": "8",
@@ -108976,7 +108976,7 @@
       ]
     },
     {
-      "trip_id": "8_17612758",
+      "trip_id": "8_17716771",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "8",
@@ -109173,7 +109173,7 @@
       ]
     },
     {
-      "trip_id": "8_17612759",
+      "trip_id": "8_17716772",
       "direction_id": "1",
       "headsign": "WOJNÓW (Pętla)",
       "service_id": "8",
@@ -109352,7 +109352,7 @@
       ]
     },
     {
-      "trip_id": "8_17612760",
+      "trip_id": "8_17716773",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "8",
@@ -109549,7 +109549,7 @@
       ]
     },
     {
-      "trip_id": "8_17612761",
+      "trip_id": "8_17716774",
       "direction_id": "1",
       "headsign": "WOJNÓW (Pętla)",
       "service_id": "8",
@@ -109728,7 +109728,7 @@
       ]
     },
     {
-      "trip_id": "8_17612762",
+      "trip_id": "8_17716775",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "8",
@@ -109925,7 +109925,7 @@
       ]
     },
     {
-      "trip_id": "8_17612763",
+      "trip_id": "8_17716776",
       "direction_id": "1",
       "headsign": "WOJNÓW (Pętla)",
       "service_id": "8",
@@ -110104,7 +110104,7 @@
       ]
     },
     {
-      "trip_id": "8_17612764",
+      "trip_id": "8_17716777",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "8",
@@ -110301,7 +110301,7 @@
       ]
     },
     {
-      "trip_id": "8_17612765",
+      "trip_id": "8_17716778",
       "direction_id": "1",
       "headsign": "WOJNÓW (Pętla)",
       "service_id": "8",
@@ -110480,7 +110480,7 @@
       ]
     },
     {
-      "trip_id": "8_17612766",
+      "trip_id": "8_17716779",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "8",
@@ -110677,7 +110677,7 @@
       ]
     },
     {
-      "trip_id": "8_17612767",
+      "trip_id": "8_17716780",
       "direction_id": "1",
       "headsign": "WOJNÓW (Pętla)",
       "service_id": "8",
@@ -110856,7 +110856,7 @@
       ]
     },
     {
-      "trip_id": "8_17612768",
+      "trip_id": "8_17716781",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "8",
@@ -111179,7 +111179,7 @@
       ]
     },
     {
-      "trip_id": "8_17612769",
+      "trip_id": "8_17716782",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "8",
@@ -111331,7 +111331,7 @@
       ]
     },
     {
-      "trip_id": "8_17612770",
+      "trip_id": "8_17716783",
       "direction_id": "1",
       "headsign": "WOJNÓW (Pętla)",
       "service_id": "8",
@@ -111510,7 +111510,7 @@
       ]
     },
     {
-      "trip_id": "8_17612771",
+      "trip_id": "8_17716784",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "8",
@@ -111707,7 +111707,7 @@
       ]
     },
     {
-      "trip_id": "8_17612772",
+      "trip_id": "8_17716785",
       "direction_id": "1",
       "headsign": "WOJNÓW (Pętla)",
       "service_id": "8",
@@ -111886,7 +111886,7 @@
       ]
     },
     {
-      "trip_id": "8_17612773",
+      "trip_id": "8_17716786",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "8",
@@ -112083,7 +112083,7 @@
       ]
     },
     {
-      "trip_id": "8_17612774",
+      "trip_id": "8_17716787",
       "direction_id": "1",
       "headsign": "WOJNÓW (Pętla)",
       "service_id": "8",
@@ -112262,7 +112262,7 @@
       ]
     },
     {
-      "trip_id": "8_17612775",
+      "trip_id": "8_17716788",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "8",
@@ -112459,7 +112459,7 @@
       ]
     },
     {
-      "trip_id": "8_17612776",
+      "trip_id": "8_17716789",
       "direction_id": "1",
       "headsign": "WOJNÓW (Pętla)",
       "service_id": "8",
@@ -112638,7 +112638,7 @@
       ]
     },
     {
-      "trip_id": "8_17612777",
+      "trip_id": "8_17716790",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "8",
@@ -112835,7 +112835,7 @@
       ]
     },
     {
-      "trip_id": "8_17612778",
+      "trip_id": "8_17716791",
       "direction_id": "1",
       "headsign": "WOJNÓW (Pętla)",
       "service_id": "8",
@@ -113014,7 +113014,7 @@
       ]
     },
     {
-      "trip_id": "8_17612779",
+      "trip_id": "8_17716792",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "8",
@@ -113211,7 +113211,7 @@
       ]
     },
     {
-      "trip_id": "8_17612780",
+      "trip_id": "8_17716793",
       "direction_id": "1",
       "headsign": "WOJNÓW (Pętla)",
       "service_id": "8",
@@ -113390,7 +113390,7 @@
       ]
     },
     {
-      "trip_id": "8_17612781",
+      "trip_id": "8_17716794",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "8",
@@ -113587,7 +113587,7 @@
       ]
     },
     {
-      "trip_id": "8_17612782",
+      "trip_id": "8_17716795",
       "direction_id": "1",
       "headsign": "WOJNÓW (Pętla)",
       "service_id": "8",
@@ -113766,7 +113766,7 @@
       ]
     },
     {
-      "trip_id": "8_17612783",
+      "trip_id": "8_17716796",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "8",
@@ -113963,7 +113963,7 @@
       ]
     },
     {
-      "trip_id": "8_17612784",
+      "trip_id": "8_17716797",
       "direction_id": "1",
       "headsign": "WOJNÓW (Pętla)",
       "service_id": "8",
@@ -114142,7 +114142,7 @@
       ]
     },
     {
-      "trip_id": "8_17612785",
+      "trip_id": "8_17716798",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "8",
@@ -114339,7 +114339,7 @@
       ]
     },
     {
-      "trip_id": "8_17612786",
+      "trip_id": "8_17716799",
       "direction_id": "1",
       "headsign": "WOJNÓW (Pętla)",
       "service_id": "8",
@@ -114518,7 +114518,7 @@
       ]
     },
     {
-      "trip_id": "8_17612787",
+      "trip_id": "8_17716800",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "8",
@@ -114715,7 +114715,7 @@
       ]
     },
     {
-      "trip_id": "8_17612788",
+      "trip_id": "8_17716801",
       "direction_id": "1",
       "headsign": "WOJNÓW (Pętla)",
       "service_id": "8",
@@ -114894,7 +114894,7 @@
       ]
     },
     {
-      "trip_id": "8_17612789",
+      "trip_id": "8_17716802",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "8",
@@ -115091,7 +115091,7 @@
       ]
     },
     {
-      "trip_id": "8_17612790",
+      "trip_id": "8_17716803",
       "direction_id": "1",
       "headsign": "WOJNÓW (Pętla)",
       "service_id": "8",
@@ -115270,7 +115270,7 @@
       ]
     },
     {
-      "trip_id": "8_17612791",
+      "trip_id": "8_17716804",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "8",
@@ -115467,7 +115467,7 @@
       ]
     },
     {
-      "trip_id": "8_17612792",
+      "trip_id": "8_17716805",
       "direction_id": "1",
       "headsign": "WOJNÓW (Pętla)",
       "service_id": "8",
@@ -115646,7 +115646,7 @@
       ]
     },
     {
-      "trip_id": "8_17612793",
+      "trip_id": "8_17716806",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "8",
@@ -115843,7 +115843,7 @@
       ]
     },
     {
-      "trip_id": "8_17612794",
+      "trip_id": "8_17716807",
       "direction_id": "1",
       "headsign": "WOJNÓW (Pętla)",
       "service_id": "8",
@@ -116022,7 +116022,7 @@
       ]
     },
     {
-      "trip_id": "8_17612795",
+      "trip_id": "8_17716808",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "8",
@@ -116345,7 +116345,7 @@
       ]
     },
     {
-      "trip_id": "8_17612796",
+      "trip_id": "8_17716809",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "8",
@@ -116497,7 +116497,7 @@
       ]
     },
     {
-      "trip_id": "8_17612797",
+      "trip_id": "8_17716810",
       "direction_id": "1",
       "headsign": "WOJNÓW (Pętla)",
       "service_id": "8",
@@ -116676,7 +116676,7 @@
       ]
     },
     {
-      "trip_id": "8_17612798",
+      "trip_id": "8_17716811",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "8",
@@ -116873,7 +116873,7 @@
       ]
     },
     {
-      "trip_id": "8_17612799",
+      "trip_id": "8_17716812",
       "direction_id": "1",
       "headsign": "WOJNÓW (Pętla)",
       "service_id": "8",
@@ -117052,7 +117052,7 @@
       ]
     },
     {
-      "trip_id": "8_17612800",
+      "trip_id": "8_17716813",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "8",
@@ -117249,7 +117249,7 @@
       ]
     },
     {
-      "trip_id": "8_17612801",
+      "trip_id": "8_17716814",
       "direction_id": "1",
       "headsign": "WOJNÓW (Pętla)",
       "service_id": "8",
@@ -117428,7 +117428,7 @@
       ]
     },
     {
-      "trip_id": "8_17612802",
+      "trip_id": "8_17716815",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "8",
@@ -117625,7 +117625,7 @@
       ]
     },
     {
-      "trip_id": "8_17612803",
+      "trip_id": "8_17716816",
       "direction_id": "1",
       "headsign": "WOJNÓW (Pętla)",
       "service_id": "8",
@@ -117804,7 +117804,7 @@
       ]
     },
     {
-      "trip_id": "8_17612804",
+      "trip_id": "8_17716817",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "8",
@@ -118001,7 +118001,7 @@
       ]
     },
     {
-      "trip_id": "8_17612805",
+      "trip_id": "8_17716818",
       "direction_id": "1",
       "headsign": "WOJNÓW (Pętla)",
       "service_id": "8",
@@ -118180,7 +118180,7 @@
       ]
     },
     {
-      "trip_id": "8_17612806",
+      "trip_id": "8_17716819",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "8",
@@ -118377,7 +118377,7 @@
       ]
     },
     {
-      "trip_id": "8_17612807",
+      "trip_id": "8_17716820",
       "direction_id": "1",
       "headsign": "WOJNÓW (Pętla)",
       "service_id": "8",
@@ -118556,7 +118556,7 @@
       ]
     },
     {
-      "trip_id": "8_17612808",
+      "trip_id": "8_17716821",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "8",
@@ -118753,7 +118753,7 @@
       ]
     },
     {
-      "trip_id": "8_17612809",
+      "trip_id": "8_17716822",
       "direction_id": "1",
       "headsign": "WOJNÓW (Pętla)",
       "service_id": "8",
@@ -118932,7 +118932,7 @@
       ]
     },
     {
-      "trip_id": "8_17612810",
+      "trip_id": "8_17716823",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "8",
@@ -119129,7 +119129,7 @@
       ]
     },
     {
-      "trip_id": "8_17612811",
+      "trip_id": "8_17716824",
       "direction_id": "1",
       "headsign": "WOJNÓW (Pętla)",
       "service_id": "8",
@@ -119308,7 +119308,7 @@
       ]
     },
     {
-      "trip_id": "8_17612812",
+      "trip_id": "8_17716825",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "8",
@@ -119505,7 +119505,7 @@
       ]
     },
     {
-      "trip_id": "8_17612813",
+      "trip_id": "8_17716826",
       "direction_id": "1",
       "headsign": "WOJNÓW (Pętla)",
       "service_id": "8",
@@ -119684,7 +119684,7 @@
       ]
     },
     {
-      "trip_id": "8_17612814",
+      "trip_id": "8_17716827",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "8",
@@ -119881,7 +119881,7 @@
       ]
     },
     {
-      "trip_id": "8_17612815",
+      "trip_id": "8_17716828",
       "direction_id": "1",
       "headsign": "WOJNÓW (Pętla)",
       "service_id": "8",
@@ -120060,7 +120060,7 @@
       ]
     },
     {
-      "trip_id": "8_17612816",
+      "trip_id": "8_17716829",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "8",
@@ -120257,7 +120257,7 @@
       ]
     },
     {
-      "trip_id": "8_17612817",
+      "trip_id": "8_17716830",
       "direction_id": "1",
       "headsign": "WOJNÓW (Pętla)",
       "service_id": "8",
@@ -120436,7 +120436,7 @@
       ]
     },
     {
-      "trip_id": "8_17612818",
+      "trip_id": "8_17716831",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "8",
@@ -120633,7 +120633,7 @@
       ]
     },
     {
-      "trip_id": "8_17612819",
+      "trip_id": "8_17716832",
       "direction_id": "1",
       "headsign": "WOJNÓW (Pętla)",
       "service_id": "8",
@@ -120812,7 +120812,7 @@
       ]
     },
     {
-      "trip_id": "8_17612820",
+      "trip_id": "8_17716833",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "8",
@@ -121009,7 +121009,7 @@
       ]
     },
     {
-      "trip_id": "8_17612821",
+      "trip_id": "8_17716834",
       "direction_id": "1",
       "headsign": "WOJNÓW (Pętla)",
       "service_id": "8",
@@ -121188,7 +121188,7 @@
       ]
     },
     {
-      "trip_id": "8_17612822",
+      "trip_id": "8_17716835",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "8",
@@ -121511,7 +121511,7 @@
       ]
     },
     {
-      "trip_id": "8_17612825",
+      "trip_id": "8_17716838",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "8",
@@ -121708,7 +121708,7 @@
       ]
     },
     {
-      "trip_id": "8_17612826",
+      "trip_id": "8_17716839",
       "direction_id": "1",
       "headsign": "WOJNÓW (Pętla)",
       "service_id": "8",
@@ -121887,7 +121887,7 @@
       ]
     },
     {
-      "trip_id": "8_17612827",
+      "trip_id": "8_17716840",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "8",
@@ -122084,7 +122084,7 @@
       ]
     },
     {
-      "trip_id": "8_17612828",
+      "trip_id": "8_17716841",
       "direction_id": "1",
       "headsign": "WOJNÓW (Pętla)",
       "service_id": "8",
@@ -122263,7 +122263,7 @@
       ]
     },
     {
-      "trip_id": "8_17612829",
+      "trip_id": "8_17716842",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "8",
@@ -122460,7 +122460,7 @@
       ]
     },
     {
-      "trip_id": "8_17612830",
+      "trip_id": "8_17716843",
       "direction_id": "1",
       "headsign": "WOJNÓW (Pętla)",
       "service_id": "8",
@@ -122639,7 +122639,7 @@
       ]
     },
     {
-      "trip_id": "8_17612831",
+      "trip_id": "8_17716844",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "8",
@@ -122836,7 +122836,7 @@
       ]
     },
     {
-      "trip_id": "8_17612832",
+      "trip_id": "8_17716845",
       "direction_id": "1",
       "headsign": "WOJNÓW (Pętla)",
       "service_id": "8",
@@ -123015,7 +123015,7 @@
       ]
     },
     {
-      "trip_id": "8_17612833",
+      "trip_id": "8_17716846",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "8",
@@ -123212,7 +123212,7 @@
       ]
     },
     {
-      "trip_id": "8_17612834",
+      "trip_id": "8_17716847",
       "direction_id": "1",
       "headsign": "WOJNÓW (Pętla)",
       "service_id": "8",
@@ -123391,7 +123391,7 @@
       ]
     },
     {
-      "trip_id": "8_17612835",
+      "trip_id": "8_17716848",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "8",
@@ -123588,7 +123588,7 @@
       ]
     },
     {
-      "trip_id": "8_17612836",
+      "trip_id": "8_17716849",
       "direction_id": "1",
       "headsign": "WOJNÓW (Pętla)",
       "service_id": "8",
@@ -123767,7 +123767,7 @@
       ]
     },
     {
-      "trip_id": "8_17612837",
+      "trip_id": "8_17716850",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "8",
@@ -123964,7 +123964,7 @@
       ]
     },
     {
-      "trip_id": "8_17612838",
+      "trip_id": "8_17716851",
       "direction_id": "1",
       "headsign": "WOJNÓW (Pętla)",
       "service_id": "8",
@@ -124143,7 +124143,7 @@
       ]
     },
     {
-      "trip_id": "8_17612839",
+      "trip_id": "8_17716852",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "8",
@@ -124340,7 +124340,7 @@
       ]
     },
     {
-      "trip_id": "8_17612840",
+      "trip_id": "8_17716853",
       "direction_id": "1",
       "headsign": "WOJNÓW (Pętla)",
       "service_id": "8",
@@ -124519,7 +124519,7 @@
       ]
     },
     {
-      "trip_id": "8_17612841",
+      "trip_id": "8_17716854",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "8",
@@ -124716,7 +124716,7 @@
       ]
     },
     {
-      "trip_id": "8_17612842",
+      "trip_id": "8_17716855",
       "direction_id": "1",
       "headsign": "WOJNÓW (Pętla)",
       "service_id": "8",
@@ -124895,7 +124895,7 @@
       ]
     },
     {
-      "trip_id": "8_17612843",
+      "trip_id": "8_17716856",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "8",

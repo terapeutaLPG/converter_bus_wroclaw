@@ -2,7 +2,7 @@
   "line": "125",
   "trips": [
     {
-      "trip_id": "3_17596913",
+      "trip_id": "3_17700926",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "3",
@@ -163,7 +163,7 @@
       ]
     },
     {
-      "trip_id": "3_17596914",
+      "trip_id": "3_17700927",
       "direction_id": "0",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "3",
@@ -486,7 +486,7 @@
       ]
     },
     {
-      "trip_id": "3_17596915",
+      "trip_id": "3_17700928",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "3",
@@ -782,7 +782,7 @@
       ]
     },
     {
-      "trip_id": "3_17596916",
+      "trip_id": "3_17700929",
       "direction_id": "0",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "3",
@@ -1087,7 +1087,7 @@
       ]
     },
     {
-      "trip_id": "3_17596917",
+      "trip_id": "3_17700930",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "3",
@@ -1383,7 +1383,7 @@
       ]
     },
     {
-      "trip_id": "3_17596918",
+      "trip_id": "3_17700931",
       "direction_id": "0",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "3",
@@ -1688,7 +1688,7 @@
       ]
     },
     {
-      "trip_id": "3_17596919",
+      "trip_id": "3_17700932",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "3",
@@ -1984,7 +1984,7 @@
       ]
     },
     {
-      "trip_id": "3_17596920",
+      "trip_id": "3_17700933",
       "direction_id": "0",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "3",
@@ -2307,7 +2307,7 @@
       ]
     },
     {
-      "trip_id": "3_17596921",
+      "trip_id": "3_17700934",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "3",
@@ -2603,7 +2603,7 @@
       ]
     },
     {
-      "trip_id": "3_17596922",
+      "trip_id": "3_17700935",
       "direction_id": "0",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "3",
@@ -2908,7 +2908,7 @@
       ]
     },
     {
-      "trip_id": "3_17596923",
+      "trip_id": "3_17700936",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "3",
@@ -3204,7 +3204,7 @@
       ]
     },
     {
-      "trip_id": "3_17596924",
+      "trip_id": "3_17700937",
       "direction_id": "0",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "3",
@@ -3509,7 +3509,7 @@
       ]
     },
     {
-      "trip_id": "3_17596925",
+      "trip_id": "3_17700938",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "3",
@@ -3805,7 +3805,7 @@
       ]
     },
     {
-      "trip_id": "3_17596926",
+      "trip_id": "3_17700939",
       "direction_id": "0",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "3",
@@ -4110,7 +4110,7 @@
       ]
     },
     {
-      "trip_id": "3_17596927",
+      "trip_id": "3_17700940",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "3",
@@ -4406,7 +4406,7 @@
       ]
     },
     {
-      "trip_id": "3_17596928",
+      "trip_id": "3_17700941",
       "direction_id": "0",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "3",
@@ -4711,7 +4711,7 @@
       ]
     },
     {
-      "trip_id": "3_17596929",
+      "trip_id": "3_17700942",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "3",
@@ -5007,7 +5007,7 @@
       ]
     },
     {
-      "trip_id": "3_17596930",
+      "trip_id": "3_17700943",
       "direction_id": "0",
       "headsign": "Zajezdnia TYSKA",
       "service_id": "3",
@@ -5159,7 +5159,7 @@
       ]
     },
     {
-      "trip_id": "3_17596931",
+      "trip_id": "3_17700944",
       "direction_id": "0",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "3",
@@ -5509,7 +5509,7 @@
       ]
     },
     {
-      "trip_id": "3_17596932",
+      "trip_id": "3_17700945",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "3",
@@ -5805,7 +5805,7 @@
       ]
     },
     {
-      "trip_id": "3_17596933",
+      "trip_id": "3_17700946",
       "direction_id": "0",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "3",
@@ -6110,7 +6110,7 @@
       ]
     },
     {
-      "trip_id": "3_17596934",
+      "trip_id": "3_17700947",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "3",
@@ -6406,7 +6406,7 @@
       ]
     },
     {
-      "trip_id": "3_17596935",
+      "trip_id": "3_17700948",
       "direction_id": "0",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "3",
@@ -6711,7 +6711,7 @@
       ]
     },
     {
-      "trip_id": "3_17596936",
+      "trip_id": "3_17700949",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "3",
@@ -7007,7 +7007,7 @@
       ]
     },
     {
-      "trip_id": "3_17596937",
+      "trip_id": "3_17700950",
       "direction_id": "0",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "3",
@@ -7312,7 +7312,7 @@
       ]
     },
     {
-      "trip_id": "3_17596938",
+      "trip_id": "3_17700951",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "3",
@@ -7608,7 +7608,7 @@
       ]
     },
     {
-      "trip_id": "3_17596939",
+      "trip_id": "3_17700952",
       "direction_id": "0",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "3",
@@ -7913,7 +7913,7 @@
       ]
     },
     {
-      "trip_id": "3_17596940",
+      "trip_id": "3_17700953",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "3",
@@ -8209,7 +8209,7 @@
       ]
     },
     {
-      "trip_id": "3_17596941",
+      "trip_id": "3_17700954",
       "direction_id": "0",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "3",
@@ -8514,7 +8514,7 @@
       ]
     },
     {
-      "trip_id": "3_17596942",
+      "trip_id": "3_17700955",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "3",
@@ -8810,7 +8810,7 @@
       ]
     },
     {
-      "trip_id": "3_17596943",
+      "trip_id": "3_17700956",
       "direction_id": "0",
       "headsign": "Zajezdnia TYSKA",
       "service_id": "3",
@@ -8962,7 +8962,7 @@
       ]
     },
     {
-      "trip_id": "3_17596944",
+      "trip_id": "3_17700957",
       "direction_id": "0",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "3",
@@ -9294,7 +9294,7 @@
       ]
     },
     {
-      "trip_id": "3_17596945",
+      "trip_id": "3_17700958",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "3",
@@ -9590,7 +9590,7 @@
       ]
     },
     {
-      "trip_id": "3_17596946",
+      "trip_id": "3_17700959",
       "direction_id": "0",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "3",
@@ -9895,7 +9895,7 @@
       ]
     },
     {
-      "trip_id": "3_17596947",
+      "trip_id": "3_17700960",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "3",
@@ -10191,7 +10191,7 @@
       ]
     },
     {
-      "trip_id": "3_17596948",
+      "trip_id": "3_17700961",
       "direction_id": "0",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "3",
@@ -10496,7 +10496,7 @@
       ]
     },
     {
-      "trip_id": "3_17596949",
+      "trip_id": "3_17700962",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "3",
@@ -10792,7 +10792,7 @@
       ]
     },
     {
-      "trip_id": "3_17596950",
+      "trip_id": "3_17700963",
       "direction_id": "0",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "3",
@@ -11097,7 +11097,7 @@
       ]
     },
     {
-      "trip_id": "3_17596951",
+      "trip_id": "3_17700964",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "3",
@@ -11393,7 +11393,7 @@
       ]
     },
     {
-      "trip_id": "3_17596952",
+      "trip_id": "3_17700965",
       "direction_id": "0",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "3",
@@ -11698,7 +11698,7 @@
       ]
     },
     {
-      "trip_id": "3_17596953",
+      "trip_id": "3_17700966",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "3",
@@ -11994,7 +11994,7 @@
       ]
     },
     {
-      "trip_id": "3_17596954",
+      "trip_id": "3_17700967",
       "direction_id": "0",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "3",
@@ -12299,7 +12299,7 @@
       ]
     },
     {
-      "trip_id": "3_17596955",
+      "trip_id": "3_17700968",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "3",
@@ -12595,7 +12595,7 @@
       ]
     },
     {
-      "trip_id": "3_17596956",
+      "trip_id": "3_17700969",
       "direction_id": "0",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "3",
@@ -12900,7 +12900,7 @@
       ]
     },
     {
-      "trip_id": "3_17596957",
+      "trip_id": "3_17700970",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "3",
@@ -13196,7 +13196,7 @@
       ]
     },
     {
-      "trip_id": "3_17596958",
+      "trip_id": "3_17700971",
       "direction_id": "0",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "3",
@@ -13519,7 +13519,7 @@
       ]
     },
     {
-      "trip_id": "3_17596959",
+      "trip_id": "3_17700972",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "3",
@@ -13815,7 +13815,7 @@
       ]
     },
     {
-      "trip_id": "3_17596960",
+      "trip_id": "3_17700973",
       "direction_id": "0",
       "headsign": "Zajezdnia TYSKA",
       "service_id": "3",
@@ -13967,7 +13967,7 @@
       ]
     },
     {
-      "trip_id": "3_17596961",
+      "trip_id": "3_17700974",
       "direction_id": "1",
       "headsign": "BIEŃKOWICE",
       "service_id": "3",
@@ -14155,7 +14155,7 @@
       ]
     },
     {
-      "trip_id": "3_17596962",
+      "trip_id": "3_17700975",
       "direction_id": "0",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "3",
@@ -14541,7 +14541,7 @@
       ]
     },
     {
-      "trip_id": "3_17596963",
+      "trip_id": "3_17700976",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "3",
@@ -14837,7 +14837,7 @@
       ]
     },
     {
-      "trip_id": "3_17596964",
+      "trip_id": "3_17700977",
       "direction_id": "0",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "3",
@@ -15142,7 +15142,7 @@
       ]
     },
     {
-      "trip_id": "3_17596965",
+      "trip_id": "3_17700978",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "3",
@@ -15438,7 +15438,7 @@
       ]
     },
     {
-      "trip_id": "3_17596966",
+      "trip_id": "3_17700979",
       "direction_id": "0",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "3",
@@ -15743,7 +15743,7 @@
       ]
     },
     {
-      "trip_id": "3_17596967",
+      "trip_id": "3_17700980",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "3",
@@ -16039,7 +16039,7 @@
       ]
     },
     {
-      "trip_id": "3_17596968",
+      "trip_id": "3_17700981",
       "direction_id": "0",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "3",
@@ -16344,7 +16344,7 @@
       ]
     },
     {
-      "trip_id": "3_17596969",
+      "trip_id": "3_17700982",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "3",
@@ -16640,7 +16640,7 @@
       ]
     },
     {
-      "trip_id": "3_17596970",
+      "trip_id": "3_17700983",
       "direction_id": "0",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "3",
@@ -16945,7 +16945,7 @@
       ]
     },
     {
-      "trip_id": "3_17596971",
+      "trip_id": "3_17700984",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "3",
@@ -17241,7 +17241,7 @@
       ]
     },
     {
-      "trip_id": "3_17596972",
+      "trip_id": "3_17700985",
       "direction_id": "0",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "3",
@@ -17546,7 +17546,7 @@
       ]
     },
     {
-      "trip_id": "3_17596973",
+      "trip_id": "3_17700986",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "3",
@@ -17842,7 +17842,7 @@
       ]
     },
     {
-      "trip_id": "3_17596974",
+      "trip_id": "3_17700987",
       "direction_id": "0",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "3",
@@ -18147,7 +18147,7 @@
       ]
     },
     {
-      "trip_id": "3_17596975",
+      "trip_id": "3_17700988",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "3",
@@ -18443,7 +18443,7 @@
       ]
     },
     {
-      "trip_id": "3_17596976",
+      "trip_id": "3_17700989",
       "direction_id": "0",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "3",
@@ -18766,7 +18766,7 @@
       ]
     },
     {
-      "trip_id": "3_17596977",
+      "trip_id": "3_17700990",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "3",
@@ -19062,7 +19062,7 @@
       ]
     },
     {
-      "trip_id": "3_17596978",
+      "trip_id": "3_17700991",
       "direction_id": "0",
       "headsign": "Zajezdnia TYSKA",
       "service_id": "3",
@@ -19214,7 +19214,7 @@
       ]
     },
     {
-      "trip_id": "3_17596979",
+      "trip_id": "3_17700992",
       "direction_id": "0",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "3",
@@ -19546,7 +19546,7 @@
       ]
     },
     {
-      "trip_id": "3_17596980",
+      "trip_id": "3_17700993",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "3",
@@ -19842,7 +19842,7 @@
       ]
     },
     {
-      "trip_id": "3_17596981",
+      "trip_id": "3_17700994",
       "direction_id": "0",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "3",
@@ -20201,7 +20201,7 @@
       ]
     },
     {
-      "trip_id": "3_17596982",
+      "trip_id": "3_17700995",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "3",
@@ -20497,7 +20497,7 @@
       ]
     },
     {
-      "trip_id": "3_17596983",
+      "trip_id": "3_17700996",
       "direction_id": "0",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "3",
@@ -20802,7 +20802,7 @@
       ]
     },
     {
-      "trip_id": "3_17596984",
+      "trip_id": "3_17700997",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "3",
@@ -21098,7 +21098,7 @@
       ]
     },
     {
-      "trip_id": "3_17596985",
+      "trip_id": "3_17700998",
       "direction_id": "0",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "3",
@@ -21403,7 +21403,7 @@
       ]
     },
     {
-      "trip_id": "3_17596986",
+      "trip_id": "3_17700999",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "3",
@@ -21699,7 +21699,7 @@
       ]
     },
     {
-      "trip_id": "3_17596987",
+      "trip_id": "3_17701000",
       "direction_id": "0",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "3",
@@ -22022,7 +22022,7 @@
       ]
     },
     {
-      "trip_id": "3_17596988",
+      "trip_id": "3_17701001",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "3",
@@ -22318,7 +22318,7 @@
       ]
     },
     {
-      "trip_id": "3_17596989",
+      "trip_id": "3_17701002",
       "direction_id": "0",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "3",
@@ -22623,7 +22623,7 @@
       ]
     },
     {
-      "trip_id": "3_17596990",
+      "trip_id": "3_17701003",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "3",
@@ -22919,7 +22919,7 @@
       ]
     },
     {
-      "trip_id": "3_17596991",
+      "trip_id": "3_17701004",
       "direction_id": "0",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "3",
@@ -23224,7 +23224,7 @@
       ]
     },
     {
-      "trip_id": "3_17596992",
+      "trip_id": "3_17701005",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "3",
@@ -23520,7 +23520,7 @@
       ]
     },
     {
-      "trip_id": "3_17596993",
+      "trip_id": "3_17701006",
       "direction_id": "0",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "3",
@@ -23825,7 +23825,7 @@
       ]
     },
     {
-      "trip_id": "3_17596994",
+      "trip_id": "3_17701007",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "3",
@@ -24121,7 +24121,7 @@
       ]
     },
     {
-      "trip_id": "3_17596995",
+      "trip_id": "3_17701008",
       "direction_id": "0",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "3",
@@ -24426,7 +24426,7 @@
       ]
     },
     {
-      "trip_id": "3_17596996",
+      "trip_id": "3_17701009",
       "direction_id": "1",
       "headsign": "BIEŃKOWICE",
       "service_id": "3",
@@ -24749,7 +24749,7 @@
       ]
     },
     {
-      "trip_id": "3_17596997",
+      "trip_id": "3_17701010",
       "direction_id": "0",
       "headsign": "Zajezdnia TYSKA",
       "service_id": "3",
@@ -24928,7 +24928,7 @@
       ]
     },
     {
-      "trip_id": "3_17599083",
+      "trip_id": "3_17703096",
       "direction_id": "0",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "3",
@@ -25125,7 +25125,7 @@
       ]
     },
     {
-      "trip_id": "3_17599084",
+      "trip_id": "3_17703097",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "3",
@@ -25421,7 +25421,7 @@
       ]
     },
     {
-      "trip_id": "3_17599085",
+      "trip_id": "3_17703098",
       "direction_id": "0",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "3",
@@ -25726,7 +25726,7 @@
       ]
     },
     {
-      "trip_id": "3_17599086",
+      "trip_id": "3_17703099",
       "direction_id": "1",
       "headsign": "RACŁAWICKA",
       "service_id": "3",
@@ -25797,7 +25797,7 @@
       ]
     },
     {
-      "trip_id": "4_17601385",
+      "trip_id": "4_17705398",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "4",
@@ -25958,7 +25958,7 @@
       ]
     },
     {
-      "trip_id": "4_17601386",
+      "trip_id": "4_17705399",
       "direction_id": "0",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "4",
@@ -26281,7 +26281,7 @@
       ]
     },
     {
-      "trip_id": "4_17601387",
+      "trip_id": "4_17705400",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "4",
@@ -26577,7 +26577,7 @@
       ]
     },
     {
-      "trip_id": "4_17601388",
+      "trip_id": "4_17705401",
       "direction_id": "0",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "4",
@@ -26882,7 +26882,7 @@
       ]
     },
     {
-      "trip_id": "4_17601389",
+      "trip_id": "4_17705402",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "4",
@@ -27178,7 +27178,7 @@
       ]
     },
     {
-      "trip_id": "4_17601390",
+      "trip_id": "4_17705403",
       "direction_id": "0",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "4",
@@ -27483,7 +27483,7 @@
       ]
     },
     {
-      "trip_id": "4_17601391",
+      "trip_id": "4_17705404",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "4",
@@ -27779,7 +27779,7 @@
       ]
     },
     {
-      "trip_id": "4_17601392",
+      "trip_id": "4_17705405",
       "direction_id": "0",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "4",
@@ -28102,7 +28102,7 @@
       ]
     },
     {
-      "trip_id": "4_17601393",
+      "trip_id": "4_17705406",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "4",
@@ -28398,7 +28398,7 @@
       ]
     },
     {
-      "trip_id": "4_17601394",
+      "trip_id": "4_17705407",
       "direction_id": "0",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "4",
@@ -28703,7 +28703,7 @@
       ]
     },
     {
-      "trip_id": "4_17601395",
+      "trip_id": "4_17705408",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "4",
@@ -28999,7 +28999,7 @@
       ]
     },
     {
-      "trip_id": "4_17601396",
+      "trip_id": "4_17705409",
       "direction_id": "0",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "4",
@@ -29304,7 +29304,7 @@
       ]
     },
     {
-      "trip_id": "4_17601397",
+      "trip_id": "4_17705410",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "4",
@@ -29600,7 +29600,7 @@
       ]
     },
     {
-      "trip_id": "4_17601398",
+      "trip_id": "4_17705411",
       "direction_id": "0",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "4",
@@ -29905,7 +29905,7 @@
       ]
     },
     {
-      "trip_id": "4_17601399",
+      "trip_id": "4_17705412",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "4",
@@ -30201,7 +30201,7 @@
       ]
     },
     {
-      "trip_id": "4_17601400",
+      "trip_id": "4_17705413",
       "direction_id": "0",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "4",
@@ -30506,7 +30506,7 @@
       ]
     },
     {
-      "trip_id": "4_17601401",
+      "trip_id": "4_17705414",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "4",
@@ -30802,7 +30802,7 @@
       ]
     },
     {
-      "trip_id": "4_17601402",
+      "trip_id": "4_17705415",
       "direction_id": "0",
       "headsign": "Zajezdnia TYSKA",
       "service_id": "4",
@@ -30954,7 +30954,7 @@
       ]
     },
     {
-      "trip_id": "4_17601403",
+      "trip_id": "4_17705416",
       "direction_id": "0",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "4",
@@ -31286,7 +31286,7 @@
       ]
     },
     {
-      "trip_id": "4_17601404",
+      "trip_id": "4_17705417",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "4",
@@ -31582,7 +31582,7 @@
       ]
     },
     {
-      "trip_id": "4_17601405",
+      "trip_id": "4_17705418",
       "direction_id": "0",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "4",
@@ -31887,7 +31887,7 @@
       ]
     },
     {
-      "trip_id": "4_17601406",
+      "trip_id": "4_17705419",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "4",
@@ -32183,7 +32183,7 @@
       ]
     },
     {
-      "trip_id": "4_17601407",
+      "trip_id": "4_17705420",
       "direction_id": "0",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "4",
@@ -32488,7 +32488,7 @@
       ]
     },
     {
-      "trip_id": "4_17601408",
+      "trip_id": "4_17705421",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "4",
@@ -32784,7 +32784,7 @@
       ]
     },
     {
-      "trip_id": "4_17601409",
+      "trip_id": "4_17705422",
       "direction_id": "0",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "4",
@@ -33089,7 +33089,7 @@
       ]
     },
     {
-      "trip_id": "4_17601410",
+      "trip_id": "4_17705423",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "4",
@@ -33385,7 +33385,7 @@
       ]
     },
     {
-      "trip_id": "4_17601411",
+      "trip_id": "4_17705424",
       "direction_id": "0",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "4",
@@ -33690,7 +33690,7 @@
       ]
     },
     {
-      "trip_id": "4_17601412",
+      "trip_id": "4_17705425",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "4",
@@ -33986,7 +33986,7 @@
       ]
     },
     {
-      "trip_id": "4_17601413",
+      "trip_id": "4_17705426",
       "direction_id": "0",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "4",
@@ -34291,7 +34291,7 @@
       ]
     },
     {
-      "trip_id": "4_17601414",
+      "trip_id": "4_17705427",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "4",
@@ -34587,7 +34587,7 @@
       ]
     },
     {
-      "trip_id": "4_17601415",
+      "trip_id": "4_17705428",
       "direction_id": "0",
       "headsign": "Zajezdnia TYSKA",
       "service_id": "4",
@@ -34739,7 +34739,7 @@
       ]
     },
     {
-      "trip_id": "4_17601416",
+      "trip_id": "4_17705429",
       "direction_id": "0",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "4",
@@ -35071,7 +35071,7 @@
       ]
     },
     {
-      "trip_id": "4_17601417",
+      "trip_id": "4_17705430",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "4",
@@ -35367,7 +35367,7 @@
       ]
     },
     {
-      "trip_id": "4_17601418",
+      "trip_id": "4_17705431",
       "direction_id": "0",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "4",
@@ -35672,7 +35672,7 @@
       ]
     },
     {
-      "trip_id": "4_17601419",
+      "trip_id": "4_17705432",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "4",
@@ -35968,7 +35968,7 @@
       ]
     },
     {
-      "trip_id": "4_17601420",
+      "trip_id": "4_17705433",
       "direction_id": "0",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "4",
@@ -36273,7 +36273,7 @@
       ]
     },
     {
-      "trip_id": "4_17601421",
+      "trip_id": "4_17705434",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "4",
@@ -36569,7 +36569,7 @@
       ]
     },
     {
-      "trip_id": "4_17601422",
+      "trip_id": "4_17705435",
       "direction_id": "0",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "4",
@@ -36874,7 +36874,7 @@
       ]
     },
     {
-      "trip_id": "4_17601423",
+      "trip_id": "4_17705436",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "4",
@@ -37170,7 +37170,7 @@
       ]
     },
     {
-      "trip_id": "4_17601424",
+      "trip_id": "4_17705437",
       "direction_id": "0",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "4",
@@ -37475,7 +37475,7 @@
       ]
     },
     {
-      "trip_id": "4_17601425",
+      "trip_id": "4_17705438",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "4",
@@ -37771,7 +37771,7 @@
       ]
     },
     {
-      "trip_id": "4_17601426",
+      "trip_id": "4_17705439",
       "direction_id": "0",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "4",
@@ -38076,7 +38076,7 @@
       ]
     },
     {
-      "trip_id": "4_17601427",
+      "trip_id": "4_17705440",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "4",
@@ -38372,7 +38372,7 @@
       ]
     },
     {
-      "trip_id": "4_17601428",
+      "trip_id": "4_17705441",
       "direction_id": "0",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "4",
@@ -38677,7 +38677,7 @@
       ]
     },
     {
-      "trip_id": "4_17601429",
+      "trip_id": "4_17705442",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "4",
@@ -38973,7 +38973,7 @@
       ]
     },
     {
-      "trip_id": "4_17601430",
+      "trip_id": "4_17705443",
       "direction_id": "0",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "4",
@@ -39296,7 +39296,7 @@
       ]
     },
     {
-      "trip_id": "4_17601431",
+      "trip_id": "4_17705444",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "4",
@@ -39592,7 +39592,7 @@
       ]
     },
     {
-      "trip_id": "4_17601432",
+      "trip_id": "4_17705445",
       "direction_id": "0",
       "headsign": "Zajezdnia TYSKA",
       "service_id": "4",
@@ -39744,7 +39744,7 @@
       ]
     },
     {
-      "trip_id": "4_17601433",
+      "trip_id": "4_17705446",
       "direction_id": "1",
       "headsign": "BIEŃKOWICE",
       "service_id": "4",
@@ -39932,7 +39932,7 @@
       ]
     },
     {
-      "trip_id": "4_17601434",
+      "trip_id": "4_17705447",
       "direction_id": "0",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "4",
@@ -40264,7 +40264,7 @@
       ]
     },
     {
-      "trip_id": "4_17601435",
+      "trip_id": "4_17705448",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "4",
@@ -40560,7 +40560,7 @@
       ]
     },
     {
-      "trip_id": "4_17601436",
+      "trip_id": "4_17705449",
       "direction_id": "0",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "4",
@@ -40865,7 +40865,7 @@
       ]
     },
     {
-      "trip_id": "4_17601437",
+      "trip_id": "4_17705450",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "4",
@@ -41161,7 +41161,7 @@
       ]
     },
     {
-      "trip_id": "4_17601438",
+      "trip_id": "4_17705451",
       "direction_id": "0",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "4",
@@ -41466,7 +41466,7 @@
       ]
     },
     {
-      "trip_id": "4_17601439",
+      "trip_id": "4_17705452",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "4",
@@ -41762,7 +41762,7 @@
       ]
     },
     {
-      "trip_id": "4_17601440",
+      "trip_id": "4_17705453",
       "direction_id": "0",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "4",
@@ -42067,7 +42067,7 @@
       ]
     },
     {
-      "trip_id": "4_17601441",
+      "trip_id": "4_17705454",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "4",
@@ -42363,7 +42363,7 @@
       ]
     },
     {
-      "trip_id": "4_17601442",
+      "trip_id": "4_17705455",
       "direction_id": "0",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "4",
@@ -42668,7 +42668,7 @@
       ]
     },
     {
-      "trip_id": "4_17601443",
+      "trip_id": "4_17705456",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "4",
@@ -42964,7 +42964,7 @@
       ]
     },
     {
-      "trip_id": "4_17601444",
+      "trip_id": "4_17705457",
       "direction_id": "0",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "4",
@@ -43269,7 +43269,7 @@
       ]
     },
     {
-      "trip_id": "4_17601445",
+      "trip_id": "4_17705458",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "4",
@@ -43565,7 +43565,7 @@
       ]
     },
     {
-      "trip_id": "4_17601446",
+      "trip_id": "4_17705459",
       "direction_id": "0",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "4",
@@ -43870,7 +43870,7 @@
       ]
     },
     {
-      "trip_id": "4_17601447",
+      "trip_id": "4_17705460",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "4",
@@ -44166,7 +44166,7 @@
       ]
     },
     {
-      "trip_id": "4_17601448",
+      "trip_id": "4_17705461",
       "direction_id": "0",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "4",
@@ -44489,7 +44489,7 @@
       ]
     },
     {
-      "trip_id": "4_17601449",
+      "trip_id": "4_17705462",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "4",
@@ -44785,7 +44785,7 @@
       ]
     },
     {
-      "trip_id": "4_17601450",
+      "trip_id": "4_17705463",
       "direction_id": "0",
       "headsign": "Zajezdnia TYSKA",
       "service_id": "4",
@@ -44937,7 +44937,7 @@
       ]
     },
     {
-      "trip_id": "4_17601451",
+      "trip_id": "4_17705464",
       "direction_id": "0",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "4",
@@ -45269,7 +45269,7 @@
       ]
     },
     {
-      "trip_id": "4_17601452",
+      "trip_id": "4_17705465",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "4",
@@ -45565,7 +45565,7 @@
       ]
     },
     {
-      "trip_id": "4_17601453",
+      "trip_id": "4_17705466",
       "direction_id": "0",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "4",
@@ -45888,7 +45888,7 @@
       ]
     },
     {
-      "trip_id": "4_17601454",
+      "trip_id": "4_17705467",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "4",
@@ -46184,7 +46184,7 @@
       ]
     },
     {
-      "trip_id": "4_17601455",
+      "trip_id": "4_17705468",
       "direction_id": "0",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "4",
@@ -46489,7 +46489,7 @@
       ]
     },
     {
-      "trip_id": "4_17601456",
+      "trip_id": "4_17705469",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "4",
@@ -46785,7 +46785,7 @@
       ]
     },
     {
-      "trip_id": "4_17601457",
+      "trip_id": "4_17705470",
       "direction_id": "0",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "4",
@@ -47090,7 +47090,7 @@
       ]
     },
     {
-      "trip_id": "4_17601458",
+      "trip_id": "4_17705471",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "4",
@@ -47386,7 +47386,7 @@
       ]
     },
     {
-      "trip_id": "4_17601459",
+      "trip_id": "4_17705472",
       "direction_id": "0",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "4",
@@ -47709,7 +47709,7 @@
       ]
     },
     {
-      "trip_id": "4_17601460",
+      "trip_id": "4_17705473",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "4",
@@ -48005,7 +48005,7 @@
       ]
     },
     {
-      "trip_id": "4_17601461",
+      "trip_id": "4_17705474",
       "direction_id": "0",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "4",
@@ -48310,7 +48310,7 @@
       ]
     },
     {
-      "trip_id": "4_17601462",
+      "trip_id": "4_17705475",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "4",
@@ -48606,7 +48606,7 @@
       ]
     },
     {
-      "trip_id": "4_17601463",
+      "trip_id": "4_17705476",
       "direction_id": "0",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "4",
@@ -48911,7 +48911,7 @@
       ]
     },
     {
-      "trip_id": "4_17601464",
+      "trip_id": "4_17705477",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "4",
@@ -49207,7 +49207,7 @@
       ]
     },
     {
-      "trip_id": "4_17601465",
+      "trip_id": "4_17705478",
       "direction_id": "0",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "4",
@@ -49512,7 +49512,7 @@
       ]
     },
     {
-      "trip_id": "4_17601466",
+      "trip_id": "4_17705479",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "4",
@@ -49808,7 +49808,7 @@
       ]
     },
     {
-      "trip_id": "4_17601467",
+      "trip_id": "4_17705480",
       "direction_id": "0",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "4",
@@ -50113,7 +50113,7 @@
       ]
     },
     {
-      "trip_id": "4_17601468",
+      "trip_id": "4_17705481",
       "direction_id": "1",
       "headsign": "BIEŃKOWICE",
       "service_id": "4",
@@ -50436,7 +50436,7 @@
       ]
     },
     {
-      "trip_id": "4_17601469",
+      "trip_id": "4_17705482",
       "direction_id": "0",
       "headsign": "Zajezdnia TYSKA",
       "service_id": "4",
@@ -50615,7 +50615,7 @@
       ]
     },
     {
-      "trip_id": "4_17603494",
+      "trip_id": "4_17707507",
       "direction_id": "0",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "4",
@@ -50812,7 +50812,7 @@
       ]
     },
     {
-      "trip_id": "4_17603495",
+      "trip_id": "4_17707508",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "4",
@@ -51108,7 +51108,7 @@
       ]
     },
     {
-      "trip_id": "4_17603496",
+      "trip_id": "4_17707509",
       "direction_id": "0",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "4",
@@ -51413,7 +51413,7 @@
       ]
     },
     {
-      "trip_id": "4_17603497",
+      "trip_id": "4_17707510",
       "direction_id": "1",
       "headsign": "RACŁAWICKA",
       "service_id": "4",
@@ -51484,7 +51484,7 @@
       ]
     },
     {
-      "trip_id": "6_17606491",
+      "trip_id": "6_17710504",
       "direction_id": "0",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "6",
@@ -51816,7 +51816,7 @@
       ]
     },
     {
-      "trip_id": "6_17606492",
+      "trip_id": "6_17710505",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "6",
@@ -52112,7 +52112,7 @@
       ]
     },
     {
-      "trip_id": "6_17606493",
+      "trip_id": "6_17710506",
       "direction_id": "0",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "6",
@@ -52435,7 +52435,7 @@
       ]
     },
     {
-      "trip_id": "6_17606494",
+      "trip_id": "6_17710507",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "6",
@@ -52731,7 +52731,7 @@
       ]
     },
     {
-      "trip_id": "6_17606495",
+      "trip_id": "6_17710508",
       "direction_id": "0",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "6",
@@ -53036,7 +53036,7 @@
       ]
     },
     {
-      "trip_id": "6_17606496",
+      "trip_id": "6_17710509",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "6",
@@ -53332,7 +53332,7 @@
       ]
     },
     {
-      "trip_id": "6_17606497",
+      "trip_id": "6_17710510",
       "direction_id": "0",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "6",
@@ -53637,7 +53637,7 @@
       ]
     },
     {
-      "trip_id": "6_17606498",
+      "trip_id": "6_17710511",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "6",
@@ -53933,7 +53933,7 @@
       ]
     },
     {
-      "trip_id": "6_17606499",
+      "trip_id": "6_17710512",
       "direction_id": "0",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "6",
@@ -54256,7 +54256,7 @@
       ]
     },
     {
-      "trip_id": "6_17606500",
+      "trip_id": "6_17710513",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "6",
@@ -54552,7 +54552,7 @@
       ]
     },
     {
-      "trip_id": "6_17606501",
+      "trip_id": "6_17710514",
       "direction_id": "0",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "6",
@@ -54875,7 +54875,7 @@
       ]
     },
     {
-      "trip_id": "6_17606502",
+      "trip_id": "6_17710515",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "6",
@@ -55171,7 +55171,7 @@
       ]
     },
     {
-      "trip_id": "6_17606503",
+      "trip_id": "6_17710516",
       "direction_id": "0",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "6",
@@ -55476,7 +55476,7 @@
       ]
     },
     {
-      "trip_id": "6_17606504",
+      "trip_id": "6_17710517",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "6",
@@ -55772,7 +55772,7 @@
       ]
     },
     {
-      "trip_id": "6_17606505",
+      "trip_id": "6_17710518",
       "direction_id": "0",
       "headsign": "Zajezdnia TYSKA",
       "service_id": "6",
@@ -55924,7 +55924,7 @@
       ]
     },
     {
-      "trip_id": "6_17606506",
+      "trip_id": "6_17710519",
       "direction_id": "0",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "6",
@@ -56256,7 +56256,7 @@
       ]
     },
     {
-      "trip_id": "6_17606507",
+      "trip_id": "6_17710520",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "6",
@@ -56552,7 +56552,7 @@
       ]
     },
     {
-      "trip_id": "6_17606508",
+      "trip_id": "6_17710521",
       "direction_id": "0",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "6",
@@ -56875,7 +56875,7 @@
       ]
     },
     {
-      "trip_id": "6_17606509",
+      "trip_id": "6_17710522",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "6",
@@ -57171,7 +57171,7 @@
       ]
     },
     {
-      "trip_id": "6_17606510",
+      "trip_id": "6_17710523",
       "direction_id": "0",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "6",
@@ -57476,7 +57476,7 @@
       ]
     },
     {
-      "trip_id": "6_17606511",
+      "trip_id": "6_17710524",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "6",
@@ -57772,7 +57772,7 @@
       ]
     },
     {
-      "trip_id": "6_17606512",
+      "trip_id": "6_17710525",
       "direction_id": "0",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "6",
@@ -58113,7 +58113,7 @@
       ]
     },
     {
-      "trip_id": "6_17606513",
+      "trip_id": "6_17710526",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "6",
@@ -58409,7 +58409,7 @@
       ]
     },
     {
-      "trip_id": "6_17606514",
+      "trip_id": "6_17710527",
       "direction_id": "0",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "6",
@@ -58732,7 +58732,7 @@
       ]
     },
     {
-      "trip_id": "6_17606515",
+      "trip_id": "6_17710528",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "6",
@@ -59028,7 +59028,7 @@
       ]
     },
     {
-      "trip_id": "6_17606516",
+      "trip_id": "6_17710529",
       "direction_id": "0",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "6",
@@ -59351,7 +59351,7 @@
       ]
     },
     {
-      "trip_id": "6_17606517",
+      "trip_id": "6_17710530",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "6",
@@ -59647,7 +59647,7 @@
       ]
     },
     {
-      "trip_id": "6_17606518",
+      "trip_id": "6_17710531",
       "direction_id": "0",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "6",
@@ -59952,7 +59952,7 @@
       ]
     },
     {
-      "trip_id": "6_17606519",
+      "trip_id": "6_17710532",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "6",
@@ -60248,7 +60248,7 @@
       ]
     },
     {
-      "trip_id": "6_17606520",
+      "trip_id": "6_17710533",
       "direction_id": "0",
       "headsign": "Zajezdnia TYSKA",
       "service_id": "6",
@@ -60400,7 +60400,7 @@
       ]
     },
     {
-      "trip_id": "6_17606521",
+      "trip_id": "6_17710534",
       "direction_id": "1",
       "headsign": "BIEŃKOWICE",
       "service_id": "6",
@@ -60588,7 +60588,7 @@
       ]
     },
     {
-      "trip_id": "6_17606522",
+      "trip_id": "6_17710535",
       "direction_id": "0",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "6",
@@ -60938,7 +60938,7 @@
       ]
     },
     {
-      "trip_id": "6_17606523",
+      "trip_id": "6_17710536",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "6",
@@ -61234,7 +61234,7 @@
       ]
     },
     {
-      "trip_id": "6_17606524",
+      "trip_id": "6_17710537",
       "direction_id": "0",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "6",
@@ -61557,7 +61557,7 @@
       ]
     },
     {
-      "trip_id": "6_17606525",
+      "trip_id": "6_17710538",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "6",
@@ -61853,7 +61853,7 @@
       ]
     },
     {
-      "trip_id": "6_17606526",
+      "trip_id": "6_17710539",
       "direction_id": "0",
       "headsign": "Zajezdnia TYSKA",
       "service_id": "6",
@@ -62005,7 +62005,7 @@
       ]
     },
     {
-      "trip_id": "6_17606527",
+      "trip_id": "6_17710540",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "6",
@@ -62166,7 +62166,7 @@
       ]
     },
     {
-      "trip_id": "6_17606528",
+      "trip_id": "6_17710541",
       "direction_id": "0",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "6",
@@ -62489,7 +62489,7 @@
       ]
     },
     {
-      "trip_id": "6_17606529",
+      "trip_id": "6_17710542",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "6",
@@ -62785,7 +62785,7 @@
       ]
     },
     {
-      "trip_id": "6_17606530",
+      "trip_id": "6_17710543",
       "direction_id": "0",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "6",
@@ -63090,7 +63090,7 @@
       ]
     },
     {
-      "trip_id": "6_17606531",
+      "trip_id": "6_17710544",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "6",
@@ -63386,7 +63386,7 @@
       ]
     },
     {
-      "trip_id": "6_17606532",
+      "trip_id": "6_17710545",
       "direction_id": "0",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "6",
@@ -63727,7 +63727,7 @@
       ]
     },
     {
-      "trip_id": "6_17606533",
+      "trip_id": "6_17710546",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "6",
@@ -64023,7 +64023,7 @@
       ]
     },
     {
-      "trip_id": "6_17606534",
+      "trip_id": "6_17710547",
       "direction_id": "0",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "6",
@@ -64346,7 +64346,7 @@
       ]
     },
     {
-      "trip_id": "6_17606535",
+      "trip_id": "6_17710548",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "6",
@@ -64642,7 +64642,7 @@
       ]
     },
     {
-      "trip_id": "6_17606536",
+      "trip_id": "6_17710549",
       "direction_id": "0",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "6",
@@ -64947,7 +64947,7 @@
       ]
     },
     {
-      "trip_id": "6_17606537",
+      "trip_id": "6_17710550",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "6",
@@ -65243,7 +65243,7 @@
       ]
     },
     {
-      "trip_id": "6_17606538",
+      "trip_id": "6_17710551",
       "direction_id": "0",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "6",
@@ -65548,7 +65548,7 @@
       ]
     },
     {
-      "trip_id": "6_17606539",
+      "trip_id": "6_17710552",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "6",
@@ -65844,7 +65844,7 @@
       ]
     },
     {
-      "trip_id": "6_17606540",
+      "trip_id": "6_17710553",
       "direction_id": "0",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "6",
@@ -66167,7 +66167,7 @@
       ]
     },
     {
-      "trip_id": "6_17606541",
+      "trip_id": "6_17710554",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "6",
@@ -66463,7 +66463,7 @@
       ]
     },
     {
-      "trip_id": "6_17606542",
+      "trip_id": "6_17710555",
       "direction_id": "0",
       "headsign": "Zajezdnia TYSKA",
       "service_id": "6",
@@ -66615,7 +66615,7 @@
       ]
     },
     {
-      "trip_id": "6_17606543",
+      "trip_id": "6_17710556",
       "direction_id": "0",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "6",
@@ -66965,7 +66965,7 @@
       ]
     },
     {
-      "trip_id": "6_17606544",
+      "trip_id": "6_17710557",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "6",
@@ -67261,7 +67261,7 @@
       ]
     },
     {
-      "trip_id": "6_17606545",
+      "trip_id": "6_17710558",
       "direction_id": "0",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "6",
@@ -67584,7 +67584,7 @@
       ]
     },
     {
-      "trip_id": "6_17606546",
+      "trip_id": "6_17710559",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "6",
@@ -67880,7 +67880,7 @@
       ]
     },
     {
-      "trip_id": "6_17606547",
+      "trip_id": "6_17710560",
       "direction_id": "0",
       "headsign": "Zajezdnia TYSKA",
       "service_id": "6",
@@ -68032,7 +68032,7 @@
       ]
     },
     {
-      "trip_id": "6_17606548",
+      "trip_id": "6_17710561",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "6",
@@ -68193,7 +68193,7 @@
       ]
     },
     {
-      "trip_id": "6_17606549",
+      "trip_id": "6_17710562",
       "direction_id": "0",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "6",
@@ -68516,7 +68516,7 @@
       ]
     },
     {
-      "trip_id": "6_17606550",
+      "trip_id": "6_17710563",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "6",
@@ -68812,7 +68812,7 @@
       ]
     },
     {
-      "trip_id": "6_17606551",
+      "trip_id": "6_17710564",
       "direction_id": "0",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "6",
@@ -69135,7 +69135,7 @@
       ]
     },
     {
-      "trip_id": "6_17606552",
+      "trip_id": "6_17710565",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "6",
@@ -69431,7 +69431,7 @@
       ]
     },
     {
-      "trip_id": "6_17606553",
+      "trip_id": "6_17710566",
       "direction_id": "0",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "6",
@@ -69736,7 +69736,7 @@
       ]
     },
     {
-      "trip_id": "6_17606554",
+      "trip_id": "6_17710567",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "6",
@@ -70032,7 +70032,7 @@
       ]
     },
     {
-      "trip_id": "6_17606555",
+      "trip_id": "6_17710568",
       "direction_id": "0",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "6",
@@ -70337,7 +70337,7 @@
       ]
     },
     {
-      "trip_id": "6_17606556",
+      "trip_id": "6_17710569",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "6",
@@ -70633,7 +70633,7 @@
       ]
     },
     {
-      "trip_id": "6_17606557",
+      "trip_id": "6_17710570",
       "direction_id": "0",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "6",
@@ -70956,7 +70956,7 @@
       ]
     },
     {
-      "trip_id": "6_17606558",
+      "trip_id": "6_17710571",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "6",
@@ -71252,7 +71252,7 @@
       ]
     },
     {
-      "trip_id": "6_17606559",
+      "trip_id": "6_17710572",
       "direction_id": "0",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "6",
@@ -71557,7 +71557,7 @@
       ]
     },
     {
-      "trip_id": "6_17606560",
+      "trip_id": "6_17710573",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "6",
@@ -71853,7 +71853,7 @@
       ]
     },
     {
-      "trip_id": "6_17606561",
+      "trip_id": "6_17710574",
       "direction_id": "0",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "6",
@@ -72158,7 +72158,7 @@
       ]
     },
     {
-      "trip_id": "6_17606562",
+      "trip_id": "6_17710575",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "6",
@@ -72454,7 +72454,7 @@
       ]
     },
     {
-      "trip_id": "6_17606563",
+      "trip_id": "6_17710576",
       "direction_id": "0",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "6",
@@ -72759,7 +72759,7 @@
       ]
     },
     {
-      "trip_id": "6_17606564",
+      "trip_id": "6_17710577",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "6",
@@ -73055,7 +73055,7 @@
       ]
     },
     {
-      "trip_id": "6_17606565",
+      "trip_id": "6_17710578",
       "direction_id": "0",
       "headsign": "Zajezdnia TYSKA",
       "service_id": "6",
@@ -73207,7 +73207,7 @@
       ]
     },
     {
-      "trip_id": "6_17606566",
+      "trip_id": "6_17710579",
       "direction_id": "0",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "6",
@@ -73539,7 +73539,7 @@
       ]
     },
     {
-      "trip_id": "6_17606567",
+      "trip_id": "6_17710580",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "6",
@@ -73835,7 +73835,7 @@
       ]
     },
     {
-      "trip_id": "6_17606568",
+      "trip_id": "6_17710581",
       "direction_id": "0",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "6",
@@ -74158,7 +74158,7 @@
       ]
     },
     {
-      "trip_id": "6_17606569",
+      "trip_id": "6_17710582",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "6",
@@ -74454,7 +74454,7 @@
       ]
     },
     {
-      "trip_id": "6_17606570",
+      "trip_id": "6_17710583",
       "direction_id": "0",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "6",
@@ -74759,7 +74759,7 @@
       ]
     },
     {
-      "trip_id": "6_17606571",
+      "trip_id": "6_17710584",
       "direction_id": "1",
       "headsign": "Zajezdnia TYSKA",
       "service_id": "6",
@@ -75073,7 +75073,7 @@
       ]
     },
     {
-      "trip_id": "6_17606572",
+      "trip_id": "6_17710585",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "6",
@@ -75234,7 +75234,7 @@
       ]
     },
     {
-      "trip_id": "6_17606573",
+      "trip_id": "6_17710586",
       "direction_id": "0",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "6",
@@ -75557,7 +75557,7 @@
       ]
     },
     {
-      "trip_id": "6_17606574",
+      "trip_id": "6_17710587",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "6",
@@ -75853,7 +75853,7 @@
       ]
     },
     {
-      "trip_id": "6_17606575",
+      "trip_id": "6_17710588",
       "direction_id": "0",
       "headsign": "Zajezdnia TYSKA",
       "service_id": "6",
@@ -76005,7 +76005,7 @@
       ]
     },
     {
-      "trip_id": "6_17606576",
+      "trip_id": "6_17710589",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "6",
@@ -76166,7 +76166,7 @@
       ]
     },
     {
-      "trip_id": "6_17606577",
+      "trip_id": "6_17710590",
       "direction_id": "0",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "6",
@@ -76489,7 +76489,7 @@
       ]
     },
     {
-      "trip_id": "6_17606578",
+      "trip_id": "6_17710591",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "6",
@@ -76785,7 +76785,7 @@
       ]
     },
     {
-      "trip_id": "6_17606579",
+      "trip_id": "6_17710592",
       "direction_id": "0",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "6",
@@ -77090,7 +77090,7 @@
       ]
     },
     {
-      "trip_id": "6_17606580",
+      "trip_id": "6_17710593",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "6",
@@ -77386,7 +77386,7 @@
       ]
     },
     {
-      "trip_id": "6_17606581",
+      "trip_id": "6_17710594",
       "direction_id": "0",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "6",
@@ -77691,7 +77691,7 @@
       ]
     },
     {
-      "trip_id": "6_17606582",
+      "trip_id": "6_17710595",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "6",
@@ -77987,7 +77987,7 @@
       ]
     },
     {
-      "trip_id": "6_17606583",
+      "trip_id": "6_17710596",
       "direction_id": "0",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "6",
@@ -78310,7 +78310,7 @@
       ]
     },
     {
-      "trip_id": "6_17606584",
+      "trip_id": "6_17710597",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "6",
@@ -78606,7 +78606,7 @@
       ]
     },
     {
-      "trip_id": "6_17606585",
+      "trip_id": "6_17710598",
       "direction_id": "0",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "6",
@@ -78911,7 +78911,7 @@
       ]
     },
     {
-      "trip_id": "6_17606586",
+      "trip_id": "6_17710599",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "6",
@@ -79207,7 +79207,7 @@
       ]
     },
     {
-      "trip_id": "6_17606587",
+      "trip_id": "6_17710600",
       "direction_id": "0",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "6",
@@ -79548,7 +79548,7 @@
       ]
     },
     {
-      "trip_id": "6_17606588",
+      "trip_id": "6_17710601",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "6",
@@ -79844,7 +79844,7 @@
       ]
     },
     {
-      "trip_id": "6_17606589",
+      "trip_id": "6_17710602",
       "direction_id": "0",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "6",
@@ -80167,7 +80167,7 @@
       ]
     },
     {
-      "trip_id": "6_17606590",
+      "trip_id": "6_17710603",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "6",
@@ -80463,7 +80463,7 @@
       ]
     },
     {
-      "trip_id": "6_17606591",
+      "trip_id": "6_17710604",
       "direction_id": "0",
       "headsign": "Zajezdnia TYSKA",
       "service_id": "6",
@@ -80615,7 +80615,7 @@
       ]
     },
     {
-      "trip_id": "6_17606592",
+      "trip_id": "6_17710605",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "6",
@@ -80776,7 +80776,7 @@
       ]
     },
     {
-      "trip_id": "6_17606593",
+      "trip_id": "6_17710606",
       "direction_id": "0",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "6",
@@ -81099,7 +81099,7 @@
       ]
     },
     {
-      "trip_id": "6_17606594",
+      "trip_id": "6_17710607",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "6",
@@ -81395,7 +81395,7 @@
       ]
     },
     {
-      "trip_id": "6_17606595",
+      "trip_id": "6_17710608",
       "direction_id": "0",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "6",
@@ -81718,7 +81718,7 @@
       ]
     },
     {
-      "trip_id": "6_17606596",
+      "trip_id": "6_17710609",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "6",
@@ -82014,7 +82014,7 @@
       ]
     },
     {
-      "trip_id": "6_17606597",
+      "trip_id": "6_17710610",
       "direction_id": "0",
       "headsign": "Zajezdnia TYSKA",
       "service_id": "6",
@@ -82166,7 +82166,7 @@
       ]
     },
     {
-      "trip_id": "6_17606598",
+      "trip_id": "6_17710611",
       "direction_id": "0",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "6",
@@ -82498,7 +82498,7 @@
       ]
     },
     {
-      "trip_id": "6_17606599",
+      "trip_id": "6_17710612",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "6",
@@ -82794,7 +82794,7 @@
       ]
     },
     {
-      "trip_id": "6_17606600",
+      "trip_id": "6_17710613",
       "direction_id": "0",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "6",
@@ -83117,7 +83117,7 @@
       ]
     },
     {
-      "trip_id": "6_17606601",
+      "trip_id": "6_17710614",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "6",
@@ -83413,7 +83413,7 @@
       ]
     },
     {
-      "trip_id": "6_17606602",
+      "trip_id": "6_17710615",
       "direction_id": "0",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "6",
@@ -83718,7 +83718,7 @@
       ]
     },
     {
-      "trip_id": "6_17606603",
+      "trip_id": "6_17710616",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "6",
@@ -84014,7 +84014,7 @@
       ]
     },
     {
-      "trip_id": "6_17606604",
+      "trip_id": "6_17710617",
       "direction_id": "0",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "6",
@@ -84319,7 +84319,7 @@
       ]
     },
     {
-      "trip_id": "6_17606605",
+      "trip_id": "6_17710618",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "6",
@@ -84615,7 +84615,7 @@
       ]
     },
     {
-      "trip_id": "6_17606606",
+      "trip_id": "6_17710619",
       "direction_id": "0",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "6",
@@ -84920,7 +84920,7 @@
       ]
     },
     {
-      "trip_id": "6_17606607",
+      "trip_id": "6_17710620",
       "direction_id": "1",
       "headsign": "BIEŃKOWICE",
       "service_id": "6",
@@ -85288,7 +85288,7 @@
       ]
     },
     {
-      "trip_id": "6_17606608",
+      "trip_id": "6_17710621",
       "direction_id": "0",
       "headsign": "Zajezdnia TYSKA",
       "service_id": "6",
@@ -85467,7 +85467,7 @@
       ]
     },
     {
-      "trip_id": "6_17606609",
+      "trip_id": "6_17710622",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "6",
@@ -85628,7 +85628,7 @@
       ]
     },
     {
-      "trip_id": "6_17606610",
+      "trip_id": "6_17710623",
       "direction_id": "0",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "6",
@@ -85951,7 +85951,7 @@
       ]
     },
     {
-      "trip_id": "6_17606611",
+      "trip_id": "6_17710624",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "6",
@@ -86247,7 +86247,7 @@
       ]
     },
     {
-      "trip_id": "6_17606612",
+      "trip_id": "6_17710625",
       "direction_id": "0",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "6",
@@ -86552,7 +86552,7 @@
       ]
     },
     {
-      "trip_id": "6_17606613",
+      "trip_id": "6_17710626",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "6",
@@ -86848,7 +86848,7 @@
       ]
     },
     {
-      "trip_id": "6_17606614",
+      "trip_id": "6_17710627",
       "direction_id": "0",
       "headsign": "Zajezdnia TYSKA",
       "service_id": "6",
@@ -87000,7 +87000,7 @@
       ]
     },
     {
-      "trip_id": "6_17606615",
+      "trip_id": "6_17710628",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "6",
@@ -87161,7 +87161,7 @@
       ]
     },
     {
-      "trip_id": "6_17606616",
+      "trip_id": "6_17710629",
       "direction_id": "0",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "6",
@@ -87484,7 +87484,7 @@
       ]
     },
     {
-      "trip_id": "6_17606617",
+      "trip_id": "6_17710630",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "6",
@@ -87780,7 +87780,7 @@
       ]
     },
     {
-      "trip_id": "6_17606618",
+      "trip_id": "6_17710631",
       "direction_id": "0",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "6",
@@ -88085,7 +88085,7 @@
       ]
     },
     {
-      "trip_id": "6_17606619",
+      "trip_id": "6_17710632",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "6",
@@ -88381,7 +88381,7 @@
       ]
     },
     {
-      "trip_id": "6_17606620",
+      "trip_id": "6_17710633",
       "direction_id": "0",
       "headsign": "Zajezdnia TYSKA",
       "service_id": "6",
@@ -88533,7 +88533,7 @@
       ]
     },
     {
-      "trip_id": "6_17606621",
+      "trip_id": "6_17710634",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "6",
@@ -88694,7 +88694,7 @@
       ]
     },
     {
-      "trip_id": "6_17606622",
+      "trip_id": "6_17710635",
       "direction_id": "0",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "6",
@@ -89017,7 +89017,7 @@
       ]
     },
     {
-      "trip_id": "6_17606623",
+      "trip_id": "6_17710636",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "6",
@@ -89313,7 +89313,7 @@
       ]
     },
     {
-      "trip_id": "6_17606624",
+      "trip_id": "6_17710637",
       "direction_id": "0",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "6",
@@ -89618,7 +89618,7 @@
       ]
     },
     {
-      "trip_id": "6_17606625",
+      "trip_id": "6_17710638",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "6",
@@ -89914,7 +89914,7 @@
       ]
     },
     {
-      "trip_id": "6_17606626",
+      "trip_id": "6_17710639",
       "direction_id": "0",
       "headsign": "Zajezdnia TYSKA",
       "service_id": "6",
@@ -90066,7 +90066,7 @@
       ]
     },
     {
-      "trip_id": "6_17606627",
+      "trip_id": "6_17710640",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "6",
@@ -90227,7 +90227,7 @@
       ]
     },
     {
-      "trip_id": "6_17606628",
+      "trip_id": "6_17710641",
       "direction_id": "0",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "6",
@@ -90550,7 +90550,7 @@
       ]
     },
     {
-      "trip_id": "6_17606629",
+      "trip_id": "6_17710642",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "6",
@@ -90846,7 +90846,7 @@
       ]
     },
     {
-      "trip_id": "6_17606630",
+      "trip_id": "6_17710643",
       "direction_id": "0",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "6",
@@ -91151,7 +91151,7 @@
       ]
     },
     {
-      "trip_id": "6_17606631",
+      "trip_id": "6_17710644",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "6",
@@ -91447,7 +91447,7 @@
       ]
     },
     {
-      "trip_id": "6_17606632",
+      "trip_id": "6_17710645",
       "direction_id": "0",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "6",
@@ -91752,7 +91752,7 @@
       ]
     },
     {
-      "trip_id": "6_17606633",
+      "trip_id": "6_17710646",
       "direction_id": "1",
       "headsign": "Zajezdnia TYSKA",
       "service_id": "6",
@@ -92066,7 +92066,7 @@
       ]
     },
     {
-      "trip_id": "6_17606634",
+      "trip_id": "6_17710647",
       "direction_id": "0",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "6",
@@ -92398,7 +92398,7 @@
       ]
     },
     {
-      "trip_id": "6_17606635",
+      "trip_id": "6_17710648",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "6",
@@ -92694,7 +92694,7 @@
       ]
     },
     {
-      "trip_id": "6_17606636",
+      "trip_id": "6_17710649",
       "direction_id": "0",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "6",
@@ -93017,7 +93017,7 @@
       ]
     },
     {
-      "trip_id": "6_17606637",
+      "trip_id": "6_17710650",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "6",
@@ -93313,7 +93313,7 @@
       ]
     },
     {
-      "trip_id": "6_17606638",
+      "trip_id": "6_17710651",
       "direction_id": "0",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "6",
@@ -93618,7 +93618,7 @@
       ]
     },
     {
-      "trip_id": "6_17606639",
+      "trip_id": "6_17710652",
       "direction_id": "1",
       "headsign": "Zajezdnia TYSKA",
       "service_id": "6",
@@ -93932,7 +93932,7 @@
       ]
     },
     {
-      "trip_id": "6_17609686",
+      "trip_id": "6_17713699",
       "direction_id": "0",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "6",
@@ -94129,7 +94129,7 @@
       ]
     },
     {
-      "trip_id": "6_17609687",
+      "trip_id": "6_17713700",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "6",
@@ -94425,7 +94425,7 @@
       ]
     },
     {
-      "trip_id": "6_17609688",
+      "trip_id": "6_17713701",
       "direction_id": "0",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "6",
@@ -94730,7 +94730,7 @@
       ]
     },
     {
-      "trip_id": "6_17609689",
+      "trip_id": "6_17713702",
       "direction_id": "1",
       "headsign": "RACŁAWICKA",
       "service_id": "6",
@@ -94801,7 +94801,7 @@
       ]
     },
     {
-      "trip_id": "8_17613317",
+      "trip_id": "8_17717330",
       "direction_id": "0",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "8",
@@ -95133,7 +95133,7 @@
       ]
     },
     {
-      "trip_id": "8_17613318",
+      "trip_id": "8_17717331",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "8",
@@ -95429,7 +95429,7 @@
       ]
     },
     {
-      "trip_id": "8_17613319",
+      "trip_id": "8_17717332",
       "direction_id": "0",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "8",
@@ -95752,7 +95752,7 @@
       ]
     },
     {
-      "trip_id": "8_17613320",
+      "trip_id": "8_17717333",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "8",
@@ -96048,7 +96048,7 @@
       ]
     },
     {
-      "trip_id": "8_17613321",
+      "trip_id": "8_17717334",
       "direction_id": "0",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "8",
@@ -96353,7 +96353,7 @@
       ]
     },
     {
-      "trip_id": "8_17613322",
+      "trip_id": "8_17717335",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "8",
@@ -96649,7 +96649,7 @@
       ]
     },
     {
-      "trip_id": "8_17613323",
+      "trip_id": "8_17717336",
       "direction_id": "0",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "8",
@@ -96954,7 +96954,7 @@
       ]
     },
     {
-      "trip_id": "8_17613324",
+      "trip_id": "8_17717337",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "8",
@@ -97250,7 +97250,7 @@
       ]
     },
     {
-      "trip_id": "8_17613325",
+      "trip_id": "8_17717338",
       "direction_id": "0",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "8",
@@ -97573,7 +97573,7 @@
       ]
     },
     {
-      "trip_id": "8_17613326",
+      "trip_id": "8_17717339",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "8",
@@ -97869,7 +97869,7 @@
       ]
     },
     {
-      "trip_id": "8_17613327",
+      "trip_id": "8_17717340",
       "direction_id": "0",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "8",
@@ -98192,7 +98192,7 @@
       ]
     },
     {
-      "trip_id": "8_17613328",
+      "trip_id": "8_17717341",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "8",
@@ -98488,7 +98488,7 @@
       ]
     },
     {
-      "trip_id": "8_17613329",
+      "trip_id": "8_17717342",
       "direction_id": "0",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "8",
@@ -98793,7 +98793,7 @@
       ]
     },
     {
-      "trip_id": "8_17613330",
+      "trip_id": "8_17717343",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "8",
@@ -99089,7 +99089,7 @@
       ]
     },
     {
-      "trip_id": "8_17613331",
+      "trip_id": "8_17717344",
       "direction_id": "0",
       "headsign": "Zajezdnia TYSKA",
       "service_id": "8",
@@ -99241,7 +99241,7 @@
       ]
     },
     {
-      "trip_id": "8_17613332",
+      "trip_id": "8_17717345",
       "direction_id": "0",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "8",
@@ -99573,7 +99573,7 @@
       ]
     },
     {
-      "trip_id": "8_17613333",
+      "trip_id": "8_17717346",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "8",
@@ -99869,7 +99869,7 @@
       ]
     },
     {
-      "trip_id": "8_17613334",
+      "trip_id": "8_17717347",
       "direction_id": "0",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "8",
@@ -100192,7 +100192,7 @@
       ]
     },
     {
-      "trip_id": "8_17613335",
+      "trip_id": "8_17717348",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "8",
@@ -100488,7 +100488,7 @@
       ]
     },
     {
-      "trip_id": "8_17613336",
+      "trip_id": "8_17717349",
       "direction_id": "0",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "8",
@@ -100793,7 +100793,7 @@
       ]
     },
     {
-      "trip_id": "8_17613337",
+      "trip_id": "8_17717350",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "8",
@@ -101089,7 +101089,7 @@
       ]
     },
     {
-      "trip_id": "8_17613338",
+      "trip_id": "8_17717351",
       "direction_id": "0",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "8",
@@ -101430,7 +101430,7 @@
       ]
     },
     {
-      "trip_id": "8_17613339",
+      "trip_id": "8_17717352",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "8",
@@ -101726,7 +101726,7 @@
       ]
     },
     {
-      "trip_id": "8_17613340",
+      "trip_id": "8_17717353",
       "direction_id": "0",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "8",
@@ -102049,7 +102049,7 @@
       ]
     },
     {
-      "trip_id": "8_17613341",
+      "trip_id": "8_17717354",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "8",
@@ -102345,7 +102345,7 @@
       ]
     },
     {
-      "trip_id": "8_17613342",
+      "trip_id": "8_17717355",
       "direction_id": "0",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "8",
@@ -102668,7 +102668,7 @@
       ]
     },
     {
-      "trip_id": "8_17613343",
+      "trip_id": "8_17717356",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "8",
@@ -102964,7 +102964,7 @@
       ]
     },
     {
-      "trip_id": "8_17613344",
+      "trip_id": "8_17717357",
       "direction_id": "0",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "8",
@@ -103269,7 +103269,7 @@
       ]
     },
     {
-      "trip_id": "8_17613345",
+      "trip_id": "8_17717358",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "8",
@@ -103565,7 +103565,7 @@
       ]
     },
     {
-      "trip_id": "8_17613346",
+      "trip_id": "8_17717359",
       "direction_id": "0",
       "headsign": "Zajezdnia TYSKA",
       "service_id": "8",
@@ -103717,7 +103717,7 @@
       ]
     },
     {
-      "trip_id": "8_17613347",
+      "trip_id": "8_17717360",
       "direction_id": "1",
       "headsign": "BIEŃKOWICE",
       "service_id": "8",
@@ -103905,7 +103905,7 @@
       ]
     },
     {
-      "trip_id": "8_17613348",
+      "trip_id": "8_17717361",
       "direction_id": "0",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "8",
@@ -104255,7 +104255,7 @@
       ]
     },
     {
-      "trip_id": "8_17613349",
+      "trip_id": "8_17717362",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "8",
@@ -104551,7 +104551,7 @@
       ]
     },
     {
-      "trip_id": "8_17613350",
+      "trip_id": "8_17717363",
       "direction_id": "0",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "8",
@@ -104874,7 +104874,7 @@
       ]
     },
     {
-      "trip_id": "8_17613351",
+      "trip_id": "8_17717364",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "8",
@@ -105170,7 +105170,7 @@
       ]
     },
     {
-      "trip_id": "8_17613352",
+      "trip_id": "8_17717365",
       "direction_id": "0",
       "headsign": "Zajezdnia TYSKA",
       "service_id": "8",
@@ -105322,7 +105322,7 @@
       ]
     },
     {
-      "trip_id": "8_17613353",
+      "trip_id": "8_17717366",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "8",
@@ -105483,7 +105483,7 @@
       ]
     },
     {
-      "trip_id": "8_17613354",
+      "trip_id": "8_17717367",
       "direction_id": "0",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "8",
@@ -105806,7 +105806,7 @@
       ]
     },
     {
-      "trip_id": "8_17613355",
+      "trip_id": "8_17717368",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "8",
@@ -106102,7 +106102,7 @@
       ]
     },
     {
-      "trip_id": "8_17613356",
+      "trip_id": "8_17717369",
       "direction_id": "0",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "8",
@@ -106407,7 +106407,7 @@
       ]
     },
     {
-      "trip_id": "8_17613357",
+      "trip_id": "8_17717370",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "8",
@@ -106703,7 +106703,7 @@
       ]
     },
     {
-      "trip_id": "8_17613358",
+      "trip_id": "8_17717371",
       "direction_id": "0",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "8",
@@ -107044,7 +107044,7 @@
       ]
     },
     {
-      "trip_id": "8_17613359",
+      "trip_id": "8_17717372",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "8",
@@ -107340,7 +107340,7 @@
       ]
     },
     {
-      "trip_id": "8_17613360",
+      "trip_id": "8_17717373",
       "direction_id": "0",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "8",
@@ -107663,7 +107663,7 @@
       ]
     },
     {
-      "trip_id": "8_17613361",
+      "trip_id": "8_17717374",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "8",
@@ -107959,7 +107959,7 @@
       ]
     },
     {
-      "trip_id": "8_17613362",
+      "trip_id": "8_17717375",
       "direction_id": "0",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "8",
@@ -108264,7 +108264,7 @@
       ]
     },
     {
-      "trip_id": "8_17613363",
+      "trip_id": "8_17717376",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "8",
@@ -108560,7 +108560,7 @@
       ]
     },
     {
-      "trip_id": "8_17613364",
+      "trip_id": "8_17717377",
       "direction_id": "0",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "8",
@@ -108865,7 +108865,7 @@
       ]
     },
     {
-      "trip_id": "8_17613365",
+      "trip_id": "8_17717378",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "8",
@@ -109161,7 +109161,7 @@
       ]
     },
     {
-      "trip_id": "8_17613366",
+      "trip_id": "8_17717379",
       "direction_id": "0",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "8",
@@ -109484,7 +109484,7 @@
       ]
     },
     {
-      "trip_id": "8_17613367",
+      "trip_id": "8_17717380",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "8",
@@ -109780,7 +109780,7 @@
       ]
     },
     {
-      "trip_id": "8_17613368",
+      "trip_id": "8_17717381",
       "direction_id": "0",
       "headsign": "Zajezdnia TYSKA",
       "service_id": "8",
@@ -109932,7 +109932,7 @@
       ]
     },
     {
-      "trip_id": "8_17613369",
+      "trip_id": "8_17717382",
       "direction_id": "0",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "8",
@@ -110282,7 +110282,7 @@
       ]
     },
     {
-      "trip_id": "8_17613370",
+      "trip_id": "8_17717383",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "8",
@@ -110578,7 +110578,7 @@
       ]
     },
     {
-      "trip_id": "8_17613371",
+      "trip_id": "8_17717384",
       "direction_id": "0",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "8",
@@ -110901,7 +110901,7 @@
       ]
     },
     {
-      "trip_id": "8_17613372",
+      "trip_id": "8_17717385",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "8",
@@ -111197,7 +111197,7 @@
       ]
     },
     {
-      "trip_id": "8_17613373",
+      "trip_id": "8_17717386",
       "direction_id": "0",
       "headsign": "Zajezdnia TYSKA",
       "service_id": "8",
@@ -111349,7 +111349,7 @@
       ]
     },
     {
-      "trip_id": "8_17613374",
+      "trip_id": "8_17717387",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "8",
@@ -111510,7 +111510,7 @@
       ]
     },
     {
-      "trip_id": "8_17613375",
+      "trip_id": "8_17717388",
       "direction_id": "0",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "8",
@@ -111833,7 +111833,7 @@
       ]
     },
     {
-      "trip_id": "8_17613376",
+      "trip_id": "8_17717389",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "8",
@@ -112129,7 +112129,7 @@
       ]
     },
     {
-      "trip_id": "8_17613377",
+      "trip_id": "8_17717390",
       "direction_id": "0",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "8",
@@ -112452,7 +112452,7 @@
       ]
     },
     {
-      "trip_id": "8_17613378",
+      "trip_id": "8_17717391",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "8",
@@ -112748,7 +112748,7 @@
       ]
     },
     {
-      "trip_id": "8_17613379",
+      "trip_id": "8_17717392",
       "direction_id": "0",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "8",
@@ -113053,7 +113053,7 @@
       ]
     },
     {
-      "trip_id": "8_17613380",
+      "trip_id": "8_17717393",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "8",
@@ -113349,7 +113349,7 @@
       ]
     },
     {
-      "trip_id": "8_17613381",
+      "trip_id": "8_17717394",
       "direction_id": "0",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "8",
@@ -113654,7 +113654,7 @@
       ]
     },
     {
-      "trip_id": "8_17613382",
+      "trip_id": "8_17717395",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "8",
@@ -113950,7 +113950,7 @@
       ]
     },
     {
-      "trip_id": "8_17613383",
+      "trip_id": "8_17717396",
       "direction_id": "0",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "8",
@@ -114273,7 +114273,7 @@
       ]
     },
     {
-      "trip_id": "8_17613384",
+      "trip_id": "8_17717397",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "8",
@@ -114569,7 +114569,7 @@
       ]
     },
     {
-      "trip_id": "8_17613385",
+      "trip_id": "8_17717398",
       "direction_id": "0",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "8",
@@ -114874,7 +114874,7 @@
       ]
     },
     {
-      "trip_id": "8_17613386",
+      "trip_id": "8_17717399",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "8",
@@ -115170,7 +115170,7 @@
       ]
     },
     {
-      "trip_id": "8_17613387",
+      "trip_id": "8_17717400",
       "direction_id": "0",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "8",
@@ -115475,7 +115475,7 @@
       ]
     },
     {
-      "trip_id": "8_17613388",
+      "trip_id": "8_17717401",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "8",
@@ -115771,7 +115771,7 @@
       ]
     },
     {
-      "trip_id": "8_17613389",
+      "trip_id": "8_17717402",
       "direction_id": "0",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "8",
@@ -116076,7 +116076,7 @@
       ]
     },
     {
-      "trip_id": "8_17613390",
+      "trip_id": "8_17717403",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "8",
@@ -116372,7 +116372,7 @@
       ]
     },
     {
-      "trip_id": "8_17613391",
+      "trip_id": "8_17717404",
       "direction_id": "0",
       "headsign": "Zajezdnia TYSKA",
       "service_id": "8",
@@ -116524,7 +116524,7 @@
       ]
     },
     {
-      "trip_id": "8_17613392",
+      "trip_id": "8_17717405",
       "direction_id": "0",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "8",
@@ -116856,7 +116856,7 @@
       ]
     },
     {
-      "trip_id": "8_17613393",
+      "trip_id": "8_17717406",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "8",
@@ -117152,7 +117152,7 @@
       ]
     },
     {
-      "trip_id": "8_17613394",
+      "trip_id": "8_17717407",
       "direction_id": "0",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "8",
@@ -117475,7 +117475,7 @@
       ]
     },
     {
-      "trip_id": "8_17613395",
+      "trip_id": "8_17717408",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "8",
@@ -117771,7 +117771,7 @@
       ]
     },
     {
-      "trip_id": "8_17613396",
+      "trip_id": "8_17717409",
       "direction_id": "0",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "8",
@@ -118076,7 +118076,7 @@
       ]
     },
     {
-      "trip_id": "8_17613397",
+      "trip_id": "8_17717410",
       "direction_id": "1",
       "headsign": "Zajezdnia TYSKA",
       "service_id": "8",
@@ -118390,7 +118390,7 @@
       ]
     },
     {
-      "trip_id": "8_17613398",
+      "trip_id": "8_17717411",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "8",
@@ -118551,7 +118551,7 @@
       ]
     },
     {
-      "trip_id": "8_17613399",
+      "trip_id": "8_17717412",
       "direction_id": "0",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "8",
@@ -118874,7 +118874,7 @@
       ]
     },
     {
-      "trip_id": "8_17613400",
+      "trip_id": "8_17717413",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "8",
@@ -119170,7 +119170,7 @@
       ]
     },
     {
-      "trip_id": "8_17613401",
+      "trip_id": "8_17717414",
       "direction_id": "0",
       "headsign": "Zajezdnia TYSKA",
       "service_id": "8",
@@ -119322,7 +119322,7 @@
       ]
     },
     {
-      "trip_id": "8_17613402",
+      "trip_id": "8_17717415",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "8",
@@ -119483,7 +119483,7 @@
       ]
     },
     {
-      "trip_id": "8_17613403",
+      "trip_id": "8_17717416",
       "direction_id": "0",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "8",
@@ -119806,7 +119806,7 @@
       ]
     },
     {
-      "trip_id": "8_17613404",
+      "trip_id": "8_17717417",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "8",
@@ -120102,7 +120102,7 @@
       ]
     },
     {
-      "trip_id": "8_17613405",
+      "trip_id": "8_17717418",
       "direction_id": "0",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "8",
@@ -120407,7 +120407,7 @@
       ]
     },
     {
-      "trip_id": "8_17613406",
+      "trip_id": "8_17717419",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "8",
@@ -120703,7 +120703,7 @@
       ]
     },
     {
-      "trip_id": "8_17613407",
+      "trip_id": "8_17717420",
       "direction_id": "0",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "8",
@@ -121008,7 +121008,7 @@
       ]
     },
     {
-      "trip_id": "8_17613408",
+      "trip_id": "8_17717421",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "8",
@@ -121304,7 +121304,7 @@
       ]
     },
     {
-      "trip_id": "8_17613409",
+      "trip_id": "8_17717422",
       "direction_id": "0",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "8",
@@ -121627,7 +121627,7 @@
       ]
     },
     {
-      "trip_id": "8_17613410",
+      "trip_id": "8_17717423",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "8",
@@ -121923,7 +121923,7 @@
       ]
     },
     {
-      "trip_id": "8_17613411",
+      "trip_id": "8_17717424",
       "direction_id": "0",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "8",
@@ -122228,7 +122228,7 @@
       ]
     },
     {
-      "trip_id": "8_17613412",
+      "trip_id": "8_17717425",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "8",
@@ -122524,7 +122524,7 @@
       ]
     },
     {
-      "trip_id": "8_17613413",
+      "trip_id": "8_17717426",
       "direction_id": "0",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "8",
@@ -122865,7 +122865,7 @@
       ]
     },
     {
-      "trip_id": "8_17613414",
+      "trip_id": "8_17717427",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "8",
@@ -123161,7 +123161,7 @@
       ]
     },
     {
-      "trip_id": "8_17613415",
+      "trip_id": "8_17717428",
       "direction_id": "0",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "8",
@@ -123484,7 +123484,7 @@
       ]
     },
     {
-      "trip_id": "8_17613416",
+      "trip_id": "8_17717429",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "8",
@@ -123780,7 +123780,7 @@
       ]
     },
     {
-      "trip_id": "8_17613417",
+      "trip_id": "8_17717430",
       "direction_id": "0",
       "headsign": "Zajezdnia TYSKA",
       "service_id": "8",
@@ -123932,7 +123932,7 @@
       ]
     },
     {
-      "trip_id": "8_17613418",
+      "trip_id": "8_17717431",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "8",
@@ -124093,7 +124093,7 @@
       ]
     },
     {
-      "trip_id": "8_17613419",
+      "trip_id": "8_17717432",
       "direction_id": "0",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "8",
@@ -124416,7 +124416,7 @@
       ]
     },
     {
-      "trip_id": "8_17613420",
+      "trip_id": "8_17717433",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "8",
@@ -124712,7 +124712,7 @@
       ]
     },
     {
-      "trip_id": "8_17613421",
+      "trip_id": "8_17717434",
       "direction_id": "0",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "8",
@@ -125035,7 +125035,7 @@
       ]
     },
     {
-      "trip_id": "8_17613422",
+      "trip_id": "8_17717435",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "8",
@@ -125331,7 +125331,7 @@
       ]
     },
     {
-      "trip_id": "8_17613423",
+      "trip_id": "8_17717436",
       "direction_id": "0",
       "headsign": "Zajezdnia TYSKA",
       "service_id": "8",
@@ -125483,7 +125483,7 @@
       ]
     },
     {
-      "trip_id": "8_17613424",
+      "trip_id": "8_17717437",
       "direction_id": "0",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "8",
@@ -125815,7 +125815,7 @@
       ]
     },
     {
-      "trip_id": "8_17613425",
+      "trip_id": "8_17717438",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "8",
@@ -126111,7 +126111,7 @@
       ]
     },
     {
-      "trip_id": "8_17613426",
+      "trip_id": "8_17717439",
       "direction_id": "0",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "8",
@@ -126434,7 +126434,7 @@
       ]
     },
     {
-      "trip_id": "8_17613427",
+      "trip_id": "8_17717440",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "8",
@@ -126730,7 +126730,7 @@
       ]
     },
     {
-      "trip_id": "8_17613428",
+      "trip_id": "8_17717441",
       "direction_id": "0",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "8",
@@ -127035,7 +127035,7 @@
       ]
     },
     {
-      "trip_id": "8_17613429",
+      "trip_id": "8_17717442",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "8",
@@ -127331,7 +127331,7 @@
       ]
     },
     {
-      "trip_id": "8_17613430",
+      "trip_id": "8_17717443",
       "direction_id": "0",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "8",
@@ -127636,7 +127636,7 @@
       ]
     },
     {
-      "trip_id": "8_17613431",
+      "trip_id": "8_17717444",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "8",
@@ -127932,7 +127932,7 @@
       ]
     },
     {
-      "trip_id": "8_17613432",
+      "trip_id": "8_17717445",
       "direction_id": "0",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "8",
@@ -128237,7 +128237,7 @@
       ]
     },
     {
-      "trip_id": "8_17613433",
+      "trip_id": "8_17717446",
       "direction_id": "1",
       "headsign": "BIEŃKOWICE",
       "service_id": "8",
@@ -128605,7 +128605,7 @@
       ]
     },
     {
-      "trip_id": "8_17613434",
+      "trip_id": "8_17717447",
       "direction_id": "0",
       "headsign": "Zajezdnia TYSKA",
       "service_id": "8",
@@ -128784,7 +128784,7 @@
       ]
     },
     {
-      "trip_id": "8_17613435",
+      "trip_id": "8_17717448",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "8",
@@ -128945,7 +128945,7 @@
       ]
     },
     {
-      "trip_id": "8_17613436",
+      "trip_id": "8_17717449",
       "direction_id": "0",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "8",
@@ -129268,7 +129268,7 @@
       ]
     },
     {
-      "trip_id": "8_17613437",
+      "trip_id": "8_17717450",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "8",
@@ -129564,7 +129564,7 @@
       ]
     },
     {
-      "trip_id": "8_17613438",
+      "trip_id": "8_17717451",
       "direction_id": "0",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "8",
@@ -129869,7 +129869,7 @@
       ]
     },
     {
-      "trip_id": "8_17613439",
+      "trip_id": "8_17717452",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "8",
@@ -130165,7 +130165,7 @@
       ]
     },
     {
-      "trip_id": "8_17613440",
+      "trip_id": "8_17717453",
       "direction_id": "0",
       "headsign": "Zajezdnia TYSKA",
       "service_id": "8",
@@ -130317,7 +130317,7 @@
       ]
     },
     {
-      "trip_id": "8_17613441",
+      "trip_id": "8_17717454",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "8",
@@ -130478,7 +130478,7 @@
       ]
     },
     {
-      "trip_id": "8_17613442",
+      "trip_id": "8_17717455",
       "direction_id": "0",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "8",
@@ -130801,7 +130801,7 @@
       ]
     },
     {
-      "trip_id": "8_17613443",
+      "trip_id": "8_17717456",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "8",
@@ -131097,7 +131097,7 @@
       ]
     },
     {
-      "trip_id": "8_17613444",
+      "trip_id": "8_17717457",
       "direction_id": "0",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "8",
@@ -131402,7 +131402,7 @@
       ]
     },
     {
-      "trip_id": "8_17613445",
+      "trip_id": "8_17717458",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "8",
@@ -131698,7 +131698,7 @@
       ]
     },
     {
-      "trip_id": "8_17613446",
+      "trip_id": "8_17717459",
       "direction_id": "0",
       "headsign": "Zajezdnia TYSKA",
       "service_id": "8",
@@ -131850,7 +131850,7 @@
       ]
     },
     {
-      "trip_id": "8_17613447",
+      "trip_id": "8_17717460",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "8",
@@ -132011,7 +132011,7 @@
       ]
     },
     {
-      "trip_id": "8_17613448",
+      "trip_id": "8_17717461",
       "direction_id": "0",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "8",
@@ -132334,7 +132334,7 @@
       ]
     },
     {
-      "trip_id": "8_17613449",
+      "trip_id": "8_17717462",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "8",
@@ -132630,7 +132630,7 @@
       ]
     },
     {
-      "trip_id": "8_17613450",
+      "trip_id": "8_17717463",
       "direction_id": "0",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "8",
@@ -132935,7 +132935,7 @@
       ]
     },
     {
-      "trip_id": "8_17613451",
+      "trip_id": "8_17717464",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "8",
@@ -133231,7 +133231,7 @@
       ]
     },
     {
-      "trip_id": "8_17613452",
+      "trip_id": "8_17717465",
       "direction_id": "0",
       "headsign": "Zajezdnia TYSKA",
       "service_id": "8",
@@ -133383,7 +133383,7 @@
       ]
     },
     {
-      "trip_id": "8_17613453",
+      "trip_id": "8_17717466",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "8",
@@ -133544,7 +133544,7 @@
       ]
     },
     {
-      "trip_id": "8_17613454",
+      "trip_id": "8_17717467",
       "direction_id": "0",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "8",
@@ -133867,7 +133867,7 @@
       ]
     },
     {
-      "trip_id": "8_17613455",
+      "trip_id": "8_17717468",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "8",
@@ -134163,7 +134163,7 @@
       ]
     },
     {
-      "trip_id": "8_17613456",
+      "trip_id": "8_17717469",
       "direction_id": "0",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "8",
@@ -134468,7 +134468,7 @@
       ]
     },
     {
-      "trip_id": "8_17613457",
+      "trip_id": "8_17717470",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "8",
@@ -134764,7 +134764,7 @@
       ]
     },
     {
-      "trip_id": "8_17613458",
+      "trip_id": "8_17717471",
       "direction_id": "0",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "8",
@@ -135069,7 +135069,7 @@
       ]
     },
     {
-      "trip_id": "8_17613459",
+      "trip_id": "8_17717472",
       "direction_id": "1",
       "headsign": "Zajezdnia TYSKA",
       "service_id": "8",
@@ -135383,7 +135383,7 @@
       ]
     },
     {
-      "trip_id": "8_17613460",
+      "trip_id": "8_17717473",
       "direction_id": "0",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "8",
@@ -135715,7 +135715,7 @@
       ]
     },
     {
-      "trip_id": "8_17613461",
+      "trip_id": "8_17717474",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "8",
@@ -136011,7 +136011,7 @@
       ]
     },
     {
-      "trip_id": "8_17613462",
+      "trip_id": "8_17717475",
       "direction_id": "0",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "8",
@@ -136334,7 +136334,7 @@
       ]
     },
     {
-      "trip_id": "8_17613463",
+      "trip_id": "8_17717476",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "8",
@@ -136630,7 +136630,7 @@
       ]
     },
     {
-      "trip_id": "8_17613464",
+      "trip_id": "8_17717477",
       "direction_id": "0",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "8",
@@ -136935,7 +136935,7 @@
       ]
     },
     {
-      "trip_id": "8_17613465",
+      "trip_id": "8_17717478",
       "direction_id": "1",
       "headsign": "Zajezdnia TYSKA",
       "service_id": "8",
@@ -137249,7 +137249,7 @@
       ]
     },
     {
-      "trip_id": "8_17616513",
+      "trip_id": "8_17720526",
       "direction_id": "0",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "8",
@@ -137446,7 +137446,7 @@
       ]
     },
     {
-      "trip_id": "8_17616514",
+      "trip_id": "8_17720527",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "8",
@@ -137742,7 +137742,7 @@
       ]
     },
     {
-      "trip_id": "8_17616515",
+      "trip_id": "8_17720528",
       "direction_id": "0",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "8",
@@ -138047,7 +138047,7 @@
       ]
     },
     {
-      "trip_id": "8_17616516",
+      "trip_id": "8_17720529",
       "direction_id": "1",
       "headsign": "RACŁAWICKA",
       "service_id": "8",

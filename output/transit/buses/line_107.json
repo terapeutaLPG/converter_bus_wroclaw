@@ -2,7 +2,7 @@
   "line": "107",
   "trips": [
     {
-      "trip_id": "3_17595896",
+      "trip_id": "3_17699909",
       "direction_id": "0",
       "headsign": "PRACZE ODRZAŃSKIE",
       "service_id": "3",
@@ -334,7 +334,7 @@
       ]
     },
     {
-      "trip_id": "3_17595897",
+      "trip_id": "3_17699910",
       "direction_id": "1",
       "headsign": "KRZYKI",
       "service_id": "3",
@@ -828,7 +828,7 @@
       ]
     },
     {
-      "trip_id": "3_17595898",
+      "trip_id": "3_17699911",
       "direction_id": "0",
       "headsign": "PRACZE ODRZAŃSKIE",
       "service_id": "3",
@@ -1331,7 +1331,7 @@
       ]
     },
     {
-      "trip_id": "3_17595899",
+      "trip_id": "3_17699912",
       "direction_id": "1",
       "headsign": "KRZYKI",
       "service_id": "3",
@@ -1825,7 +1825,7 @@
       ]
     },
     {
-      "trip_id": "3_17595900",
+      "trip_id": "3_17699913",
       "direction_id": "0",
       "headsign": "PRACZE ODRZAŃSKIE",
       "service_id": "3",
@@ -2337,7 +2337,7 @@
       ]
     },
     {
-      "trip_id": "3_17595901",
+      "trip_id": "3_17699914",
       "direction_id": "1",
       "headsign": "KRZYKI",
       "service_id": "3",
@@ -2822,7 +2822,7 @@
       ]
     },
     {
-      "trip_id": "3_17595902",
+      "trip_id": "3_17699915",
       "direction_id": "0",
       "headsign": "PRACZE ODRZAŃSKIE",
       "service_id": "3",
@@ -3316,7 +3316,7 @@
       ]
     },
     {
-      "trip_id": "3_17595903",
+      "trip_id": "3_17699916",
       "direction_id": "1",
       "headsign": "KRZYKI",
       "service_id": "3",
@@ -3801,7 +3801,7 @@
       ]
     },
     {
-      "trip_id": "3_17595904",
+      "trip_id": "3_17699917",
       "direction_id": "0",
       "headsign": "PRACZE ODRZAŃSKIE",
       "service_id": "3",
@@ -4295,7 +4295,7 @@
       ]
     },
     {
-      "trip_id": "3_17595905",
+      "trip_id": "3_17699918",
       "direction_id": "1",
       "headsign": "KRZYKI",
       "service_id": "3",
@@ -4780,7 +4780,7 @@
       ]
     },
     {
-      "trip_id": "3_17595906",
+      "trip_id": "3_17699919",
       "direction_id": "0",
       "headsign": "PRACZE ODRZAŃSKIE",
       "service_id": "3",
@@ -5274,7 +5274,7 @@
       ]
     },
     {
-      "trip_id": "3_17595907",
+      "trip_id": "3_17699920",
       "direction_id": "1",
       "headsign": "KRZYKI",
       "service_id": "3",
@@ -5759,7 +5759,7 @@
       ]
     },
     {
-      "trip_id": "3_17595908",
+      "trip_id": "3_17699921",
       "direction_id": "0",
       "headsign": "PRACZE ODRZAŃSKIE",
       "service_id": "3",
@@ -6253,7 +6253,7 @@
       ]
     },
     {
-      "trip_id": "3_17595909",
+      "trip_id": "3_17699922",
       "direction_id": "1",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "3",
@@ -6585,7 +6585,7 @@
       ]
     },
     {
-      "trip_id": "3_17595910",
+      "trip_id": "3_17699923",
       "direction_id": "1",
       "headsign": "KRZYKI",
       "service_id": "3",
@@ -6917,7 +6917,7 @@
       ]
     },
     {
-      "trip_id": "3_17595911",
+      "trip_id": "3_17699924",
       "direction_id": "0",
       "headsign": "PRACZE ODRZAŃSKIE",
       "service_id": "3",
@@ -7438,7 +7438,7 @@
       ]
     },
     {
-      "trip_id": "3_17595912",
+      "trip_id": "3_17699925",
       "direction_id": "1",
       "headsign": "KRZYKI",
       "service_id": "3",
@@ -7932,7 +7932,7 @@
       ]
     },
     {
-      "trip_id": "3_17595913",
+      "trip_id": "3_17699926",
       "direction_id": "0",
       "headsign": "PRACZE ODRZAŃSKIE",
       "service_id": "3",
@@ -8435,7 +8435,7 @@
       ]
     },
     {
-      "trip_id": "3_17595914",
+      "trip_id": "3_17699927",
       "direction_id": "1",
       "headsign": "KRZYKI",
       "service_id": "3",
@@ -8920,7 +8920,7 @@
       ]
     },
     {
-      "trip_id": "3_17595915",
+      "trip_id": "3_17699928",
       "direction_id": "0",
       "headsign": "PRACZE ODRZAŃSKIE",
       "service_id": "3",
@@ -9423,7 +9423,7 @@
       ]
     },
     {
-      "trip_id": "3_17595916",
+      "trip_id": "3_17699929",
       "direction_id": "1",
       "headsign": "KRZYKI",
       "service_id": "3",
@@ -9926,7 +9926,7 @@
       ]
     },
     {
-      "trip_id": "3_17595917",
+      "trip_id": "3_17699930",
       "direction_id": "0",
       "headsign": "PRACZE ODRZAŃSKIE",
       "service_id": "3",
@@ -10420,7 +10420,7 @@
       ]
     },
     {
-      "trip_id": "3_17595918",
+      "trip_id": "3_17699931",
       "direction_id": "1",
       "headsign": "KRZYKI",
       "service_id": "3",
@@ -10905,7 +10905,7 @@
       ]
     },
     {
-      "trip_id": "3_17595919",
+      "trip_id": "3_17699932",
       "direction_id": "0",
       "headsign": "PRACZE ODRZAŃSKIE",
       "service_id": "3",
@@ -11399,7 +11399,7 @@
       ]
     },
     {
-      "trip_id": "3_17595920",
+      "trip_id": "3_17699933",
       "direction_id": "1",
       "headsign": "KRZYKI",
       "service_id": "3",
@@ -11884,7 +11884,7 @@
       ]
     },
     {
-      "trip_id": "3_17595921",
+      "trip_id": "3_17699934",
       "direction_id": "0",
       "headsign": "PRACZE ODRZAŃSKIE",
       "service_id": "3",
@@ -12378,7 +12378,7 @@
       ]
     },
     {
-      "trip_id": "3_17595922",
+      "trip_id": "3_17699935",
       "direction_id": "1",
       "headsign": "KRZYKI",
       "service_id": "3",
@@ -12863,7 +12863,7 @@
       ]
     },
     {
-      "trip_id": "3_17595923",
+      "trip_id": "3_17699936",
       "direction_id": "0",
       "headsign": "PRACZE ODRZAŃSKIE",
       "service_id": "3",
@@ -13375,7 +13375,7 @@
       ]
     },
     {
-      "trip_id": "3_17595924",
+      "trip_id": "3_17699937",
       "direction_id": "1",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "3",
@@ -13707,7 +13707,7 @@
       ]
     },
     {
-      "trip_id": "3_17595925",
+      "trip_id": "3_17699938",
       "direction_id": "1",
       "headsign": "KRZYKI",
       "service_id": "3",
@@ -14057,7 +14057,7 @@
       ]
     },
     {
-      "trip_id": "3_17595926",
+      "trip_id": "3_17699939",
       "direction_id": "0",
       "headsign": "PRACZE ODRZAŃSKIE",
       "service_id": "3",
@@ -14560,7 +14560,7 @@
       ]
     },
     {
-      "trip_id": "3_17595927",
+      "trip_id": "3_17699940",
       "direction_id": "1",
       "headsign": "KRZYKI",
       "service_id": "3",
@@ -15054,7 +15054,7 @@
       ]
     },
     {
-      "trip_id": "3_17595928",
+      "trip_id": "3_17699941",
       "direction_id": "0",
       "headsign": "PRACZE ODRZAŃSKIE",
       "service_id": "3",
@@ -15557,7 +15557,7 @@
       ]
     },
     {
-      "trip_id": "3_17595929",
+      "trip_id": "3_17699942",
       "direction_id": "1",
       "headsign": "KRZYKI",
       "service_id": "3",
@@ -16042,7 +16042,7 @@
       ]
     },
     {
-      "trip_id": "3_17595930",
+      "trip_id": "3_17699943",
       "direction_id": "0",
       "headsign": "PRACZE ODRZAŃSKIE",
       "service_id": "3",
@@ -16563,7 +16563,7 @@
       ]
     },
     {
-      "trip_id": "3_17595931",
+      "trip_id": "3_17699944",
       "direction_id": "1",
       "headsign": "KRZYKI",
       "service_id": "3",
@@ -17048,7 +17048,7 @@
       ]
     },
     {
-      "trip_id": "3_17595932",
+      "trip_id": "3_17699945",
       "direction_id": "0",
       "headsign": "PRACZE ODRZAŃSKIE",
       "service_id": "3",
@@ -17560,7 +17560,7 @@
       ]
     },
     {
-      "trip_id": "3_17595933",
+      "trip_id": "3_17699946",
       "direction_id": "1",
       "headsign": "KRZYKI",
       "service_id": "3",
@@ -18045,7 +18045,7 @@
       ]
     },
     {
-      "trip_id": "3_17595934",
+      "trip_id": "3_17699947",
       "direction_id": "0",
       "headsign": "PRACZE ODRZAŃSKIE",
       "service_id": "3",
@@ -18557,7 +18557,7 @@
       ]
     },
     {
-      "trip_id": "3_17595935",
+      "trip_id": "3_17699948",
       "direction_id": "1",
       "headsign": "KRZYKI",
       "service_id": "3",
@@ -19042,7 +19042,7 @@
       ]
     },
     {
-      "trip_id": "3_17595936",
+      "trip_id": "3_17699949",
       "direction_id": "0",
       "headsign": "PRACZE ODRZAŃSKIE",
       "service_id": "3",
@@ -19536,7 +19536,7 @@
       ]
     },
     {
-      "trip_id": "3_17595937",
+      "trip_id": "3_17699950",
       "direction_id": "1",
       "headsign": "KRZYKI",
       "service_id": "3",
@@ -20021,7 +20021,7 @@
       ]
     },
     {
-      "trip_id": "3_17595938",
+      "trip_id": "3_17699951",
       "direction_id": "0",
       "headsign": "PRACZE ODRZAŃSKIE",
       "service_id": "3",
@@ -20515,7 +20515,7 @@
       ]
     },
     {
-      "trip_id": "3_17595939",
+      "trip_id": "3_17699952",
       "direction_id": "1",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "3",
@@ -20847,7 +20847,7 @@
       ]
     },
     {
-      "trip_id": "3_17595940",
+      "trip_id": "3_17699953",
       "direction_id": "1",
       "headsign": "KRZYKI",
       "service_id": "3",
@@ -21179,7 +21179,7 @@
       ]
     },
     {
-      "trip_id": "3_17595941",
+      "trip_id": "3_17699954",
       "direction_id": "0",
       "headsign": "PRACZE ODRZAŃSKIE",
       "service_id": "3",
@@ -21682,7 +21682,7 @@
       ]
     },
     {
-      "trip_id": "3_17595942",
+      "trip_id": "3_17699955",
       "direction_id": "1",
       "headsign": "KRZYKI",
       "service_id": "3",
@@ -22176,7 +22176,7 @@
       ]
     },
     {
-      "trip_id": "3_17595943",
+      "trip_id": "3_17699956",
       "direction_id": "0",
       "headsign": "PRACZE ODRZAŃSKIE",
       "service_id": "3",
@@ -22697,7 +22697,7 @@
       ]
     },
     {
-      "trip_id": "3_17595944",
+      "trip_id": "3_17699957",
       "direction_id": "1",
       "headsign": "KRZYKI",
       "service_id": "3",
@@ -23182,7 +23182,7 @@
       ]
     },
     {
-      "trip_id": "3_17595945",
+      "trip_id": "3_17699958",
       "direction_id": "0",
       "headsign": "PRACZE ODRZAŃSKIE",
       "service_id": "3",
@@ -23676,7 +23676,7 @@
       ]
     },
     {
-      "trip_id": "3_17595946",
+      "trip_id": "3_17699959",
       "direction_id": "1",
       "headsign": "KRZYKI",
       "service_id": "3",
@@ -24161,7 +24161,7 @@
       ]
     },
     {
-      "trip_id": "3_17595947",
+      "trip_id": "3_17699960",
       "direction_id": "0",
       "headsign": "PRACZE ODRZAŃSKIE",
       "service_id": "3",
@@ -24673,7 +24673,7 @@
       ]
     },
     {
-      "trip_id": "3_17595948",
+      "trip_id": "3_17699961",
       "direction_id": "1",
       "headsign": "KRZYKI",
       "service_id": "3",
@@ -25158,7 +25158,7 @@
       ]
     },
     {
-      "trip_id": "3_17595949",
+      "trip_id": "3_17699962",
       "direction_id": "0",
       "headsign": "PRACZE ODRZAŃSKIE",
       "service_id": "3",
@@ -25652,7 +25652,7 @@
       ]
     },
     {
-      "trip_id": "3_17595950",
+      "trip_id": "3_17699963",
       "direction_id": "1",
       "headsign": "KRZYKI",
       "service_id": "3",
@@ -26137,7 +26137,7 @@
       ]
     },
     {
-      "trip_id": "3_17595951",
+      "trip_id": "3_17699964",
       "direction_id": "0",
       "headsign": "PRACZE ODRZAŃSKIE",
       "service_id": "3",
@@ -26649,7 +26649,7 @@
       ]
     },
     {
-      "trip_id": "3_17595952",
+      "trip_id": "3_17699965",
       "direction_id": "1",
       "headsign": "KRZYKI",
       "service_id": "3",
@@ -27134,7 +27134,7 @@
       ]
     },
     {
-      "trip_id": "3_17595953",
+      "trip_id": "3_17699966",
       "direction_id": "0",
       "headsign": "PRACZE ODRZAŃSKIE",
       "service_id": "3",
@@ -27628,7 +27628,7 @@
       ]
     },
     {
-      "trip_id": "3_17595954",
+      "trip_id": "3_17699967",
       "direction_id": "1",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "3",
@@ -27960,7 +27960,7 @@
       ]
     },
     {
-      "trip_id": "3_17595956",
+      "trip_id": "3_17699969",
       "direction_id": "0",
       "headsign": "PRACZE ODRZAŃSKIE",
       "service_id": "3",
@@ -28463,7 +28463,7 @@
       ]
     },
     {
-      "trip_id": "3_17595957",
+      "trip_id": "3_17699970",
       "direction_id": "1",
       "headsign": "KRZYKI",
       "service_id": "3",
@@ -28957,7 +28957,7 @@
       ]
     },
     {
-      "trip_id": "3_17595958",
+      "trip_id": "3_17699971",
       "direction_id": "0",
       "headsign": "PRACZE ODRZAŃSKIE",
       "service_id": "3",
@@ -29460,7 +29460,7 @@
       ]
     },
     {
-      "trip_id": "3_17595959",
+      "trip_id": "3_17699972",
       "direction_id": "1",
       "headsign": "KRZYKI",
       "service_id": "3",
@@ -29945,7 +29945,7 @@
       ]
     },
     {
-      "trip_id": "3_17595960",
+      "trip_id": "3_17699973",
       "direction_id": "0",
       "headsign": "PRACZE ODRZAŃSKIE",
       "service_id": "3",
@@ -30439,7 +30439,7 @@
       ]
     },
     {
-      "trip_id": "3_17595961",
+      "trip_id": "3_17699974",
       "direction_id": "1",
       "headsign": "KRZYKI",
       "service_id": "3",
@@ -30924,7 +30924,7 @@
       ]
     },
     {
-      "trip_id": "3_17595962",
+      "trip_id": "3_17699975",
       "direction_id": "0",
       "headsign": "PRACZE ODRZAŃSKIE",
       "service_id": "3",
@@ -31418,7 +31418,7 @@
       ]
     },
     {
-      "trip_id": "3_17595963",
+      "trip_id": "3_17699976",
       "direction_id": "1",
       "headsign": "KRZYKI",
       "service_id": "3",
@@ -31903,7 +31903,7 @@
       ]
     },
     {
-      "trip_id": "3_17595964",
+      "trip_id": "3_17699977",
       "direction_id": "0",
       "headsign": "PRACZE ODRZAŃSKIE",
       "service_id": "3",
@@ -32397,7 +32397,7 @@
       ]
     },
     {
-      "trip_id": "3_17595965",
+      "trip_id": "3_17699978",
       "direction_id": "1",
       "headsign": "KRZYKI",
       "service_id": "3",
@@ -32900,7 +32900,7 @@
       ]
     },
     {
-      "trip_id": "3_17595966",
+      "trip_id": "3_17699979",
       "direction_id": "0",
       "headsign": "PRACZE ODRZAŃSKIE",
       "service_id": "3",
@@ -33394,7 +33394,7 @@
       ]
     },
     {
-      "trip_id": "3_17595967",
+      "trip_id": "3_17699980",
       "direction_id": "1",
       "headsign": "KRZYKI",
       "service_id": "3",
@@ -33897,7 +33897,7 @@
       ]
     },
     {
-      "trip_id": "3_17595968",
+      "trip_id": "3_17699981",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "3",
@@ -34256,7 +34256,7 @@
       ]
     },
     {
-      "trip_id": "3_17595969",
+      "trip_id": "3_17699982",
       "direction_id": "1",
       "headsign": "KRZYKI",
       "service_id": "3",
@@ -34588,7 +34588,7 @@
       ]
     },
     {
-      "trip_id": "3_17595970",
+      "trip_id": "3_17699983",
       "direction_id": "0",
       "headsign": "PRACZE ODRZAŃSKIE",
       "service_id": "3",
@@ -35091,7 +35091,7 @@
       ]
     },
     {
-      "trip_id": "3_17595971",
+      "trip_id": "3_17699984",
       "direction_id": "1",
       "headsign": "KRZYKI",
       "service_id": "3",
@@ -35576,7 +35576,7 @@
       ]
     },
     {
-      "trip_id": "3_17595972",
+      "trip_id": "3_17699985",
       "direction_id": "0",
       "headsign": "PRACZE ODRZAŃSKIE",
       "service_id": "3",
@@ -36070,7 +36070,7 @@
       ]
     },
     {
-      "trip_id": "3_17595973",
+      "trip_id": "3_17699986",
       "direction_id": "1",
       "headsign": "KRZYKI",
       "service_id": "3",
@@ -36555,7 +36555,7 @@
       ]
     },
     {
-      "trip_id": "3_17595974",
+      "trip_id": "3_17699987",
       "direction_id": "0",
       "headsign": "PRACZE ODRZAŃSKIE",
       "service_id": "3",
@@ -37049,7 +37049,7 @@
       ]
     },
     {
-      "trip_id": "3_17595975",
+      "trip_id": "3_17699988",
       "direction_id": "1",
       "headsign": "KRZYKI",
       "service_id": "3",
@@ -37534,7 +37534,7 @@
       ]
     },
     {
-      "trip_id": "3_17595976",
+      "trip_id": "3_17699989",
       "direction_id": "0",
       "headsign": "PRACZE ODRZAŃSKIE",
       "service_id": "3",
@@ -38028,7 +38028,7 @@
       ]
     },
     {
-      "trip_id": "3_17595977",
+      "trip_id": "3_17699990",
       "direction_id": "1",
       "headsign": "KRZYKI",
       "service_id": "3",
@@ -38513,7 +38513,7 @@
       ]
     },
     {
-      "trip_id": "3_17595978",
+      "trip_id": "3_17699991",
       "direction_id": "0",
       "headsign": "PRACZE ODRZAŃSKIE",
       "service_id": "3",
@@ -39007,7 +39007,7 @@
       ]
     },
     {
-      "trip_id": "3_17595979",
+      "trip_id": "3_17699992",
       "direction_id": "1",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "3",
@@ -39339,7 +39339,7 @@
       ]
     },
     {
-      "trip_id": "3_17599211",
+      "trip_id": "3_17703224",
       "direction_id": "0",
       "headsign": "PRACZE ODRZAŃSKIE",
       "service_id": "3",
@@ -39671,7 +39671,7 @@
       ]
     },
     {
-      "trip_id": "3_17599212",
+      "trip_id": "3_17703225",
       "direction_id": "1",
       "headsign": "KRZYKI",
       "service_id": "3",
@@ -40156,7 +40156,7 @@
       ]
     },
     {
-      "trip_id": "3_17599213",
+      "trip_id": "3_17703226",
       "direction_id": "0",
       "headsign": "OPORÓW",
       "service_id": "3",
@@ -40290,7 +40290,7 @@
       ]
     },
     {
-      "trip_id": "4_17600453",
+      "trip_id": "4_17704466",
       "direction_id": "1",
       "headsign": "KRZYKI",
       "service_id": "4",
@@ -40613,7 +40613,7 @@
       ]
     },
     {
-      "trip_id": "4_17600454",
+      "trip_id": "4_17704467",
       "direction_id": "0",
       "headsign": "PRACZE ODRZAŃSKIE",
       "service_id": "4",
@@ -41107,7 +41107,7 @@
       ]
     },
     {
-      "trip_id": "4_17600455",
+      "trip_id": "4_17704468",
       "direction_id": "1",
       "headsign": "KRZYKI",
       "service_id": "4",
@@ -41592,7 +41592,7 @@
       ]
     },
     {
-      "trip_id": "4_17600456",
+      "trip_id": "4_17704469",
       "direction_id": "0",
       "headsign": "PRACZE ODRZAŃSKIE",
       "service_id": "4",
@@ -42104,7 +42104,7 @@
       ]
     },
     {
-      "trip_id": "4_17600457",
+      "trip_id": "4_17704470",
       "direction_id": "1",
       "headsign": "KRZYKI",
       "service_id": "4",
@@ -42589,7 +42589,7 @@
       ]
     },
     {
-      "trip_id": "4_17600458",
+      "trip_id": "4_17704471",
       "direction_id": "0",
       "headsign": "PRACZE ODRZAŃSKIE",
       "service_id": "4",
@@ -43083,7 +43083,7 @@
       ]
     },
     {
-      "trip_id": "4_17600459",
+      "trip_id": "4_17704472",
       "direction_id": "1",
       "headsign": "KRZYKI",
       "service_id": "4",
@@ -43568,7 +43568,7 @@
       ]
     },
     {
-      "trip_id": "4_17600460",
+      "trip_id": "4_17704473",
       "direction_id": "0",
       "headsign": "PRACZE ODRZAŃSKIE",
       "service_id": "4",
@@ -44062,7 +44062,7 @@
       ]
     },
     {
-      "trip_id": "4_17600461",
+      "trip_id": "4_17704474",
       "direction_id": "1",
       "headsign": "KRZYKI",
       "service_id": "4",
@@ -44547,7 +44547,7 @@
       ]
     },
     {
-      "trip_id": "4_17600462",
+      "trip_id": "4_17704475",
       "direction_id": "0",
       "headsign": "PRACZE ODRZAŃSKIE",
       "service_id": "4",
@@ -45041,7 +45041,7 @@
       ]
     },
     {
-      "trip_id": "4_17600463",
+      "trip_id": "4_17704476",
       "direction_id": "1",
       "headsign": "KRZYKI",
       "service_id": "4",
@@ -45526,7 +45526,7 @@
       ]
     },
     {
-      "trip_id": "4_17600464",
+      "trip_id": "4_17704477",
       "direction_id": "0",
       "headsign": "PRACZE ODRZAŃSKIE",
       "service_id": "4",
@@ -46020,7 +46020,7 @@
       ]
     },
     {
-      "trip_id": "4_17600465",
+      "trip_id": "4_17704478",
       "direction_id": "1",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "4",
@@ -46352,7 +46352,7 @@
       ]
     },
     {
-      "trip_id": "4_17600467",
+      "trip_id": "4_17704480",
       "direction_id": "0",
       "headsign": "PRACZE ODRZAŃSKIE",
       "service_id": "4",
@@ -46864,7 +46864,7 @@
       ]
     },
     {
-      "trip_id": "4_17600468",
+      "trip_id": "4_17704481",
       "direction_id": "1",
       "headsign": "KRZYKI",
       "service_id": "4",
@@ -47349,7 +47349,7 @@
       ]
     },
     {
-      "trip_id": "4_17600469",
+      "trip_id": "4_17704482",
       "direction_id": "0",
       "headsign": "PRACZE ODRZAŃSKIE",
       "service_id": "4",
@@ -47843,7 +47843,7 @@
       ]
     },
     {
-      "trip_id": "4_17600470",
+      "trip_id": "4_17704483",
       "direction_id": "1",
       "headsign": "KRZYKI",
       "service_id": "4",
@@ -48328,7 +48328,7 @@
       ]
     },
     {
-      "trip_id": "4_17600471",
+      "trip_id": "4_17704484",
       "direction_id": "0",
       "headsign": "PRACZE ODRZAŃSKIE",
       "service_id": "4",
@@ -48822,7 +48822,7 @@
       ]
     },
     {
-      "trip_id": "4_17600472",
+      "trip_id": "4_17704485",
       "direction_id": "1",
       "headsign": "KRZYKI",
       "service_id": "4",
@@ -49325,7 +49325,7 @@
       ]
     },
     {
-      "trip_id": "4_17600473",
+      "trip_id": "4_17704486",
       "direction_id": "0",
       "headsign": "PRACZE ODRZAŃSKIE",
       "service_id": "4",
@@ -49819,7 +49819,7 @@
       ]
     },
     {
-      "trip_id": "4_17600474",
+      "trip_id": "4_17704487",
       "direction_id": "1",
       "headsign": "KRZYKI",
       "service_id": "4",
@@ -50304,7 +50304,7 @@
       ]
     },
     {
-      "trip_id": "4_17600475",
+      "trip_id": "4_17704488",
       "direction_id": "0",
       "headsign": "PRACZE ODRZAŃSKIE",
       "service_id": "4",
@@ -50798,7 +50798,7 @@
       ]
     },
     {
-      "trip_id": "4_17600476",
+      "trip_id": "4_17704489",
       "direction_id": "1",
       "headsign": "KRZYKI",
       "service_id": "4",
@@ -51283,7 +51283,7 @@
       ]
     },
     {
-      "trip_id": "4_17600477",
+      "trip_id": "4_17704490",
       "direction_id": "0",
       "headsign": "PRACZE ODRZAŃSKIE",
       "service_id": "4",
@@ -51777,7 +51777,7 @@
       ]
     },
     {
-      "trip_id": "4_17600478",
+      "trip_id": "4_17704491",
       "direction_id": "1",
       "headsign": "KRZYKI",
       "service_id": "4",
@@ -52262,7 +52262,7 @@
       ]
     },
     {
-      "trip_id": "4_17600479",
+      "trip_id": "4_17704492",
       "direction_id": "0",
       "headsign": "PRACZE ODRZAŃSKIE",
       "service_id": "4",
@@ -52774,7 +52774,7 @@
       ]
     },
     {
-      "trip_id": "4_17600480",
+      "trip_id": "4_17704493",
       "direction_id": "1",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "4",
@@ -53106,7 +53106,7 @@
       ]
     },
     {
-      "trip_id": "4_17600481",
+      "trip_id": "4_17704494",
       "direction_id": "1",
       "headsign": "KRZYKI",
       "service_id": "4",
@@ -53447,7 +53447,7 @@
       ]
     },
     {
-      "trip_id": "4_17600482",
+      "trip_id": "4_17704495",
       "direction_id": "0",
       "headsign": "PRACZE ODRZAŃSKIE",
       "service_id": "4",
@@ -53941,7 +53941,7 @@
       ]
     },
     {
-      "trip_id": "4_17600483",
+      "trip_id": "4_17704496",
       "direction_id": "1",
       "headsign": "KRZYKI",
       "service_id": "4",
@@ -54426,7 +54426,7 @@
       ]
     },
     {
-      "trip_id": "4_17600484",
+      "trip_id": "4_17704497",
       "direction_id": "0",
       "headsign": "PRACZE ODRZAŃSKIE",
       "service_id": "4",
@@ -54920,7 +54920,7 @@
       ]
     },
     {
-      "trip_id": "4_17600485",
+      "trip_id": "4_17704498",
       "direction_id": "1",
       "headsign": "KRZYKI",
       "service_id": "4",
@@ -55405,7 +55405,7 @@
       ]
     },
     {
-      "trip_id": "4_17600486",
+      "trip_id": "4_17704499",
       "direction_id": "0",
       "headsign": "PRACZE ODRZAŃSKIE",
       "service_id": "4",
@@ -55917,7 +55917,7 @@
       ]
     },
     {
-      "trip_id": "4_17600487",
+      "trip_id": "4_17704500",
       "direction_id": "1",
       "headsign": "KRZYKI",
       "service_id": "4",
@@ -56402,7 +56402,7 @@
       ]
     },
     {
-      "trip_id": "4_17600488",
+      "trip_id": "4_17704501",
       "direction_id": "0",
       "headsign": "PRACZE ODRZAŃSKIE",
       "service_id": "4",
@@ -56914,7 +56914,7 @@
       ]
     },
     {
-      "trip_id": "4_17600489",
+      "trip_id": "4_17704502",
       "direction_id": "1",
       "headsign": "KRZYKI",
       "service_id": "4",
@@ -57399,7 +57399,7 @@
       ]
     },
     {
-      "trip_id": "4_17600490",
+      "trip_id": "4_17704503",
       "direction_id": "0",
       "headsign": "PRACZE ODRZAŃSKIE",
       "service_id": "4",
@@ -57911,7 +57911,7 @@
       ]
     },
     {
-      "trip_id": "4_17600491",
+      "trip_id": "4_17704504",
       "direction_id": "1",
       "headsign": "KRZYKI",
       "service_id": "4",
@@ -58396,7 +58396,7 @@
       ]
     },
     {
-      "trip_id": "4_17600492",
+      "trip_id": "4_17704505",
       "direction_id": "0",
       "headsign": "PRACZE ODRZAŃSKIE",
       "service_id": "4",
@@ -58890,7 +58890,7 @@
       ]
     },
     {
-      "trip_id": "4_17600493",
+      "trip_id": "4_17704506",
       "direction_id": "1",
       "headsign": "KRZYKI",
       "service_id": "4",
@@ -59375,7 +59375,7 @@
       ]
     },
     {
-      "trip_id": "4_17600494",
+      "trip_id": "4_17704507",
       "direction_id": "0",
       "headsign": "PRACZE ODRZAŃSKIE",
       "service_id": "4",
@@ -59869,7 +59869,7 @@
       ]
     },
     {
-      "trip_id": "4_17600495",
+      "trip_id": "4_17704508",
       "direction_id": "1",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "4",
@@ -60201,7 +60201,7 @@
       ]
     },
     {
-      "trip_id": "4_17600496",
+      "trip_id": "4_17704509",
       "direction_id": "0",
       "headsign": "PRACZE ODRZAŃSKIE",
       "service_id": "4",
@@ -60533,7 +60533,7 @@
       ]
     },
     {
-      "trip_id": "4_17600497",
+      "trip_id": "4_17704510",
       "direction_id": "1",
       "headsign": "KRZYKI",
       "service_id": "4",
@@ -61018,7 +61018,7 @@
       ]
     },
     {
-      "trip_id": "4_17600498",
+      "trip_id": "4_17704511",
       "direction_id": "0",
       "headsign": "PRACZE ODRZAŃSKIE",
       "service_id": "4",
@@ -61530,7 +61530,7 @@
       ]
     },
     {
-      "trip_id": "4_17600499",
+      "trip_id": "4_17704512",
       "direction_id": "1",
       "headsign": "KRZYKI",
       "service_id": "4",
@@ -62015,7 +62015,7 @@
       ]
     },
     {
-      "trip_id": "4_17600500",
+      "trip_id": "4_17704513",
       "direction_id": "0",
       "headsign": "PRACZE ODRZAŃSKIE",
       "service_id": "4",
@@ -62509,7 +62509,7 @@
       ]
     },
     {
-      "trip_id": "4_17600501",
+      "trip_id": "4_17704514",
       "direction_id": "1",
       "headsign": "KRZYKI",
       "service_id": "4",
@@ -62994,7 +62994,7 @@
       ]
     },
     {
-      "trip_id": "4_17600502",
+      "trip_id": "4_17704515",
       "direction_id": "0",
       "headsign": "PRACZE ODRZAŃSKIE",
       "service_id": "4",
@@ -63506,7 +63506,7 @@
       ]
     },
     {
-      "trip_id": "4_17600503",
+      "trip_id": "4_17704516",
       "direction_id": "1",
       "headsign": "KRZYKI",
       "service_id": "4",
@@ -63991,7 +63991,7 @@
       ]
     },
     {
-      "trip_id": "4_17600504",
+      "trip_id": "4_17704517",
       "direction_id": "0",
       "headsign": "PRACZE ODRZAŃSKIE",
       "service_id": "4",
@@ -64485,7 +64485,7 @@
       ]
     },
     {
-      "trip_id": "4_17600505",
+      "trip_id": "4_17704518",
       "direction_id": "1",
       "headsign": "KRZYKI",
       "service_id": "4",
@@ -64970,7 +64970,7 @@
       ]
     },
     {
-      "trip_id": "4_17600506",
+      "trip_id": "4_17704519",
       "direction_id": "0",
       "headsign": "PRACZE ODRZAŃSKIE",
       "service_id": "4",
@@ -65482,7 +65482,7 @@
       ]
     },
     {
-      "trip_id": "4_17600507",
+      "trip_id": "4_17704520",
       "direction_id": "1",
       "headsign": "KRZYKI",
       "service_id": "4",
@@ -65967,7 +65967,7 @@
       ]
     },
     {
-      "trip_id": "4_17600508",
+      "trip_id": "4_17704521",
       "direction_id": "0",
       "headsign": "PRACZE ODRZAŃSKIE",
       "service_id": "4",
@@ -66461,7 +66461,7 @@
       ]
     },
     {
-      "trip_id": "4_17600509",
+      "trip_id": "4_17704522",
       "direction_id": "1",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "4",
@@ -66793,7 +66793,7 @@
       ]
     },
     {
-      "trip_id": "4_17600511",
+      "trip_id": "4_17704524",
       "direction_id": "0",
       "headsign": "PRACZE ODRZAŃSKIE",
       "service_id": "4",
@@ -67287,7 +67287,7 @@
       ]
     },
     {
-      "trip_id": "4_17600512",
+      "trip_id": "4_17704525",
       "direction_id": "1",
       "headsign": "KRZYKI",
       "service_id": "4",
@@ -67772,7 +67772,7 @@
       ]
     },
     {
-      "trip_id": "4_17600513",
+      "trip_id": "4_17704526",
       "direction_id": "0",
       "headsign": "PRACZE ODRZAŃSKIE",
       "service_id": "4",
@@ -68266,7 +68266,7 @@
       ]
     },
     {
-      "trip_id": "4_17600514",
+      "trip_id": "4_17704527",
       "direction_id": "1",
       "headsign": "KRZYKI",
       "service_id": "4",
@@ -68751,7 +68751,7 @@
       ]
     },
     {
-      "trip_id": "4_17600515",
+      "trip_id": "4_17704528",
       "direction_id": "0",
       "headsign": "PRACZE ODRZAŃSKIE",
       "service_id": "4",
@@ -69245,7 +69245,7 @@
       ]
     },
     {
-      "trip_id": "4_17600516",
+      "trip_id": "4_17704529",
       "direction_id": "1",
       "headsign": "KRZYKI",
       "service_id": "4",
@@ -69730,7 +69730,7 @@
       ]
     },
     {
-      "trip_id": "4_17600517",
+      "trip_id": "4_17704530",
       "direction_id": "0",
       "headsign": "PRACZE ODRZAŃSKIE",
       "service_id": "4",
@@ -70224,7 +70224,7 @@
       ]
     },
     {
-      "trip_id": "4_17600518",
+      "trip_id": "4_17704531",
       "direction_id": "1",
       "headsign": "KRZYKI",
       "service_id": "4",
@@ -70709,7 +70709,7 @@
       ]
     },
     {
-      "trip_id": "4_17600519",
+      "trip_id": "4_17704532",
       "direction_id": "0",
       "headsign": "PRACZE ODRZAŃSKIE",
       "service_id": "4",
@@ -71203,7 +71203,7 @@
       ]
     },
     {
-      "trip_id": "4_17600520",
+      "trip_id": "4_17704533",
       "direction_id": "1",
       "headsign": "KRZYKI",
       "service_id": "4",
@@ -71706,7 +71706,7 @@
       ]
     },
     {
-      "trip_id": "4_17600521",
+      "trip_id": "4_17704534",
       "direction_id": "0",
       "headsign": "PRACZE ODRZAŃSKIE",
       "service_id": "4",
@@ -72200,7 +72200,7 @@
       ]
     },
     {
-      "trip_id": "4_17600522",
+      "trip_id": "4_17704535",
       "direction_id": "1",
       "headsign": "KRZYKI",
       "service_id": "4",
@@ -72703,7 +72703,7 @@
       ]
     },
     {
-      "trip_id": "4_17600523",
+      "trip_id": "4_17704536",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "4",
@@ -73062,7 +73062,7 @@
       ]
     },
     {
-      "trip_id": "4_17600524",
+      "trip_id": "4_17704537",
       "direction_id": "1",
       "headsign": "KRZYKI",
       "service_id": "4",
@@ -73385,7 +73385,7 @@
       ]
     },
     {
-      "trip_id": "4_17600525",
+      "trip_id": "4_17704538",
       "direction_id": "0",
       "headsign": "PRACZE ODRZAŃSKIE",
       "service_id": "4",
@@ -73879,7 +73879,7 @@
       ]
     },
     {
-      "trip_id": "4_17600526",
+      "trip_id": "4_17704539",
       "direction_id": "1",
       "headsign": "KRZYKI",
       "service_id": "4",
@@ -74364,7 +74364,7 @@
       ]
     },
     {
-      "trip_id": "4_17600527",
+      "trip_id": "4_17704540",
       "direction_id": "0",
       "headsign": "PRACZE ODRZAŃSKIE",
       "service_id": "4",
@@ -74858,7 +74858,7 @@
       ]
     },
     {
-      "trip_id": "4_17600528",
+      "trip_id": "4_17704541",
       "direction_id": "1",
       "headsign": "KRZYKI",
       "service_id": "4",
@@ -75343,7 +75343,7 @@
       ]
     },
     {
-      "trip_id": "4_17600529",
+      "trip_id": "4_17704542",
       "direction_id": "0",
       "headsign": "PRACZE ODRZAŃSKIE",
       "service_id": "4",
@@ -75837,7 +75837,7 @@
       ]
     },
     {
-      "trip_id": "4_17600530",
+      "trip_id": "4_17704543",
       "direction_id": "1",
       "headsign": "KRZYKI",
       "service_id": "4",
@@ -76322,7 +76322,7 @@
       ]
     },
     {
-      "trip_id": "4_17600531",
+      "trip_id": "4_17704544",
       "direction_id": "0",
       "headsign": "PRACZE ODRZAŃSKIE",
       "service_id": "4",
@@ -76816,7 +76816,7 @@
       ]
     },
     {
-      "trip_id": "4_17600532",
+      "trip_id": "4_17704545",
       "direction_id": "1",
       "headsign": "KRZYKI",
       "service_id": "4",
@@ -77301,7 +77301,7 @@
       ]
     },
     {
-      "trip_id": "4_17600533",
+      "trip_id": "4_17704546",
       "direction_id": "0",
       "headsign": "PRACZE ODRZAŃSKIE",
       "service_id": "4",
@@ -77795,7 +77795,7 @@
       ]
     },
     {
-      "trip_id": "4_17600534",
+      "trip_id": "4_17704547",
       "direction_id": "1",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "4",
@@ -78127,7 +78127,7 @@
       ]
     },
     {
-      "trip_id": "4_17603618",
+      "trip_id": "4_17707631",
       "direction_id": "0",
       "headsign": "PRACZE ODRZAŃSKIE",
       "service_id": "4",
@@ -78459,7 +78459,7 @@
       ]
     },
     {
-      "trip_id": "4_17603619",
+      "trip_id": "4_17707632",
       "direction_id": "1",
       "headsign": "KRZYKI",
       "service_id": "4",
@@ -78944,7 +78944,7 @@
       ]
     },
     {
-      "trip_id": "4_17603620",
+      "trip_id": "4_17707633",
       "direction_id": "0",
       "headsign": "OPORÓW",
       "service_id": "4",
@@ -79078,7 +79078,7 @@
       ]
     },
     {
-      "trip_id": "6_17604983",
+      "trip_id": "6_17708996",
       "direction_id": "0",
       "headsign": "PRACZE ODRZAŃSKIE",
       "service_id": "6",
@@ -79410,7 +79410,7 @@
       ]
     },
     {
-      "trip_id": "6_17604984",
+      "trip_id": "6_17708997",
       "direction_id": "1",
       "headsign": "KRZYKI",
       "service_id": "6",
@@ -79904,7 +79904,7 @@
       ]
     },
     {
-      "trip_id": "6_17604985",
+      "trip_id": "6_17708998",
       "direction_id": "0",
       "headsign": "PRACZE ODRZAŃSKIE",
       "service_id": "6",
@@ -80407,7 +80407,7 @@
       ]
     },
     {
-      "trip_id": "6_17604986",
+      "trip_id": "6_17708999",
       "direction_id": "1",
       "headsign": "KRZYKI",
       "service_id": "6",
@@ -80901,7 +80901,7 @@
       ]
     },
     {
-      "trip_id": "6_17604987",
+      "trip_id": "6_17709000",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "6",
@@ -81242,7 +81242,7 @@
       ]
     },
     {
-      "trip_id": "6_17604988",
+      "trip_id": "6_17709001",
       "direction_id": "1",
       "headsign": "KRZYKI",
       "service_id": "6",
@@ -81574,7 +81574,7 @@
       ]
     },
     {
-      "trip_id": "6_17604989",
+      "trip_id": "6_17709002",
       "direction_id": "0",
       "headsign": "PRACZE ODRZAŃSKIE",
       "service_id": "6",
@@ -82077,7 +82077,7 @@
       ]
     },
     {
-      "trip_id": "6_17604990",
+      "trip_id": "6_17709003",
       "direction_id": "1",
       "headsign": "KRZYKI",
       "service_id": "6",
@@ -82571,7 +82571,7 @@
       ]
     },
     {
-      "trip_id": "6_17604991",
+      "trip_id": "6_17709004",
       "direction_id": "0",
       "headsign": "PRACZE ODRZAŃSKIE",
       "service_id": "6",
@@ -83074,7 +83074,7 @@
       ]
     },
     {
-      "trip_id": "6_17604992",
+      "trip_id": "6_17709005",
       "direction_id": "1",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "6",
@@ -83406,7 +83406,7 @@
       ]
     },
     {
-      "trip_id": "6_17604993",
+      "trip_id": "6_17709006",
       "direction_id": "0",
       "headsign": "PRACZE ODRZAŃSKIE",
       "service_id": "6",
@@ -83738,7 +83738,7 @@
       ]
     },
     {
-      "trip_id": "6_17604994",
+      "trip_id": "6_17709007",
       "direction_id": "1",
       "headsign": "KRZYKI",
       "service_id": "6",
@@ -84232,7 +84232,7 @@
       ]
     },
     {
-      "trip_id": "6_17604995",
+      "trip_id": "6_17709008",
       "direction_id": "0",
       "headsign": "PRACZE ODRZAŃSKIE",
       "service_id": "6",
@@ -84735,7 +84735,7 @@
       ]
     },
     {
-      "trip_id": "6_17604996",
+      "trip_id": "6_17709009",
       "direction_id": "1",
       "headsign": "KRZYKI",
       "service_id": "6",
@@ -85247,7 +85247,7 @@
       ]
     },
     {
-      "trip_id": "6_17604997",
+      "trip_id": "6_17709010",
       "direction_id": "0",
       "headsign": "PRACZE ODRZAŃSKIE",
       "service_id": "6",
@@ -85750,7 +85750,7 @@
       ]
     },
     {
-      "trip_id": "6_17604998",
+      "trip_id": "6_17709011",
       "direction_id": "1",
       "headsign": "KRZYKI",
       "service_id": "6",
@@ -86244,7 +86244,7 @@
       ]
     },
     {
-      "trip_id": "6_17604999",
+      "trip_id": "6_17709012",
       "direction_id": "0",
       "headsign": "PRACZE ODRZAŃSKIE",
       "service_id": "6",
@@ -86747,7 +86747,7 @@
       ]
     },
     {
-      "trip_id": "6_17605000",
+      "trip_id": "6_17709013",
       "direction_id": "1",
       "headsign": "KRZYKI",
       "service_id": "6",
@@ -87241,7 +87241,7 @@
       ]
     },
     {
-      "trip_id": "6_17605001",
+      "trip_id": "6_17709014",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "6",
@@ -87582,7 +87582,7 @@
       ]
     },
     {
-      "trip_id": "6_17605002",
+      "trip_id": "6_17709015",
       "direction_id": "1",
       "headsign": "KRZYKI",
       "service_id": "6",
@@ -87914,7 +87914,7 @@
       ]
     },
     {
-      "trip_id": "6_17605003",
+      "trip_id": "6_17709016",
       "direction_id": "0",
       "headsign": "PRACZE ODRZAŃSKIE",
       "service_id": "6",
@@ -88417,7 +88417,7 @@
       ]
     },
     {
-      "trip_id": "6_17605004",
+      "trip_id": "6_17709017",
       "direction_id": "1",
       "headsign": "KRZYKI",
       "service_id": "6",
@@ -88911,7 +88911,7 @@
       ]
     },
     {
-      "trip_id": "6_17605005",
+      "trip_id": "6_17709018",
       "direction_id": "0",
       "headsign": "PRACZE ODRZAŃSKIE",
       "service_id": "6",
@@ -89414,7 +89414,7 @@
       ]
     },
     {
-      "trip_id": "6_17605006",
+      "trip_id": "6_17709019",
       "direction_id": "1",
       "headsign": "KRZYKI",
       "service_id": "6",
@@ -89908,7 +89908,7 @@
       ]
     },
     {
-      "trip_id": "6_17605007",
+      "trip_id": "6_17709020",
       "direction_id": "0",
       "headsign": "PRACZE ODRZAŃSKIE",
       "service_id": "6",
@@ -90411,7 +90411,7 @@
       ]
     },
     {
-      "trip_id": "6_17605008",
+      "trip_id": "6_17709021",
       "direction_id": "1",
       "headsign": "KRZYKI",
       "service_id": "6",
@@ -90905,7 +90905,7 @@
       ]
     },
     {
-      "trip_id": "6_17605009",
+      "trip_id": "6_17709022",
       "direction_id": "0",
       "headsign": "PRACZE ODRZAŃSKIE",
       "service_id": "6",
@@ -91408,7 +91408,7 @@
       ]
     },
     {
-      "trip_id": "6_17605010",
+      "trip_id": "6_17709023",
       "direction_id": "1",
       "headsign": "KRZYKI",
       "service_id": "6",
@@ -91902,7 +91902,7 @@
       ]
     },
     {
-      "trip_id": "6_17605011",
+      "trip_id": "6_17709024",
       "direction_id": "0",
       "headsign": "PRACZE ODRZAŃSKIE",
       "service_id": "6",
@@ -92396,7 +92396,7 @@
       ]
     },
     {
-      "trip_id": "6_17605012",
+      "trip_id": "6_17709025",
       "direction_id": "1",
       "headsign": "KRZYKI",
       "service_id": "6",
@@ -92881,7 +92881,7 @@
       ]
     },
     {
-      "trip_id": "6_17605013",
+      "trip_id": "6_17709026",
       "direction_id": "0",
       "headsign": "PRACZE ODRZAŃSKIE",
       "service_id": "6",
@@ -93375,7 +93375,7 @@
       ]
     },
     {
-      "trip_id": "6_17605014",
+      "trip_id": "6_17709027",
       "direction_id": "1",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "6",
@@ -93707,7 +93707,7 @@
       ]
     },
     {
-      "trip_id": "6_17605015",
+      "trip_id": "6_17709028",
       "direction_id": "1",
       "headsign": "KRZYKI",
       "service_id": "6",
@@ -94039,7 +94039,7 @@
       ]
     },
     {
-      "trip_id": "6_17605016",
+      "trip_id": "6_17709029",
       "direction_id": "0",
       "headsign": "PRACZE ODRZAŃSKIE",
       "service_id": "6",
@@ -94542,7 +94542,7 @@
       ]
     },
     {
-      "trip_id": "6_17605017",
+      "trip_id": "6_17709030",
       "direction_id": "1",
       "headsign": "KRZYKI",
       "service_id": "6",
@@ -95036,7 +95036,7 @@
       ]
     },
     {
-      "trip_id": "6_17605018",
+      "trip_id": "6_17709031",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "6",
@@ -95377,7 +95377,7 @@
       ]
     },
     {
-      "trip_id": "6_17605019",
+      "trip_id": "6_17709032",
       "direction_id": "0",
       "headsign": "PRACZE ODRZAŃSKIE",
       "service_id": "6",
@@ -95709,7 +95709,7 @@
       ]
     },
     {
-      "trip_id": "6_17605020",
+      "trip_id": "6_17709033",
       "direction_id": "1",
       "headsign": "KRZYKI",
       "service_id": "6",
@@ -96203,7 +96203,7 @@
       ]
     },
     {
-      "trip_id": "6_17605021",
+      "trip_id": "6_17709034",
       "direction_id": "0",
       "headsign": "PRACZE ODRZAŃSKIE",
       "service_id": "6",
@@ -96706,7 +96706,7 @@
       ]
     },
     {
-      "trip_id": "6_17605022",
+      "trip_id": "6_17709035",
       "direction_id": "1",
       "headsign": "KRZYKI",
       "service_id": "6",
@@ -97200,7 +97200,7 @@
       ]
     },
     {
-      "trip_id": "6_17605023",
+      "trip_id": "6_17709036",
       "direction_id": "0",
       "headsign": "PRACZE ODRZAŃSKIE",
       "service_id": "6",
@@ -97721,7 +97721,7 @@
       ]
     },
     {
-      "trip_id": "6_17605024",
+      "trip_id": "6_17709037",
       "direction_id": "1",
       "headsign": "KRZYKI",
       "service_id": "6",
@@ -98215,7 +98215,7 @@
       ]
     },
     {
-      "trip_id": "6_17605025",
+      "trip_id": "6_17709038",
       "direction_id": "0",
       "headsign": "PRACZE ODRZAŃSKIE",
       "service_id": "6",
@@ -98718,7 +98718,7 @@
       ]
     },
     {
-      "trip_id": "6_17605026",
+      "trip_id": "6_17709039",
       "direction_id": "1",
       "headsign": "KRZYKI",
       "service_id": "6",
@@ -99212,7 +99212,7 @@
       ]
     },
     {
-      "trip_id": "6_17605027",
+      "trip_id": "6_17709040",
       "direction_id": "0",
       "headsign": "PRACZE ODRZAŃSKIE",
       "service_id": "6",
@@ -99715,7 +99715,7 @@
       ]
     },
     {
-      "trip_id": "6_17605028",
+      "trip_id": "6_17709041",
       "direction_id": "1",
       "headsign": "KRZYKI",
       "service_id": "6",
@@ -100200,7 +100200,7 @@
       ]
     },
     {
-      "trip_id": "6_17605029",
+      "trip_id": "6_17709042",
       "direction_id": "0",
       "headsign": "PRACZE ODRZAŃSKIE",
       "service_id": "6",
@@ -100712,7 +100712,7 @@
       ]
     },
     {
-      "trip_id": "6_17605030",
+      "trip_id": "6_17709043",
       "direction_id": "1",
       "headsign": "KRZYKI",
       "service_id": "6",
@@ -101215,7 +101215,7 @@
       ]
     },
     {
-      "trip_id": "6_17605031",
+      "trip_id": "6_17709044",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "6",
@@ -101574,7 +101574,7 @@
       ]
     },
     {
-      "trip_id": "6_17605032",
+      "trip_id": "6_17709045",
       "direction_id": "0",
       "headsign": "PRACZE ODRZAŃSKIE",
       "service_id": "6",
@@ -101906,7 +101906,7 @@
       ]
     },
     {
-      "trip_id": "6_17605033",
+      "trip_id": "6_17709046",
       "direction_id": "1",
       "headsign": "KRZYKI",
       "service_id": "6",
@@ -102400,7 +102400,7 @@
       ]
     },
     {
-      "trip_id": "6_17605034",
+      "trip_id": "6_17709047",
       "direction_id": "0",
       "headsign": "PRACZE ODRZAŃSKIE",
       "service_id": "6",
@@ -102903,7 +102903,7 @@
       ]
     },
     {
-      "trip_id": "6_17605049",
+      "trip_id": "6_17709062",
       "direction_id": "0",
       "headsign": "PRACZE ODRZAŃSKIE",
       "service_id": "6",
@@ -103235,7 +103235,7 @@
       ]
     },
     {
-      "trip_id": "6_17605050",
+      "trip_id": "6_17709063",
       "direction_id": "1",
       "headsign": "KRZYKI",
       "service_id": "6",
@@ -103729,7 +103729,7 @@
       ]
     },
     {
-      "trip_id": "6_17605051",
+      "trip_id": "6_17709064",
       "direction_id": "0",
       "headsign": "PRACZE ODRZAŃSKIE",
       "service_id": "6",
@@ -104232,7 +104232,7 @@
       ]
     },
     {
-      "trip_id": "6_17605052",
+      "trip_id": "6_17709065",
       "direction_id": "1",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "6",
@@ -104564,7 +104564,7 @@
       ]
     },
     {
-      "trip_id": "6_17605053",
+      "trip_id": "6_17709066",
       "direction_id": "1",
       "headsign": "KRZYKI",
       "service_id": "6",
@@ -104896,7 +104896,7 @@
       ]
     },
     {
-      "trip_id": "6_17605054",
+      "trip_id": "6_17709067",
       "direction_id": "0",
       "headsign": "PRACZE ODRZAŃSKIE",
       "service_id": "6",
@@ -105399,7 +105399,7 @@
       ]
     },
     {
-      "trip_id": "6_17605055",
+      "trip_id": "6_17709068",
       "direction_id": "1",
       "headsign": "KRZYKI",
       "service_id": "6",
@@ -105893,7 +105893,7 @@
       ]
     },
     {
-      "trip_id": "6_17605056",
+      "trip_id": "6_17709069",
       "direction_id": "0",
       "headsign": "PRACZE ODRZAŃSKIE",
       "service_id": "6",
@@ -106396,7 +106396,7 @@
       ]
     },
     {
-      "trip_id": "6_17605057",
+      "trip_id": "6_17709070",
       "direction_id": "1",
       "headsign": "KRZYKI",
       "service_id": "6",
@@ -106890,7 +106890,7 @@
       ]
     },
     {
-      "trip_id": "6_17605058",
+      "trip_id": "6_17709071",
       "direction_id": "0",
       "headsign": "PRACZE ODRZAŃSKIE",
       "service_id": "6",
@@ -107393,7 +107393,7 @@
       ]
     },
     {
-      "trip_id": "6_17605059",
+      "trip_id": "6_17709072",
       "direction_id": "1",
       "headsign": "KRZYKI",
       "service_id": "6",
@@ -107905,7 +107905,7 @@
       ]
     },
     {
-      "trip_id": "6_17605060",
+      "trip_id": "6_17709073",
       "direction_id": "0",
       "headsign": "PRACZE ODRZAŃSKIE",
       "service_id": "6",
@@ -108408,7 +108408,7 @@
       ]
     },
     {
-      "trip_id": "6_17605061",
+      "trip_id": "6_17709074",
       "direction_id": "1",
       "headsign": "KRZYKI",
       "service_id": "6",
@@ -108902,7 +108902,7 @@
       ]
     },
     {
-      "trip_id": "6_17605062",
+      "trip_id": "6_17709075",
       "direction_id": "0",
       "headsign": "PRACZE ODRZAŃSKIE",
       "service_id": "6",
@@ -109405,7 +109405,7 @@
       ]
     },
     {
-      "trip_id": "6_17605063",
+      "trip_id": "6_17709076",
       "direction_id": "1",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "6",
@@ -109737,7 +109737,7 @@
       ]
     },
     {
-      "trip_id": "6_17605064",
+      "trip_id": "6_17709077",
       "direction_id": "0",
       "headsign": "PRACZE ODRZAŃSKIE",
       "service_id": "6",
@@ -110069,7 +110069,7 @@
       ]
     },
     {
-      "trip_id": "6_17605065",
+      "trip_id": "6_17709078",
       "direction_id": "1",
       "headsign": "KRZYKI",
       "service_id": "6",
@@ -110563,7 +110563,7 @@
       ]
     },
     {
-      "trip_id": "6_17605066",
+      "trip_id": "6_17709079",
       "direction_id": "0",
       "headsign": "PRACZE ODRZAŃSKIE",
       "service_id": "6",
@@ -111066,7 +111066,7 @@
       ]
     },
     {
-      "trip_id": "6_17605067",
+      "trip_id": "6_17709080",
       "direction_id": "1",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "6",
@@ -111398,7 +111398,7 @@
       ]
     },
     {
-      "trip_id": "6_17605068",
+      "trip_id": "6_17709081",
       "direction_id": "0",
       "headsign": "PRACZE ODRZAŃSKIE",
       "service_id": "6",
@@ -111730,7 +111730,7 @@
       ]
     },
     {
-      "trip_id": "6_17605069",
+      "trip_id": "6_17709082",
       "direction_id": "1",
       "headsign": "KRZYKI",
       "service_id": "6",
@@ -112224,7 +112224,7 @@
       ]
     },
     {
-      "trip_id": "6_17605070",
+      "trip_id": "6_17709083",
       "direction_id": "0",
       "headsign": "PRACZE ODRZAŃSKIE",
       "service_id": "6",
@@ -112727,7 +112727,7 @@
       ]
     },
     {
-      "trip_id": "6_17605071",
+      "trip_id": "6_17709084",
       "direction_id": "1",
       "headsign": "KRZYKI",
       "service_id": "6",
@@ -113221,7 +113221,7 @@
       ]
     },
     {
-      "trip_id": "6_17605072",
+      "trip_id": "6_17709085",
       "direction_id": "0",
       "headsign": "PRACZE ODRZAŃSKIE",
       "service_id": "6",
@@ -113715,7 +113715,7 @@
       ]
     },
     {
-      "trip_id": "6_17605073",
+      "trip_id": "6_17709086",
       "direction_id": "1",
       "headsign": "KRZYKI",
       "service_id": "6",
@@ -114200,7 +114200,7 @@
       ]
     },
     {
-      "trip_id": "6_17605074",
+      "trip_id": "6_17709087",
       "direction_id": "0",
       "headsign": "PRACZE ODRZAŃSKIE",
       "service_id": "6",
@@ -114712,7 +114712,7 @@
       ]
     },
     {
-      "trip_id": "6_17605075",
+      "trip_id": "6_17709088",
       "direction_id": "1",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "6",
@@ -115044,7 +115044,7 @@
       ]
     },
     {
-      "trip_id": "6_17605076",
+      "trip_id": "6_17709089",
       "direction_id": "1",
       "headsign": "KRZYKI",
       "service_id": "6",
@@ -115376,7 +115376,7 @@
       ]
     },
     {
-      "trip_id": "6_17605077",
+      "trip_id": "6_17709090",
       "direction_id": "0",
       "headsign": "PRACZE ODRZAŃSKIE",
       "service_id": "6",
@@ -115879,7 +115879,7 @@
       ]
     },
     {
-      "trip_id": "6_17605078",
+      "trip_id": "6_17709091",
       "direction_id": "1",
       "headsign": "KRZYKI",
       "service_id": "6",
@@ -116373,7 +116373,7 @@
       ]
     },
     {
-      "trip_id": "6_17605079",
+      "trip_id": "6_17709092",
       "direction_id": "0",
       "headsign": "PRACZE ODRZAŃSKIE",
       "service_id": "6",
@@ -116876,7 +116876,7 @@
       ]
     },
     {
-      "trip_id": "6_17605080",
+      "trip_id": "6_17709093",
       "direction_id": "1",
       "headsign": "KRZYKI",
       "service_id": "6",
@@ -117379,7 +117379,7 @@
       ]
     },
     {
-      "trip_id": "6_17605081",
+      "trip_id": "6_17709094",
       "direction_id": "0",
       "headsign": "PRACZE ODRZAŃSKIE",
       "service_id": "6",
@@ -117873,7 +117873,7 @@
       ]
     },
     {
-      "trip_id": "6_17605082",
+      "trip_id": "6_17709095",
       "direction_id": "1",
       "headsign": "KRZYKI",
       "service_id": "6",
@@ -118358,7 +118358,7 @@
       ]
     },
     {
-      "trip_id": "6_17605083",
+      "trip_id": "6_17709096",
       "direction_id": "0",
       "headsign": "PRACZE ODRZAŃSKIE",
       "service_id": "6",
@@ -118852,7 +118852,7 @@
       ]
     },
     {
-      "trip_id": "6_17605084",
+      "trip_id": "6_17709097",
       "direction_id": "1",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "6",
@@ -119184,7 +119184,7 @@
       ]
     },
     {
-      "trip_id": "6_17605085",
+      "trip_id": "6_17709098",
       "direction_id": "1",
       "headsign": "KRZYKI",
       "service_id": "6",
@@ -119516,7 +119516,7 @@
       ]
     },
     {
-      "trip_id": "6_17605086",
+      "trip_id": "6_17709099",
       "direction_id": "0",
       "headsign": "PRACZE ODRZAŃSKIE",
       "service_id": "6",
@@ -120019,7 +120019,7 @@
       ]
     },
     {
-      "trip_id": "6_17605087",
+      "trip_id": "6_17709100",
       "direction_id": "1",
       "headsign": "KRZYKI",
       "service_id": "6",
@@ -120513,7 +120513,7 @@
       ]
     },
     {
-      "trip_id": "6_17605088",
+      "trip_id": "6_17709101",
       "direction_id": "0",
       "headsign": "PRACZE ODRZAŃSKIE",
       "service_id": "6",
@@ -121016,7 +121016,7 @@
       ]
     },
     {
-      "trip_id": "6_17605089",
+      "trip_id": "6_17709102",
       "direction_id": "1",
       "headsign": "KRZYKI",
       "service_id": "6",
@@ -121510,7 +121510,7 @@
       ]
     },
     {
-      "trip_id": "6_17605090",
+      "trip_id": "6_17709103",
       "direction_id": "0",
       "headsign": "PRACZE ODRZAŃSKIE",
       "service_id": "6",
@@ -122031,7 +122031,7 @@
       ]
     },
     {
-      "trip_id": "6_17605091",
+      "trip_id": "6_17709104",
       "direction_id": "1",
       "headsign": "KRZYKI",
       "service_id": "6",
@@ -122525,7 +122525,7 @@
       ]
     },
     {
-      "trip_id": "6_17605092",
+      "trip_id": "6_17709105",
       "direction_id": "0",
       "headsign": "PRACZE ODRZAŃSKIE",
       "service_id": "6",
@@ -123028,7 +123028,7 @@
       ]
     },
     {
-      "trip_id": "6_17605093",
+      "trip_id": "6_17709106",
       "direction_id": "1",
       "headsign": "KRZYKI",
       "service_id": "6",
@@ -123522,7 +123522,7 @@
       ]
     },
     {
-      "trip_id": "6_17605094",
+      "trip_id": "6_17709107",
       "direction_id": "0",
       "headsign": "PRACZE ODRZAŃSKIE",
       "service_id": "6",
@@ -124016,7 +124016,7 @@
       ]
     },
     {
-      "trip_id": "6_17605095",
+      "trip_id": "6_17709108",
       "direction_id": "1",
       "headsign": "KRZYKI",
       "service_id": "6",
@@ -124501,7 +124501,7 @@
       ]
     },
     {
-      "trip_id": "6_17605096",
+      "trip_id": "6_17709109",
       "direction_id": "0",
       "headsign": "PRACZE ODRZAŃSKIE",
       "service_id": "6",
@@ -124995,7 +124995,7 @@
       ]
     },
     {
-      "trip_id": "6_17605097",
+      "trip_id": "6_17709110",
       "direction_id": "1",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "6",
@@ -125327,7 +125327,7 @@
       ]
     },
     {
-      "trip_id": "6_17605098",
+      "trip_id": "6_17709111",
       "direction_id": "1",
       "headsign": "KRZYKI",
       "service_id": "6",
@@ -125659,7 +125659,7 @@
       ]
     },
     {
-      "trip_id": "6_17605099",
+      "trip_id": "6_17709112",
       "direction_id": "0",
       "headsign": "PRACZE ODRZAŃSKIE",
       "service_id": "6",
@@ -126162,7 +126162,7 @@
       ]
     },
     {
-      "trip_id": "6_17605100",
+      "trip_id": "6_17709113",
       "direction_id": "1",
       "headsign": "KRZYKI",
       "service_id": "6",
@@ -126656,7 +126656,7 @@
       ]
     },
     {
-      "trip_id": "6_17605101",
+      "trip_id": "6_17709114",
       "direction_id": "0",
       "headsign": "PRACZE ODRZAŃSKIE",
       "service_id": "6",
@@ -127159,7 +127159,7 @@
       ]
     },
     {
-      "trip_id": "6_17605102",
+      "trip_id": "6_17709115",
       "direction_id": "1",
       "headsign": "KRZYKI",
       "service_id": "6",
@@ -127653,7 +127653,7 @@
       ]
     },
     {
-      "trip_id": "6_17605103",
+      "trip_id": "6_17709116",
       "direction_id": "0",
       "headsign": "PRACZE ODRZAŃSKIE",
       "service_id": "6",
@@ -128156,7 +128156,7 @@
       ]
     },
     {
-      "trip_id": "6_17605104",
+      "trip_id": "6_17709117",
       "direction_id": "1",
       "headsign": "KRZYKI",
       "service_id": "6",
@@ -128650,7 +128650,7 @@
       ]
     },
     {
-      "trip_id": "6_17605105",
+      "trip_id": "6_17709118",
       "direction_id": "0",
       "headsign": "PRACZE ODRZAŃSKIE",
       "service_id": "6",
@@ -129153,7 +129153,7 @@
       ]
     },
     {
-      "trip_id": "6_17605106",
+      "trip_id": "6_17709119",
       "direction_id": "1",
       "headsign": "KRZYKI",
       "service_id": "6",
@@ -129647,7 +129647,7 @@
       ]
     },
     {
-      "trip_id": "6_17605107",
+      "trip_id": "6_17709120",
       "direction_id": "0",
       "headsign": "PRACZE ODRZAŃSKIE",
       "service_id": "6",
@@ -130150,7 +130150,7 @@
       ]
     },
     {
-      "trip_id": "6_17605108",
+      "trip_id": "6_17709121",
       "direction_id": "1",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "6",
@@ -130482,7 +130482,7 @@
       ]
     },
     {
-      "trip_id": "6_17605109",
+      "trip_id": "6_17709122",
       "direction_id": "0",
       "headsign": "PRACZE ODRZAŃSKIE",
       "service_id": "6",
@@ -130814,7 +130814,7 @@
       ]
     },
     {
-      "trip_id": "6_17605110",
+      "trip_id": "6_17709123",
       "direction_id": "1",
       "headsign": "KRZYKI",
       "service_id": "6",
@@ -131308,7 +131308,7 @@
       ]
     },
     {
-      "trip_id": "6_17605111",
+      "trip_id": "6_17709124",
       "direction_id": "0",
       "headsign": "PRACZE ODRZAŃSKIE",
       "service_id": "6",
@@ -131811,7 +131811,7 @@
       ]
     },
     {
-      "trip_id": "6_17605112",
+      "trip_id": "6_17709125",
       "direction_id": "1",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "6",
@@ -132143,7 +132143,7 @@
       ]
     },
     {
-      "trip_id": "6_17605113",
+      "trip_id": "6_17709126",
       "direction_id": "1",
       "headsign": "KRZYKI",
       "service_id": "6",
@@ -132475,7 +132475,7 @@
       ]
     },
     {
-      "trip_id": "6_17605114",
+      "trip_id": "6_17709127",
       "direction_id": "0",
       "headsign": "PRACZE ODRZAŃSKIE",
       "service_id": "6",
@@ -132978,7 +132978,7 @@
       ]
     },
     {
-      "trip_id": "6_17605115",
+      "trip_id": "6_17709128",
       "direction_id": "1",
       "headsign": "KRZYKI",
       "service_id": "6",
@@ -133472,7 +133472,7 @@
       ]
     },
     {
-      "trip_id": "6_17605116",
+      "trip_id": "6_17709129",
       "direction_id": "0",
       "headsign": "PRACZE ODRZAŃSKIE",
       "service_id": "6",
@@ -133975,7 +133975,7 @@
       ]
     },
     {
-      "trip_id": "6_17605117",
+      "trip_id": "6_17709130",
       "direction_id": "1",
       "headsign": "KRZYKI",
       "service_id": "6",
@@ -134460,7 +134460,7 @@
       ]
     },
     {
-      "trip_id": "6_17605118",
+      "trip_id": "6_17709131",
       "direction_id": "0",
       "headsign": "PRACZE ODRZAŃSKIE",
       "service_id": "6",
@@ -134954,7 +134954,7 @@
       ]
     },
     {
-      "trip_id": "6_17605119",
+      "trip_id": "6_17709132",
       "direction_id": "1",
       "headsign": "KRZYKI",
       "service_id": "6",
@@ -135439,7 +135439,7 @@
       ]
     },
     {
-      "trip_id": "6_17605120",
+      "trip_id": "6_17709133",
       "direction_id": "0",
       "headsign": "PRACZE ODRZAŃSKIE",
       "service_id": "6",
@@ -135951,7 +135951,7 @@
       ]
     },
     {
-      "trip_id": "6_17605121",
+      "trip_id": "6_17709134",
       "direction_id": "1",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "6",
@@ -136283,7 +136283,7 @@
       ]
     },
     {
-      "trip_id": "6_17605122",
+      "trip_id": "6_17709135",
       "direction_id": "0",
       "headsign": "PRACZE ODRZAŃSKIE",
       "service_id": "6",
@@ -136615,7 +136615,7 @@
       ]
     },
     {
-      "trip_id": "6_17605123",
+      "trip_id": "6_17709136",
       "direction_id": "1",
       "headsign": "KRZYKI",
       "service_id": "6",
@@ -137109,7 +137109,7 @@
       ]
     },
     {
-      "trip_id": "6_17605124",
+      "trip_id": "6_17709137",
       "direction_id": "0",
       "headsign": "PRACZE ODRZAŃSKIE",
       "service_id": "6",
@@ -137612,7 +137612,7 @@
       ]
     },
     {
-      "trip_id": "6_17605125",
+      "trip_id": "6_17709138",
       "direction_id": "1",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "6",
@@ -137944,7 +137944,7 @@
       ]
     },
     {
-      "trip_id": "6_17605126",
+      "trip_id": "6_17709139",
       "direction_id": "0",
       "headsign": "PRACZE ODRZAŃSKIE",
       "service_id": "6",
@@ -138276,7 +138276,7 @@
       ]
     },
     {
-      "trip_id": "6_17605127",
+      "trip_id": "6_17709140",
       "direction_id": "1",
       "headsign": "KRZYKI",
       "service_id": "6",
@@ -138770,7 +138770,7 @@
       ]
     },
     {
-      "trip_id": "6_17605128",
+      "trip_id": "6_17709141",
       "direction_id": "0",
       "headsign": "PRACZE ODRZAŃSKIE",
       "service_id": "6",
@@ -139273,7 +139273,7 @@
       ]
     },
     {
-      "trip_id": "6_17605129",
+      "trip_id": "6_17709142",
       "direction_id": "1",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "6",
@@ -139605,7 +139605,7 @@
       ]
     },
     {
-      "trip_id": "6_17609808",
+      "trip_id": "6_17713821",
       "direction_id": "0",
       "headsign": "PRACZE ODRZAŃSKIE",
       "service_id": "6",
@@ -139937,7 +139937,7 @@
       ]
     },
     {
-      "trip_id": "6_17609809",
+      "trip_id": "6_17713822",
       "direction_id": "1",
       "headsign": "KRZYKI",
       "service_id": "6",
@@ -140422,7 +140422,7 @@
       ]
     },
     {
-      "trip_id": "6_17609810",
+      "trip_id": "6_17713823",
       "direction_id": "0",
       "headsign": "OPORÓW",
       "service_id": "6",
@@ -140556,7 +140556,7 @@
       ]
     },
     {
-      "trip_id": "8_17611809",
+      "trip_id": "8_17715822",
       "direction_id": "0",
       "headsign": "PRACZE ODRZAŃSKIE",
       "service_id": "8",
@@ -140888,7 +140888,7 @@
       ]
     },
     {
-      "trip_id": "8_17611810",
+      "trip_id": "8_17715823",
       "direction_id": "1",
       "headsign": "KRZYKI",
       "service_id": "8",
@@ -141382,7 +141382,7 @@
       ]
     },
     {
-      "trip_id": "8_17611811",
+      "trip_id": "8_17715824",
       "direction_id": "0",
       "headsign": "PRACZE ODRZAŃSKIE",
       "service_id": "8",
@@ -141885,7 +141885,7 @@
       ]
     },
     {
-      "trip_id": "8_17611812",
+      "trip_id": "8_17715825",
       "direction_id": "1",
       "headsign": "KRZYKI",
       "service_id": "8",
@@ -142379,7 +142379,7 @@
       ]
     },
     {
-      "trip_id": "8_17611813",
+      "trip_id": "8_17715826",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "8",
@@ -142720,7 +142720,7 @@
       ]
     },
     {
-      "trip_id": "8_17611814",
+      "trip_id": "8_17715827",
       "direction_id": "1",
       "headsign": "KRZYKI",
       "service_id": "8",
@@ -143052,7 +143052,7 @@
       ]
     },
     {
-      "trip_id": "8_17611815",
+      "trip_id": "8_17715828",
       "direction_id": "0",
       "headsign": "PRACZE ODRZAŃSKIE",
       "service_id": "8",
@@ -143555,7 +143555,7 @@
       ]
     },
     {
-      "trip_id": "8_17611816",
+      "trip_id": "8_17715829",
       "direction_id": "1",
       "headsign": "KRZYKI",
       "service_id": "8",
@@ -144049,7 +144049,7 @@
       ]
     },
     {
-      "trip_id": "8_17611817",
+      "trip_id": "8_17715830",
       "direction_id": "0",
       "headsign": "PRACZE ODRZAŃSKIE",
       "service_id": "8",
@@ -144552,7 +144552,7 @@
       ]
     },
     {
-      "trip_id": "8_17611818",
+      "trip_id": "8_17715831",
       "direction_id": "1",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "8",
@@ -144884,7 +144884,7 @@
       ]
     },
     {
-      "trip_id": "8_17611819",
+      "trip_id": "8_17715832",
       "direction_id": "0",
       "headsign": "PRACZE ODRZAŃSKIE",
       "service_id": "8",
@@ -145216,7 +145216,7 @@
       ]
     },
     {
-      "trip_id": "8_17611820",
+      "trip_id": "8_17715833",
       "direction_id": "1",
       "headsign": "KRZYKI",
       "service_id": "8",
@@ -145710,7 +145710,7 @@
       ]
     },
     {
-      "trip_id": "8_17611821",
+      "trip_id": "8_17715834",
       "direction_id": "0",
       "headsign": "PRACZE ODRZAŃSKIE",
       "service_id": "8",
@@ -146213,7 +146213,7 @@
       ]
     },
     {
-      "trip_id": "8_17611822",
+      "trip_id": "8_17715835",
       "direction_id": "1",
       "headsign": "KRZYKI",
       "service_id": "8",
@@ -146725,7 +146725,7 @@
       ]
     },
     {
-      "trip_id": "8_17611823",
+      "trip_id": "8_17715836",
       "direction_id": "0",
       "headsign": "PRACZE ODRZAŃSKIE",
       "service_id": "8",
@@ -147228,7 +147228,7 @@
       ]
     },
     {
-      "trip_id": "8_17611824",
+      "trip_id": "8_17715837",
       "direction_id": "1",
       "headsign": "KRZYKI",
       "service_id": "8",
@@ -147722,7 +147722,7 @@
       ]
     },
     {
-      "trip_id": "8_17611825",
+      "trip_id": "8_17715838",
       "direction_id": "0",
       "headsign": "PRACZE ODRZAŃSKIE",
       "service_id": "8",
@@ -148225,7 +148225,7 @@
       ]
     },
     {
-      "trip_id": "8_17611826",
+      "trip_id": "8_17715839",
       "direction_id": "1",
       "headsign": "KRZYKI",
       "service_id": "8",
@@ -148719,7 +148719,7 @@
       ]
     },
     {
-      "trip_id": "8_17611827",
+      "trip_id": "8_17715840",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "8",
@@ -149060,7 +149060,7 @@
       ]
     },
     {
-      "trip_id": "8_17611828",
+      "trip_id": "8_17715841",
       "direction_id": "1",
       "headsign": "KRZYKI",
       "service_id": "8",
@@ -149392,7 +149392,7 @@
       ]
     },
     {
-      "trip_id": "8_17611829",
+      "trip_id": "8_17715842",
       "direction_id": "0",
       "headsign": "PRACZE ODRZAŃSKIE",
       "service_id": "8",
@@ -149895,7 +149895,7 @@
       ]
     },
     {
-      "trip_id": "8_17611830",
+      "trip_id": "8_17715843",
       "direction_id": "1",
       "headsign": "KRZYKI",
       "service_id": "8",
@@ -150389,7 +150389,7 @@
       ]
     },
     {
-      "trip_id": "8_17611831",
+      "trip_id": "8_17715844",
       "direction_id": "0",
       "headsign": "PRACZE ODRZAŃSKIE",
       "service_id": "8",
@@ -150892,7 +150892,7 @@
       ]
     },
     {
-      "trip_id": "8_17611832",
+      "trip_id": "8_17715845",
       "direction_id": "1",
       "headsign": "KRZYKI",
       "service_id": "8",
@@ -151386,7 +151386,7 @@
       ]
     },
     {
-      "trip_id": "8_17611833",
+      "trip_id": "8_17715846",
       "direction_id": "0",
       "headsign": "PRACZE ODRZAŃSKIE",
       "service_id": "8",
@@ -151889,7 +151889,7 @@
       ]
     },
     {
-      "trip_id": "8_17611834",
+      "trip_id": "8_17715847",
       "direction_id": "1",
       "headsign": "KRZYKI",
       "service_id": "8",
@@ -152383,7 +152383,7 @@
       ]
     },
     {
-      "trip_id": "8_17611835",
+      "trip_id": "8_17715848",
       "direction_id": "0",
       "headsign": "PRACZE ODRZAŃSKIE",
       "service_id": "8",
@@ -152886,7 +152886,7 @@
       ]
     },
     {
-      "trip_id": "8_17611836",
+      "trip_id": "8_17715849",
       "direction_id": "1",
       "headsign": "KRZYKI",
       "service_id": "8",
@@ -153380,7 +153380,7 @@
       ]
     },
     {
-      "trip_id": "8_17611837",
+      "trip_id": "8_17715850",
       "direction_id": "0",
       "headsign": "PRACZE ODRZAŃSKIE",
       "service_id": "8",
@@ -153874,7 +153874,7 @@
       ]
     },
     {
-      "trip_id": "8_17611838",
+      "trip_id": "8_17715851",
       "direction_id": "1",
       "headsign": "KRZYKI",
       "service_id": "8",
@@ -154359,7 +154359,7 @@
       ]
     },
     {
-      "trip_id": "8_17611839",
+      "trip_id": "8_17715852",
       "direction_id": "0",
       "headsign": "PRACZE ODRZAŃSKIE",
       "service_id": "8",
@@ -154853,7 +154853,7 @@
       ]
     },
     {
-      "trip_id": "8_17611840",
+      "trip_id": "8_17715853",
       "direction_id": "1",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "8",
@@ -155185,7 +155185,7 @@
       ]
     },
     {
-      "trip_id": "8_17611841",
+      "trip_id": "8_17715854",
       "direction_id": "1",
       "headsign": "KRZYKI",
       "service_id": "8",
@@ -155517,7 +155517,7 @@
       ]
     },
     {
-      "trip_id": "8_17611842",
+      "trip_id": "8_17715855",
       "direction_id": "0",
       "headsign": "PRACZE ODRZAŃSKIE",
       "service_id": "8",
@@ -156020,7 +156020,7 @@
       ]
     },
     {
-      "trip_id": "8_17611843",
+      "trip_id": "8_17715856",
       "direction_id": "1",
       "headsign": "KRZYKI",
       "service_id": "8",
@@ -156514,7 +156514,7 @@
       ]
     },
     {
-      "trip_id": "8_17611844",
+      "trip_id": "8_17715857",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "8",
@@ -156855,7 +156855,7 @@
       ]
     },
     {
-      "trip_id": "8_17611845",
+      "trip_id": "8_17715858",
       "direction_id": "0",
       "headsign": "PRACZE ODRZAŃSKIE",
       "service_id": "8",
@@ -157187,7 +157187,7 @@
       ]
     },
     {
-      "trip_id": "8_17611846",
+      "trip_id": "8_17715859",
       "direction_id": "1",
       "headsign": "KRZYKI",
       "service_id": "8",
@@ -157681,7 +157681,7 @@
       ]
     },
     {
-      "trip_id": "8_17611847",
+      "trip_id": "8_17715860",
       "direction_id": "0",
       "headsign": "PRACZE ODRZAŃSKIE",
       "service_id": "8",
@@ -158184,7 +158184,7 @@
       ]
     },
     {
-      "trip_id": "8_17611848",
+      "trip_id": "8_17715861",
       "direction_id": "1",
       "headsign": "KRZYKI",
       "service_id": "8",
@@ -158678,7 +158678,7 @@
       ]
     },
     {
-      "trip_id": "8_17611849",
+      "trip_id": "8_17715862",
       "direction_id": "0",
       "headsign": "PRACZE ODRZAŃSKIE",
       "service_id": "8",
@@ -159199,7 +159199,7 @@
       ]
     },
     {
-      "trip_id": "8_17611850",
+      "trip_id": "8_17715863",
       "direction_id": "1",
       "headsign": "KRZYKI",
       "service_id": "8",
@@ -159693,7 +159693,7 @@
       ]
     },
     {
-      "trip_id": "8_17611851",
+      "trip_id": "8_17715864",
       "direction_id": "0",
       "headsign": "PRACZE ODRZAŃSKIE",
       "service_id": "8",
@@ -160196,7 +160196,7 @@
       ]
     },
     {
-      "trip_id": "8_17611852",
+      "trip_id": "8_17715865",
       "direction_id": "1",
       "headsign": "KRZYKI",
       "service_id": "8",
@@ -160690,7 +160690,7 @@
       ]
     },
     {
-      "trip_id": "8_17611853",
+      "trip_id": "8_17715866",
       "direction_id": "0",
       "headsign": "PRACZE ODRZAŃSKIE",
       "service_id": "8",
@@ -161193,7 +161193,7 @@
       ]
     },
     {
-      "trip_id": "8_17611854",
+      "trip_id": "8_17715867",
       "direction_id": "1",
       "headsign": "KRZYKI",
       "service_id": "8",
@@ -161678,7 +161678,7 @@
       ]
     },
     {
-      "trip_id": "8_17611855",
+      "trip_id": "8_17715868",
       "direction_id": "0",
       "headsign": "PRACZE ODRZAŃSKIE",
       "service_id": "8",
@@ -162190,7 +162190,7 @@
       ]
     },
     {
-      "trip_id": "8_17611856",
+      "trip_id": "8_17715869",
       "direction_id": "1",
       "headsign": "KRZYKI",
       "service_id": "8",
@@ -162693,7 +162693,7 @@
       ]
     },
     {
-      "trip_id": "8_17611857",
+      "trip_id": "8_17715870",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "8",
@@ -163052,7 +163052,7 @@
       ]
     },
     {
-      "trip_id": "8_17611858",
+      "trip_id": "8_17715871",
       "direction_id": "0",
       "headsign": "PRACZE ODRZAŃSKIE",
       "service_id": "8",
@@ -163384,7 +163384,7 @@
       ]
     },
     {
-      "trip_id": "8_17611859",
+      "trip_id": "8_17715872",
       "direction_id": "1",
       "headsign": "KRZYKI",
       "service_id": "8",
@@ -163878,7 +163878,7 @@
       ]
     },
     {
-      "trip_id": "8_17611860",
+      "trip_id": "8_17715873",
       "direction_id": "0",
       "headsign": "PRACZE ODRZAŃSKIE",
       "service_id": "8",
@@ -164381,7 +164381,7 @@
       ]
     },
     {
-      "trip_id": "8_17611875",
+      "trip_id": "8_17715888",
       "direction_id": "0",
       "headsign": "PRACZE ODRZAŃSKIE",
       "service_id": "8",
@@ -164713,7 +164713,7 @@
       ]
     },
     {
-      "trip_id": "8_17611876",
+      "trip_id": "8_17715889",
       "direction_id": "1",
       "headsign": "KRZYKI",
       "service_id": "8",
@@ -165207,7 +165207,7 @@
       ]
     },
     {
-      "trip_id": "8_17611877",
+      "trip_id": "8_17715890",
       "direction_id": "0",
       "headsign": "PRACZE ODRZAŃSKIE",
       "service_id": "8",
@@ -165710,7 +165710,7 @@
       ]
     },
     {
-      "trip_id": "8_17611878",
+      "trip_id": "8_17715891",
       "direction_id": "1",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "8",
@@ -166042,7 +166042,7 @@
       ]
     },
     {
-      "trip_id": "8_17611879",
+      "trip_id": "8_17715892",
       "direction_id": "1",
       "headsign": "KRZYKI",
       "service_id": "8",
@@ -166374,7 +166374,7 @@
       ]
     },
     {
-      "trip_id": "8_17611880",
+      "trip_id": "8_17715893",
       "direction_id": "0",
       "headsign": "PRACZE ODRZAŃSKIE",
       "service_id": "8",
@@ -166877,7 +166877,7 @@
       ]
     },
     {
-      "trip_id": "8_17611881",
+      "trip_id": "8_17715894",
       "direction_id": "1",
       "headsign": "KRZYKI",
       "service_id": "8",
@@ -167371,7 +167371,7 @@
       ]
     },
     {
-      "trip_id": "8_17611882",
+      "trip_id": "8_17715895",
       "direction_id": "0",
       "headsign": "PRACZE ODRZAŃSKIE",
       "service_id": "8",
@@ -167874,7 +167874,7 @@
       ]
     },
     {
-      "trip_id": "8_17611883",
+      "trip_id": "8_17715896",
       "direction_id": "1",
       "headsign": "KRZYKI",
       "service_id": "8",
@@ -168368,7 +168368,7 @@
       ]
     },
     {
-      "trip_id": "8_17611884",
+      "trip_id": "8_17715897",
       "direction_id": "0",
       "headsign": "PRACZE ODRZAŃSKIE",
       "service_id": "8",
@@ -168871,7 +168871,7 @@
       ]
     },
     {
-      "trip_id": "8_17611885",
+      "trip_id": "8_17715898",
       "direction_id": "1",
       "headsign": "KRZYKI",
       "service_id": "8",
@@ -169383,7 +169383,7 @@
       ]
     },
     {
-      "trip_id": "8_17611886",
+      "trip_id": "8_17715899",
       "direction_id": "0",
       "headsign": "PRACZE ODRZAŃSKIE",
       "service_id": "8",
@@ -169886,7 +169886,7 @@
       ]
     },
     {
-      "trip_id": "8_17611887",
+      "trip_id": "8_17715900",
       "direction_id": "1",
       "headsign": "KRZYKI",
       "service_id": "8",
@@ -170380,7 +170380,7 @@
       ]
     },
     {
-      "trip_id": "8_17611888",
+      "trip_id": "8_17715901",
       "direction_id": "0",
       "headsign": "PRACZE ODRZAŃSKIE",
       "service_id": "8",
@@ -170883,7 +170883,7 @@
       ]
     },
     {
-      "trip_id": "8_17611889",
+      "trip_id": "8_17715902",
       "direction_id": "1",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "8",
@@ -171215,7 +171215,7 @@
       ]
     },
     {
-      "trip_id": "8_17611890",
+      "trip_id": "8_17715903",
       "direction_id": "0",
       "headsign": "PRACZE ODRZAŃSKIE",
       "service_id": "8",
@@ -171547,7 +171547,7 @@
       ]
     },
     {
-      "trip_id": "8_17611891",
+      "trip_id": "8_17715904",
       "direction_id": "1",
       "headsign": "KRZYKI",
       "service_id": "8",
@@ -172041,7 +172041,7 @@
       ]
     },
     {
-      "trip_id": "8_17611892",
+      "trip_id": "8_17715905",
       "direction_id": "0",
       "headsign": "PRACZE ODRZAŃSKIE",
       "service_id": "8",
@@ -172544,7 +172544,7 @@
       ]
     },
     {
-      "trip_id": "8_17611893",
+      "trip_id": "8_17715906",
       "direction_id": "1",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "8",
@@ -172876,7 +172876,7 @@
       ]
     },
     {
-      "trip_id": "8_17611894",
+      "trip_id": "8_17715907",
       "direction_id": "0",
       "headsign": "PRACZE ODRZAŃSKIE",
       "service_id": "8",
@@ -173208,7 +173208,7 @@
       ]
     },
     {
-      "trip_id": "8_17611895",
+      "trip_id": "8_17715908",
       "direction_id": "1",
       "headsign": "KRZYKI",
       "service_id": "8",
@@ -173702,7 +173702,7 @@
       ]
     },
     {
-      "trip_id": "8_17611896",
+      "trip_id": "8_17715909",
       "direction_id": "0",
       "headsign": "PRACZE ODRZAŃSKIE",
       "service_id": "8",
@@ -174205,7 +174205,7 @@
       ]
     },
     {
-      "trip_id": "8_17611897",
+      "trip_id": "8_17715910",
       "direction_id": "1",
       "headsign": "KRZYKI",
       "service_id": "8",
@@ -174699,7 +174699,7 @@
       ]
     },
     {
-      "trip_id": "8_17611898",
+      "trip_id": "8_17715911",
       "direction_id": "0",
       "headsign": "PRACZE ODRZAŃSKIE",
       "service_id": "8",
@@ -175193,7 +175193,7 @@
       ]
     },
     {
-      "trip_id": "8_17611899",
+      "trip_id": "8_17715912",
       "direction_id": "1",
       "headsign": "KRZYKI",
       "service_id": "8",
@@ -175678,7 +175678,7 @@
       ]
     },
     {
-      "trip_id": "8_17611900",
+      "trip_id": "8_17715913",
       "direction_id": "0",
       "headsign": "PRACZE ODRZAŃSKIE",
       "service_id": "8",
@@ -176190,7 +176190,7 @@
       ]
     },
     {
-      "trip_id": "8_17611901",
+      "trip_id": "8_17715914",
       "direction_id": "1",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "8",
@@ -176522,7 +176522,7 @@
       ]
     },
     {
-      "trip_id": "8_17611902",
+      "trip_id": "8_17715915",
       "direction_id": "1",
       "headsign": "KRZYKI",
       "service_id": "8",
@@ -176854,7 +176854,7 @@
       ]
     },
     {
-      "trip_id": "8_17611903",
+      "trip_id": "8_17715916",
       "direction_id": "0",
       "headsign": "PRACZE ODRZAŃSKIE",
       "service_id": "8",
@@ -177357,7 +177357,7 @@
       ]
     },
     {
-      "trip_id": "8_17611904",
+      "trip_id": "8_17715917",
       "direction_id": "1",
       "headsign": "KRZYKI",
       "service_id": "8",
@@ -177851,7 +177851,7 @@
       ]
     },
     {
-      "trip_id": "8_17611905",
+      "trip_id": "8_17715918",
       "direction_id": "0",
       "headsign": "PRACZE ODRZAŃSKIE",
       "service_id": "8",
@@ -178354,7 +178354,7 @@
       ]
     },
     {
-      "trip_id": "8_17611906",
+      "trip_id": "8_17715919",
       "direction_id": "1",
       "headsign": "KRZYKI",
       "service_id": "8",
@@ -178857,7 +178857,7 @@
       ]
     },
     {
-      "trip_id": "8_17611907",
+      "trip_id": "8_17715920",
       "direction_id": "0",
       "headsign": "PRACZE ODRZAŃSKIE",
       "service_id": "8",
@@ -179351,7 +179351,7 @@
       ]
     },
     {
-      "trip_id": "8_17611908",
+      "trip_id": "8_17715921",
       "direction_id": "1",
       "headsign": "KRZYKI",
       "service_id": "8",
@@ -179836,7 +179836,7 @@
       ]
     },
     {
-      "trip_id": "8_17611909",
+      "trip_id": "8_17715922",
       "direction_id": "0",
       "headsign": "PRACZE ODRZAŃSKIE",
       "service_id": "8",
@@ -180330,7 +180330,7 @@
       ]
     },
     {
-      "trip_id": "8_17611910",
+      "trip_id": "8_17715923",
       "direction_id": "1",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "8",
@@ -180662,7 +180662,7 @@
       ]
     },
     {
-      "trip_id": "8_17611911",
+      "trip_id": "8_17715924",
       "direction_id": "1",
       "headsign": "KRZYKI",
       "service_id": "8",
@@ -180994,7 +180994,7 @@
       ]
     },
     {
-      "trip_id": "8_17611912",
+      "trip_id": "8_17715925",
       "direction_id": "0",
       "headsign": "PRACZE ODRZAŃSKIE",
       "service_id": "8",
@@ -181497,7 +181497,7 @@
       ]
     },
     {
-      "trip_id": "8_17611913",
+      "trip_id": "8_17715926",
       "direction_id": "1",
       "headsign": "KRZYKI",
       "service_id": "8",
@@ -181991,7 +181991,7 @@
       ]
     },
     {
-      "trip_id": "8_17611914",
+      "trip_id": "8_17715927",
       "direction_id": "0",
       "headsign": "PRACZE ODRZAŃSKIE",
       "service_id": "8",
@@ -182494,7 +182494,7 @@
       ]
     },
     {
-      "trip_id": "8_17611915",
+      "trip_id": "8_17715928",
       "direction_id": "1",
       "headsign": "KRZYKI",
       "service_id": "8",
@@ -182988,7 +182988,7 @@
       ]
     },
     {
-      "trip_id": "8_17611916",
+      "trip_id": "8_17715929",
       "direction_id": "0",
       "headsign": "PRACZE ODRZAŃSKIE",
       "service_id": "8",
@@ -183509,7 +183509,7 @@
       ]
     },
     {
-      "trip_id": "8_17611917",
+      "trip_id": "8_17715930",
       "direction_id": "1",
       "headsign": "KRZYKI",
       "service_id": "8",
@@ -184003,7 +184003,7 @@
       ]
     },
     {
-      "trip_id": "8_17611918",
+      "trip_id": "8_17715931",
       "direction_id": "0",
       "headsign": "PRACZE ODRZAŃSKIE",
       "service_id": "8",
@@ -184506,7 +184506,7 @@
       ]
     },
     {
-      "trip_id": "8_17611919",
+      "trip_id": "8_17715932",
       "direction_id": "1",
       "headsign": "KRZYKI",
       "service_id": "8",
@@ -185000,7 +185000,7 @@
       ]
     },
     {
-      "trip_id": "8_17611920",
+      "trip_id": "8_17715933",
       "direction_id": "0",
       "headsign": "PRACZE ODRZAŃSKIE",
       "service_id": "8",
@@ -185494,7 +185494,7 @@
       ]
     },
     {
-      "trip_id": "8_17611921",
+      "trip_id": "8_17715934",
       "direction_id": "1",
       "headsign": "KRZYKI",
       "service_id": "8",
@@ -185979,7 +185979,7 @@
       ]
     },
     {
-      "trip_id": "8_17611922",
+      "trip_id": "8_17715935",
       "direction_id": "0",
       "headsign": "PRACZE ODRZAŃSKIE",
       "service_id": "8",
@@ -186473,7 +186473,7 @@
       ]
     },
     {
-      "trip_id": "8_17611923",
+      "trip_id": "8_17715936",
       "direction_id": "1",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "8",
@@ -186805,7 +186805,7 @@
       ]
     },
     {
-      "trip_id": "8_17611924",
+      "trip_id": "8_17715937",
       "direction_id": "1",
       "headsign": "KRZYKI",
       "service_id": "8",
@@ -187137,7 +187137,7 @@
       ]
     },
     {
-      "trip_id": "8_17611925",
+      "trip_id": "8_17715938",
       "direction_id": "0",
       "headsign": "PRACZE ODRZAŃSKIE",
       "service_id": "8",
@@ -187640,7 +187640,7 @@
       ]
     },
     {
-      "trip_id": "8_17611926",
+      "trip_id": "8_17715939",
       "direction_id": "1",
       "headsign": "KRZYKI",
       "service_id": "8",
@@ -188134,7 +188134,7 @@
       ]
     },
     {
-      "trip_id": "8_17611927",
+      "trip_id": "8_17715940",
       "direction_id": "0",
       "headsign": "PRACZE ODRZAŃSKIE",
       "service_id": "8",
@@ -188637,7 +188637,7 @@
       ]
     },
     {
-      "trip_id": "8_17611928",
+      "trip_id": "8_17715941",
       "direction_id": "1",
       "headsign": "KRZYKI",
       "service_id": "8",
@@ -189131,7 +189131,7 @@
       ]
     },
     {
-      "trip_id": "8_17611929",
+      "trip_id": "8_17715942",
       "direction_id": "0",
       "headsign": "PRACZE ODRZAŃSKIE",
       "service_id": "8",
@@ -189634,7 +189634,7 @@
       ]
     },
     {
-      "trip_id": "8_17611930",
+      "trip_id": "8_17715943",
       "direction_id": "1",
       "headsign": "KRZYKI",
       "service_id": "8",
@@ -190128,7 +190128,7 @@
       ]
     },
     {
-      "trip_id": "8_17611931",
+      "trip_id": "8_17715944",
       "direction_id": "0",
       "headsign": "PRACZE ODRZAŃSKIE",
       "service_id": "8",
@@ -190631,7 +190631,7 @@
       ]
     },
     {
-      "trip_id": "8_17611932",
+      "trip_id": "8_17715945",
       "direction_id": "1",
       "headsign": "KRZYKI",
       "service_id": "8",
@@ -191125,7 +191125,7 @@
       ]
     },
     {
-      "trip_id": "8_17611933",
+      "trip_id": "8_17715946",
       "direction_id": "0",
       "headsign": "PRACZE ODRZAŃSKIE",
       "service_id": "8",
@@ -191628,7 +191628,7 @@
       ]
     },
     {
-      "trip_id": "8_17611934",
+      "trip_id": "8_17715947",
       "direction_id": "1",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "8",
@@ -191960,7 +191960,7 @@
       ]
     },
     {
-      "trip_id": "8_17611935",
+      "trip_id": "8_17715948",
       "direction_id": "0",
       "headsign": "PRACZE ODRZAŃSKIE",
       "service_id": "8",
@@ -192292,7 +192292,7 @@
       ]
     },
     {
-      "trip_id": "8_17611936",
+      "trip_id": "8_17715949",
       "direction_id": "1",
       "headsign": "KRZYKI",
       "service_id": "8",
@@ -192786,7 +192786,7 @@
       ]
     },
     {
-      "trip_id": "8_17611937",
+      "trip_id": "8_17715950",
       "direction_id": "0",
       "headsign": "PRACZE ODRZAŃSKIE",
       "service_id": "8",
@@ -193289,7 +193289,7 @@
       ]
     },
     {
-      "trip_id": "8_17611938",
+      "trip_id": "8_17715951",
       "direction_id": "1",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "8",
@@ -193621,7 +193621,7 @@
       ]
     },
     {
-      "trip_id": "8_17611939",
+      "trip_id": "8_17715952",
       "direction_id": "1",
       "headsign": "KRZYKI",
       "service_id": "8",
@@ -193953,7 +193953,7 @@
       ]
     },
     {
-      "trip_id": "8_17611940",
+      "trip_id": "8_17715953",
       "direction_id": "0",
       "headsign": "PRACZE ODRZAŃSKIE",
       "service_id": "8",
@@ -194456,7 +194456,7 @@
       ]
     },
     {
-      "trip_id": "8_17611941",
+      "trip_id": "8_17715954",
       "direction_id": "1",
       "headsign": "KRZYKI",
       "service_id": "8",
@@ -194950,7 +194950,7 @@
       ]
     },
     {
-      "trip_id": "8_17611942",
+      "trip_id": "8_17715955",
       "direction_id": "0",
       "headsign": "PRACZE ODRZAŃSKIE",
       "service_id": "8",
@@ -195453,7 +195453,7 @@
       ]
     },
     {
-      "trip_id": "8_17611943",
+      "trip_id": "8_17715956",
       "direction_id": "1",
       "headsign": "KRZYKI",
       "service_id": "8",
@@ -195938,7 +195938,7 @@
       ]
     },
     {
-      "trip_id": "8_17611944",
+      "trip_id": "8_17715957",
       "direction_id": "0",
       "headsign": "PRACZE ODRZAŃSKIE",
       "service_id": "8",
@@ -196432,7 +196432,7 @@
       ]
     },
     {
-      "trip_id": "8_17611945",
+      "trip_id": "8_17715958",
       "direction_id": "1",
       "headsign": "KRZYKI",
       "service_id": "8",
@@ -196917,7 +196917,7 @@
       ]
     },
     {
-      "trip_id": "8_17611946",
+      "trip_id": "8_17715959",
       "direction_id": "0",
       "headsign": "PRACZE ODRZAŃSKIE",
       "service_id": "8",
@@ -197429,7 +197429,7 @@
       ]
     },
     {
-      "trip_id": "8_17611947",
+      "trip_id": "8_17715960",
       "direction_id": "1",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "8",
@@ -197761,7 +197761,7 @@
       ]
     },
     {
-      "trip_id": "8_17611948",
+      "trip_id": "8_17715961",
       "direction_id": "0",
       "headsign": "PRACZE ODRZAŃSKIE",
       "service_id": "8",
@@ -198093,7 +198093,7 @@
       ]
     },
     {
-      "trip_id": "8_17611949",
+      "trip_id": "8_17715962",
       "direction_id": "1",
       "headsign": "KRZYKI",
       "service_id": "8",
@@ -198587,7 +198587,7 @@
       ]
     },
     {
-      "trip_id": "8_17611950",
+      "trip_id": "8_17715963",
       "direction_id": "0",
       "headsign": "PRACZE ODRZAŃSKIE",
       "service_id": "8",
@@ -199090,7 +199090,7 @@
       ]
     },
     {
-      "trip_id": "8_17611951",
+      "trip_id": "8_17715964",
       "direction_id": "1",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "8",
@@ -199422,7 +199422,7 @@
       ]
     },
     {
-      "trip_id": "8_17611952",
+      "trip_id": "8_17715965",
       "direction_id": "0",
       "headsign": "PRACZE ODRZAŃSKIE",
       "service_id": "8",
@@ -199754,7 +199754,7 @@
       ]
     },
     {
-      "trip_id": "8_17611953",
+      "trip_id": "8_17715966",
       "direction_id": "1",
       "headsign": "KRZYKI",
       "service_id": "8",
@@ -200248,7 +200248,7 @@
       ]
     },
     {
-      "trip_id": "8_17611954",
+      "trip_id": "8_17715967",
       "direction_id": "0",
       "headsign": "PRACZE ODRZAŃSKIE",
       "service_id": "8",
@@ -200751,7 +200751,7 @@
       ]
     },
     {
-      "trip_id": "8_17611955",
+      "trip_id": "8_17715968",
       "direction_id": "1",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "8",
@@ -201083,7 +201083,7 @@
       ]
     },
     {
-      "trip_id": "8_17616639",
+      "trip_id": "8_17720652",
       "direction_id": "0",
       "headsign": "PRACZE ODRZAŃSKIE",
       "service_id": "8",
@@ -201415,7 +201415,7 @@
       ]
     },
     {
-      "trip_id": "8_17616640",
+      "trip_id": "8_17720653",
       "direction_id": "1",
       "headsign": "KRZYKI",
       "service_id": "8",
@@ -201900,7 +201900,7 @@
       ]
     },
     {
-      "trip_id": "8_17616641",
+      "trip_id": "8_17720654",
       "direction_id": "0",
       "headsign": "OPORÓW",
       "service_id": "8",

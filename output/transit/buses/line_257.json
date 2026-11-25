@@ -2,7 +2,7 @@
   "line": "257",
   "trips": [
     {
-      "trip_id": "3_17599048",
+      "trip_id": "3_17703061",
       "direction_id": "0",
       "headsign": "ŚLAZOWA",
       "service_id": "3",
@@ -370,7 +370,7 @@
       ]
     },
     {
-      "trip_id": "3_17599049",
+      "trip_id": "3_17703062",
       "direction_id": "1",
       "headsign": "PETRUSEWICZA",
       "service_id": "3",
@@ -612,7 +612,7 @@
       ]
     },
     {
-      "trip_id": "3_17599206",
+      "trip_id": "3_17703219",
       "direction_id": "1",
       "headsign": "ŚLAZOWA",
       "service_id": "3",
@@ -674,7 +674,7 @@
       ]
     },
     {
-      "trip_id": "3_17599207",
+      "trip_id": "3_17703220",
       "direction_id": "1",
       "headsign": "OPORÓW",
       "service_id": "3",
@@ -1051,7 +1051,7 @@
       ]
     },
     {
-      "trip_id": "3_17599208",
+      "trip_id": "3_17703221",
       "direction_id": "0",
       "headsign": "RĘDZIN",
       "service_id": "3",
@@ -1410,7 +1410,7 @@
       ]
     },
     {
-      "trip_id": "3_17599209",
+      "trip_id": "3_17703222",
       "direction_id": "1",
       "headsign": "GIEŁDOWA (Centrum Hurtu)",
       "service_id": "3",
@@ -1823,7 +1823,7 @@
       ]
     },
     {
-      "trip_id": "3_17599210",
+      "trip_id": "3_17703223",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "3",
@@ -2020,7 +2020,7 @@
       ]
     },
     {
-      "trip_id": "3_17599214",
+      "trip_id": "3_17703227",
       "direction_id": "0",
       "headsign": "RĘDZIN",
       "service_id": "3",
@@ -2379,7 +2379,7 @@
       ]
     },
     {
-      "trip_id": "3_17599215",
+      "trip_id": "3_17703228",
       "direction_id": "1",
       "headsign": "OPORÓW",
       "service_id": "3",
@@ -2747,7 +2747,7 @@
       ]
     },
     {
-      "trip_id": "3_17599216",
+      "trip_id": "3_17703229",
       "direction_id": "0",
       "headsign": "RĘDZIN",
       "service_id": "3",
@@ -3106,7 +3106,7 @@
       ]
     },
     {
-      "trip_id": "3_17599217",
+      "trip_id": "3_17703230",
       "direction_id": "1",
       "headsign": "OPORÓW",
       "service_id": "3",
@@ -3474,7 +3474,7 @@
       ]
     },
     {
-      "trip_id": "3_17599218",
+      "trip_id": "3_17703231",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "3",
@@ -3626,7 +3626,7 @@
       ]
     },
     {
-      "trip_id": "3_17599222",
+      "trip_id": "3_17703235",
       "direction_id": "0",
       "headsign": "ŚLAZOWA",
       "service_id": "3",
@@ -3994,7 +3994,7 @@
       ]
     },
     {
-      "trip_id": "3_17599223",
+      "trip_id": "3_17703236",
       "direction_id": "1",
       "headsign": "OPORÓW",
       "service_id": "3",
@@ -4371,7 +4371,7 @@
       ]
     },
     {
-      "trip_id": "3_17599224",
+      "trip_id": "3_17703237",
       "direction_id": "0",
       "headsign": "ŚLAZOWA",
       "service_id": "3",
@@ -4739,7 +4739,7 @@
       ]
     },
     {
-      "trip_id": "3_17599225",
+      "trip_id": "3_17703238",
       "direction_id": "1",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "3",
@@ -4864,7 +4864,7 @@
       ]
     },
     {
-      "trip_id": "4_17603460",
+      "trip_id": "4_17707473",
       "direction_id": "0",
       "headsign": "ŚLAZOWA",
       "service_id": "4",
@@ -5232,7 +5232,7 @@
       ]
     },
     {
-      "trip_id": "4_17603461",
+      "trip_id": "4_17707474",
       "direction_id": "1",
       "headsign": "PETRUSEWICZA",
       "service_id": "4",
@@ -5474,7 +5474,7 @@
       ]
     },
     {
-      "trip_id": "4_17603613",
+      "trip_id": "4_17707626",
       "direction_id": "1",
       "headsign": "ŚLAZOWA",
       "service_id": "4",
@@ -5536,7 +5536,7 @@
       ]
     },
     {
-      "trip_id": "4_17603614",
+      "trip_id": "4_17707627",
       "direction_id": "1",
       "headsign": "OPORÓW",
       "service_id": "4",
@@ -5913,7 +5913,7 @@
       ]
     },
     {
-      "trip_id": "4_17603615",
+      "trip_id": "4_17707628",
       "direction_id": "0",
       "headsign": "RĘDZIN",
       "service_id": "4",
@@ -6272,7 +6272,7 @@
       ]
     },
     {
-      "trip_id": "4_17603616",
+      "trip_id": "4_17707629",
       "direction_id": "1",
       "headsign": "GIEŁDOWA (Centrum Hurtu)",
       "service_id": "4",
@@ -6685,7 +6685,7 @@
       ]
     },
     {
-      "trip_id": "4_17603617",
+      "trip_id": "4_17707630",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "4",
@@ -6882,7 +6882,7 @@
       ]
     },
     {
-      "trip_id": "4_17603621",
+      "trip_id": "4_17707634",
       "direction_id": "0",
       "headsign": "RĘDZIN",
       "service_id": "4",
@@ -7241,7 +7241,7 @@
       ]
     },
     {
-      "trip_id": "4_17603622",
+      "trip_id": "4_17707635",
       "direction_id": "1",
       "headsign": "OPORÓW",
       "service_id": "4",
@@ -7609,7 +7609,7 @@
       ]
     },
     {
-      "trip_id": "4_17603623",
+      "trip_id": "4_17707636",
       "direction_id": "0",
       "headsign": "RĘDZIN",
       "service_id": "4",
@@ -7968,7 +7968,7 @@
       ]
     },
     {
-      "trip_id": "4_17603624",
+      "trip_id": "4_17707637",
       "direction_id": "1",
       "headsign": "OPORÓW",
       "service_id": "4",
@@ -8336,7 +8336,7 @@
       ]
     },
     {
-      "trip_id": "4_17603625",
+      "trip_id": "4_17707638",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "4",
@@ -8488,7 +8488,7 @@
       ]
     },
     {
-      "trip_id": "4_17603629",
+      "trip_id": "4_17707642",
       "direction_id": "0",
       "headsign": "ŚLAZOWA",
       "service_id": "4",
@@ -8856,7 +8856,7 @@
       ]
     },
     {
-      "trip_id": "4_17603630",
+      "trip_id": "4_17707643",
       "direction_id": "1",
       "headsign": "OPORÓW",
       "service_id": "4",
@@ -9233,7 +9233,7 @@
       ]
     },
     {
-      "trip_id": "4_17603631",
+      "trip_id": "4_17707644",
       "direction_id": "0",
       "headsign": "ŚLAZOWA",
       "service_id": "4",
@@ -9601,7 +9601,7 @@
       ]
     },
     {
-      "trip_id": "4_17603632",
+      "trip_id": "4_17707645",
       "direction_id": "1",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "4",
@@ -9726,7 +9726,7 @@
       ]
     },
     {
-      "trip_id": "6_17607555",
+      "trip_id": "6_17711568",
       "direction_id": "0",
       "headsign": "ŚLAZOWA",
       "service_id": "6",
@@ -10094,7 +10094,7 @@
       ]
     },
     {
-      "trip_id": "6_17607556",
+      "trip_id": "6_17711569",
       "direction_id": "1",
       "headsign": "OPORÓW",
       "service_id": "6",
@@ -10471,7 +10471,7 @@
       ]
     },
     {
-      "trip_id": "6_17607557",
+      "trip_id": "6_17711570",
       "direction_id": "0",
       "headsign": "ŚLAZOWA",
       "service_id": "6",
@@ -10839,7 +10839,7 @@
       ]
     },
     {
-      "trip_id": "6_17607558",
+      "trip_id": "6_17711571",
       "direction_id": "1",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "6",
@@ -10964,7 +10964,7 @@
       ]
     },
     {
-      "trip_id": "6_17609652",
+      "trip_id": "6_17713665",
       "direction_id": "0",
       "headsign": "ŚLAZOWA",
       "service_id": "6",
@@ -11332,7 +11332,7 @@
       ]
     },
     {
-      "trip_id": "6_17609653",
+      "trip_id": "6_17713666",
       "direction_id": "1",
       "headsign": "PETRUSEWICZA",
       "service_id": "6",
@@ -11574,7 +11574,7 @@
       ]
     },
     {
-      "trip_id": "6_17609803",
+      "trip_id": "6_17713816",
       "direction_id": "1",
       "headsign": "ŚLAZOWA",
       "service_id": "6",
@@ -11636,7 +11636,7 @@
       ]
     },
     {
-      "trip_id": "6_17609804",
+      "trip_id": "6_17713817",
       "direction_id": "1",
       "headsign": "OPORÓW",
       "service_id": "6",
@@ -12013,7 +12013,7 @@
       ]
     },
     {
-      "trip_id": "6_17609805",
+      "trip_id": "6_17713818",
       "direction_id": "0",
       "headsign": "RĘDZIN",
       "service_id": "6",
@@ -12372,7 +12372,7 @@
       ]
     },
     {
-      "trip_id": "6_17609806",
+      "trip_id": "6_17713819",
       "direction_id": "1",
       "headsign": "GIEŁDOWA (Centrum Hurtu)",
       "service_id": "6",
@@ -12785,7 +12785,7 @@
       ]
     },
     {
-      "trip_id": "6_17609807",
+      "trip_id": "6_17713820",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "6",
@@ -12982,7 +12982,7 @@
       ]
     },
     {
-      "trip_id": "6_17609811",
+      "trip_id": "6_17713824",
       "direction_id": "0",
       "headsign": "RĘDZIN",
       "service_id": "6",
@@ -13341,7 +13341,7 @@
       ]
     },
     {
-      "trip_id": "6_17609812",
+      "trip_id": "6_17713825",
       "direction_id": "1",
       "headsign": "OPORÓW",
       "service_id": "6",
@@ -13709,7 +13709,7 @@
       ]
     },
     {
-      "trip_id": "6_17609813",
+      "trip_id": "6_17713826",
       "direction_id": "0",
       "headsign": "RĘDZIN",
       "service_id": "6",
@@ -14068,7 +14068,7 @@
       ]
     },
     {
-      "trip_id": "6_17609814",
+      "trip_id": "6_17713827",
       "direction_id": "1",
       "headsign": "OPORÓW",
       "service_id": "6",
@@ -14436,7 +14436,7 @@
       ]
     },
     {
-      "trip_id": "6_17609815",
+      "trip_id": "6_17713828",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "6",
@@ -14588,7 +14588,7 @@
       ]
     },
     {
-      "trip_id": "8_17614381",
+      "trip_id": "8_17718394",
       "direction_id": "0",
       "headsign": "ŚLAZOWA",
       "service_id": "8",
@@ -14956,7 +14956,7 @@
       ]
     },
     {
-      "trip_id": "8_17614382",
+      "trip_id": "8_17718395",
       "direction_id": "1",
       "headsign": "OPORÓW",
       "service_id": "8",
@@ -15333,7 +15333,7 @@
       ]
     },
     {
-      "trip_id": "8_17614383",
+      "trip_id": "8_17718396",
       "direction_id": "0",
       "headsign": "ŚLAZOWA",
       "service_id": "8",
@@ -15701,7 +15701,7 @@
       ]
     },
     {
-      "trip_id": "8_17614384",
+      "trip_id": "8_17718397",
       "direction_id": "1",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "8",
@@ -15826,7 +15826,7 @@
       ]
     },
     {
-      "trip_id": "8_17616478",
+      "trip_id": "8_17720491",
       "direction_id": "0",
       "headsign": "ŚLAZOWA",
       "service_id": "8",
@@ -16194,7 +16194,7 @@
       ]
     },
     {
-      "trip_id": "8_17616479",
+      "trip_id": "8_17720492",
       "direction_id": "1",
       "headsign": "PETRUSEWICZA",
       "service_id": "8",
@@ -16436,7 +16436,7 @@
       ]
     },
     {
-      "trip_id": "8_17616634",
+      "trip_id": "8_17720647",
       "direction_id": "1",
       "headsign": "ŚLAZOWA",
       "service_id": "8",
@@ -16498,7 +16498,7 @@
       ]
     },
     {
-      "trip_id": "8_17616635",
+      "trip_id": "8_17720648",
       "direction_id": "1",
       "headsign": "OPORÓW",
       "service_id": "8",
@@ -16875,7 +16875,7 @@
       ]
     },
     {
-      "trip_id": "8_17616636",
+      "trip_id": "8_17720649",
       "direction_id": "0",
       "headsign": "RĘDZIN",
       "service_id": "8",
@@ -17234,7 +17234,7 @@
       ]
     },
     {
-      "trip_id": "8_17616637",
+      "trip_id": "8_17720650",
       "direction_id": "1",
       "headsign": "GIEŁDOWA (Centrum Hurtu)",
       "service_id": "8",
@@ -17647,7 +17647,7 @@
       ]
     },
     {
-      "trip_id": "8_17616638",
+      "trip_id": "8_17720651",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "8",
@@ -17844,7 +17844,7 @@
       ]
     },
     {
-      "trip_id": "8_17616642",
+      "trip_id": "8_17720655",
       "direction_id": "0",
       "headsign": "RĘDZIN",
       "service_id": "8",
@@ -18203,7 +18203,7 @@
       ]
     },
     {
-      "trip_id": "8_17616643",
+      "trip_id": "8_17720656",
       "direction_id": "1",
       "headsign": "OPORÓW",
       "service_id": "8",
@@ -18571,7 +18571,7 @@
       ]
     },
     {
-      "trip_id": "8_17616644",
+      "trip_id": "8_17720657",
       "direction_id": "0",
       "headsign": "RĘDZIN",
       "service_id": "8",
@@ -18930,7 +18930,7 @@
       ]
     },
     {
-      "trip_id": "8_17616645",
+      "trip_id": "8_17720658",
       "direction_id": "1",
       "headsign": "OPORÓW",
       "service_id": "8",
@@ -19298,7 +19298,7 @@
       ]
     },
     {
-      "trip_id": "8_17616646",
+      "trip_id": "8_17720659",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "8",

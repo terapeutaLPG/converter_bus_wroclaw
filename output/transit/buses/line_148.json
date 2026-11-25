@@ -2,7 +2,7 @@
   "line": "148",
   "trips": [
     {
-      "trip_id": "3_17598464",
+      "trip_id": "3_17702477",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "3",
@@ -253,7 +253,7 @@
       ]
     },
     {
-      "trip_id": "3_17598465",
+      "trip_id": "3_17702478",
       "direction_id": "0",
       "headsign": "JAGODNO (P+R)",
       "service_id": "3",
@@ -675,7 +675,7 @@
       ]
     },
     {
-      "trip_id": "3_17598466",
+      "trip_id": "3_17702479",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "3",
@@ -817,8 +817,8 @@
         },
         {
           "stop_sequence": 15,
-          "stop_id": "499",
-          "stop_name": "Piłsudskiego",
+          "stop_id": "6173",
+          "stop_name": "Piłsudskiego (Sąd Apelacyjny)",
           "arrival_time": "07:44:00",
           "departure_time": "07:44:00",
           "lat": 51.10203792,
@@ -1079,7 +1079,7 @@
       ]
     },
     {
-      "trip_id": "3_17598467",
+      "trip_id": "3_17702480",
       "direction_id": "0",
       "headsign": "JAGODNO (P+R)",
       "service_id": "3",
@@ -1501,7 +1501,7 @@
       ]
     },
     {
-      "trip_id": "3_17598468",
+      "trip_id": "3_17702481",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "3",
@@ -1643,8 +1643,8 @@
         },
         {
           "stop_sequence": 15,
-          "stop_id": "499",
-          "stop_name": "Piłsudskiego",
+          "stop_id": "6173",
+          "stop_name": "Piłsudskiego (Sąd Apelacyjny)",
           "arrival_time": "10:23:00",
           "departure_time": "10:23:00",
           "lat": 51.10203792,
@@ -1905,7 +1905,7 @@
       ]
     },
     {
-      "trip_id": "3_17598469",
+      "trip_id": "3_17702482",
       "direction_id": "0",
       "headsign": "JAGODNO (P+R)",
       "service_id": "3",
@@ -2327,7 +2327,7 @@
       ]
     },
     {
-      "trip_id": "3_17598470",
+      "trip_id": "3_17702483",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "3",
@@ -2469,8 +2469,8 @@
         },
         {
           "stop_sequence": 15,
-          "stop_id": "499",
-          "stop_name": "Piłsudskiego",
+          "stop_id": "6173",
+          "stop_name": "Piłsudskiego (Sąd Apelacyjny)",
           "arrival_time": "13:23:00",
           "departure_time": "13:23:00",
           "lat": 51.10203792,
@@ -2731,7 +2731,7 @@
       ]
     },
     {
-      "trip_id": "3_17598471",
+      "trip_id": "3_17702484",
       "direction_id": "0",
       "headsign": "JAGODNO (P+R)",
       "service_id": "3",
@@ -3153,7 +3153,7 @@
       ]
     },
     {
-      "trip_id": "3_17598472",
+      "trip_id": "3_17702485",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "3",
@@ -3295,8 +3295,8 @@
         },
         {
           "stop_sequence": 15,
-          "stop_id": "499",
-          "stop_name": "Piłsudskiego",
+          "stop_id": "6173",
+          "stop_name": "Piłsudskiego (Sąd Apelacyjny)",
           "arrival_time": "16:23:00",
           "departure_time": "16:23:00",
           "lat": 51.10203792,
@@ -3557,7 +3557,7 @@
       ]
     },
     {
-      "trip_id": "3_17598473",
+      "trip_id": "3_17702486",
       "direction_id": "0",
       "headsign": "JAGODNO (P+R)",
       "service_id": "3",
@@ -3979,7 +3979,7 @@
       ]
     },
     {
-      "trip_id": "3_17598474",
+      "trip_id": "3_17702487",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "3",
@@ -4121,8 +4121,8 @@
         },
         {
           "stop_sequence": 15,
-          "stop_id": "499",
-          "stop_name": "Piłsudskiego",
+          "stop_id": "6173",
+          "stop_name": "Piłsudskiego (Sąd Apelacyjny)",
           "arrival_time": "19:23:00",
           "departure_time": "19:23:00",
           "lat": 51.10203792,
@@ -4383,7 +4383,7 @@
       ]
     },
     {
-      "trip_id": "3_17598475",
+      "trip_id": "3_17702488",
       "direction_id": "0",
       "headsign": "JAGODNO (P+R)",
       "service_id": "3",
@@ -4805,7 +4805,7 @@
       ]
     },
     {
-      "trip_id": "3_17598476",
+      "trip_id": "3_17702489",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "3",
@@ -4947,8 +4947,8 @@
         },
         {
           "stop_sequence": 15,
-          "stop_id": "499",
-          "stop_name": "Piłsudskiego",
+          "stop_id": "6173",
+          "stop_name": "Piłsudskiego (Sąd Apelacyjny)",
           "arrival_time": "22:21:00",
           "departure_time": "22:21:00",
           "lat": 51.10203792,
@@ -5209,7 +5209,7 @@
       ]
     },
     {
-      "trip_id": "3_17598477",
+      "trip_id": "3_17702490",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "3",
@@ -5487,7 +5487,7 @@
       ]
     },
     {
-      "trip_id": "3_17598479",
+      "trip_id": "3_17702492",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "3",
@@ -5629,8 +5629,8 @@
         },
         {
           "stop_sequence": 15,
-          "stop_id": "499",
-          "stop_name": "Piłsudskiego",
+          "stop_id": "6173",
+          "stop_name": "Piłsudskiego (Sąd Apelacyjny)",
           "arrival_time": "06:44:00",
           "departure_time": "06:44:00",
           "lat": 51.10203792,
@@ -5891,7 +5891,7 @@
       ]
     },
     {
-      "trip_id": "3_17598480",
+      "trip_id": "3_17702493",
       "direction_id": "0",
       "headsign": "JAGODNO (P+R)",
       "service_id": "3",
@@ -6313,7 +6313,7 @@
       ]
     },
     {
-      "trip_id": "3_17598481",
+      "trip_id": "3_17702494",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "3",
@@ -6455,8 +6455,8 @@
         },
         {
           "stop_sequence": 15,
-          "stop_id": "499",
-          "stop_name": "Piłsudskiego",
+          "stop_id": "6173",
+          "stop_name": "Piłsudskiego (Sąd Apelacyjny)",
           "arrival_time": "09:25:00",
           "departure_time": "09:25:00",
           "lat": 51.10203792,
@@ -6717,7 +6717,7 @@
       ]
     },
     {
-      "trip_id": "3_17598482",
+      "trip_id": "3_17702495",
       "direction_id": "0",
       "headsign": "JAGODNO (P+R)",
       "service_id": "3",
@@ -7139,7 +7139,7 @@
       ]
     },
     {
-      "trip_id": "3_17598483",
+      "trip_id": "3_17702496",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "3",
@@ -7281,8 +7281,8 @@
         },
         {
           "stop_sequence": 15,
-          "stop_id": "499",
-          "stop_name": "Piłsudskiego",
+          "stop_id": "6173",
+          "stop_name": "Piłsudskiego (Sąd Apelacyjny)",
           "arrival_time": "12:23:00",
           "departure_time": "12:23:00",
           "lat": 51.10203792,
@@ -7543,7 +7543,7 @@
       ]
     },
     {
-      "trip_id": "3_17598484",
+      "trip_id": "3_17702497",
       "direction_id": "0",
       "headsign": "JAGODNO (P+R)",
       "service_id": "3",
@@ -7965,7 +7965,7 @@
       ]
     },
     {
-      "trip_id": "3_17598485",
+      "trip_id": "3_17702498",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "3",
@@ -8107,8 +8107,8 @@
         },
         {
           "stop_sequence": 15,
-          "stop_id": "499",
-          "stop_name": "Piłsudskiego",
+          "stop_id": "6173",
+          "stop_name": "Piłsudskiego (Sąd Apelacyjny)",
           "arrival_time": "15:23:00",
           "departure_time": "15:23:00",
           "lat": 51.10203792,
@@ -8369,7 +8369,7 @@
       ]
     },
     {
-      "trip_id": "3_17598486",
+      "trip_id": "3_17702499",
       "direction_id": "0",
       "headsign": "JAGODNO (P+R)",
       "service_id": "3",
@@ -8791,7 +8791,7 @@
       ]
     },
     {
-      "trip_id": "3_17598487",
+      "trip_id": "3_17702500",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "3",
@@ -8933,8 +8933,8 @@
         },
         {
           "stop_sequence": 15,
-          "stop_id": "499",
-          "stop_name": "Piłsudskiego",
+          "stop_id": "6173",
+          "stop_name": "Piłsudskiego (Sąd Apelacyjny)",
           "arrival_time": "18:23:00",
           "departure_time": "18:23:00",
           "lat": 51.10203792,
@@ -9195,7 +9195,7 @@
       ]
     },
     {
-      "trip_id": "3_17598488",
+      "trip_id": "3_17702501",
       "direction_id": "0",
       "headsign": "JAGODNO (P+R)",
       "service_id": "3",
@@ -9617,7 +9617,7 @@
       ]
     },
     {
-      "trip_id": "3_17598489",
+      "trip_id": "3_17702502",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "3",
@@ -9759,8 +9759,8 @@
         },
         {
           "stop_sequence": 15,
-          "stop_id": "499",
-          "stop_name": "Piłsudskiego",
+          "stop_id": "6173",
+          "stop_name": "Piłsudskiego (Sąd Apelacyjny)",
           "arrival_time": "21:21:00",
           "departure_time": "21:21:00",
           "lat": 51.10203792,
@@ -10021,7 +10021,7 @@
       ]
     },
     {
-      "trip_id": "3_17598490",
+      "trip_id": "3_17702503",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "3",
@@ -10299,7 +10299,7 @@
       ]
     },
     {
-      "trip_id": "3_17598492",
+      "trip_id": "3_17702505",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "3",
@@ -10441,8 +10441,8 @@
         },
         {
           "stop_sequence": 15,
-          "stop_id": "499",
-          "stop_name": "Piłsudskiego",
+          "stop_id": "6173",
+          "stop_name": "Piłsudskiego (Sąd Apelacyjny)",
           "arrival_time": "05:14:00",
           "departure_time": "05:14:00",
           "lat": 51.10203792,
@@ -10703,7 +10703,7 @@
       ]
     },
     {
-      "trip_id": "3_17598493",
+      "trip_id": "3_17702506",
       "direction_id": "0",
       "headsign": "JAGODNO (P+R)",
       "service_id": "3",
@@ -11125,7 +11125,7 @@
       ]
     },
     {
-      "trip_id": "3_17598494",
+      "trip_id": "3_17702507",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "3",
@@ -11267,8 +11267,8 @@
         },
         {
           "stop_sequence": 15,
-          "stop_id": "499",
-          "stop_name": "Piłsudskiego",
+          "stop_id": "6173",
+          "stop_name": "Piłsudskiego (Sąd Apelacyjny)",
           "arrival_time": "08:14:00",
           "departure_time": "08:14:00",
           "lat": 51.10203792,
@@ -11529,7 +11529,7 @@
       ]
     },
     {
-      "trip_id": "3_17598495",
+      "trip_id": "3_17702508",
       "direction_id": "0",
       "headsign": "JAGODNO (P+R)",
       "service_id": "3",
@@ -11951,7 +11951,7 @@
       ]
     },
     {
-      "trip_id": "3_17598496",
+      "trip_id": "3_17702509",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "3",
@@ -12093,8 +12093,8 @@
         },
         {
           "stop_sequence": 15,
-          "stop_id": "499",
-          "stop_name": "Piłsudskiego",
+          "stop_id": "6173",
+          "stop_name": "Piłsudskiego (Sąd Apelacyjny)",
           "arrival_time": "10:53:00",
           "departure_time": "10:53:00",
           "lat": 51.10203792,
@@ -12355,7 +12355,7 @@
       ]
     },
     {
-      "trip_id": "3_17598497",
+      "trip_id": "3_17702510",
       "direction_id": "0",
       "headsign": "JAGODNO (P+R)",
       "service_id": "3",
@@ -12777,7 +12777,7 @@
       ]
     },
     {
-      "trip_id": "3_17598498",
+      "trip_id": "3_17702511",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "3",
@@ -12919,8 +12919,8 @@
         },
         {
           "stop_sequence": 15,
-          "stop_id": "499",
-          "stop_name": "Piłsudskiego",
+          "stop_id": "6173",
+          "stop_name": "Piłsudskiego (Sąd Apelacyjny)",
           "arrival_time": "13:53:00",
           "departure_time": "13:53:00",
           "lat": 51.10203792,
@@ -13181,7 +13181,7 @@
       ]
     },
     {
-      "trip_id": "3_17598499",
+      "trip_id": "3_17702512",
       "direction_id": "0",
       "headsign": "JAGODNO (P+R)",
       "service_id": "3",
@@ -13603,7 +13603,7 @@
       ]
     },
     {
-      "trip_id": "3_17598500",
+      "trip_id": "3_17702513",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "3",
@@ -13745,8 +13745,8 @@
         },
         {
           "stop_sequence": 15,
-          "stop_id": "499",
-          "stop_name": "Piłsudskiego",
+          "stop_id": "6173",
+          "stop_name": "Piłsudskiego (Sąd Apelacyjny)",
           "arrival_time": "16:53:00",
           "departure_time": "16:53:00",
           "lat": 51.10203792,
@@ -14007,7 +14007,7 @@
       ]
     },
     {
-      "trip_id": "3_17598501",
+      "trip_id": "3_17702514",
       "direction_id": "0",
       "headsign": "JAGODNO (P+R)",
       "service_id": "3",
@@ -14429,7 +14429,7 @@
       ]
     },
     {
-      "trip_id": "3_17598502",
+      "trip_id": "3_17702515",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "3",
@@ -14571,8 +14571,8 @@
         },
         {
           "stop_sequence": 15,
-          "stop_id": "499",
-          "stop_name": "Piłsudskiego",
+          "stop_id": "6173",
+          "stop_name": "Piłsudskiego (Sąd Apelacyjny)",
           "arrival_time": "19:53:00",
           "departure_time": "19:53:00",
           "lat": 51.10203792,
@@ -14833,7 +14833,7 @@
       ]
     },
     {
-      "trip_id": "3_17598503",
+      "trip_id": "3_17702516",
       "direction_id": "0",
       "headsign": "JAGODNO (P+R)",
       "service_id": "3",
@@ -15255,7 +15255,7 @@
       ]
     },
     {
-      "trip_id": "3_17598504",
+      "trip_id": "3_17702517",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "3",
@@ -15397,8 +15397,8 @@
         },
         {
           "stop_sequence": 15,
-          "stop_id": "499",
-          "stop_name": "Piłsudskiego",
+          "stop_id": "6173",
+          "stop_name": "Piłsudskiego (Sąd Apelacyjny)",
           "arrival_time": "22:51:00",
           "departure_time": "22:51:00",
           "lat": 51.10203792,
@@ -15659,7 +15659,7 @@
       ]
     },
     {
-      "trip_id": "3_17598505",
+      "trip_id": "3_17702518",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "3",
@@ -15937,7 +15937,7 @@
       ]
     },
     {
-      "trip_id": "3_17598506",
+      "trip_id": "3_17702519",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "3",
@@ -16188,7 +16188,7 @@
       ]
     },
     {
-      "trip_id": "3_17598507",
+      "trip_id": "3_17702520",
       "direction_id": "0",
       "headsign": "JAGODNO (P+R)",
       "service_id": "3",
@@ -16610,7 +16610,7 @@
       ]
     },
     {
-      "trip_id": "3_17598508",
+      "trip_id": "3_17702521",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "3",
@@ -16752,8 +16752,8 @@
         },
         {
           "stop_sequence": 15,
-          "stop_id": "499",
-          "stop_name": "Piłsudskiego",
+          "stop_id": "6173",
+          "stop_name": "Piłsudskiego (Sąd Apelacyjny)",
           "arrival_time": "07:14:00",
           "departure_time": "07:14:00",
           "lat": 51.10203792,
@@ -17014,7 +17014,7 @@
       ]
     },
     {
-      "trip_id": "3_17598509",
+      "trip_id": "3_17702522",
       "direction_id": "0",
       "headsign": "JAGODNO (P+R)",
       "service_id": "3",
@@ -17436,7 +17436,7 @@
       ]
     },
     {
-      "trip_id": "3_17598510",
+      "trip_id": "3_17702523",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "3",
@@ -17578,8 +17578,8 @@
         },
         {
           "stop_sequence": 15,
-          "stop_id": "499",
-          "stop_name": "Piłsudskiego",
+          "stop_id": "6173",
+          "stop_name": "Piłsudskiego (Sąd Apelacyjny)",
           "arrival_time": "09:55:00",
           "departure_time": "09:55:00",
           "lat": 51.10203792,
@@ -17840,7 +17840,7 @@
       ]
     },
     {
-      "trip_id": "3_17598511",
+      "trip_id": "3_17702524",
       "direction_id": "0",
       "headsign": "JAGODNO (P+R)",
       "service_id": "3",
@@ -18262,7 +18262,7 @@
       ]
     },
     {
-      "trip_id": "3_17598512",
+      "trip_id": "3_17702525",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "3",
@@ -18404,8 +18404,8 @@
         },
         {
           "stop_sequence": 15,
-          "stop_id": "499",
-          "stop_name": "Piłsudskiego",
+          "stop_id": "6173",
+          "stop_name": "Piłsudskiego (Sąd Apelacyjny)",
           "arrival_time": "12:53:00",
           "departure_time": "12:53:00",
           "lat": 51.10203792,
@@ -18666,7 +18666,7 @@
       ]
     },
     {
-      "trip_id": "3_17598513",
+      "trip_id": "3_17702526",
       "direction_id": "0",
       "headsign": "JAGODNO (P+R)",
       "service_id": "3",
@@ -19088,7 +19088,7 @@
       ]
     },
     {
-      "trip_id": "3_17598514",
+      "trip_id": "3_17702527",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "3",
@@ -19230,8 +19230,8 @@
         },
         {
           "stop_sequence": 15,
-          "stop_id": "499",
-          "stop_name": "Piłsudskiego",
+          "stop_id": "6173",
+          "stop_name": "Piłsudskiego (Sąd Apelacyjny)",
           "arrival_time": "15:53:00",
           "departure_time": "15:53:00",
           "lat": 51.10203792,
@@ -19492,7 +19492,7 @@
       ]
     },
     {
-      "trip_id": "3_17598515",
+      "trip_id": "3_17702528",
       "direction_id": "0",
       "headsign": "JAGODNO (P+R)",
       "service_id": "3",
@@ -19914,7 +19914,7 @@
       ]
     },
     {
-      "trip_id": "3_17598516",
+      "trip_id": "3_17702529",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "3",
@@ -20056,8 +20056,8 @@
         },
         {
           "stop_sequence": 15,
-          "stop_id": "499",
-          "stop_name": "Piłsudskiego",
+          "stop_id": "6173",
+          "stop_name": "Piłsudskiego (Sąd Apelacyjny)",
           "arrival_time": "18:53:00",
           "departure_time": "18:53:00",
           "lat": 51.10203792,
@@ -20318,7 +20318,7 @@
       ]
     },
     {
-      "trip_id": "3_17598517",
+      "trip_id": "3_17702530",
       "direction_id": "0",
       "headsign": "JAGODNO (P+R)",
       "service_id": "3",
@@ -20740,7 +20740,7 @@
       ]
     },
     {
-      "trip_id": "3_17598518",
+      "trip_id": "3_17702531",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "3",
@@ -20882,8 +20882,8 @@
         },
         {
           "stop_sequence": 15,
-          "stop_id": "499",
-          "stop_name": "Piłsudskiego",
+          "stop_id": "6173",
+          "stop_name": "Piłsudskiego (Sąd Apelacyjny)",
           "arrival_time": "21:51:00",
           "departure_time": "21:51:00",
           "lat": 51.10203792,
@@ -21144,7 +21144,7 @@
       ]
     },
     {
-      "trip_id": "3_17598519",
+      "trip_id": "3_17702532",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "3",
@@ -21422,7 +21422,7 @@
       ]
     },
     {
-      "trip_id": "3_17598521",
+      "trip_id": "3_17702534",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "3",
@@ -21564,8 +21564,8 @@
         },
         {
           "stop_sequence": 15,
-          "stop_id": "499",
-          "stop_name": "Piłsudskiego",
+          "stop_id": "6173",
+          "stop_name": "Piłsudskiego (Sąd Apelacyjny)",
           "arrival_time": "05:44:00",
           "departure_time": "05:44:00",
           "lat": 51.10203792,
@@ -21826,7 +21826,7 @@
       ]
     },
     {
-      "trip_id": "3_17598522",
+      "trip_id": "3_17702535",
       "direction_id": "0",
       "headsign": "JAGODNO (P+R)",
       "service_id": "3",
@@ -22248,7 +22248,7 @@
       ]
     },
     {
-      "trip_id": "3_17598523",
+      "trip_id": "3_17702536",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "3",
@@ -22390,8 +22390,8 @@
         },
         {
           "stop_sequence": 15,
-          "stop_id": "499",
-          "stop_name": "Piłsudskiego",
+          "stop_id": "6173",
+          "stop_name": "Piłsudskiego (Sąd Apelacyjny)",
           "arrival_time": "08:44:00",
           "departure_time": "08:44:00",
           "lat": 51.10203792,
@@ -22652,7 +22652,7 @@
       ]
     },
     {
-      "trip_id": "3_17598524",
+      "trip_id": "3_17702537",
       "direction_id": "0",
       "headsign": "JAGODNO (P+R)",
       "service_id": "3",
@@ -23074,7 +23074,7 @@
       ]
     },
     {
-      "trip_id": "3_17598525",
+      "trip_id": "3_17702538",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "3",
@@ -23216,8 +23216,8 @@
         },
         {
           "stop_sequence": 15,
-          "stop_id": "499",
-          "stop_name": "Piłsudskiego",
+          "stop_id": "6173",
+          "stop_name": "Piłsudskiego (Sąd Apelacyjny)",
           "arrival_time": "11:23:00",
           "departure_time": "11:23:00",
           "lat": 51.10203792,
@@ -23478,7 +23478,7 @@
       ]
     },
     {
-      "trip_id": "3_17598526",
+      "trip_id": "3_17702539",
       "direction_id": "0",
       "headsign": "JAGODNO (P+R)",
       "service_id": "3",
@@ -23900,7 +23900,7 @@
       ]
     },
     {
-      "trip_id": "3_17598527",
+      "trip_id": "3_17702540",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "3",
@@ -24042,8 +24042,8 @@
         },
         {
           "stop_sequence": 15,
-          "stop_id": "499",
-          "stop_name": "Piłsudskiego",
+          "stop_id": "6173",
+          "stop_name": "Piłsudskiego (Sąd Apelacyjny)",
           "arrival_time": "14:23:00",
           "departure_time": "14:23:00",
           "lat": 51.10203792,
@@ -24304,7 +24304,7 @@
       ]
     },
     {
-      "trip_id": "3_17598528",
+      "trip_id": "3_17702541",
       "direction_id": "0",
       "headsign": "JAGODNO (P+R)",
       "service_id": "3",
@@ -24726,7 +24726,7 @@
       ]
     },
     {
-      "trip_id": "3_17598529",
+      "trip_id": "3_17702542",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "3",
@@ -24868,8 +24868,8 @@
         },
         {
           "stop_sequence": 15,
-          "stop_id": "499",
-          "stop_name": "Piłsudskiego",
+          "stop_id": "6173",
+          "stop_name": "Piłsudskiego (Sąd Apelacyjny)",
           "arrival_time": "17:23:00",
           "departure_time": "17:23:00",
           "lat": 51.10203792,
@@ -25130,7 +25130,7 @@
       ]
     },
     {
-      "trip_id": "3_17598530",
+      "trip_id": "3_17702543",
       "direction_id": "0",
       "headsign": "JAGODNO (P+R)",
       "service_id": "3",
@@ -25552,7 +25552,7 @@
       ]
     },
     {
-      "trip_id": "3_17598531",
+      "trip_id": "3_17702544",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "3",
@@ -25694,8 +25694,8 @@
         },
         {
           "stop_sequence": 15,
-          "stop_id": "499",
-          "stop_name": "Piłsudskiego",
+          "stop_id": "6173",
+          "stop_name": "Piłsudskiego (Sąd Apelacyjny)",
           "arrival_time": "20:21:00",
           "departure_time": "20:21:00",
           "lat": 51.10203792,
@@ -25956,7 +25956,7 @@
       ]
     },
     {
-      "trip_id": "3_17598532",
+      "trip_id": "3_17702545",
       "direction_id": "0",
       "headsign": "JAGODNO (P+R)",
       "service_id": "3",
@@ -26378,7 +26378,7 @@
       ]
     },
     {
-      "trip_id": "3_17598535",
+      "trip_id": "3_17702548",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "3",
@@ -26520,8 +26520,8 @@
         },
         {
           "stop_sequence": 15,
-          "stop_id": "499",
-          "stop_name": "Piłsudskiego",
+          "stop_id": "6173",
+          "stop_name": "Piłsudskiego (Sąd Apelacyjny)",
           "arrival_time": "06:14:00",
           "departure_time": "06:14:00",
           "lat": 51.10203792,
@@ -26782,7 +26782,7 @@
       ]
     },
     {
-      "trip_id": "3_17598536",
+      "trip_id": "3_17702549",
       "direction_id": "0",
       "headsign": "JAGODNO (P+R)",
       "service_id": "3",
@@ -27204,7 +27204,7 @@
       ]
     },
     {
-      "trip_id": "3_17598537",
+      "trip_id": "3_17702550",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "3",
@@ -27346,8 +27346,8 @@
         },
         {
           "stop_sequence": 15,
-          "stop_id": "499",
-          "stop_name": "Piłsudskiego",
+          "stop_id": "6173",
+          "stop_name": "Piłsudskiego (Sąd Apelacyjny)",
           "arrival_time": "09:04:00",
           "departure_time": "09:04:00",
           "lat": 51.10203792,
@@ -27608,7 +27608,7 @@
       ]
     },
     {
-      "trip_id": "3_17598538",
+      "trip_id": "3_17702551",
       "direction_id": "0",
       "headsign": "JAGODNO (P+R)",
       "service_id": "3",
@@ -28030,7 +28030,7 @@
       ]
     },
     {
-      "trip_id": "3_17598539",
+      "trip_id": "3_17702552",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "3",
@@ -28172,8 +28172,8 @@
         },
         {
           "stop_sequence": 15,
-          "stop_id": "499",
-          "stop_name": "Piłsudskiego",
+          "stop_id": "6173",
+          "stop_name": "Piłsudskiego (Sąd Apelacyjny)",
           "arrival_time": "11:53:00",
           "departure_time": "11:53:00",
           "lat": 51.10203792,
@@ -28434,7 +28434,7 @@
       ]
     },
     {
-      "trip_id": "3_17598540",
+      "trip_id": "3_17702553",
       "direction_id": "0",
       "headsign": "JAGODNO (P+R)",
       "service_id": "3",
@@ -28856,7 +28856,7 @@
       ]
     },
     {
-      "trip_id": "3_17598541",
+      "trip_id": "3_17702554",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "3",
@@ -28998,8 +28998,8 @@
         },
         {
           "stop_sequence": 15,
-          "stop_id": "499",
-          "stop_name": "Piłsudskiego",
+          "stop_id": "6173",
+          "stop_name": "Piłsudskiego (Sąd Apelacyjny)",
           "arrival_time": "14:53:00",
           "departure_time": "14:53:00",
           "lat": 51.10203792,
@@ -29260,7 +29260,7 @@
       ]
     },
     {
-      "trip_id": "3_17598542",
+      "trip_id": "3_17702555",
       "direction_id": "0",
       "headsign": "JAGODNO (P+R)",
       "service_id": "3",
@@ -29682,7 +29682,7 @@
       ]
     },
     {
-      "trip_id": "3_17598543",
+      "trip_id": "3_17702556",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "3",
@@ -29824,8 +29824,8 @@
         },
         {
           "stop_sequence": 15,
-          "stop_id": "499",
-          "stop_name": "Piłsudskiego",
+          "stop_id": "6173",
+          "stop_name": "Piłsudskiego (Sąd Apelacyjny)",
           "arrival_time": "17:53:00",
           "departure_time": "17:53:00",
           "lat": 51.10203792,
@@ -30086,7 +30086,7 @@
       ]
     },
     {
-      "trip_id": "3_17598544",
+      "trip_id": "3_17702557",
       "direction_id": "0",
       "headsign": "JAGODNO (P+R)",
       "service_id": "3",
@@ -30508,7 +30508,7 @@
       ]
     },
     {
-      "trip_id": "3_17598545",
+      "trip_id": "3_17702558",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "3",
@@ -30650,8 +30650,8 @@
         },
         {
           "stop_sequence": 15,
-          "stop_id": "499",
-          "stop_name": "Piłsudskiego",
+          "stop_id": "6173",
+          "stop_name": "Piłsudskiego (Sąd Apelacyjny)",
           "arrival_time": "20:51:00",
           "departure_time": "20:51:00",
           "lat": 51.10203792,
@@ -30912,7 +30912,7 @@
       ]
     },
     {
-      "trip_id": "3_17598546",
+      "trip_id": "3_17702559",
       "direction_id": "0",
       "headsign": "JAGODNO (P+R)",
       "service_id": "3",
@@ -31334,7 +31334,7 @@
       ]
     },
     {
-      "trip_id": "4_17602898",
+      "trip_id": "4_17706911",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "4",
@@ -31585,7 +31585,7 @@
       ]
     },
     {
-      "trip_id": "4_17602899",
+      "trip_id": "4_17706912",
       "direction_id": "0",
       "headsign": "JAGODNO (P+R)",
       "service_id": "4",
@@ -32007,7 +32007,7 @@
       ]
     },
     {
-      "trip_id": "4_17602900",
+      "trip_id": "4_17706913",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "4",
@@ -32149,8 +32149,8 @@
         },
         {
           "stop_sequence": 15,
-          "stop_id": "499",
-          "stop_name": "Piłsudskiego",
+          "stop_id": "6173",
+          "stop_name": "Piłsudskiego (Sąd Apelacyjny)",
           "arrival_time": "07:44:00",
           "departure_time": "07:44:00",
           "lat": 51.10203792,
@@ -32411,7 +32411,7 @@
       ]
     },
     {
-      "trip_id": "4_17602901",
+      "trip_id": "4_17706914",
       "direction_id": "0",
       "headsign": "JAGODNO (P+R)",
       "service_id": "4",
@@ -32833,7 +32833,7 @@
       ]
     },
     {
-      "trip_id": "4_17602902",
+      "trip_id": "4_17706915",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "4",
@@ -32975,8 +32975,8 @@
         },
         {
           "stop_sequence": 15,
-          "stop_id": "499",
-          "stop_name": "Piłsudskiego",
+          "stop_id": "6173",
+          "stop_name": "Piłsudskiego (Sąd Apelacyjny)",
           "arrival_time": "10:23:00",
           "departure_time": "10:23:00",
           "lat": 51.10203792,
@@ -33237,7 +33237,7 @@
       ]
     },
     {
-      "trip_id": "4_17602903",
+      "trip_id": "4_17706916",
       "direction_id": "0",
       "headsign": "JAGODNO (P+R)",
       "service_id": "4",
@@ -33659,7 +33659,7 @@
       ]
     },
     {
-      "trip_id": "4_17602904",
+      "trip_id": "4_17706917",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "4",
@@ -33801,8 +33801,8 @@
         },
         {
           "stop_sequence": 15,
-          "stop_id": "499",
-          "stop_name": "Piłsudskiego",
+          "stop_id": "6173",
+          "stop_name": "Piłsudskiego (Sąd Apelacyjny)",
           "arrival_time": "13:23:00",
           "departure_time": "13:23:00",
           "lat": 51.10203792,
@@ -34063,7 +34063,7 @@
       ]
     },
     {
-      "trip_id": "4_17602905",
+      "trip_id": "4_17706918",
       "direction_id": "0",
       "headsign": "JAGODNO (P+R)",
       "service_id": "4",
@@ -34485,7 +34485,7 @@
       ]
     },
     {
-      "trip_id": "4_17602906",
+      "trip_id": "4_17706919",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "4",
@@ -34627,8 +34627,8 @@
         },
         {
           "stop_sequence": 15,
-          "stop_id": "499",
-          "stop_name": "Piłsudskiego",
+          "stop_id": "6173",
+          "stop_name": "Piłsudskiego (Sąd Apelacyjny)",
           "arrival_time": "16:23:00",
           "departure_time": "16:23:00",
           "lat": 51.10203792,
@@ -34889,7 +34889,7 @@
       ]
     },
     {
-      "trip_id": "4_17602907",
+      "trip_id": "4_17706920",
       "direction_id": "0",
       "headsign": "JAGODNO (P+R)",
       "service_id": "4",
@@ -35311,7 +35311,7 @@
       ]
     },
     {
-      "trip_id": "4_17602908",
+      "trip_id": "4_17706921",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "4",
@@ -35453,8 +35453,8 @@
         },
         {
           "stop_sequence": 15,
-          "stop_id": "499",
-          "stop_name": "Piłsudskiego",
+          "stop_id": "6173",
+          "stop_name": "Piłsudskiego (Sąd Apelacyjny)",
           "arrival_time": "19:23:00",
           "departure_time": "19:23:00",
           "lat": 51.10203792,
@@ -35715,7 +35715,7 @@
       ]
     },
     {
-      "trip_id": "4_17602909",
+      "trip_id": "4_17706922",
       "direction_id": "0",
       "headsign": "JAGODNO (P+R)",
       "service_id": "4",
@@ -36137,7 +36137,7 @@
       ]
     },
     {
-      "trip_id": "4_17602910",
+      "trip_id": "4_17706923",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "4",
@@ -36279,8 +36279,8 @@
         },
         {
           "stop_sequence": 15,
-          "stop_id": "499",
-          "stop_name": "Piłsudskiego",
+          "stop_id": "6173",
+          "stop_name": "Piłsudskiego (Sąd Apelacyjny)",
           "arrival_time": "22:21:00",
           "departure_time": "22:21:00",
           "lat": 51.10203792,
@@ -36541,7 +36541,7 @@
       ]
     },
     {
-      "trip_id": "4_17602911",
+      "trip_id": "4_17706924",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "4",
@@ -36819,7 +36819,7 @@
       ]
     },
     {
-      "trip_id": "4_17602913",
+      "trip_id": "4_17706926",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "4",
@@ -36961,8 +36961,8 @@
         },
         {
           "stop_sequence": 15,
-          "stop_id": "499",
-          "stop_name": "Piłsudskiego",
+          "stop_id": "6173",
+          "stop_name": "Piłsudskiego (Sąd Apelacyjny)",
           "arrival_time": "06:44:00",
           "departure_time": "06:44:00",
           "lat": 51.10203792,
@@ -37223,7 +37223,7 @@
       ]
     },
     {
-      "trip_id": "4_17602914",
+      "trip_id": "4_17706927",
       "direction_id": "0",
       "headsign": "JAGODNO (P+R)",
       "service_id": "4",
@@ -37645,7 +37645,7 @@
       ]
     },
     {
-      "trip_id": "4_17602915",
+      "trip_id": "4_17706928",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "4",
@@ -37787,8 +37787,8 @@
         },
         {
           "stop_sequence": 15,
-          "stop_id": "499",
-          "stop_name": "Piłsudskiego",
+          "stop_id": "6173",
+          "stop_name": "Piłsudskiego (Sąd Apelacyjny)",
           "arrival_time": "09:25:00",
           "departure_time": "09:25:00",
           "lat": 51.10203792,
@@ -38049,7 +38049,7 @@
       ]
     },
     {
-      "trip_id": "4_17602916",
+      "trip_id": "4_17706929",
       "direction_id": "0",
       "headsign": "JAGODNO (P+R)",
       "service_id": "4",
@@ -38471,7 +38471,7 @@
       ]
     },
     {
-      "trip_id": "4_17602917",
+      "trip_id": "4_17706930",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "4",
@@ -38613,8 +38613,8 @@
         },
         {
           "stop_sequence": 15,
-          "stop_id": "499",
-          "stop_name": "Piłsudskiego",
+          "stop_id": "6173",
+          "stop_name": "Piłsudskiego (Sąd Apelacyjny)",
           "arrival_time": "12:23:00",
           "departure_time": "12:23:00",
           "lat": 51.10203792,
@@ -38875,7 +38875,7 @@
       ]
     },
     {
-      "trip_id": "4_17602918",
+      "trip_id": "4_17706931",
       "direction_id": "0",
       "headsign": "JAGODNO (P+R)",
       "service_id": "4",
@@ -39297,7 +39297,7 @@
       ]
     },
     {
-      "trip_id": "4_17602919",
+      "trip_id": "4_17706932",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "4",
@@ -39439,8 +39439,8 @@
         },
         {
           "stop_sequence": 15,
-          "stop_id": "499",
-          "stop_name": "Piłsudskiego",
+          "stop_id": "6173",
+          "stop_name": "Piłsudskiego (Sąd Apelacyjny)",
           "arrival_time": "15:23:00",
           "departure_time": "15:23:00",
           "lat": 51.10203792,
@@ -39701,7 +39701,7 @@
       ]
     },
     {
-      "trip_id": "4_17602920",
+      "trip_id": "4_17706933",
       "direction_id": "0",
       "headsign": "JAGODNO (P+R)",
       "service_id": "4",
@@ -40123,7 +40123,7 @@
       ]
     },
     {
-      "trip_id": "4_17602921",
+      "trip_id": "4_17706934",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "4",
@@ -40265,8 +40265,8 @@
         },
         {
           "stop_sequence": 15,
-          "stop_id": "499",
-          "stop_name": "Piłsudskiego",
+          "stop_id": "6173",
+          "stop_name": "Piłsudskiego (Sąd Apelacyjny)",
           "arrival_time": "18:23:00",
           "departure_time": "18:23:00",
           "lat": 51.10203792,
@@ -40527,7 +40527,7 @@
       ]
     },
     {
-      "trip_id": "4_17602922",
+      "trip_id": "4_17706935",
       "direction_id": "0",
       "headsign": "JAGODNO (P+R)",
       "service_id": "4",
@@ -40949,7 +40949,7 @@
       ]
     },
     {
-      "trip_id": "4_17602923",
+      "trip_id": "4_17706936",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "4",
@@ -41091,8 +41091,8 @@
         },
         {
           "stop_sequence": 15,
-          "stop_id": "499",
-          "stop_name": "Piłsudskiego",
+          "stop_id": "6173",
+          "stop_name": "Piłsudskiego (Sąd Apelacyjny)",
           "arrival_time": "21:21:00",
           "departure_time": "21:21:00",
           "lat": 51.10203792,
@@ -41353,7 +41353,7 @@
       ]
     },
     {
-      "trip_id": "4_17602924",
+      "trip_id": "4_17706937",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "4",
@@ -41631,7 +41631,7 @@
       ]
     },
     {
-      "trip_id": "4_17602925",
+      "trip_id": "4_17706938",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "4",
@@ -41882,7 +41882,7 @@
       ]
     },
     {
-      "trip_id": "4_17602926",
+      "trip_id": "4_17706939",
       "direction_id": "0",
       "headsign": "JAGODNO (P+R)",
       "service_id": "4",
@@ -42304,7 +42304,7 @@
       ]
     },
     {
-      "trip_id": "4_17602927",
+      "trip_id": "4_17706940",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "4",
@@ -42446,8 +42446,8 @@
         },
         {
           "stop_sequence": 15,
-          "stop_id": "499",
-          "stop_name": "Piłsudskiego",
+          "stop_id": "6173",
+          "stop_name": "Piłsudskiego (Sąd Apelacyjny)",
           "arrival_time": "08:14:00",
           "departure_time": "08:14:00",
           "lat": 51.10203792,
@@ -42708,7 +42708,7 @@
       ]
     },
     {
-      "trip_id": "4_17602928",
+      "trip_id": "4_17706941",
       "direction_id": "0",
       "headsign": "JAGODNO (P+R)",
       "service_id": "4",
@@ -43130,7 +43130,7 @@
       ]
     },
     {
-      "trip_id": "4_17602929",
+      "trip_id": "4_17706942",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "4",
@@ -43272,8 +43272,8 @@
         },
         {
           "stop_sequence": 15,
-          "stop_id": "499",
-          "stop_name": "Piłsudskiego",
+          "stop_id": "6173",
+          "stop_name": "Piłsudskiego (Sąd Apelacyjny)",
           "arrival_time": "10:53:00",
           "departure_time": "10:53:00",
           "lat": 51.10203792,
@@ -43534,7 +43534,7 @@
       ]
     },
     {
-      "trip_id": "4_17602930",
+      "trip_id": "4_17706943",
       "direction_id": "0",
       "headsign": "JAGODNO (P+R)",
       "service_id": "4",
@@ -43956,7 +43956,7 @@
       ]
     },
     {
-      "trip_id": "4_17602931",
+      "trip_id": "4_17706944",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "4",
@@ -44098,8 +44098,8 @@
         },
         {
           "stop_sequence": 15,
-          "stop_id": "499",
-          "stop_name": "Piłsudskiego",
+          "stop_id": "6173",
+          "stop_name": "Piłsudskiego (Sąd Apelacyjny)",
           "arrival_time": "13:53:00",
           "departure_time": "13:53:00",
           "lat": 51.10203792,
@@ -44360,7 +44360,7 @@
       ]
     },
     {
-      "trip_id": "4_17602932",
+      "trip_id": "4_17706945",
       "direction_id": "0",
       "headsign": "JAGODNO (P+R)",
       "service_id": "4",
@@ -44782,7 +44782,7 @@
       ]
     },
     {
-      "trip_id": "4_17602933",
+      "trip_id": "4_17706946",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "4",
@@ -44924,8 +44924,8 @@
         },
         {
           "stop_sequence": 15,
-          "stop_id": "499",
-          "stop_name": "Piłsudskiego",
+          "stop_id": "6173",
+          "stop_name": "Piłsudskiego (Sąd Apelacyjny)",
           "arrival_time": "16:53:00",
           "departure_time": "16:53:00",
           "lat": 51.10203792,
@@ -45186,7 +45186,7 @@
       ]
     },
     {
-      "trip_id": "4_17602934",
+      "trip_id": "4_17706947",
       "direction_id": "0",
       "headsign": "JAGODNO (P+R)",
       "service_id": "4",
@@ -45608,7 +45608,7 @@
       ]
     },
     {
-      "trip_id": "4_17602935",
+      "trip_id": "4_17706948",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "4",
@@ -45750,8 +45750,8 @@
         },
         {
           "stop_sequence": 15,
-          "stop_id": "499",
-          "stop_name": "Piłsudskiego",
+          "stop_id": "6173",
+          "stop_name": "Piłsudskiego (Sąd Apelacyjny)",
           "arrival_time": "19:53:00",
           "departure_time": "19:53:00",
           "lat": 51.10203792,
@@ -46012,7 +46012,7 @@
       ]
     },
     {
-      "trip_id": "4_17602936",
+      "trip_id": "4_17706949",
       "direction_id": "0",
       "headsign": "JAGODNO (P+R)",
       "service_id": "4",
@@ -46434,7 +46434,7 @@
       ]
     },
     {
-      "trip_id": "4_17602937",
+      "trip_id": "4_17706950",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "4",
@@ -46576,8 +46576,8 @@
         },
         {
           "stop_sequence": 15,
-          "stop_id": "499",
-          "stop_name": "Piłsudskiego",
+          "stop_id": "6173",
+          "stop_name": "Piłsudskiego (Sąd Apelacyjny)",
           "arrival_time": "22:51:00",
           "departure_time": "22:51:00",
           "lat": 51.10203792,
@@ -46838,7 +46838,7 @@
       ]
     },
     {
-      "trip_id": "4_17602938",
+      "trip_id": "4_17706951",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "4",
@@ -47116,7 +47116,7 @@
       ]
     },
     {
-      "trip_id": "4_17602939",
+      "trip_id": "4_17706952",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "4",
@@ -47367,7 +47367,7 @@
       ]
     },
     {
-      "trip_id": "4_17602940",
+      "trip_id": "4_17706953",
       "direction_id": "0",
       "headsign": "JAGODNO (P+R)",
       "service_id": "4",
@@ -47789,7 +47789,7 @@
       ]
     },
     {
-      "trip_id": "4_17602941",
+      "trip_id": "4_17706954",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "4",
@@ -47931,8 +47931,8 @@
         },
         {
           "stop_sequence": 15,
-          "stop_id": "499",
-          "stop_name": "Piłsudskiego",
+          "stop_id": "6173",
+          "stop_name": "Piłsudskiego (Sąd Apelacyjny)",
           "arrival_time": "07:14:00",
           "departure_time": "07:14:00",
           "lat": 51.10203792,
@@ -48193,7 +48193,7 @@
       ]
     },
     {
-      "trip_id": "4_17602942",
+      "trip_id": "4_17706955",
       "direction_id": "0",
       "headsign": "JAGODNO (P+R)",
       "service_id": "4",
@@ -48615,7 +48615,7 @@
       ]
     },
     {
-      "trip_id": "4_17602943",
+      "trip_id": "4_17706956",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "4",
@@ -48757,8 +48757,8 @@
         },
         {
           "stop_sequence": 15,
-          "stop_id": "499",
-          "stop_name": "Piłsudskiego",
+          "stop_id": "6173",
+          "stop_name": "Piłsudskiego (Sąd Apelacyjny)",
           "arrival_time": "09:55:00",
           "departure_time": "09:55:00",
           "lat": 51.10203792,
@@ -49019,7 +49019,7 @@
       ]
     },
     {
-      "trip_id": "4_17602944",
+      "trip_id": "4_17706957",
       "direction_id": "0",
       "headsign": "JAGODNO (P+R)",
       "service_id": "4",
@@ -49441,7 +49441,7 @@
       ]
     },
     {
-      "trip_id": "4_17602945",
+      "trip_id": "4_17706958",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "4",
@@ -49583,8 +49583,8 @@
         },
         {
           "stop_sequence": 15,
-          "stop_id": "499",
-          "stop_name": "Piłsudskiego",
+          "stop_id": "6173",
+          "stop_name": "Piłsudskiego (Sąd Apelacyjny)",
           "arrival_time": "12:53:00",
           "departure_time": "12:53:00",
           "lat": 51.10203792,
@@ -49845,7 +49845,7 @@
       ]
     },
     {
-      "trip_id": "4_17602946",
+      "trip_id": "4_17706959",
       "direction_id": "0",
       "headsign": "JAGODNO (P+R)",
       "service_id": "4",
@@ -50267,7 +50267,7 @@
       ]
     },
     {
-      "trip_id": "4_17602947",
+      "trip_id": "4_17706960",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "4",
@@ -50409,8 +50409,8 @@
         },
         {
           "stop_sequence": 15,
-          "stop_id": "499",
-          "stop_name": "Piłsudskiego",
+          "stop_id": "6173",
+          "stop_name": "Piłsudskiego (Sąd Apelacyjny)",
           "arrival_time": "15:53:00",
           "departure_time": "15:53:00",
           "lat": 51.10203792,
@@ -50671,7 +50671,7 @@
       ]
     },
     {
-      "trip_id": "4_17602948",
+      "trip_id": "4_17706961",
       "direction_id": "0",
       "headsign": "JAGODNO (P+R)",
       "service_id": "4",
@@ -51093,7 +51093,7 @@
       ]
     },
     {
-      "trip_id": "4_17602949",
+      "trip_id": "4_17706962",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "4",
@@ -51235,8 +51235,8 @@
         },
         {
           "stop_sequence": 15,
-          "stop_id": "499",
-          "stop_name": "Piłsudskiego",
+          "stop_id": "6173",
+          "stop_name": "Piłsudskiego (Sąd Apelacyjny)",
           "arrival_time": "18:53:00",
           "departure_time": "18:53:00",
           "lat": 51.10203792,
@@ -51497,7 +51497,7 @@
       ]
     },
     {
-      "trip_id": "4_17602950",
+      "trip_id": "4_17706963",
       "direction_id": "0",
       "headsign": "JAGODNO (P+R)",
       "service_id": "4",
@@ -51919,7 +51919,7 @@
       ]
     },
     {
-      "trip_id": "4_17602951",
+      "trip_id": "4_17706964",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "4",
@@ -52061,8 +52061,8 @@
         },
         {
           "stop_sequence": 15,
-          "stop_id": "499",
-          "stop_name": "Piłsudskiego",
+          "stop_id": "6173",
+          "stop_name": "Piłsudskiego (Sąd Apelacyjny)",
           "arrival_time": "21:51:00",
           "departure_time": "21:51:00",
           "lat": 51.10203792,
@@ -52323,7 +52323,7 @@
       ]
     },
     {
-      "trip_id": "4_17602952",
+      "trip_id": "4_17706965",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "4",
@@ -52601,7 +52601,7 @@
       ]
     },
     {
-      "trip_id": "4_17602953",
+      "trip_id": "4_17706966",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "4",
@@ -52852,7 +52852,7 @@
       ]
     },
     {
-      "trip_id": "4_17602954",
+      "trip_id": "4_17706967",
       "direction_id": "0",
       "headsign": "JAGODNO (P+R)",
       "service_id": "4",
@@ -53274,7 +53274,7 @@
       ]
     },
     {
-      "trip_id": "4_17602955",
+      "trip_id": "4_17706968",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "4",
@@ -53416,8 +53416,8 @@
         },
         {
           "stop_sequence": 15,
-          "stop_id": "499",
-          "stop_name": "Piłsudskiego",
+          "stop_id": "6173",
+          "stop_name": "Piłsudskiego (Sąd Apelacyjny)",
           "arrival_time": "08:44:00",
           "departure_time": "08:44:00",
           "lat": 51.10203792,
@@ -53678,7 +53678,7 @@
       ]
     },
     {
-      "trip_id": "4_17602956",
+      "trip_id": "4_17706969",
       "direction_id": "0",
       "headsign": "JAGODNO (P+R)",
       "service_id": "4",
@@ -54100,7 +54100,7 @@
       ]
     },
     {
-      "trip_id": "4_17602957",
+      "trip_id": "4_17706970",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "4",
@@ -54242,8 +54242,8 @@
         },
         {
           "stop_sequence": 15,
-          "stop_id": "499",
-          "stop_name": "Piłsudskiego",
+          "stop_id": "6173",
+          "stop_name": "Piłsudskiego (Sąd Apelacyjny)",
           "arrival_time": "11:23:00",
           "departure_time": "11:23:00",
           "lat": 51.10203792,
@@ -54504,7 +54504,7 @@
       ]
     },
     {
-      "trip_id": "4_17602958",
+      "trip_id": "4_17706971",
       "direction_id": "0",
       "headsign": "JAGODNO (P+R)",
       "service_id": "4",
@@ -54926,7 +54926,7 @@
       ]
     },
     {
-      "trip_id": "4_17602959",
+      "trip_id": "4_17706972",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "4",
@@ -55068,8 +55068,8 @@
         },
         {
           "stop_sequence": 15,
-          "stop_id": "499",
-          "stop_name": "Piłsudskiego",
+          "stop_id": "6173",
+          "stop_name": "Piłsudskiego (Sąd Apelacyjny)",
           "arrival_time": "14:23:00",
           "departure_time": "14:23:00",
           "lat": 51.10203792,
@@ -55330,7 +55330,7 @@
       ]
     },
     {
-      "trip_id": "4_17602960",
+      "trip_id": "4_17706973",
       "direction_id": "0",
       "headsign": "JAGODNO (P+R)",
       "service_id": "4",
@@ -55752,7 +55752,7 @@
       ]
     },
     {
-      "trip_id": "4_17602961",
+      "trip_id": "4_17706974",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "4",
@@ -55894,8 +55894,8 @@
         },
         {
           "stop_sequence": 15,
-          "stop_id": "499",
-          "stop_name": "Piłsudskiego",
+          "stop_id": "6173",
+          "stop_name": "Piłsudskiego (Sąd Apelacyjny)",
           "arrival_time": "17:23:00",
           "departure_time": "17:23:00",
           "lat": 51.10203792,
@@ -56156,7 +56156,7 @@
       ]
     },
     {
-      "trip_id": "4_17602962",
+      "trip_id": "4_17706975",
       "direction_id": "0",
       "headsign": "JAGODNO (P+R)",
       "service_id": "4",
@@ -56578,7 +56578,7 @@
       ]
     },
     {
-      "trip_id": "4_17602963",
+      "trip_id": "4_17706976",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "4",
@@ -56720,8 +56720,8 @@
         },
         {
           "stop_sequence": 15,
-          "stop_id": "499",
-          "stop_name": "Piłsudskiego",
+          "stop_id": "6173",
+          "stop_name": "Piłsudskiego (Sąd Apelacyjny)",
           "arrival_time": "20:21:00",
           "departure_time": "20:21:00",
           "lat": 51.10203792,
@@ -56982,7 +56982,7 @@
       ]
     },
     {
-      "trip_id": "4_17602964",
+      "trip_id": "4_17706977",
       "direction_id": "0",
       "headsign": "JAGODNO (P+R)",
       "service_id": "4",
@@ -57404,7 +57404,7 @@
       ]
     },
     {
-      "trip_id": "4_17602967",
+      "trip_id": "4_17706980",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "4",
@@ -57546,8 +57546,8 @@
         },
         {
           "stop_sequence": 15,
-          "stop_id": "499",
-          "stop_name": "Piłsudskiego",
+          "stop_id": "6173",
+          "stop_name": "Piłsudskiego (Sąd Apelacyjny)",
           "arrival_time": "06:14:00",
           "departure_time": "06:14:00",
           "lat": 51.10203792,
@@ -57808,7 +57808,7 @@
       ]
     },
     {
-      "trip_id": "4_17602968",
+      "trip_id": "4_17706981",
       "direction_id": "0",
       "headsign": "JAGODNO (P+R)",
       "service_id": "4",
@@ -58230,7 +58230,7 @@
       ]
     },
     {
-      "trip_id": "4_17602969",
+      "trip_id": "4_17706982",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "4",
@@ -58372,8 +58372,8 @@
         },
         {
           "stop_sequence": 15,
-          "stop_id": "499",
-          "stop_name": "Piłsudskiego",
+          "stop_id": "6173",
+          "stop_name": "Piłsudskiego (Sąd Apelacyjny)",
           "arrival_time": "09:04:00",
           "departure_time": "09:04:00",
           "lat": 51.10203792,
@@ -58634,7 +58634,7 @@
       ]
     },
     {
-      "trip_id": "4_17602970",
+      "trip_id": "4_17706983",
       "direction_id": "0",
       "headsign": "JAGODNO (P+R)",
       "service_id": "4",
@@ -59056,7 +59056,7 @@
       ]
     },
     {
-      "trip_id": "4_17602971",
+      "trip_id": "4_17706984",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "4",
@@ -59198,8 +59198,8 @@
         },
         {
           "stop_sequence": 15,
-          "stop_id": "499",
-          "stop_name": "Piłsudskiego",
+          "stop_id": "6173",
+          "stop_name": "Piłsudskiego (Sąd Apelacyjny)",
           "arrival_time": "11:53:00",
           "departure_time": "11:53:00",
           "lat": 51.10203792,
@@ -59460,7 +59460,7 @@
       ]
     },
     {
-      "trip_id": "4_17602972",
+      "trip_id": "4_17706985",
       "direction_id": "0",
       "headsign": "JAGODNO (P+R)",
       "service_id": "4",
@@ -59882,7 +59882,7 @@
       ]
     },
     {
-      "trip_id": "4_17602973",
+      "trip_id": "4_17706986",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "4",
@@ -60024,8 +60024,8 @@
         },
         {
           "stop_sequence": 15,
-          "stop_id": "499",
-          "stop_name": "Piłsudskiego",
+          "stop_id": "6173",
+          "stop_name": "Piłsudskiego (Sąd Apelacyjny)",
           "arrival_time": "14:53:00",
           "departure_time": "14:53:00",
           "lat": 51.10203792,
@@ -60286,7 +60286,7 @@
       ]
     },
     {
-      "trip_id": "4_17602974",
+      "trip_id": "4_17706987",
       "direction_id": "0",
       "headsign": "JAGODNO (P+R)",
       "service_id": "4",
@@ -60708,7 +60708,7 @@
       ]
     },
     {
-      "trip_id": "4_17602975",
+      "trip_id": "4_17706988",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "4",
@@ -60850,8 +60850,8 @@
         },
         {
           "stop_sequence": 15,
-          "stop_id": "499",
-          "stop_name": "Piłsudskiego",
+          "stop_id": "6173",
+          "stop_name": "Piłsudskiego (Sąd Apelacyjny)",
           "arrival_time": "17:53:00",
           "departure_time": "17:53:00",
           "lat": 51.10203792,
@@ -61112,7 +61112,7 @@
       ]
     },
     {
-      "trip_id": "4_17602976",
+      "trip_id": "4_17706989",
       "direction_id": "0",
       "headsign": "JAGODNO (P+R)",
       "service_id": "4",
@@ -61534,7 +61534,7 @@
       ]
     },
     {
-      "trip_id": "4_17602977",
+      "trip_id": "4_17706990",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "4",
@@ -61676,8 +61676,8 @@
         },
         {
           "stop_sequence": 15,
-          "stop_id": "499",
-          "stop_name": "Piłsudskiego",
+          "stop_id": "6173",
+          "stop_name": "Piłsudskiego (Sąd Apelacyjny)",
           "arrival_time": "20:51:00",
           "departure_time": "20:51:00",
           "lat": 51.10203792,
@@ -61938,7 +61938,7 @@
       ]
     },
     {
-      "trip_id": "4_17602978",
+      "trip_id": "4_17706991",
       "direction_id": "0",
       "headsign": "JAGODNO (P+R)",
       "service_id": "4",
@@ -62360,7 +62360,7 @@
       ]
     },
     {
-      "trip_id": "6_17608816",
+      "trip_id": "6_17712829",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "6",
@@ -62611,7 +62611,7 @@
       ]
     },
     {
-      "trip_id": "6_17608817",
+      "trip_id": "6_17712830",
       "direction_id": "0",
       "headsign": "JAGODNO (P+R)",
       "service_id": "6",
@@ -63033,7 +63033,7 @@
       ]
     },
     {
-      "trip_id": "6_17608818",
+      "trip_id": "6_17712831",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "6",
@@ -63175,8 +63175,8 @@
         },
         {
           "stop_sequence": 15,
-          "stop_id": "499",
-          "stop_name": "Piłsudskiego",
+          "stop_id": "6173",
+          "stop_name": "Piłsudskiego (Sąd Apelacyjny)",
           "arrival_time": "06:36:00",
           "departure_time": "06:36:00",
           "lat": 51.10203792,
@@ -63437,7 +63437,7 @@
       ]
     },
     {
-      "trip_id": "6_17608819",
+      "trip_id": "6_17712832",
       "direction_id": "0",
       "headsign": "JAGODNO (P+R)",
       "service_id": "6",
@@ -63859,7 +63859,7 @@
       ]
     },
     {
-      "trip_id": "6_17608820",
+      "trip_id": "6_17712833",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "6",
@@ -64001,8 +64001,8 @@
         },
         {
           "stop_sequence": 15,
-          "stop_id": "499",
-          "stop_name": "Piłsudskiego",
+          "stop_id": "6173",
+          "stop_name": "Piłsudskiego (Sąd Apelacyjny)",
           "arrival_time": "09:20:00",
           "departure_time": "09:20:00",
           "lat": 51.10203792,
@@ -64263,7 +64263,7 @@
       ]
     },
     {
-      "trip_id": "6_17608821",
+      "trip_id": "6_17712834",
       "direction_id": "0",
       "headsign": "JAGODNO (P+R)",
       "service_id": "6",
@@ -64685,7 +64685,7 @@
       ]
     },
     {
-      "trip_id": "6_17608822",
+      "trip_id": "6_17712835",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "6",
@@ -64827,8 +64827,8 @@
         },
         {
           "stop_sequence": 15,
-          "stop_id": "499",
-          "stop_name": "Piłsudskiego",
+          "stop_id": "6173",
+          "stop_name": "Piłsudskiego (Sąd Apelacyjny)",
           "arrival_time": "12:05:00",
           "departure_time": "12:05:00",
           "lat": 51.10203792,
@@ -65089,7 +65089,7 @@
       ]
     },
     {
-      "trip_id": "6_17608823",
+      "trip_id": "6_17712836",
       "direction_id": "0",
       "headsign": "JAGODNO (P+R)",
       "service_id": "6",
@@ -65511,7 +65511,7 @@
       ]
     },
     {
-      "trip_id": "6_17608824",
+      "trip_id": "6_17712837",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "6",
@@ -65653,8 +65653,8 @@
         },
         {
           "stop_sequence": 15,
-          "stop_id": "499",
-          "stop_name": "Piłsudskiego",
+          "stop_id": "6173",
+          "stop_name": "Piłsudskiego (Sąd Apelacyjny)",
           "arrival_time": "14:53:00",
           "departure_time": "14:53:00",
           "lat": 51.10203792,
@@ -65915,7 +65915,7 @@
       ]
     },
     {
-      "trip_id": "6_17608825",
+      "trip_id": "6_17712838",
       "direction_id": "0",
       "headsign": "JAGODNO (P+R)",
       "service_id": "6",
@@ -66337,7 +66337,7 @@
       ]
     },
     {
-      "trip_id": "6_17608826",
+      "trip_id": "6_17712839",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "6",
@@ -66479,8 +66479,8 @@
         },
         {
           "stop_sequence": 15,
-          "stop_id": "499",
-          "stop_name": "Piłsudskiego",
+          "stop_id": "6173",
+          "stop_name": "Piłsudskiego (Sąd Apelacyjny)",
           "arrival_time": "17:39:00",
           "departure_time": "17:39:00",
           "lat": 51.10203792,
@@ -66741,7 +66741,7 @@
       ]
     },
     {
-      "trip_id": "6_17608827",
+      "trip_id": "6_17712840",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "6",
@@ -67019,7 +67019,7 @@
       ]
     },
     {
-      "trip_id": "6_17608828",
+      "trip_id": "6_17712841",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "6",
@@ -67270,7 +67270,7 @@
       ]
     },
     {
-      "trip_id": "6_17608829",
+      "trip_id": "6_17712842",
       "direction_id": "0",
       "headsign": "JAGODNO (P+R)",
       "service_id": "6",
@@ -67692,7 +67692,7 @@
       ]
     },
     {
-      "trip_id": "6_17608830",
+      "trip_id": "6_17712843",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "6",
@@ -67834,8 +67834,8 @@
         },
         {
           "stop_sequence": 15,
-          "stop_id": "499",
-          "stop_name": "Piłsudskiego",
+          "stop_id": "6173",
+          "stop_name": "Piłsudskiego (Sąd Apelacyjny)",
           "arrival_time": "08:03:00",
           "departure_time": "08:03:00",
           "lat": 51.10203792,
@@ -68096,7 +68096,7 @@
       ]
     },
     {
-      "trip_id": "6_17608831",
+      "trip_id": "6_17712844",
       "direction_id": "0",
       "headsign": "JAGODNO (P+R)",
       "service_id": "6",
@@ -68518,7 +68518,7 @@
       ]
     },
     {
-      "trip_id": "6_17608832",
+      "trip_id": "6_17712845",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "6",
@@ -68660,8 +68660,8 @@
         },
         {
           "stop_sequence": 15,
-          "stop_id": "499",
-          "stop_name": "Piłsudskiego",
+          "stop_id": "6173",
+          "stop_name": "Piłsudskiego (Sąd Apelacyjny)",
           "arrival_time": "10:50:00",
           "departure_time": "10:50:00",
           "lat": 51.10203792,
@@ -68922,7 +68922,7 @@
       ]
     },
     {
-      "trip_id": "6_17608833",
+      "trip_id": "6_17712846",
       "direction_id": "0",
       "headsign": "JAGODNO (P+R)",
       "service_id": "6",
@@ -69344,7 +69344,7 @@
       ]
     },
     {
-      "trip_id": "6_17608834",
+      "trip_id": "6_17712847",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "6",
@@ -69486,8 +69486,8 @@
         },
         {
           "stop_sequence": 15,
-          "stop_id": "499",
-          "stop_name": "Piłsudskiego",
+          "stop_id": "6173",
+          "stop_name": "Piłsudskiego (Sąd Apelacyjny)",
           "arrival_time": "13:36:00",
           "departure_time": "13:36:00",
           "lat": 51.10203792,
@@ -69748,7 +69748,7 @@
       ]
     },
     {
-      "trip_id": "6_17608835",
+      "trip_id": "6_17712848",
       "direction_id": "0",
       "headsign": "JAGODNO (P+R)",
       "service_id": "6",
@@ -70170,7 +70170,7 @@
       ]
     },
     {
-      "trip_id": "6_17608836",
+      "trip_id": "6_17712849",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "6",
@@ -70312,8 +70312,8 @@
         },
         {
           "stop_sequence": 15,
-          "stop_id": "499",
-          "stop_name": "Piłsudskiego",
+          "stop_id": "6173",
+          "stop_name": "Piłsudskiego (Sąd Apelacyjny)",
           "arrival_time": "16:21:00",
           "departure_time": "16:21:00",
           "lat": 51.10203792,
@@ -70574,7 +70574,7 @@
       ]
     },
     {
-      "trip_id": "6_17608837",
+      "trip_id": "6_17712850",
       "direction_id": "0",
       "headsign": "JAGODNO (P+R)",
       "service_id": "6",
@@ -70996,7 +70996,7 @@
       ]
     },
     {
-      "trip_id": "6_17608838",
+      "trip_id": "6_17712851",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "6",
@@ -71138,8 +71138,8 @@
         },
         {
           "stop_sequence": 15,
-          "stop_id": "499",
-          "stop_name": "Piłsudskiego",
+          "stop_id": "6173",
+          "stop_name": "Piłsudskiego (Sąd Apelacyjny)",
           "arrival_time": "19:23:00",
           "departure_time": "19:23:00",
           "lat": 51.10203792,
@@ -71400,7 +71400,7 @@
       ]
     },
     {
-      "trip_id": "6_17608839",
+      "trip_id": "6_17712852",
       "direction_id": "0",
       "headsign": "JAGODNO (P+R)",
       "service_id": "6",
@@ -71822,7 +71822,7 @@
       ]
     },
     {
-      "trip_id": "6_17608840",
+      "trip_id": "6_17712853",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "6",
@@ -71964,8 +71964,8 @@
         },
         {
           "stop_sequence": 15,
-          "stop_id": "499",
-          "stop_name": "Piłsudskiego",
+          "stop_id": "6173",
+          "stop_name": "Piłsudskiego (Sąd Apelacyjny)",
           "arrival_time": "22:21:00",
           "departure_time": "22:21:00",
           "lat": 51.10203792,
@@ -72226,7 +72226,7 @@
       ]
     },
     {
-      "trip_id": "6_17608841",
+      "trip_id": "6_17712854",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "6",
@@ -72504,7 +72504,7 @@
       ]
     },
     {
-      "trip_id": "6_17608842",
+      "trip_id": "6_17712855",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "6",
@@ -72755,7 +72755,7 @@
       ]
     },
     {
-      "trip_id": "6_17608843",
+      "trip_id": "6_17712856",
       "direction_id": "0",
       "headsign": "JAGODNO (P+R)",
       "service_id": "6",
@@ -73177,7 +73177,7 @@
       ]
     },
     {
-      "trip_id": "6_17608844",
+      "trip_id": "6_17712857",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "6",
@@ -73319,8 +73319,8 @@
         },
         {
           "stop_sequence": 15,
-          "stop_id": "499",
-          "stop_name": "Piłsudskiego",
+          "stop_id": "6173",
+          "stop_name": "Piłsudskiego (Sąd Apelacyjny)",
           "arrival_time": "06:51:00",
           "departure_time": "06:51:00",
           "lat": 51.10203792,
@@ -73581,7 +73581,7 @@
       ]
     },
     {
-      "trip_id": "6_17608845",
+      "trip_id": "6_17712858",
       "direction_id": "0",
       "headsign": "JAGODNO (P+R)",
       "service_id": "6",
@@ -74003,7 +74003,7 @@
       ]
     },
     {
-      "trip_id": "6_17608846",
+      "trip_id": "6_17712859",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "6",
@@ -74145,8 +74145,8 @@
         },
         {
           "stop_sequence": 15,
-          "stop_id": "499",
-          "stop_name": "Piłsudskiego",
+          "stop_id": "6173",
+          "stop_name": "Piłsudskiego (Sąd Apelacyjny)",
           "arrival_time": "09:35:00",
           "departure_time": "09:35:00",
           "lat": 51.10203792,
@@ -74407,7 +74407,7 @@
       ]
     },
     {
-      "trip_id": "6_17608847",
+      "trip_id": "6_17712860",
       "direction_id": "0",
       "headsign": "JAGODNO (P+R)",
       "service_id": "6",
@@ -74829,7 +74829,7 @@
       ]
     },
     {
-      "trip_id": "6_17608848",
+      "trip_id": "6_17712861",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "6",
@@ -74971,8 +74971,8 @@
         },
         {
           "stop_sequence": 15,
-          "stop_id": "499",
-          "stop_name": "Piłsudskiego",
+          "stop_id": "6173",
+          "stop_name": "Piłsudskiego (Sąd Apelacyjny)",
           "arrival_time": "12:20:00",
           "departure_time": "12:20:00",
           "lat": 51.10203792,
@@ -75233,7 +75233,7 @@
       ]
     },
     {
-      "trip_id": "6_17608849",
+      "trip_id": "6_17712862",
       "direction_id": "0",
       "headsign": "JAGODNO (P+R)",
       "service_id": "6",
@@ -75655,7 +75655,7 @@
       ]
     },
     {
-      "trip_id": "6_17608850",
+      "trip_id": "6_17712863",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "6",
@@ -75797,8 +75797,8 @@
         },
         {
           "stop_sequence": 15,
-          "stop_id": "499",
-          "stop_name": "Piłsudskiego",
+          "stop_id": "6173",
+          "stop_name": "Piłsudskiego (Sąd Apelacyjny)",
           "arrival_time": "15:06:00",
           "departure_time": "15:06:00",
           "lat": 51.10203792,
@@ -76059,7 +76059,7 @@
       ]
     },
     {
-      "trip_id": "6_17608851",
+      "trip_id": "6_17712864",
       "direction_id": "0",
       "headsign": "JAGODNO (P+R)",
       "service_id": "6",
@@ -76481,7 +76481,7 @@
       ]
     },
     {
-      "trip_id": "6_17608852",
+      "trip_id": "6_17712865",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "6",
@@ -76623,8 +76623,8 @@
         },
         {
           "stop_sequence": 15,
-          "stop_id": "499",
-          "stop_name": "Piłsudskiego",
+          "stop_id": "6173",
+          "stop_name": "Piłsudskiego (Sąd Apelacyjny)",
           "arrival_time": "17:54:00",
           "departure_time": "17:54:00",
           "lat": 51.10203792,
@@ -76885,7 +76885,7 @@
       ]
     },
     {
-      "trip_id": "6_17608853",
+      "trip_id": "6_17712866",
       "direction_id": "0",
       "headsign": "JAGODNO (P+R)",
       "service_id": "6",
@@ -77307,7 +77307,7 @@
       ]
     },
     {
-      "trip_id": "6_17608854",
+      "trip_id": "6_17712867",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "6",
@@ -77449,8 +77449,8 @@
         },
         {
           "stop_sequence": 15,
-          "stop_id": "499",
-          "stop_name": "Piłsudskiego",
+          "stop_id": "6173",
+          "stop_name": "Piłsudskiego (Sąd Apelacyjny)",
           "arrival_time": "21:21:00",
           "departure_time": "21:21:00",
           "lat": 51.10203792,
@@ -77711,7 +77711,7 @@
       ]
     },
     {
-      "trip_id": "6_17608855",
+      "trip_id": "6_17712868",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "6",
@@ -77989,7 +77989,7 @@
       ]
     },
     {
-      "trip_id": "6_17608856",
+      "trip_id": "6_17712869",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "6",
@@ -78240,7 +78240,7 @@
       ]
     },
     {
-      "trip_id": "6_17608857",
+      "trip_id": "6_17712870",
       "direction_id": "0",
       "headsign": "JAGODNO (P+R)",
       "service_id": "6",
@@ -78662,7 +78662,7 @@
       ]
     },
     {
-      "trip_id": "6_17608858",
+      "trip_id": "6_17712871",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "6",
@@ -78804,8 +78804,8 @@
         },
         {
           "stop_sequence": 15,
-          "stop_id": "499",
-          "stop_name": "Piłsudskiego",
+          "stop_id": "6173",
+          "stop_name": "Piłsudskiego (Sąd Apelacyjny)",
           "arrival_time": "07:32:00",
           "departure_time": "07:32:00",
           "lat": 51.10203792,
@@ -79066,7 +79066,7 @@
       ]
     },
     {
-      "trip_id": "6_17608859",
+      "trip_id": "6_17712872",
       "direction_id": "0",
       "headsign": "JAGODNO (P+R)",
       "service_id": "6",
@@ -79488,7 +79488,7 @@
       ]
     },
     {
-      "trip_id": "6_17608860",
+      "trip_id": "6_17712873",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "6",
@@ -79630,8 +79630,8 @@
         },
         {
           "stop_sequence": 15,
-          "stop_id": "499",
-          "stop_name": "Piłsudskiego",
+          "stop_id": "6173",
+          "stop_name": "Piłsudskiego (Sąd Apelacyjny)",
           "arrival_time": "10:20:00",
           "departure_time": "10:20:00",
           "lat": 51.10203792,
@@ -79892,7 +79892,7 @@
       ]
     },
     {
-      "trip_id": "6_17608861",
+      "trip_id": "6_17712874",
       "direction_id": "0",
       "headsign": "JAGODNO (P+R)",
       "service_id": "6",
@@ -80314,7 +80314,7 @@
       ]
     },
     {
-      "trip_id": "6_17608862",
+      "trip_id": "6_17712875",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "6",
@@ -80456,8 +80456,8 @@
         },
         {
           "stop_sequence": 15,
-          "stop_id": "499",
-          "stop_name": "Piłsudskiego",
+          "stop_id": "6173",
+          "stop_name": "Piłsudskiego (Sąd Apelacyjny)",
           "arrival_time": "13:05:00",
           "departure_time": "13:05:00",
           "lat": 51.10203792,
@@ -80718,7 +80718,7 @@
       ]
     },
     {
-      "trip_id": "6_17608863",
+      "trip_id": "6_17712876",
       "direction_id": "0",
       "headsign": "JAGODNO (P+R)",
       "service_id": "6",
@@ -81140,7 +81140,7 @@
       ]
     },
     {
-      "trip_id": "6_17608864",
+      "trip_id": "6_17712877",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "6",
@@ -81282,8 +81282,8 @@
         },
         {
           "stop_sequence": 15,
-          "stop_id": "499",
-          "stop_name": "Piłsudskiego",
+          "stop_id": "6173",
+          "stop_name": "Piłsudskiego (Sąd Apelacyjny)",
           "arrival_time": "15:51:00",
           "departure_time": "15:51:00",
           "lat": 51.10203792,
@@ -81544,7 +81544,7 @@
       ]
     },
     {
-      "trip_id": "6_17608865",
+      "trip_id": "6_17712878",
       "direction_id": "0",
       "headsign": "JAGODNO (P+R)",
       "service_id": "6",
@@ -81966,7 +81966,7 @@
       ]
     },
     {
-      "trip_id": "6_17608866",
+      "trip_id": "6_17712879",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "6",
@@ -82108,8 +82108,8 @@
         },
         {
           "stop_sequence": 15,
-          "stop_id": "499",
-          "stop_name": "Piłsudskiego",
+          "stop_id": "6173",
+          "stop_name": "Piłsudskiego (Sąd Apelacyjny)",
           "arrival_time": "18:52:00",
           "departure_time": "18:52:00",
           "lat": 51.10203792,
@@ -82370,7 +82370,7 @@
       ]
     },
     {
-      "trip_id": "6_17608867",
+      "trip_id": "6_17712880",
       "direction_id": "0",
       "headsign": "JAGODNO (P+R)",
       "service_id": "6",
@@ -82792,7 +82792,7 @@
       ]
     },
     {
-      "trip_id": "6_17608868",
+      "trip_id": "6_17712881",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "6",
@@ -82934,8 +82934,8 @@
         },
         {
           "stop_sequence": 15,
-          "stop_id": "499",
-          "stop_name": "Piłsudskiego",
+          "stop_id": "6173",
+          "stop_name": "Piłsudskiego (Sąd Apelacyjny)",
           "arrival_time": "21:51:00",
           "departure_time": "21:51:00",
           "lat": 51.10203792,
@@ -83196,7 +83196,7 @@
       ]
     },
     {
-      "trip_id": "6_17608869",
+      "trip_id": "6_17712882",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "6",
@@ -83474,7 +83474,7 @@
       ]
     },
     {
-      "trip_id": "6_17608871",
+      "trip_id": "6_17712884",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "6",
@@ -83616,8 +83616,8 @@
         },
         {
           "stop_sequence": 15,
-          "stop_id": "499",
-          "stop_name": "Piłsudskiego",
+          "stop_id": "6173",
+          "stop_name": "Piłsudskiego (Sąd Apelacyjny)",
           "arrival_time": "06:05:00",
           "departure_time": "06:05:00",
           "lat": 51.10203792,
@@ -83878,7 +83878,7 @@
       ]
     },
     {
-      "trip_id": "6_17608872",
+      "trip_id": "6_17712885",
       "direction_id": "0",
       "headsign": "JAGODNO (P+R)",
       "service_id": "6",
@@ -84300,7 +84300,7 @@
       ]
     },
     {
-      "trip_id": "6_17608873",
+      "trip_id": "6_17712886",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "6",
@@ -84442,8 +84442,8 @@
         },
         {
           "stop_sequence": 15,
-          "stop_id": "499",
-          "stop_name": "Piłsudskiego",
+          "stop_id": "6173",
+          "stop_name": "Piłsudskiego (Sąd Apelacyjny)",
           "arrival_time": "08:49:00",
           "departure_time": "08:49:00",
           "lat": 51.10203792,
@@ -84704,7 +84704,7 @@
       ]
     },
     {
-      "trip_id": "6_17608874",
+      "trip_id": "6_17712887",
       "direction_id": "0",
       "headsign": "JAGODNO (P+R)",
       "service_id": "6",
@@ -85126,7 +85126,7 @@
       ]
     },
     {
-      "trip_id": "6_17608875",
+      "trip_id": "6_17712888",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "6",
@@ -85268,8 +85268,8 @@
         },
         {
           "stop_sequence": 15,
-          "stop_id": "499",
-          "stop_name": "Piłsudskiego",
+          "stop_id": "6173",
+          "stop_name": "Piłsudskiego (Sąd Apelacyjny)",
           "arrival_time": "11:35:00",
           "departure_time": "11:35:00",
           "lat": 51.10203792,
@@ -85530,7 +85530,7 @@
       ]
     },
     {
-      "trip_id": "6_17608876",
+      "trip_id": "6_17712889",
       "direction_id": "0",
       "headsign": "JAGODNO (P+R)",
       "service_id": "6",
@@ -85952,7 +85952,7 @@
       ]
     },
     {
-      "trip_id": "6_17608877",
+      "trip_id": "6_17712890",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "6",
@@ -86094,8 +86094,8 @@
         },
         {
           "stop_sequence": 15,
-          "stop_id": "499",
-          "stop_name": "Piłsudskiego",
+          "stop_id": "6173",
+          "stop_name": "Piłsudskiego (Sąd Apelacyjny)",
           "arrival_time": "14:23:00",
           "departure_time": "14:23:00",
           "lat": 51.10203792,
@@ -86356,7 +86356,7 @@
       ]
     },
     {
-      "trip_id": "6_17608878",
+      "trip_id": "6_17712891",
       "direction_id": "0",
       "headsign": "JAGODNO (P+R)",
       "service_id": "6",
@@ -86778,7 +86778,7 @@
       ]
     },
     {
-      "trip_id": "6_17608879",
+      "trip_id": "6_17712892",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "6",
@@ -86920,8 +86920,8 @@
         },
         {
           "stop_sequence": 15,
-          "stop_id": "499",
-          "stop_name": "Piłsudskiego",
+          "stop_id": "6173",
+          "stop_name": "Piłsudskiego (Sąd Apelacyjny)",
           "arrival_time": "17:06:00",
           "departure_time": "17:06:00",
           "lat": 51.10203792,
@@ -87182,7 +87182,7 @@
       ]
     },
     {
-      "trip_id": "6_17608880",
+      "trip_id": "6_17712893",
       "direction_id": "0",
       "headsign": "JAGODNO (P+R)",
       "service_id": "6",
@@ -87604,7 +87604,7 @@
       ]
     },
     {
-      "trip_id": "6_17608881",
+      "trip_id": "6_17712894",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "6",
@@ -87746,8 +87746,8 @@
         },
         {
           "stop_sequence": 15,
-          "stop_id": "499",
-          "stop_name": "Piłsudskiego",
+          "stop_id": "6173",
+          "stop_name": "Piłsudskiego (Sąd Apelacyjny)",
           "arrival_time": "20:21:00",
           "departure_time": "20:21:00",
           "lat": 51.10203792,
@@ -88008,7 +88008,7 @@
       ]
     },
     {
-      "trip_id": "6_17608882",
+      "trip_id": "6_17712895",
       "direction_id": "0",
       "headsign": "JAGODNO (P+R)",
       "service_id": "6",
@@ -88430,7 +88430,7 @@
       ]
     },
     {
-      "trip_id": "6_17608884",
+      "trip_id": "6_17712897",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "6",
@@ -88681,7 +88681,7 @@
       ]
     },
     {
-      "trip_id": "6_17608885",
+      "trip_id": "6_17712898",
       "direction_id": "0",
       "headsign": "JAGODNO (P+R)",
       "service_id": "6",
@@ -89103,7 +89103,7 @@
       ]
     },
     {
-      "trip_id": "6_17608886",
+      "trip_id": "6_17712899",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "6",
@@ -89245,8 +89245,8 @@
         },
         {
           "stop_sequence": 15,
-          "stop_id": "499",
-          "stop_name": "Piłsudskiego",
+          "stop_id": "6173",
+          "stop_name": "Piłsudskiego (Sąd Apelacyjny)",
           "arrival_time": "07:16:00",
           "departure_time": "07:16:00",
           "lat": 51.10203792,
@@ -89507,7 +89507,7 @@
       ]
     },
     {
-      "trip_id": "6_17608887",
+      "trip_id": "6_17712900",
       "direction_id": "0",
       "headsign": "JAGODNO (P+R)",
       "service_id": "6",
@@ -89929,7 +89929,7 @@
       ]
     },
     {
-      "trip_id": "6_17608888",
+      "trip_id": "6_17712901",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "6",
@@ -90071,8 +90071,8 @@
         },
         {
           "stop_sequence": 15,
-          "stop_id": "499",
-          "stop_name": "Piłsudskiego",
+          "stop_id": "6173",
+          "stop_name": "Piłsudskiego (Sąd Apelacyjny)",
           "arrival_time": "10:05:00",
           "departure_time": "10:05:00",
           "lat": 51.10203792,
@@ -90333,7 +90333,7 @@
       ]
     },
     {
-      "trip_id": "6_17608889",
+      "trip_id": "6_17712902",
       "direction_id": "0",
       "headsign": "JAGODNO (P+R)",
       "service_id": "6",
@@ -90755,7 +90755,7 @@
       ]
     },
     {
-      "trip_id": "6_17608890",
+      "trip_id": "6_17712903",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "6",
@@ -90897,8 +90897,8 @@
         },
         {
           "stop_sequence": 15,
-          "stop_id": "499",
-          "stop_name": "Piłsudskiego",
+          "stop_id": "6173",
+          "stop_name": "Piłsudskiego (Sąd Apelacyjny)",
           "arrival_time": "12:50:00",
           "departure_time": "12:50:00",
           "lat": 51.10203792,
@@ -91159,7 +91159,7 @@
       ]
     },
     {
-      "trip_id": "6_17608891",
+      "trip_id": "6_17712904",
       "direction_id": "0",
       "headsign": "JAGODNO (P+R)",
       "service_id": "6",
@@ -91581,7 +91581,7 @@
       ]
     },
     {
-      "trip_id": "6_17608892",
+      "trip_id": "6_17712905",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "6",
@@ -91723,8 +91723,8 @@
         },
         {
           "stop_sequence": 15,
-          "stop_id": "499",
-          "stop_name": "Piłsudskiego",
+          "stop_id": "6173",
+          "stop_name": "Piłsudskiego (Sąd Apelacyjny)",
           "arrival_time": "15:36:00",
           "departure_time": "15:36:00",
           "lat": 51.10203792,
@@ -91985,7 +91985,7 @@
       ]
     },
     {
-      "trip_id": "6_17608893",
+      "trip_id": "6_17712906",
       "direction_id": "0",
       "headsign": "JAGODNO (P+R)",
       "service_id": "6",
@@ -92407,7 +92407,7 @@
       ]
     },
     {
-      "trip_id": "6_17608895",
+      "trip_id": "6_17712908",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "6",
@@ -92658,7 +92658,7 @@
       ]
     },
     {
-      "trip_id": "6_17608896",
+      "trip_id": "6_17712909",
       "direction_id": "0",
       "headsign": "JAGODNO (P+R)",
       "service_id": "6",
@@ -93080,7 +93080,7 @@
       ]
     },
     {
-      "trip_id": "6_17608897",
+      "trip_id": "6_17712910",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "6",
@@ -93222,8 +93222,8 @@
         },
         {
           "stop_sequence": 15,
-          "stop_id": "499",
-          "stop_name": "Piłsudskiego",
+          "stop_id": "6173",
+          "stop_name": "Piłsudskiego (Sąd Apelacyjny)",
           "arrival_time": "08:33:00",
           "departure_time": "08:33:00",
           "lat": 51.10203792,
@@ -93484,7 +93484,7 @@
       ]
     },
     {
-      "trip_id": "6_17608898",
+      "trip_id": "6_17712911",
       "direction_id": "0",
       "headsign": "JAGODNO (P+R)",
       "service_id": "6",
@@ -93906,7 +93906,7 @@
       ]
     },
     {
-      "trip_id": "6_17608899",
+      "trip_id": "6_17712912",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "6",
@@ -94048,8 +94048,8 @@
         },
         {
           "stop_sequence": 15,
-          "stop_id": "499",
-          "stop_name": "Piłsudskiego",
+          "stop_id": "6173",
+          "stop_name": "Piłsudskiego (Sąd Apelacyjny)",
           "arrival_time": "11:20:00",
           "departure_time": "11:20:00",
           "lat": 51.10203792,
@@ -94310,7 +94310,7 @@
       ]
     },
     {
-      "trip_id": "6_17608900",
+      "trip_id": "6_17712913",
       "direction_id": "0",
       "headsign": "JAGODNO (P+R)",
       "service_id": "6",
@@ -94732,7 +94732,7 @@
       ]
     },
     {
-      "trip_id": "6_17608901",
+      "trip_id": "6_17712914",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "6",
@@ -94874,8 +94874,8 @@
         },
         {
           "stop_sequence": 15,
-          "stop_id": "499",
-          "stop_name": "Piłsudskiego",
+          "stop_id": "6173",
+          "stop_name": "Piłsudskiego (Sąd Apelacyjny)",
           "arrival_time": "14:08:00",
           "departure_time": "14:08:00",
           "lat": 51.10203792,
@@ -95136,7 +95136,7 @@
       ]
     },
     {
-      "trip_id": "6_17608902",
+      "trip_id": "6_17712915",
       "direction_id": "0",
       "headsign": "JAGODNO (P+R)",
       "service_id": "6",
@@ -95558,7 +95558,7 @@
       ]
     },
     {
-      "trip_id": "6_17608903",
+      "trip_id": "6_17712916",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "6",
@@ -95700,8 +95700,8 @@
         },
         {
           "stop_sequence": 15,
-          "stop_id": "499",
-          "stop_name": "Piłsudskiego",
+          "stop_id": "6173",
+          "stop_name": "Piłsudskiego (Sąd Apelacyjny)",
           "arrival_time": "16:51:00",
           "departure_time": "16:51:00",
           "lat": 51.10203792,
@@ -95962,7 +95962,7 @@
       ]
     },
     {
-      "trip_id": "6_17608904",
+      "trip_id": "6_17712917",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "6",
@@ -96240,7 +96240,7 @@
       ]
     },
     {
-      "trip_id": "6_17608906",
+      "trip_id": "6_17712919",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "6",
@@ -96382,8 +96382,8 @@
         },
         {
           "stop_sequence": 15,
-          "stop_id": "499",
-          "stop_name": "Piłsudskiego",
+          "stop_id": "6173",
+          "stop_name": "Piłsudskiego (Sąd Apelacyjny)",
           "arrival_time": "05:39:00",
           "departure_time": "05:39:00",
           "lat": 51.10203792,
@@ -96644,7 +96644,7 @@
       ]
     },
     {
-      "trip_id": "6_17608907",
+      "trip_id": "6_17712920",
       "direction_id": "0",
       "headsign": "JAGODNO (P+R)",
       "service_id": "6",
@@ -97066,7 +97066,7 @@
       ]
     },
     {
-      "trip_id": "6_17608908",
+      "trip_id": "6_17712921",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "6",
@@ -97208,8 +97208,8 @@
         },
         {
           "stop_sequence": 15,
-          "stop_id": "499",
-          "stop_name": "Piłsudskiego",
+          "stop_id": "6173",
+          "stop_name": "Piłsudskiego (Sąd Apelacyjny)",
           "arrival_time": "08:18:00",
           "departure_time": "08:18:00",
           "lat": 51.10203792,
@@ -97470,7 +97470,7 @@
       ]
     },
     {
-      "trip_id": "6_17608909",
+      "trip_id": "6_17712922",
       "direction_id": "0",
       "headsign": "JAGODNO (P+R)",
       "service_id": "6",
@@ -97892,7 +97892,7 @@
       ]
     },
     {
-      "trip_id": "6_17608910",
+      "trip_id": "6_17712923",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "6",
@@ -98034,8 +98034,8 @@
         },
         {
           "stop_sequence": 15,
-          "stop_id": "499",
-          "stop_name": "Piłsudskiego",
+          "stop_id": "6173",
+          "stop_name": "Piłsudskiego (Sąd Apelacyjny)",
           "arrival_time": "11:05:00",
           "departure_time": "11:05:00",
           "lat": 51.10203792,
@@ -98296,7 +98296,7 @@
       ]
     },
     {
-      "trip_id": "6_17608911",
+      "trip_id": "6_17712924",
       "direction_id": "0",
       "headsign": "JAGODNO (P+R)",
       "service_id": "6",
@@ -98718,7 +98718,7 @@
       ]
     },
     {
-      "trip_id": "6_17608912",
+      "trip_id": "6_17712925",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "6",
@@ -98860,8 +98860,8 @@
         },
         {
           "stop_sequence": 15,
-          "stop_id": "499",
-          "stop_name": "Piłsudskiego",
+          "stop_id": "6173",
+          "stop_name": "Piłsudskiego (Sąd Apelacyjny)",
           "arrival_time": "13:54:00",
           "departure_time": "13:54:00",
           "lat": 51.10203792,
@@ -99122,7 +99122,7 @@
       ]
     },
     {
-      "trip_id": "6_17608913",
+      "trip_id": "6_17712926",
       "direction_id": "0",
       "headsign": "JAGODNO (P+R)",
       "service_id": "6",
@@ -99544,7 +99544,7 @@
       ]
     },
     {
-      "trip_id": "6_17608914",
+      "trip_id": "6_17712927",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "6",
@@ -99686,8 +99686,8 @@
         },
         {
           "stop_sequence": 15,
-          "stop_id": "499",
-          "stop_name": "Piłsudskiego",
+          "stop_id": "6173",
+          "stop_name": "Piłsudskiego (Sąd Apelacyjny)",
           "arrival_time": "16:36:00",
           "departure_time": "16:36:00",
           "lat": 51.10203792,
@@ -99948,7 +99948,7 @@
       ]
     },
     {
-      "trip_id": "6_17608915",
+      "trip_id": "6_17712928",
       "direction_id": "0",
       "headsign": "JAGODNO (P+R)",
       "service_id": "6",
@@ -100370,7 +100370,7 @@
       ]
     },
     {
-      "trip_id": "6_17608916",
+      "trip_id": "6_17712929",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "6",
@@ -100512,8 +100512,8 @@
         },
         {
           "stop_sequence": 15,
-          "stop_id": "499",
-          "stop_name": "Piłsudskiego",
+          "stop_id": "6173",
+          "stop_name": "Piłsudskiego (Sąd Apelacyjny)",
           "arrival_time": "19:53:00",
           "departure_time": "19:53:00",
           "lat": 51.10203792,
@@ -100774,7 +100774,7 @@
       ]
     },
     {
-      "trip_id": "6_17608917",
+      "trip_id": "6_17712930",
       "direction_id": "0",
       "headsign": "JAGODNO (P+R)",
       "service_id": "6",
@@ -101196,7 +101196,7 @@
       ]
     },
     {
-      "trip_id": "6_17608918",
+      "trip_id": "6_17712931",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "6",
@@ -101338,8 +101338,8 @@
         },
         {
           "stop_sequence": 15,
-          "stop_id": "499",
-          "stop_name": "Piłsudskiego",
+          "stop_id": "6173",
+          "stop_name": "Piłsudskiego (Sąd Apelacyjny)",
           "arrival_time": "22:51:00",
           "departure_time": "22:51:00",
           "lat": 51.10203792,
@@ -101600,7 +101600,7 @@
       ]
     },
     {
-      "trip_id": "6_17608919",
+      "trip_id": "6_17712932",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "6",
@@ -101878,7 +101878,7 @@
       ]
     },
     {
-      "trip_id": "6_17608921",
+      "trip_id": "6_17712934",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "6",
@@ -102020,8 +102020,8 @@
         },
         {
           "stop_sequence": 15,
-          "stop_id": "499",
-          "stop_name": "Piłsudskiego",
+          "stop_id": "6173",
+          "stop_name": "Piłsudskiego (Sąd Apelacyjny)",
           "arrival_time": "05:10:00",
           "departure_time": "05:10:00",
           "lat": 51.10203792,
@@ -102282,7 +102282,7 @@
       ]
     },
     {
-      "trip_id": "6_17608922",
+      "trip_id": "6_17712935",
       "direction_id": "0",
       "headsign": "JAGODNO (P+R)",
       "service_id": "6",
@@ -102704,7 +102704,7 @@
       ]
     },
     {
-      "trip_id": "6_17608923",
+      "trip_id": "6_17712936",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "6",
@@ -102846,8 +102846,8 @@
         },
         {
           "stop_sequence": 15,
-          "stop_id": "499",
-          "stop_name": "Piłsudskiego",
+          "stop_id": "6173",
+          "stop_name": "Piłsudskiego (Sąd Apelacyjny)",
           "arrival_time": "07:47:00",
           "departure_time": "07:47:00",
           "lat": 51.10203792,
@@ -103108,7 +103108,7 @@
       ]
     },
     {
-      "trip_id": "6_17608924",
+      "trip_id": "6_17712937",
       "direction_id": "0",
       "headsign": "JAGODNO (P+R)",
       "service_id": "6",
@@ -103530,7 +103530,7 @@
       ]
     },
     {
-      "trip_id": "6_17608925",
+      "trip_id": "6_17712938",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "6",
@@ -103672,8 +103672,8 @@
         },
         {
           "stop_sequence": 15,
-          "stop_id": "499",
-          "stop_name": "Piłsudskiego",
+          "stop_id": "6173",
+          "stop_name": "Piłsudskiego (Sąd Apelacyjny)",
           "arrival_time": "10:35:00",
           "departure_time": "10:35:00",
           "lat": 51.10203792,
@@ -103934,7 +103934,7 @@
       ]
     },
     {
-      "trip_id": "6_17608926",
+      "trip_id": "6_17712939",
       "direction_id": "0",
       "headsign": "JAGODNO (P+R)",
       "service_id": "6",
@@ -104356,7 +104356,7 @@
       ]
     },
     {
-      "trip_id": "6_17608927",
+      "trip_id": "6_17712940",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "6",
@@ -104498,8 +104498,8 @@
         },
         {
           "stop_sequence": 15,
-          "stop_id": "499",
-          "stop_name": "Piłsudskiego",
+          "stop_id": "6173",
+          "stop_name": "Piłsudskiego (Sąd Apelacyjny)",
           "arrival_time": "13:19:00",
           "departure_time": "13:19:00",
           "lat": 51.10203792,
@@ -104760,7 +104760,7 @@
       ]
     },
     {
-      "trip_id": "6_17608928",
+      "trip_id": "6_17712941",
       "direction_id": "0",
       "headsign": "JAGODNO (P+R)",
       "service_id": "6",
@@ -105182,7 +105182,7 @@
       ]
     },
     {
-      "trip_id": "6_17608929",
+      "trip_id": "6_17712942",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "6",
@@ -105324,8 +105324,8 @@
         },
         {
           "stop_sequence": 15,
-          "stop_id": "499",
-          "stop_name": "Piłsudskiego",
+          "stop_id": "6173",
+          "stop_name": "Piłsudskiego (Sąd Apelacyjny)",
           "arrival_time": "16:06:00",
           "departure_time": "16:06:00",
           "lat": 51.10203792,
@@ -105586,7 +105586,7 @@
       ]
     },
     {
-      "trip_id": "6_17608930",
+      "trip_id": "6_17712943",
       "direction_id": "0",
       "headsign": "JAGODNO (P+R)",
       "service_id": "6",
@@ -106008,7 +106008,7 @@
       ]
     },
     {
-      "trip_id": "6_17608933",
+      "trip_id": "6_17712946",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "6",
@@ -106150,8 +106150,8 @@
         },
         {
           "stop_sequence": 15,
-          "stop_id": "499",
-          "stop_name": "Piłsudskiego",
+          "stop_id": "6173",
+          "stop_name": "Piłsudskiego (Sąd Apelacyjny)",
           "arrival_time": "07:01:00",
           "departure_time": "07:01:00",
           "lat": 51.10203792,
@@ -106412,7 +106412,7 @@
       ]
     },
     {
-      "trip_id": "6_17608934",
+      "trip_id": "6_17712947",
       "direction_id": "0",
       "headsign": "JAGODNO (P+R)",
       "service_id": "6",
@@ -106834,7 +106834,7 @@
       ]
     },
     {
-      "trip_id": "6_17608935",
+      "trip_id": "6_17712948",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "6",
@@ -106976,8 +106976,8 @@
         },
         {
           "stop_sequence": 15,
-          "stop_id": "499",
-          "stop_name": "Piłsudskiego",
+          "stop_id": "6173",
+          "stop_name": "Piłsudskiego (Sąd Apelacyjny)",
           "arrival_time": "09:50:00",
           "departure_time": "09:50:00",
           "lat": 51.10203792,
@@ -107238,7 +107238,7 @@
       ]
     },
     {
-      "trip_id": "6_17608936",
+      "trip_id": "6_17712949",
       "direction_id": "0",
       "headsign": "JAGODNO (P+R)",
       "service_id": "6",
@@ -107660,7 +107660,7 @@
       ]
     },
     {
-      "trip_id": "6_17608937",
+      "trip_id": "6_17712950",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "6",
@@ -107802,8 +107802,8 @@
         },
         {
           "stop_sequence": 15,
-          "stop_id": "499",
-          "stop_name": "Piłsudskiego",
+          "stop_id": "6173",
+          "stop_name": "Piłsudskiego (Sąd Apelacyjny)",
           "arrival_time": "12:35:00",
           "departure_time": "12:35:00",
           "lat": 51.10203792,
@@ -108064,7 +108064,7 @@
       ]
     },
     {
-      "trip_id": "6_17608938",
+      "trip_id": "6_17712951",
       "direction_id": "0",
       "headsign": "JAGODNO (P+R)",
       "service_id": "6",
@@ -108486,7 +108486,7 @@
       ]
     },
     {
-      "trip_id": "6_17608939",
+      "trip_id": "6_17712952",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "6",
@@ -108628,8 +108628,8 @@
         },
         {
           "stop_sequence": 15,
-          "stop_id": "499",
-          "stop_name": "Piłsudskiego",
+          "stop_id": "6173",
+          "stop_name": "Piłsudskiego (Sąd Apelacyjny)",
           "arrival_time": "15:21:00",
           "departure_time": "15:21:00",
           "lat": 51.10203792,
@@ -108890,7 +108890,7 @@
       ]
     },
     {
-      "trip_id": "6_17608940",
+      "trip_id": "6_17712953",
       "direction_id": "0",
       "headsign": "JAGODNO (P+R)",
       "service_id": "6",
@@ -109312,7 +109312,7 @@
       ]
     },
     {
-      "trip_id": "6_17608941",
+      "trip_id": "6_17712954",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "6",
@@ -109454,8 +109454,8 @@
         },
         {
           "stop_sequence": 15,
-          "stop_id": "499",
-          "stop_name": "Piłsudskiego",
+          "stop_id": "6173",
+          "stop_name": "Piłsudskiego (Sąd Apelacyjny)",
           "arrival_time": "18:25:00",
           "departure_time": "18:25:00",
           "lat": 51.10203792,
@@ -109716,7 +109716,7 @@
       ]
     },
     {
-      "trip_id": "6_17608942",
+      "trip_id": "6_17712955",
       "direction_id": "0",
       "headsign": "JAGODNO (P+R)",
       "service_id": "6",
@@ -110138,7 +110138,7 @@
       ]
     },
     {
-      "trip_id": "6_17608945",
+      "trip_id": "6_17712958",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "6",
@@ -110280,8 +110280,8 @@
         },
         {
           "stop_sequence": 15,
-          "stop_id": "499",
-          "stop_name": "Piłsudskiego",
+          "stop_id": "6173",
+          "stop_name": "Piłsudskiego (Sąd Apelacyjny)",
           "arrival_time": "06:21:00",
           "departure_time": "06:21:00",
           "lat": 51.10203792,
@@ -110542,7 +110542,7 @@
       ]
     },
     {
-      "trip_id": "6_17608946",
+      "trip_id": "6_17712959",
       "direction_id": "0",
       "headsign": "JAGODNO (P+R)",
       "service_id": "6",
@@ -110964,7 +110964,7 @@
       ]
     },
     {
-      "trip_id": "6_17608947",
+      "trip_id": "6_17712960",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "6",
@@ -111106,8 +111106,8 @@
         },
         {
           "stop_sequence": 15,
-          "stop_id": "499",
-          "stop_name": "Piłsudskiego",
+          "stop_id": "6173",
+          "stop_name": "Piłsudskiego (Sąd Apelacyjny)",
           "arrival_time": "09:03:00",
           "departure_time": "09:03:00",
           "lat": 51.10203792,
@@ -111368,7 +111368,7 @@
       ]
     },
     {
-      "trip_id": "6_17608948",
+      "trip_id": "6_17712961",
       "direction_id": "0",
       "headsign": "JAGODNO (P+R)",
       "service_id": "6",
@@ -111790,7 +111790,7 @@
       ]
     },
     {
-      "trip_id": "6_17608949",
+      "trip_id": "6_17712962",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "6",
@@ -111932,8 +111932,8 @@
         },
         {
           "stop_sequence": 15,
-          "stop_id": "499",
-          "stop_name": "Piłsudskiego",
+          "stop_id": "6173",
+          "stop_name": "Piłsudskiego (Sąd Apelacyjny)",
           "arrival_time": "11:50:00",
           "departure_time": "11:50:00",
           "lat": 51.10203792,
@@ -112194,7 +112194,7 @@
       ]
     },
     {
-      "trip_id": "6_17608950",
+      "trip_id": "6_17712963",
       "direction_id": "0",
       "headsign": "JAGODNO (P+R)",
       "service_id": "6",
@@ -112616,7 +112616,7 @@
       ]
     },
     {
-      "trip_id": "6_17608951",
+      "trip_id": "6_17712964",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "6",
@@ -112758,8 +112758,8 @@
         },
         {
           "stop_sequence": 15,
-          "stop_id": "499",
-          "stop_name": "Piłsudskiego",
+          "stop_id": "6173",
+          "stop_name": "Piłsudskiego (Sąd Apelacyjny)",
           "arrival_time": "14:38:00",
           "departure_time": "14:38:00",
           "lat": 51.10203792,
@@ -113020,7 +113020,7 @@
       ]
     },
     {
-      "trip_id": "6_17608952",
+      "trip_id": "6_17712965",
       "direction_id": "0",
       "headsign": "JAGODNO (P+R)",
       "service_id": "6",
@@ -113442,7 +113442,7 @@
       ]
     },
     {
-      "trip_id": "6_17608953",
+      "trip_id": "6_17712966",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "6",
@@ -113584,8 +113584,8 @@
         },
         {
           "stop_sequence": 15,
-          "stop_id": "499",
-          "stop_name": "Piłsudskiego",
+          "stop_id": "6173",
+          "stop_name": "Piłsudskiego (Sąd Apelacyjny)",
           "arrival_time": "17:24:00",
           "departure_time": "17:24:00",
           "lat": 51.10203792,
@@ -113846,7 +113846,7 @@
       ]
     },
     {
-      "trip_id": "6_17608954",
+      "trip_id": "6_17712967",
       "direction_id": "0",
       "headsign": "JAGODNO (P+R)",
       "service_id": "6",
@@ -114268,7 +114268,7 @@
       ]
     },
     {
-      "trip_id": "6_17608955",
+      "trip_id": "6_17712968",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "6",
@@ -114410,8 +114410,8 @@
         },
         {
           "stop_sequence": 15,
-          "stop_id": "499",
-          "stop_name": "Piłsudskiego",
+          "stop_id": "6173",
+          "stop_name": "Piłsudskiego (Sąd Apelacyjny)",
           "arrival_time": "20:51:00",
           "departure_time": "20:51:00",
           "lat": 51.10203792,
@@ -114672,7 +114672,7 @@
       ]
     },
     {
-      "trip_id": "6_17608956",
+      "trip_id": "6_17712969",
       "direction_id": "0",
       "headsign": "JAGODNO (P+R)",
       "service_id": "6",
@@ -115094,7 +115094,7 @@
       ]
     },
     {
-      "trip_id": "8_17615642",
+      "trip_id": "8_17719655",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "8",
@@ -115345,7 +115345,7 @@
       ]
     },
     {
-      "trip_id": "8_17615643",
+      "trip_id": "8_17719656",
       "direction_id": "0",
       "headsign": "JAGODNO (P+R)",
       "service_id": "8",
@@ -115767,7 +115767,7 @@
       ]
     },
     {
-      "trip_id": "8_17615644",
+      "trip_id": "8_17719657",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "8",
@@ -115909,8 +115909,8 @@
         },
         {
           "stop_sequence": 15,
-          "stop_id": "499",
-          "stop_name": "Piłsudskiego",
+          "stop_id": "6173",
+          "stop_name": "Piłsudskiego (Sąd Apelacyjny)",
           "arrival_time": "06:36:00",
           "departure_time": "06:36:00",
           "lat": 51.10203792,
@@ -116171,7 +116171,7 @@
       ]
     },
     {
-      "trip_id": "8_17615645",
+      "trip_id": "8_17719658",
       "direction_id": "0",
       "headsign": "JAGODNO (P+R)",
       "service_id": "8",
@@ -116593,7 +116593,7 @@
       ]
     },
     {
-      "trip_id": "8_17615646",
+      "trip_id": "8_17719659",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "8",
@@ -116735,8 +116735,8 @@
         },
         {
           "stop_sequence": 15,
-          "stop_id": "499",
-          "stop_name": "Piłsudskiego",
+          "stop_id": "6173",
+          "stop_name": "Piłsudskiego (Sąd Apelacyjny)",
           "arrival_time": "09:20:00",
           "departure_time": "09:20:00",
           "lat": 51.10203792,
@@ -116997,7 +116997,7 @@
       ]
     },
     {
-      "trip_id": "8_17615647",
+      "trip_id": "8_17719660",
       "direction_id": "0",
       "headsign": "JAGODNO (P+R)",
       "service_id": "8",
@@ -117419,7 +117419,7 @@
       ]
     },
     {
-      "trip_id": "8_17615648",
+      "trip_id": "8_17719661",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "8",
@@ -117561,8 +117561,8 @@
         },
         {
           "stop_sequence": 15,
-          "stop_id": "499",
-          "stop_name": "Piłsudskiego",
+          "stop_id": "6173",
+          "stop_name": "Piłsudskiego (Sąd Apelacyjny)",
           "arrival_time": "12:05:00",
           "departure_time": "12:05:00",
           "lat": 51.10203792,
@@ -117823,7 +117823,7 @@
       ]
     },
     {
-      "trip_id": "8_17615649",
+      "trip_id": "8_17719662",
       "direction_id": "0",
       "headsign": "JAGODNO (P+R)",
       "service_id": "8",
@@ -118245,7 +118245,7 @@
       ]
     },
     {
-      "trip_id": "8_17615650",
+      "trip_id": "8_17719663",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "8",
@@ -118387,8 +118387,8 @@
         },
         {
           "stop_sequence": 15,
-          "stop_id": "499",
-          "stop_name": "Piłsudskiego",
+          "stop_id": "6173",
+          "stop_name": "Piłsudskiego (Sąd Apelacyjny)",
           "arrival_time": "14:53:00",
           "departure_time": "14:53:00",
           "lat": 51.10203792,
@@ -118649,7 +118649,7 @@
       ]
     },
     {
-      "trip_id": "8_17615651",
+      "trip_id": "8_17719664",
       "direction_id": "0",
       "headsign": "JAGODNO (P+R)",
       "service_id": "8",
@@ -119071,7 +119071,7 @@
       ]
     },
     {
-      "trip_id": "8_17615652",
+      "trip_id": "8_17719665",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "8",
@@ -119213,8 +119213,8 @@
         },
         {
           "stop_sequence": 15,
-          "stop_id": "499",
-          "stop_name": "Piłsudskiego",
+          "stop_id": "6173",
+          "stop_name": "Piłsudskiego (Sąd Apelacyjny)",
           "arrival_time": "17:39:00",
           "departure_time": "17:39:00",
           "lat": 51.10203792,
@@ -119475,7 +119475,7 @@
       ]
     },
     {
-      "trip_id": "8_17615653",
+      "trip_id": "8_17719666",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "8",
@@ -119753,7 +119753,7 @@
       ]
     },
     {
-      "trip_id": "8_17615654",
+      "trip_id": "8_17719667",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "8",
@@ -120004,7 +120004,7 @@
       ]
     },
     {
-      "trip_id": "8_17615655",
+      "trip_id": "8_17719668",
       "direction_id": "0",
       "headsign": "JAGODNO (P+R)",
       "service_id": "8",
@@ -120426,7 +120426,7 @@
       ]
     },
     {
-      "trip_id": "8_17615656",
+      "trip_id": "8_17719669",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "8",
@@ -120568,8 +120568,8 @@
         },
         {
           "stop_sequence": 15,
-          "stop_id": "499",
-          "stop_name": "Piłsudskiego",
+          "stop_id": "6173",
+          "stop_name": "Piłsudskiego (Sąd Apelacyjny)",
           "arrival_time": "08:03:00",
           "departure_time": "08:03:00",
           "lat": 51.10203792,
@@ -120830,7 +120830,7 @@
       ]
     },
     {
-      "trip_id": "8_17615657",
+      "trip_id": "8_17719670",
       "direction_id": "0",
       "headsign": "JAGODNO (P+R)",
       "service_id": "8",
@@ -121252,7 +121252,7 @@
       ]
     },
     {
-      "trip_id": "8_17615658",
+      "trip_id": "8_17719671",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "8",
@@ -121394,8 +121394,8 @@
         },
         {
           "stop_sequence": 15,
-          "stop_id": "499",
-          "stop_name": "Piłsudskiego",
+          "stop_id": "6173",
+          "stop_name": "Piłsudskiego (Sąd Apelacyjny)",
           "arrival_time": "10:50:00",
           "departure_time": "10:50:00",
           "lat": 51.10203792,
@@ -121656,7 +121656,7 @@
       ]
     },
     {
-      "trip_id": "8_17615659",
+      "trip_id": "8_17719672",
       "direction_id": "0",
       "headsign": "JAGODNO (P+R)",
       "service_id": "8",
@@ -122078,7 +122078,7 @@
       ]
     },
     {
-      "trip_id": "8_17615660",
+      "trip_id": "8_17719673",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "8",
@@ -122220,8 +122220,8 @@
         },
         {
           "stop_sequence": 15,
-          "stop_id": "499",
-          "stop_name": "Piłsudskiego",
+          "stop_id": "6173",
+          "stop_name": "Piłsudskiego (Sąd Apelacyjny)",
           "arrival_time": "13:36:00",
           "departure_time": "13:36:00",
           "lat": 51.10203792,
@@ -122482,7 +122482,7 @@
       ]
     },
     {
-      "trip_id": "8_17615661",
+      "trip_id": "8_17719674",
       "direction_id": "0",
       "headsign": "JAGODNO (P+R)",
       "service_id": "8",
@@ -122904,7 +122904,7 @@
       ]
     },
     {
-      "trip_id": "8_17615662",
+      "trip_id": "8_17719675",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "8",
@@ -123046,8 +123046,8 @@
         },
         {
           "stop_sequence": 15,
-          "stop_id": "499",
-          "stop_name": "Piłsudskiego",
+          "stop_id": "6173",
+          "stop_name": "Piłsudskiego (Sąd Apelacyjny)",
           "arrival_time": "16:21:00",
           "departure_time": "16:21:00",
           "lat": 51.10203792,
@@ -123308,7 +123308,7 @@
       ]
     },
     {
-      "trip_id": "8_17615663",
+      "trip_id": "8_17719676",
       "direction_id": "0",
       "headsign": "JAGODNO (P+R)",
       "service_id": "8",
@@ -123730,7 +123730,7 @@
       ]
     },
     {
-      "trip_id": "8_17615664",
+      "trip_id": "8_17719677",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "8",
@@ -123872,8 +123872,8 @@
         },
         {
           "stop_sequence": 15,
-          "stop_id": "499",
-          "stop_name": "Piłsudskiego",
+          "stop_id": "6173",
+          "stop_name": "Piłsudskiego (Sąd Apelacyjny)",
           "arrival_time": "19:23:00",
           "departure_time": "19:23:00",
           "lat": 51.10203792,
@@ -124134,7 +124134,7 @@
       ]
     },
     {
-      "trip_id": "8_17615665",
+      "trip_id": "8_17719678",
       "direction_id": "0",
       "headsign": "JAGODNO (P+R)",
       "service_id": "8",
@@ -124556,7 +124556,7 @@
       ]
     },
     {
-      "trip_id": "8_17615666",
+      "trip_id": "8_17719679",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "8",
@@ -124698,8 +124698,8 @@
         },
         {
           "stop_sequence": 15,
-          "stop_id": "499",
-          "stop_name": "Piłsudskiego",
+          "stop_id": "6173",
+          "stop_name": "Piłsudskiego (Sąd Apelacyjny)",
           "arrival_time": "22:21:00",
           "departure_time": "22:21:00",
           "lat": 51.10203792,
@@ -124960,7 +124960,7 @@
       ]
     },
     {
-      "trip_id": "8_17615667",
+      "trip_id": "8_17719680",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "8",
@@ -125238,7 +125238,7 @@
       ]
     },
     {
-      "trip_id": "8_17615668",
+      "trip_id": "8_17719681",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "8",
@@ -125489,7 +125489,7 @@
       ]
     },
     {
-      "trip_id": "8_17615669",
+      "trip_id": "8_17719682",
       "direction_id": "0",
       "headsign": "JAGODNO (P+R)",
       "service_id": "8",
@@ -125911,7 +125911,7 @@
       ]
     },
     {
-      "trip_id": "8_17615670",
+      "trip_id": "8_17719683",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "8",
@@ -126053,8 +126053,8 @@
         },
         {
           "stop_sequence": 15,
-          "stop_id": "499",
-          "stop_name": "Piłsudskiego",
+          "stop_id": "6173",
+          "stop_name": "Piłsudskiego (Sąd Apelacyjny)",
           "arrival_time": "06:51:00",
           "departure_time": "06:51:00",
           "lat": 51.10203792,
@@ -126315,7 +126315,7 @@
       ]
     },
     {
-      "trip_id": "8_17615671",
+      "trip_id": "8_17719684",
       "direction_id": "0",
       "headsign": "JAGODNO (P+R)",
       "service_id": "8",
@@ -126737,7 +126737,7 @@
       ]
     },
     {
-      "trip_id": "8_17615672",
+      "trip_id": "8_17719685",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "8",
@@ -126879,8 +126879,8 @@
         },
         {
           "stop_sequence": 15,
-          "stop_id": "499",
-          "stop_name": "Piłsudskiego",
+          "stop_id": "6173",
+          "stop_name": "Piłsudskiego (Sąd Apelacyjny)",
           "arrival_time": "09:35:00",
           "departure_time": "09:35:00",
           "lat": 51.10203792,
@@ -127141,7 +127141,7 @@
       ]
     },
     {
-      "trip_id": "8_17615673",
+      "trip_id": "8_17719686",
       "direction_id": "0",
       "headsign": "JAGODNO (P+R)",
       "service_id": "8",
@@ -127563,7 +127563,7 @@
       ]
     },
     {
-      "trip_id": "8_17615674",
+      "trip_id": "8_17719687",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "8",
@@ -127705,8 +127705,8 @@
         },
         {
           "stop_sequence": 15,
-          "stop_id": "499",
-          "stop_name": "Piłsudskiego",
+          "stop_id": "6173",
+          "stop_name": "Piłsudskiego (Sąd Apelacyjny)",
           "arrival_time": "12:20:00",
           "departure_time": "12:20:00",
           "lat": 51.10203792,
@@ -127967,7 +127967,7 @@
       ]
     },
     {
-      "trip_id": "8_17615675",
+      "trip_id": "8_17719688",
       "direction_id": "0",
       "headsign": "JAGODNO (P+R)",
       "service_id": "8",
@@ -128389,7 +128389,7 @@
       ]
     },
     {
-      "trip_id": "8_17615676",
+      "trip_id": "8_17719689",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "8",
@@ -128531,8 +128531,8 @@
         },
         {
           "stop_sequence": 15,
-          "stop_id": "499",
-          "stop_name": "Piłsudskiego",
+          "stop_id": "6173",
+          "stop_name": "Piłsudskiego (Sąd Apelacyjny)",
           "arrival_time": "15:06:00",
           "departure_time": "15:06:00",
           "lat": 51.10203792,
@@ -128793,7 +128793,7 @@
       ]
     },
     {
-      "trip_id": "8_17615677",
+      "trip_id": "8_17719690",
       "direction_id": "0",
       "headsign": "JAGODNO (P+R)",
       "service_id": "8",
@@ -129215,7 +129215,7 @@
       ]
     },
     {
-      "trip_id": "8_17615678",
+      "trip_id": "8_17719691",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "8",
@@ -129357,8 +129357,8 @@
         },
         {
           "stop_sequence": 15,
-          "stop_id": "499",
-          "stop_name": "Piłsudskiego",
+          "stop_id": "6173",
+          "stop_name": "Piłsudskiego (Sąd Apelacyjny)",
           "arrival_time": "17:54:00",
           "departure_time": "17:54:00",
           "lat": 51.10203792,
@@ -129619,7 +129619,7 @@
       ]
     },
     {
-      "trip_id": "8_17615679",
+      "trip_id": "8_17719692",
       "direction_id": "0",
       "headsign": "JAGODNO (P+R)",
       "service_id": "8",
@@ -130041,7 +130041,7 @@
       ]
     },
     {
-      "trip_id": "8_17615680",
+      "trip_id": "8_17719693",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "8",
@@ -130183,8 +130183,8 @@
         },
         {
           "stop_sequence": 15,
-          "stop_id": "499",
-          "stop_name": "Piłsudskiego",
+          "stop_id": "6173",
+          "stop_name": "Piłsudskiego (Sąd Apelacyjny)",
           "arrival_time": "21:21:00",
           "departure_time": "21:21:00",
           "lat": 51.10203792,
@@ -130445,7 +130445,7 @@
       ]
     },
     {
-      "trip_id": "8_17615681",
+      "trip_id": "8_17719694",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "8",
@@ -130723,7 +130723,7 @@
       ]
     },
     {
-      "trip_id": "8_17615682",
+      "trip_id": "8_17719695",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "8",
@@ -130974,7 +130974,7 @@
       ]
     },
     {
-      "trip_id": "8_17615683",
+      "trip_id": "8_17719696",
       "direction_id": "0",
       "headsign": "JAGODNO (P+R)",
       "service_id": "8",
@@ -131396,7 +131396,7 @@
       ]
     },
     {
-      "trip_id": "8_17615684",
+      "trip_id": "8_17719697",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "8",
@@ -131538,8 +131538,8 @@
         },
         {
           "stop_sequence": 15,
-          "stop_id": "499",
-          "stop_name": "Piłsudskiego",
+          "stop_id": "6173",
+          "stop_name": "Piłsudskiego (Sąd Apelacyjny)",
           "arrival_time": "07:32:00",
           "departure_time": "07:32:00",
           "lat": 51.10203792,
@@ -131800,7 +131800,7 @@
       ]
     },
     {
-      "trip_id": "8_17615685",
+      "trip_id": "8_17719698",
       "direction_id": "0",
       "headsign": "JAGODNO (P+R)",
       "service_id": "8",
@@ -132222,7 +132222,7 @@
       ]
     },
     {
-      "trip_id": "8_17615686",
+      "trip_id": "8_17719699",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "8",
@@ -132364,8 +132364,8 @@
         },
         {
           "stop_sequence": 15,
-          "stop_id": "499",
-          "stop_name": "Piłsudskiego",
+          "stop_id": "6173",
+          "stop_name": "Piłsudskiego (Sąd Apelacyjny)",
           "arrival_time": "10:20:00",
           "departure_time": "10:20:00",
           "lat": 51.10203792,
@@ -132626,7 +132626,7 @@
       ]
     },
     {
-      "trip_id": "8_17615687",
+      "trip_id": "8_17719700",
       "direction_id": "0",
       "headsign": "JAGODNO (P+R)",
       "service_id": "8",
@@ -133048,7 +133048,7 @@
       ]
     },
     {
-      "trip_id": "8_17615688",
+      "trip_id": "8_17719701",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "8",
@@ -133190,8 +133190,8 @@
         },
         {
           "stop_sequence": 15,
-          "stop_id": "499",
-          "stop_name": "Piłsudskiego",
+          "stop_id": "6173",
+          "stop_name": "Piłsudskiego (Sąd Apelacyjny)",
           "arrival_time": "13:05:00",
           "departure_time": "13:05:00",
           "lat": 51.10203792,
@@ -133452,7 +133452,7 @@
       ]
     },
     {
-      "trip_id": "8_17615689",
+      "trip_id": "8_17719702",
       "direction_id": "0",
       "headsign": "JAGODNO (P+R)",
       "service_id": "8",
@@ -133874,7 +133874,7 @@
       ]
     },
     {
-      "trip_id": "8_17615690",
+      "trip_id": "8_17719703",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "8",
@@ -134016,8 +134016,8 @@
         },
         {
           "stop_sequence": 15,
-          "stop_id": "499",
-          "stop_name": "Piłsudskiego",
+          "stop_id": "6173",
+          "stop_name": "Piłsudskiego (Sąd Apelacyjny)",
           "arrival_time": "15:51:00",
           "departure_time": "15:51:00",
           "lat": 51.10203792,
@@ -134278,7 +134278,7 @@
       ]
     },
     {
-      "trip_id": "8_17615691",
+      "trip_id": "8_17719704",
       "direction_id": "0",
       "headsign": "JAGODNO (P+R)",
       "service_id": "8",
@@ -134700,7 +134700,7 @@
       ]
     },
     {
-      "trip_id": "8_17615692",
+      "trip_id": "8_17719705",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "8",
@@ -134842,8 +134842,8 @@
         },
         {
           "stop_sequence": 15,
-          "stop_id": "499",
-          "stop_name": "Piłsudskiego",
+          "stop_id": "6173",
+          "stop_name": "Piłsudskiego (Sąd Apelacyjny)",
           "arrival_time": "18:52:00",
           "departure_time": "18:52:00",
           "lat": 51.10203792,
@@ -135104,7 +135104,7 @@
       ]
     },
     {
-      "trip_id": "8_17615693",
+      "trip_id": "8_17719706",
       "direction_id": "0",
       "headsign": "JAGODNO (P+R)",
       "service_id": "8",
@@ -135526,7 +135526,7 @@
       ]
     },
     {
-      "trip_id": "8_17615694",
+      "trip_id": "8_17719707",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "8",
@@ -135668,8 +135668,8 @@
         },
         {
           "stop_sequence": 15,
-          "stop_id": "499",
-          "stop_name": "Piłsudskiego",
+          "stop_id": "6173",
+          "stop_name": "Piłsudskiego (Sąd Apelacyjny)",
           "arrival_time": "21:51:00",
           "departure_time": "21:51:00",
           "lat": 51.10203792,
@@ -135930,7 +135930,7 @@
       ]
     },
     {
-      "trip_id": "8_17615695",
+      "trip_id": "8_17719708",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "8",
@@ -136208,7 +136208,7 @@
       ]
     },
     {
-      "trip_id": "8_17615697",
+      "trip_id": "8_17719710",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "8",
@@ -136350,8 +136350,8 @@
         },
         {
           "stop_sequence": 15,
-          "stop_id": "499",
-          "stop_name": "Piłsudskiego",
+          "stop_id": "6173",
+          "stop_name": "Piłsudskiego (Sąd Apelacyjny)",
           "arrival_time": "06:05:00",
           "departure_time": "06:05:00",
           "lat": 51.10203792,
@@ -136612,7 +136612,7 @@
       ]
     },
     {
-      "trip_id": "8_17615698",
+      "trip_id": "8_17719711",
       "direction_id": "0",
       "headsign": "JAGODNO (P+R)",
       "service_id": "8",
@@ -137034,7 +137034,7 @@
       ]
     },
     {
-      "trip_id": "8_17615699",
+      "trip_id": "8_17719712",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "8",
@@ -137176,8 +137176,8 @@
         },
         {
           "stop_sequence": 15,
-          "stop_id": "499",
-          "stop_name": "Piłsudskiego",
+          "stop_id": "6173",
+          "stop_name": "Piłsudskiego (Sąd Apelacyjny)",
           "arrival_time": "08:49:00",
           "departure_time": "08:49:00",
           "lat": 51.10203792,
@@ -137438,7 +137438,7 @@
       ]
     },
     {
-      "trip_id": "8_17615700",
+      "trip_id": "8_17719713",
       "direction_id": "0",
       "headsign": "JAGODNO (P+R)",
       "service_id": "8",
@@ -137860,7 +137860,7 @@
       ]
     },
     {
-      "trip_id": "8_17615701",
+      "trip_id": "8_17719714",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "8",
@@ -138002,8 +138002,8 @@
         },
         {
           "stop_sequence": 15,
-          "stop_id": "499",
-          "stop_name": "Piłsudskiego",
+          "stop_id": "6173",
+          "stop_name": "Piłsudskiego (Sąd Apelacyjny)",
           "arrival_time": "11:35:00",
           "departure_time": "11:35:00",
           "lat": 51.10203792,
@@ -138264,7 +138264,7 @@
       ]
     },
     {
-      "trip_id": "8_17615702",
+      "trip_id": "8_17719715",
       "direction_id": "0",
       "headsign": "JAGODNO (P+R)",
       "service_id": "8",
@@ -138686,7 +138686,7 @@
       ]
     },
     {
-      "trip_id": "8_17615703",
+      "trip_id": "8_17719716",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "8",
@@ -138828,8 +138828,8 @@
         },
         {
           "stop_sequence": 15,
-          "stop_id": "499",
-          "stop_name": "Piłsudskiego",
+          "stop_id": "6173",
+          "stop_name": "Piłsudskiego (Sąd Apelacyjny)",
           "arrival_time": "14:23:00",
           "departure_time": "14:23:00",
           "lat": 51.10203792,
@@ -139090,7 +139090,7 @@
       ]
     },
     {
-      "trip_id": "8_17615704",
+      "trip_id": "8_17719717",
       "direction_id": "0",
       "headsign": "JAGODNO (P+R)",
       "service_id": "8",
@@ -139512,7 +139512,7 @@
       ]
     },
     {
-      "trip_id": "8_17615705",
+      "trip_id": "8_17719718",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "8",
@@ -139654,8 +139654,8 @@
         },
         {
           "stop_sequence": 15,
-          "stop_id": "499",
-          "stop_name": "Piłsudskiego",
+          "stop_id": "6173",
+          "stop_name": "Piłsudskiego (Sąd Apelacyjny)",
           "arrival_time": "17:06:00",
           "departure_time": "17:06:00",
           "lat": 51.10203792,
@@ -139916,7 +139916,7 @@
       ]
     },
     {
-      "trip_id": "8_17615706",
+      "trip_id": "8_17719719",
       "direction_id": "0",
       "headsign": "JAGODNO (P+R)",
       "service_id": "8",
@@ -140338,7 +140338,7 @@
       ]
     },
     {
-      "trip_id": "8_17615707",
+      "trip_id": "8_17719720",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "8",
@@ -140480,8 +140480,8 @@
         },
         {
           "stop_sequence": 15,
-          "stop_id": "499",
-          "stop_name": "Piłsudskiego",
+          "stop_id": "6173",
+          "stop_name": "Piłsudskiego (Sąd Apelacyjny)",
           "arrival_time": "20:21:00",
           "departure_time": "20:21:00",
           "lat": 51.10203792,
@@ -140742,7 +140742,7 @@
       ]
     },
     {
-      "trip_id": "8_17615708",
+      "trip_id": "8_17719721",
       "direction_id": "0",
       "headsign": "JAGODNO (P+R)",
       "service_id": "8",
@@ -141164,7 +141164,7 @@
       ]
     },
     {
-      "trip_id": "8_17615710",
+      "trip_id": "8_17719723",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "8",
@@ -141415,7 +141415,7 @@
       ]
     },
     {
-      "trip_id": "8_17615711",
+      "trip_id": "8_17719724",
       "direction_id": "0",
       "headsign": "JAGODNO (P+R)",
       "service_id": "8",
@@ -141837,7 +141837,7 @@
       ]
     },
     {
-      "trip_id": "8_17615712",
+      "trip_id": "8_17719725",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "8",
@@ -141979,8 +141979,8 @@
         },
         {
           "stop_sequence": 15,
-          "stop_id": "499",
-          "stop_name": "Piłsudskiego",
+          "stop_id": "6173",
+          "stop_name": "Piłsudskiego (Sąd Apelacyjny)",
           "arrival_time": "07:16:00",
           "departure_time": "07:16:00",
           "lat": 51.10203792,
@@ -142241,7 +142241,7 @@
       ]
     },
     {
-      "trip_id": "8_17615713",
+      "trip_id": "8_17719726",
       "direction_id": "0",
       "headsign": "JAGODNO (P+R)",
       "service_id": "8",
@@ -142663,7 +142663,7 @@
       ]
     },
     {
-      "trip_id": "8_17615714",
+      "trip_id": "8_17719727",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "8",
@@ -142805,8 +142805,8 @@
         },
         {
           "stop_sequence": 15,
-          "stop_id": "499",
-          "stop_name": "Piłsudskiego",
+          "stop_id": "6173",
+          "stop_name": "Piłsudskiego (Sąd Apelacyjny)",
           "arrival_time": "10:05:00",
           "departure_time": "10:05:00",
           "lat": 51.10203792,
@@ -143067,7 +143067,7 @@
       ]
     },
     {
-      "trip_id": "8_17615715",
+      "trip_id": "8_17719728",
       "direction_id": "0",
       "headsign": "JAGODNO (P+R)",
       "service_id": "8",
@@ -143489,7 +143489,7 @@
       ]
     },
     {
-      "trip_id": "8_17615716",
+      "trip_id": "8_17719729",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "8",
@@ -143631,8 +143631,8 @@
         },
         {
           "stop_sequence": 15,
-          "stop_id": "499",
-          "stop_name": "Piłsudskiego",
+          "stop_id": "6173",
+          "stop_name": "Piłsudskiego (Sąd Apelacyjny)",
           "arrival_time": "12:50:00",
           "departure_time": "12:50:00",
           "lat": 51.10203792,
@@ -143893,7 +143893,7 @@
       ]
     },
     {
-      "trip_id": "8_17615717",
+      "trip_id": "8_17719730",
       "direction_id": "0",
       "headsign": "JAGODNO (P+R)",
       "service_id": "8",
@@ -144315,7 +144315,7 @@
       ]
     },
     {
-      "trip_id": "8_17615718",
+      "trip_id": "8_17719731",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "8",
@@ -144457,8 +144457,8 @@
         },
         {
           "stop_sequence": 15,
-          "stop_id": "499",
-          "stop_name": "Piłsudskiego",
+          "stop_id": "6173",
+          "stop_name": "Piłsudskiego (Sąd Apelacyjny)",
           "arrival_time": "15:36:00",
           "departure_time": "15:36:00",
           "lat": 51.10203792,
@@ -144719,7 +144719,7 @@
       ]
     },
     {
-      "trip_id": "8_17615719",
+      "trip_id": "8_17719732",
       "direction_id": "0",
       "headsign": "JAGODNO (P+R)",
       "service_id": "8",
@@ -145141,7 +145141,7 @@
       ]
     },
     {
-      "trip_id": "8_17615721",
+      "trip_id": "8_17719734",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "8",
@@ -145392,7 +145392,7 @@
       ]
     },
     {
-      "trip_id": "8_17615722",
+      "trip_id": "8_17719735",
       "direction_id": "0",
       "headsign": "JAGODNO (P+R)",
       "service_id": "8",
@@ -145814,7 +145814,7 @@
       ]
     },
     {
-      "trip_id": "8_17615723",
+      "trip_id": "8_17719736",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "8",
@@ -145956,8 +145956,8 @@
         },
         {
           "stop_sequence": 15,
-          "stop_id": "499",
-          "stop_name": "Piłsudskiego",
+          "stop_id": "6173",
+          "stop_name": "Piłsudskiego (Sąd Apelacyjny)",
           "arrival_time": "08:33:00",
           "departure_time": "08:33:00",
           "lat": 51.10203792,
@@ -146218,7 +146218,7 @@
       ]
     },
     {
-      "trip_id": "8_17615724",
+      "trip_id": "8_17719737",
       "direction_id": "0",
       "headsign": "JAGODNO (P+R)",
       "service_id": "8",
@@ -146640,7 +146640,7 @@
       ]
     },
     {
-      "trip_id": "8_17615725",
+      "trip_id": "8_17719738",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "8",
@@ -146782,8 +146782,8 @@
         },
         {
           "stop_sequence": 15,
-          "stop_id": "499",
-          "stop_name": "Piłsudskiego",
+          "stop_id": "6173",
+          "stop_name": "Piłsudskiego (Sąd Apelacyjny)",
           "arrival_time": "11:20:00",
           "departure_time": "11:20:00",
           "lat": 51.10203792,
@@ -147044,7 +147044,7 @@
       ]
     },
     {
-      "trip_id": "8_17615726",
+      "trip_id": "8_17719739",
       "direction_id": "0",
       "headsign": "JAGODNO (P+R)",
       "service_id": "8",
@@ -147466,7 +147466,7 @@
       ]
     },
     {
-      "trip_id": "8_17615727",
+      "trip_id": "8_17719740",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "8",
@@ -147608,8 +147608,8 @@
         },
         {
           "stop_sequence": 15,
-          "stop_id": "499",
-          "stop_name": "Piłsudskiego",
+          "stop_id": "6173",
+          "stop_name": "Piłsudskiego (Sąd Apelacyjny)",
           "arrival_time": "14:08:00",
           "departure_time": "14:08:00",
           "lat": 51.10203792,
@@ -147870,7 +147870,7 @@
       ]
     },
     {
-      "trip_id": "8_17615728",
+      "trip_id": "8_17719741",
       "direction_id": "0",
       "headsign": "JAGODNO (P+R)",
       "service_id": "8",
@@ -148292,7 +148292,7 @@
       ]
     },
     {
-      "trip_id": "8_17615729",
+      "trip_id": "8_17719742",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "8",
@@ -148434,8 +148434,8 @@
         },
         {
           "stop_sequence": 15,
-          "stop_id": "499",
-          "stop_name": "Piłsudskiego",
+          "stop_id": "6173",
+          "stop_name": "Piłsudskiego (Sąd Apelacyjny)",
           "arrival_time": "16:51:00",
           "departure_time": "16:51:00",
           "lat": 51.10203792,
@@ -148696,7 +148696,7 @@
       ]
     },
     {
-      "trip_id": "8_17615730",
+      "trip_id": "8_17719743",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "8",
@@ -148974,7 +148974,7 @@
       ]
     },
     {
-      "trip_id": "8_17615732",
+      "trip_id": "8_17719745",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "8",
@@ -149116,8 +149116,8 @@
         },
         {
           "stop_sequence": 15,
-          "stop_id": "499",
-          "stop_name": "Piłsudskiego",
+          "stop_id": "6173",
+          "stop_name": "Piłsudskiego (Sąd Apelacyjny)",
           "arrival_time": "05:39:00",
           "departure_time": "05:39:00",
           "lat": 51.10203792,
@@ -149378,7 +149378,7 @@
       ]
     },
     {
-      "trip_id": "8_17615733",
+      "trip_id": "8_17719746",
       "direction_id": "0",
       "headsign": "JAGODNO (P+R)",
       "service_id": "8",
@@ -149800,7 +149800,7 @@
       ]
     },
     {
-      "trip_id": "8_17615734",
+      "trip_id": "8_17719747",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "8",
@@ -149942,8 +149942,8 @@
         },
         {
           "stop_sequence": 15,
-          "stop_id": "499",
-          "stop_name": "Piłsudskiego",
+          "stop_id": "6173",
+          "stop_name": "Piłsudskiego (Sąd Apelacyjny)",
           "arrival_time": "08:18:00",
           "departure_time": "08:18:00",
           "lat": 51.10203792,
@@ -150204,7 +150204,7 @@
       ]
     },
     {
-      "trip_id": "8_17615735",
+      "trip_id": "8_17719748",
       "direction_id": "0",
       "headsign": "JAGODNO (P+R)",
       "service_id": "8",
@@ -150626,7 +150626,7 @@
       ]
     },
     {
-      "trip_id": "8_17615736",
+      "trip_id": "8_17719749",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "8",
@@ -150768,8 +150768,8 @@
         },
         {
           "stop_sequence": 15,
-          "stop_id": "499",
-          "stop_name": "Piłsudskiego",
+          "stop_id": "6173",
+          "stop_name": "Piłsudskiego (Sąd Apelacyjny)",
           "arrival_time": "11:05:00",
           "departure_time": "11:05:00",
           "lat": 51.10203792,
@@ -151030,7 +151030,7 @@
       ]
     },
     {
-      "trip_id": "8_17615737",
+      "trip_id": "8_17719750",
       "direction_id": "0",
       "headsign": "JAGODNO (P+R)",
       "service_id": "8",
@@ -151452,7 +151452,7 @@
       ]
     },
     {
-      "trip_id": "8_17615738",
+      "trip_id": "8_17719751",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "8",
@@ -151594,8 +151594,8 @@
         },
         {
           "stop_sequence": 15,
-          "stop_id": "499",
-          "stop_name": "Piłsudskiego",
+          "stop_id": "6173",
+          "stop_name": "Piłsudskiego (Sąd Apelacyjny)",
           "arrival_time": "13:54:00",
           "departure_time": "13:54:00",
           "lat": 51.10203792,
@@ -151856,7 +151856,7 @@
       ]
     },
     {
-      "trip_id": "8_17615739",
+      "trip_id": "8_17719752",
       "direction_id": "0",
       "headsign": "JAGODNO (P+R)",
       "service_id": "8",
@@ -152278,7 +152278,7 @@
       ]
     },
     {
-      "trip_id": "8_17615740",
+      "trip_id": "8_17719753",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "8",
@@ -152420,8 +152420,8 @@
         },
         {
           "stop_sequence": 15,
-          "stop_id": "499",
-          "stop_name": "Piłsudskiego",
+          "stop_id": "6173",
+          "stop_name": "Piłsudskiego (Sąd Apelacyjny)",
           "arrival_time": "16:36:00",
           "departure_time": "16:36:00",
           "lat": 51.10203792,
@@ -152682,7 +152682,7 @@
       ]
     },
     {
-      "trip_id": "8_17615741",
+      "trip_id": "8_17719754",
       "direction_id": "0",
       "headsign": "JAGODNO (P+R)",
       "service_id": "8",
@@ -153104,7 +153104,7 @@
       ]
     },
     {
-      "trip_id": "8_17615742",
+      "trip_id": "8_17719755",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "8",
@@ -153246,8 +153246,8 @@
         },
         {
           "stop_sequence": 15,
-          "stop_id": "499",
-          "stop_name": "Piłsudskiego",
+          "stop_id": "6173",
+          "stop_name": "Piłsudskiego (Sąd Apelacyjny)",
           "arrival_time": "19:53:00",
           "departure_time": "19:53:00",
           "lat": 51.10203792,
@@ -153508,7 +153508,7 @@
       ]
     },
     {
-      "trip_id": "8_17615743",
+      "trip_id": "8_17719756",
       "direction_id": "0",
       "headsign": "JAGODNO (P+R)",
       "service_id": "8",
@@ -153930,7 +153930,7 @@
       ]
     },
     {
-      "trip_id": "8_17615744",
+      "trip_id": "8_17719757",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "8",
@@ -154072,8 +154072,8 @@
         },
         {
           "stop_sequence": 15,
-          "stop_id": "499",
-          "stop_name": "Piłsudskiego",
+          "stop_id": "6173",
+          "stop_name": "Piłsudskiego (Sąd Apelacyjny)",
           "arrival_time": "22:51:00",
           "departure_time": "22:51:00",
           "lat": 51.10203792,
@@ -154334,7 +154334,7 @@
       ]
     },
     {
-      "trip_id": "8_17615745",
+      "trip_id": "8_17719758",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "8",
@@ -154612,7 +154612,7 @@
       ]
     },
     {
-      "trip_id": "8_17615747",
+      "trip_id": "8_17719760",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "8",
@@ -154754,8 +154754,8 @@
         },
         {
           "stop_sequence": 15,
-          "stop_id": "499",
-          "stop_name": "Piłsudskiego",
+          "stop_id": "6173",
+          "stop_name": "Piłsudskiego (Sąd Apelacyjny)",
           "arrival_time": "05:10:00",
           "departure_time": "05:10:00",
           "lat": 51.10203792,
@@ -155016,7 +155016,7 @@
       ]
     },
     {
-      "trip_id": "8_17615748",
+      "trip_id": "8_17719761",
       "direction_id": "0",
       "headsign": "JAGODNO (P+R)",
       "service_id": "8",
@@ -155438,7 +155438,7 @@
       ]
     },
     {
-      "trip_id": "8_17615749",
+      "trip_id": "8_17719762",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "8",
@@ -155580,8 +155580,8 @@
         },
         {
           "stop_sequence": 15,
-          "stop_id": "499",
-          "stop_name": "Piłsudskiego",
+          "stop_id": "6173",
+          "stop_name": "Piłsudskiego (Sąd Apelacyjny)",
           "arrival_time": "07:47:00",
           "departure_time": "07:47:00",
           "lat": 51.10203792,
@@ -155842,7 +155842,7 @@
       ]
     },
     {
-      "trip_id": "8_17615750",
+      "trip_id": "8_17719763",
       "direction_id": "0",
       "headsign": "JAGODNO (P+R)",
       "service_id": "8",
@@ -156264,7 +156264,7 @@
       ]
     },
     {
-      "trip_id": "8_17615751",
+      "trip_id": "8_17719764",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "8",
@@ -156406,8 +156406,8 @@
         },
         {
           "stop_sequence": 15,
-          "stop_id": "499",
-          "stop_name": "Piłsudskiego",
+          "stop_id": "6173",
+          "stop_name": "Piłsudskiego (Sąd Apelacyjny)",
           "arrival_time": "10:35:00",
           "departure_time": "10:35:00",
           "lat": 51.10203792,
@@ -156668,7 +156668,7 @@
       ]
     },
     {
-      "trip_id": "8_17615752",
+      "trip_id": "8_17719765",
       "direction_id": "0",
       "headsign": "JAGODNO (P+R)",
       "service_id": "8",
@@ -157090,7 +157090,7 @@
       ]
     },
     {
-      "trip_id": "8_17615753",
+      "trip_id": "8_17719766",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "8",
@@ -157232,8 +157232,8 @@
         },
         {
           "stop_sequence": 15,
-          "stop_id": "499",
-          "stop_name": "Piłsudskiego",
+          "stop_id": "6173",
+          "stop_name": "Piłsudskiego (Sąd Apelacyjny)",
           "arrival_time": "13:19:00",
           "departure_time": "13:19:00",
           "lat": 51.10203792,
@@ -157494,7 +157494,7 @@
       ]
     },
     {
-      "trip_id": "8_17615754",
+      "trip_id": "8_17719767",
       "direction_id": "0",
       "headsign": "JAGODNO (P+R)",
       "service_id": "8",
@@ -157916,7 +157916,7 @@
       ]
     },
     {
-      "trip_id": "8_17615755",
+      "trip_id": "8_17719768",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "8",
@@ -158058,8 +158058,8 @@
         },
         {
           "stop_sequence": 15,
-          "stop_id": "499",
-          "stop_name": "Piłsudskiego",
+          "stop_id": "6173",
+          "stop_name": "Piłsudskiego (Sąd Apelacyjny)",
           "arrival_time": "16:06:00",
           "departure_time": "16:06:00",
           "lat": 51.10203792,
@@ -158320,7 +158320,7 @@
       ]
     },
     {
-      "trip_id": "8_17615756",
+      "trip_id": "8_17719769",
       "direction_id": "0",
       "headsign": "JAGODNO (P+R)",
       "service_id": "8",
@@ -158742,7 +158742,7 @@
       ]
     },
     {
-      "trip_id": "8_17615759",
+      "trip_id": "8_17719772",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "8",
@@ -158884,8 +158884,8 @@
         },
         {
           "stop_sequence": 15,
-          "stop_id": "499",
-          "stop_name": "Piłsudskiego",
+          "stop_id": "6173",
+          "stop_name": "Piłsudskiego (Sąd Apelacyjny)",
           "arrival_time": "07:01:00",
           "departure_time": "07:01:00",
           "lat": 51.10203792,
@@ -159146,7 +159146,7 @@
       ]
     },
     {
-      "trip_id": "8_17615760",
+      "trip_id": "8_17719773",
       "direction_id": "0",
       "headsign": "JAGODNO (P+R)",
       "service_id": "8",
@@ -159568,7 +159568,7 @@
       ]
     },
     {
-      "trip_id": "8_17615761",
+      "trip_id": "8_17719774",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "8",
@@ -159710,8 +159710,8 @@
         },
         {
           "stop_sequence": 15,
-          "stop_id": "499",
-          "stop_name": "Piłsudskiego",
+          "stop_id": "6173",
+          "stop_name": "Piłsudskiego (Sąd Apelacyjny)",
           "arrival_time": "09:50:00",
           "departure_time": "09:50:00",
           "lat": 51.10203792,
@@ -159972,7 +159972,7 @@
       ]
     },
     {
-      "trip_id": "8_17615762",
+      "trip_id": "8_17719775",
       "direction_id": "0",
       "headsign": "JAGODNO (P+R)",
       "service_id": "8",
@@ -160394,7 +160394,7 @@
       ]
     },
     {
-      "trip_id": "8_17615763",
+      "trip_id": "8_17719776",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "8",
@@ -160536,8 +160536,8 @@
         },
         {
           "stop_sequence": 15,
-          "stop_id": "499",
-          "stop_name": "Piłsudskiego",
+          "stop_id": "6173",
+          "stop_name": "Piłsudskiego (Sąd Apelacyjny)",
           "arrival_time": "12:35:00",
           "departure_time": "12:35:00",
           "lat": 51.10203792,
@@ -160798,7 +160798,7 @@
       ]
     },
     {
-      "trip_id": "8_17615764",
+      "trip_id": "8_17719777",
       "direction_id": "0",
       "headsign": "JAGODNO (P+R)",
       "service_id": "8",
@@ -161220,7 +161220,7 @@
       ]
     },
     {
-      "trip_id": "8_17615765",
+      "trip_id": "8_17719778",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "8",
@@ -161362,8 +161362,8 @@
         },
         {
           "stop_sequence": 15,
-          "stop_id": "499",
-          "stop_name": "Piłsudskiego",
+          "stop_id": "6173",
+          "stop_name": "Piłsudskiego (Sąd Apelacyjny)",
           "arrival_time": "15:21:00",
           "departure_time": "15:21:00",
           "lat": 51.10203792,
@@ -161624,7 +161624,7 @@
       ]
     },
     {
-      "trip_id": "8_17615766",
+      "trip_id": "8_17719779",
       "direction_id": "0",
       "headsign": "JAGODNO (P+R)",
       "service_id": "8",
@@ -162046,7 +162046,7 @@
       ]
     },
     {
-      "trip_id": "8_17615767",
+      "trip_id": "8_17719780",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "8",
@@ -162188,8 +162188,8 @@
         },
         {
           "stop_sequence": 15,
-          "stop_id": "499",
-          "stop_name": "Piłsudskiego",
+          "stop_id": "6173",
+          "stop_name": "Piłsudskiego (Sąd Apelacyjny)",
           "arrival_time": "18:25:00",
           "departure_time": "18:25:00",
           "lat": 51.10203792,
@@ -162450,7 +162450,7 @@
       ]
     },
     {
-      "trip_id": "8_17615768",
+      "trip_id": "8_17719781",
       "direction_id": "0",
       "headsign": "JAGODNO (P+R)",
       "service_id": "8",
@@ -162872,7 +162872,7 @@
       ]
     },
     {
-      "trip_id": "8_17615771",
+      "trip_id": "8_17719784",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "8",
@@ -163014,8 +163014,8 @@
         },
         {
           "stop_sequence": 15,
-          "stop_id": "499",
-          "stop_name": "Piłsudskiego",
+          "stop_id": "6173",
+          "stop_name": "Piłsudskiego (Sąd Apelacyjny)",
           "arrival_time": "06:21:00",
           "departure_time": "06:21:00",
           "lat": 51.10203792,
@@ -163276,7 +163276,7 @@
       ]
     },
     {
-      "trip_id": "8_17615772",
+      "trip_id": "8_17719785",
       "direction_id": "0",
       "headsign": "JAGODNO (P+R)",
       "service_id": "8",
@@ -163698,7 +163698,7 @@
       ]
     },
     {
-      "trip_id": "8_17615773",
+      "trip_id": "8_17719786",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "8",
@@ -163840,8 +163840,8 @@
         },
         {
           "stop_sequence": 15,
-          "stop_id": "499",
-          "stop_name": "Piłsudskiego",
+          "stop_id": "6173",
+          "stop_name": "Piłsudskiego (Sąd Apelacyjny)",
           "arrival_time": "09:03:00",
           "departure_time": "09:03:00",
           "lat": 51.10203792,
@@ -164102,7 +164102,7 @@
       ]
     },
     {
-      "trip_id": "8_17615774",
+      "trip_id": "8_17719787",
       "direction_id": "0",
       "headsign": "JAGODNO (P+R)",
       "service_id": "8",
@@ -164524,7 +164524,7 @@
       ]
     },
     {
-      "trip_id": "8_17615775",
+      "trip_id": "8_17719788",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "8",
@@ -164666,8 +164666,8 @@
         },
         {
           "stop_sequence": 15,
-          "stop_id": "499",
-          "stop_name": "Piłsudskiego",
+          "stop_id": "6173",
+          "stop_name": "Piłsudskiego (Sąd Apelacyjny)",
           "arrival_time": "11:50:00",
           "departure_time": "11:50:00",
           "lat": 51.10203792,
@@ -164928,7 +164928,7 @@
       ]
     },
     {
-      "trip_id": "8_17615776",
+      "trip_id": "8_17719789",
       "direction_id": "0",
       "headsign": "JAGODNO (P+R)",
       "service_id": "8",
@@ -165350,7 +165350,7 @@
       ]
     },
     {
-      "trip_id": "8_17615777",
+      "trip_id": "8_17719790",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "8",
@@ -165492,8 +165492,8 @@
         },
         {
           "stop_sequence": 15,
-          "stop_id": "499",
-          "stop_name": "Piłsudskiego",
+          "stop_id": "6173",
+          "stop_name": "Piłsudskiego (Sąd Apelacyjny)",
           "arrival_time": "14:38:00",
           "departure_time": "14:38:00",
           "lat": 51.10203792,
@@ -165754,7 +165754,7 @@
       ]
     },
     {
-      "trip_id": "8_17615778",
+      "trip_id": "8_17719791",
       "direction_id": "0",
       "headsign": "JAGODNO (P+R)",
       "service_id": "8",
@@ -166176,7 +166176,7 @@
       ]
     },
     {
-      "trip_id": "8_17615779",
+      "trip_id": "8_17719792",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "8",
@@ -166318,8 +166318,8 @@
         },
         {
           "stop_sequence": 15,
-          "stop_id": "499",
-          "stop_name": "Piłsudskiego",
+          "stop_id": "6173",
+          "stop_name": "Piłsudskiego (Sąd Apelacyjny)",
           "arrival_time": "17:24:00",
           "departure_time": "17:24:00",
           "lat": 51.10203792,
@@ -166580,7 +166580,7 @@
       ]
     },
     {
-      "trip_id": "8_17615780",
+      "trip_id": "8_17719793",
       "direction_id": "0",
       "headsign": "JAGODNO (P+R)",
       "service_id": "8",
@@ -167002,7 +167002,7 @@
       ]
     },
     {
-      "trip_id": "8_17615781",
+      "trip_id": "8_17719794",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "8",
@@ -167144,8 +167144,8 @@
         },
         {
           "stop_sequence": 15,
-          "stop_id": "499",
-          "stop_name": "Piłsudskiego",
+          "stop_id": "6173",
+          "stop_name": "Piłsudskiego (Sąd Apelacyjny)",
           "arrival_time": "20:51:00",
           "departure_time": "20:51:00",
           "lat": 51.10203792,
@@ -167406,7 +167406,7 @@
       ]
     },
     {
-      "trip_id": "8_17615782",
+      "trip_id": "8_17719795",
       "direction_id": "0",
       "headsign": "JAGODNO (P+R)",
       "service_id": "8",

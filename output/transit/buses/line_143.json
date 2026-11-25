@@ -2,7 +2,7 @@
   "line": "143",
   "trips": [
     {
-      "trip_id": "3_17598004",
+      "trip_id": "3_17702017",
       "direction_id": "0",
       "headsign": "BARTOSZOWICE",
       "service_id": "3",
@@ -172,7 +172,7 @@
       ]
     },
     {
-      "trip_id": "3_17598005",
+      "trip_id": "3_17702018",
       "direction_id": "1",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "3",
@@ -495,7 +495,7 @@
       ]
     },
     {
-      "trip_id": "3_17598006",
+      "trip_id": "3_17702019",
       "direction_id": "0",
       "headsign": "BARTOSZOWICE",
       "service_id": "3",
@@ -800,7 +800,7 @@
       ]
     },
     {
-      "trip_id": "3_17598007",
+      "trip_id": "3_17702020",
       "direction_id": "1",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "3",
@@ -1123,7 +1123,7 @@
       ]
     },
     {
-      "trip_id": "3_17598008",
+      "trip_id": "3_17702021",
       "direction_id": "0",
       "headsign": "BARTOSZOWICE",
       "service_id": "3",
@@ -1428,7 +1428,7 @@
       ]
     },
     {
-      "trip_id": "3_17598009",
+      "trip_id": "3_17702022",
       "direction_id": "1",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "3",
@@ -1751,7 +1751,7 @@
       ]
     },
     {
-      "trip_id": "3_17598010",
+      "trip_id": "3_17702023",
       "direction_id": "0",
       "headsign": "BARTOSZOWICE",
       "service_id": "3",
@@ -2056,7 +2056,7 @@
       ]
     },
     {
-      "trip_id": "3_17598011",
+      "trip_id": "3_17702024",
       "direction_id": "1",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "3",
@@ -2379,7 +2379,7 @@
       ]
     },
     {
-      "trip_id": "3_17598012",
+      "trip_id": "3_17702025",
       "direction_id": "0",
       "headsign": "BARTOSZOWICE",
       "service_id": "3",
@@ -2684,7 +2684,7 @@
       ]
     },
     {
-      "trip_id": "3_17598013",
+      "trip_id": "3_17702026",
       "direction_id": "1",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "3",
@@ -3007,7 +3007,7 @@
       ]
     },
     {
-      "trip_id": "3_17598014",
+      "trip_id": "3_17702027",
       "direction_id": "0",
       "headsign": "BARTOSZOWICE",
       "service_id": "3",
@@ -3312,7 +3312,7 @@
       ]
     },
     {
-      "trip_id": "3_17598015",
+      "trip_id": "3_17702028",
       "direction_id": "1",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "3",
@@ -3635,7 +3635,7 @@
       ]
     },
     {
-      "trip_id": "3_17598016",
+      "trip_id": "3_17702029",
       "direction_id": "0",
       "headsign": "BARTOSZOWICE",
       "service_id": "3",
@@ -3940,7 +3940,7 @@
       ]
     },
     {
-      "trip_id": "3_17598017",
+      "trip_id": "3_17702030",
       "direction_id": "1",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "3",
@@ -4263,7 +4263,7 @@
       ]
     },
     {
-      "trip_id": "3_17598018",
+      "trip_id": "3_17702031",
       "direction_id": "0",
       "headsign": "Zajezdnia TYSKA",
       "service_id": "3",
@@ -4532,7 +4532,7 @@
       ]
     },
     {
-      "trip_id": "3_17598019",
+      "trip_id": "3_17702032",
       "direction_id": "0",
       "headsign": "BARTOSZOWICE",
       "service_id": "3",
@@ -4702,7 +4702,7 @@
       ]
     },
     {
-      "trip_id": "3_17598020",
+      "trip_id": "3_17702033",
       "direction_id": "1",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "3",
@@ -5025,7 +5025,7 @@
       ]
     },
     {
-      "trip_id": "3_17598021",
+      "trip_id": "3_17702034",
       "direction_id": "0",
       "headsign": "BARTOSZOWICE",
       "service_id": "3",
@@ -5330,7 +5330,7 @@
       ]
     },
     {
-      "trip_id": "3_17598022",
+      "trip_id": "3_17702035",
       "direction_id": "1",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "3",
@@ -5653,7 +5653,7 @@
       ]
     },
     {
-      "trip_id": "3_17598023",
+      "trip_id": "3_17702036",
       "direction_id": "0",
       "headsign": "BARTOSZOWICE",
       "service_id": "3",
@@ -5958,7 +5958,7 @@
       ]
     },
     {
-      "trip_id": "3_17598024",
+      "trip_id": "3_17702037",
       "direction_id": "1",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "3",
@@ -6281,7 +6281,7 @@
       ]
     },
     {
-      "trip_id": "3_17598025",
+      "trip_id": "3_17702038",
       "direction_id": "0",
       "headsign": "BARTOSZOWICE",
       "service_id": "3",
@@ -6586,7 +6586,7 @@
       ]
     },
     {
-      "trip_id": "3_17598026",
+      "trip_id": "3_17702039",
       "direction_id": "1",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "3",
@@ -6909,7 +6909,7 @@
       ]
     },
     {
-      "trip_id": "3_17598027",
+      "trip_id": "3_17702040",
       "direction_id": "0",
       "headsign": "BARTOSZOWICE",
       "service_id": "3",
@@ -7214,7 +7214,7 @@
       ]
     },
     {
-      "trip_id": "3_17598028",
+      "trip_id": "3_17702041",
       "direction_id": "1",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "3",
@@ -7537,7 +7537,7 @@
       ]
     },
     {
-      "trip_id": "3_17598029",
+      "trip_id": "3_17702042",
       "direction_id": "0",
       "headsign": "BARTOSZOWICE",
       "service_id": "3",
@@ -7842,7 +7842,7 @@
       ]
     },
     {
-      "trip_id": "3_17598030",
+      "trip_id": "3_17702043",
       "direction_id": "1",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "3",
@@ -8165,7 +8165,7 @@
       ]
     },
     {
-      "trip_id": "3_17598031",
+      "trip_id": "3_17702044",
       "direction_id": "0",
       "headsign": "BARTOSZOWICE",
       "service_id": "3",
@@ -8470,7 +8470,7 @@
       ]
     },
     {
-      "trip_id": "3_17598032",
+      "trip_id": "3_17702045",
       "direction_id": "1",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "3",
@@ -8793,7 +8793,7 @@
       ]
     },
     {
-      "trip_id": "3_17598033",
+      "trip_id": "3_17702046",
       "direction_id": "0",
       "headsign": "BARTOSZOWICE",
       "service_id": "3",
@@ -9098,7 +9098,7 @@
       ]
     },
     {
-      "trip_id": "3_17598034",
+      "trip_id": "3_17702047",
       "direction_id": "1",
       "headsign": "Zajezdnia TYSKA",
       "service_id": "3",
@@ -9313,7 +9313,7 @@
       ]
     },
     {
-      "trip_id": "3_17598035",
+      "trip_id": "3_17702048",
       "direction_id": "1",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "3",
@@ -9600,7 +9600,7 @@
       ]
     },
     {
-      "trip_id": "3_17598036",
+      "trip_id": "3_17702049",
       "direction_id": "0",
       "headsign": "BARTOSZOWICE",
       "service_id": "3",
@@ -9905,7 +9905,7 @@
       ]
     },
     {
-      "trip_id": "3_17598037",
+      "trip_id": "3_17702050",
       "direction_id": "1",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "3",
@@ -10228,7 +10228,7 @@
       ]
     },
     {
-      "trip_id": "3_17598038",
+      "trip_id": "3_17702051",
       "direction_id": "0",
       "headsign": "BARTOSZOWICE",
       "service_id": "3",
@@ -10533,7 +10533,7 @@
       ]
     },
     {
-      "trip_id": "3_17598039",
+      "trip_id": "3_17702052",
       "direction_id": "1",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "3",
@@ -10856,7 +10856,7 @@
       ]
     },
     {
-      "trip_id": "3_17598040",
+      "trip_id": "3_17702053",
       "direction_id": "0",
       "headsign": "BARTOSZOWICE",
       "service_id": "3",
@@ -11161,7 +11161,7 @@
       ]
     },
     {
-      "trip_id": "3_17598041",
+      "trip_id": "3_17702054",
       "direction_id": "1",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "3",
@@ -11484,7 +11484,7 @@
       ]
     },
     {
-      "trip_id": "3_17598042",
+      "trip_id": "3_17702055",
       "direction_id": "0",
       "headsign": "BARTOSZOWICE",
       "service_id": "3",
@@ -11789,7 +11789,7 @@
       ]
     },
     {
-      "trip_id": "3_17598043",
+      "trip_id": "3_17702056",
       "direction_id": "1",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "3",
@@ -12112,7 +12112,7 @@
       ]
     },
     {
-      "trip_id": "3_17598044",
+      "trip_id": "3_17702057",
       "direction_id": "0",
       "headsign": "BARTOSZOWICE",
       "service_id": "3",
@@ -12417,7 +12417,7 @@
       ]
     },
     {
-      "trip_id": "3_17598045",
+      "trip_id": "3_17702058",
       "direction_id": "1",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "3",
@@ -12740,7 +12740,7 @@
       ]
     },
     {
-      "trip_id": "3_17598046",
+      "trip_id": "3_17702059",
       "direction_id": "0",
       "headsign": "BARTOSZOWICE",
       "service_id": "3",
@@ -13045,7 +13045,7 @@
       ]
     },
     {
-      "trip_id": "3_17598047",
+      "trip_id": "3_17702060",
       "direction_id": "1",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "3",
@@ -13368,7 +13368,7 @@
       ]
     },
     {
-      "trip_id": "3_17598048",
+      "trip_id": "3_17702061",
       "direction_id": "0",
       "headsign": "BARTOSZOWICE",
       "service_id": "3",
@@ -13673,7 +13673,7 @@
       ]
     },
     {
-      "trip_id": "3_17598049",
+      "trip_id": "3_17702062",
       "direction_id": "1",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "3",
@@ -13996,7 +13996,7 @@
       ]
     },
     {
-      "trip_id": "3_17598050",
+      "trip_id": "3_17702063",
       "direction_id": "0",
       "headsign": "BARTOSZOWICE",
       "service_id": "3",
@@ -14301,7 +14301,7 @@
       ]
     },
     {
-      "trip_id": "3_17598051",
+      "trip_id": "3_17702064",
       "direction_id": "1",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "3",
@@ -14624,7 +14624,7 @@
       ]
     },
     {
-      "trip_id": "3_17598052",
+      "trip_id": "3_17702065",
       "direction_id": "0",
       "headsign": "BARTOSZOWICE",
       "service_id": "3",
@@ -14929,7 +14929,7 @@
       ]
     },
     {
-      "trip_id": "3_17598053",
+      "trip_id": "3_17702066",
       "direction_id": "1",
       "headsign": "Zajezdnia TYSKA",
       "service_id": "3",
@@ -15144,7 +15144,7 @@
       ]
     },
     {
-      "trip_id": "3_17598054",
+      "trip_id": "3_17702067",
       "direction_id": "0",
       "headsign": "BARTOSZOWICE",
       "service_id": "3",
@@ -15314,7 +15314,7 @@
       ]
     },
     {
-      "trip_id": "3_17598055",
+      "trip_id": "3_17702068",
       "direction_id": "1",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "3",
@@ -15637,7 +15637,7 @@
       ]
     },
     {
-      "trip_id": "3_17598056",
+      "trip_id": "3_17702069",
       "direction_id": "0",
       "headsign": "BARTOSZOWICE",
       "service_id": "3",
@@ -15942,7 +15942,7 @@
       ]
     },
     {
-      "trip_id": "3_17598057",
+      "trip_id": "3_17702070",
       "direction_id": "1",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "3",
@@ -16265,7 +16265,7 @@
       ]
     },
     {
-      "trip_id": "3_17598058",
+      "trip_id": "3_17702071",
       "direction_id": "0",
       "headsign": "BARTOSZOWICE",
       "service_id": "3",
@@ -16570,7 +16570,7 @@
       ]
     },
     {
-      "trip_id": "3_17598059",
+      "trip_id": "3_17702072",
       "direction_id": "1",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "3",
@@ -16893,7 +16893,7 @@
       ]
     },
     {
-      "trip_id": "3_17598060",
+      "trip_id": "3_17702073",
       "direction_id": "0",
       "headsign": "BARTOSZOWICE",
       "service_id": "3",
@@ -17198,7 +17198,7 @@
       ]
     },
     {
-      "trip_id": "3_17598061",
+      "trip_id": "3_17702074",
       "direction_id": "1",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "3",
@@ -17521,7 +17521,7 @@
       ]
     },
     {
-      "trip_id": "3_17598062",
+      "trip_id": "3_17702075",
       "direction_id": "0",
       "headsign": "BARTOSZOWICE",
       "service_id": "3",
@@ -17826,7 +17826,7 @@
       ]
     },
     {
-      "trip_id": "3_17598063",
+      "trip_id": "3_17702076",
       "direction_id": "1",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "3",
@@ -18149,7 +18149,7 @@
       ]
     },
     {
-      "trip_id": "3_17598064",
+      "trip_id": "3_17702077",
       "direction_id": "0",
       "headsign": "BARTOSZOWICE",
       "service_id": "3",
@@ -18454,7 +18454,7 @@
       ]
     },
     {
-      "trip_id": "3_17598065",
+      "trip_id": "3_17702078",
       "direction_id": "1",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "3",
@@ -18777,7 +18777,7 @@
       ]
     },
     {
-      "trip_id": "3_17598066",
+      "trip_id": "3_17702079",
       "direction_id": "0",
       "headsign": "BARTOSZOWICE",
       "service_id": "3",
@@ -19082,7 +19082,7 @@
       ]
     },
     {
-      "trip_id": "3_17598067",
+      "trip_id": "3_17702080",
       "direction_id": "1",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "3",
@@ -19405,7 +19405,7 @@
       ]
     },
     {
-      "trip_id": "3_17598068",
+      "trip_id": "3_17702081",
       "direction_id": "0",
       "headsign": "BARTOSZOWICE",
       "service_id": "3",
@@ -19710,7 +19710,7 @@
       ]
     },
     {
-      "trip_id": "3_17598069",
+      "trip_id": "3_17702082",
       "direction_id": "1",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "3",
@@ -20033,7 +20033,7 @@
       ]
     },
     {
-      "trip_id": "3_17598070",
+      "trip_id": "3_17702083",
       "direction_id": "0",
       "headsign": "BARTOSZOWICE",
       "service_id": "3",
@@ -20338,7 +20338,7 @@
       ]
     },
     {
-      "trip_id": "3_17598071",
+      "trip_id": "3_17702084",
       "direction_id": "1",
       "headsign": "Zajezdnia TYSKA",
       "service_id": "3",
@@ -20553,7 +20553,7 @@
       ]
     },
     {
-      "trip_id": "3_17598072",
+      "trip_id": "3_17702085",
       "direction_id": "0",
       "headsign": "BARTOSZOWICE",
       "service_id": "3",
@@ -20723,7 +20723,7 @@
       ]
     },
     {
-      "trip_id": "3_17598073",
+      "trip_id": "3_17702086",
       "direction_id": "1",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "3",
@@ -21046,7 +21046,7 @@
       ]
     },
     {
-      "trip_id": "3_17598074",
+      "trip_id": "3_17702087",
       "direction_id": "0",
       "headsign": "BARTOSZOWICE",
       "service_id": "3",
@@ -21351,7 +21351,7 @@
       ]
     },
     {
-      "trip_id": "3_17598075",
+      "trip_id": "3_17702088",
       "direction_id": "1",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "3",
@@ -21674,7 +21674,7 @@
       ]
     },
     {
-      "trip_id": "3_17598076",
+      "trip_id": "3_17702089",
       "direction_id": "0",
       "headsign": "BARTOSZOWICE",
       "service_id": "3",
@@ -21979,7 +21979,7 @@
       ]
     },
     {
-      "trip_id": "3_17598077",
+      "trip_id": "3_17702090",
       "direction_id": "1",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "3",
@@ -22302,7 +22302,7 @@
       ]
     },
     {
-      "trip_id": "3_17598078",
+      "trip_id": "3_17702091",
       "direction_id": "0",
       "headsign": "BARTOSZOWICE",
       "service_id": "3",
@@ -22607,7 +22607,7 @@
       ]
     },
     {
-      "trip_id": "3_17598079",
+      "trip_id": "3_17702092",
       "direction_id": "1",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "3",
@@ -22930,7 +22930,7 @@
       ]
     },
     {
-      "trip_id": "3_17598080",
+      "trip_id": "3_17702093",
       "direction_id": "0",
       "headsign": "BARTOSZOWICE",
       "service_id": "3",
@@ -23235,7 +23235,7 @@
       ]
     },
     {
-      "trip_id": "3_17598081",
+      "trip_id": "3_17702094",
       "direction_id": "1",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "3",
@@ -23558,7 +23558,7 @@
       ]
     },
     {
-      "trip_id": "3_17598082",
+      "trip_id": "3_17702095",
       "direction_id": "0",
       "headsign": "BARTOSZOWICE",
       "service_id": "3",
@@ -23863,7 +23863,7 @@
       ]
     },
     {
-      "trip_id": "3_17598083",
+      "trip_id": "3_17702096",
       "direction_id": "1",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "3",
@@ -24186,7 +24186,7 @@
       ]
     },
     {
-      "trip_id": "3_17598084",
+      "trip_id": "3_17702097",
       "direction_id": "0",
       "headsign": "BARTOSZOWICE",
       "service_id": "3",
@@ -24491,7 +24491,7 @@
       ]
     },
     {
-      "trip_id": "3_17598085",
+      "trip_id": "3_17702098",
       "direction_id": "1",
       "headsign": "Zajezdnia TYSKA",
       "service_id": "3",
@@ -24706,7 +24706,7 @@
       ]
     },
     {
-      "trip_id": "3_17599240",
+      "trip_id": "3_17703253",
       "direction_id": "0",
       "headsign": "BARTOSZOWICE",
       "service_id": "3",
@@ -24876,7 +24876,7 @@
       ]
     },
     {
-      "trip_id": "3_17599241",
+      "trip_id": "3_17703254",
       "direction_id": "1",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "3",
@@ -25199,7 +25199,7 @@
       ]
     },
     {
-      "trip_id": "3_17599242",
+      "trip_id": "3_17703255",
       "direction_id": "0",
       "headsign": "BARTOSZOWICE",
       "service_id": "3",
@@ -25504,7 +25504,7 @@
       ]
     },
     {
-      "trip_id": "3_17599243",
+      "trip_id": "3_17703256",
       "direction_id": "1",
       "headsign": "PETRUSEWICZA",
       "service_id": "3",
@@ -25719,7 +25719,7 @@
       ]
     },
     {
-      "trip_id": "4_17602443",
+      "trip_id": "4_17706456",
       "direction_id": "0",
       "headsign": "BARTOSZOWICE",
       "service_id": "4",
@@ -25889,7 +25889,7 @@
       ]
     },
     {
-      "trip_id": "4_17602444",
+      "trip_id": "4_17706457",
       "direction_id": "1",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "4",
@@ -26212,7 +26212,7 @@
       ]
     },
     {
-      "trip_id": "4_17602445",
+      "trip_id": "4_17706458",
       "direction_id": "0",
       "headsign": "BARTOSZOWICE",
       "service_id": "4",
@@ -26517,7 +26517,7 @@
       ]
     },
     {
-      "trip_id": "4_17602446",
+      "trip_id": "4_17706459",
       "direction_id": "1",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "4",
@@ -26840,7 +26840,7 @@
       ]
     },
     {
-      "trip_id": "4_17602447",
+      "trip_id": "4_17706460",
       "direction_id": "0",
       "headsign": "BARTOSZOWICE",
       "service_id": "4",
@@ -27145,7 +27145,7 @@
       ]
     },
     {
-      "trip_id": "4_17602448",
+      "trip_id": "4_17706461",
       "direction_id": "1",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "4",
@@ -27468,7 +27468,7 @@
       ]
     },
     {
-      "trip_id": "4_17602449",
+      "trip_id": "4_17706462",
       "direction_id": "0",
       "headsign": "BARTOSZOWICE",
       "service_id": "4",
@@ -27773,7 +27773,7 @@
       ]
     },
     {
-      "trip_id": "4_17602450",
+      "trip_id": "4_17706463",
       "direction_id": "1",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "4",
@@ -28096,7 +28096,7 @@
       ]
     },
     {
-      "trip_id": "4_17602451",
+      "trip_id": "4_17706464",
       "direction_id": "0",
       "headsign": "BARTOSZOWICE",
       "service_id": "4",
@@ -28401,7 +28401,7 @@
       ]
     },
     {
-      "trip_id": "4_17602452",
+      "trip_id": "4_17706465",
       "direction_id": "1",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "4",
@@ -28724,7 +28724,7 @@
       ]
     },
     {
-      "trip_id": "4_17602453",
+      "trip_id": "4_17706466",
       "direction_id": "0",
       "headsign": "BARTOSZOWICE",
       "service_id": "4",
@@ -29029,7 +29029,7 @@
       ]
     },
     {
-      "trip_id": "4_17602454",
+      "trip_id": "4_17706467",
       "direction_id": "1",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "4",
@@ -29352,7 +29352,7 @@
       ]
     },
     {
-      "trip_id": "4_17602455",
+      "trip_id": "4_17706468",
       "direction_id": "0",
       "headsign": "BARTOSZOWICE",
       "service_id": "4",
@@ -29657,7 +29657,7 @@
       ]
     },
     {
-      "trip_id": "4_17602456",
+      "trip_id": "4_17706469",
       "direction_id": "1",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "4",
@@ -29980,7 +29980,7 @@
       ]
     },
     {
-      "trip_id": "4_17602457",
+      "trip_id": "4_17706470",
       "direction_id": "0",
       "headsign": "Zajezdnia TYSKA",
       "service_id": "4",
@@ -30249,7 +30249,7 @@
       ]
     },
     {
-      "trip_id": "4_17602458",
+      "trip_id": "4_17706471",
       "direction_id": "0",
       "headsign": "BARTOSZOWICE",
       "service_id": "4",
@@ -30419,7 +30419,7 @@
       ]
     },
     {
-      "trip_id": "4_17602459",
+      "trip_id": "4_17706472",
       "direction_id": "1",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "4",
@@ -30742,7 +30742,7 @@
       ]
     },
     {
-      "trip_id": "4_17602460",
+      "trip_id": "4_17706473",
       "direction_id": "0",
       "headsign": "BARTOSZOWICE",
       "service_id": "4",
@@ -31047,7 +31047,7 @@
       ]
     },
     {
-      "trip_id": "4_17602461",
+      "trip_id": "4_17706474",
       "direction_id": "1",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "4",
@@ -31370,7 +31370,7 @@
       ]
     },
     {
-      "trip_id": "4_17602462",
+      "trip_id": "4_17706475",
       "direction_id": "0",
       "headsign": "BARTOSZOWICE",
       "service_id": "4",
@@ -31675,7 +31675,7 @@
       ]
     },
     {
-      "trip_id": "4_17602463",
+      "trip_id": "4_17706476",
       "direction_id": "1",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "4",
@@ -31998,7 +31998,7 @@
       ]
     },
     {
-      "trip_id": "4_17602464",
+      "trip_id": "4_17706477",
       "direction_id": "0",
       "headsign": "BARTOSZOWICE",
       "service_id": "4",
@@ -32303,7 +32303,7 @@
       ]
     },
     {
-      "trip_id": "4_17602465",
+      "trip_id": "4_17706478",
       "direction_id": "1",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "4",
@@ -32626,7 +32626,7 @@
       ]
     },
     {
-      "trip_id": "4_17602466",
+      "trip_id": "4_17706479",
       "direction_id": "0",
       "headsign": "BARTOSZOWICE",
       "service_id": "4",
@@ -32931,7 +32931,7 @@
       ]
     },
     {
-      "trip_id": "4_17602467",
+      "trip_id": "4_17706480",
       "direction_id": "1",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "4",
@@ -33254,7 +33254,7 @@
       ]
     },
     {
-      "trip_id": "4_17602468",
+      "trip_id": "4_17706481",
       "direction_id": "0",
       "headsign": "BARTOSZOWICE",
       "service_id": "4",
@@ -33559,7 +33559,7 @@
       ]
     },
     {
-      "trip_id": "4_17602469",
+      "trip_id": "4_17706482",
       "direction_id": "1",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "4",
@@ -33882,7 +33882,7 @@
       ]
     },
     {
-      "trip_id": "4_17602470",
+      "trip_id": "4_17706483",
       "direction_id": "0",
       "headsign": "BARTOSZOWICE",
       "service_id": "4",
@@ -34187,7 +34187,7 @@
       ]
     },
     {
-      "trip_id": "4_17602471",
+      "trip_id": "4_17706484",
       "direction_id": "1",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "4",
@@ -34510,7 +34510,7 @@
       ]
     },
     {
-      "trip_id": "4_17602472",
+      "trip_id": "4_17706485",
       "direction_id": "0",
       "headsign": "BARTOSZOWICE",
       "service_id": "4",
@@ -34815,7 +34815,7 @@
       ]
     },
     {
-      "trip_id": "4_17602473",
+      "trip_id": "4_17706486",
       "direction_id": "1",
       "headsign": "Zajezdnia TYSKA",
       "service_id": "4",
@@ -35030,7 +35030,7 @@
       ]
     },
     {
-      "trip_id": "4_17602474",
+      "trip_id": "4_17706487",
       "direction_id": "0",
       "headsign": "BARTOSZOWICE",
       "service_id": "4",
@@ -35200,7 +35200,7 @@
       ]
     },
     {
-      "trip_id": "4_17602475",
+      "trip_id": "4_17706488",
       "direction_id": "1",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "4",
@@ -35523,7 +35523,7 @@
       ]
     },
     {
-      "trip_id": "4_17602476",
+      "trip_id": "4_17706489",
       "direction_id": "0",
       "headsign": "BARTOSZOWICE",
       "service_id": "4",
@@ -35828,7 +35828,7 @@
       ]
     },
     {
-      "trip_id": "4_17602477",
+      "trip_id": "4_17706490",
       "direction_id": "1",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "4",
@@ -36151,7 +36151,7 @@
       ]
     },
     {
-      "trip_id": "4_17602478",
+      "trip_id": "4_17706491",
       "direction_id": "0",
       "headsign": "BARTOSZOWICE",
       "service_id": "4",
@@ -36456,7 +36456,7 @@
       ]
     },
     {
-      "trip_id": "4_17602479",
+      "trip_id": "4_17706492",
       "direction_id": "1",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "4",
@@ -36779,7 +36779,7 @@
       ]
     },
     {
-      "trip_id": "4_17602480",
+      "trip_id": "4_17706493",
       "direction_id": "0",
       "headsign": "BARTOSZOWICE",
       "service_id": "4",
@@ -37084,7 +37084,7 @@
       ]
     },
     {
-      "trip_id": "4_17602481",
+      "trip_id": "4_17706494",
       "direction_id": "1",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "4",
@@ -37407,7 +37407,7 @@
       ]
     },
     {
-      "trip_id": "4_17602482",
+      "trip_id": "4_17706495",
       "direction_id": "0",
       "headsign": "BARTOSZOWICE",
       "service_id": "4",
@@ -37712,7 +37712,7 @@
       ]
     },
     {
-      "trip_id": "4_17602483",
+      "trip_id": "4_17706496",
       "direction_id": "1",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "4",
@@ -38035,7 +38035,7 @@
       ]
     },
     {
-      "trip_id": "4_17602484",
+      "trip_id": "4_17706497",
       "direction_id": "0",
       "headsign": "BARTOSZOWICE",
       "service_id": "4",
@@ -38340,7 +38340,7 @@
       ]
     },
     {
-      "trip_id": "4_17602485",
+      "trip_id": "4_17706498",
       "direction_id": "1",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "4",
@@ -38663,7 +38663,7 @@
       ]
     },
     {
-      "trip_id": "4_17602486",
+      "trip_id": "4_17706499",
       "direction_id": "0",
       "headsign": "BARTOSZOWICE",
       "service_id": "4",
@@ -38968,7 +38968,7 @@
       ]
     },
     {
-      "trip_id": "4_17602487",
+      "trip_id": "4_17706500",
       "direction_id": "1",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "4",
@@ -39291,7 +39291,7 @@
       ]
     },
     {
-      "trip_id": "4_17602488",
+      "trip_id": "4_17706501",
       "direction_id": "0",
       "headsign": "BARTOSZOWICE",
       "service_id": "4",
@@ -39596,7 +39596,7 @@
       ]
     },
     {
-      "trip_id": "4_17602489",
+      "trip_id": "4_17706502",
       "direction_id": "1",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "4",
@@ -39919,7 +39919,7 @@
       ]
     },
     {
-      "trip_id": "4_17602490",
+      "trip_id": "4_17706503",
       "direction_id": "0",
       "headsign": "BARTOSZOWICE",
       "service_id": "4",
@@ -40224,7 +40224,7 @@
       ]
     },
     {
-      "trip_id": "4_17602491",
+      "trip_id": "4_17706504",
       "direction_id": "1",
       "headsign": "Zajezdnia TYSKA",
       "service_id": "4",
@@ -40439,7 +40439,7 @@
       ]
     },
     {
-      "trip_id": "4_17602492",
+      "trip_id": "4_17706505",
       "direction_id": "0",
       "headsign": "BARTOSZOWICE",
       "service_id": "4",
@@ -40609,7 +40609,7 @@
       ]
     },
     {
-      "trip_id": "4_17602493",
+      "trip_id": "4_17706506",
       "direction_id": "1",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "4",
@@ -40932,7 +40932,7 @@
       ]
     },
     {
-      "trip_id": "4_17602494",
+      "trip_id": "4_17706507",
       "direction_id": "0",
       "headsign": "BARTOSZOWICE",
       "service_id": "4",
@@ -41237,7 +41237,7 @@
       ]
     },
     {
-      "trip_id": "4_17602495",
+      "trip_id": "4_17706508",
       "direction_id": "1",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "4",
@@ -41560,7 +41560,7 @@
       ]
     },
     {
-      "trip_id": "4_17602496",
+      "trip_id": "4_17706509",
       "direction_id": "0",
       "headsign": "BARTOSZOWICE",
       "service_id": "4",
@@ -41865,7 +41865,7 @@
       ]
     },
     {
-      "trip_id": "4_17602497",
+      "trip_id": "4_17706510",
       "direction_id": "1",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "4",
@@ -42188,7 +42188,7 @@
       ]
     },
     {
-      "trip_id": "4_17602498",
+      "trip_id": "4_17706511",
       "direction_id": "0",
       "headsign": "BARTOSZOWICE",
       "service_id": "4",
@@ -42493,7 +42493,7 @@
       ]
     },
     {
-      "trip_id": "4_17602499",
+      "trip_id": "4_17706512",
       "direction_id": "1",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "4",
@@ -42816,7 +42816,7 @@
       ]
     },
     {
-      "trip_id": "4_17602500",
+      "trip_id": "4_17706513",
       "direction_id": "0",
       "headsign": "BARTOSZOWICE",
       "service_id": "4",
@@ -43121,7 +43121,7 @@
       ]
     },
     {
-      "trip_id": "4_17602501",
+      "trip_id": "4_17706514",
       "direction_id": "1",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "4",
@@ -43444,7 +43444,7 @@
       ]
     },
     {
-      "trip_id": "4_17602502",
+      "trip_id": "4_17706515",
       "direction_id": "0",
       "headsign": "BARTOSZOWICE",
       "service_id": "4",
@@ -43749,7 +43749,7 @@
       ]
     },
     {
-      "trip_id": "4_17602503",
+      "trip_id": "4_17706516",
       "direction_id": "1",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "4",
@@ -44072,7 +44072,7 @@
       ]
     },
     {
-      "trip_id": "4_17602504",
+      "trip_id": "4_17706517",
       "direction_id": "0",
       "headsign": "BARTOSZOWICE",
       "service_id": "4",
@@ -44377,7 +44377,7 @@
       ]
     },
     {
-      "trip_id": "4_17602505",
+      "trip_id": "4_17706518",
       "direction_id": "1",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "4",
@@ -44700,7 +44700,7 @@
       ]
     },
     {
-      "trip_id": "4_17602506",
+      "trip_id": "4_17706519",
       "direction_id": "0",
       "headsign": "BARTOSZOWICE",
       "service_id": "4",
@@ -45005,7 +45005,7 @@
       ]
     },
     {
-      "trip_id": "4_17602507",
+      "trip_id": "4_17706520",
       "direction_id": "1",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "4",
@@ -45328,7 +45328,7 @@
       ]
     },
     {
-      "trip_id": "4_17602508",
+      "trip_id": "4_17706521",
       "direction_id": "0",
       "headsign": "BARTOSZOWICE",
       "service_id": "4",
@@ -45633,7 +45633,7 @@
       ]
     },
     {
-      "trip_id": "4_17602509",
+      "trip_id": "4_17706522",
       "direction_id": "1",
       "headsign": "Zajezdnia TYSKA",
       "service_id": "4",
@@ -45848,7 +45848,7 @@
       ]
     },
     {
-      "trip_id": "4_17602510",
+      "trip_id": "4_17706523",
       "direction_id": "1",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "4",
@@ -46135,7 +46135,7 @@
       ]
     },
     {
-      "trip_id": "4_17602511",
+      "trip_id": "4_17706524",
       "direction_id": "0",
       "headsign": "BARTOSZOWICE",
       "service_id": "4",
@@ -46440,7 +46440,7 @@
       ]
     },
     {
-      "trip_id": "4_17602512",
+      "trip_id": "4_17706525",
       "direction_id": "1",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "4",
@@ -46763,7 +46763,7 @@
       ]
     },
     {
-      "trip_id": "4_17602513",
+      "trip_id": "4_17706526",
       "direction_id": "0",
       "headsign": "BARTOSZOWICE",
       "service_id": "4",
@@ -47068,7 +47068,7 @@
       ]
     },
     {
-      "trip_id": "4_17602514",
+      "trip_id": "4_17706527",
       "direction_id": "1",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "4",
@@ -47391,7 +47391,7 @@
       ]
     },
     {
-      "trip_id": "4_17602515",
+      "trip_id": "4_17706528",
       "direction_id": "0",
       "headsign": "BARTOSZOWICE",
       "service_id": "4",
@@ -47696,7 +47696,7 @@
       ]
     },
     {
-      "trip_id": "4_17602516",
+      "trip_id": "4_17706529",
       "direction_id": "1",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "4",
@@ -48019,7 +48019,7 @@
       ]
     },
     {
-      "trip_id": "4_17602517",
+      "trip_id": "4_17706530",
       "direction_id": "0",
       "headsign": "BARTOSZOWICE",
       "service_id": "4",
@@ -48324,7 +48324,7 @@
       ]
     },
     {
-      "trip_id": "4_17602518",
+      "trip_id": "4_17706531",
       "direction_id": "1",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "4",
@@ -48647,7 +48647,7 @@
       ]
     },
     {
-      "trip_id": "4_17602519",
+      "trip_id": "4_17706532",
       "direction_id": "0",
       "headsign": "BARTOSZOWICE",
       "service_id": "4",
@@ -48952,7 +48952,7 @@
       ]
     },
     {
-      "trip_id": "4_17602520",
+      "trip_id": "4_17706533",
       "direction_id": "1",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "4",
@@ -49275,7 +49275,7 @@
       ]
     },
     {
-      "trip_id": "4_17602521",
+      "trip_id": "4_17706534",
       "direction_id": "0",
       "headsign": "BARTOSZOWICE",
       "service_id": "4",
@@ -49580,7 +49580,7 @@
       ]
     },
     {
-      "trip_id": "4_17602522",
+      "trip_id": "4_17706535",
       "direction_id": "1",
       "headsign": "Zajezdnia TYSKA",
       "service_id": "4",
@@ -49795,7 +49795,7 @@
       ]
     },
     {
-      "trip_id": "4_17603649",
+      "trip_id": "4_17707662",
       "direction_id": "0",
       "headsign": "BARTOSZOWICE",
       "service_id": "4",
@@ -49965,7 +49965,7 @@
       ]
     },
     {
-      "trip_id": "4_17603650",
+      "trip_id": "4_17707663",
       "direction_id": "1",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "4",
@@ -50288,7 +50288,7 @@
       ]
     },
     {
-      "trip_id": "4_17603651",
+      "trip_id": "4_17707664",
       "direction_id": "0",
       "headsign": "BARTOSZOWICE",
       "service_id": "4",
@@ -50593,7 +50593,7 @@
       ]
     },
     {
-      "trip_id": "4_17603652",
+      "trip_id": "4_17707665",
       "direction_id": "1",
       "headsign": "PETRUSEWICZA",
       "service_id": "4",
@@ -50808,7 +50808,7 @@
       ]
     },
     {
-      "trip_id": "6_17608131",
+      "trip_id": "6_17712144",
       "direction_id": "0",
       "headsign": "BARTOSZOWICE",
       "service_id": "6",
@@ -50978,7 +50978,7 @@
       ]
     },
     {
-      "trip_id": "6_17608132",
+      "trip_id": "6_17712145",
       "direction_id": "1",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "6",
@@ -51319,7 +51319,7 @@
       ]
     },
     {
-      "trip_id": "6_17608133",
+      "trip_id": "6_17712146",
       "direction_id": "0",
       "headsign": "BARTOSZOWICE",
       "service_id": "6",
@@ -51624,7 +51624,7 @@
       ]
     },
     {
-      "trip_id": "6_17608134",
+      "trip_id": "6_17712147",
       "direction_id": "1",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "6",
@@ -51947,7 +51947,7 @@
       ]
     },
     {
-      "trip_id": "6_17608135",
+      "trip_id": "6_17712148",
       "direction_id": "0",
       "headsign": "BARTOSZOWICE",
       "service_id": "6",
@@ -52252,7 +52252,7 @@
       ]
     },
     {
-      "trip_id": "6_17608136",
+      "trip_id": "6_17712149",
       "direction_id": "1",
       "headsign": "Zajezdnia TYSKA",
       "service_id": "6",
@@ -52467,7 +52467,7 @@
       ]
     },
     {
-      "trip_id": "6_17608137",
+      "trip_id": "6_17712150",
       "direction_id": "0",
       "headsign": "BARTOSZOWICE",
       "service_id": "6",
@@ -52637,7 +52637,7 @@
       ]
     },
     {
-      "trip_id": "6_17608138",
+      "trip_id": "6_17712151",
       "direction_id": "1",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "6",
@@ -52960,7 +52960,7 @@
       ]
     },
     {
-      "trip_id": "6_17608139",
+      "trip_id": "6_17712152",
       "direction_id": "0",
       "headsign": "BARTOSZOWICE",
       "service_id": "6",
@@ -53265,7 +53265,7 @@
       ]
     },
     {
-      "trip_id": "6_17608140",
+      "trip_id": "6_17712153",
       "direction_id": "1",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "6",
@@ -53588,7 +53588,7 @@
       ]
     },
     {
-      "trip_id": "6_17608141",
+      "trip_id": "6_17712154",
       "direction_id": "0",
       "headsign": "BARTOSZOWICE",
       "service_id": "6",
@@ -53893,7 +53893,7 @@
       ]
     },
     {
-      "trip_id": "6_17608142",
+      "trip_id": "6_17712155",
       "direction_id": "1",
       "headsign": "Zajezdnia TYSKA",
       "service_id": "6",
@@ -54108,7 +54108,7 @@
       ]
     },
     {
-      "trip_id": "6_17608143",
+      "trip_id": "6_17712156",
       "direction_id": "1",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "6",
@@ -54395,7 +54395,7 @@
       ]
     },
     {
-      "trip_id": "6_17608144",
+      "trip_id": "6_17712157",
       "direction_id": "0",
       "headsign": "BARTOSZOWICE",
       "service_id": "6",
@@ -54700,7 +54700,7 @@
       ]
     },
     {
-      "trip_id": "6_17608145",
+      "trip_id": "6_17712158",
       "direction_id": "1",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "6",
@@ -55023,7 +55023,7 @@
       ]
     },
     {
-      "trip_id": "6_17608146",
+      "trip_id": "6_17712159",
       "direction_id": "0",
       "headsign": "BARTOSZOWICE",
       "service_id": "6",
@@ -55328,7 +55328,7 @@
       ]
     },
     {
-      "trip_id": "6_17608147",
+      "trip_id": "6_17712160",
       "direction_id": "1",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "6",
@@ -55651,7 +55651,7 @@
       ]
     },
     {
-      "trip_id": "6_17608148",
+      "trip_id": "6_17712161",
       "direction_id": "0",
       "headsign": "BARTOSZOWICE",
       "service_id": "6",
@@ -55956,7 +55956,7 @@
       ]
     },
     {
-      "trip_id": "6_17608149",
+      "trip_id": "6_17712162",
       "direction_id": "1",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "6",
@@ -56279,7 +56279,7 @@
       ]
     },
     {
-      "trip_id": "6_17608150",
+      "trip_id": "6_17712163",
       "direction_id": "0",
       "headsign": "BARTOSZOWICE",
       "service_id": "6",
@@ -56584,7 +56584,7 @@
       ]
     },
     {
-      "trip_id": "6_17608151",
+      "trip_id": "6_17712164",
       "direction_id": "1",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "6",
@@ -56907,7 +56907,7 @@
       ]
     },
     {
-      "trip_id": "6_17608152",
+      "trip_id": "6_17712165",
       "direction_id": "0",
       "headsign": "BARTOSZOWICE",
       "service_id": "6",
@@ -57212,7 +57212,7 @@
       ]
     },
     {
-      "trip_id": "6_17608153",
+      "trip_id": "6_17712166",
       "direction_id": "1",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "6",
@@ -57535,7 +57535,7 @@
       ]
     },
     {
-      "trip_id": "6_17608154",
+      "trip_id": "6_17712167",
       "direction_id": "0",
       "headsign": "BARTOSZOWICE",
       "service_id": "6",
@@ -57840,7 +57840,7 @@
       ]
     },
     {
-      "trip_id": "6_17608155",
+      "trip_id": "6_17712168",
       "direction_id": "1",
       "headsign": "Zajezdnia TYSKA",
       "service_id": "6",
@@ -58055,7 +58055,7 @@
       ]
     },
     {
-      "trip_id": "6_17608156",
+      "trip_id": "6_17712169",
       "direction_id": "1",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "6",
@@ -58342,7 +58342,7 @@
       ]
     },
     {
-      "trip_id": "6_17608157",
+      "trip_id": "6_17712170",
       "direction_id": "0",
       "headsign": "BARTOSZOWICE",
       "service_id": "6",
@@ -58647,7 +58647,7 @@
       ]
     },
     {
-      "trip_id": "6_17608158",
+      "trip_id": "6_17712171",
       "direction_id": "1",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "6",
@@ -58970,7 +58970,7 @@
       ]
     },
     {
-      "trip_id": "6_17608159",
+      "trip_id": "6_17712172",
       "direction_id": "0",
       "headsign": "BARTOSZOWICE",
       "service_id": "6",
@@ -59275,7 +59275,7 @@
       ]
     },
     {
-      "trip_id": "6_17608160",
+      "trip_id": "6_17712173",
       "direction_id": "1",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "6",
@@ -59598,7 +59598,7 @@
       ]
     },
     {
-      "trip_id": "6_17608161",
+      "trip_id": "6_17712174",
       "direction_id": "0",
       "headsign": "BARTOSZOWICE",
       "service_id": "6",
@@ -59903,7 +59903,7 @@
       ]
     },
     {
-      "trip_id": "6_17608162",
+      "trip_id": "6_17712175",
       "direction_id": "1",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "6",
@@ -60226,7 +60226,7 @@
       ]
     },
     {
-      "trip_id": "6_17608163",
+      "trip_id": "6_17712176",
       "direction_id": "0",
       "headsign": "BARTOSZOWICE",
       "service_id": "6",
@@ -60531,7 +60531,7 @@
       ]
     },
     {
-      "trip_id": "6_17608164",
+      "trip_id": "6_17712177",
       "direction_id": "1",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "6",
@@ -60854,7 +60854,7 @@
       ]
     },
     {
-      "trip_id": "6_17608165",
+      "trip_id": "6_17712178",
       "direction_id": "0",
       "headsign": "BARTOSZOWICE",
       "service_id": "6",
@@ -61159,7 +61159,7 @@
       ]
     },
     {
-      "trip_id": "6_17608166",
+      "trip_id": "6_17712179",
       "direction_id": "1",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "6",
@@ -61482,7 +61482,7 @@
       ]
     },
     {
-      "trip_id": "6_17608167",
+      "trip_id": "6_17712180",
       "direction_id": "0",
       "headsign": "BARTOSZOWICE",
       "service_id": "6",
@@ -61787,7 +61787,7 @@
       ]
     },
     {
-      "trip_id": "6_17608168",
+      "trip_id": "6_17712181",
       "direction_id": "1",
       "headsign": "Zajezdnia TYSKA",
       "service_id": "6",
@@ -62002,7 +62002,7 @@
       ]
     },
     {
-      "trip_id": "6_17608169",
+      "trip_id": "6_17712182",
       "direction_id": "0",
       "headsign": "BARTOSZOWICE",
       "service_id": "6",
@@ -62172,7 +62172,7 @@
       ]
     },
     {
-      "trip_id": "6_17608170",
+      "trip_id": "6_17712183",
       "direction_id": "1",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "6",
@@ -62495,7 +62495,7 @@
       ]
     },
     {
-      "trip_id": "6_17608171",
+      "trip_id": "6_17712184",
       "direction_id": "0",
       "headsign": "BARTOSZOWICE",
       "service_id": "6",
@@ -62800,7 +62800,7 @@
       ]
     },
     {
-      "trip_id": "6_17608172",
+      "trip_id": "6_17712185",
       "direction_id": "1",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "6",
@@ -63123,7 +63123,7 @@
       ]
     },
     {
-      "trip_id": "6_17608173",
+      "trip_id": "6_17712186",
       "direction_id": "0",
       "headsign": "BARTOSZOWICE",
       "service_id": "6",
@@ -63428,7 +63428,7 @@
       ]
     },
     {
-      "trip_id": "6_17608174",
+      "trip_id": "6_17712187",
       "direction_id": "1",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "6",
@@ -63751,7 +63751,7 @@
       ]
     },
     {
-      "trip_id": "6_17608175",
+      "trip_id": "6_17712188",
       "direction_id": "0",
       "headsign": "BARTOSZOWICE",
       "service_id": "6",
@@ -64056,7 +64056,7 @@
       ]
     },
     {
-      "trip_id": "6_17608176",
+      "trip_id": "6_17712189",
       "direction_id": "1",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "6",
@@ -64379,7 +64379,7 @@
       ]
     },
     {
-      "trip_id": "6_17608177",
+      "trip_id": "6_17712190",
       "direction_id": "0",
       "headsign": "BARTOSZOWICE",
       "service_id": "6",
@@ -64684,7 +64684,7 @@
       ]
     },
     {
-      "trip_id": "6_17608178",
+      "trip_id": "6_17712191",
       "direction_id": "1",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "6",
@@ -65007,7 +65007,7 @@
       ]
     },
     {
-      "trip_id": "6_17608179",
+      "trip_id": "6_17712192",
       "direction_id": "0",
       "headsign": "BARTOSZOWICE",
       "service_id": "6",
@@ -65312,7 +65312,7 @@
       ]
     },
     {
-      "trip_id": "6_17608180",
+      "trip_id": "6_17712193",
       "direction_id": "1",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "6",
@@ -65635,7 +65635,7 @@
       ]
     },
     {
-      "trip_id": "6_17608181",
+      "trip_id": "6_17712194",
       "direction_id": "0",
       "headsign": "BARTOSZOWICE",
       "service_id": "6",
@@ -65940,7 +65940,7 @@
       ]
     },
     {
-      "trip_id": "6_17608182",
+      "trip_id": "6_17712195",
       "direction_id": "1",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "6",
@@ -66263,7 +66263,7 @@
       ]
     },
     {
-      "trip_id": "6_17608183",
+      "trip_id": "6_17712196",
       "direction_id": "0",
       "headsign": "BARTOSZOWICE",
       "service_id": "6",
@@ -66568,7 +66568,7 @@
       ]
     },
     {
-      "trip_id": "6_17608184",
+      "trip_id": "6_17712197",
       "direction_id": "1",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "6",
@@ -66891,7 +66891,7 @@
       ]
     },
     {
-      "trip_id": "6_17608185",
+      "trip_id": "6_17712198",
       "direction_id": "0",
       "headsign": "BARTOSZOWICE",
       "service_id": "6",
@@ -67196,7 +67196,7 @@
       ]
     },
     {
-      "trip_id": "6_17608186",
+      "trip_id": "6_17712199",
       "direction_id": "1",
       "headsign": "Zajezdnia TYSKA",
       "service_id": "6",
@@ -67411,7 +67411,7 @@
       ]
     },
     {
-      "trip_id": "6_17608187",
+      "trip_id": "6_17712200",
       "direction_id": "1",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "6",
@@ -67698,7 +67698,7 @@
       ]
     },
     {
-      "trip_id": "6_17608188",
+      "trip_id": "6_17712201",
       "direction_id": "0",
       "headsign": "BARTOSZOWICE",
       "service_id": "6",
@@ -68003,7 +68003,7 @@
       ]
     },
     {
-      "trip_id": "6_17608189",
+      "trip_id": "6_17712202",
       "direction_id": "1",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "6",
@@ -68344,7 +68344,7 @@
       ]
     },
     {
-      "trip_id": "6_17608190",
+      "trip_id": "6_17712203",
       "direction_id": "0",
       "headsign": "BARTOSZOWICE",
       "service_id": "6",
@@ -68649,7 +68649,7 @@
       ]
     },
     {
-      "trip_id": "6_17608191",
+      "trip_id": "6_17712204",
       "direction_id": "1",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "6",
@@ -68972,7 +68972,7 @@
       ]
     },
     {
-      "trip_id": "6_17608192",
+      "trip_id": "6_17712205",
       "direction_id": "0",
       "headsign": "BARTOSZOWICE",
       "service_id": "6",
@@ -69277,7 +69277,7 @@
       ]
     },
     {
-      "trip_id": "6_17608193",
+      "trip_id": "6_17712206",
       "direction_id": "1",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "6",
@@ -69600,7 +69600,7 @@
       ]
     },
     {
-      "trip_id": "6_17608194",
+      "trip_id": "6_17712207",
       "direction_id": "0",
       "headsign": "BARTOSZOWICE",
       "service_id": "6",
@@ -69905,7 +69905,7 @@
       ]
     },
     {
-      "trip_id": "6_17608195",
+      "trip_id": "6_17712208",
       "direction_id": "1",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "6",
@@ -70228,7 +70228,7 @@
       ]
     },
     {
-      "trip_id": "6_17608196",
+      "trip_id": "6_17712209",
       "direction_id": "0",
       "headsign": "BARTOSZOWICE",
       "service_id": "6",
@@ -70533,7 +70533,7 @@
       ]
     },
     {
-      "trip_id": "6_17608197",
+      "trip_id": "6_17712210",
       "direction_id": "1",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "6",
@@ -70856,7 +70856,7 @@
       ]
     },
     {
-      "trip_id": "6_17608198",
+      "trip_id": "6_17712211",
       "direction_id": "0",
       "headsign": "BARTOSZOWICE",
       "service_id": "6",
@@ -71161,7 +71161,7 @@
       ]
     },
     {
-      "trip_id": "6_17608199",
+      "trip_id": "6_17712212",
       "direction_id": "1",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "6",
@@ -71484,7 +71484,7 @@
       ]
     },
     {
-      "trip_id": "6_17608200",
+      "trip_id": "6_17712213",
       "direction_id": "0",
       "headsign": "BARTOSZOWICE",
       "service_id": "6",
@@ -71789,7 +71789,7 @@
       ]
     },
     {
-      "trip_id": "6_17608201",
+      "trip_id": "6_17712214",
       "direction_id": "1",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "6",
@@ -72112,7 +72112,7 @@
       ]
     },
     {
-      "trip_id": "6_17608202",
+      "trip_id": "6_17712215",
       "direction_id": "0",
       "headsign": "BARTOSZOWICE",
       "service_id": "6",
@@ -72417,7 +72417,7 @@
       ]
     },
     {
-      "trip_id": "6_17608203",
+      "trip_id": "6_17712216",
       "direction_id": "1",
       "headsign": "Zajezdnia TYSKA",
       "service_id": "6",
@@ -72632,7 +72632,7 @@
       ]
     },
     {
-      "trip_id": "6_17608204",
+      "trip_id": "6_17712217",
       "direction_id": "0",
       "headsign": "BARTOSZOWICE",
       "service_id": "6",
@@ -72802,7 +72802,7 @@
       ]
     },
     {
-      "trip_id": "6_17608205",
+      "trip_id": "6_17712218",
       "direction_id": "1",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "6",
@@ -73125,7 +73125,7 @@
       ]
     },
     {
-      "trip_id": "6_17608206",
+      "trip_id": "6_17712219",
       "direction_id": "0",
       "headsign": "BARTOSZOWICE",
       "service_id": "6",
@@ -73430,7 +73430,7 @@
       ]
     },
     {
-      "trip_id": "6_17608207",
+      "trip_id": "6_17712220",
       "direction_id": "1",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "6",
@@ -73753,7 +73753,7 @@
       ]
     },
     {
-      "trip_id": "6_17608208",
+      "trip_id": "6_17712221",
       "direction_id": "0",
       "headsign": "BARTOSZOWICE",
       "service_id": "6",
@@ -74058,7 +74058,7 @@
       ]
     },
     {
-      "trip_id": "6_17608209",
+      "trip_id": "6_17712222",
       "direction_id": "1",
       "headsign": "Zajezdnia TYSKA",
       "service_id": "6",
@@ -74273,7 +74273,7 @@
       ]
     },
     {
-      "trip_id": "6_17608210",
+      "trip_id": "6_17712223",
       "direction_id": "0",
       "headsign": "BARTOSZOWICE",
       "service_id": "6",
@@ -74443,7 +74443,7 @@
       ]
     },
     {
-      "trip_id": "6_17608211",
+      "trip_id": "6_17712224",
       "direction_id": "1",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "6",
@@ -74766,7 +74766,7 @@
       ]
     },
     {
-      "trip_id": "6_17608212",
+      "trip_id": "6_17712225",
       "direction_id": "0",
       "headsign": "BARTOSZOWICE",
       "service_id": "6",
@@ -75071,7 +75071,7 @@
       ]
     },
     {
-      "trip_id": "6_17608213",
+      "trip_id": "6_17712226",
       "direction_id": "1",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "6",
@@ -75394,7 +75394,7 @@
       ]
     },
     {
-      "trip_id": "6_17608214",
+      "trip_id": "6_17712227",
       "direction_id": "0",
       "headsign": "BARTOSZOWICE",
       "service_id": "6",
@@ -75699,7 +75699,7 @@
       ]
     },
     {
-      "trip_id": "6_17608215",
+      "trip_id": "6_17712228",
       "direction_id": "1",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "6",
@@ -76022,7 +76022,7 @@
       ]
     },
     {
-      "trip_id": "6_17608216",
+      "trip_id": "6_17712229",
       "direction_id": "0",
       "headsign": "BARTOSZOWICE",
       "service_id": "6",
@@ -76327,7 +76327,7 @@
       ]
     },
     {
-      "trip_id": "6_17608217",
+      "trip_id": "6_17712230",
       "direction_id": "1",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "6",
@@ -76650,7 +76650,7 @@
       ]
     },
     {
-      "trip_id": "6_17608218",
+      "trip_id": "6_17712231",
       "direction_id": "0",
       "headsign": "BARTOSZOWICE",
       "service_id": "6",
@@ -76955,7 +76955,7 @@
       ]
     },
     {
-      "trip_id": "6_17608219",
+      "trip_id": "6_17712232",
       "direction_id": "1",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "6",
@@ -77278,7 +77278,7 @@
       ]
     },
     {
-      "trip_id": "6_17608220",
+      "trip_id": "6_17712233",
       "direction_id": "0",
       "headsign": "BARTOSZOWICE",
       "service_id": "6",
@@ -77583,7 +77583,7 @@
       ]
     },
     {
-      "trip_id": "6_17608221",
+      "trip_id": "6_17712234",
       "direction_id": "1",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "6",
@@ -77906,7 +77906,7 @@
       ]
     },
     {
-      "trip_id": "6_17608222",
+      "trip_id": "6_17712235",
       "direction_id": "0",
       "headsign": "BARTOSZOWICE",
       "service_id": "6",
@@ -78211,7 +78211,7 @@
       ]
     },
     {
-      "trip_id": "6_17608223",
+      "trip_id": "6_17712236",
       "direction_id": "1",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "6",
@@ -78534,7 +78534,7 @@
       ]
     },
     {
-      "trip_id": "6_17608224",
+      "trip_id": "6_17712237",
       "direction_id": "0",
       "headsign": "BARTOSZOWICE",
       "service_id": "6",
@@ -78839,7 +78839,7 @@
       ]
     },
     {
-      "trip_id": "6_17608225",
+      "trip_id": "6_17712238",
       "direction_id": "1",
       "headsign": "Zajezdnia TYSKA",
       "service_id": "6",
@@ -79054,7 +79054,7 @@
       ]
     },
     {
-      "trip_id": "6_17608226",
+      "trip_id": "6_17712239",
       "direction_id": "0",
       "headsign": "BARTOSZOWICE",
       "service_id": "6",
@@ -79224,7 +79224,7 @@
       ]
     },
     {
-      "trip_id": "6_17608227",
+      "trip_id": "6_17712240",
       "direction_id": "1",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "6",
@@ -79565,7 +79565,7 @@
       ]
     },
     {
-      "trip_id": "6_17608228",
+      "trip_id": "6_17712241",
       "direction_id": "0",
       "headsign": "BARTOSZOWICE",
       "service_id": "6",
@@ -79870,7 +79870,7 @@
       ]
     },
     {
-      "trip_id": "6_17608229",
+      "trip_id": "6_17712242",
       "direction_id": "1",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "6",
@@ -80193,7 +80193,7 @@
       ]
     },
     {
-      "trip_id": "6_17608230",
+      "trip_id": "6_17712243",
       "direction_id": "0",
       "headsign": "BARTOSZOWICE",
       "service_id": "6",
@@ -80498,7 +80498,7 @@
       ]
     },
     {
-      "trip_id": "6_17608231",
+      "trip_id": "6_17712244",
       "direction_id": "1",
       "headsign": "Zajezdnia TYSKA",
       "service_id": "6",
@@ -80713,7 +80713,7 @@
       ]
     },
     {
-      "trip_id": "6_17608232",
+      "trip_id": "6_17712245",
       "direction_id": "0",
       "headsign": "BARTOSZOWICE",
       "service_id": "6",
@@ -80883,7 +80883,7 @@
       ]
     },
     {
-      "trip_id": "6_17608233",
+      "trip_id": "6_17712246",
       "direction_id": "1",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "6",
@@ -81206,7 +81206,7 @@
       ]
     },
     {
-      "trip_id": "6_17608234",
+      "trip_id": "6_17712247",
       "direction_id": "0",
       "headsign": "BARTOSZOWICE",
       "service_id": "6",
@@ -81511,7 +81511,7 @@
       ]
     },
     {
-      "trip_id": "6_17608235",
+      "trip_id": "6_17712248",
       "direction_id": "1",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "6",
@@ -81852,7 +81852,7 @@
       ]
     },
     {
-      "trip_id": "6_17608236",
+      "trip_id": "6_17712249",
       "direction_id": "0",
       "headsign": "BARTOSZOWICE",
       "service_id": "6",
@@ -82157,7 +82157,7 @@
       ]
     },
     {
-      "trip_id": "6_17608237",
+      "trip_id": "6_17712250",
       "direction_id": "1",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "6",
@@ -82480,7 +82480,7 @@
       ]
     },
     {
-      "trip_id": "6_17608238",
+      "trip_id": "6_17712251",
       "direction_id": "0",
       "headsign": "Zajezdnia TYSKA",
       "service_id": "6",
@@ -82749,7 +82749,7 @@
       ]
     },
     {
-      "trip_id": "6_17608239",
+      "trip_id": "6_17712252",
       "direction_id": "0",
       "headsign": "BARTOSZOWICE",
       "service_id": "6",
@@ -82919,7 +82919,7 @@
       ]
     },
     {
-      "trip_id": "6_17608240",
+      "trip_id": "6_17712253",
       "direction_id": "1",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "6",
@@ -83242,7 +83242,7 @@
       ]
     },
     {
-      "trip_id": "6_17608241",
+      "trip_id": "6_17712254",
       "direction_id": "0",
       "headsign": "BARTOSZOWICE",
       "service_id": "6",
@@ -83547,7 +83547,7 @@
       ]
     },
     {
-      "trip_id": "6_17608242",
+      "trip_id": "6_17712255",
       "direction_id": "1",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "6",
@@ -83870,7 +83870,7 @@
       ]
     },
     {
-      "trip_id": "6_17608243",
+      "trip_id": "6_17712256",
       "direction_id": "0",
       "headsign": "BARTOSZOWICE",
       "service_id": "6",
@@ -84175,7 +84175,7 @@
       ]
     },
     {
-      "trip_id": "6_17608244",
+      "trip_id": "6_17712257",
       "direction_id": "1",
       "headsign": "Zajezdnia TYSKA",
       "service_id": "6",
@@ -84390,7 +84390,7 @@
       ]
     },
     {
-      "trip_id": "6_17608245",
+      "trip_id": "6_17712258",
       "direction_id": "1",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "6",
@@ -84677,7 +84677,7 @@
       ]
     },
     {
-      "trip_id": "6_17608246",
+      "trip_id": "6_17712259",
       "direction_id": "0",
       "headsign": "BARTOSZOWICE",
       "service_id": "6",
@@ -84982,7 +84982,7 @@
       ]
     },
     {
-      "trip_id": "6_17608247",
+      "trip_id": "6_17712260",
       "direction_id": "1",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "6",
@@ -85305,7 +85305,7 @@
       ]
     },
     {
-      "trip_id": "6_17608248",
+      "trip_id": "6_17712261",
       "direction_id": "0",
       "headsign": "BARTOSZOWICE",
       "service_id": "6",
@@ -85610,7 +85610,7 @@
       ]
     },
     {
-      "trip_id": "6_17608249",
+      "trip_id": "6_17712262",
       "direction_id": "1",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "6",
@@ -85933,7 +85933,7 @@
       ]
     },
     {
-      "trip_id": "6_17608250",
+      "trip_id": "6_17712263",
       "direction_id": "0",
       "headsign": "BARTOSZOWICE",
       "service_id": "6",
@@ -86238,7 +86238,7 @@
       ]
     },
     {
-      "trip_id": "6_17608251",
+      "trip_id": "6_17712264",
       "direction_id": "1",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "6",
@@ -86561,7 +86561,7 @@
       ]
     },
     {
-      "trip_id": "6_17608252",
+      "trip_id": "6_17712265",
       "direction_id": "0",
       "headsign": "BARTOSZOWICE",
       "service_id": "6",
@@ -86866,7 +86866,7 @@
       ]
     },
     {
-      "trip_id": "6_17608253",
+      "trip_id": "6_17712266",
       "direction_id": "1",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "6",
@@ -87189,7 +87189,7 @@
       ]
     },
     {
-      "trip_id": "6_17608254",
+      "trip_id": "6_17712267",
       "direction_id": "0",
       "headsign": "Zajezdnia TYSKA",
       "service_id": "6",
@@ -87458,7 +87458,7 @@
       ]
     },
     {
-      "trip_id": "6_17608255",
+      "trip_id": "6_17712268",
       "direction_id": "0",
       "headsign": "BARTOSZOWICE",
       "service_id": "6",
@@ -87628,7 +87628,7 @@
       ]
     },
     {
-      "trip_id": "6_17608256",
+      "trip_id": "6_17712269",
       "direction_id": "1",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "6",
@@ -87969,7 +87969,7 @@
       ]
     },
     {
-      "trip_id": "6_17608257",
+      "trip_id": "6_17712270",
       "direction_id": "0",
       "headsign": "BARTOSZOWICE",
       "service_id": "6",
@@ -88274,7 +88274,7 @@
       ]
     },
     {
-      "trip_id": "6_17608258",
+      "trip_id": "6_17712271",
       "direction_id": "1",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "6",
@@ -88597,7 +88597,7 @@
       ]
     },
     {
-      "trip_id": "6_17608259",
+      "trip_id": "6_17712272",
       "direction_id": "0",
       "headsign": "BARTOSZOWICE",
       "service_id": "6",
@@ -88902,7 +88902,7 @@
       ]
     },
     {
-      "trip_id": "6_17608260",
+      "trip_id": "6_17712273",
       "direction_id": "1",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "6",
@@ -89225,7 +89225,7 @@
       ]
     },
     {
-      "trip_id": "6_17608261",
+      "trip_id": "6_17712274",
       "direction_id": "0",
       "headsign": "Zajezdnia TYSKA",
       "service_id": "6",
@@ -89494,7 +89494,7 @@
       ]
     },
     {
-      "trip_id": "6_17608262",
+      "trip_id": "6_17712275",
       "direction_id": "0",
       "headsign": "BARTOSZOWICE",
       "service_id": "6",
@@ -89664,7 +89664,7 @@
       ]
     },
     {
-      "trip_id": "6_17608263",
+      "trip_id": "6_17712276",
       "direction_id": "1",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "6",
@@ -90005,7 +90005,7 @@
       ]
     },
     {
-      "trip_id": "6_17608264",
+      "trip_id": "6_17712277",
       "direction_id": "0",
       "headsign": "BARTOSZOWICE",
       "service_id": "6",
@@ -90310,7 +90310,7 @@
       ]
     },
     {
-      "trip_id": "6_17608265",
+      "trip_id": "6_17712278",
       "direction_id": "1",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "6",
@@ -90633,7 +90633,7 @@
       ]
     },
     {
-      "trip_id": "6_17608266",
+      "trip_id": "6_17712279",
       "direction_id": "0",
       "headsign": "BARTOSZOWICE",
       "service_id": "6",
@@ -90938,7 +90938,7 @@
       ]
     },
     {
-      "trip_id": "6_17608267",
+      "trip_id": "6_17712280",
       "direction_id": "1",
       "headsign": "Zajezdnia TYSKA",
       "service_id": "6",
@@ -91153,7 +91153,7 @@
       ]
     },
     {
-      "trip_id": "6_17609832",
+      "trip_id": "6_17713845",
       "direction_id": "0",
       "headsign": "BARTOSZOWICE",
       "service_id": "6",
@@ -91323,7 +91323,7 @@
       ]
     },
     {
-      "trip_id": "6_17609833",
+      "trip_id": "6_17713846",
       "direction_id": "1",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "6",
@@ -91646,7 +91646,7 @@
       ]
     },
     {
-      "trip_id": "6_17609834",
+      "trip_id": "6_17713847",
       "direction_id": "0",
       "headsign": "BARTOSZOWICE",
       "service_id": "6",
@@ -91951,7 +91951,7 @@
       ]
     },
     {
-      "trip_id": "6_17609835",
+      "trip_id": "6_17713848",
       "direction_id": "1",
       "headsign": "PETRUSEWICZA",
       "service_id": "6",
@@ -92166,7 +92166,7 @@
       ]
     },
     {
-      "trip_id": "8_17614957",
+      "trip_id": "8_17718970",
       "direction_id": "0",
       "headsign": "BARTOSZOWICE",
       "service_id": "8",
@@ -92336,7 +92336,7 @@
       ]
     },
     {
-      "trip_id": "8_17614958",
+      "trip_id": "8_17718971",
       "direction_id": "1",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "8",
@@ -92677,7 +92677,7 @@
       ]
     },
     {
-      "trip_id": "8_17614959",
+      "trip_id": "8_17718972",
       "direction_id": "0",
       "headsign": "BARTOSZOWICE",
       "service_id": "8",
@@ -92982,7 +92982,7 @@
       ]
     },
     {
-      "trip_id": "8_17614960",
+      "trip_id": "8_17718973",
       "direction_id": "1",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "8",
@@ -93305,7 +93305,7 @@
       ]
     },
     {
-      "trip_id": "8_17614961",
+      "trip_id": "8_17718974",
       "direction_id": "0",
       "headsign": "BARTOSZOWICE",
       "service_id": "8",
@@ -93610,7 +93610,7 @@
       ]
     },
     {
-      "trip_id": "8_17614962",
+      "trip_id": "8_17718975",
       "direction_id": "1",
       "headsign": "Zajezdnia TYSKA",
       "service_id": "8",
@@ -93825,7 +93825,7 @@
       ]
     },
     {
-      "trip_id": "8_17614963",
+      "trip_id": "8_17718976",
       "direction_id": "0",
       "headsign": "BARTOSZOWICE",
       "service_id": "8",
@@ -93995,7 +93995,7 @@
       ]
     },
     {
-      "trip_id": "8_17614964",
+      "trip_id": "8_17718977",
       "direction_id": "1",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "8",
@@ -94318,7 +94318,7 @@
       ]
     },
     {
-      "trip_id": "8_17614965",
+      "trip_id": "8_17718978",
       "direction_id": "0",
       "headsign": "BARTOSZOWICE",
       "service_id": "8",
@@ -94623,7 +94623,7 @@
       ]
     },
     {
-      "trip_id": "8_17614966",
+      "trip_id": "8_17718979",
       "direction_id": "1",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "8",
@@ -94946,7 +94946,7 @@
       ]
     },
     {
-      "trip_id": "8_17614967",
+      "trip_id": "8_17718980",
       "direction_id": "0",
       "headsign": "BARTOSZOWICE",
       "service_id": "8",
@@ -95251,7 +95251,7 @@
       ]
     },
     {
-      "trip_id": "8_17614968",
+      "trip_id": "8_17718981",
       "direction_id": "1",
       "headsign": "Zajezdnia TYSKA",
       "service_id": "8",
@@ -95466,7 +95466,7 @@
       ]
     },
     {
-      "trip_id": "8_17614969",
+      "trip_id": "8_17718982",
       "direction_id": "1",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "8",
@@ -95753,7 +95753,7 @@
       ]
     },
     {
-      "trip_id": "8_17614970",
+      "trip_id": "8_17718983",
       "direction_id": "0",
       "headsign": "BARTOSZOWICE",
       "service_id": "8",
@@ -96058,7 +96058,7 @@
       ]
     },
     {
-      "trip_id": "8_17614971",
+      "trip_id": "8_17718984",
       "direction_id": "1",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "8",
@@ -96381,7 +96381,7 @@
       ]
     },
     {
-      "trip_id": "8_17614972",
+      "trip_id": "8_17718985",
       "direction_id": "0",
       "headsign": "BARTOSZOWICE",
       "service_id": "8",
@@ -96686,7 +96686,7 @@
       ]
     },
     {
-      "trip_id": "8_17614973",
+      "trip_id": "8_17718986",
       "direction_id": "1",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "8",
@@ -97009,7 +97009,7 @@
       ]
     },
     {
-      "trip_id": "8_17614974",
+      "trip_id": "8_17718987",
       "direction_id": "0",
       "headsign": "BARTOSZOWICE",
       "service_id": "8",
@@ -97314,7 +97314,7 @@
       ]
     },
     {
-      "trip_id": "8_17614975",
+      "trip_id": "8_17718988",
       "direction_id": "1",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "8",
@@ -97637,7 +97637,7 @@
       ]
     },
     {
-      "trip_id": "8_17614976",
+      "trip_id": "8_17718989",
       "direction_id": "0",
       "headsign": "BARTOSZOWICE",
       "service_id": "8",
@@ -97942,7 +97942,7 @@
       ]
     },
     {
-      "trip_id": "8_17614977",
+      "trip_id": "8_17718990",
       "direction_id": "1",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "8",
@@ -98265,7 +98265,7 @@
       ]
     },
     {
-      "trip_id": "8_17614978",
+      "trip_id": "8_17718991",
       "direction_id": "0",
       "headsign": "BARTOSZOWICE",
       "service_id": "8",
@@ -98570,7 +98570,7 @@
       ]
     },
     {
-      "trip_id": "8_17614979",
+      "trip_id": "8_17718992",
       "direction_id": "1",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "8",
@@ -98893,7 +98893,7 @@
       ]
     },
     {
-      "trip_id": "8_17614980",
+      "trip_id": "8_17718993",
       "direction_id": "0",
       "headsign": "BARTOSZOWICE",
       "service_id": "8",
@@ -99198,7 +99198,7 @@
       ]
     },
     {
-      "trip_id": "8_17614981",
+      "trip_id": "8_17718994",
       "direction_id": "1",
       "headsign": "Zajezdnia TYSKA",
       "service_id": "8",
@@ -99413,7 +99413,7 @@
       ]
     },
     {
-      "trip_id": "8_17614982",
+      "trip_id": "8_17718995",
       "direction_id": "1",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "8",
@@ -99700,7 +99700,7 @@
       ]
     },
     {
-      "trip_id": "8_17614983",
+      "trip_id": "8_17718996",
       "direction_id": "0",
       "headsign": "BARTOSZOWICE",
       "service_id": "8",
@@ -100005,7 +100005,7 @@
       ]
     },
     {
-      "trip_id": "8_17614984",
+      "trip_id": "8_17718997",
       "direction_id": "1",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "8",
@@ -100328,7 +100328,7 @@
       ]
     },
     {
-      "trip_id": "8_17614985",
+      "trip_id": "8_17718998",
       "direction_id": "0",
       "headsign": "BARTOSZOWICE",
       "service_id": "8",
@@ -100633,7 +100633,7 @@
       ]
     },
     {
-      "trip_id": "8_17614986",
+      "trip_id": "8_17718999",
       "direction_id": "1",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "8",
@@ -100956,7 +100956,7 @@
       ]
     },
     {
-      "trip_id": "8_17614987",
+      "trip_id": "8_17719000",
       "direction_id": "0",
       "headsign": "BARTOSZOWICE",
       "service_id": "8",
@@ -101261,7 +101261,7 @@
       ]
     },
     {
-      "trip_id": "8_17614988",
+      "trip_id": "8_17719001",
       "direction_id": "1",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "8",
@@ -101584,7 +101584,7 @@
       ]
     },
     {
-      "trip_id": "8_17614989",
+      "trip_id": "8_17719002",
       "direction_id": "0",
       "headsign": "BARTOSZOWICE",
       "service_id": "8",
@@ -101889,7 +101889,7 @@
       ]
     },
     {
-      "trip_id": "8_17614990",
+      "trip_id": "8_17719003",
       "direction_id": "1",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "8",
@@ -102212,7 +102212,7 @@
       ]
     },
     {
-      "trip_id": "8_17614991",
+      "trip_id": "8_17719004",
       "direction_id": "0",
       "headsign": "BARTOSZOWICE",
       "service_id": "8",
@@ -102517,7 +102517,7 @@
       ]
     },
     {
-      "trip_id": "8_17614992",
+      "trip_id": "8_17719005",
       "direction_id": "1",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "8",
@@ -102840,7 +102840,7 @@
       ]
     },
     {
-      "trip_id": "8_17614993",
+      "trip_id": "8_17719006",
       "direction_id": "0",
       "headsign": "BARTOSZOWICE",
       "service_id": "8",
@@ -103145,7 +103145,7 @@
       ]
     },
     {
-      "trip_id": "8_17614994",
+      "trip_id": "8_17719007",
       "direction_id": "1",
       "headsign": "Zajezdnia TYSKA",
       "service_id": "8",
@@ -103360,7 +103360,7 @@
       ]
     },
     {
-      "trip_id": "8_17614995",
+      "trip_id": "8_17719008",
       "direction_id": "0",
       "headsign": "BARTOSZOWICE",
       "service_id": "8",
@@ -103530,7 +103530,7 @@
       ]
     },
     {
-      "trip_id": "8_17614996",
+      "trip_id": "8_17719009",
       "direction_id": "1",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "8",
@@ -103853,7 +103853,7 @@
       ]
     },
     {
-      "trip_id": "8_17614997",
+      "trip_id": "8_17719010",
       "direction_id": "0",
       "headsign": "BARTOSZOWICE",
       "service_id": "8",
@@ -104158,7 +104158,7 @@
       ]
     },
     {
-      "trip_id": "8_17614998",
+      "trip_id": "8_17719011",
       "direction_id": "1",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "8",
@@ -104481,7 +104481,7 @@
       ]
     },
     {
-      "trip_id": "8_17614999",
+      "trip_id": "8_17719012",
       "direction_id": "0",
       "headsign": "BARTOSZOWICE",
       "service_id": "8",
@@ -104786,7 +104786,7 @@
       ]
     },
     {
-      "trip_id": "8_17615000",
+      "trip_id": "8_17719013",
       "direction_id": "1",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "8",
@@ -105109,7 +105109,7 @@
       ]
     },
     {
-      "trip_id": "8_17615001",
+      "trip_id": "8_17719014",
       "direction_id": "0",
       "headsign": "BARTOSZOWICE",
       "service_id": "8",
@@ -105414,7 +105414,7 @@
       ]
     },
     {
-      "trip_id": "8_17615002",
+      "trip_id": "8_17719015",
       "direction_id": "1",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "8",
@@ -105737,7 +105737,7 @@
       ]
     },
     {
-      "trip_id": "8_17615003",
+      "trip_id": "8_17719016",
       "direction_id": "0",
       "headsign": "BARTOSZOWICE",
       "service_id": "8",
@@ -106042,7 +106042,7 @@
       ]
     },
     {
-      "trip_id": "8_17615004",
+      "trip_id": "8_17719017",
       "direction_id": "1",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "8",
@@ -106365,7 +106365,7 @@
       ]
     },
     {
-      "trip_id": "8_17615005",
+      "trip_id": "8_17719018",
       "direction_id": "0",
       "headsign": "BARTOSZOWICE",
       "service_id": "8",
@@ -106670,7 +106670,7 @@
       ]
     },
     {
-      "trip_id": "8_17615006",
+      "trip_id": "8_17719019",
       "direction_id": "1",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "8",
@@ -106993,7 +106993,7 @@
       ]
     },
     {
-      "trip_id": "8_17615007",
+      "trip_id": "8_17719020",
       "direction_id": "0",
       "headsign": "BARTOSZOWICE",
       "service_id": "8",
@@ -107298,7 +107298,7 @@
       ]
     },
     {
-      "trip_id": "8_17615008",
+      "trip_id": "8_17719021",
       "direction_id": "1",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "8",
@@ -107621,7 +107621,7 @@
       ]
     },
     {
-      "trip_id": "8_17615009",
+      "trip_id": "8_17719022",
       "direction_id": "0",
       "headsign": "BARTOSZOWICE",
       "service_id": "8",
@@ -107926,7 +107926,7 @@
       ]
     },
     {
-      "trip_id": "8_17615010",
+      "trip_id": "8_17719023",
       "direction_id": "1",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "8",
@@ -108249,7 +108249,7 @@
       ]
     },
     {
-      "trip_id": "8_17615011",
+      "trip_id": "8_17719024",
       "direction_id": "0",
       "headsign": "BARTOSZOWICE",
       "service_id": "8",
@@ -108554,7 +108554,7 @@
       ]
     },
     {
-      "trip_id": "8_17615012",
+      "trip_id": "8_17719025",
       "direction_id": "1",
       "headsign": "Zajezdnia TYSKA",
       "service_id": "8",
@@ -108769,7 +108769,7 @@
       ]
     },
     {
-      "trip_id": "8_17615013",
+      "trip_id": "8_17719026",
       "direction_id": "1",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "8",
@@ -109056,7 +109056,7 @@
       ]
     },
     {
-      "trip_id": "8_17615014",
+      "trip_id": "8_17719027",
       "direction_id": "0",
       "headsign": "BARTOSZOWICE",
       "service_id": "8",
@@ -109361,7 +109361,7 @@
       ]
     },
     {
-      "trip_id": "8_17615015",
+      "trip_id": "8_17719028",
       "direction_id": "1",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "8",
@@ -109702,7 +109702,7 @@
       ]
     },
     {
-      "trip_id": "8_17615016",
+      "trip_id": "8_17719029",
       "direction_id": "0",
       "headsign": "BARTOSZOWICE",
       "service_id": "8",
@@ -110007,7 +110007,7 @@
       ]
     },
     {
-      "trip_id": "8_17615017",
+      "trip_id": "8_17719030",
       "direction_id": "1",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "8",
@@ -110330,7 +110330,7 @@
       ]
     },
     {
-      "trip_id": "8_17615018",
+      "trip_id": "8_17719031",
       "direction_id": "0",
       "headsign": "BARTOSZOWICE",
       "service_id": "8",
@@ -110635,7 +110635,7 @@
       ]
     },
     {
-      "trip_id": "8_17615019",
+      "trip_id": "8_17719032",
       "direction_id": "1",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "8",
@@ -110958,7 +110958,7 @@
       ]
     },
     {
-      "trip_id": "8_17615020",
+      "trip_id": "8_17719033",
       "direction_id": "0",
       "headsign": "BARTOSZOWICE",
       "service_id": "8",
@@ -111263,7 +111263,7 @@
       ]
     },
     {
-      "trip_id": "8_17615021",
+      "trip_id": "8_17719034",
       "direction_id": "1",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "8",
@@ -111586,7 +111586,7 @@
       ]
     },
     {
-      "trip_id": "8_17615022",
+      "trip_id": "8_17719035",
       "direction_id": "0",
       "headsign": "BARTOSZOWICE",
       "service_id": "8",
@@ -111891,7 +111891,7 @@
       ]
     },
     {
-      "trip_id": "8_17615023",
+      "trip_id": "8_17719036",
       "direction_id": "1",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "8",
@@ -112214,7 +112214,7 @@
       ]
     },
     {
-      "trip_id": "8_17615024",
+      "trip_id": "8_17719037",
       "direction_id": "0",
       "headsign": "BARTOSZOWICE",
       "service_id": "8",
@@ -112519,7 +112519,7 @@
       ]
     },
     {
-      "trip_id": "8_17615025",
+      "trip_id": "8_17719038",
       "direction_id": "1",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "8",
@@ -112842,7 +112842,7 @@
       ]
     },
     {
-      "trip_id": "8_17615026",
+      "trip_id": "8_17719039",
       "direction_id": "0",
       "headsign": "BARTOSZOWICE",
       "service_id": "8",
@@ -113147,7 +113147,7 @@
       ]
     },
     {
-      "trip_id": "8_17615027",
+      "trip_id": "8_17719040",
       "direction_id": "1",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "8",
@@ -113470,7 +113470,7 @@
       ]
     },
     {
-      "trip_id": "8_17615028",
+      "trip_id": "8_17719041",
       "direction_id": "0",
       "headsign": "BARTOSZOWICE",
       "service_id": "8",
@@ -113775,7 +113775,7 @@
       ]
     },
     {
-      "trip_id": "8_17615029",
+      "trip_id": "8_17719042",
       "direction_id": "1",
       "headsign": "Zajezdnia TYSKA",
       "service_id": "8",
@@ -113990,7 +113990,7 @@
       ]
     },
     {
-      "trip_id": "8_17615030",
+      "trip_id": "8_17719043",
       "direction_id": "0",
       "headsign": "BARTOSZOWICE",
       "service_id": "8",
@@ -114160,7 +114160,7 @@
       ]
     },
     {
-      "trip_id": "8_17615031",
+      "trip_id": "8_17719044",
       "direction_id": "1",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "8",
@@ -114483,7 +114483,7 @@
       ]
     },
     {
-      "trip_id": "8_17615032",
+      "trip_id": "8_17719045",
       "direction_id": "0",
       "headsign": "BARTOSZOWICE",
       "service_id": "8",
@@ -114788,7 +114788,7 @@
       ]
     },
     {
-      "trip_id": "8_17615033",
+      "trip_id": "8_17719046",
       "direction_id": "1",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "8",
@@ -115111,7 +115111,7 @@
       ]
     },
     {
-      "trip_id": "8_17615034",
+      "trip_id": "8_17719047",
       "direction_id": "0",
       "headsign": "BARTOSZOWICE",
       "service_id": "8",
@@ -115416,7 +115416,7 @@
       ]
     },
     {
-      "trip_id": "8_17615035",
+      "trip_id": "8_17719048",
       "direction_id": "1",
       "headsign": "Zajezdnia TYSKA",
       "service_id": "8",
@@ -115631,7 +115631,7 @@
       ]
     },
     {
-      "trip_id": "8_17615036",
+      "trip_id": "8_17719049",
       "direction_id": "0",
       "headsign": "BARTOSZOWICE",
       "service_id": "8",
@@ -115801,7 +115801,7 @@
       ]
     },
     {
-      "trip_id": "8_17615037",
+      "trip_id": "8_17719050",
       "direction_id": "1",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "8",
@@ -116124,7 +116124,7 @@
       ]
     },
     {
-      "trip_id": "8_17615038",
+      "trip_id": "8_17719051",
       "direction_id": "0",
       "headsign": "BARTOSZOWICE",
       "service_id": "8",
@@ -116429,7 +116429,7 @@
       ]
     },
     {
-      "trip_id": "8_17615039",
+      "trip_id": "8_17719052",
       "direction_id": "1",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "8",
@@ -116752,7 +116752,7 @@
       ]
     },
     {
-      "trip_id": "8_17615040",
+      "trip_id": "8_17719053",
       "direction_id": "0",
       "headsign": "BARTOSZOWICE",
       "service_id": "8",
@@ -117057,7 +117057,7 @@
       ]
     },
     {
-      "trip_id": "8_17615041",
+      "trip_id": "8_17719054",
       "direction_id": "1",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "8",
@@ -117380,7 +117380,7 @@
       ]
     },
     {
-      "trip_id": "8_17615042",
+      "trip_id": "8_17719055",
       "direction_id": "0",
       "headsign": "BARTOSZOWICE",
       "service_id": "8",
@@ -117685,7 +117685,7 @@
       ]
     },
     {
-      "trip_id": "8_17615043",
+      "trip_id": "8_17719056",
       "direction_id": "1",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "8",
@@ -118008,7 +118008,7 @@
       ]
     },
     {
-      "trip_id": "8_17615044",
+      "trip_id": "8_17719057",
       "direction_id": "0",
       "headsign": "BARTOSZOWICE",
       "service_id": "8",
@@ -118313,7 +118313,7 @@
       ]
     },
     {
-      "trip_id": "8_17615045",
+      "trip_id": "8_17719058",
       "direction_id": "1",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "8",
@@ -118636,7 +118636,7 @@
       ]
     },
     {
-      "trip_id": "8_17615046",
+      "trip_id": "8_17719059",
       "direction_id": "0",
       "headsign": "BARTOSZOWICE",
       "service_id": "8",
@@ -118941,7 +118941,7 @@
       ]
     },
     {
-      "trip_id": "8_17615047",
+      "trip_id": "8_17719060",
       "direction_id": "1",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "8",
@@ -119264,7 +119264,7 @@
       ]
     },
     {
-      "trip_id": "8_17615048",
+      "trip_id": "8_17719061",
       "direction_id": "0",
       "headsign": "BARTOSZOWICE",
       "service_id": "8",
@@ -119569,7 +119569,7 @@
       ]
     },
     {
-      "trip_id": "8_17615049",
+      "trip_id": "8_17719062",
       "direction_id": "1",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "8",
@@ -119892,7 +119892,7 @@
       ]
     },
     {
-      "trip_id": "8_17615050",
+      "trip_id": "8_17719063",
       "direction_id": "0",
       "headsign": "BARTOSZOWICE",
       "service_id": "8",
@@ -120197,7 +120197,7 @@
       ]
     },
     {
-      "trip_id": "8_17615051",
+      "trip_id": "8_17719064",
       "direction_id": "1",
       "headsign": "Zajezdnia TYSKA",
       "service_id": "8",
@@ -120412,7 +120412,7 @@
       ]
     },
     {
-      "trip_id": "8_17615052",
+      "trip_id": "8_17719065",
       "direction_id": "0",
       "headsign": "BARTOSZOWICE",
       "service_id": "8",
@@ -120582,7 +120582,7 @@
       ]
     },
     {
-      "trip_id": "8_17615053",
+      "trip_id": "8_17719066",
       "direction_id": "1",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "8",
@@ -120923,7 +120923,7 @@
       ]
     },
     {
-      "trip_id": "8_17615054",
+      "trip_id": "8_17719067",
       "direction_id": "0",
       "headsign": "BARTOSZOWICE",
       "service_id": "8",
@@ -121228,7 +121228,7 @@
       ]
     },
     {
-      "trip_id": "8_17615055",
+      "trip_id": "8_17719068",
       "direction_id": "1",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "8",
@@ -121551,7 +121551,7 @@
       ]
     },
     {
-      "trip_id": "8_17615056",
+      "trip_id": "8_17719069",
       "direction_id": "0",
       "headsign": "BARTOSZOWICE",
       "service_id": "8",
@@ -121856,7 +121856,7 @@
       ]
     },
     {
-      "trip_id": "8_17615057",
+      "trip_id": "8_17719070",
       "direction_id": "1",
       "headsign": "Zajezdnia TYSKA",
       "service_id": "8",
@@ -122071,7 +122071,7 @@
       ]
     },
     {
-      "trip_id": "8_17615058",
+      "trip_id": "8_17719071",
       "direction_id": "0",
       "headsign": "BARTOSZOWICE",
       "service_id": "8",
@@ -122241,7 +122241,7 @@
       ]
     },
     {
-      "trip_id": "8_17615059",
+      "trip_id": "8_17719072",
       "direction_id": "1",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "8",
@@ -122564,7 +122564,7 @@
       ]
     },
     {
-      "trip_id": "8_17615060",
+      "trip_id": "8_17719073",
       "direction_id": "0",
       "headsign": "BARTOSZOWICE",
       "service_id": "8",
@@ -122869,7 +122869,7 @@
       ]
     },
     {
-      "trip_id": "8_17615061",
+      "trip_id": "8_17719074",
       "direction_id": "1",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "8",
@@ -123210,7 +123210,7 @@
       ]
     },
     {
-      "trip_id": "8_17615062",
+      "trip_id": "8_17719075",
       "direction_id": "0",
       "headsign": "BARTOSZOWICE",
       "service_id": "8",
@@ -123515,7 +123515,7 @@
       ]
     },
     {
-      "trip_id": "8_17615063",
+      "trip_id": "8_17719076",
       "direction_id": "1",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "8",
@@ -123838,7 +123838,7 @@
       ]
     },
     {
-      "trip_id": "8_17615064",
+      "trip_id": "8_17719077",
       "direction_id": "0",
       "headsign": "Zajezdnia TYSKA",
       "service_id": "8",
@@ -124107,7 +124107,7 @@
       ]
     },
     {
-      "trip_id": "8_17615065",
+      "trip_id": "8_17719078",
       "direction_id": "0",
       "headsign": "BARTOSZOWICE",
       "service_id": "8",
@@ -124277,7 +124277,7 @@
       ]
     },
     {
-      "trip_id": "8_17615066",
+      "trip_id": "8_17719079",
       "direction_id": "1",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "8",
@@ -124600,7 +124600,7 @@
       ]
     },
     {
-      "trip_id": "8_17615067",
+      "trip_id": "8_17719080",
       "direction_id": "0",
       "headsign": "BARTOSZOWICE",
       "service_id": "8",
@@ -124905,7 +124905,7 @@
       ]
     },
     {
-      "trip_id": "8_17615068",
+      "trip_id": "8_17719081",
       "direction_id": "1",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "8",
@@ -125228,7 +125228,7 @@
       ]
     },
     {
-      "trip_id": "8_17615069",
+      "trip_id": "8_17719082",
       "direction_id": "0",
       "headsign": "BARTOSZOWICE",
       "service_id": "8",
@@ -125533,7 +125533,7 @@
       ]
     },
     {
-      "trip_id": "8_17615070",
+      "trip_id": "8_17719083",
       "direction_id": "1",
       "headsign": "Zajezdnia TYSKA",
       "service_id": "8",
@@ -125748,7 +125748,7 @@
       ]
     },
     {
-      "trip_id": "8_17615071",
+      "trip_id": "8_17719084",
       "direction_id": "1",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "8",
@@ -126035,7 +126035,7 @@
       ]
     },
     {
-      "trip_id": "8_17615072",
+      "trip_id": "8_17719085",
       "direction_id": "0",
       "headsign": "BARTOSZOWICE",
       "service_id": "8",
@@ -126340,7 +126340,7 @@
       ]
     },
     {
-      "trip_id": "8_17615073",
+      "trip_id": "8_17719086",
       "direction_id": "1",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "8",
@@ -126663,7 +126663,7 @@
       ]
     },
     {
-      "trip_id": "8_17615074",
+      "trip_id": "8_17719087",
       "direction_id": "0",
       "headsign": "BARTOSZOWICE",
       "service_id": "8",
@@ -126968,7 +126968,7 @@
       ]
     },
     {
-      "trip_id": "8_17615075",
+      "trip_id": "8_17719088",
       "direction_id": "1",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "8",
@@ -127291,7 +127291,7 @@
       ]
     },
     {
-      "trip_id": "8_17615076",
+      "trip_id": "8_17719089",
       "direction_id": "0",
       "headsign": "BARTOSZOWICE",
       "service_id": "8",
@@ -127596,7 +127596,7 @@
       ]
     },
     {
-      "trip_id": "8_17615077",
+      "trip_id": "8_17719090",
       "direction_id": "1",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "8",
@@ -127919,7 +127919,7 @@
       ]
     },
     {
-      "trip_id": "8_17615078",
+      "trip_id": "8_17719091",
       "direction_id": "0",
       "headsign": "BARTOSZOWICE",
       "service_id": "8",
@@ -128224,7 +128224,7 @@
       ]
     },
     {
-      "trip_id": "8_17615079",
+      "trip_id": "8_17719092",
       "direction_id": "1",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "8",
@@ -128547,7 +128547,7 @@
       ]
     },
     {
-      "trip_id": "8_17615080",
+      "trip_id": "8_17719093",
       "direction_id": "0",
       "headsign": "Zajezdnia TYSKA",
       "service_id": "8",
@@ -128816,7 +128816,7 @@
       ]
     },
     {
-      "trip_id": "8_17615081",
+      "trip_id": "8_17719094",
       "direction_id": "0",
       "headsign": "BARTOSZOWICE",
       "service_id": "8",
@@ -128986,7 +128986,7 @@
       ]
     },
     {
-      "trip_id": "8_17615082",
+      "trip_id": "8_17719095",
       "direction_id": "1",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "8",
@@ -129327,7 +129327,7 @@
       ]
     },
     {
-      "trip_id": "8_17615083",
+      "trip_id": "8_17719096",
       "direction_id": "0",
       "headsign": "BARTOSZOWICE",
       "service_id": "8",
@@ -129632,7 +129632,7 @@
       ]
     },
     {
-      "trip_id": "8_17615084",
+      "trip_id": "8_17719097",
       "direction_id": "1",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "8",
@@ -129955,7 +129955,7 @@
       ]
     },
     {
-      "trip_id": "8_17615085",
+      "trip_id": "8_17719098",
       "direction_id": "0",
       "headsign": "BARTOSZOWICE",
       "service_id": "8",
@@ -130260,7 +130260,7 @@
       ]
     },
     {
-      "trip_id": "8_17615086",
+      "trip_id": "8_17719099",
       "direction_id": "1",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "8",
@@ -130583,7 +130583,7 @@
       ]
     },
     {
-      "trip_id": "8_17615087",
+      "trip_id": "8_17719100",
       "direction_id": "0",
       "headsign": "Zajezdnia TYSKA",
       "service_id": "8",
@@ -130852,7 +130852,7 @@
       ]
     },
     {
-      "trip_id": "8_17615088",
+      "trip_id": "8_17719101",
       "direction_id": "0",
       "headsign": "BARTOSZOWICE",
       "service_id": "8",
@@ -131022,7 +131022,7 @@
       ]
     },
     {
-      "trip_id": "8_17615089",
+      "trip_id": "8_17719102",
       "direction_id": "1",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "8",
@@ -131363,7 +131363,7 @@
       ]
     },
     {
-      "trip_id": "8_17615090",
+      "trip_id": "8_17719103",
       "direction_id": "0",
       "headsign": "BARTOSZOWICE",
       "service_id": "8",
@@ -131668,7 +131668,7 @@
       ]
     },
     {
-      "trip_id": "8_17615091",
+      "trip_id": "8_17719104",
       "direction_id": "1",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "8",
@@ -131991,7 +131991,7 @@
       ]
     },
     {
-      "trip_id": "8_17615092",
+      "trip_id": "8_17719105",
       "direction_id": "0",
       "headsign": "BARTOSZOWICE",
       "service_id": "8",
@@ -132296,7 +132296,7 @@
       ]
     },
     {
-      "trip_id": "8_17615093",
+      "trip_id": "8_17719106",
       "direction_id": "1",
       "headsign": "Zajezdnia TYSKA",
       "service_id": "8",
@@ -132511,7 +132511,7 @@
       ]
     },
     {
-      "trip_id": "8_17616661",
+      "trip_id": "8_17720674",
       "direction_id": "0",
       "headsign": "BARTOSZOWICE",
       "service_id": "8",
@@ -132681,7 +132681,7 @@
       ]
     },
     {
-      "trip_id": "8_17616662",
+      "trip_id": "8_17720675",
       "direction_id": "1",
       "headsign": "TYNIECKA (Pętla)",
       "service_id": "8",
@@ -133004,7 +133004,7 @@
       ]
     },
     {
-      "trip_id": "8_17616663",
+      "trip_id": "8_17720676",
       "direction_id": "0",
       "headsign": "BARTOSZOWICE",
       "service_id": "8",
@@ -133309,7 +133309,7 @@
       ]
     },
     {
-      "trip_id": "8_17616664",
+      "trip_id": "8_17720677",
       "direction_id": "1",
       "headsign": "PETRUSEWICZA",
       "service_id": "8",

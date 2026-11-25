@@ -2,7 +2,7 @@
   "line": "248",
   "trips": [
     {
-      "trip_id": "3_17599079",
+      "trip_id": "3_17703092",
       "direction_id": "1",
       "headsign": "RACŁAWICKA",
       "service_id": "3",
@@ -145,7 +145,7 @@
       ]
     },
     {
-      "trip_id": "3_17599080",
+      "trip_id": "3_17703093",
       "direction_id": "0",
       "headsign": "POŚWIĘCKA (Ośrodek Zdrowia)",
       "service_id": "3",
@@ -477,7 +477,7 @@
       ]
     },
     {
-      "trip_id": "3_17599081",
+      "trip_id": "3_17703094",
       "direction_id": "1",
       "headsign": "RACŁAWICKA",
       "service_id": "3",
@@ -818,7 +818,7 @@
       ]
     },
     {
-      "trip_id": "3_17599082",
+      "trip_id": "3_17703095",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "3",
@@ -1069,7 +1069,7 @@
       ]
     },
     {
-      "trip_id": "3_17599087",
+      "trip_id": "3_17703100",
       "direction_id": "0",
       "headsign": "POŚWIĘCKA (Ośrodek Zdrowia)",
       "service_id": "3",
@@ -1401,7 +1401,7 @@
       ]
     },
     {
-      "trip_id": "3_17599088",
+      "trip_id": "3_17703101",
       "direction_id": "1",
       "headsign": "RACŁAWICKA",
       "service_id": "3",
@@ -1742,7 +1742,7 @@
       ]
     },
     {
-      "trip_id": "3_17599089",
+      "trip_id": "3_17703102",
       "direction_id": "0",
       "headsign": "POŚWIĘCKA (Ośrodek Zdrowia)",
       "service_id": "3",
@@ -2074,7 +2074,7 @@
       ]
     },
     {
-      "trip_id": "3_17599090",
+      "trip_id": "3_17703103",
       "direction_id": "1",
       "headsign": "PETRUSEWICZA",
       "service_id": "3",
@@ -2280,7 +2280,7 @@
       ]
     },
     {
-      "trip_id": "3_17599091",
+      "trip_id": "3_17703104",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "3",
@@ -2441,7 +2441,7 @@
       ]
     },
     {
-      "trip_id": "3_17599094",
+      "trip_id": "3_17703107",
       "direction_id": "0",
       "headsign": "POŚWIĘCKA (Ośrodek Zdrowia)",
       "service_id": "3",
@@ -2620,7 +2620,7 @@
       ]
     },
     {
-      "trip_id": "3_17599095",
+      "trip_id": "3_17703108",
       "direction_id": "1",
       "headsign": "RACŁAWICKA",
       "service_id": "3",
@@ -2961,7 +2961,7 @@
       ]
     },
     {
-      "trip_id": "3_17599096",
+      "trip_id": "3_17703109",
       "direction_id": "0",
       "headsign": "POŚWIĘCKA (Ośrodek Zdrowia)",
       "service_id": "3",
@@ -3293,7 +3293,7 @@
       ]
     },
     {
-      "trip_id": "3_17599097",
+      "trip_id": "3_17703110",
       "direction_id": "1",
       "headsign": "KRZYKI",
       "service_id": "3",
@@ -3589,7 +3589,7 @@
       ]
     },
     {
-      "trip_id": "3_17599098",
+      "trip_id": "3_17703111",
       "direction_id": "0",
       "headsign": "Zajezdnia TYSKA",
       "service_id": "3",
@@ -3777,7 +3777,7 @@
       ]
     },
     {
-      "trip_id": "4_17603490",
+      "trip_id": "4_17707503",
       "direction_id": "1",
       "headsign": "RACŁAWICKA",
       "service_id": "4",
@@ -3920,7 +3920,7 @@
       ]
     },
     {
-      "trip_id": "4_17603491",
+      "trip_id": "4_17707504",
       "direction_id": "0",
       "headsign": "POŚWIĘCKA (Ośrodek Zdrowia)",
       "service_id": "4",
@@ -4252,7 +4252,7 @@
       ]
     },
     {
-      "trip_id": "4_17603492",
+      "trip_id": "4_17707505",
       "direction_id": "1",
       "headsign": "RACŁAWICKA",
       "service_id": "4",
@@ -4593,7 +4593,7 @@
       ]
     },
     {
-      "trip_id": "4_17603493",
+      "trip_id": "4_17707506",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "4",
@@ -4844,7 +4844,7 @@
       ]
     },
     {
-      "trip_id": "4_17603498",
+      "trip_id": "4_17707511",
       "direction_id": "0",
       "headsign": "POŚWIĘCKA (Ośrodek Zdrowia)",
       "service_id": "4",
@@ -5176,7 +5176,7 @@
       ]
     },
     {
-      "trip_id": "4_17603499",
+      "trip_id": "4_17707512",
       "direction_id": "1",
       "headsign": "RACŁAWICKA",
       "service_id": "4",
@@ -5517,7 +5517,7 @@
       ]
     },
     {
-      "trip_id": "4_17603500",
+      "trip_id": "4_17707513",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "4",
@@ -5831,7 +5831,7 @@
       ]
     },
     {
-      "trip_id": "4_17603503",
+      "trip_id": "4_17707516",
       "direction_id": "0",
       "headsign": "POŚWIĘCKA (Ośrodek Zdrowia)",
       "service_id": "4",
@@ -6010,7 +6010,7 @@
       ]
     },
     {
-      "trip_id": "4_17603504",
+      "trip_id": "4_17707517",
       "direction_id": "1",
       "headsign": "RACŁAWICKA",
       "service_id": "4",
@@ -6351,7 +6351,7 @@
       ]
     },
     {
-      "trip_id": "4_17603505",
+      "trip_id": "4_17707518",
       "direction_id": "0",
       "headsign": "POŚWIĘCKA (Ośrodek Zdrowia)",
       "service_id": "4",
@@ -6683,7 +6683,7 @@
       ]
     },
     {
-      "trip_id": "4_17603506",
+      "trip_id": "4_17707519",
       "direction_id": "1",
       "headsign": "KRZYKI",
       "service_id": "4",
@@ -6979,7 +6979,7 @@
       ]
     },
     {
-      "trip_id": "4_17603507",
+      "trip_id": "4_17707520",
       "direction_id": "0",
       "headsign": "Zajezdnia TYSKA",
       "service_id": "4",
@@ -7167,7 +7167,7 @@
       ]
     },
     {
-      "trip_id": "6_17609682",
+      "trip_id": "6_17713695",
       "direction_id": "1",
       "headsign": "RACŁAWICKA",
       "service_id": "6",
@@ -7310,7 +7310,7 @@
       ]
     },
     {
-      "trip_id": "6_17609683",
+      "trip_id": "6_17713696",
       "direction_id": "0",
       "headsign": "POŚWIĘCKA (Ośrodek Zdrowia)",
       "service_id": "6",
@@ -7642,7 +7642,7 @@
       ]
     },
     {
-      "trip_id": "6_17609684",
+      "trip_id": "6_17713697",
       "direction_id": "1",
       "headsign": "RACŁAWICKA",
       "service_id": "6",
@@ -7983,7 +7983,7 @@
       ]
     },
     {
-      "trip_id": "6_17609685",
+      "trip_id": "6_17713698",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "6",
@@ -8234,7 +8234,7 @@
       ]
     },
     {
-      "trip_id": "6_17609690",
+      "trip_id": "6_17713703",
       "direction_id": "0",
       "headsign": "POŚWIĘCKA (Ośrodek Zdrowia)",
       "service_id": "6",
@@ -8566,7 +8566,7 @@
       ]
     },
     {
-      "trip_id": "6_17609691",
+      "trip_id": "6_17713704",
       "direction_id": "1",
       "headsign": "RACŁAWICKA",
       "service_id": "6",
@@ -8907,7 +8907,7 @@
       ]
     },
     {
-      "trip_id": "6_17609692",
+      "trip_id": "6_17713705",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "6",
@@ -9221,7 +9221,7 @@
       ]
     },
     {
-      "trip_id": "6_17609695",
+      "trip_id": "6_17713708",
       "direction_id": "0",
       "headsign": "POŚWIĘCKA (Ośrodek Zdrowia)",
       "service_id": "6",
@@ -9400,7 +9400,7 @@
       ]
     },
     {
-      "trip_id": "6_17609696",
+      "trip_id": "6_17713709",
       "direction_id": "1",
       "headsign": "RACŁAWICKA",
       "service_id": "6",
@@ -9741,7 +9741,7 @@
       ]
     },
     {
-      "trip_id": "6_17609697",
+      "trip_id": "6_17713710",
       "direction_id": "0",
       "headsign": "POŚWIĘCKA (Ośrodek Zdrowia)",
       "service_id": "6",
@@ -10073,7 +10073,7 @@
       ]
     },
     {
-      "trip_id": "6_17609698",
+      "trip_id": "6_17713711",
       "direction_id": "1",
       "headsign": "KRZYKI",
       "service_id": "6",
@@ -10369,7 +10369,7 @@
       ]
     },
     {
-      "trip_id": "6_17609699",
+      "trip_id": "6_17713712",
       "direction_id": "0",
       "headsign": "Zajezdnia TYSKA",
       "service_id": "6",
@@ -10557,7 +10557,7 @@
       ]
     },
     {
-      "trip_id": "8_17616509",
+      "trip_id": "8_17720522",
       "direction_id": "1",
       "headsign": "RACŁAWICKA",
       "service_id": "8",
@@ -10700,7 +10700,7 @@
       ]
     },
     {
-      "trip_id": "8_17616510",
+      "trip_id": "8_17720523",
       "direction_id": "0",
       "headsign": "POŚWIĘCKA (Ośrodek Zdrowia)",
       "service_id": "8",
@@ -11032,7 +11032,7 @@
       ]
     },
     {
-      "trip_id": "8_17616511",
+      "trip_id": "8_17720524",
       "direction_id": "1",
       "headsign": "RACŁAWICKA",
       "service_id": "8",
@@ -11373,7 +11373,7 @@
       ]
     },
     {
-      "trip_id": "8_17616512",
+      "trip_id": "8_17720525",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "8",
@@ -11624,7 +11624,7 @@
       ]
     },
     {
-      "trip_id": "8_17616517",
+      "trip_id": "8_17720530",
       "direction_id": "0",
       "headsign": "POŚWIĘCKA (Ośrodek Zdrowia)",
       "service_id": "8",
@@ -11956,7 +11956,7 @@
       ]
     },
     {
-      "trip_id": "8_17616518",
+      "trip_id": "8_17720531",
       "direction_id": "1",
       "headsign": "RACŁAWICKA",
       "service_id": "8",
@@ -12297,7 +12297,7 @@
       ]
     },
     {
-      "trip_id": "8_17616519",
+      "trip_id": "8_17720532",
       "direction_id": "0",
       "headsign": "POŚWIĘCKA (Ośrodek Zdrowia)",
       "service_id": "8",
@@ -12629,7 +12629,7 @@
       ]
     },
     {
-      "trip_id": "8_17616520",
+      "trip_id": "8_17720533",
       "direction_id": "1",
       "headsign": "PETRUSEWICZA",
       "service_id": "8",
@@ -12835,7 +12835,7 @@
       ]
     },
     {
-      "trip_id": "8_17616521",
+      "trip_id": "8_17720534",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "8",
@@ -12996,7 +12996,7 @@
       ]
     },
     {
-      "trip_id": "8_17616524",
+      "trip_id": "8_17720537",
       "direction_id": "0",
       "headsign": "POŚWIĘCKA (Ośrodek Zdrowia)",
       "service_id": "8",
@@ -13175,7 +13175,7 @@
       ]
     },
     {
-      "trip_id": "8_17616525",
+      "trip_id": "8_17720538",
       "direction_id": "1",
       "headsign": "RACŁAWICKA",
       "service_id": "8",
@@ -13516,7 +13516,7 @@
       ]
     },
     {
-      "trip_id": "8_17616526",
+      "trip_id": "8_17720539",
       "direction_id": "0",
       "headsign": "POŚWIĘCKA (Ośrodek Zdrowia)",
       "service_id": "8",
@@ -13848,7 +13848,7 @@
       ]
     },
     {
-      "trip_id": "8_17616527",
+      "trip_id": "8_17720540",
       "direction_id": "1",
       "headsign": "KRZYKI",
       "service_id": "8",
@@ -14144,7 +14144,7 @@
       ]
     },
     {
-      "trip_id": "8_17616528",
+      "trip_id": "8_17720541",
       "direction_id": "0",
       "headsign": "Zajezdnia TYSKA",
       "service_id": "8",

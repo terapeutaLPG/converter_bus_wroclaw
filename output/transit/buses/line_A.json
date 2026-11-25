@@ -2,7 +2,7 @@
   "line": "A",
   "trips": [
     {
-      "trip_id": "3_17596563",
+      "trip_id": "3_17700576",
       "direction_id": "0",
       "headsign": "RACŁAWICKA",
       "service_id": "3",
@@ -316,7 +316,7 @@
       ]
     },
     {
-      "trip_id": "3_17596564",
+      "trip_id": "3_17700577",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "3",
@@ -621,7 +621,7 @@
       ]
     },
     {
-      "trip_id": "3_17596567",
+      "trip_id": "3_17700580",
       "direction_id": "0",
       "headsign": "RACŁAWICKA",
       "service_id": "3",
@@ -935,7 +935,7 @@
       ]
     },
     {
-      "trip_id": "3_17596568",
+      "trip_id": "3_17700581",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "3",
@@ -1240,7 +1240,7 @@
       ]
     },
     {
-      "trip_id": "3_17596571",
+      "trip_id": "3_17700584",
       "direction_id": "0",
       "headsign": "RACŁAWICKA",
       "service_id": "3",
@@ -1554,7 +1554,7 @@
       ]
     },
     {
-      "trip_id": "3_17596572",
+      "trip_id": "3_17700585",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "3",
@@ -1859,7 +1859,7 @@
       ]
     },
     {
-      "trip_id": "3_17596575",
+      "trip_id": "3_17700588",
       "direction_id": "0",
       "headsign": "RACŁAWICKA",
       "service_id": "3",
@@ -2173,7 +2173,7 @@
       ]
     },
     {
-      "trip_id": "3_17596576",
+      "trip_id": "3_17700589",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "3",
@@ -2478,7 +2478,7 @@
       ]
     },
     {
-      "trip_id": "3_17596587",
+      "trip_id": "3_17700600",
       "direction_id": "0",
       "headsign": "RACŁAWICKA",
       "service_id": "3",
@@ -2792,7 +2792,7 @@
       ]
     },
     {
-      "trip_id": "3_17596588",
+      "trip_id": "3_17700601",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "3",
@@ -3097,7 +3097,7 @@
       ]
     },
     {
-      "trip_id": "3_17596591",
+      "trip_id": "3_17700604",
       "direction_id": "0",
       "headsign": "RACŁAWICKA",
       "service_id": "3",
@@ -3411,7 +3411,7 @@
       ]
     },
     {
-      "trip_id": "3_17596592",
+      "trip_id": "3_17700605",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "3",
@@ -3716,7 +3716,7 @@
       ]
     },
     {
-      "trip_id": "3_17596595",
+      "trip_id": "3_17700608",
       "direction_id": "0",
       "headsign": "RACŁAWICKA",
       "service_id": "3",
@@ -4030,7 +4030,7 @@
       ]
     },
     {
-      "trip_id": "3_17596596",
+      "trip_id": "3_17700609",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "3",
@@ -4335,7 +4335,7 @@
       ]
     },
     {
-      "trip_id": "3_17596599",
+      "trip_id": "3_17700612",
       "direction_id": "0",
       "headsign": "RACŁAWICKA",
       "service_id": "3",
@@ -4649,7 +4649,7 @@
       ]
     },
     {
-      "trip_id": "3_17596600",
+      "trip_id": "3_17700613",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "3",
@@ -4954,7 +4954,7 @@
       ]
     },
     {
-      "trip_id": "3_17596609",
+      "trip_id": "3_17700622",
       "direction_id": "0",
       "headsign": "RACŁAWICKA",
       "service_id": "3",
@@ -5268,7 +5268,7 @@
       ]
     },
     {
-      "trip_id": "3_17596610",
+      "trip_id": "3_17700623",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "3",
@@ -5573,7 +5573,7 @@
       ]
     },
     {
-      "trip_id": "3_17596613",
+      "trip_id": "3_17700626",
       "direction_id": "0",
       "headsign": "RACŁAWICKA",
       "service_id": "3",
@@ -5887,7 +5887,7 @@
       ]
     },
     {
-      "trip_id": "3_17596614",
+      "trip_id": "3_17700627",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "3",
@@ -6192,7 +6192,7 @@
       ]
     },
     {
-      "trip_id": "3_17596617",
+      "trip_id": "3_17700630",
       "direction_id": "0",
       "headsign": "RACŁAWICKA",
       "service_id": "3",
@@ -6506,7 +6506,7 @@
       ]
     },
     {
-      "trip_id": "3_17596618",
+      "trip_id": "3_17700631",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "3",
@@ -6811,7 +6811,7 @@
       ]
     },
     {
-      "trip_id": "3_17596621",
+      "trip_id": "3_17700634",
       "direction_id": "0",
       "headsign": "RACŁAWICKA",
       "service_id": "3",
@@ -7125,7 +7125,7 @@
       ]
     },
     {
-      "trip_id": "3_17596622",
+      "trip_id": "3_17700635",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "3",
@@ -7430,7 +7430,7 @@
       ]
     },
     {
-      "trip_id": "3_17596623",
+      "trip_id": "3_17700636",
       "direction_id": "0",
       "headsign": "RACŁAWICKA",
       "service_id": "3",
@@ -7744,7 +7744,7 @@
       ]
     },
     {
-      "trip_id": "3_17596624",
+      "trip_id": "3_17700637",
       "direction_id": "1",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "3",
@@ -8058,7 +8058,7 @@
       ]
     },
     {
-      "trip_id": "3_17599040",
+      "trip_id": "3_17703053",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "3",
@@ -8219,7 +8219,7 @@
       ]
     },
     {
-      "trip_id": "3_17599041",
+      "trip_id": "3_17703054",
       "direction_id": "0",
       "headsign": "RACŁAWICKA",
       "service_id": "3",
@@ -8533,7 +8533,7 @@
       ]
     },
     {
-      "trip_id": "3_17599042",
+      "trip_id": "3_17703055",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "3",
@@ -8838,7 +8838,7 @@
       ]
     },
     {
-      "trip_id": "3_17599099",
+      "trip_id": "3_17703112",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "3",
@@ -8999,7 +8999,7 @@
       ]
     },
     {
-      "trip_id": "3_17599100",
+      "trip_id": "3_17703113",
       "direction_id": "0",
       "headsign": "KRZYKI",
       "service_id": "3",
@@ -9358,7 +9358,7 @@
       ]
     },
     {
-      "trip_id": "3_17599146",
+      "trip_id": "3_17703159",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "3",
@@ -9519,7 +9519,7 @@
       ]
     },
     {
-      "trip_id": "3_17599147",
+      "trip_id": "3_17703160",
       "direction_id": "0",
       "headsign": "RACŁAWICKA",
       "service_id": "3",
@@ -9833,7 +9833,7 @@
       ]
     },
     {
-      "trip_id": "3_17599148",
+      "trip_id": "3_17703161",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "3",
@@ -10138,7 +10138,7 @@
       ]
     },
     {
-      "trip_id": "3_17599370",
+      "trip_id": "3_17703383",
       "direction_id": "0",
       "headsign": "RACŁAWICKA",
       "service_id": "3",
@@ -10461,7 +10461,7 @@
       ]
     },
     {
-      "trip_id": "3_17599371",
+      "trip_id": "3_17703384",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "3",
@@ -10766,7 +10766,7 @@
       ]
     },
     {
-      "trip_id": "3_17599374",
+      "trip_id": "3_17703387",
       "direction_id": "0",
       "headsign": "RACŁAWICKA",
       "service_id": "3",
@@ -11080,7 +11080,7 @@
       ]
     },
     {
-      "trip_id": "3_17599375",
+      "trip_id": "3_17703388",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "3",
@@ -11385,7 +11385,7 @@
       ]
     },
     {
-      "trip_id": "3_17599378",
+      "trip_id": "3_17703391",
       "direction_id": "0",
       "headsign": "RACŁAWICKA",
       "service_id": "3",
@@ -11699,7 +11699,7 @@
       ]
     },
     {
-      "trip_id": "3_17599379",
+      "trip_id": "3_17703392",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "3",
@@ -12004,7 +12004,7 @@
       ]
     },
     {
-      "trip_id": "3_17599382",
+      "trip_id": "3_17703395",
       "direction_id": "0",
       "headsign": "RACŁAWICKA",
       "service_id": "3",
@@ -12318,7 +12318,7 @@
       ]
     },
     {
-      "trip_id": "3_17599383",
+      "trip_id": "3_17703396",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "3",
@@ -12623,7 +12623,7 @@
       ]
     },
     {
-      "trip_id": "3_17599384",
+      "trip_id": "3_17703397",
       "direction_id": "0",
       "headsign": "RACŁAWICKA",
       "service_id": "3",
@@ -12937,7 +12937,7 @@
       ]
     },
     {
-      "trip_id": "3_17599385",
+      "trip_id": "3_17703398",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "3",
@@ -13242,7 +13242,7 @@
       ]
     },
     {
-      "trip_id": "3_17599386",
+      "trip_id": "3_17703399",
       "direction_id": "0",
       "headsign": "KRZYKI",
       "service_id": "3",
@@ -13601,7 +13601,7 @@
       ]
     },
     {
-      "trip_id": "3_17599389",
+      "trip_id": "3_17703402",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "3",
@@ -13762,7 +13762,7 @@
       ]
     },
     {
-      "trip_id": "3_17599390",
+      "trip_id": "3_17703403",
       "direction_id": "0",
       "headsign": "RACŁAWICKA",
       "service_id": "3",
@@ -14076,7 +14076,7 @@
       ]
     },
     {
-      "trip_id": "3_17599391",
+      "trip_id": "3_17703404",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "3",
@@ -14381,7 +14381,7 @@
       ]
     },
     {
-      "trip_id": "3_17599394",
+      "trip_id": "3_17703407",
       "direction_id": "0",
       "headsign": "RACŁAWICKA",
       "service_id": "3",
@@ -14695,7 +14695,7 @@
       ]
     },
     {
-      "trip_id": "3_17599395",
+      "trip_id": "3_17703408",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "3",
@@ -15000,7 +15000,7 @@
       ]
     },
     {
-      "trip_id": "3_17599398",
+      "trip_id": "3_17703411",
       "direction_id": "0",
       "headsign": "RACŁAWICKA",
       "service_id": "3",
@@ -15314,7 +15314,7 @@
       ]
     },
     {
-      "trip_id": "3_17599399",
+      "trip_id": "3_17703412",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "3",
@@ -15619,7 +15619,7 @@
       ]
     },
     {
-      "trip_id": "3_17599402",
+      "trip_id": "3_17703415",
       "direction_id": "0",
       "headsign": "RACŁAWICKA",
       "service_id": "3",
@@ -15933,7 +15933,7 @@
       ]
     },
     {
-      "trip_id": "3_17599403",
+      "trip_id": "3_17703416",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "3",
@@ -16238,7 +16238,7 @@
       ]
     },
     {
-      "trip_id": "3_17599404",
+      "trip_id": "3_17703417",
       "direction_id": "0",
       "headsign": "RACŁAWICKA",
       "service_id": "3",
@@ -16552,7 +16552,7 @@
       ]
     },
     {
-      "trip_id": "3_17599405",
+      "trip_id": "3_17703418",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "3",
@@ -16857,7 +16857,7 @@
       ]
     },
     {
-      "trip_id": "3_17599406",
+      "trip_id": "3_17703419",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "3",
@@ -17018,7 +17018,7 @@
       ]
     },
     {
-      "trip_id": "3_17599407",
+      "trip_id": "3_17703420",
       "direction_id": "0",
       "headsign": "RACŁAWICKA",
       "service_id": "3",
@@ -17341,7 +17341,7 @@
       ]
     },
     {
-      "trip_id": "3_17599408",
+      "trip_id": "3_17703421",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "3",
@@ -17646,7 +17646,7 @@
       ]
     },
     {
-      "trip_id": "3_17599411",
+      "trip_id": "3_17703424",
       "direction_id": "0",
       "headsign": "RACŁAWICKA",
       "service_id": "3",
@@ -17960,7 +17960,7 @@
       ]
     },
     {
-      "trip_id": "3_17599412",
+      "trip_id": "3_17703425",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "3",
@@ -18265,7 +18265,7 @@
       ]
     },
     {
-      "trip_id": "3_17599415",
+      "trip_id": "3_17703428",
       "direction_id": "0",
       "headsign": "RACŁAWICKA",
       "service_id": "3",
@@ -18579,7 +18579,7 @@
       ]
     },
     {
-      "trip_id": "3_17599416",
+      "trip_id": "3_17703429",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "3",
@@ -18884,7 +18884,7 @@
       ]
     },
     {
-      "trip_id": "3_17599419",
+      "trip_id": "3_17703432",
       "direction_id": "0",
       "headsign": "RACŁAWICKA",
       "service_id": "3",
@@ -19198,7 +19198,7 @@
       ]
     },
     {
-      "trip_id": "3_17599420",
+      "trip_id": "3_17703433",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "3",
@@ -19503,7 +19503,7 @@
       ]
     },
     {
-      "trip_id": "3_17599426",
+      "trip_id": "3_17703439",
       "direction_id": "0",
       "headsign": "RACŁAWICKA",
       "service_id": "3",
@@ -19826,7 +19826,7 @@
       ]
     },
     {
-      "trip_id": "3_17599427",
+      "trip_id": "3_17703440",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "3",
@@ -20131,7 +20131,7 @@
       ]
     },
     {
-      "trip_id": "3_17599430",
+      "trip_id": "3_17703443",
       "direction_id": "0",
       "headsign": "RACŁAWICKA",
       "service_id": "3",
@@ -20445,7 +20445,7 @@
       ]
     },
     {
-      "trip_id": "3_17599431",
+      "trip_id": "3_17703444",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "3",
@@ -20750,7 +20750,7 @@
       ]
     },
     {
-      "trip_id": "3_17599434",
+      "trip_id": "3_17703447",
       "direction_id": "0",
       "headsign": "RACŁAWICKA",
       "service_id": "3",
@@ -21064,7 +21064,7 @@
       ]
     },
     {
-      "trip_id": "3_17599435",
+      "trip_id": "3_17703448",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "3",
@@ -21369,7 +21369,7 @@
       ]
     },
     {
-      "trip_id": "3_17599438",
+      "trip_id": "3_17703451",
       "direction_id": "0",
       "headsign": "RACŁAWICKA",
       "service_id": "3",
@@ -21683,7 +21683,7 @@
       ]
     },
     {
-      "trip_id": "3_17599439",
+      "trip_id": "3_17703452",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "3",
@@ -21988,7 +21988,7 @@
       ]
     },
     {
-      "trip_id": "3_17599445",
+      "trip_id": "3_17703458",
       "direction_id": "0",
       "headsign": "RACŁAWICKA",
       "service_id": "3",
@@ -22311,7 +22311,7 @@
       ]
     },
     {
-      "trip_id": "3_17599446",
+      "trip_id": "3_17703459",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "3",
@@ -22616,7 +22616,7 @@
       ]
     },
     {
-      "trip_id": "3_17599449",
+      "trip_id": "3_17703462",
       "direction_id": "0",
       "headsign": "RACŁAWICKA",
       "service_id": "3",
@@ -22930,7 +22930,7 @@
       ]
     },
     {
-      "trip_id": "3_17599450",
+      "trip_id": "3_17703463",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "3",
@@ -23235,7 +23235,7 @@
       ]
     },
     {
-      "trip_id": "3_17599453",
+      "trip_id": "3_17703466",
       "direction_id": "0",
       "headsign": "RACŁAWICKA",
       "service_id": "3",
@@ -23549,7 +23549,7 @@
       ]
     },
     {
-      "trip_id": "3_17599454",
+      "trip_id": "3_17703467",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "3",
@@ -23854,7 +23854,7 @@
       ]
     },
     {
-      "trip_id": "3_17599457",
+      "trip_id": "3_17703470",
       "direction_id": "0",
       "headsign": "RACŁAWICKA",
       "service_id": "3",
@@ -24168,7 +24168,7 @@
       ]
     },
     {
-      "trip_id": "3_17599458",
+      "trip_id": "3_17703471",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "3",
@@ -24473,7 +24473,7 @@
       ]
     },
     {
-      "trip_id": "4_17601069",
+      "trip_id": "4_17705082",
       "direction_id": "0",
       "headsign": "RACŁAWICKA",
       "service_id": "4",
@@ -24787,7 +24787,7 @@
       ]
     },
     {
-      "trip_id": "4_17601070",
+      "trip_id": "4_17705083",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "4",
@@ -25092,7 +25092,7 @@
       ]
     },
     {
-      "trip_id": "4_17601073",
+      "trip_id": "4_17705086",
       "direction_id": "0",
       "headsign": "RACŁAWICKA",
       "service_id": "4",
@@ -25406,7 +25406,7 @@
       ]
     },
     {
-      "trip_id": "4_17601074",
+      "trip_id": "4_17705087",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "4",
@@ -25711,7 +25711,7 @@
       ]
     },
     {
-      "trip_id": "4_17601077",
+      "trip_id": "4_17705090",
       "direction_id": "0",
       "headsign": "RACŁAWICKA",
       "service_id": "4",
@@ -26025,7 +26025,7 @@
       ]
     },
     {
-      "trip_id": "4_17601078",
+      "trip_id": "4_17705091",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "4",
@@ -26330,7 +26330,7 @@
       ]
     },
     {
-      "trip_id": "4_17601081",
+      "trip_id": "4_17705094",
       "direction_id": "0",
       "headsign": "RACŁAWICKA",
       "service_id": "4",
@@ -26644,7 +26644,7 @@
       ]
     },
     {
-      "trip_id": "4_17601082",
+      "trip_id": "4_17705095",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "4",
@@ -26949,7 +26949,7 @@
       ]
     },
     {
-      "trip_id": "4_17601093",
+      "trip_id": "4_17705106",
       "direction_id": "0",
       "headsign": "RACŁAWICKA",
       "service_id": "4",
@@ -27263,7 +27263,7 @@
       ]
     },
     {
-      "trip_id": "4_17601094",
+      "trip_id": "4_17705107",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "4",
@@ -27568,7 +27568,7 @@
       ]
     },
     {
-      "trip_id": "4_17601097",
+      "trip_id": "4_17705110",
       "direction_id": "0",
       "headsign": "RACŁAWICKA",
       "service_id": "4",
@@ -27882,7 +27882,7 @@
       ]
     },
     {
-      "trip_id": "4_17601098",
+      "trip_id": "4_17705111",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "4",
@@ -28187,7 +28187,7 @@
       ]
     },
     {
-      "trip_id": "4_17601101",
+      "trip_id": "4_17705114",
       "direction_id": "0",
       "headsign": "RACŁAWICKA",
       "service_id": "4",
@@ -28501,7 +28501,7 @@
       ]
     },
     {
-      "trip_id": "4_17601102",
+      "trip_id": "4_17705115",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "4",
@@ -28806,7 +28806,7 @@
       ]
     },
     {
-      "trip_id": "4_17601105",
+      "trip_id": "4_17705118",
       "direction_id": "0",
       "headsign": "RACŁAWICKA",
       "service_id": "4",
@@ -29120,7 +29120,7 @@
       ]
     },
     {
-      "trip_id": "4_17601106",
+      "trip_id": "4_17705119",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "4",
@@ -29425,7 +29425,7 @@
       ]
     },
     {
-      "trip_id": "4_17601115",
+      "trip_id": "4_17705128",
       "direction_id": "0",
       "headsign": "RACŁAWICKA",
       "service_id": "4",
@@ -29739,7 +29739,7 @@
       ]
     },
     {
-      "trip_id": "4_17601116",
+      "trip_id": "4_17705129",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "4",
@@ -30044,7 +30044,7 @@
       ]
     },
     {
-      "trip_id": "4_17601119",
+      "trip_id": "4_17705132",
       "direction_id": "0",
       "headsign": "RACŁAWICKA",
       "service_id": "4",
@@ -30358,7 +30358,7 @@
       ]
     },
     {
-      "trip_id": "4_17601120",
+      "trip_id": "4_17705133",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "4",
@@ -30663,7 +30663,7 @@
       ]
     },
     {
-      "trip_id": "4_17601123",
+      "trip_id": "4_17705136",
       "direction_id": "0",
       "headsign": "RACŁAWICKA",
       "service_id": "4",
@@ -30977,7 +30977,7 @@
       ]
     },
     {
-      "trip_id": "4_17601124",
+      "trip_id": "4_17705137",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "4",
@@ -31282,7 +31282,7 @@
       ]
     },
     {
-      "trip_id": "4_17601127",
+      "trip_id": "4_17705140",
       "direction_id": "0",
       "headsign": "RACŁAWICKA",
       "service_id": "4",
@@ -31596,7 +31596,7 @@
       ]
     },
     {
-      "trip_id": "4_17601128",
+      "trip_id": "4_17705141",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "4",
@@ -31901,7 +31901,7 @@
       ]
     },
     {
-      "trip_id": "4_17601129",
+      "trip_id": "4_17705142",
       "direction_id": "0",
       "headsign": "RACŁAWICKA",
       "service_id": "4",
@@ -32215,7 +32215,7 @@
       ]
     },
     {
-      "trip_id": "4_17601130",
+      "trip_id": "4_17705143",
       "direction_id": "1",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "4",
@@ -32529,7 +32529,7 @@
       ]
     },
     {
-      "trip_id": "4_17603452",
+      "trip_id": "4_17707465",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "4",
@@ -32690,7 +32690,7 @@
       ]
     },
     {
-      "trip_id": "4_17603453",
+      "trip_id": "4_17707466",
       "direction_id": "0",
       "headsign": "RACŁAWICKA",
       "service_id": "4",
@@ -33004,7 +33004,7 @@
       ]
     },
     {
-      "trip_id": "4_17603454",
+      "trip_id": "4_17707467",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "4",
@@ -33309,7 +33309,7 @@
       ]
     },
     {
-      "trip_id": "4_17603508",
+      "trip_id": "4_17707521",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "4",
@@ -33470,7 +33470,7 @@
       ]
     },
     {
-      "trip_id": "4_17603509",
+      "trip_id": "4_17707522",
       "direction_id": "0",
       "headsign": "KRZYKI",
       "service_id": "4",
@@ -33829,7 +33829,7 @@
       ]
     },
     {
-      "trip_id": "4_17603554",
+      "trip_id": "4_17707567",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "4",
@@ -33990,7 +33990,7 @@
       ]
     },
     {
-      "trip_id": "4_17603555",
+      "trip_id": "4_17707568",
       "direction_id": "0",
       "headsign": "RACŁAWICKA",
       "service_id": "4",
@@ -34304,7 +34304,7 @@
       ]
     },
     {
-      "trip_id": "4_17603556",
+      "trip_id": "4_17707569",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "4",
@@ -34609,7 +34609,7 @@
       ]
     },
     {
-      "trip_id": "4_17603779",
+      "trip_id": "4_17707792",
       "direction_id": "0",
       "headsign": "RACŁAWICKA",
       "service_id": "4",
@@ -34932,7 +34932,7 @@
       ]
     },
     {
-      "trip_id": "4_17603780",
+      "trip_id": "4_17707793",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "4",
@@ -35237,7 +35237,7 @@
       ]
     },
     {
-      "trip_id": "4_17603783",
+      "trip_id": "4_17707796",
       "direction_id": "0",
       "headsign": "RACŁAWICKA",
       "service_id": "4",
@@ -35551,7 +35551,7 @@
       ]
     },
     {
-      "trip_id": "4_17603784",
+      "trip_id": "4_17707797",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "4",
@@ -35856,7 +35856,7 @@
       ]
     },
     {
-      "trip_id": "4_17603787",
+      "trip_id": "4_17707800",
       "direction_id": "0",
       "headsign": "RACŁAWICKA",
       "service_id": "4",
@@ -36170,7 +36170,7 @@
       ]
     },
     {
-      "trip_id": "4_17603788",
+      "trip_id": "4_17707801",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "4",
@@ -36475,7 +36475,7 @@
       ]
     },
     {
-      "trip_id": "4_17603791",
+      "trip_id": "4_17707804",
       "direction_id": "0",
       "headsign": "RACŁAWICKA",
       "service_id": "4",
@@ -36789,7 +36789,7 @@
       ]
     },
     {
-      "trip_id": "4_17603792",
+      "trip_id": "4_17707805",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "4",
@@ -37094,7 +37094,7 @@
       ]
     },
     {
-      "trip_id": "4_17603793",
+      "trip_id": "4_17707806",
       "direction_id": "0",
       "headsign": "RACŁAWICKA",
       "service_id": "4",
@@ -37408,7 +37408,7 @@
       ]
     },
     {
-      "trip_id": "4_17603794",
+      "trip_id": "4_17707807",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "4",
@@ -37713,7 +37713,7 @@
       ]
     },
     {
-      "trip_id": "4_17603795",
+      "trip_id": "4_17707808",
       "direction_id": "0",
       "headsign": "KRZYKI",
       "service_id": "4",
@@ -38072,7 +38072,7 @@
       ]
     },
     {
-      "trip_id": "4_17603798",
+      "trip_id": "4_17707811",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "4",
@@ -38233,7 +38233,7 @@
       ]
     },
     {
-      "trip_id": "4_17603799",
+      "trip_id": "4_17707812",
       "direction_id": "0",
       "headsign": "RACŁAWICKA",
       "service_id": "4",
@@ -38547,7 +38547,7 @@
       ]
     },
     {
-      "trip_id": "4_17603800",
+      "trip_id": "4_17707813",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "4",
@@ -38852,7 +38852,7 @@
       ]
     },
     {
-      "trip_id": "4_17603803",
+      "trip_id": "4_17707816",
       "direction_id": "0",
       "headsign": "RACŁAWICKA",
       "service_id": "4",
@@ -39166,7 +39166,7 @@
       ]
     },
     {
-      "trip_id": "4_17603804",
+      "trip_id": "4_17707817",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "4",
@@ -39471,7 +39471,7 @@
       ]
     },
     {
-      "trip_id": "4_17603807",
+      "trip_id": "4_17707820",
       "direction_id": "0",
       "headsign": "RACŁAWICKA",
       "service_id": "4",
@@ -39785,7 +39785,7 @@
       ]
     },
     {
-      "trip_id": "4_17603808",
+      "trip_id": "4_17707821",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "4",
@@ -40090,7 +40090,7 @@
       ]
     },
     {
-      "trip_id": "4_17603811",
+      "trip_id": "4_17707824",
       "direction_id": "0",
       "headsign": "RACŁAWICKA",
       "service_id": "4",
@@ -40404,7 +40404,7 @@
       ]
     },
     {
-      "trip_id": "4_17603812",
+      "trip_id": "4_17707825",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "4",
@@ -40709,7 +40709,7 @@
       ]
     },
     {
-      "trip_id": "4_17603813",
+      "trip_id": "4_17707826",
       "direction_id": "0",
       "headsign": "RACŁAWICKA",
       "service_id": "4",
@@ -41023,7 +41023,7 @@
       ]
     },
     {
-      "trip_id": "4_17603814",
+      "trip_id": "4_17707827",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "4",
@@ -41328,7 +41328,7 @@
       ]
     },
     {
-      "trip_id": "4_17603815",
+      "trip_id": "4_17707828",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "4",
@@ -41489,7 +41489,7 @@
       ]
     },
     {
-      "trip_id": "4_17603816",
+      "trip_id": "4_17707829",
       "direction_id": "0",
       "headsign": "RACŁAWICKA",
       "service_id": "4",
@@ -41812,7 +41812,7 @@
       ]
     },
     {
-      "trip_id": "4_17603817",
+      "trip_id": "4_17707830",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "4",
@@ -42117,7 +42117,7 @@
       ]
     },
     {
-      "trip_id": "4_17603820",
+      "trip_id": "4_17707833",
       "direction_id": "0",
       "headsign": "RACŁAWICKA",
       "service_id": "4",
@@ -42431,7 +42431,7 @@
       ]
     },
     {
-      "trip_id": "4_17603821",
+      "trip_id": "4_17707834",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "4",
@@ -42736,7 +42736,7 @@
       ]
     },
     {
-      "trip_id": "4_17603824",
+      "trip_id": "4_17707837",
       "direction_id": "0",
       "headsign": "RACŁAWICKA",
       "service_id": "4",
@@ -43050,7 +43050,7 @@
       ]
     },
     {
-      "trip_id": "4_17603825",
+      "trip_id": "4_17707838",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "4",
@@ -43355,7 +43355,7 @@
       ]
     },
     {
-      "trip_id": "4_17603828",
+      "trip_id": "4_17707841",
       "direction_id": "0",
       "headsign": "RACŁAWICKA",
       "service_id": "4",
@@ -43669,7 +43669,7 @@
       ]
     },
     {
-      "trip_id": "4_17603829",
+      "trip_id": "4_17707842",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "4",
@@ -43974,7 +43974,7 @@
       ]
     },
     {
-      "trip_id": "4_17603835",
+      "trip_id": "4_17707848",
       "direction_id": "0",
       "headsign": "RACŁAWICKA",
       "service_id": "4",
@@ -44297,7 +44297,7 @@
       ]
     },
     {
-      "trip_id": "4_17603836",
+      "trip_id": "4_17707849",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "4",
@@ -44602,7 +44602,7 @@
       ]
     },
     {
-      "trip_id": "4_17603839",
+      "trip_id": "4_17707852",
       "direction_id": "0",
       "headsign": "RACŁAWICKA",
       "service_id": "4",
@@ -44916,7 +44916,7 @@
       ]
     },
     {
-      "trip_id": "4_17603840",
+      "trip_id": "4_17707853",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "4",
@@ -45221,7 +45221,7 @@
       ]
     },
     {
-      "trip_id": "4_17603843",
+      "trip_id": "4_17707856",
       "direction_id": "0",
       "headsign": "RACŁAWICKA",
       "service_id": "4",
@@ -45535,7 +45535,7 @@
       ]
     },
     {
-      "trip_id": "4_17603844",
+      "trip_id": "4_17707857",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "4",
@@ -45840,7 +45840,7 @@
       ]
     },
     {
-      "trip_id": "4_17603847",
+      "trip_id": "4_17707860",
       "direction_id": "0",
       "headsign": "RACŁAWICKA",
       "service_id": "4",
@@ -46154,7 +46154,7 @@
       ]
     },
     {
-      "trip_id": "4_17603848",
+      "trip_id": "4_17707861",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "4",
@@ -46459,7 +46459,7 @@
       ]
     },
     {
-      "trip_id": "4_17603854",
+      "trip_id": "4_17707867",
       "direction_id": "0",
       "headsign": "RACŁAWICKA",
       "service_id": "4",
@@ -46782,7 +46782,7 @@
       ]
     },
     {
-      "trip_id": "4_17603855",
+      "trip_id": "4_17707868",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "4",
@@ -47087,7 +47087,7 @@
       ]
     },
     {
-      "trip_id": "4_17603858",
+      "trip_id": "4_17707871",
       "direction_id": "0",
       "headsign": "RACŁAWICKA",
       "service_id": "4",
@@ -47401,7 +47401,7 @@
       ]
     },
     {
-      "trip_id": "4_17603859",
+      "trip_id": "4_17707872",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "4",
@@ -47706,7 +47706,7 @@
       ]
     },
     {
-      "trip_id": "4_17603862",
+      "trip_id": "4_17707875",
       "direction_id": "0",
       "headsign": "RACŁAWICKA",
       "service_id": "4",
@@ -48020,7 +48020,7 @@
       ]
     },
     {
-      "trip_id": "4_17603863",
+      "trip_id": "4_17707876",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "4",
@@ -48325,7 +48325,7 @@
       ]
     },
     {
-      "trip_id": "4_17603866",
+      "trip_id": "4_17707879",
       "direction_id": "0",
       "headsign": "RACŁAWICKA",
       "service_id": "4",
@@ -48639,7 +48639,7 @@
       ]
     },
     {
-      "trip_id": "4_17603867",
+      "trip_id": "4_17707880",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "4",
@@ -48944,7 +48944,7 @@
       ]
     },
     {
-      "trip_id": "6_17609644",
+      "trip_id": "6_17713657",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "6",
@@ -49105,7 +49105,7 @@
       ]
     },
     {
-      "trip_id": "6_17609645",
+      "trip_id": "6_17713658",
       "direction_id": "0",
       "headsign": "RACŁAWICKA",
       "service_id": "6",
@@ -49419,7 +49419,7 @@
       ]
     },
     {
-      "trip_id": "6_17609646",
+      "trip_id": "6_17713659",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "6",
@@ -49724,7 +49724,7 @@
       ]
     },
     {
-      "trip_id": "6_17609700",
+      "trip_id": "6_17713713",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "6",
@@ -49885,7 +49885,7 @@
       ]
     },
     {
-      "trip_id": "6_17609701",
+      "trip_id": "6_17713714",
       "direction_id": "0",
       "headsign": "KRZYKI",
       "service_id": "6",
@@ -50244,7 +50244,7 @@
       ]
     },
     {
-      "trip_id": "6_17609744",
+      "trip_id": "6_17713757",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "6",
@@ -50405,7 +50405,7 @@
       ]
     },
     {
-      "trip_id": "6_17609745",
+      "trip_id": "6_17713758",
       "direction_id": "0",
       "headsign": "RACŁAWICKA",
       "service_id": "6",
@@ -50719,7 +50719,7 @@
       ]
     },
     {
-      "trip_id": "6_17609746",
+      "trip_id": "6_17713759",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "6",
@@ -51024,7 +51024,7 @@
       ]
     },
     {
-      "trip_id": "6_17610438",
+      "trip_id": "6_17714451",
       "direction_id": "0",
       "headsign": "RACŁAWICKA",
       "service_id": "6",
@@ -51347,7 +51347,7 @@
       ]
     },
     {
-      "trip_id": "6_17610439",
+      "trip_id": "6_17714452",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "6",
@@ -51652,7 +51652,7 @@
       ]
     },
     {
-      "trip_id": "6_17610440",
+      "trip_id": "6_17714453",
       "direction_id": "0",
       "headsign": "RACŁAWICKA",
       "service_id": "6",
@@ -51966,7 +51966,7 @@
       ]
     },
     {
-      "trip_id": "6_17610441",
+      "trip_id": "6_17714454",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "6",
@@ -52271,7 +52271,7 @@
       ]
     },
     {
-      "trip_id": "6_17610442",
+      "trip_id": "6_17714455",
       "direction_id": "0",
       "headsign": "RACŁAWICKA",
       "service_id": "6",
@@ -52585,7 +52585,7 @@
       ]
     },
     {
-      "trip_id": "6_17610443",
+      "trip_id": "6_17714456",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "6",
@@ -52890,7 +52890,7 @@
       ]
     },
     {
-      "trip_id": "6_17610444",
+      "trip_id": "6_17714457",
       "direction_id": "0",
       "headsign": "RACŁAWICKA",
       "service_id": "6",
@@ -53204,7 +53204,7 @@
       ]
     },
     {
-      "trip_id": "6_17610445",
+      "trip_id": "6_17714458",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "6",
@@ -53509,7 +53509,7 @@
       ]
     },
     {
-      "trip_id": "6_17610446",
+      "trip_id": "6_17714459",
       "direction_id": "0",
       "headsign": "RACŁAWICKA",
       "service_id": "6",
@@ -53823,7 +53823,7 @@
       ]
     },
     {
-      "trip_id": "6_17610447",
+      "trip_id": "6_17714460",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "6",
@@ -54128,7 +54128,7 @@
       ]
     },
     {
-      "trip_id": "6_17610448",
+      "trip_id": "6_17714461",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "6",
@@ -54289,7 +54289,7 @@
       ]
     },
     {
-      "trip_id": "6_17610449",
+      "trip_id": "6_17714462",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "6",
@@ -54450,7 +54450,7 @@
       ]
     },
     {
-      "trip_id": "6_17610450",
+      "trip_id": "6_17714463",
       "direction_id": "0",
       "headsign": "RACŁAWICKA",
       "service_id": "6",
@@ -54764,7 +54764,7 @@
       ]
     },
     {
-      "trip_id": "6_17610451",
+      "trip_id": "6_17714464",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "6",
@@ -55069,7 +55069,7 @@
       ]
     },
     {
-      "trip_id": "6_17610452",
+      "trip_id": "6_17714465",
       "direction_id": "0",
       "headsign": "RACŁAWICKA",
       "service_id": "6",
@@ -55383,7 +55383,7 @@
       ]
     },
     {
-      "trip_id": "6_17610453",
+      "trip_id": "6_17714466",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "6",
@@ -55688,7 +55688,7 @@
       ]
     },
     {
-      "trip_id": "6_17610454",
+      "trip_id": "6_17714467",
       "direction_id": "0",
       "headsign": "RACŁAWICKA",
       "service_id": "6",
@@ -56002,7 +56002,7 @@
       ]
     },
     {
-      "trip_id": "6_17610455",
+      "trip_id": "6_17714468",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "6",
@@ -56307,7 +56307,7 @@
       ]
     },
     {
-      "trip_id": "6_17610456",
+      "trip_id": "6_17714469",
       "direction_id": "0",
       "headsign": "RACŁAWICKA",
       "service_id": "6",
@@ -56621,7 +56621,7 @@
       ]
     },
     {
-      "trip_id": "6_17610457",
+      "trip_id": "6_17714470",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "6",
@@ -56926,7 +56926,7 @@
       ]
     },
     {
-      "trip_id": "6_17610458",
+      "trip_id": "6_17714471",
       "direction_id": "0",
       "headsign": "RACŁAWICKA",
       "service_id": "6",
@@ -57240,7 +57240,7 @@
       ]
     },
     {
-      "trip_id": "6_17610459",
+      "trip_id": "6_17714472",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "6",
@@ -57545,7 +57545,7 @@
       ]
     },
     {
-      "trip_id": "6_17610460",
+      "trip_id": "6_17714473",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "6",
@@ -57706,7 +57706,7 @@
       ]
     },
     {
-      "trip_id": "6_17610461",
+      "trip_id": "6_17714474",
       "direction_id": "0",
       "headsign": "RACŁAWICKA",
       "service_id": "6",
@@ -58029,7 +58029,7 @@
       ]
     },
     {
-      "trip_id": "6_17610462",
+      "trip_id": "6_17714475",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "6",
@@ -58334,7 +58334,7 @@
       ]
     },
     {
-      "trip_id": "6_17610463",
+      "trip_id": "6_17714476",
       "direction_id": "0",
       "headsign": "RACŁAWICKA",
       "service_id": "6",
@@ -58648,7 +58648,7 @@
       ]
     },
     {
-      "trip_id": "6_17610464",
+      "trip_id": "6_17714477",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "6",
@@ -58953,7 +58953,7 @@
       ]
     },
     {
-      "trip_id": "6_17610465",
+      "trip_id": "6_17714478",
       "direction_id": "0",
       "headsign": "RACŁAWICKA",
       "service_id": "6",
@@ -59267,7 +59267,7 @@
       ]
     },
     {
-      "trip_id": "6_17610466",
+      "trip_id": "6_17714479",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "6",
@@ -59572,7 +59572,7 @@
       ]
     },
     {
-      "trip_id": "6_17610467",
+      "trip_id": "6_17714480",
       "direction_id": "0",
       "headsign": "RACŁAWICKA",
       "service_id": "6",
@@ -59886,7 +59886,7 @@
       ]
     },
     {
-      "trip_id": "6_17610468",
+      "trip_id": "6_17714481",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "6",
@@ -60191,7 +60191,7 @@
       ]
     },
     {
-      "trip_id": "6_17610469",
+      "trip_id": "6_17714482",
       "direction_id": "0",
       "headsign": "RACŁAWICKA",
       "service_id": "6",
@@ -60505,7 +60505,7 @@
       ]
     },
     {
-      "trip_id": "6_17610470",
+      "trip_id": "6_17714483",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "6",
@@ -60810,7 +60810,7 @@
       ]
     },
     {
-      "trip_id": "6_17610471",
+      "trip_id": "6_17714484",
       "direction_id": "0",
       "headsign": "RACŁAWICKA",
       "service_id": "6",
@@ -61124,7 +61124,7 @@
       ]
     },
     {
-      "trip_id": "6_17610472",
+      "trip_id": "6_17714485",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "6",
@@ -61429,7 +61429,7 @@
       ]
     },
     {
-      "trip_id": "6_17610473",
+      "trip_id": "6_17714486",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "6",
@@ -61590,7 +61590,7 @@
       ]
     },
     {
-      "trip_id": "6_17610474",
+      "trip_id": "6_17714487",
       "direction_id": "0",
       "headsign": "RACŁAWICKA",
       "service_id": "6",
@@ -61913,7 +61913,7 @@
       ]
     },
     {
-      "trip_id": "6_17610475",
+      "trip_id": "6_17714488",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "6",
@@ -62218,7 +62218,7 @@
       ]
     },
     {
-      "trip_id": "6_17610476",
+      "trip_id": "6_17714489",
       "direction_id": "0",
       "headsign": "RACŁAWICKA",
       "service_id": "6",
@@ -62532,7 +62532,7 @@
       ]
     },
     {
-      "trip_id": "6_17610477",
+      "trip_id": "6_17714490",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "6",
@@ -62837,7 +62837,7 @@
       ]
     },
     {
-      "trip_id": "6_17610478",
+      "trip_id": "6_17714491",
       "direction_id": "0",
       "headsign": "RACŁAWICKA",
       "service_id": "6",
@@ -63151,7 +63151,7 @@
       ]
     },
     {
-      "trip_id": "6_17610479",
+      "trip_id": "6_17714492",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "6",
@@ -63456,7 +63456,7 @@
       ]
     },
     {
-      "trip_id": "6_17610480",
+      "trip_id": "6_17714493",
       "direction_id": "0",
       "headsign": "RACŁAWICKA",
       "service_id": "6",
@@ -63770,7 +63770,7 @@
       ]
     },
     {
-      "trip_id": "6_17610481",
+      "trip_id": "6_17714494",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "6",
@@ -64075,7 +64075,7 @@
       ]
     },
     {
-      "trip_id": "6_17610482",
+      "trip_id": "6_17714495",
       "direction_id": "0",
       "headsign": "RACŁAWICKA",
       "service_id": "6",
@@ -64389,7 +64389,7 @@
       ]
     },
     {
-      "trip_id": "6_17610483",
+      "trip_id": "6_17714496",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "6",
@@ -64694,7 +64694,7 @@
       ]
     },
     {
-      "trip_id": "6_17610484",
+      "trip_id": "6_17714497",
       "direction_id": "0",
       "headsign": "RACŁAWICKA",
       "service_id": "6",
@@ -65008,7 +65008,7 @@
       ]
     },
     {
-      "trip_id": "6_17610485",
+      "trip_id": "6_17714498",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "6",
@@ -65313,7 +65313,7 @@
       ]
     },
     {
-      "trip_id": "6_17610486",
+      "trip_id": "6_17714499",
       "direction_id": "0",
       "headsign": "RACŁAWICKA",
       "service_id": "6",
@@ -65627,7 +65627,7 @@
       ]
     },
     {
-      "trip_id": "6_17610487",
+      "trip_id": "6_17714500",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "6",
@@ -65932,7 +65932,7 @@
       ]
     },
     {
-      "trip_id": "6_17610488",
+      "trip_id": "6_17714501",
       "direction_id": "0",
       "headsign": "KRZYKI",
       "service_id": "6",
@@ -66291,7 +66291,7 @@
       ]
     },
     {
-      "trip_id": "6_17610491",
+      "trip_id": "6_17714504",
       "direction_id": "0",
       "headsign": "RACŁAWICKA",
       "service_id": "6",
@@ -66614,7 +66614,7 @@
       ]
     },
     {
-      "trip_id": "6_17610492",
+      "trip_id": "6_17714505",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "6",
@@ -66919,7 +66919,7 @@
       ]
     },
     {
-      "trip_id": "6_17610493",
+      "trip_id": "6_17714506",
       "direction_id": "0",
       "headsign": "RACŁAWICKA",
       "service_id": "6",
@@ -67233,7 +67233,7 @@
       ]
     },
     {
-      "trip_id": "6_17610494",
+      "trip_id": "6_17714507",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "6",
@@ -67538,7 +67538,7 @@
       ]
     },
     {
-      "trip_id": "6_17610495",
+      "trip_id": "6_17714508",
       "direction_id": "0",
       "headsign": "RACŁAWICKA",
       "service_id": "6",
@@ -67852,7 +67852,7 @@
       ]
     },
     {
-      "trip_id": "6_17610496",
+      "trip_id": "6_17714509",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "6",
@@ -68157,7 +68157,7 @@
       ]
     },
     {
-      "trip_id": "6_17610497",
+      "trip_id": "6_17714510",
       "direction_id": "0",
       "headsign": "RACŁAWICKA",
       "service_id": "6",
@@ -68471,7 +68471,7 @@
       ]
     },
     {
-      "trip_id": "6_17610498",
+      "trip_id": "6_17714511",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "6",
@@ -68776,7 +68776,7 @@
       ]
     },
     {
-      "trip_id": "6_17610499",
+      "trip_id": "6_17714512",
       "direction_id": "0",
       "headsign": "RACŁAWICKA",
       "service_id": "6",
@@ -69090,7 +69090,7 @@
       ]
     },
     {
-      "trip_id": "6_17610500",
+      "trip_id": "6_17714513",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "6",
@@ -69395,7 +69395,7 @@
       ]
     },
     {
-      "trip_id": "6_17610501",
+      "trip_id": "6_17714514",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "6",
@@ -69556,7 +69556,7 @@
       ]
     },
     {
-      "trip_id": "6_17610502",
+      "trip_id": "6_17714515",
       "direction_id": "0",
       "headsign": "RACŁAWICKA",
       "service_id": "6",
@@ -69879,7 +69879,7 @@
       ]
     },
     {
-      "trip_id": "6_17610503",
+      "trip_id": "6_17714516",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "6",
@@ -70184,7 +70184,7 @@
       ]
     },
     {
-      "trip_id": "6_17610504",
+      "trip_id": "6_17714517",
       "direction_id": "0",
       "headsign": "RACŁAWICKA",
       "service_id": "6",
@@ -70498,7 +70498,7 @@
       ]
     },
     {
-      "trip_id": "6_17610505",
+      "trip_id": "6_17714518",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "6",
@@ -70803,7 +70803,7 @@
       ]
     },
     {
-      "trip_id": "6_17610506",
+      "trip_id": "6_17714519",
       "direction_id": "0",
       "headsign": "RACŁAWICKA",
       "service_id": "6",
@@ -71117,7 +71117,7 @@
       ]
     },
     {
-      "trip_id": "6_17610507",
+      "trip_id": "6_17714520",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "6",
@@ -71422,7 +71422,7 @@
       ]
     },
     {
-      "trip_id": "6_17610508",
+      "trip_id": "6_17714521",
       "direction_id": "0",
       "headsign": "RACŁAWICKA",
       "service_id": "6",
@@ -71736,7 +71736,7 @@
       ]
     },
     {
-      "trip_id": "6_17610509",
+      "trip_id": "6_17714522",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "6",
@@ -72041,7 +72041,7 @@
       ]
     },
     {
-      "trip_id": "6_17610510",
+      "trip_id": "6_17714523",
       "direction_id": "0",
       "headsign": "RACŁAWICKA",
       "service_id": "6",
@@ -72355,7 +72355,7 @@
       ]
     },
     {
-      "trip_id": "6_17610511",
+      "trip_id": "6_17714524",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "6",
@@ -72660,7 +72660,7 @@
       ]
     },
     {
-      "trip_id": "6_17610512",
+      "trip_id": "6_17714525",
       "direction_id": "0",
       "headsign": "RACŁAWICKA",
       "service_id": "6",
@@ -72974,7 +72974,7 @@
       ]
     },
     {
-      "trip_id": "6_17610513",
+      "trip_id": "6_17714526",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "6",
@@ -73279,7 +73279,7 @@
       ]
     },
     {
-      "trip_id": "6_17610514",
+      "trip_id": "6_17714527",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "6",
@@ -73440,7 +73440,7 @@
       ]
     },
     {
-      "trip_id": "6_17610515",
+      "trip_id": "6_17714528",
       "direction_id": "0",
       "headsign": "RACŁAWICKA",
       "service_id": "6",
@@ -73763,7 +73763,7 @@
       ]
     },
     {
-      "trip_id": "6_17610516",
+      "trip_id": "6_17714529",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "6",
@@ -74068,7 +74068,7 @@
       ]
     },
     {
-      "trip_id": "6_17610517",
+      "trip_id": "6_17714530",
       "direction_id": "0",
       "headsign": "RACŁAWICKA",
       "service_id": "6",
@@ -74382,7 +74382,7 @@
       ]
     },
     {
-      "trip_id": "6_17610518",
+      "trip_id": "6_17714531",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "6",
@@ -74687,7 +74687,7 @@
       ]
     },
     {
-      "trip_id": "6_17610519",
+      "trip_id": "6_17714532",
       "direction_id": "0",
       "headsign": "RACŁAWICKA",
       "service_id": "6",
@@ -75001,7 +75001,7 @@
       ]
     },
     {
-      "trip_id": "6_17610520",
+      "trip_id": "6_17714533",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "6",
@@ -75306,7 +75306,7 @@
       ]
     },
     {
-      "trip_id": "6_17610521",
+      "trip_id": "6_17714534",
       "direction_id": "0",
       "headsign": "RACŁAWICKA",
       "service_id": "6",
@@ -75620,7 +75620,7 @@
       ]
     },
     {
-      "trip_id": "6_17610522",
+      "trip_id": "6_17714535",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "6",
@@ -75925,7 +75925,7 @@
       ]
     },
     {
-      "trip_id": "6_17610523",
+      "trip_id": "6_17714536",
       "direction_id": "0",
       "headsign": "RACŁAWICKA",
       "service_id": "6",
@@ -76239,7 +76239,7 @@
       ]
     },
     {
-      "trip_id": "6_17610524",
+      "trip_id": "6_17714537",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "6",
@@ -76544,7 +76544,7 @@
       ]
     },
     {
-      "trip_id": "6_17610525",
+      "trip_id": "6_17714538",
       "direction_id": "0",
       "headsign": "RACŁAWICKA",
       "service_id": "6",
@@ -76858,7 +76858,7 @@
       ]
     },
     {
-      "trip_id": "6_17610526",
+      "trip_id": "6_17714539",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "6",
@@ -77163,7 +77163,7 @@
       ]
     },
     {
-      "trip_id": "6_17610527",
+      "trip_id": "6_17714540",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "6",
@@ -77324,7 +77324,7 @@
       ]
     },
     {
-      "trip_id": "6_17610528",
+      "trip_id": "6_17714541",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "6",
@@ -77485,7 +77485,7 @@
       ]
     },
     {
-      "trip_id": "6_17610529",
+      "trip_id": "6_17714542",
       "direction_id": "0",
       "headsign": "RACŁAWICKA",
       "service_id": "6",
@@ -77799,7 +77799,7 @@
       ]
     },
     {
-      "trip_id": "6_17610530",
+      "trip_id": "6_17714543",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "6",
@@ -78104,7 +78104,7 @@
       ]
     },
     {
-      "trip_id": "6_17610531",
+      "trip_id": "6_17714544",
       "direction_id": "0",
       "headsign": "RACŁAWICKA",
       "service_id": "6",
@@ -78418,7 +78418,7 @@
       ]
     },
     {
-      "trip_id": "6_17610532",
+      "trip_id": "6_17714545",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "6",
@@ -78723,7 +78723,7 @@
       ]
     },
     {
-      "trip_id": "6_17610533",
+      "trip_id": "6_17714546",
       "direction_id": "0",
       "headsign": "RACŁAWICKA",
       "service_id": "6",
@@ -79037,7 +79037,7 @@
       ]
     },
     {
-      "trip_id": "6_17610534",
+      "trip_id": "6_17714547",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "6",
@@ -79342,7 +79342,7 @@
       ]
     },
     {
-      "trip_id": "6_17610535",
+      "trip_id": "6_17714548",
       "direction_id": "0",
       "headsign": "RACŁAWICKA",
       "service_id": "6",
@@ -79656,7 +79656,7 @@
       ]
     },
     {
-      "trip_id": "6_17610536",
+      "trip_id": "6_17714549",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "6",
@@ -79961,7 +79961,7 @@
       ]
     },
     {
-      "trip_id": "6_17610537",
+      "trip_id": "6_17714550",
       "direction_id": "0",
       "headsign": "RACŁAWICKA",
       "service_id": "6",
@@ -80275,7 +80275,7 @@
       ]
     },
     {
-      "trip_id": "6_17610538",
+      "trip_id": "6_17714551",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "6",
@@ -80580,7 +80580,7 @@
       ]
     },
     {
-      "trip_id": "6_17610539",
+      "trip_id": "6_17714552",
       "direction_id": "0",
       "headsign": "RACŁAWICKA",
       "service_id": "6",
@@ -80894,7 +80894,7 @@
       ]
     },
     {
-      "trip_id": "6_17610540",
+      "trip_id": "6_17714553",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "6",
@@ -81199,7 +81199,7 @@
       ]
     },
     {
-      "trip_id": "6_17610541",
+      "trip_id": "6_17714554",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "6",
@@ -81360,7 +81360,7 @@
       ]
     },
     {
-      "trip_id": "6_17610542",
+      "trip_id": "6_17714555",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "6",
@@ -81521,7 +81521,7 @@
       ]
     },
     {
-      "trip_id": "6_17610543",
+      "trip_id": "6_17714556",
       "direction_id": "0",
       "headsign": "RACŁAWICKA",
       "service_id": "6",
@@ -81835,7 +81835,7 @@
       ]
     },
     {
-      "trip_id": "6_17610544",
+      "trip_id": "6_17714557",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "6",
@@ -82140,7 +82140,7 @@
       ]
     },
     {
-      "trip_id": "6_17610545",
+      "trip_id": "6_17714558",
       "direction_id": "0",
       "headsign": "RACŁAWICKA",
       "service_id": "6",
@@ -82454,7 +82454,7 @@
       ]
     },
     {
-      "trip_id": "6_17610546",
+      "trip_id": "6_17714559",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "6",
@@ -82759,7 +82759,7 @@
       ]
     },
     {
-      "trip_id": "6_17610547",
+      "trip_id": "6_17714560",
       "direction_id": "0",
       "headsign": "RACŁAWICKA",
       "service_id": "6",
@@ -83073,7 +83073,7 @@
       ]
     },
     {
-      "trip_id": "6_17610548",
+      "trip_id": "6_17714561",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "6",
@@ -83378,7 +83378,7 @@
       ]
     },
     {
-      "trip_id": "6_17610549",
+      "trip_id": "6_17714562",
       "direction_id": "0",
       "headsign": "RACŁAWICKA",
       "service_id": "6",
@@ -83692,7 +83692,7 @@
       ]
     },
     {
-      "trip_id": "6_17610550",
+      "trip_id": "6_17714563",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "6",
@@ -83997,7 +83997,7 @@
       ]
     },
     {
-      "trip_id": "6_17610551",
+      "trip_id": "6_17714564",
       "direction_id": "0",
       "headsign": "RACŁAWICKA",
       "service_id": "6",
@@ -84311,7 +84311,7 @@
       ]
     },
     {
-      "trip_id": "6_17610552",
+      "trip_id": "6_17714565",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "6",
@@ -84616,7 +84616,7 @@
       ]
     },
     {
-      "trip_id": "6_17610553",
+      "trip_id": "6_17714566",
       "direction_id": "0",
       "headsign": "RACŁAWICKA",
       "service_id": "6",
@@ -84930,7 +84930,7 @@
       ]
     },
     {
-      "trip_id": "6_17610554",
+      "trip_id": "6_17714567",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "6",
@@ -85235,7 +85235,7 @@
       ]
     },
     {
-      "trip_id": "6_17610555",
+      "trip_id": "6_17714568",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "6",
@@ -85396,7 +85396,7 @@
       ]
     },
     {
-      "trip_id": "6_17610556",
+      "trip_id": "6_17714569",
       "direction_id": "0",
       "headsign": "RACŁAWICKA",
       "service_id": "6",
@@ -85719,7 +85719,7 @@
       ]
     },
     {
-      "trip_id": "6_17610557",
+      "trip_id": "6_17714570",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "6",
@@ -86024,7 +86024,7 @@
       ]
     },
     {
-      "trip_id": "6_17610558",
+      "trip_id": "6_17714571",
       "direction_id": "0",
       "headsign": "RACŁAWICKA",
       "service_id": "6",
@@ -86338,7 +86338,7 @@
       ]
     },
     {
-      "trip_id": "6_17610559",
+      "trip_id": "6_17714572",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "6",
@@ -86643,7 +86643,7 @@
       ]
     },
     {
-      "trip_id": "6_17610560",
+      "trip_id": "6_17714573",
       "direction_id": "0",
       "headsign": "RACŁAWICKA",
       "service_id": "6",
@@ -86957,7 +86957,7 @@
       ]
     },
     {
-      "trip_id": "6_17610561",
+      "trip_id": "6_17714574",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "6",
@@ -87262,7 +87262,7 @@
       ]
     },
     {
-      "trip_id": "6_17610562",
+      "trip_id": "6_17714575",
       "direction_id": "0",
       "headsign": "RACŁAWICKA",
       "service_id": "6",
@@ -87576,7 +87576,7 @@
       ]
     },
     {
-      "trip_id": "6_17610563",
+      "trip_id": "6_17714576",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "6",
@@ -87881,7 +87881,7 @@
       ]
     },
     {
-      "trip_id": "6_17610564",
+      "trip_id": "6_17714577",
       "direction_id": "0",
       "headsign": "RACŁAWICKA",
       "service_id": "6",
@@ -88195,7 +88195,7 @@
       ]
     },
     {
-      "trip_id": "6_17610565",
+      "trip_id": "6_17714578",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "6",
@@ -88500,7 +88500,7 @@
       ]
     },
     {
-      "trip_id": "6_17610566",
+      "trip_id": "6_17714579",
       "direction_id": "0",
       "headsign": "RACŁAWICKA",
       "service_id": "6",
@@ -88814,7 +88814,7 @@
       ]
     },
     {
-      "trip_id": "6_17610567",
+      "trip_id": "6_17714580",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "6",
@@ -89119,7 +89119,7 @@
       ]
     },
     {
-      "trip_id": "6_17610568",
+      "trip_id": "6_17714581",
       "direction_id": "0",
       "headsign": "RACŁAWICKA",
       "service_id": "6",
@@ -89433,7 +89433,7 @@
       ]
     },
     {
-      "trip_id": "6_17610569",
+      "trip_id": "6_17714582",
       "direction_id": "1",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "6",
@@ -89747,7 +89747,7 @@
       ]
     },
     {
-      "trip_id": "6_17610575",
+      "trip_id": "6_17714588",
       "direction_id": "0",
       "headsign": "RACŁAWICKA",
       "service_id": "6",
@@ -90061,7 +90061,7 @@
       ]
     },
     {
-      "trip_id": "6_17610576",
+      "trip_id": "6_17714589",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "6",
@@ -90366,7 +90366,7 @@
       ]
     },
     {
-      "trip_id": "6_17610577",
+      "trip_id": "6_17714590",
       "direction_id": "0",
       "headsign": "RACŁAWICKA",
       "service_id": "6",
@@ -90680,7 +90680,7 @@
       ]
     },
     {
-      "trip_id": "6_17610578",
+      "trip_id": "6_17714591",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "6",
@@ -90985,7 +90985,7 @@
       ]
     },
     {
-      "trip_id": "6_17610579",
+      "trip_id": "6_17714592",
       "direction_id": "0",
       "headsign": "RACŁAWICKA",
       "service_id": "6",
@@ -91299,7 +91299,7 @@
       ]
     },
     {
-      "trip_id": "6_17610580",
+      "trip_id": "6_17714593",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "6",
@@ -91604,7 +91604,7 @@
       ]
     },
     {
-      "trip_id": "6_17610581",
+      "trip_id": "6_17714594",
       "direction_id": "0",
       "headsign": "RACŁAWICKA",
       "service_id": "6",
@@ -91918,7 +91918,7 @@
       ]
     },
     {
-      "trip_id": "6_17610582",
+      "trip_id": "6_17714595",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "6",
@@ -92223,7 +92223,7 @@
       ]
     },
     {
-      "trip_id": "6_17610583",
+      "trip_id": "6_17714596",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "6",
@@ -92384,7 +92384,7 @@
       ]
     },
     {
-      "trip_id": "8_17616470",
+      "trip_id": "8_17720483",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "8",
@@ -92545,7 +92545,7 @@
       ]
     },
     {
-      "trip_id": "8_17616471",
+      "trip_id": "8_17720484",
       "direction_id": "0",
       "headsign": "RACŁAWICKA",
       "service_id": "8",
@@ -92859,7 +92859,7 @@
       ]
     },
     {
-      "trip_id": "8_17616472",
+      "trip_id": "8_17720485",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "8",
@@ -93164,7 +93164,7 @@
       ]
     },
     {
-      "trip_id": "8_17616529",
+      "trip_id": "8_17720542",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "8",
@@ -93325,7 +93325,7 @@
       ]
     },
     {
-      "trip_id": "8_17616530",
+      "trip_id": "8_17720543",
       "direction_id": "0",
       "headsign": "KRZYKI",
       "service_id": "8",
@@ -93684,7 +93684,7 @@
       ]
     },
     {
-      "trip_id": "8_17616574",
+      "trip_id": "8_17720587",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "8",
@@ -93845,7 +93845,7 @@
       ]
     },
     {
-      "trip_id": "8_17616575",
+      "trip_id": "8_17720588",
       "direction_id": "0",
       "headsign": "RACŁAWICKA",
       "service_id": "8",
@@ -94159,7 +94159,7 @@
       ]
     },
     {
-      "trip_id": "8_17616576",
+      "trip_id": "8_17720589",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "8",
@@ -94464,7 +94464,7 @@
       ]
     },
     {
-      "trip_id": "8_17617267",
+      "trip_id": "8_17721280",
       "direction_id": "0",
       "headsign": "RACŁAWICKA",
       "service_id": "8",
@@ -94787,7 +94787,7 @@
       ]
     },
     {
-      "trip_id": "8_17617268",
+      "trip_id": "8_17721281",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "8",
@@ -95092,7 +95092,7 @@
       ]
     },
     {
-      "trip_id": "8_17617269",
+      "trip_id": "8_17721282",
       "direction_id": "0",
       "headsign": "RACŁAWICKA",
       "service_id": "8",
@@ -95406,7 +95406,7 @@
       ]
     },
     {
-      "trip_id": "8_17617270",
+      "trip_id": "8_17721283",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "8",
@@ -95711,7 +95711,7 @@
       ]
     },
     {
-      "trip_id": "8_17617271",
+      "trip_id": "8_17721284",
       "direction_id": "0",
       "headsign": "RACŁAWICKA",
       "service_id": "8",
@@ -96025,7 +96025,7 @@
       ]
     },
     {
-      "trip_id": "8_17617272",
+      "trip_id": "8_17721285",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "8",
@@ -96330,7 +96330,7 @@
       ]
     },
     {
-      "trip_id": "8_17617273",
+      "trip_id": "8_17721286",
       "direction_id": "0",
       "headsign": "RACŁAWICKA",
       "service_id": "8",
@@ -96644,7 +96644,7 @@
       ]
     },
     {
-      "trip_id": "8_17617274",
+      "trip_id": "8_17721287",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "8",
@@ -96949,7 +96949,7 @@
       ]
     },
     {
-      "trip_id": "8_17617275",
+      "trip_id": "8_17721288",
       "direction_id": "0",
       "headsign": "RACŁAWICKA",
       "service_id": "8",
@@ -97263,7 +97263,7 @@
       ]
     },
     {
-      "trip_id": "8_17617276",
+      "trip_id": "8_17721289",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "8",
@@ -97568,7 +97568,7 @@
       ]
     },
     {
-      "trip_id": "8_17617277",
+      "trip_id": "8_17721290",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "8",
@@ -97729,7 +97729,7 @@
       ]
     },
     {
-      "trip_id": "8_17617278",
+      "trip_id": "8_17721291",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "8",
@@ -97890,7 +97890,7 @@
       ]
     },
     {
-      "trip_id": "8_17617279",
+      "trip_id": "8_17721292",
       "direction_id": "0",
       "headsign": "RACŁAWICKA",
       "service_id": "8",
@@ -98204,7 +98204,7 @@
       ]
     },
     {
-      "trip_id": "8_17617280",
+      "trip_id": "8_17721293",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "8",
@@ -98509,7 +98509,7 @@
       ]
     },
     {
-      "trip_id": "8_17617281",
+      "trip_id": "8_17721294",
       "direction_id": "0",
       "headsign": "RACŁAWICKA",
       "service_id": "8",
@@ -98823,7 +98823,7 @@
       ]
     },
     {
-      "trip_id": "8_17617282",
+      "trip_id": "8_17721295",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "8",
@@ -99128,7 +99128,7 @@
       ]
     },
     {
-      "trip_id": "8_17617283",
+      "trip_id": "8_17721296",
       "direction_id": "0",
       "headsign": "RACŁAWICKA",
       "service_id": "8",
@@ -99442,7 +99442,7 @@
       ]
     },
     {
-      "trip_id": "8_17617284",
+      "trip_id": "8_17721297",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "8",
@@ -99747,7 +99747,7 @@
       ]
     },
     {
-      "trip_id": "8_17617285",
+      "trip_id": "8_17721298",
       "direction_id": "0",
       "headsign": "RACŁAWICKA",
       "service_id": "8",
@@ -100061,7 +100061,7 @@
       ]
     },
     {
-      "trip_id": "8_17617286",
+      "trip_id": "8_17721299",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "8",
@@ -100366,7 +100366,7 @@
       ]
     },
     {
-      "trip_id": "8_17617287",
+      "trip_id": "8_17721300",
       "direction_id": "0",
       "headsign": "RACŁAWICKA",
       "service_id": "8",
@@ -100680,7 +100680,7 @@
       ]
     },
     {
-      "trip_id": "8_17617288",
+      "trip_id": "8_17721301",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "8",
@@ -100985,7 +100985,7 @@
       ]
     },
     {
-      "trip_id": "8_17617289",
+      "trip_id": "8_17721302",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "8",
@@ -101146,7 +101146,7 @@
       ]
     },
     {
-      "trip_id": "8_17617290",
+      "trip_id": "8_17721303",
       "direction_id": "0",
       "headsign": "RACŁAWICKA",
       "service_id": "8",
@@ -101469,7 +101469,7 @@
       ]
     },
     {
-      "trip_id": "8_17617291",
+      "trip_id": "8_17721304",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "8",
@@ -101774,7 +101774,7 @@
       ]
     },
     {
-      "trip_id": "8_17617292",
+      "trip_id": "8_17721305",
       "direction_id": "0",
       "headsign": "RACŁAWICKA",
       "service_id": "8",
@@ -102088,7 +102088,7 @@
       ]
     },
     {
-      "trip_id": "8_17617293",
+      "trip_id": "8_17721306",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "8",
@@ -102393,7 +102393,7 @@
       ]
     },
     {
-      "trip_id": "8_17617294",
+      "trip_id": "8_17721307",
       "direction_id": "0",
       "headsign": "RACŁAWICKA",
       "service_id": "8",
@@ -102707,7 +102707,7 @@
       ]
     },
     {
-      "trip_id": "8_17617295",
+      "trip_id": "8_17721308",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "8",
@@ -103012,7 +103012,7 @@
       ]
     },
     {
-      "trip_id": "8_17617296",
+      "trip_id": "8_17721309",
       "direction_id": "0",
       "headsign": "RACŁAWICKA",
       "service_id": "8",
@@ -103326,7 +103326,7 @@
       ]
     },
     {
-      "trip_id": "8_17617297",
+      "trip_id": "8_17721310",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "8",
@@ -103631,7 +103631,7 @@
       ]
     },
     {
-      "trip_id": "8_17617298",
+      "trip_id": "8_17721311",
       "direction_id": "0",
       "headsign": "RACŁAWICKA",
       "service_id": "8",
@@ -103945,7 +103945,7 @@
       ]
     },
     {
-      "trip_id": "8_17617299",
+      "trip_id": "8_17721312",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "8",
@@ -104250,7 +104250,7 @@
       ]
     },
     {
-      "trip_id": "8_17617300",
+      "trip_id": "8_17721313",
       "direction_id": "0",
       "headsign": "RACŁAWICKA",
       "service_id": "8",
@@ -104564,7 +104564,7 @@
       ]
     },
     {
-      "trip_id": "8_17617301",
+      "trip_id": "8_17721314",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "8",
@@ -104869,7 +104869,7 @@
       ]
     },
     {
-      "trip_id": "8_17617302",
+      "trip_id": "8_17721315",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "8",
@@ -105030,7 +105030,7 @@
       ]
     },
     {
-      "trip_id": "8_17617303",
+      "trip_id": "8_17721316",
       "direction_id": "0",
       "headsign": "RACŁAWICKA",
       "service_id": "8",
@@ -105353,7 +105353,7 @@
       ]
     },
     {
-      "trip_id": "8_17617304",
+      "trip_id": "8_17721317",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "8",
@@ -105658,7 +105658,7 @@
       ]
     },
     {
-      "trip_id": "8_17617305",
+      "trip_id": "8_17721318",
       "direction_id": "0",
       "headsign": "RACŁAWICKA",
       "service_id": "8",
@@ -105972,7 +105972,7 @@
       ]
     },
     {
-      "trip_id": "8_17617306",
+      "trip_id": "8_17721319",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "8",
@@ -106277,7 +106277,7 @@
       ]
     },
     {
-      "trip_id": "8_17617307",
+      "trip_id": "8_17721320",
       "direction_id": "0",
       "headsign": "RACŁAWICKA",
       "service_id": "8",
@@ -106591,7 +106591,7 @@
       ]
     },
     {
-      "trip_id": "8_17617308",
+      "trip_id": "8_17721321",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "8",
@@ -106896,7 +106896,7 @@
       ]
     },
     {
-      "trip_id": "8_17617309",
+      "trip_id": "8_17721322",
       "direction_id": "0",
       "headsign": "RACŁAWICKA",
       "service_id": "8",
@@ -107210,7 +107210,7 @@
       ]
     },
     {
-      "trip_id": "8_17617310",
+      "trip_id": "8_17721323",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "8",
@@ -107515,7 +107515,7 @@
       ]
     },
     {
-      "trip_id": "8_17617311",
+      "trip_id": "8_17721324",
       "direction_id": "0",
       "headsign": "RACŁAWICKA",
       "service_id": "8",
@@ -107829,7 +107829,7 @@
       ]
     },
     {
-      "trip_id": "8_17617312",
+      "trip_id": "8_17721325",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "8",
@@ -108134,7 +108134,7 @@
       ]
     },
     {
-      "trip_id": "8_17617313",
+      "trip_id": "8_17721326",
       "direction_id": "0",
       "headsign": "RACŁAWICKA",
       "service_id": "8",
@@ -108448,7 +108448,7 @@
       ]
     },
     {
-      "trip_id": "8_17617314",
+      "trip_id": "8_17721327",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "8",
@@ -108753,7 +108753,7 @@
       ]
     },
     {
-      "trip_id": "8_17617315",
+      "trip_id": "8_17721328",
       "direction_id": "0",
       "headsign": "RACŁAWICKA",
       "service_id": "8",
@@ -109067,7 +109067,7 @@
       ]
     },
     {
-      "trip_id": "8_17617316",
+      "trip_id": "8_17721329",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "8",
@@ -109372,7 +109372,7 @@
       ]
     },
     {
-      "trip_id": "8_17617317",
+      "trip_id": "8_17721330",
       "direction_id": "0",
       "headsign": "KRZYKI",
       "service_id": "8",
@@ -109731,7 +109731,7 @@
       ]
     },
     {
-      "trip_id": "8_17617320",
+      "trip_id": "8_17721333",
       "direction_id": "0",
       "headsign": "RACŁAWICKA",
       "service_id": "8",
@@ -110054,7 +110054,7 @@
       ]
     },
     {
-      "trip_id": "8_17617321",
+      "trip_id": "8_17721334",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "8",
@@ -110359,7 +110359,7 @@
       ]
     },
     {
-      "trip_id": "8_17617322",
+      "trip_id": "8_17721335",
       "direction_id": "0",
       "headsign": "RACŁAWICKA",
       "service_id": "8",
@@ -110673,7 +110673,7 @@
       ]
     },
     {
-      "trip_id": "8_17617323",
+      "trip_id": "8_17721336",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "8",
@@ -110978,7 +110978,7 @@
       ]
     },
     {
-      "trip_id": "8_17617324",
+      "trip_id": "8_17721337",
       "direction_id": "0",
       "headsign": "RACŁAWICKA",
       "service_id": "8",
@@ -111292,7 +111292,7 @@
       ]
     },
     {
-      "trip_id": "8_17617325",
+      "trip_id": "8_17721338",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "8",
@@ -111597,7 +111597,7 @@
       ]
     },
     {
-      "trip_id": "8_17617326",
+      "trip_id": "8_17721339",
       "direction_id": "0",
       "headsign": "RACŁAWICKA",
       "service_id": "8",
@@ -111911,7 +111911,7 @@
       ]
     },
     {
-      "trip_id": "8_17617327",
+      "trip_id": "8_17721340",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "8",
@@ -112216,7 +112216,7 @@
       ]
     },
     {
-      "trip_id": "8_17617328",
+      "trip_id": "8_17721341",
       "direction_id": "0",
       "headsign": "RACŁAWICKA",
       "service_id": "8",
@@ -112530,7 +112530,7 @@
       ]
     },
     {
-      "trip_id": "8_17617329",
+      "trip_id": "8_17721342",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "8",
@@ -112835,7 +112835,7 @@
       ]
     },
     {
-      "trip_id": "8_17617330",
+      "trip_id": "8_17721343",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "8",
@@ -112996,7 +112996,7 @@
       ]
     },
     {
-      "trip_id": "8_17617331",
+      "trip_id": "8_17721344",
       "direction_id": "0",
       "headsign": "RACŁAWICKA",
       "service_id": "8",
@@ -113319,7 +113319,7 @@
       ]
     },
     {
-      "trip_id": "8_17617332",
+      "trip_id": "8_17721345",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "8",
@@ -113624,7 +113624,7 @@
       ]
     },
     {
-      "trip_id": "8_17617333",
+      "trip_id": "8_17721346",
       "direction_id": "0",
       "headsign": "RACŁAWICKA",
       "service_id": "8",
@@ -113938,7 +113938,7 @@
       ]
     },
     {
-      "trip_id": "8_17617334",
+      "trip_id": "8_17721347",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "8",
@@ -114243,7 +114243,7 @@
       ]
     },
     {
-      "trip_id": "8_17617335",
+      "trip_id": "8_17721348",
       "direction_id": "0",
       "headsign": "RACŁAWICKA",
       "service_id": "8",
@@ -114557,7 +114557,7 @@
       ]
     },
     {
-      "trip_id": "8_17617336",
+      "trip_id": "8_17721349",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "8",
@@ -114862,7 +114862,7 @@
       ]
     },
     {
-      "trip_id": "8_17617337",
+      "trip_id": "8_17721350",
       "direction_id": "0",
       "headsign": "RACŁAWICKA",
       "service_id": "8",
@@ -115176,7 +115176,7 @@
       ]
     },
     {
-      "trip_id": "8_17617338",
+      "trip_id": "8_17721351",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "8",
@@ -115481,7 +115481,7 @@
       ]
     },
     {
-      "trip_id": "8_17617339",
+      "trip_id": "8_17721352",
       "direction_id": "0",
       "headsign": "RACŁAWICKA",
       "service_id": "8",
@@ -115795,7 +115795,7 @@
       ]
     },
     {
-      "trip_id": "8_17617340",
+      "trip_id": "8_17721353",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "8",
@@ -116100,7 +116100,7 @@
       ]
     },
     {
-      "trip_id": "8_17617341",
+      "trip_id": "8_17721354",
       "direction_id": "0",
       "headsign": "RACŁAWICKA",
       "service_id": "8",
@@ -116414,7 +116414,7 @@
       ]
     },
     {
-      "trip_id": "8_17617342",
+      "trip_id": "8_17721355",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "8",
@@ -116719,7 +116719,7 @@
       ]
     },
     {
-      "trip_id": "8_17617343",
+      "trip_id": "8_17721356",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "8",
@@ -116880,7 +116880,7 @@
       ]
     },
     {
-      "trip_id": "8_17617344",
+      "trip_id": "8_17721357",
       "direction_id": "0",
       "headsign": "RACŁAWICKA",
       "service_id": "8",
@@ -117203,7 +117203,7 @@
       ]
     },
     {
-      "trip_id": "8_17617345",
+      "trip_id": "8_17721358",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "8",
@@ -117508,7 +117508,7 @@
       ]
     },
     {
-      "trip_id": "8_17617346",
+      "trip_id": "8_17721359",
       "direction_id": "0",
       "headsign": "RACŁAWICKA",
       "service_id": "8",
@@ -117822,7 +117822,7 @@
       ]
     },
     {
-      "trip_id": "8_17617347",
+      "trip_id": "8_17721360",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "8",
@@ -118127,7 +118127,7 @@
       ]
     },
     {
-      "trip_id": "8_17617348",
+      "trip_id": "8_17721361",
       "direction_id": "0",
       "headsign": "RACŁAWICKA",
       "service_id": "8",
@@ -118441,7 +118441,7 @@
       ]
     },
     {
-      "trip_id": "8_17617349",
+      "trip_id": "8_17721362",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "8",
@@ -118746,7 +118746,7 @@
       ]
     },
     {
-      "trip_id": "8_17617350",
+      "trip_id": "8_17721363",
       "direction_id": "0",
       "headsign": "RACŁAWICKA",
       "service_id": "8",
@@ -119060,7 +119060,7 @@
       ]
     },
     {
-      "trip_id": "8_17617351",
+      "trip_id": "8_17721364",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "8",
@@ -119365,7 +119365,7 @@
       ]
     },
     {
-      "trip_id": "8_17617352",
+      "trip_id": "8_17721365",
       "direction_id": "0",
       "headsign": "RACŁAWICKA",
       "service_id": "8",
@@ -119679,7 +119679,7 @@
       ]
     },
     {
-      "trip_id": "8_17617353",
+      "trip_id": "8_17721366",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "8",
@@ -119984,7 +119984,7 @@
       ]
     },
     {
-      "trip_id": "8_17617354",
+      "trip_id": "8_17721367",
       "direction_id": "0",
       "headsign": "RACŁAWICKA",
       "service_id": "8",
@@ -120298,7 +120298,7 @@
       ]
     },
     {
-      "trip_id": "8_17617355",
+      "trip_id": "8_17721368",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "8",
@@ -120603,7 +120603,7 @@
       ]
     },
     {
-      "trip_id": "8_17617356",
+      "trip_id": "8_17721369",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "8",
@@ -120764,7 +120764,7 @@
       ]
     },
     {
-      "trip_id": "8_17617357",
+      "trip_id": "8_17721370",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "8",
@@ -120925,7 +120925,7 @@
       ]
     },
     {
-      "trip_id": "8_17617358",
+      "trip_id": "8_17721371",
       "direction_id": "0",
       "headsign": "RACŁAWICKA",
       "service_id": "8",
@@ -121239,7 +121239,7 @@
       ]
     },
     {
-      "trip_id": "8_17617359",
+      "trip_id": "8_17721372",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "8",
@@ -121544,7 +121544,7 @@
       ]
     },
     {
-      "trip_id": "8_17617360",
+      "trip_id": "8_17721373",
       "direction_id": "0",
       "headsign": "RACŁAWICKA",
       "service_id": "8",
@@ -121858,7 +121858,7 @@
       ]
     },
     {
-      "trip_id": "8_17617361",
+      "trip_id": "8_17721374",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "8",
@@ -122163,7 +122163,7 @@
       ]
     },
     {
-      "trip_id": "8_17617362",
+      "trip_id": "8_17721375",
       "direction_id": "0",
       "headsign": "RACŁAWICKA",
       "service_id": "8",
@@ -122477,7 +122477,7 @@
       ]
     },
     {
-      "trip_id": "8_17617363",
+      "trip_id": "8_17721376",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "8",
@@ -122782,7 +122782,7 @@
       ]
     },
     {
-      "trip_id": "8_17617364",
+      "trip_id": "8_17721377",
       "direction_id": "0",
       "headsign": "RACŁAWICKA",
       "service_id": "8",
@@ -123096,7 +123096,7 @@
       ]
     },
     {
-      "trip_id": "8_17617365",
+      "trip_id": "8_17721378",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "8",
@@ -123401,7 +123401,7 @@
       ]
     },
     {
-      "trip_id": "8_17617366",
+      "trip_id": "8_17721379",
       "direction_id": "0",
       "headsign": "RACŁAWICKA",
       "service_id": "8",
@@ -123715,7 +123715,7 @@
       ]
     },
     {
-      "trip_id": "8_17617367",
+      "trip_id": "8_17721380",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "8",
@@ -124020,7 +124020,7 @@
       ]
     },
     {
-      "trip_id": "8_17617368",
+      "trip_id": "8_17721381",
       "direction_id": "0",
       "headsign": "RACŁAWICKA",
       "service_id": "8",
@@ -124334,7 +124334,7 @@
       ]
     },
     {
-      "trip_id": "8_17617369",
+      "trip_id": "8_17721382",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "8",
@@ -124639,7 +124639,7 @@
       ]
     },
     {
-      "trip_id": "8_17617370",
+      "trip_id": "8_17721383",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "8",
@@ -124800,7 +124800,7 @@
       ]
     },
     {
-      "trip_id": "8_17617371",
+      "trip_id": "8_17721384",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "8",
@@ -124961,7 +124961,7 @@
       ]
     },
     {
-      "trip_id": "8_17617372",
+      "trip_id": "8_17721385",
       "direction_id": "0",
       "headsign": "RACŁAWICKA",
       "service_id": "8",
@@ -125275,7 +125275,7 @@
       ]
     },
     {
-      "trip_id": "8_17617373",
+      "trip_id": "8_17721386",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "8",
@@ -125580,7 +125580,7 @@
       ]
     },
     {
-      "trip_id": "8_17617374",
+      "trip_id": "8_17721387",
       "direction_id": "0",
       "headsign": "RACŁAWICKA",
       "service_id": "8",
@@ -125894,7 +125894,7 @@
       ]
     },
     {
-      "trip_id": "8_17617375",
+      "trip_id": "8_17721388",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "8",
@@ -126199,7 +126199,7 @@
       ]
     },
     {
-      "trip_id": "8_17617376",
+      "trip_id": "8_17721389",
       "direction_id": "0",
       "headsign": "RACŁAWICKA",
       "service_id": "8",
@@ -126513,7 +126513,7 @@
       ]
     },
     {
-      "trip_id": "8_17617377",
+      "trip_id": "8_17721390",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "8",
@@ -126818,7 +126818,7 @@
       ]
     },
     {
-      "trip_id": "8_17617378",
+      "trip_id": "8_17721391",
       "direction_id": "0",
       "headsign": "RACŁAWICKA",
       "service_id": "8",
@@ -127132,7 +127132,7 @@
       ]
     },
     {
-      "trip_id": "8_17617379",
+      "trip_id": "8_17721392",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "8",
@@ -127437,7 +127437,7 @@
       ]
     },
     {
-      "trip_id": "8_17617380",
+      "trip_id": "8_17721393",
       "direction_id": "0",
       "headsign": "RACŁAWICKA",
       "service_id": "8",
@@ -127751,7 +127751,7 @@
       ]
     },
     {
-      "trip_id": "8_17617381",
+      "trip_id": "8_17721394",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "8",
@@ -128056,7 +128056,7 @@
       ]
     },
     {
-      "trip_id": "8_17617382",
+      "trip_id": "8_17721395",
       "direction_id": "0",
       "headsign": "RACŁAWICKA",
       "service_id": "8",
@@ -128370,7 +128370,7 @@
       ]
     },
     {
-      "trip_id": "8_17617383",
+      "trip_id": "8_17721396",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "8",
@@ -128675,7 +128675,7 @@
       ]
     },
     {
-      "trip_id": "8_17617384",
+      "trip_id": "8_17721397",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "8",
@@ -128836,7 +128836,7 @@
       ]
     },
     {
-      "trip_id": "8_17617385",
+      "trip_id": "8_17721398",
       "direction_id": "0",
       "headsign": "RACŁAWICKA",
       "service_id": "8",
@@ -129159,7 +129159,7 @@
       ]
     },
     {
-      "trip_id": "8_17617386",
+      "trip_id": "8_17721399",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "8",
@@ -129464,7 +129464,7 @@
       ]
     },
     {
-      "trip_id": "8_17617387",
+      "trip_id": "8_17721400",
       "direction_id": "0",
       "headsign": "RACŁAWICKA",
       "service_id": "8",
@@ -129778,7 +129778,7 @@
       ]
     },
     {
-      "trip_id": "8_17617388",
+      "trip_id": "8_17721401",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "8",
@@ -130083,7 +130083,7 @@
       ]
     },
     {
-      "trip_id": "8_17617389",
+      "trip_id": "8_17721402",
       "direction_id": "0",
       "headsign": "RACŁAWICKA",
       "service_id": "8",
@@ -130397,7 +130397,7 @@
       ]
     },
     {
-      "trip_id": "8_17617390",
+      "trip_id": "8_17721403",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "8",
@@ -130702,7 +130702,7 @@
       ]
     },
     {
-      "trip_id": "8_17617391",
+      "trip_id": "8_17721404",
       "direction_id": "0",
       "headsign": "RACŁAWICKA",
       "service_id": "8",
@@ -131016,7 +131016,7 @@
       ]
     },
     {
-      "trip_id": "8_17617392",
+      "trip_id": "8_17721405",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "8",
@@ -131321,7 +131321,7 @@
       ]
     },
     {
-      "trip_id": "8_17617393",
+      "trip_id": "8_17721406",
       "direction_id": "0",
       "headsign": "RACŁAWICKA",
       "service_id": "8",
@@ -131635,7 +131635,7 @@
       ]
     },
     {
-      "trip_id": "8_17617394",
+      "trip_id": "8_17721407",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "8",
@@ -131940,7 +131940,7 @@
       ]
     },
     {
-      "trip_id": "8_17617395",
+      "trip_id": "8_17721408",
       "direction_id": "0",
       "headsign": "RACŁAWICKA",
       "service_id": "8",
@@ -132254,7 +132254,7 @@
       ]
     },
     {
-      "trip_id": "8_17617396",
+      "trip_id": "8_17721409",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "8",
@@ -132559,7 +132559,7 @@
       ]
     },
     {
-      "trip_id": "8_17617397",
+      "trip_id": "8_17721410",
       "direction_id": "0",
       "headsign": "RACŁAWICKA",
       "service_id": "8",
@@ -132873,7 +132873,7 @@
       ]
     },
     {
-      "trip_id": "8_17617398",
+      "trip_id": "8_17721411",
       "direction_id": "1",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "8",
@@ -133187,7 +133187,7 @@
       ]
     },
     {
-      "trip_id": "8_17617404",
+      "trip_id": "8_17721417",
       "direction_id": "0",
       "headsign": "RACŁAWICKA",
       "service_id": "8",
@@ -133501,7 +133501,7 @@
       ]
     },
     {
-      "trip_id": "8_17617405",
+      "trip_id": "8_17721418",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "8",
@@ -133806,7 +133806,7 @@
       ]
     },
     {
-      "trip_id": "8_17617406",
+      "trip_id": "8_17721419",
       "direction_id": "0",
       "headsign": "RACŁAWICKA",
       "service_id": "8",
@@ -134120,7 +134120,7 @@
       ]
     },
     {
-      "trip_id": "8_17617407",
+      "trip_id": "8_17721420",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "8",
@@ -134425,7 +134425,7 @@
       ]
     },
     {
-      "trip_id": "8_17617408",
+      "trip_id": "8_17721421",
       "direction_id": "0",
       "headsign": "RACŁAWICKA",
       "service_id": "8",
@@ -134739,7 +134739,7 @@
       ]
     },
     {
-      "trip_id": "8_17617409",
+      "trip_id": "8_17721422",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "8",
@@ -135044,7 +135044,7 @@
       ]
     },
     {
-      "trip_id": "8_17617410",
+      "trip_id": "8_17721423",
       "direction_id": "0",
       "headsign": "RACŁAWICKA",
       "service_id": "8",
@@ -135358,7 +135358,7 @@
       ]
     },
     {
-      "trip_id": "8_17617411",
+      "trip_id": "8_17721424",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "8",
@@ -135663,7 +135663,7 @@
       ]
     },
     {
-      "trip_id": "8_17617412",
+      "trip_id": "8_17721425",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "8",

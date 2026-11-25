@@ -2,7 +2,7 @@
   "line": "111",
   "trips": [
     {
-      "trip_id": "3_17596063",
+      "trip_id": "3_17700076",
       "direction_id": "1",
       "headsign": "OSIEDLE SOBIESKIEGO",
       "service_id": "3",
@@ -307,7 +307,7 @@
       ]
     },
     {
-      "trip_id": "3_17596064",
+      "trip_id": "3_17700077",
       "direction_id": "0",
       "headsign": "KMINKOWA",
       "service_id": "3",
@@ -693,7 +693,7 @@
       ]
     },
     {
-      "trip_id": "3_17596065",
+      "trip_id": "3_17700078",
       "direction_id": "1",
       "headsign": "OSIEDLE SOBIESKIEGO",
       "service_id": "3",
@@ -1097,7 +1097,7 @@
       ]
     },
     {
-      "trip_id": "3_17596066",
+      "trip_id": "3_17700079",
       "direction_id": "0",
       "headsign": "KMINKOWA",
       "service_id": "3",
@@ -1483,7 +1483,7 @@
       ]
     },
     {
-      "trip_id": "3_17596067",
+      "trip_id": "3_17700080",
       "direction_id": "1",
       "headsign": "OSIEDLE SOBIESKIEGO",
       "service_id": "3",
@@ -1887,7 +1887,7 @@
       ]
     },
     {
-      "trip_id": "3_17596068",
+      "trip_id": "3_17700081",
       "direction_id": "0",
       "headsign": "KMINKOWA",
       "service_id": "3",
@@ -2273,7 +2273,7 @@
       ]
     },
     {
-      "trip_id": "3_17596069",
+      "trip_id": "3_17700082",
       "direction_id": "1",
       "headsign": "OSIEDLE SOBIESKIEGO",
       "service_id": "3",
@@ -2677,7 +2677,7 @@
       ]
     },
     {
-      "trip_id": "3_17596070",
+      "trip_id": "3_17700083",
       "direction_id": "0",
       "headsign": "KMINKOWA",
       "service_id": "3",
@@ -3063,7 +3063,7 @@
       ]
     },
     {
-      "trip_id": "3_17596071",
+      "trip_id": "3_17700084",
       "direction_id": "1",
       "headsign": "OSIEDLE SOBIESKIEGO",
       "service_id": "3",
@@ -3467,7 +3467,7 @@
       ]
     },
     {
-      "trip_id": "3_17596072",
+      "trip_id": "3_17700085",
       "direction_id": "0",
       "headsign": "KMINKOWA",
       "service_id": "3",
@@ -3853,7 +3853,7 @@
       ]
     },
     {
-      "trip_id": "3_17596073",
+      "trip_id": "3_17700086",
       "direction_id": "1",
       "headsign": "OSIEDLE SOBIESKIEGO",
       "service_id": "3",
@@ -4257,7 +4257,7 @@
       ]
     },
     {
-      "trip_id": "3_17596074",
+      "trip_id": "3_17700087",
       "direction_id": "0",
       "headsign": "KMINKOWA",
       "service_id": "3",
@@ -4643,7 +4643,7 @@
       ]
     },
     {
-      "trip_id": "3_17596079",
+      "trip_id": "3_17700092",
       "direction_id": "0",
       "headsign": "KMINKOWA",
       "service_id": "3",
@@ -4831,7 +4831,7 @@
       ]
     },
     {
-      "trip_id": "3_17596080",
+      "trip_id": "3_17700093",
       "direction_id": "1",
       "headsign": "OSIEDLE SOBIESKIEGO",
       "service_id": "3",
@@ -5235,7 +5235,7 @@
       ]
     },
     {
-      "trip_id": "3_17596081",
+      "trip_id": "3_17700094",
       "direction_id": "0",
       "headsign": "KMINKOWA",
       "service_id": "3",
@@ -5621,7 +5621,7 @@
       ]
     },
     {
-      "trip_id": "3_17596082",
+      "trip_id": "3_17700095",
       "direction_id": "1",
       "headsign": "OSIEDLE SOBIESKIEGO",
       "service_id": "3",
@@ -6025,7 +6025,7 @@
       ]
     },
     {
-      "trip_id": "3_17596083",
+      "trip_id": "3_17700096",
       "direction_id": "0",
       "headsign": "KMINKOWA",
       "service_id": "3",
@@ -6411,7 +6411,7 @@
       ]
     },
     {
-      "trip_id": "3_17596084",
+      "trip_id": "3_17700097",
       "direction_id": "1",
       "headsign": "OSIEDLE SOBIESKIEGO",
       "service_id": "3",
@@ -6815,7 +6815,7 @@
       ]
     },
     {
-      "trip_id": "3_17596085",
+      "trip_id": "3_17700098",
       "direction_id": "0",
       "headsign": "KMINKOWA",
       "service_id": "3",
@@ -7201,7 +7201,7 @@
       ]
     },
     {
-      "trip_id": "3_17596086",
+      "trip_id": "3_17700099",
       "direction_id": "1",
       "headsign": "OSIEDLE SOBIESKIEGO",
       "service_id": "3",
@@ -7605,7 +7605,7 @@
       ]
     },
     {
-      "trip_id": "3_17596087",
+      "trip_id": "3_17700100",
       "direction_id": "0",
       "headsign": "KMINKOWA",
       "service_id": "3",
@@ -7991,7 +7991,7 @@
       ]
     },
     {
-      "trip_id": "3_17596088",
+      "trip_id": "3_17700101",
       "direction_id": "1",
       "headsign": "OSIEDLE SOBIESKIEGO",
       "service_id": "3",
@@ -8395,7 +8395,7 @@
       ]
     },
     {
-      "trip_id": "3_17596089",
+      "trip_id": "3_17700102",
       "direction_id": "0",
       "headsign": "KMINKOWA",
       "service_id": "3",
@@ -8781,7 +8781,7 @@
       ]
     },
     {
-      "trip_id": "3_17596090",
+      "trip_id": "3_17700103",
       "direction_id": "1",
       "headsign": "OSIEDLE SOBIESKIEGO",
       "service_id": "3",
@@ -9185,7 +9185,7 @@
       ]
     },
     {
-      "trip_id": "3_17596091",
+      "trip_id": "3_17700104",
       "direction_id": "0",
       "headsign": "KMINKOWA",
       "service_id": "3",
@@ -9571,7 +9571,7 @@
       ]
     },
     {
-      "trip_id": "3_17596092",
+      "trip_id": "3_17700105",
       "direction_id": "1",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "3",
@@ -9696,7 +9696,7 @@
       ]
     },
     {
-      "trip_id": "3_17596093",
+      "trip_id": "3_17700106",
       "direction_id": "0",
       "headsign": "KMINKOWA",
       "service_id": "3",
@@ -9812,7 +9812,7 @@
       ]
     },
     {
-      "trip_id": "3_17596094",
+      "trip_id": "3_17700107",
       "direction_id": "1",
       "headsign": "OSIEDLE SOBIESKIEGO",
       "service_id": "3",
@@ -10216,7 +10216,7 @@
       ]
     },
     {
-      "trip_id": "3_17596095",
+      "trip_id": "3_17700108",
       "direction_id": "0",
       "headsign": "KMINKOWA",
       "service_id": "3",
@@ -10602,7 +10602,7 @@
       ]
     },
     {
-      "trip_id": "3_17596096",
+      "trip_id": "3_17700109",
       "direction_id": "1",
       "headsign": "OSIEDLE SOBIESKIEGO",
       "service_id": "3",
@@ -11006,7 +11006,7 @@
       ]
     },
     {
-      "trip_id": "3_17596097",
+      "trip_id": "3_17700110",
       "direction_id": "0",
       "headsign": "KMINKOWA",
       "service_id": "3",
@@ -11392,7 +11392,7 @@
       ]
     },
     {
-      "trip_id": "3_17596098",
+      "trip_id": "3_17700111",
       "direction_id": "1",
       "headsign": "OSIEDLE SOBIESKIEGO",
       "service_id": "3",
@@ -11796,7 +11796,7 @@
       ]
     },
     {
-      "trip_id": "3_17596099",
+      "trip_id": "3_17700112",
       "direction_id": "0",
       "headsign": "KMINKOWA",
       "service_id": "3",
@@ -12182,7 +12182,7 @@
       ]
     },
     {
-      "trip_id": "3_17596100",
+      "trip_id": "3_17700113",
       "direction_id": "1",
       "headsign": "OSIEDLE SOBIESKIEGO",
       "service_id": "3",
@@ -12586,7 +12586,7 @@
       ]
     },
     {
-      "trip_id": "3_17596101",
+      "trip_id": "3_17700114",
       "direction_id": "0",
       "headsign": "KMINKOWA",
       "service_id": "3",
@@ -12972,7 +12972,7 @@
       ]
     },
     {
-      "trip_id": "3_17596102",
+      "trip_id": "3_17700115",
       "direction_id": "1",
       "headsign": "OSIEDLE SOBIESKIEGO",
       "service_id": "3",
@@ -13376,7 +13376,7 @@
       ]
     },
     {
-      "trip_id": "3_17596103",
+      "trip_id": "3_17700116",
       "direction_id": "0",
       "headsign": "KMINKOWA",
       "service_id": "3",
@@ -13762,7 +13762,7 @@
       ]
     },
     {
-      "trip_id": "3_17596104",
+      "trip_id": "3_17700117",
       "direction_id": "1",
       "headsign": "OSIEDLE SOBIESKIEGO",
       "service_id": "3",
@@ -14166,7 +14166,7 @@
       ]
     },
     {
-      "trip_id": "3_17596105",
+      "trip_id": "3_17700118",
       "direction_id": "0",
       "headsign": "KMINKOWA",
       "service_id": "3",
@@ -14552,7 +14552,7 @@
       ]
     },
     {
-      "trip_id": "3_17596106",
+      "trip_id": "3_17700119",
       "direction_id": "1",
       "headsign": "OSIEDLE SOBIESKIEGO",
       "service_id": "3",
@@ -14956,7 +14956,7 @@
       ]
     },
     {
-      "trip_id": "3_17596107",
+      "trip_id": "3_17700120",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "3",
@@ -15252,7 +15252,7 @@
       ]
     },
     {
-      "trip_id": "3_17596108",
+      "trip_id": "3_17700121",
       "direction_id": "0",
       "headsign": "KMINKOWA",
       "service_id": "3",
@@ -15440,7 +15440,7 @@
       ]
     },
     {
-      "trip_id": "3_17596109",
+      "trip_id": "3_17700122",
       "direction_id": "1",
       "headsign": "OSIEDLE SOBIESKIEGO",
       "service_id": "3",
@@ -15844,7 +15844,7 @@
       ]
     },
     {
-      "trip_id": "3_17596110",
+      "trip_id": "3_17700123",
       "direction_id": "0",
       "headsign": "KMINKOWA",
       "service_id": "3",
@@ -16230,7 +16230,7 @@
       ]
     },
     {
-      "trip_id": "3_17596111",
+      "trip_id": "3_17700124",
       "direction_id": "1",
       "headsign": "OSIEDLE SOBIESKIEGO",
       "service_id": "3",
@@ -16634,7 +16634,7 @@
       ]
     },
     {
-      "trip_id": "3_17596112",
+      "trip_id": "3_17700125",
       "direction_id": "0",
       "headsign": "KMINKOWA",
       "service_id": "3",
@@ -17020,7 +17020,7 @@
       ]
     },
     {
-      "trip_id": "3_17596113",
+      "trip_id": "3_17700126",
       "direction_id": "1",
       "headsign": "OSIEDLE SOBIESKIEGO",
       "service_id": "3",
@@ -17424,7 +17424,7 @@
       ]
     },
     {
-      "trip_id": "3_17596114",
+      "trip_id": "3_17700127",
       "direction_id": "0",
       "headsign": "KMINKOWA",
       "service_id": "3",
@@ -17810,7 +17810,7 @@
       ]
     },
     {
-      "trip_id": "3_17596115",
+      "trip_id": "3_17700128",
       "direction_id": "1",
       "headsign": "OSIEDLE SOBIESKIEGO",
       "service_id": "3",
@@ -18214,7 +18214,7 @@
       ]
     },
     {
-      "trip_id": "3_17596116",
+      "trip_id": "3_17700129",
       "direction_id": "0",
       "headsign": "KMINKOWA",
       "service_id": "3",
@@ -18600,7 +18600,7 @@
       ]
     },
     {
-      "trip_id": "3_17596117",
+      "trip_id": "3_17700130",
       "direction_id": "1",
       "headsign": "OSIEDLE SOBIESKIEGO",
       "service_id": "3",
@@ -19004,7 +19004,7 @@
       ]
     },
     {
-      "trip_id": "3_17596118",
+      "trip_id": "3_17700131",
       "direction_id": "0",
       "headsign": "KMINKOWA",
       "service_id": "3",
@@ -19390,7 +19390,7 @@
       ]
     },
     {
-      "trip_id": "3_17596119",
+      "trip_id": "3_17700132",
       "direction_id": "1",
       "headsign": "OSIEDLE SOBIESKIEGO",
       "service_id": "3",
@@ -19794,7 +19794,7 @@
       ]
     },
     {
-      "trip_id": "3_17596120",
+      "trip_id": "3_17700133",
       "direction_id": "0",
       "headsign": "KMINKOWA",
       "service_id": "3",
@@ -20180,7 +20180,7 @@
       ]
     },
     {
-      "trip_id": "3_17596121",
+      "trip_id": "3_17700134",
       "direction_id": "1",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "3",
@@ -20305,7 +20305,7 @@
       ]
     },
     {
-      "trip_id": "3_17596122",
+      "trip_id": "3_17700135",
       "direction_id": "1",
       "headsign": "OSIEDLE SOBIESKIEGO",
       "service_id": "3",
@@ -20610,7 +20610,7 @@
       ]
     },
     {
-      "trip_id": "3_17596123",
+      "trip_id": "3_17700136",
       "direction_id": "0",
       "headsign": "KMINKOWA",
       "service_id": "3",
@@ -20996,7 +20996,7 @@
       ]
     },
     {
-      "trip_id": "3_17596124",
+      "trip_id": "3_17700137",
       "direction_id": "1",
       "headsign": "OSIEDLE SOBIESKIEGO",
       "service_id": "3",
@@ -21400,7 +21400,7 @@
       ]
     },
     {
-      "trip_id": "3_17596125",
+      "trip_id": "3_17700138",
       "direction_id": "0",
       "headsign": "KMINKOWA",
       "service_id": "3",
@@ -21786,7 +21786,7 @@
       ]
     },
     {
-      "trip_id": "3_17596126",
+      "trip_id": "3_17700139",
       "direction_id": "1",
       "headsign": "OSIEDLE SOBIESKIEGO",
       "service_id": "3",
@@ -22190,7 +22190,7 @@
       ]
     },
     {
-      "trip_id": "3_17596127",
+      "trip_id": "3_17700140",
       "direction_id": "0",
       "headsign": "KMINKOWA",
       "service_id": "3",
@@ -22576,7 +22576,7 @@
       ]
     },
     {
-      "trip_id": "3_17596128",
+      "trip_id": "3_17700141",
       "direction_id": "1",
       "headsign": "OSIEDLE SOBIESKIEGO",
       "service_id": "3",
@@ -22980,7 +22980,7 @@
       ]
     },
     {
-      "trip_id": "3_17596129",
+      "trip_id": "3_17700142",
       "direction_id": "0",
       "headsign": "KMINKOWA",
       "service_id": "3",
@@ -23366,7 +23366,7 @@
       ]
     },
     {
-      "trip_id": "3_17596130",
+      "trip_id": "3_17700143",
       "direction_id": "1",
       "headsign": "OSIEDLE SOBIESKIEGO",
       "service_id": "3",
@@ -23770,7 +23770,7 @@
       ]
     },
     {
-      "trip_id": "3_17596131",
+      "trip_id": "3_17700144",
       "direction_id": "0",
       "headsign": "KMINKOWA",
       "service_id": "3",
@@ -24156,7 +24156,7 @@
       ]
     },
     {
-      "trip_id": "3_17596132",
+      "trip_id": "3_17700145",
       "direction_id": "1",
       "headsign": "OSIEDLE SOBIESKIEGO",
       "service_id": "3",
@@ -24560,7 +24560,7 @@
       ]
     },
     {
-      "trip_id": "3_17596133",
+      "trip_id": "3_17700146",
       "direction_id": "0",
       "headsign": "KMINKOWA",
       "service_id": "3",
@@ -24946,7 +24946,7 @@
       ]
     },
     {
-      "trip_id": "3_17596134",
+      "trip_id": "3_17700147",
       "direction_id": "1",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "3",
@@ -25071,7 +25071,7 @@
       ]
     },
     {
-      "trip_id": "3_17596135",
+      "trip_id": "3_17700148",
       "direction_id": "1",
       "headsign": "OSIEDLE SOBIESKIEGO",
       "service_id": "3",
@@ -25376,7 +25376,7 @@
       ]
     },
     {
-      "trip_id": "3_17596136",
+      "trip_id": "3_17700149",
       "direction_id": "0",
       "headsign": "KMINKOWA",
       "service_id": "3",
@@ -25762,7 +25762,7 @@
       ]
     },
     {
-      "trip_id": "3_17596137",
+      "trip_id": "3_17700150",
       "direction_id": "1",
       "headsign": "OSIEDLE SOBIESKIEGO",
       "service_id": "3",
@@ -26166,7 +26166,7 @@
       ]
     },
     {
-      "trip_id": "3_17596138",
+      "trip_id": "3_17700151",
       "direction_id": "0",
       "headsign": "KMINKOWA",
       "service_id": "3",
@@ -26552,7 +26552,7 @@
       ]
     },
     {
-      "trip_id": "3_17596139",
+      "trip_id": "3_17700152",
       "direction_id": "1",
       "headsign": "OSIEDLE SOBIESKIEGO",
       "service_id": "3",
@@ -26956,7 +26956,7 @@
       ]
     },
     {
-      "trip_id": "3_17596140",
+      "trip_id": "3_17700153",
       "direction_id": "0",
       "headsign": "KMINKOWA",
       "service_id": "3",
@@ -27342,7 +27342,7 @@
       ]
     },
     {
-      "trip_id": "3_17596141",
+      "trip_id": "3_17700154",
       "direction_id": "1",
       "headsign": "OSIEDLE SOBIESKIEGO",
       "service_id": "3",
@@ -27746,7 +27746,7 @@
       ]
     },
     {
-      "trip_id": "3_17596142",
+      "trip_id": "3_17700155",
       "direction_id": "0",
       "headsign": "KMINKOWA",
       "service_id": "3",
@@ -28132,7 +28132,7 @@
       ]
     },
     {
-      "trip_id": "3_17596143",
+      "trip_id": "3_17700156",
       "direction_id": "1",
       "headsign": "OSIEDLE SOBIESKIEGO",
       "service_id": "3",
@@ -28536,7 +28536,7 @@
       ]
     },
     {
-      "trip_id": "3_17596144",
+      "trip_id": "3_17700157",
       "direction_id": "0",
       "headsign": "KMINKOWA",
       "service_id": "3",
@@ -28922,7 +28922,7 @@
       ]
     },
     {
-      "trip_id": "3_17596145",
+      "trip_id": "3_17700158",
       "direction_id": "1",
       "headsign": "OSIEDLE SOBIESKIEGO",
       "service_id": "3",
@@ -29326,7 +29326,7 @@
       ]
     },
     {
-      "trip_id": "3_17596146",
+      "trip_id": "3_17700159",
       "direction_id": "0",
       "headsign": "KMINKOWA",
       "service_id": "3",
@@ -29712,7 +29712,7 @@
       ]
     },
     {
-      "trip_id": "3_17596147",
+      "trip_id": "3_17700160",
       "direction_id": "1",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "3",
@@ -29837,7 +29837,7 @@
       ]
     },
     {
-      "trip_id": "3_17598797",
+      "trip_id": "3_17702810",
       "direction_id": "1",
       "headsign": "OSIEDLE SOBIESKIEGO",
       "service_id": "3",
@@ -30241,7 +30241,7 @@
       ]
     },
     {
-      "trip_id": "3_17598798",
+      "trip_id": "3_17702811",
       "direction_id": "0",
       "headsign": "KMINKOWA",
       "service_id": "3",
@@ -30627,7 +30627,7 @@
       ]
     },
     {
-      "trip_id": "3_17599128",
+      "trip_id": "3_17703141",
       "direction_id": "0",
       "headsign": "KMINKOWA",
       "service_id": "3",
@@ -30743,7 +30743,7 @@
       ]
     },
     {
-      "trip_id": "3_17599129",
+      "trip_id": "3_17703142",
       "direction_id": "1",
       "headsign": "OSIEDLE SOBIESKIEGO",
       "service_id": "3",
@@ -31147,7 +31147,7 @@
       ]
     },
     {
-      "trip_id": "3_17599130",
+      "trip_id": "3_17703143",
       "direction_id": "0",
       "headsign": "KMINKOWA",
       "service_id": "3",
@@ -31533,7 +31533,7 @@
       ]
     },
     {
-      "trip_id": "3_17599131",
+      "trip_id": "3_17703144",
       "direction_id": "1",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "3",
@@ -31802,7 +31802,7 @@
       ]
     },
     {
-      "trip_id": "3_17599139",
+      "trip_id": "3_17703152",
       "direction_id": "0",
       "headsign": "KMINKOWA",
       "service_id": "3",
@@ -31918,7 +31918,7 @@
       ]
     },
     {
-      "trip_id": "3_17599140",
+      "trip_id": "3_17703153",
       "direction_id": "1",
       "headsign": "OSIEDLE SOBIESKIEGO",
       "service_id": "3",
@@ -32322,7 +32322,7 @@
       ]
     },
     {
-      "trip_id": "4_17600618",
+      "trip_id": "4_17704631",
       "direction_id": "1",
       "headsign": "OSIEDLE SOBIESKIEGO",
       "service_id": "4",
@@ -32627,7 +32627,7 @@
       ]
     },
     {
-      "trip_id": "4_17600619",
+      "trip_id": "4_17704632",
       "direction_id": "0",
       "headsign": "KMINKOWA",
       "service_id": "4",
@@ -33013,7 +33013,7 @@
       ]
     },
     {
-      "trip_id": "4_17600620",
+      "trip_id": "4_17704633",
       "direction_id": "1",
       "headsign": "OSIEDLE SOBIESKIEGO",
       "service_id": "4",
@@ -33417,7 +33417,7 @@
       ]
     },
     {
-      "trip_id": "4_17600621",
+      "trip_id": "4_17704634",
       "direction_id": "0",
       "headsign": "KMINKOWA",
       "service_id": "4",
@@ -33803,7 +33803,7 @@
       ]
     },
     {
-      "trip_id": "4_17600622",
+      "trip_id": "4_17704635",
       "direction_id": "1",
       "headsign": "OSIEDLE SOBIESKIEGO",
       "service_id": "4",
@@ -34207,7 +34207,7 @@
       ]
     },
     {
-      "trip_id": "4_17600623",
+      "trip_id": "4_17704636",
       "direction_id": "0",
       "headsign": "KMINKOWA",
       "service_id": "4",
@@ -34593,7 +34593,7 @@
       ]
     },
     {
-      "trip_id": "4_17600624",
+      "trip_id": "4_17704637",
       "direction_id": "1",
       "headsign": "OSIEDLE SOBIESKIEGO",
       "service_id": "4",
@@ -34997,7 +34997,7 @@
       ]
     },
     {
-      "trip_id": "4_17600625",
+      "trip_id": "4_17704638",
       "direction_id": "0",
       "headsign": "KMINKOWA",
       "service_id": "4",
@@ -35383,7 +35383,7 @@
       ]
     },
     {
-      "trip_id": "4_17600626",
+      "trip_id": "4_17704639",
       "direction_id": "1",
       "headsign": "OSIEDLE SOBIESKIEGO",
       "service_id": "4",
@@ -35787,7 +35787,7 @@
       ]
     },
     {
-      "trip_id": "4_17600627",
+      "trip_id": "4_17704640",
       "direction_id": "0",
       "headsign": "KMINKOWA",
       "service_id": "4",
@@ -36173,7 +36173,7 @@
       ]
     },
     {
-      "trip_id": "4_17600628",
+      "trip_id": "4_17704641",
       "direction_id": "1",
       "headsign": "OSIEDLE SOBIESKIEGO",
       "service_id": "4",
@@ -36577,7 +36577,7 @@
       ]
     },
     {
-      "trip_id": "4_17600629",
+      "trip_id": "4_17704642",
       "direction_id": "0",
       "headsign": "KMINKOWA",
       "service_id": "4",
@@ -36963,7 +36963,7 @@
       ]
     },
     {
-      "trip_id": "4_17600634",
+      "trip_id": "4_17704647",
       "direction_id": "0",
       "headsign": "KMINKOWA",
       "service_id": "4",
@@ -37151,7 +37151,7 @@
       ]
     },
     {
-      "trip_id": "4_17600635",
+      "trip_id": "4_17704648",
       "direction_id": "1",
       "headsign": "OSIEDLE SOBIESKIEGO",
       "service_id": "4",
@@ -37555,7 +37555,7 @@
       ]
     },
     {
-      "trip_id": "4_17600636",
+      "trip_id": "4_17704649",
       "direction_id": "0",
       "headsign": "KMINKOWA",
       "service_id": "4",
@@ -37941,7 +37941,7 @@
       ]
     },
     {
-      "trip_id": "4_17600637",
+      "trip_id": "4_17704650",
       "direction_id": "1",
       "headsign": "OSIEDLE SOBIESKIEGO",
       "service_id": "4",
@@ -38345,7 +38345,7 @@
       ]
     },
     {
-      "trip_id": "4_17600638",
+      "trip_id": "4_17704651",
       "direction_id": "0",
       "headsign": "KMINKOWA",
       "service_id": "4",
@@ -38731,7 +38731,7 @@
       ]
     },
     {
-      "trip_id": "4_17600639",
+      "trip_id": "4_17704652",
       "direction_id": "1",
       "headsign": "OSIEDLE SOBIESKIEGO",
       "service_id": "4",
@@ -39135,7 +39135,7 @@
       ]
     },
     {
-      "trip_id": "4_17600640",
+      "trip_id": "4_17704653",
       "direction_id": "0",
       "headsign": "KMINKOWA",
       "service_id": "4",
@@ -39521,7 +39521,7 @@
       ]
     },
     {
-      "trip_id": "4_17600641",
+      "trip_id": "4_17704654",
       "direction_id": "1",
       "headsign": "OSIEDLE SOBIESKIEGO",
       "service_id": "4",
@@ -39925,7 +39925,7 @@
       ]
     },
     {
-      "trip_id": "4_17600642",
+      "trip_id": "4_17704655",
       "direction_id": "0",
       "headsign": "KMINKOWA",
       "service_id": "4",
@@ -40311,7 +40311,7 @@
       ]
     },
     {
-      "trip_id": "4_17600643",
+      "trip_id": "4_17704656",
       "direction_id": "1",
       "headsign": "OSIEDLE SOBIESKIEGO",
       "service_id": "4",
@@ -40715,7 +40715,7 @@
       ]
     },
     {
-      "trip_id": "4_17600644",
+      "trip_id": "4_17704657",
       "direction_id": "0",
       "headsign": "KMINKOWA",
       "service_id": "4",
@@ -41101,7 +41101,7 @@
       ]
     },
     {
-      "trip_id": "4_17600645",
+      "trip_id": "4_17704658",
       "direction_id": "1",
       "headsign": "OSIEDLE SOBIESKIEGO",
       "service_id": "4",
@@ -41505,7 +41505,7 @@
       ]
     },
     {
-      "trip_id": "4_17600646",
+      "trip_id": "4_17704659",
       "direction_id": "0",
       "headsign": "KMINKOWA",
       "service_id": "4",
@@ -41891,7 +41891,7 @@
       ]
     },
     {
-      "trip_id": "4_17600647",
+      "trip_id": "4_17704660",
       "direction_id": "1",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "4",
@@ -42016,7 +42016,7 @@
       ]
     },
     {
-      "trip_id": "4_17600648",
+      "trip_id": "4_17704661",
       "direction_id": "0",
       "headsign": "KMINKOWA",
       "service_id": "4",
@@ -42132,7 +42132,7 @@
       ]
     },
     {
-      "trip_id": "4_17600649",
+      "trip_id": "4_17704662",
       "direction_id": "1",
       "headsign": "OSIEDLE SOBIESKIEGO",
       "service_id": "4",
@@ -42536,7 +42536,7 @@
       ]
     },
     {
-      "trip_id": "4_17600650",
+      "trip_id": "4_17704663",
       "direction_id": "0",
       "headsign": "KMINKOWA",
       "service_id": "4",
@@ -42922,7 +42922,7 @@
       ]
     },
     {
-      "trip_id": "4_17600651",
+      "trip_id": "4_17704664",
       "direction_id": "1",
       "headsign": "OSIEDLE SOBIESKIEGO",
       "service_id": "4",
@@ -43326,7 +43326,7 @@
       ]
     },
     {
-      "trip_id": "4_17600652",
+      "trip_id": "4_17704665",
       "direction_id": "0",
       "headsign": "KMINKOWA",
       "service_id": "4",
@@ -43712,7 +43712,7 @@
       ]
     },
     {
-      "trip_id": "4_17600653",
+      "trip_id": "4_17704666",
       "direction_id": "1",
       "headsign": "OSIEDLE SOBIESKIEGO",
       "service_id": "4",
@@ -44116,7 +44116,7 @@
       ]
     },
     {
-      "trip_id": "4_17600654",
+      "trip_id": "4_17704667",
       "direction_id": "0",
       "headsign": "KMINKOWA",
       "service_id": "4",
@@ -44502,7 +44502,7 @@
       ]
     },
     {
-      "trip_id": "4_17600655",
+      "trip_id": "4_17704668",
       "direction_id": "1",
       "headsign": "OSIEDLE SOBIESKIEGO",
       "service_id": "4",
@@ -44906,7 +44906,7 @@
       ]
     },
     {
-      "trip_id": "4_17600656",
+      "trip_id": "4_17704669",
       "direction_id": "0",
       "headsign": "KMINKOWA",
       "service_id": "4",
@@ -45292,7 +45292,7 @@
       ]
     },
     {
-      "trip_id": "4_17600657",
+      "trip_id": "4_17704670",
       "direction_id": "1",
       "headsign": "OSIEDLE SOBIESKIEGO",
       "service_id": "4",
@@ -45696,7 +45696,7 @@
       ]
     },
     {
-      "trip_id": "4_17600658",
+      "trip_id": "4_17704671",
       "direction_id": "0",
       "headsign": "KMINKOWA",
       "service_id": "4",
@@ -46082,7 +46082,7 @@
       ]
     },
     {
-      "trip_id": "4_17600659",
+      "trip_id": "4_17704672",
       "direction_id": "1",
       "headsign": "OSIEDLE SOBIESKIEGO",
       "service_id": "4",
@@ -46486,7 +46486,7 @@
       ]
     },
     {
-      "trip_id": "4_17600660",
+      "trip_id": "4_17704673",
       "direction_id": "0",
       "headsign": "KMINKOWA",
       "service_id": "4",
@@ -46872,7 +46872,7 @@
       ]
     },
     {
-      "trip_id": "4_17600661",
+      "trip_id": "4_17704674",
       "direction_id": "1",
       "headsign": "OSIEDLE SOBIESKIEGO",
       "service_id": "4",
@@ -47276,7 +47276,7 @@
       ]
     },
     {
-      "trip_id": "4_17600662",
+      "trip_id": "4_17704675",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "4",
@@ -47572,7 +47572,7 @@
       ]
     },
     {
-      "trip_id": "4_17600663",
+      "trip_id": "4_17704676",
       "direction_id": "0",
       "headsign": "KMINKOWA",
       "service_id": "4",
@@ -47760,7 +47760,7 @@
       ]
     },
     {
-      "trip_id": "4_17600664",
+      "trip_id": "4_17704677",
       "direction_id": "1",
       "headsign": "OSIEDLE SOBIESKIEGO",
       "service_id": "4",
@@ -48164,7 +48164,7 @@
       ]
     },
     {
-      "trip_id": "4_17600665",
+      "trip_id": "4_17704678",
       "direction_id": "0",
       "headsign": "KMINKOWA",
       "service_id": "4",
@@ -48550,7 +48550,7 @@
       ]
     },
     {
-      "trip_id": "4_17600666",
+      "trip_id": "4_17704679",
       "direction_id": "1",
       "headsign": "OSIEDLE SOBIESKIEGO",
       "service_id": "4",
@@ -48954,7 +48954,7 @@
       ]
     },
     {
-      "trip_id": "4_17600667",
+      "trip_id": "4_17704680",
       "direction_id": "0",
       "headsign": "KMINKOWA",
       "service_id": "4",
@@ -49340,7 +49340,7 @@
       ]
     },
     {
-      "trip_id": "4_17600668",
+      "trip_id": "4_17704681",
       "direction_id": "1",
       "headsign": "OSIEDLE SOBIESKIEGO",
       "service_id": "4",
@@ -49744,7 +49744,7 @@
       ]
     },
     {
-      "trip_id": "4_17600669",
+      "trip_id": "4_17704682",
       "direction_id": "0",
       "headsign": "KMINKOWA",
       "service_id": "4",
@@ -50130,7 +50130,7 @@
       ]
     },
     {
-      "trip_id": "4_17600670",
+      "trip_id": "4_17704683",
       "direction_id": "1",
       "headsign": "OSIEDLE SOBIESKIEGO",
       "service_id": "4",
@@ -50534,7 +50534,7 @@
       ]
     },
     {
-      "trip_id": "4_17600671",
+      "trip_id": "4_17704684",
       "direction_id": "0",
       "headsign": "KMINKOWA",
       "service_id": "4",
@@ -50920,7 +50920,7 @@
       ]
     },
     {
-      "trip_id": "4_17600672",
+      "trip_id": "4_17704685",
       "direction_id": "1",
       "headsign": "OSIEDLE SOBIESKIEGO",
       "service_id": "4",
@@ -51324,7 +51324,7 @@
       ]
     },
     {
-      "trip_id": "4_17600673",
+      "trip_id": "4_17704686",
       "direction_id": "0",
       "headsign": "KMINKOWA",
       "service_id": "4",
@@ -51710,7 +51710,7 @@
       ]
     },
     {
-      "trip_id": "4_17600674",
+      "trip_id": "4_17704687",
       "direction_id": "1",
       "headsign": "OSIEDLE SOBIESKIEGO",
       "service_id": "4",
@@ -52114,7 +52114,7 @@
       ]
     },
     {
-      "trip_id": "4_17600675",
+      "trip_id": "4_17704688",
       "direction_id": "0",
       "headsign": "KMINKOWA",
       "service_id": "4",
@@ -52500,7 +52500,7 @@
       ]
     },
     {
-      "trip_id": "4_17600676",
+      "trip_id": "4_17704689",
       "direction_id": "1",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "4",
@@ -52625,7 +52625,7 @@
       ]
     },
     {
-      "trip_id": "4_17600677",
+      "trip_id": "4_17704690",
       "direction_id": "1",
       "headsign": "OSIEDLE SOBIESKIEGO",
       "service_id": "4",
@@ -52930,7 +52930,7 @@
       ]
     },
     {
-      "trip_id": "4_17600678",
+      "trip_id": "4_17704691",
       "direction_id": "0",
       "headsign": "KMINKOWA",
       "service_id": "4",
@@ -53316,7 +53316,7 @@
       ]
     },
     {
-      "trip_id": "4_17600679",
+      "trip_id": "4_17704692",
       "direction_id": "1",
       "headsign": "OSIEDLE SOBIESKIEGO",
       "service_id": "4",
@@ -53720,7 +53720,7 @@
       ]
     },
     {
-      "trip_id": "4_17600680",
+      "trip_id": "4_17704693",
       "direction_id": "0",
       "headsign": "KMINKOWA",
       "service_id": "4",
@@ -54106,7 +54106,7 @@
       ]
     },
     {
-      "trip_id": "4_17600681",
+      "trip_id": "4_17704694",
       "direction_id": "1",
       "headsign": "OSIEDLE SOBIESKIEGO",
       "service_id": "4",
@@ -54510,7 +54510,7 @@
       ]
     },
     {
-      "trip_id": "4_17600682",
+      "trip_id": "4_17704695",
       "direction_id": "0",
       "headsign": "KMINKOWA",
       "service_id": "4",
@@ -54896,7 +54896,7 @@
       ]
     },
     {
-      "trip_id": "4_17600683",
+      "trip_id": "4_17704696",
       "direction_id": "1",
       "headsign": "OSIEDLE SOBIESKIEGO",
       "service_id": "4",
@@ -55300,7 +55300,7 @@
       ]
     },
     {
-      "trip_id": "4_17600684",
+      "trip_id": "4_17704697",
       "direction_id": "0",
       "headsign": "KMINKOWA",
       "service_id": "4",
@@ -55686,7 +55686,7 @@
       ]
     },
     {
-      "trip_id": "4_17600685",
+      "trip_id": "4_17704698",
       "direction_id": "1",
       "headsign": "OSIEDLE SOBIESKIEGO",
       "service_id": "4",
@@ -56090,7 +56090,7 @@
       ]
     },
     {
-      "trip_id": "4_17600686",
+      "trip_id": "4_17704699",
       "direction_id": "0",
       "headsign": "KMINKOWA",
       "service_id": "4",
@@ -56476,7 +56476,7 @@
       ]
     },
     {
-      "trip_id": "4_17600687",
+      "trip_id": "4_17704700",
       "direction_id": "1",
       "headsign": "OSIEDLE SOBIESKIEGO",
       "service_id": "4",
@@ -56880,7 +56880,7 @@
       ]
     },
     {
-      "trip_id": "4_17600688",
+      "trip_id": "4_17704701",
       "direction_id": "0",
       "headsign": "KMINKOWA",
       "service_id": "4",
@@ -57266,7 +57266,7 @@
       ]
     },
     {
-      "trip_id": "4_17600689",
+      "trip_id": "4_17704702",
       "direction_id": "1",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "4",
@@ -57391,7 +57391,7 @@
       ]
     },
     {
-      "trip_id": "4_17600690",
+      "trip_id": "4_17704703",
       "direction_id": "1",
       "headsign": "OSIEDLE SOBIESKIEGO",
       "service_id": "4",
@@ -57696,7 +57696,7 @@
       ]
     },
     {
-      "trip_id": "4_17600691",
+      "trip_id": "4_17704704",
       "direction_id": "0",
       "headsign": "KMINKOWA",
       "service_id": "4",
@@ -58082,7 +58082,7 @@
       ]
     },
     {
-      "trip_id": "4_17600692",
+      "trip_id": "4_17704705",
       "direction_id": "1",
       "headsign": "OSIEDLE SOBIESKIEGO",
       "service_id": "4",
@@ -58486,7 +58486,7 @@
       ]
     },
     {
-      "trip_id": "4_17600693",
+      "trip_id": "4_17704706",
       "direction_id": "0",
       "headsign": "KMINKOWA",
       "service_id": "4",
@@ -58872,7 +58872,7 @@
       ]
     },
     {
-      "trip_id": "4_17600694",
+      "trip_id": "4_17704707",
       "direction_id": "1",
       "headsign": "OSIEDLE SOBIESKIEGO",
       "service_id": "4",
@@ -59276,7 +59276,7 @@
       ]
     },
     {
-      "trip_id": "4_17600695",
+      "trip_id": "4_17704708",
       "direction_id": "0",
       "headsign": "KMINKOWA",
       "service_id": "4",
@@ -59662,7 +59662,7 @@
       ]
     },
     {
-      "trip_id": "4_17600696",
+      "trip_id": "4_17704709",
       "direction_id": "1",
       "headsign": "OSIEDLE SOBIESKIEGO",
       "service_id": "4",
@@ -60066,7 +60066,7 @@
       ]
     },
     {
-      "trip_id": "4_17600697",
+      "trip_id": "4_17704710",
       "direction_id": "0",
       "headsign": "KMINKOWA",
       "service_id": "4",
@@ -60452,7 +60452,7 @@
       ]
     },
     {
-      "trip_id": "4_17600698",
+      "trip_id": "4_17704711",
       "direction_id": "1",
       "headsign": "OSIEDLE SOBIESKIEGO",
       "service_id": "4",
@@ -60856,7 +60856,7 @@
       ]
     },
     {
-      "trip_id": "4_17600699",
+      "trip_id": "4_17704712",
       "direction_id": "0",
       "headsign": "KMINKOWA",
       "service_id": "4",
@@ -61242,7 +61242,7 @@
       ]
     },
     {
-      "trip_id": "4_17600700",
+      "trip_id": "4_17704713",
       "direction_id": "1",
       "headsign": "OSIEDLE SOBIESKIEGO",
       "service_id": "4",
@@ -61646,7 +61646,7 @@
       ]
     },
     {
-      "trip_id": "4_17600701",
+      "trip_id": "4_17704714",
       "direction_id": "0",
       "headsign": "KMINKOWA",
       "service_id": "4",
@@ -62032,7 +62032,7 @@
       ]
     },
     {
-      "trip_id": "4_17600702",
+      "trip_id": "4_17704715",
       "direction_id": "1",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "4",
@@ -62157,7 +62157,7 @@
       ]
     },
     {
-      "trip_id": "4_17603209",
+      "trip_id": "4_17707222",
       "direction_id": "1",
       "headsign": "OSIEDLE SOBIESKIEGO",
       "service_id": "4",
@@ -62561,7 +62561,7 @@
       ]
     },
     {
-      "trip_id": "4_17603210",
+      "trip_id": "4_17707223",
       "direction_id": "0",
       "headsign": "KMINKOWA",
       "service_id": "4",
@@ -62947,7 +62947,7 @@
       ]
     },
     {
-      "trip_id": "4_17603536",
+      "trip_id": "4_17707549",
       "direction_id": "0",
       "headsign": "KMINKOWA",
       "service_id": "4",
@@ -63063,7 +63063,7 @@
       ]
     },
     {
-      "trip_id": "4_17603537",
+      "trip_id": "4_17707550",
       "direction_id": "1",
       "headsign": "OSIEDLE SOBIESKIEGO",
       "service_id": "4",
@@ -63467,7 +63467,7 @@
       ]
     },
     {
-      "trip_id": "4_17603538",
+      "trip_id": "4_17707551",
       "direction_id": "0",
       "headsign": "KMINKOWA",
       "service_id": "4",
@@ -63853,7 +63853,7 @@
       ]
     },
     {
-      "trip_id": "4_17603539",
+      "trip_id": "4_17707552",
       "direction_id": "1",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "4",
@@ -64122,7 +64122,7 @@
       ]
     },
     {
-      "trip_id": "4_17603547",
+      "trip_id": "4_17707560",
       "direction_id": "0",
       "headsign": "KMINKOWA",
       "service_id": "4",
@@ -64238,7 +64238,7 @@
       ]
     },
     {
-      "trip_id": "4_17603548",
+      "trip_id": "4_17707561",
       "direction_id": "1",
       "headsign": "OSIEDLE SOBIESKIEGO",
       "service_id": "4",
@@ -64642,7 +64642,7 @@
       ]
     },
     {
-      "trip_id": "6_17605281",
+      "trip_id": "6_17709294",
       "direction_id": "0",
       "headsign": "KMINKOWA",
       "service_id": "6",
@@ -65028,7 +65028,7 @@
       ]
     },
     {
-      "trip_id": "6_17605282",
+      "trip_id": "6_17709295",
       "direction_id": "1",
       "headsign": "OSIEDLE SOBIESKIEGO",
       "service_id": "6",
@@ -65432,7 +65432,7 @@
       ]
     },
     {
-      "trip_id": "6_17605283",
+      "trip_id": "6_17709296",
       "direction_id": "0",
       "headsign": "KMINKOWA",
       "service_id": "6",
@@ -65818,7 +65818,7 @@
       ]
     },
     {
-      "trip_id": "6_17605284",
+      "trip_id": "6_17709297",
       "direction_id": "1",
       "headsign": "OSIEDLE SOBIESKIEGO",
       "service_id": "6",
@@ -66222,7 +66222,7 @@
       ]
     },
     {
-      "trip_id": "6_17605285",
+      "trip_id": "6_17709298",
       "direction_id": "0",
       "headsign": "KMINKOWA",
       "service_id": "6",
@@ -66608,7 +66608,7 @@
       ]
     },
     {
-      "trip_id": "6_17605286",
+      "trip_id": "6_17709299",
       "direction_id": "1",
       "headsign": "OSIEDLE SOBIESKIEGO",
       "service_id": "6",
@@ -67012,7 +67012,7 @@
       ]
     },
     {
-      "trip_id": "6_17605287",
+      "trip_id": "6_17709300",
       "direction_id": "0",
       "headsign": "KMINKOWA",
       "service_id": "6",
@@ -67398,7 +67398,7 @@
       ]
     },
     {
-      "trip_id": "6_17605288",
+      "trip_id": "6_17709301",
       "direction_id": "1",
       "headsign": "OSIEDLE SOBIESKIEGO",
       "service_id": "6",
@@ -67802,7 +67802,7 @@
       ]
     },
     {
-      "trip_id": "6_17605289",
+      "trip_id": "6_17709302",
       "direction_id": "0",
       "headsign": "KMINKOWA",
       "service_id": "6",
@@ -68188,7 +68188,7 @@
       ]
     },
     {
-      "trip_id": "6_17605290",
+      "trip_id": "6_17709303",
       "direction_id": "1",
       "headsign": "OSIEDLE SOBIESKIEGO",
       "service_id": "6",
@@ -68592,7 +68592,7 @@
       ]
     },
     {
-      "trip_id": "6_17605291",
+      "trip_id": "6_17709304",
       "direction_id": "0",
       "headsign": "KMINKOWA",
       "service_id": "6",
@@ -68978,7 +68978,7 @@
       ]
     },
     {
-      "trip_id": "6_17605292",
+      "trip_id": "6_17709305",
       "direction_id": "1",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "6",
@@ -69103,7 +69103,7 @@
       ]
     },
     {
-      "trip_id": "6_17605294",
+      "trip_id": "6_17709307",
       "direction_id": "0",
       "headsign": "KMINKOWA",
       "service_id": "6",
@@ -69489,7 +69489,7 @@
       ]
     },
     {
-      "trip_id": "6_17605295",
+      "trip_id": "6_17709308",
       "direction_id": "1",
       "headsign": "OSIEDLE SOBIESKIEGO",
       "service_id": "6",
@@ -69893,7 +69893,7 @@
       ]
     },
     {
-      "trip_id": "6_17605296",
+      "trip_id": "6_17709309",
       "direction_id": "0",
       "headsign": "KMINKOWA",
       "service_id": "6",
@@ -70279,7 +70279,7 @@
       ]
     },
     {
-      "trip_id": "6_17605297",
+      "trip_id": "6_17709310",
       "direction_id": "1",
       "headsign": "OSIEDLE SOBIESKIEGO",
       "service_id": "6",
@@ -70683,7 +70683,7 @@
       ]
     },
     {
-      "trip_id": "6_17605298",
+      "trip_id": "6_17709311",
       "direction_id": "0",
       "headsign": "KMINKOWA",
       "service_id": "6",
@@ -71069,7 +71069,7 @@
       ]
     },
     {
-      "trip_id": "6_17605299",
+      "trip_id": "6_17709312",
       "direction_id": "1",
       "headsign": "OSIEDLE SOBIESKIEGO",
       "service_id": "6",
@@ -71473,7 +71473,7 @@
       ]
     },
     {
-      "trip_id": "6_17605300",
+      "trip_id": "6_17709313",
       "direction_id": "0",
       "headsign": "KMINKOWA",
       "service_id": "6",
@@ -71859,7 +71859,7 @@
       ]
     },
     {
-      "trip_id": "6_17605301",
+      "trip_id": "6_17709314",
       "direction_id": "1",
       "headsign": "OSIEDLE SOBIESKIEGO",
       "service_id": "6",
@@ -72263,7 +72263,7 @@
       ]
     },
     {
-      "trip_id": "6_17605302",
+      "trip_id": "6_17709315",
       "direction_id": "0",
       "headsign": "KMINKOWA",
       "service_id": "6",
@@ -72649,7 +72649,7 @@
       ]
     },
     {
-      "trip_id": "6_17605303",
+      "trip_id": "6_17709316",
       "direction_id": "1",
       "headsign": "OSIEDLE SOBIESKIEGO",
       "service_id": "6",
@@ -73053,7 +73053,7 @@
       ]
     },
     {
-      "trip_id": "6_17605304",
+      "trip_id": "6_17709317",
       "direction_id": "0",
       "headsign": "KMINKOWA",
       "service_id": "6",
@@ -73439,7 +73439,7 @@
       ]
     },
     {
-      "trip_id": "6_17605305",
+      "trip_id": "6_17709318",
       "direction_id": "1",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "6",
@@ -73564,7 +73564,7 @@
       ]
     },
     {
-      "trip_id": "6_17605306",
+      "trip_id": "6_17709319",
       "direction_id": "0",
       "headsign": "KMINKOWA",
       "service_id": "6",
@@ -73752,7 +73752,7 @@
       ]
     },
     {
-      "trip_id": "6_17605307",
+      "trip_id": "6_17709320",
       "direction_id": "1",
       "headsign": "OSIEDLE SOBIESKIEGO",
       "service_id": "6",
@@ -74156,7 +74156,7 @@
       ]
     },
     {
-      "trip_id": "6_17605308",
+      "trip_id": "6_17709321",
       "direction_id": "0",
       "headsign": "KMINKOWA",
       "service_id": "6",
@@ -74542,7 +74542,7 @@
       ]
     },
     {
-      "trip_id": "6_17605309",
+      "trip_id": "6_17709322",
       "direction_id": "1",
       "headsign": "OSIEDLE SOBIESKIEGO",
       "service_id": "6",
@@ -74946,7 +74946,7 @@
       ]
     },
     {
-      "trip_id": "6_17605310",
+      "trip_id": "6_17709323",
       "direction_id": "0",
       "headsign": "KMINKOWA",
       "service_id": "6",
@@ -75332,7 +75332,7 @@
       ]
     },
     {
-      "trip_id": "6_17605311",
+      "trip_id": "6_17709324",
       "direction_id": "1",
       "headsign": "OSIEDLE SOBIESKIEGO",
       "service_id": "6",
@@ -75736,7 +75736,7 @@
       ]
     },
     {
-      "trip_id": "6_17605312",
+      "trip_id": "6_17709325",
       "direction_id": "0",
       "headsign": "KMINKOWA",
       "service_id": "6",
@@ -76122,7 +76122,7 @@
       ]
     },
     {
-      "trip_id": "6_17605313",
+      "trip_id": "6_17709326",
       "direction_id": "1",
       "headsign": "OSIEDLE SOBIESKIEGO",
       "service_id": "6",
@@ -76526,7 +76526,7 @@
       ]
     },
     {
-      "trip_id": "6_17605314",
+      "trip_id": "6_17709327",
       "direction_id": "0",
       "headsign": "KMINKOWA",
       "service_id": "6",
@@ -76912,7 +76912,7 @@
       ]
     },
     {
-      "trip_id": "6_17605315",
+      "trip_id": "6_17709328",
       "direction_id": "1",
       "headsign": "OSIEDLE SOBIESKIEGO",
       "service_id": "6",
@@ -77316,7 +77316,7 @@
       ]
     },
     {
-      "trip_id": "6_17605316",
+      "trip_id": "6_17709329",
       "direction_id": "0",
       "headsign": "KMINKOWA",
       "service_id": "6",
@@ -77702,7 +77702,7 @@
       ]
     },
     {
-      "trip_id": "6_17605317",
+      "trip_id": "6_17709330",
       "direction_id": "1",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "6",
@@ -77827,7 +77827,7 @@
       ]
     },
     {
-      "trip_id": "6_17605318",
+      "trip_id": "6_17709331",
       "direction_id": "1",
       "headsign": "OSIEDLE SOBIESKIEGO",
       "service_id": "6",
@@ -78132,7 +78132,7 @@
       ]
     },
     {
-      "trip_id": "6_17605319",
+      "trip_id": "6_17709332",
       "direction_id": "0",
       "headsign": "KMINKOWA",
       "service_id": "6",
@@ -78518,7 +78518,7 @@
       ]
     },
     {
-      "trip_id": "6_17605320",
+      "trip_id": "6_17709333",
       "direction_id": "1",
       "headsign": "OSIEDLE SOBIESKIEGO",
       "service_id": "6",
@@ -78922,7 +78922,7 @@
       ]
     },
     {
-      "trip_id": "6_17605321",
+      "trip_id": "6_17709334",
       "direction_id": "0",
       "headsign": "KMINKOWA",
       "service_id": "6",
@@ -79308,7 +79308,7 @@
       ]
     },
     {
-      "trip_id": "6_17605322",
+      "trip_id": "6_17709335",
       "direction_id": "1",
       "headsign": "OSIEDLE SOBIESKIEGO",
       "service_id": "6",
@@ -79712,7 +79712,7 @@
       ]
     },
     {
-      "trip_id": "6_17605323",
+      "trip_id": "6_17709336",
       "direction_id": "0",
       "headsign": "KMINKOWA",
       "service_id": "6",
@@ -80098,7 +80098,7 @@
       ]
     },
     {
-      "trip_id": "6_17605324",
+      "trip_id": "6_17709337",
       "direction_id": "1",
       "headsign": "OSIEDLE SOBIESKIEGO",
       "service_id": "6",
@@ -80502,7 +80502,7 @@
       ]
     },
     {
-      "trip_id": "6_17605325",
+      "trip_id": "6_17709338",
       "direction_id": "0",
       "headsign": "KMINKOWA",
       "service_id": "6",
@@ -80888,7 +80888,7 @@
       ]
     },
     {
-      "trip_id": "6_17605326",
+      "trip_id": "6_17709339",
       "direction_id": "1",
       "headsign": "OSIEDLE SOBIESKIEGO",
       "service_id": "6",
@@ -81292,7 +81292,7 @@
       ]
     },
     {
-      "trip_id": "6_17605327",
+      "trip_id": "6_17709340",
       "direction_id": "0",
       "headsign": "KMINKOWA",
       "service_id": "6",
@@ -81678,7 +81678,7 @@
       ]
     },
     {
-      "trip_id": "6_17605328",
+      "trip_id": "6_17709341",
       "direction_id": "1",
       "headsign": "OSIEDLE SOBIESKIEGO",
       "service_id": "6",
@@ -82082,7 +82082,7 @@
       ]
     },
     {
-      "trip_id": "6_17605329",
+      "trip_id": "6_17709342",
       "direction_id": "0",
       "headsign": "KMINKOWA",
       "service_id": "6",
@@ -82468,7 +82468,7 @@
       ]
     },
     {
-      "trip_id": "6_17605330",
+      "trip_id": "6_17709343",
       "direction_id": "1",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "6",
@@ -82593,7 +82593,7 @@
       ]
     },
     {
-      "trip_id": "6_17605331",
+      "trip_id": "6_17709344",
       "direction_id": "0",
       "headsign": "KMINKOWA",
       "service_id": "6",
@@ -82709,7 +82709,7 @@
       ]
     },
     {
-      "trip_id": "6_17605332",
+      "trip_id": "6_17709345",
       "direction_id": "1",
       "headsign": "OSIEDLE SOBIESKIEGO",
       "service_id": "6",
@@ -83113,7 +83113,7 @@
       ]
     },
     {
-      "trip_id": "6_17605333",
+      "trip_id": "6_17709346",
       "direction_id": "0",
       "headsign": "KMINKOWA",
       "service_id": "6",
@@ -83499,7 +83499,7 @@
       ]
     },
     {
-      "trip_id": "6_17605334",
+      "trip_id": "6_17709347",
       "direction_id": "1",
       "headsign": "OSIEDLE SOBIESKIEGO",
       "service_id": "6",
@@ -83903,7 +83903,7 @@
       ]
     },
     {
-      "trip_id": "6_17605335",
+      "trip_id": "6_17709348",
       "direction_id": "0",
       "headsign": "KMINKOWA",
       "service_id": "6",
@@ -84289,7 +84289,7 @@
       ]
     },
     {
-      "trip_id": "6_17605336",
+      "trip_id": "6_17709349",
       "direction_id": "1",
       "headsign": "OSIEDLE SOBIESKIEGO",
       "service_id": "6",
@@ -84693,7 +84693,7 @@
       ]
     },
     {
-      "trip_id": "6_17605337",
+      "trip_id": "6_17709350",
       "direction_id": "0",
       "headsign": "KMINKOWA",
       "service_id": "6",
@@ -85079,7 +85079,7 @@
       ]
     },
     {
-      "trip_id": "6_17605338",
+      "trip_id": "6_17709351",
       "direction_id": "1",
       "headsign": "OSIEDLE SOBIESKIEGO",
       "service_id": "6",
@@ -85483,7 +85483,7 @@
       ]
     },
     {
-      "trip_id": "6_17605339",
+      "trip_id": "6_17709352",
       "direction_id": "0",
       "headsign": "KMINKOWA",
       "service_id": "6",
@@ -85869,7 +85869,7 @@
       ]
     },
     {
-      "trip_id": "6_17605340",
+      "trip_id": "6_17709353",
       "direction_id": "1",
       "headsign": "OSIEDLE SOBIESKIEGO",
       "service_id": "6",
@@ -86273,7 +86273,7 @@
       ]
     },
     {
-      "trip_id": "6_17605341",
+      "trip_id": "6_17709354",
       "direction_id": "0",
       "headsign": "KMINKOWA",
       "service_id": "6",
@@ -86659,7 +86659,7 @@
       ]
     },
     {
-      "trip_id": "6_17605342",
+      "trip_id": "6_17709355",
       "direction_id": "1",
       "headsign": "OSIEDLE SOBIESKIEGO",
       "service_id": "6",
@@ -87063,7 +87063,7 @@
       ]
     },
     {
-      "trip_id": "6_17605343",
+      "trip_id": "6_17709356",
       "direction_id": "0",
       "headsign": "KMINKOWA",
       "service_id": "6",
@@ -87449,7 +87449,7 @@
       ]
     },
     {
-      "trip_id": "6_17605344",
+      "trip_id": "6_17709357",
       "direction_id": "1",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "6",
@@ -87574,7 +87574,7 @@
       ]
     },
     {
-      "trip_id": "6_17605346",
+      "trip_id": "6_17709359",
       "direction_id": "0",
       "headsign": "KMINKOWA",
       "service_id": "6",
@@ -87960,7 +87960,7 @@
       ]
     },
     {
-      "trip_id": "6_17605347",
+      "trip_id": "6_17709360",
       "direction_id": "1",
       "headsign": "OSIEDLE SOBIESKIEGO",
       "service_id": "6",
@@ -88364,7 +88364,7 @@
       ]
     },
     {
-      "trip_id": "6_17605348",
+      "trip_id": "6_17709361",
       "direction_id": "0",
       "headsign": "KMINKOWA",
       "service_id": "6",
@@ -88750,7 +88750,7 @@
       ]
     },
     {
-      "trip_id": "6_17605349",
+      "trip_id": "6_17709362",
       "direction_id": "1",
       "headsign": "OSIEDLE SOBIESKIEGO",
       "service_id": "6",
@@ -89154,7 +89154,7 @@
       ]
     },
     {
-      "trip_id": "6_17605350",
+      "trip_id": "6_17709363",
       "direction_id": "0",
       "headsign": "KMINKOWA",
       "service_id": "6",
@@ -89540,7 +89540,7 @@
       ]
     },
     {
-      "trip_id": "6_17605351",
+      "trip_id": "6_17709364",
       "direction_id": "1",
       "headsign": "OSIEDLE SOBIESKIEGO",
       "service_id": "6",
@@ -89944,7 +89944,7 @@
       ]
     },
     {
-      "trip_id": "6_17605352",
+      "trip_id": "6_17709365",
       "direction_id": "0",
       "headsign": "KMINKOWA",
       "service_id": "6",
@@ -90330,7 +90330,7 @@
       ]
     },
     {
-      "trip_id": "6_17605353",
+      "trip_id": "6_17709366",
       "direction_id": "1",
       "headsign": "OSIEDLE SOBIESKIEGO",
       "service_id": "6",
@@ -90734,7 +90734,7 @@
       ]
     },
     {
-      "trip_id": "6_17605354",
+      "trip_id": "6_17709367",
       "direction_id": "0",
       "headsign": "KMINKOWA",
       "service_id": "6",
@@ -91120,7 +91120,7 @@
       ]
     },
     {
-      "trip_id": "6_17605355",
+      "trip_id": "6_17709368",
       "direction_id": "1",
       "headsign": "OSIEDLE SOBIESKIEGO",
       "service_id": "6",
@@ -91524,7 +91524,7 @@
       ]
     },
     {
-      "trip_id": "6_17605356",
+      "trip_id": "6_17709369",
       "direction_id": "0",
       "headsign": "KMINKOWA",
       "service_id": "6",
@@ -91910,7 +91910,7 @@
       ]
     },
     {
-      "trip_id": "6_17605357",
+      "trip_id": "6_17709370",
       "direction_id": "1",
       "headsign": "OSIEDLE SOBIESKIEGO",
       "service_id": "6",
@@ -92314,7 +92314,7 @@
       ]
     },
     {
-      "trip_id": "6_17605361",
+      "trip_id": "6_17709374",
       "direction_id": "0",
       "headsign": "KMINKOWA",
       "service_id": "6",
@@ -92700,7 +92700,7 @@
       ]
     },
     {
-      "trip_id": "6_17605362",
+      "trip_id": "6_17709375",
       "direction_id": "1",
       "headsign": "OSIEDLE SOBIESKIEGO",
       "service_id": "6",
@@ -93104,7 +93104,7 @@
       ]
     },
     {
-      "trip_id": "6_17605363",
+      "trip_id": "6_17709376",
       "direction_id": "0",
       "headsign": "KMINKOWA",
       "service_id": "6",
@@ -93490,7 +93490,7 @@
       ]
     },
     {
-      "trip_id": "6_17605364",
+      "trip_id": "6_17709377",
       "direction_id": "1",
       "headsign": "OSIEDLE SOBIESKIEGO",
       "service_id": "6",
@@ -93894,7 +93894,7 @@
       ]
     },
     {
-      "trip_id": "6_17605365",
+      "trip_id": "6_17709378",
       "direction_id": "0",
       "headsign": "KMINKOWA",
       "service_id": "6",
@@ -94280,7 +94280,7 @@
       ]
     },
     {
-      "trip_id": "6_17605366",
+      "trip_id": "6_17709379",
       "direction_id": "1",
       "headsign": "OSIEDLE SOBIESKIEGO",
       "service_id": "6",
@@ -94684,7 +94684,7 @@
       ]
     },
     {
-      "trip_id": "6_17605367",
+      "trip_id": "6_17709380",
       "direction_id": "0",
       "headsign": "KMINKOWA",
       "service_id": "6",
@@ -95070,7 +95070,7 @@
       ]
     },
     {
-      "trip_id": "6_17605368",
+      "trip_id": "6_17709381",
       "direction_id": "1",
       "headsign": "OSIEDLE SOBIESKIEGO",
       "service_id": "6",
@@ -95474,7 +95474,7 @@
       ]
     },
     {
-      "trip_id": "6_17605369",
+      "trip_id": "6_17709382",
       "direction_id": "0",
       "headsign": "KMINKOWA",
       "service_id": "6",
@@ -95860,7 +95860,7 @@
       ]
     },
     {
-      "trip_id": "6_17605370",
+      "trip_id": "6_17709383",
       "direction_id": "1",
       "headsign": "OSIEDLE SOBIESKIEGO",
       "service_id": "6",
@@ -96264,7 +96264,7 @@
       ]
     },
     {
-      "trip_id": "6_17605371",
+      "trip_id": "6_17709384",
       "direction_id": "0",
       "headsign": "KMINKOWA",
       "service_id": "6",
@@ -96650,7 +96650,7 @@
       ]
     },
     {
-      "trip_id": "6_17605372",
+      "trip_id": "6_17709385",
       "direction_id": "1",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "6",
@@ -96775,7 +96775,7 @@
       ]
     },
     {
-      "trip_id": "6_17605373",
+      "trip_id": "6_17709386",
       "direction_id": "0",
       "headsign": "KMINKOWA",
       "service_id": "6",
@@ -96891,7 +96891,7 @@
       ]
     },
     {
-      "trip_id": "6_17605374",
+      "trip_id": "6_17709387",
       "direction_id": "1",
       "headsign": "OSIEDLE SOBIESKIEGO",
       "service_id": "6",
@@ -97295,7 +97295,7 @@
       ]
     },
     {
-      "trip_id": "6_17605375",
+      "trip_id": "6_17709388",
       "direction_id": "0",
       "headsign": "KMINKOWA",
       "service_id": "6",
@@ -97681,7 +97681,7 @@
       ]
     },
     {
-      "trip_id": "6_17605376",
+      "trip_id": "6_17709389",
       "direction_id": "1",
       "headsign": "OSIEDLE SOBIESKIEGO",
       "service_id": "6",
@@ -98085,7 +98085,7 @@
       ]
     },
     {
-      "trip_id": "6_17605377",
+      "trip_id": "6_17709390",
       "direction_id": "0",
       "headsign": "KMINKOWA",
       "service_id": "6",
@@ -98471,7 +98471,7 @@
       ]
     },
     {
-      "trip_id": "6_17605378",
+      "trip_id": "6_17709391",
       "direction_id": "1",
       "headsign": "OSIEDLE SOBIESKIEGO",
       "service_id": "6",
@@ -98875,7 +98875,7 @@
       ]
     },
     {
-      "trip_id": "6_17605379",
+      "trip_id": "6_17709392",
       "direction_id": "0",
       "headsign": "KMINKOWA",
       "service_id": "6",
@@ -99261,7 +99261,7 @@
       ]
     },
     {
-      "trip_id": "6_17605380",
+      "trip_id": "6_17709393",
       "direction_id": "1",
       "headsign": "OSIEDLE SOBIESKIEGO",
       "service_id": "6",
@@ -99665,7 +99665,7 @@
       ]
     },
     {
-      "trip_id": "6_17605381",
+      "trip_id": "6_17709394",
       "direction_id": "0",
       "headsign": "KMINKOWA",
       "service_id": "6",
@@ -100051,7 +100051,7 @@
       ]
     },
     {
-      "trip_id": "6_17605382",
+      "trip_id": "6_17709395",
       "direction_id": "1",
       "headsign": "OSIEDLE SOBIESKIEGO",
       "service_id": "6",
@@ -100455,7 +100455,7 @@
       ]
     },
     {
-      "trip_id": "6_17605384",
+      "trip_id": "6_17709397",
       "direction_id": "0",
       "headsign": "KMINKOWA",
       "service_id": "6",
@@ -100571,7 +100571,7 @@
       ]
     },
     {
-      "trip_id": "6_17605385",
+      "trip_id": "6_17709398",
       "direction_id": "1",
       "headsign": "OSIEDLE SOBIESKIEGO",
       "service_id": "6",
@@ -100975,7 +100975,7 @@
       ]
     },
     {
-      "trip_id": "6_17605386",
+      "trip_id": "6_17709399",
       "direction_id": "0",
       "headsign": "KMINKOWA",
       "service_id": "6",
@@ -101361,7 +101361,7 @@
       ]
     },
     {
-      "trip_id": "6_17605387",
+      "trip_id": "6_17709400",
       "direction_id": "1",
       "headsign": "OSIEDLE SOBIESKIEGO",
       "service_id": "6",
@@ -101765,7 +101765,7 @@
       ]
     },
     {
-      "trip_id": "6_17605388",
+      "trip_id": "6_17709401",
       "direction_id": "0",
       "headsign": "KMINKOWA",
       "service_id": "6",
@@ -102151,7 +102151,7 @@
       ]
     },
     {
-      "trip_id": "6_17605389",
+      "trip_id": "6_17709402",
       "direction_id": "1",
       "headsign": "OSIEDLE SOBIESKIEGO",
       "service_id": "6",
@@ -102555,7 +102555,7 @@
       ]
     },
     {
-      "trip_id": "6_17605390",
+      "trip_id": "6_17709403",
       "direction_id": "0",
       "headsign": "KMINKOWA",
       "service_id": "6",
@@ -102941,7 +102941,7 @@
       ]
     },
     {
-      "trip_id": "6_17605391",
+      "trip_id": "6_17709404",
       "direction_id": "1",
       "headsign": "OSIEDLE SOBIESKIEGO",
       "service_id": "6",
@@ -103345,7 +103345,7 @@
       ]
     },
     {
-      "trip_id": "6_17605392",
+      "trip_id": "6_17709405",
       "direction_id": "0",
       "headsign": "KMINKOWA",
       "service_id": "6",
@@ -103731,7 +103731,7 @@
       ]
     },
     {
-      "trip_id": "6_17605393",
+      "trip_id": "6_17709406",
       "direction_id": "1",
       "headsign": "OSIEDLE SOBIESKIEGO",
       "service_id": "6",
@@ -104135,7 +104135,7 @@
       ]
     },
     {
-      "trip_id": "6_17605394",
+      "trip_id": "6_17709407",
       "direction_id": "0",
       "headsign": "KMINKOWA",
       "service_id": "6",
@@ -104521,7 +104521,7 @@
       ]
     },
     {
-      "trip_id": "6_17605395",
+      "trip_id": "6_17709408",
       "direction_id": "1",
       "headsign": "OSIEDLE SOBIESKIEGO",
       "service_id": "6",
@@ -104925,7 +104925,7 @@
       ]
     },
     {
-      "trip_id": "6_17605396",
+      "trip_id": "6_17709409",
       "direction_id": "0",
       "headsign": "KMINKOWA",
       "service_id": "6",
@@ -105311,7 +105311,7 @@
       ]
     },
     {
-      "trip_id": "6_17605400",
+      "trip_id": "6_17709413",
       "direction_id": "0",
       "headsign": "KMINKOWA",
       "service_id": "6",
@@ -105499,7 +105499,7 @@
       ]
     },
     {
-      "trip_id": "6_17605401",
+      "trip_id": "6_17709414",
       "direction_id": "1",
       "headsign": "OSIEDLE SOBIESKIEGO",
       "service_id": "6",
@@ -105903,7 +105903,7 @@
       ]
     },
     {
-      "trip_id": "6_17605402",
+      "trip_id": "6_17709415",
       "direction_id": "0",
       "headsign": "KMINKOWA",
       "service_id": "6",
@@ -106289,7 +106289,7 @@
       ]
     },
     {
-      "trip_id": "6_17605403",
+      "trip_id": "6_17709416",
       "direction_id": "1",
       "headsign": "OSIEDLE SOBIESKIEGO",
       "service_id": "6",
@@ -106693,7 +106693,7 @@
       ]
     },
     {
-      "trip_id": "6_17605404",
+      "trip_id": "6_17709417",
       "direction_id": "0",
       "headsign": "KMINKOWA",
       "service_id": "6",
@@ -107079,7 +107079,7 @@
       ]
     },
     {
-      "trip_id": "6_17605405",
+      "trip_id": "6_17709418",
       "direction_id": "1",
       "headsign": "OSIEDLE SOBIESKIEGO",
       "service_id": "6",
@@ -107483,7 +107483,7 @@
       ]
     },
     {
-      "trip_id": "6_17605406",
+      "trip_id": "6_17709419",
       "direction_id": "0",
       "headsign": "KMINKOWA",
       "service_id": "6",
@@ -107869,7 +107869,7 @@
       ]
     },
     {
-      "trip_id": "6_17605407",
+      "trip_id": "6_17709420",
       "direction_id": "1",
       "headsign": "OSIEDLE SOBIESKIEGO",
       "service_id": "6",
@@ -108273,7 +108273,7 @@
       ]
     },
     {
-      "trip_id": "6_17605408",
+      "trip_id": "6_17709421",
       "direction_id": "0",
       "headsign": "KMINKOWA",
       "service_id": "6",
@@ -108659,7 +108659,7 @@
       ]
     },
     {
-      "trip_id": "6_17605409",
+      "trip_id": "6_17709422",
       "direction_id": "1",
       "headsign": "OSIEDLE SOBIESKIEGO",
       "service_id": "6",
@@ -109063,7 +109063,7 @@
       ]
     },
     {
-      "trip_id": "6_17605410",
+      "trip_id": "6_17709423",
       "direction_id": "0",
       "headsign": "KMINKOWA",
       "service_id": "6",
@@ -109449,7 +109449,7 @@
       ]
     },
     {
-      "trip_id": "6_17605411",
+      "trip_id": "6_17709424",
       "direction_id": "1",
       "headsign": "OSIEDLE SOBIESKIEGO",
       "service_id": "6",
@@ -109853,7 +109853,7 @@
       ]
     },
     {
-      "trip_id": "6_17605412",
+      "trip_id": "6_17709425",
       "direction_id": "0",
       "headsign": "KMINKOWA",
       "service_id": "6",
@@ -110239,7 +110239,7 @@
       ]
     },
     {
-      "trip_id": "6_17605413",
+      "trip_id": "6_17709426",
       "direction_id": "1",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "6",
@@ -110364,7 +110364,7 @@
       ]
     },
     {
-      "trip_id": "6_17605414",
+      "trip_id": "6_17709427",
       "direction_id": "0",
       "headsign": "KMINKOWA",
       "service_id": "6",
@@ -110480,7 +110480,7 @@
       ]
     },
     {
-      "trip_id": "6_17605415",
+      "trip_id": "6_17709428",
       "direction_id": "1",
       "headsign": "OSIEDLE SOBIESKIEGO",
       "service_id": "6",
@@ -110884,7 +110884,7 @@
       ]
     },
     {
-      "trip_id": "6_17605416",
+      "trip_id": "6_17709429",
       "direction_id": "0",
       "headsign": "KMINKOWA",
       "service_id": "6",
@@ -111270,7 +111270,7 @@
       ]
     },
     {
-      "trip_id": "6_17605417",
+      "trip_id": "6_17709430",
       "direction_id": "1",
       "headsign": "OSIEDLE SOBIESKIEGO",
       "service_id": "6",
@@ -111674,7 +111674,7 @@
       ]
     },
     {
-      "trip_id": "6_17605418",
+      "trip_id": "6_17709431",
       "direction_id": "0",
       "headsign": "KMINKOWA",
       "service_id": "6",
@@ -112060,7 +112060,7 @@
       ]
     },
     {
-      "trip_id": "6_17605419",
+      "trip_id": "6_17709432",
       "direction_id": "1",
       "headsign": "OSIEDLE SOBIESKIEGO",
       "service_id": "6",
@@ -112464,7 +112464,7 @@
       ]
     },
     {
-      "trip_id": "6_17605420",
+      "trip_id": "6_17709433",
       "direction_id": "0",
       "headsign": "KMINKOWA",
       "service_id": "6",
@@ -112850,7 +112850,7 @@
       ]
     },
     {
-      "trip_id": "6_17605421",
+      "trip_id": "6_17709434",
       "direction_id": "1",
       "headsign": "OSIEDLE SOBIESKIEGO",
       "service_id": "6",
@@ -113254,7 +113254,7 @@
       ]
     },
     {
-      "trip_id": "6_17605422",
+      "trip_id": "6_17709435",
       "direction_id": "0",
       "headsign": "KMINKOWA",
       "service_id": "6",
@@ -113640,7 +113640,7 @@
       ]
     },
     {
-      "trip_id": "6_17605423",
+      "trip_id": "6_17709436",
       "direction_id": "1",
       "headsign": "OSIEDLE SOBIESKIEGO",
       "service_id": "6",
@@ -114044,7 +114044,7 @@
       ]
     },
     {
-      "trip_id": "6_17605424",
+      "trip_id": "6_17709437",
       "direction_id": "0",
       "headsign": "KMINKOWA",
       "service_id": "6",
@@ -114430,7 +114430,7 @@
       ]
     },
     {
-      "trip_id": "6_17605425",
+      "trip_id": "6_17709438",
       "direction_id": "1",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "6",
@@ -114555,7 +114555,7 @@
       ]
     },
     {
-      "trip_id": "6_17605426",
+      "trip_id": "6_17709439",
       "direction_id": "0",
       "headsign": "KMINKOWA",
       "service_id": "6",
@@ -114671,7 +114671,7 @@
       ]
     },
     {
-      "trip_id": "6_17605427",
+      "trip_id": "6_17709440",
       "direction_id": "1",
       "headsign": "OSIEDLE SOBIESKIEGO",
       "service_id": "6",
@@ -115075,7 +115075,7 @@
       ]
     },
     {
-      "trip_id": "6_17605428",
+      "trip_id": "6_17709441",
       "direction_id": "0",
       "headsign": "KMINKOWA",
       "service_id": "6",
@@ -115461,7 +115461,7 @@
       ]
     },
     {
-      "trip_id": "6_17605429",
+      "trip_id": "6_17709442",
       "direction_id": "1",
       "headsign": "OSIEDLE SOBIESKIEGO",
       "service_id": "6",
@@ -115865,7 +115865,7 @@
       ]
     },
     {
-      "trip_id": "6_17605430",
+      "trip_id": "6_17709443",
       "direction_id": "0",
       "headsign": "KMINKOWA",
       "service_id": "6",
@@ -116251,7 +116251,7 @@
       ]
     },
     {
-      "trip_id": "6_17605431",
+      "trip_id": "6_17709444",
       "direction_id": "1",
       "headsign": "OSIEDLE SOBIESKIEGO",
       "service_id": "6",
@@ -116655,7 +116655,7 @@
       ]
     },
     {
-      "trip_id": "6_17605432",
+      "trip_id": "6_17709445",
       "direction_id": "0",
       "headsign": "KMINKOWA",
       "service_id": "6",
@@ -117041,7 +117041,7 @@
       ]
     },
     {
-      "trip_id": "6_17605433",
+      "trip_id": "6_17709446",
       "direction_id": "1",
       "headsign": "OSIEDLE SOBIESKIEGO",
       "service_id": "6",
@@ -117445,7 +117445,7 @@
       ]
     },
     {
-      "trip_id": "6_17605434",
+      "trip_id": "6_17709447",
       "direction_id": "0",
       "headsign": "KMINKOWA",
       "service_id": "6",
@@ -117831,7 +117831,7 @@
       ]
     },
     {
-      "trip_id": "6_17605435",
+      "trip_id": "6_17709448",
       "direction_id": "1",
       "headsign": "OSIEDLE SOBIESKIEGO",
       "service_id": "6",
@@ -118235,7 +118235,7 @@
       ]
     },
     {
-      "trip_id": "6_17605436",
+      "trip_id": "6_17709449",
       "direction_id": "0",
       "headsign": "KMINKOWA",
       "service_id": "6",
@@ -118621,7 +118621,7 @@
       ]
     },
     {
-      "trip_id": "6_17605437",
+      "trip_id": "6_17709450",
       "direction_id": "1",
       "headsign": "OSIEDLE SOBIESKIEGO",
       "service_id": "6",
@@ -119025,7 +119025,7 @@
       ]
     },
     {
-      "trip_id": "6_17605438",
+      "trip_id": "6_17709451",
       "direction_id": "0",
       "headsign": "KMINKOWA",
       "service_id": "6",
@@ -119411,7 +119411,7 @@
       ]
     },
     {
-      "trip_id": "6_17605439",
+      "trip_id": "6_17709452",
       "direction_id": "1",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "6",
@@ -119536,7 +119536,7 @@
       ]
     },
     {
-      "trip_id": "6_17609726",
+      "trip_id": "6_17713739",
       "direction_id": "0",
       "headsign": "KMINKOWA",
       "service_id": "6",
@@ -119652,7 +119652,7 @@
       ]
     },
     {
-      "trip_id": "6_17609727",
+      "trip_id": "6_17713740",
       "direction_id": "1",
       "headsign": "OSIEDLE SOBIESKIEGO",
       "service_id": "6",
@@ -120056,7 +120056,7 @@
       ]
     },
     {
-      "trip_id": "6_17609728",
+      "trip_id": "6_17713741",
       "direction_id": "0",
       "headsign": "KMINKOWA",
       "service_id": "6",
@@ -120442,7 +120442,7 @@
       ]
     },
     {
-      "trip_id": "6_17609729",
+      "trip_id": "6_17713742",
       "direction_id": "1",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "6",
@@ -120711,7 +120711,7 @@
       ]
     },
     {
-      "trip_id": "6_17609737",
+      "trip_id": "6_17713750",
       "direction_id": "0",
       "headsign": "KMINKOWA",
       "service_id": "6",
@@ -120827,7 +120827,7 @@
       ]
     },
     {
-      "trip_id": "6_17609738",
+      "trip_id": "6_17713751",
       "direction_id": "1",
       "headsign": "OSIEDLE SOBIESKIEGO",
       "service_id": "6",
@@ -121231,7 +121231,7 @@
       ]
     },
     {
-      "trip_id": "8_17612107",
+      "trip_id": "8_17716120",
       "direction_id": "0",
       "headsign": "KMINKOWA",
       "service_id": "8",
@@ -121617,7 +121617,7 @@
       ]
     },
     {
-      "trip_id": "8_17612108",
+      "trip_id": "8_17716121",
       "direction_id": "1",
       "headsign": "OSIEDLE SOBIESKIEGO",
       "service_id": "8",
@@ -122021,7 +122021,7 @@
       ]
     },
     {
-      "trip_id": "8_17612109",
+      "trip_id": "8_17716122",
       "direction_id": "0",
       "headsign": "KMINKOWA",
       "service_id": "8",
@@ -122407,7 +122407,7 @@
       ]
     },
     {
-      "trip_id": "8_17612110",
+      "trip_id": "8_17716123",
       "direction_id": "1",
       "headsign": "OSIEDLE SOBIESKIEGO",
       "service_id": "8",
@@ -122811,7 +122811,7 @@
       ]
     },
     {
-      "trip_id": "8_17612111",
+      "trip_id": "8_17716124",
       "direction_id": "0",
       "headsign": "KMINKOWA",
       "service_id": "8",
@@ -123197,7 +123197,7 @@
       ]
     },
     {
-      "trip_id": "8_17612112",
+      "trip_id": "8_17716125",
       "direction_id": "1",
       "headsign": "OSIEDLE SOBIESKIEGO",
       "service_id": "8",
@@ -123601,7 +123601,7 @@
       ]
     },
     {
-      "trip_id": "8_17612113",
+      "trip_id": "8_17716126",
       "direction_id": "0",
       "headsign": "KMINKOWA",
       "service_id": "8",
@@ -123987,7 +123987,7 @@
       ]
     },
     {
-      "trip_id": "8_17612114",
+      "trip_id": "8_17716127",
       "direction_id": "1",
       "headsign": "OSIEDLE SOBIESKIEGO",
       "service_id": "8",
@@ -124391,7 +124391,7 @@
       ]
     },
     {
-      "trip_id": "8_17612115",
+      "trip_id": "8_17716128",
       "direction_id": "0",
       "headsign": "KMINKOWA",
       "service_id": "8",
@@ -124777,7 +124777,7 @@
       ]
     },
     {
-      "trip_id": "8_17612116",
+      "trip_id": "8_17716129",
       "direction_id": "1",
       "headsign": "OSIEDLE SOBIESKIEGO",
       "service_id": "8",
@@ -125181,7 +125181,7 @@
       ]
     },
     {
-      "trip_id": "8_17612117",
+      "trip_id": "8_17716130",
       "direction_id": "0",
       "headsign": "KMINKOWA",
       "service_id": "8",
@@ -125567,7 +125567,7 @@
       ]
     },
     {
-      "trip_id": "8_17612118",
+      "trip_id": "8_17716131",
       "direction_id": "1",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "8",
@@ -125692,7 +125692,7 @@
       ]
     },
     {
-      "trip_id": "8_17612120",
+      "trip_id": "8_17716133",
       "direction_id": "0",
       "headsign": "KMINKOWA",
       "service_id": "8",
@@ -126078,7 +126078,7 @@
       ]
     },
     {
-      "trip_id": "8_17612121",
+      "trip_id": "8_17716134",
       "direction_id": "1",
       "headsign": "OSIEDLE SOBIESKIEGO",
       "service_id": "8",
@@ -126482,7 +126482,7 @@
       ]
     },
     {
-      "trip_id": "8_17612122",
+      "trip_id": "8_17716135",
       "direction_id": "0",
       "headsign": "KMINKOWA",
       "service_id": "8",
@@ -126868,7 +126868,7 @@
       ]
     },
     {
-      "trip_id": "8_17612123",
+      "trip_id": "8_17716136",
       "direction_id": "1",
       "headsign": "OSIEDLE SOBIESKIEGO",
       "service_id": "8",
@@ -127272,7 +127272,7 @@
       ]
     },
     {
-      "trip_id": "8_17612124",
+      "trip_id": "8_17716137",
       "direction_id": "0",
       "headsign": "KMINKOWA",
       "service_id": "8",
@@ -127658,7 +127658,7 @@
       ]
     },
     {
-      "trip_id": "8_17612125",
+      "trip_id": "8_17716138",
       "direction_id": "1",
       "headsign": "OSIEDLE SOBIESKIEGO",
       "service_id": "8",
@@ -128062,7 +128062,7 @@
       ]
     },
     {
-      "trip_id": "8_17612126",
+      "trip_id": "8_17716139",
       "direction_id": "0",
       "headsign": "KMINKOWA",
       "service_id": "8",
@@ -128448,7 +128448,7 @@
       ]
     },
     {
-      "trip_id": "8_17612127",
+      "trip_id": "8_17716140",
       "direction_id": "1",
       "headsign": "OSIEDLE SOBIESKIEGO",
       "service_id": "8",
@@ -128852,7 +128852,7 @@
       ]
     },
     {
-      "trip_id": "8_17612128",
+      "trip_id": "8_17716141",
       "direction_id": "0",
       "headsign": "KMINKOWA",
       "service_id": "8",
@@ -129238,7 +129238,7 @@
       ]
     },
     {
-      "trip_id": "8_17612129",
+      "trip_id": "8_17716142",
       "direction_id": "1",
       "headsign": "OSIEDLE SOBIESKIEGO",
       "service_id": "8",
@@ -129642,7 +129642,7 @@
       ]
     },
     {
-      "trip_id": "8_17612130",
+      "trip_id": "8_17716143",
       "direction_id": "0",
       "headsign": "KMINKOWA",
       "service_id": "8",
@@ -130028,7 +130028,7 @@
       ]
     },
     {
-      "trip_id": "8_17612131",
+      "trip_id": "8_17716144",
       "direction_id": "1",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "8",
@@ -130153,7 +130153,7 @@
       ]
     },
     {
-      "trip_id": "8_17612132",
+      "trip_id": "8_17716145",
       "direction_id": "0",
       "headsign": "KMINKOWA",
       "service_id": "8",
@@ -130341,7 +130341,7 @@
       ]
     },
     {
-      "trip_id": "8_17612133",
+      "trip_id": "8_17716146",
       "direction_id": "1",
       "headsign": "OSIEDLE SOBIESKIEGO",
       "service_id": "8",
@@ -130745,7 +130745,7 @@
       ]
     },
     {
-      "trip_id": "8_17612134",
+      "trip_id": "8_17716147",
       "direction_id": "0",
       "headsign": "KMINKOWA",
       "service_id": "8",
@@ -131131,7 +131131,7 @@
       ]
     },
     {
-      "trip_id": "8_17612135",
+      "trip_id": "8_17716148",
       "direction_id": "1",
       "headsign": "OSIEDLE SOBIESKIEGO",
       "service_id": "8",
@@ -131535,7 +131535,7 @@
       ]
     },
     {
-      "trip_id": "8_17612136",
+      "trip_id": "8_17716149",
       "direction_id": "0",
       "headsign": "KMINKOWA",
       "service_id": "8",
@@ -131921,7 +131921,7 @@
       ]
     },
     {
-      "trip_id": "8_17612137",
+      "trip_id": "8_17716150",
       "direction_id": "1",
       "headsign": "OSIEDLE SOBIESKIEGO",
       "service_id": "8",
@@ -132325,7 +132325,7 @@
       ]
     },
     {
-      "trip_id": "8_17612138",
+      "trip_id": "8_17716151",
       "direction_id": "0",
       "headsign": "KMINKOWA",
       "service_id": "8",
@@ -132711,7 +132711,7 @@
       ]
     },
     {
-      "trip_id": "8_17612139",
+      "trip_id": "8_17716152",
       "direction_id": "1",
       "headsign": "OSIEDLE SOBIESKIEGO",
       "service_id": "8",
@@ -133115,7 +133115,7 @@
       ]
     },
     {
-      "trip_id": "8_17612140",
+      "trip_id": "8_17716153",
       "direction_id": "0",
       "headsign": "KMINKOWA",
       "service_id": "8",
@@ -133501,7 +133501,7 @@
       ]
     },
     {
-      "trip_id": "8_17612141",
+      "trip_id": "8_17716154",
       "direction_id": "1",
       "headsign": "OSIEDLE SOBIESKIEGO",
       "service_id": "8",
@@ -133905,7 +133905,7 @@
       ]
     },
     {
-      "trip_id": "8_17612142",
+      "trip_id": "8_17716155",
       "direction_id": "0",
       "headsign": "KMINKOWA",
       "service_id": "8",
@@ -134291,7 +134291,7 @@
       ]
     },
     {
-      "trip_id": "8_17612143",
+      "trip_id": "8_17716156",
       "direction_id": "1",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "8",
@@ -134416,7 +134416,7 @@
       ]
     },
     {
-      "trip_id": "8_17612144",
+      "trip_id": "8_17716157",
       "direction_id": "1",
       "headsign": "OSIEDLE SOBIESKIEGO",
       "service_id": "8",
@@ -134721,7 +134721,7 @@
       ]
     },
     {
-      "trip_id": "8_17612145",
+      "trip_id": "8_17716158",
       "direction_id": "0",
       "headsign": "KMINKOWA",
       "service_id": "8",
@@ -135107,7 +135107,7 @@
       ]
     },
     {
-      "trip_id": "8_17612146",
+      "trip_id": "8_17716159",
       "direction_id": "1",
       "headsign": "OSIEDLE SOBIESKIEGO",
       "service_id": "8",
@@ -135511,7 +135511,7 @@
       ]
     },
     {
-      "trip_id": "8_17612147",
+      "trip_id": "8_17716160",
       "direction_id": "0",
       "headsign": "KMINKOWA",
       "service_id": "8",
@@ -135897,7 +135897,7 @@
       ]
     },
     {
-      "trip_id": "8_17612148",
+      "trip_id": "8_17716161",
       "direction_id": "1",
       "headsign": "OSIEDLE SOBIESKIEGO",
       "service_id": "8",
@@ -136301,7 +136301,7 @@
       ]
     },
     {
-      "trip_id": "8_17612149",
+      "trip_id": "8_17716162",
       "direction_id": "0",
       "headsign": "KMINKOWA",
       "service_id": "8",
@@ -136687,7 +136687,7 @@
       ]
     },
     {
-      "trip_id": "8_17612150",
+      "trip_id": "8_17716163",
       "direction_id": "1",
       "headsign": "OSIEDLE SOBIESKIEGO",
       "service_id": "8",
@@ -137091,7 +137091,7 @@
       ]
     },
     {
-      "trip_id": "8_17612151",
+      "trip_id": "8_17716164",
       "direction_id": "0",
       "headsign": "KMINKOWA",
       "service_id": "8",
@@ -137477,7 +137477,7 @@
       ]
     },
     {
-      "trip_id": "8_17612152",
+      "trip_id": "8_17716165",
       "direction_id": "1",
       "headsign": "OSIEDLE SOBIESKIEGO",
       "service_id": "8",
@@ -137881,7 +137881,7 @@
       ]
     },
     {
-      "trip_id": "8_17612153",
+      "trip_id": "8_17716166",
       "direction_id": "0",
       "headsign": "KMINKOWA",
       "service_id": "8",
@@ -138267,7 +138267,7 @@
       ]
     },
     {
-      "trip_id": "8_17612154",
+      "trip_id": "8_17716167",
       "direction_id": "1",
       "headsign": "OSIEDLE SOBIESKIEGO",
       "service_id": "8",
@@ -138671,7 +138671,7 @@
       ]
     },
     {
-      "trip_id": "8_17612155",
+      "trip_id": "8_17716168",
       "direction_id": "0",
       "headsign": "KMINKOWA",
       "service_id": "8",
@@ -139057,7 +139057,7 @@
       ]
     },
     {
-      "trip_id": "8_17612156",
+      "trip_id": "8_17716169",
       "direction_id": "1",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "8",
@@ -139182,7 +139182,7 @@
       ]
     },
     {
-      "trip_id": "8_17612157",
+      "trip_id": "8_17716170",
       "direction_id": "0",
       "headsign": "KMINKOWA",
       "service_id": "8",
@@ -139298,7 +139298,7 @@
       ]
     },
     {
-      "trip_id": "8_17612158",
+      "trip_id": "8_17716171",
       "direction_id": "1",
       "headsign": "OSIEDLE SOBIESKIEGO",
       "service_id": "8",
@@ -139702,7 +139702,7 @@
       ]
     },
     {
-      "trip_id": "8_17612159",
+      "trip_id": "8_17716172",
       "direction_id": "0",
       "headsign": "KMINKOWA",
       "service_id": "8",
@@ -140088,7 +140088,7 @@
       ]
     },
     {
-      "trip_id": "8_17612160",
+      "trip_id": "8_17716173",
       "direction_id": "1",
       "headsign": "OSIEDLE SOBIESKIEGO",
       "service_id": "8",
@@ -140492,7 +140492,7 @@
       ]
     },
     {
-      "trip_id": "8_17612161",
+      "trip_id": "8_17716174",
       "direction_id": "0",
       "headsign": "KMINKOWA",
       "service_id": "8",
@@ -140878,7 +140878,7 @@
       ]
     },
     {
-      "trip_id": "8_17612162",
+      "trip_id": "8_17716175",
       "direction_id": "1",
       "headsign": "OSIEDLE SOBIESKIEGO",
       "service_id": "8",
@@ -141282,7 +141282,7 @@
       ]
     },
     {
-      "trip_id": "8_17612163",
+      "trip_id": "8_17716176",
       "direction_id": "0",
       "headsign": "KMINKOWA",
       "service_id": "8",
@@ -141668,7 +141668,7 @@
       ]
     },
     {
-      "trip_id": "8_17612164",
+      "trip_id": "8_17716177",
       "direction_id": "1",
       "headsign": "OSIEDLE SOBIESKIEGO",
       "service_id": "8",
@@ -142072,7 +142072,7 @@
       ]
     },
     {
-      "trip_id": "8_17612165",
+      "trip_id": "8_17716178",
       "direction_id": "0",
       "headsign": "KMINKOWA",
       "service_id": "8",
@@ -142458,7 +142458,7 @@
       ]
     },
     {
-      "trip_id": "8_17612166",
+      "trip_id": "8_17716179",
       "direction_id": "1",
       "headsign": "OSIEDLE SOBIESKIEGO",
       "service_id": "8",
@@ -142862,7 +142862,7 @@
       ]
     },
     {
-      "trip_id": "8_17612167",
+      "trip_id": "8_17716180",
       "direction_id": "0",
       "headsign": "KMINKOWA",
       "service_id": "8",
@@ -143248,7 +143248,7 @@
       ]
     },
     {
-      "trip_id": "8_17612168",
+      "trip_id": "8_17716181",
       "direction_id": "1",
       "headsign": "OSIEDLE SOBIESKIEGO",
       "service_id": "8",
@@ -143652,7 +143652,7 @@
       ]
     },
     {
-      "trip_id": "8_17612169",
+      "trip_id": "8_17716182",
       "direction_id": "0",
       "headsign": "KMINKOWA",
       "service_id": "8",
@@ -144038,7 +144038,7 @@
       ]
     },
     {
-      "trip_id": "8_17612170",
+      "trip_id": "8_17716183",
       "direction_id": "1",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "8",
@@ -144163,7 +144163,7 @@
       ]
     },
     {
-      "trip_id": "8_17612172",
+      "trip_id": "8_17716185",
       "direction_id": "0",
       "headsign": "KMINKOWA",
       "service_id": "8",
@@ -144549,7 +144549,7 @@
       ]
     },
     {
-      "trip_id": "8_17612173",
+      "trip_id": "8_17716186",
       "direction_id": "1",
       "headsign": "OSIEDLE SOBIESKIEGO",
       "service_id": "8",
@@ -144953,7 +144953,7 @@
       ]
     },
     {
-      "trip_id": "8_17612174",
+      "trip_id": "8_17716187",
       "direction_id": "0",
       "headsign": "KMINKOWA",
       "service_id": "8",
@@ -145339,7 +145339,7 @@
       ]
     },
     {
-      "trip_id": "8_17612175",
+      "trip_id": "8_17716188",
       "direction_id": "1",
       "headsign": "OSIEDLE SOBIESKIEGO",
       "service_id": "8",
@@ -145743,7 +145743,7 @@
       ]
     },
     {
-      "trip_id": "8_17612176",
+      "trip_id": "8_17716189",
       "direction_id": "0",
       "headsign": "KMINKOWA",
       "service_id": "8",
@@ -146129,7 +146129,7 @@
       ]
     },
     {
-      "trip_id": "8_17612177",
+      "trip_id": "8_17716190",
       "direction_id": "1",
       "headsign": "OSIEDLE SOBIESKIEGO",
       "service_id": "8",
@@ -146533,7 +146533,7 @@
       ]
     },
     {
-      "trip_id": "8_17612178",
+      "trip_id": "8_17716191",
       "direction_id": "0",
       "headsign": "KMINKOWA",
       "service_id": "8",
@@ -146919,7 +146919,7 @@
       ]
     },
     {
-      "trip_id": "8_17612179",
+      "trip_id": "8_17716192",
       "direction_id": "1",
       "headsign": "OSIEDLE SOBIESKIEGO",
       "service_id": "8",
@@ -147323,7 +147323,7 @@
       ]
     },
     {
-      "trip_id": "8_17612180",
+      "trip_id": "8_17716193",
       "direction_id": "0",
       "headsign": "KMINKOWA",
       "service_id": "8",
@@ -147709,7 +147709,7 @@
       ]
     },
     {
-      "trip_id": "8_17612181",
+      "trip_id": "8_17716194",
       "direction_id": "1",
       "headsign": "OSIEDLE SOBIESKIEGO",
       "service_id": "8",
@@ -148113,7 +148113,7 @@
       ]
     },
     {
-      "trip_id": "8_17612182",
+      "trip_id": "8_17716195",
       "direction_id": "0",
       "headsign": "KMINKOWA",
       "service_id": "8",
@@ -148499,7 +148499,7 @@
       ]
     },
     {
-      "trip_id": "8_17612183",
+      "trip_id": "8_17716196",
       "direction_id": "1",
       "headsign": "OSIEDLE SOBIESKIEGO",
       "service_id": "8",
@@ -148903,7 +148903,7 @@
       ]
     },
     {
-      "trip_id": "8_17612187",
+      "trip_id": "8_17716200",
       "direction_id": "0",
       "headsign": "KMINKOWA",
       "service_id": "8",
@@ -149289,7 +149289,7 @@
       ]
     },
     {
-      "trip_id": "8_17612188",
+      "trip_id": "8_17716201",
       "direction_id": "1",
       "headsign": "OSIEDLE SOBIESKIEGO",
       "service_id": "8",
@@ -149693,7 +149693,7 @@
       ]
     },
     {
-      "trip_id": "8_17612189",
+      "trip_id": "8_17716202",
       "direction_id": "0",
       "headsign": "KMINKOWA",
       "service_id": "8",
@@ -150079,7 +150079,7 @@
       ]
     },
     {
-      "trip_id": "8_17612190",
+      "trip_id": "8_17716203",
       "direction_id": "1",
       "headsign": "OSIEDLE SOBIESKIEGO",
       "service_id": "8",
@@ -150483,7 +150483,7 @@
       ]
     },
     {
-      "trip_id": "8_17612191",
+      "trip_id": "8_17716204",
       "direction_id": "0",
       "headsign": "KMINKOWA",
       "service_id": "8",
@@ -150869,7 +150869,7 @@
       ]
     },
     {
-      "trip_id": "8_17612192",
+      "trip_id": "8_17716205",
       "direction_id": "1",
       "headsign": "OSIEDLE SOBIESKIEGO",
       "service_id": "8",
@@ -151273,7 +151273,7 @@
       ]
     },
     {
-      "trip_id": "8_17612193",
+      "trip_id": "8_17716206",
       "direction_id": "0",
       "headsign": "KMINKOWA",
       "service_id": "8",
@@ -151659,7 +151659,7 @@
       ]
     },
     {
-      "trip_id": "8_17612194",
+      "trip_id": "8_17716207",
       "direction_id": "1",
       "headsign": "OSIEDLE SOBIESKIEGO",
       "service_id": "8",
@@ -152063,7 +152063,7 @@
       ]
     },
     {
-      "trip_id": "8_17612195",
+      "trip_id": "8_17716208",
       "direction_id": "0",
       "headsign": "KMINKOWA",
       "service_id": "8",
@@ -152449,7 +152449,7 @@
       ]
     },
     {
-      "trip_id": "8_17612196",
+      "trip_id": "8_17716209",
       "direction_id": "1",
       "headsign": "OSIEDLE SOBIESKIEGO",
       "service_id": "8",
@@ -152853,7 +152853,7 @@
       ]
     },
     {
-      "trip_id": "8_17612197",
+      "trip_id": "8_17716210",
       "direction_id": "0",
       "headsign": "KMINKOWA",
       "service_id": "8",
@@ -153239,7 +153239,7 @@
       ]
     },
     {
-      "trip_id": "8_17612198",
+      "trip_id": "8_17716211",
       "direction_id": "1",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "8",
@@ -153364,7 +153364,7 @@
       ]
     },
     {
-      "trip_id": "8_17612199",
+      "trip_id": "8_17716212",
       "direction_id": "0",
       "headsign": "KMINKOWA",
       "service_id": "8",
@@ -153480,7 +153480,7 @@
       ]
     },
     {
-      "trip_id": "8_17612200",
+      "trip_id": "8_17716213",
       "direction_id": "1",
       "headsign": "OSIEDLE SOBIESKIEGO",
       "service_id": "8",
@@ -153884,7 +153884,7 @@
       ]
     },
     {
-      "trip_id": "8_17612201",
+      "trip_id": "8_17716214",
       "direction_id": "0",
       "headsign": "KMINKOWA",
       "service_id": "8",
@@ -154270,7 +154270,7 @@
       ]
     },
     {
-      "trip_id": "8_17612202",
+      "trip_id": "8_17716215",
       "direction_id": "1",
       "headsign": "OSIEDLE SOBIESKIEGO",
       "service_id": "8",
@@ -154674,7 +154674,7 @@
       ]
     },
     {
-      "trip_id": "8_17612203",
+      "trip_id": "8_17716216",
       "direction_id": "0",
       "headsign": "KMINKOWA",
       "service_id": "8",
@@ -155060,7 +155060,7 @@
       ]
     },
     {
-      "trip_id": "8_17612204",
+      "trip_id": "8_17716217",
       "direction_id": "1",
       "headsign": "OSIEDLE SOBIESKIEGO",
       "service_id": "8",
@@ -155464,7 +155464,7 @@
       ]
     },
     {
-      "trip_id": "8_17612205",
+      "trip_id": "8_17716218",
       "direction_id": "0",
       "headsign": "KMINKOWA",
       "service_id": "8",
@@ -155850,7 +155850,7 @@
       ]
     },
     {
-      "trip_id": "8_17612206",
+      "trip_id": "8_17716219",
       "direction_id": "1",
       "headsign": "OSIEDLE SOBIESKIEGO",
       "service_id": "8",
@@ -156254,7 +156254,7 @@
       ]
     },
     {
-      "trip_id": "8_17612207",
+      "trip_id": "8_17716220",
       "direction_id": "0",
       "headsign": "KMINKOWA",
       "service_id": "8",
@@ -156640,7 +156640,7 @@
       ]
     },
     {
-      "trip_id": "8_17612208",
+      "trip_id": "8_17716221",
       "direction_id": "1",
       "headsign": "OSIEDLE SOBIESKIEGO",
       "service_id": "8",
@@ -157044,7 +157044,7 @@
       ]
     },
     {
-      "trip_id": "8_17612210",
+      "trip_id": "8_17716223",
       "direction_id": "0",
       "headsign": "KMINKOWA",
       "service_id": "8",
@@ -157160,7 +157160,7 @@
       ]
     },
     {
-      "trip_id": "8_17612211",
+      "trip_id": "8_17716224",
       "direction_id": "1",
       "headsign": "OSIEDLE SOBIESKIEGO",
       "service_id": "8",
@@ -157564,7 +157564,7 @@
       ]
     },
     {
-      "trip_id": "8_17612212",
+      "trip_id": "8_17716225",
       "direction_id": "0",
       "headsign": "KMINKOWA",
       "service_id": "8",
@@ -157950,7 +157950,7 @@
       ]
     },
     {
-      "trip_id": "8_17612213",
+      "trip_id": "8_17716226",
       "direction_id": "1",
       "headsign": "OSIEDLE SOBIESKIEGO",
       "service_id": "8",
@@ -158354,7 +158354,7 @@
       ]
     },
     {
-      "trip_id": "8_17612214",
+      "trip_id": "8_17716227",
       "direction_id": "0",
       "headsign": "KMINKOWA",
       "service_id": "8",
@@ -158740,7 +158740,7 @@
       ]
     },
     {
-      "trip_id": "8_17612215",
+      "trip_id": "8_17716228",
       "direction_id": "1",
       "headsign": "OSIEDLE SOBIESKIEGO",
       "service_id": "8",
@@ -159144,7 +159144,7 @@
       ]
     },
     {
-      "trip_id": "8_17612216",
+      "trip_id": "8_17716229",
       "direction_id": "0",
       "headsign": "KMINKOWA",
       "service_id": "8",
@@ -159530,7 +159530,7 @@
       ]
     },
     {
-      "trip_id": "8_17612217",
+      "trip_id": "8_17716230",
       "direction_id": "1",
       "headsign": "OSIEDLE SOBIESKIEGO",
       "service_id": "8",
@@ -159934,7 +159934,7 @@
       ]
     },
     {
-      "trip_id": "8_17612218",
+      "trip_id": "8_17716231",
       "direction_id": "0",
       "headsign": "KMINKOWA",
       "service_id": "8",
@@ -160320,7 +160320,7 @@
       ]
     },
     {
-      "trip_id": "8_17612219",
+      "trip_id": "8_17716232",
       "direction_id": "1",
       "headsign": "OSIEDLE SOBIESKIEGO",
       "service_id": "8",
@@ -160724,7 +160724,7 @@
       ]
     },
     {
-      "trip_id": "8_17612220",
+      "trip_id": "8_17716233",
       "direction_id": "0",
       "headsign": "KMINKOWA",
       "service_id": "8",
@@ -161110,7 +161110,7 @@
       ]
     },
     {
-      "trip_id": "8_17612221",
+      "trip_id": "8_17716234",
       "direction_id": "1",
       "headsign": "OSIEDLE SOBIESKIEGO",
       "service_id": "8",
@@ -161514,7 +161514,7 @@
       ]
     },
     {
-      "trip_id": "8_17612222",
+      "trip_id": "8_17716235",
       "direction_id": "0",
       "headsign": "KMINKOWA",
       "service_id": "8",
@@ -161900,7 +161900,7 @@
       ]
     },
     {
-      "trip_id": "8_17612226",
+      "trip_id": "8_17716239",
       "direction_id": "0",
       "headsign": "KMINKOWA",
       "service_id": "8",
@@ -162088,7 +162088,7 @@
       ]
     },
     {
-      "trip_id": "8_17612227",
+      "trip_id": "8_17716240",
       "direction_id": "1",
       "headsign": "OSIEDLE SOBIESKIEGO",
       "service_id": "8",
@@ -162492,7 +162492,7 @@
       ]
     },
     {
-      "trip_id": "8_17612228",
+      "trip_id": "8_17716241",
       "direction_id": "0",
       "headsign": "KMINKOWA",
       "service_id": "8",
@@ -162878,7 +162878,7 @@
       ]
     },
     {
-      "trip_id": "8_17612229",
+      "trip_id": "8_17716242",
       "direction_id": "1",
       "headsign": "OSIEDLE SOBIESKIEGO",
       "service_id": "8",
@@ -163282,7 +163282,7 @@
       ]
     },
     {
-      "trip_id": "8_17612230",
+      "trip_id": "8_17716243",
       "direction_id": "0",
       "headsign": "KMINKOWA",
       "service_id": "8",
@@ -163668,7 +163668,7 @@
       ]
     },
     {
-      "trip_id": "8_17612231",
+      "trip_id": "8_17716244",
       "direction_id": "1",
       "headsign": "OSIEDLE SOBIESKIEGO",
       "service_id": "8",
@@ -164072,7 +164072,7 @@
       ]
     },
     {
-      "trip_id": "8_17612232",
+      "trip_id": "8_17716245",
       "direction_id": "0",
       "headsign": "KMINKOWA",
       "service_id": "8",
@@ -164458,7 +164458,7 @@
       ]
     },
     {
-      "trip_id": "8_17612233",
+      "trip_id": "8_17716246",
       "direction_id": "1",
       "headsign": "OSIEDLE SOBIESKIEGO",
       "service_id": "8",
@@ -164862,7 +164862,7 @@
       ]
     },
     {
-      "trip_id": "8_17612234",
+      "trip_id": "8_17716247",
       "direction_id": "0",
       "headsign": "KMINKOWA",
       "service_id": "8",
@@ -165248,7 +165248,7 @@
       ]
     },
     {
-      "trip_id": "8_17612235",
+      "trip_id": "8_17716248",
       "direction_id": "1",
       "headsign": "OSIEDLE SOBIESKIEGO",
       "service_id": "8",
@@ -165652,7 +165652,7 @@
       ]
     },
     {
-      "trip_id": "8_17612236",
+      "trip_id": "8_17716249",
       "direction_id": "0",
       "headsign": "KMINKOWA",
       "service_id": "8",
@@ -166038,7 +166038,7 @@
       ]
     },
     {
-      "trip_id": "8_17612237",
+      "trip_id": "8_17716250",
       "direction_id": "1",
       "headsign": "OSIEDLE SOBIESKIEGO",
       "service_id": "8",
@@ -166442,7 +166442,7 @@
       ]
     },
     {
-      "trip_id": "8_17612238",
+      "trip_id": "8_17716251",
       "direction_id": "0",
       "headsign": "KMINKOWA",
       "service_id": "8",
@@ -166828,7 +166828,7 @@
       ]
     },
     {
-      "trip_id": "8_17612239",
+      "trip_id": "8_17716252",
       "direction_id": "1",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "8",
@@ -166953,7 +166953,7 @@
       ]
     },
     {
-      "trip_id": "8_17612240",
+      "trip_id": "8_17716253",
       "direction_id": "0",
       "headsign": "KMINKOWA",
       "service_id": "8",
@@ -167069,7 +167069,7 @@
       ]
     },
     {
-      "trip_id": "8_17612241",
+      "trip_id": "8_17716254",
       "direction_id": "1",
       "headsign": "OSIEDLE SOBIESKIEGO",
       "service_id": "8",
@@ -167473,7 +167473,7 @@
       ]
     },
     {
-      "trip_id": "8_17612242",
+      "trip_id": "8_17716255",
       "direction_id": "0",
       "headsign": "KMINKOWA",
       "service_id": "8",
@@ -167859,7 +167859,7 @@
       ]
     },
     {
-      "trip_id": "8_17612243",
+      "trip_id": "8_17716256",
       "direction_id": "1",
       "headsign": "OSIEDLE SOBIESKIEGO",
       "service_id": "8",
@@ -168263,7 +168263,7 @@
       ]
     },
     {
-      "trip_id": "8_17612244",
+      "trip_id": "8_17716257",
       "direction_id": "0",
       "headsign": "KMINKOWA",
       "service_id": "8",
@@ -168649,7 +168649,7 @@
       ]
     },
     {
-      "trip_id": "8_17612245",
+      "trip_id": "8_17716258",
       "direction_id": "1",
       "headsign": "OSIEDLE SOBIESKIEGO",
       "service_id": "8",
@@ -169053,7 +169053,7 @@
       ]
     },
     {
-      "trip_id": "8_17612246",
+      "trip_id": "8_17716259",
       "direction_id": "0",
       "headsign": "KMINKOWA",
       "service_id": "8",
@@ -169439,7 +169439,7 @@
       ]
     },
     {
-      "trip_id": "8_17612247",
+      "trip_id": "8_17716260",
       "direction_id": "1",
       "headsign": "OSIEDLE SOBIESKIEGO",
       "service_id": "8",
@@ -169843,7 +169843,7 @@
       ]
     },
     {
-      "trip_id": "8_17612248",
+      "trip_id": "8_17716261",
       "direction_id": "0",
       "headsign": "KMINKOWA",
       "service_id": "8",
@@ -170229,7 +170229,7 @@
       ]
     },
     {
-      "trip_id": "8_17612249",
+      "trip_id": "8_17716262",
       "direction_id": "1",
       "headsign": "OSIEDLE SOBIESKIEGO",
       "service_id": "8",
@@ -170633,7 +170633,7 @@
       ]
     },
     {
-      "trip_id": "8_17612250",
+      "trip_id": "8_17716263",
       "direction_id": "0",
       "headsign": "KMINKOWA",
       "service_id": "8",
@@ -171019,7 +171019,7 @@
       ]
     },
     {
-      "trip_id": "8_17612251",
+      "trip_id": "8_17716264",
       "direction_id": "1",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "8",
@@ -171144,7 +171144,7 @@
       ]
     },
     {
-      "trip_id": "8_17612252",
+      "trip_id": "8_17716265",
       "direction_id": "0",
       "headsign": "KMINKOWA",
       "service_id": "8",
@@ -171260,7 +171260,7 @@
       ]
     },
     {
-      "trip_id": "8_17612253",
+      "trip_id": "8_17716266",
       "direction_id": "1",
       "headsign": "OSIEDLE SOBIESKIEGO",
       "service_id": "8",
@@ -171664,7 +171664,7 @@
       ]
     },
     {
-      "trip_id": "8_17612254",
+      "trip_id": "8_17716267",
       "direction_id": "0",
       "headsign": "KMINKOWA",
       "service_id": "8",
@@ -172050,7 +172050,7 @@
       ]
     },
     {
-      "trip_id": "8_17612255",
+      "trip_id": "8_17716268",
       "direction_id": "1",
       "headsign": "OSIEDLE SOBIESKIEGO",
       "service_id": "8",
@@ -172454,7 +172454,7 @@
       ]
     },
     {
-      "trip_id": "8_17612256",
+      "trip_id": "8_17716269",
       "direction_id": "0",
       "headsign": "KMINKOWA",
       "service_id": "8",
@@ -172840,7 +172840,7 @@
       ]
     },
     {
-      "trip_id": "8_17612257",
+      "trip_id": "8_17716270",
       "direction_id": "1",
       "headsign": "OSIEDLE SOBIESKIEGO",
       "service_id": "8",
@@ -173244,7 +173244,7 @@
       ]
     },
     {
-      "trip_id": "8_17612258",
+      "trip_id": "8_17716271",
       "direction_id": "0",
       "headsign": "KMINKOWA",
       "service_id": "8",
@@ -173630,7 +173630,7 @@
       ]
     },
     {
-      "trip_id": "8_17612259",
+      "trip_id": "8_17716272",
       "direction_id": "1",
       "headsign": "OSIEDLE SOBIESKIEGO",
       "service_id": "8",
@@ -174034,7 +174034,7 @@
       ]
     },
     {
-      "trip_id": "8_17612260",
+      "trip_id": "8_17716273",
       "direction_id": "0",
       "headsign": "KMINKOWA",
       "service_id": "8",
@@ -174420,7 +174420,7 @@
       ]
     },
     {
-      "trip_id": "8_17612261",
+      "trip_id": "8_17716274",
       "direction_id": "1",
       "headsign": "OSIEDLE SOBIESKIEGO",
       "service_id": "8",
@@ -174824,7 +174824,7 @@
       ]
     },
     {
-      "trip_id": "8_17612262",
+      "trip_id": "8_17716275",
       "direction_id": "0",
       "headsign": "KMINKOWA",
       "service_id": "8",
@@ -175210,7 +175210,7 @@
       ]
     },
     {
-      "trip_id": "8_17612263",
+      "trip_id": "8_17716276",
       "direction_id": "1",
       "headsign": "OSIEDLE SOBIESKIEGO",
       "service_id": "8",
@@ -175614,7 +175614,7 @@
       ]
     },
     {
-      "trip_id": "8_17612264",
+      "trip_id": "8_17716277",
       "direction_id": "0",
       "headsign": "KMINKOWA",
       "service_id": "8",
@@ -176000,7 +176000,7 @@
       ]
     },
     {
-      "trip_id": "8_17612265",
+      "trip_id": "8_17716278",
       "direction_id": "1",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "8",
@@ -176125,7 +176125,7 @@
       ]
     },
     {
-      "trip_id": "8_17616556",
+      "trip_id": "8_17720569",
       "direction_id": "0",
       "headsign": "KMINKOWA",
       "service_id": "8",
@@ -176241,7 +176241,7 @@
       ]
     },
     {
-      "trip_id": "8_17616557",
+      "trip_id": "8_17720570",
       "direction_id": "1",
       "headsign": "OSIEDLE SOBIESKIEGO",
       "service_id": "8",
@@ -176645,7 +176645,7 @@
       ]
     },
     {
-      "trip_id": "8_17616558",
+      "trip_id": "8_17720571",
       "direction_id": "0",
       "headsign": "KMINKOWA",
       "service_id": "8",
@@ -177031,7 +177031,7 @@
       ]
     },
     {
-      "trip_id": "8_17616559",
+      "trip_id": "8_17720572",
       "direction_id": "1",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "8",
@@ -177300,7 +177300,7 @@
       ]
     },
     {
-      "trip_id": "8_17616567",
+      "trip_id": "8_17720580",
       "direction_id": "0",
       "headsign": "KMINKOWA",
       "service_id": "8",
@@ -177416,7 +177416,7 @@
       ]
     },
     {
-      "trip_id": "8_17616568",
+      "trip_id": "8_17720581",
       "direction_id": "1",
       "headsign": "OSIEDLE SOBIESKIEGO",
       "service_id": "8",

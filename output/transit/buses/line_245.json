@@ -2,7 +2,7 @@
   "line": "245",
   "trips": [
     {
-      "trip_id": "3_17598888",
+      "trip_id": "3_17702901",
       "direction_id": "1",
       "headsign": "PRACZE ODRZAŃSKIE",
       "service_id": "3",
@@ -118,7 +118,7 @@
         {
           "stop_sequence": 12,
           "stop_id": "547",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 04",
           "arrival_time": "23:38:00",
           "departure_time": "23:38:00",
           "lat": 51.10801936,
@@ -145,7 +145,7 @@
         {
           "stop_sequence": 15,
           "stop_id": "242",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 07",
           "arrival_time": "23:43:00",
           "departure_time": "23:43:00",
           "lat": 51.11215441,
@@ -451,7 +451,7 @@
       ]
     },
     {
-      "trip_id": "3_17599004",
+      "trip_id": "3_17703017",
       "direction_id": "0",
       "headsign": "BROCHÓW",
       "service_id": "3",
@@ -639,7 +639,7 @@
       ]
     },
     {
-      "trip_id": "3_17599005",
+      "trip_id": "3_17703018",
       "direction_id": "1",
       "headsign": "PRACZE ODRZAŃSKIE",
       "service_id": "3",
@@ -809,7 +809,7 @@
         {
           "stop_sequence": 18,
           "stop_id": "547",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 04",
           "arrival_time": "24:08:00",
           "departure_time": "24:08:00",
           "lat": 51.10801936,
@@ -836,7 +836,7 @@
         {
           "stop_sequence": 21,
           "stop_id": "242",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 07",
           "arrival_time": "24:13:00",
           "departure_time": "24:13:00",
           "lat": 51.11215441,
@@ -1142,7 +1142,7 @@
       ]
     },
     {
-      "trip_id": "3_17599006",
+      "trip_id": "3_17703019",
       "direction_id": "0",
       "headsign": "BIEŃKOWICE",
       "service_id": "3",
@@ -1438,7 +1438,7 @@
         {
           "stop_sequence": 32,
           "stop_id": "240",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 08",
           "arrival_time": "25:38:00",
           "departure_time": "25:38:00",
           "lat": 51.11175007,
@@ -1465,7 +1465,7 @@
         {
           "stop_sequence": 35,
           "stop_id": "1330",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 03",
           "arrival_time": "25:44:00",
           "departure_time": "25:44:00",
           "lat": 51.10670852,
@@ -1708,7 +1708,7 @@
       ]
     },
     {
-      "trip_id": "3_17599007",
+      "trip_id": "3_17703020",
       "direction_id": "1",
       "headsign": "PRACZE ODRZAŃSKIE",
       "service_id": "3",
@@ -1905,7 +1905,7 @@
         {
           "stop_sequence": 21,
           "stop_id": "547",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 04",
           "arrival_time": "27:08:00",
           "departure_time": "27:08:00",
           "lat": 51.10801936,
@@ -1932,7 +1932,7 @@
         {
           "stop_sequence": 24,
           "stop_id": "242",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 07",
           "arrival_time": "27:13:00",
           "departure_time": "27:13:00",
           "lat": 51.11215441,
@@ -2238,7 +2238,7 @@
       ]
     },
     {
-      "trip_id": "3_17599008",
+      "trip_id": "3_17703021",
       "direction_id": "0",
       "headsign": "PETRUSEWICZA",
       "service_id": "3",
@@ -2534,7 +2534,7 @@
         {
           "stop_sequence": 32,
           "stop_id": "240",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 08",
           "arrival_time": "28:38:00",
           "departure_time": "28:38:00",
           "lat": 51.11175007,
@@ -2561,7 +2561,7 @@
         {
           "stop_sequence": 35,
           "stop_id": "1330",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 03",
           "arrival_time": "28:44:00",
           "departure_time": "28:44:00",
           "lat": 51.10670852,
@@ -2642,7 +2642,7 @@
       ]
     },
     {
-      "trip_id": "3_17599009",
+      "trip_id": "3_17703022",
       "direction_id": "0",
       "headsign": "Zajezdnia TYSKA",
       "service_id": "3",
@@ -2812,7 +2812,7 @@
       ]
     },
     {
-      "trip_id": "3_17599013",
+      "trip_id": "3_17703026",
       "direction_id": "0",
       "headsign": "BIEŃKOWICE",
       "service_id": "3",
@@ -3108,7 +3108,7 @@
         {
           "stop_sequence": 32,
           "stop_id": "240",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 08",
           "arrival_time": "24:38:00",
           "departure_time": "24:38:00",
           "lat": 51.11175007,
@@ -3135,7 +3135,7 @@
         {
           "stop_sequence": 35,
           "stop_id": "1330",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 03",
           "arrival_time": "24:44:00",
           "departure_time": "24:44:00",
           "lat": 51.10670852,
@@ -3378,7 +3378,7 @@
       ]
     },
     {
-      "trip_id": "3_17599014",
+      "trip_id": "3_17703027",
       "direction_id": "1",
       "headsign": "PRACZE ODRZAŃSKIE",
       "service_id": "3",
@@ -3575,7 +3575,7 @@
         {
           "stop_sequence": 21,
           "stop_id": "547",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 04",
           "arrival_time": "26:08:00",
           "departure_time": "26:08:00",
           "lat": 51.10801936,
@@ -3602,7 +3602,7 @@
         {
           "stop_sequence": 24,
           "stop_id": "242",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 07",
           "arrival_time": "26:13:00",
           "departure_time": "26:13:00",
           "lat": 51.11215441,
@@ -3908,7 +3908,7 @@
       ]
     },
     {
-      "trip_id": "3_17599015",
+      "trip_id": "3_17703028",
       "direction_id": "0",
       "headsign": "BIEŃKOWICE",
       "service_id": "3",
@@ -4204,7 +4204,7 @@
         {
           "stop_sequence": 32,
           "stop_id": "240",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 08",
           "arrival_time": "27:38:00",
           "departure_time": "27:38:00",
           "lat": 51.11175007,
@@ -4231,7 +4231,7 @@
         {
           "stop_sequence": 35,
           "stop_id": "1330",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 03",
           "arrival_time": "27:44:00",
           "departure_time": "27:44:00",
           "lat": 51.10670852,
@@ -4474,7 +4474,7 @@
       ]
     },
     {
-      "trip_id": "3_17599016",
+      "trip_id": "3_17703029",
       "direction_id": "1",
       "headsign": "PETRUSEWICZA",
       "service_id": "3",
@@ -4644,7 +4644,7 @@
       ]
     },
     {
-      "trip_id": "3_17599017",
+      "trip_id": "3_17703030",
       "direction_id": "0",
       "headsign": "Zajezdnia TYSKA",
       "service_id": "3",
@@ -4823,7 +4823,7 @@
       ]
     },
     {
-      "trip_id": "3_17599021",
+      "trip_id": "3_17703034",
       "direction_id": "0",
       "headsign": "BIEŃKOWICE",
       "service_id": "3",
@@ -5002,7 +5002,7 @@
       ]
     },
     {
-      "trip_id": "3_17599022",
+      "trip_id": "3_17703035",
       "direction_id": "1",
       "headsign": "PRACZE ODRZAŃSKIE",
       "service_id": "3",
@@ -5199,7 +5199,7 @@
         {
           "stop_sequence": 21,
           "stop_id": "547",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 04",
           "arrival_time": "25:08:00",
           "departure_time": "25:08:00",
           "lat": 51.10801936,
@@ -5226,7 +5226,7 @@
         {
           "stop_sequence": 24,
           "stop_id": "242",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 07",
           "arrival_time": "25:13:00",
           "departure_time": "25:13:00",
           "lat": 51.11215441,
@@ -5532,7 +5532,7 @@
       ]
     },
     {
-      "trip_id": "3_17599023",
+      "trip_id": "3_17703036",
       "direction_id": "0",
       "headsign": "BIEŃKOWICE",
       "service_id": "3",
@@ -5828,7 +5828,7 @@
         {
           "stop_sequence": 32,
           "stop_id": "240",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 08",
           "arrival_time": "26:38:00",
           "departure_time": "26:38:00",
           "lat": 51.11175007,
@@ -5855,7 +5855,7 @@
         {
           "stop_sequence": 35,
           "stop_id": "1330",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 03",
           "arrival_time": "26:44:00",
           "departure_time": "26:44:00",
           "lat": 51.10670852,
@@ -6098,7 +6098,7 @@
       ]
     },
     {
-      "trip_id": "3_17599024",
+      "trip_id": "3_17703037",
       "direction_id": "1",
       "headsign": "PETRUSEWICZA",
       "service_id": "3",
@@ -6268,7 +6268,7 @@
       ]
     },
     {
-      "trip_id": "3_17599025",
+      "trip_id": "3_17703038",
       "direction_id": "0",
       "headsign": "Zajezdnia TYSKA",
       "service_id": "3",
@@ -6447,7 +6447,7 @@
       ]
     },
     {
-      "trip_id": "3_17599166",
+      "trip_id": "3_17703179",
       "direction_id": "0",
       "headsign": "Świdnicka",
       "service_id": "3",
@@ -6743,7 +6743,7 @@
         {
           "stop_sequence": 32,
           "stop_id": "240",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 08",
           "arrival_time": "23:49:00",
           "departure_time": "23:49:00",
           "lat": 51.11175007,
@@ -6770,7 +6770,7 @@
       ]
     },
     {
-      "trip_id": "4_17603300",
+      "trip_id": "4_17707313",
       "direction_id": "1",
       "headsign": "PRACZE ODRZAŃSKIE",
       "service_id": "4",
@@ -6886,7 +6886,7 @@
         {
           "stop_sequence": 12,
           "stop_id": "547",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 04",
           "arrival_time": "23:38:00",
           "departure_time": "23:38:00",
           "lat": 51.10801936,
@@ -6913,7 +6913,7 @@
         {
           "stop_sequence": 15,
           "stop_id": "242",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 07",
           "arrival_time": "23:43:00",
           "departure_time": "23:43:00",
           "lat": 51.11215441,
@@ -7219,7 +7219,7 @@
       ]
     },
     {
-      "trip_id": "4_17603416",
+      "trip_id": "4_17707429",
       "direction_id": "0",
       "headsign": "BROCHÓW",
       "service_id": "4",
@@ -7407,7 +7407,7 @@
       ]
     },
     {
-      "trip_id": "4_17603417",
+      "trip_id": "4_17707430",
       "direction_id": "1",
       "headsign": "PRACZE ODRZAŃSKIE",
       "service_id": "4",
@@ -7577,7 +7577,7 @@
         {
           "stop_sequence": 18,
           "stop_id": "547",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 04",
           "arrival_time": "24:08:00",
           "departure_time": "24:08:00",
           "lat": 51.10801936,
@@ -7604,7 +7604,7 @@
         {
           "stop_sequence": 21,
           "stop_id": "242",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 07",
           "arrival_time": "24:13:00",
           "departure_time": "24:13:00",
           "lat": 51.11215441,
@@ -7910,7 +7910,7 @@
       ]
     },
     {
-      "trip_id": "4_17603418",
+      "trip_id": "4_17707431",
       "direction_id": "0",
       "headsign": "BIEŃKOWICE",
       "service_id": "4",
@@ -8206,7 +8206,7 @@
         {
           "stop_sequence": 32,
           "stop_id": "240",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 08",
           "arrival_time": "25:38:00",
           "departure_time": "25:38:00",
           "lat": 51.11175007,
@@ -8233,7 +8233,7 @@
         {
           "stop_sequence": 35,
           "stop_id": "1330",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 03",
           "arrival_time": "25:44:00",
           "departure_time": "25:44:00",
           "lat": 51.10670852,
@@ -8476,7 +8476,7 @@
       ]
     },
     {
-      "trip_id": "4_17603419",
+      "trip_id": "4_17707432",
       "direction_id": "1",
       "headsign": "PRACZE ODRZAŃSKIE",
       "service_id": "4",
@@ -8673,7 +8673,7 @@
         {
           "stop_sequence": 21,
           "stop_id": "547",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 04",
           "arrival_time": "27:08:00",
           "departure_time": "27:08:00",
           "lat": 51.10801936,
@@ -8700,7 +8700,7 @@
         {
           "stop_sequence": 24,
           "stop_id": "242",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 07",
           "arrival_time": "27:13:00",
           "departure_time": "27:13:00",
           "lat": 51.11215441,
@@ -9006,7 +9006,7 @@
       ]
     },
     {
-      "trip_id": "4_17603420",
+      "trip_id": "4_17707433",
       "direction_id": "0",
       "headsign": "PETRUSEWICZA",
       "service_id": "4",
@@ -9302,7 +9302,7 @@
         {
           "stop_sequence": 32,
           "stop_id": "240",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 08",
           "arrival_time": "28:38:00",
           "departure_time": "28:38:00",
           "lat": 51.11175007,
@@ -9329,7 +9329,7 @@
         {
           "stop_sequence": 35,
           "stop_id": "1330",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 03",
           "arrival_time": "28:44:00",
           "departure_time": "28:44:00",
           "lat": 51.10670852,
@@ -9410,7 +9410,7 @@
       ]
     },
     {
-      "trip_id": "4_17603421",
+      "trip_id": "4_17707434",
       "direction_id": "0",
       "headsign": "Zajezdnia TYSKA",
       "service_id": "4",
@@ -9580,7 +9580,7 @@
       ]
     },
     {
-      "trip_id": "4_17603425",
+      "trip_id": "4_17707438",
       "direction_id": "0",
       "headsign": "BIEŃKOWICE",
       "service_id": "4",
@@ -9876,7 +9876,7 @@
         {
           "stop_sequence": 32,
           "stop_id": "240",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 08",
           "arrival_time": "24:38:00",
           "departure_time": "24:38:00",
           "lat": 51.11175007,
@@ -9903,7 +9903,7 @@
         {
           "stop_sequence": 35,
           "stop_id": "1330",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 03",
           "arrival_time": "24:44:00",
           "departure_time": "24:44:00",
           "lat": 51.10670852,
@@ -10146,7 +10146,7 @@
       ]
     },
     {
-      "trip_id": "4_17603426",
+      "trip_id": "4_17707439",
       "direction_id": "1",
       "headsign": "PRACZE ODRZAŃSKIE",
       "service_id": "4",
@@ -10343,7 +10343,7 @@
         {
           "stop_sequence": 21,
           "stop_id": "547",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 04",
           "arrival_time": "26:08:00",
           "departure_time": "26:08:00",
           "lat": 51.10801936,
@@ -10370,7 +10370,7 @@
         {
           "stop_sequence": 24,
           "stop_id": "242",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 07",
           "arrival_time": "26:13:00",
           "departure_time": "26:13:00",
           "lat": 51.11215441,
@@ -10676,7 +10676,7 @@
       ]
     },
     {
-      "trip_id": "4_17603427",
+      "trip_id": "4_17707440",
       "direction_id": "0",
       "headsign": "BIEŃKOWICE",
       "service_id": "4",
@@ -10972,7 +10972,7 @@
         {
           "stop_sequence": 32,
           "stop_id": "240",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 08",
           "arrival_time": "27:38:00",
           "departure_time": "27:38:00",
           "lat": 51.11175007,
@@ -10999,7 +10999,7 @@
         {
           "stop_sequence": 35,
           "stop_id": "1330",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 03",
           "arrival_time": "27:44:00",
           "departure_time": "27:44:00",
           "lat": 51.10670852,
@@ -11242,7 +11242,7 @@
       ]
     },
     {
-      "trip_id": "4_17603428",
+      "trip_id": "4_17707441",
       "direction_id": "1",
       "headsign": "PETRUSEWICZA",
       "service_id": "4",
@@ -11412,7 +11412,7 @@
       ]
     },
     {
-      "trip_id": "4_17603429",
+      "trip_id": "4_17707442",
       "direction_id": "0",
       "headsign": "Zajezdnia TYSKA",
       "service_id": "4",
@@ -11591,7 +11591,7 @@
       ]
     },
     {
-      "trip_id": "4_17603433",
+      "trip_id": "4_17707446",
       "direction_id": "0",
       "headsign": "BIEŃKOWICE",
       "service_id": "4",
@@ -11770,7 +11770,7 @@
       ]
     },
     {
-      "trip_id": "4_17603434",
+      "trip_id": "4_17707447",
       "direction_id": "1",
       "headsign": "PRACZE ODRZAŃSKIE",
       "service_id": "4",
@@ -11967,7 +11967,7 @@
         {
           "stop_sequence": 21,
           "stop_id": "547",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 04",
           "arrival_time": "25:08:00",
           "departure_time": "25:08:00",
           "lat": 51.10801936,
@@ -11994,7 +11994,7 @@
         {
           "stop_sequence": 24,
           "stop_id": "242",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 07",
           "arrival_time": "25:13:00",
           "departure_time": "25:13:00",
           "lat": 51.11215441,
@@ -12300,7 +12300,7 @@
       ]
     },
     {
-      "trip_id": "4_17603435",
+      "trip_id": "4_17707448",
       "direction_id": "0",
       "headsign": "BIEŃKOWICE",
       "service_id": "4",
@@ -12596,7 +12596,7 @@
         {
           "stop_sequence": 32,
           "stop_id": "240",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 08",
           "arrival_time": "26:38:00",
           "departure_time": "26:38:00",
           "lat": 51.11175007,
@@ -12623,7 +12623,7 @@
         {
           "stop_sequence": 35,
           "stop_id": "1330",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 03",
           "arrival_time": "26:44:00",
           "departure_time": "26:44:00",
           "lat": 51.10670852,
@@ -12866,7 +12866,7 @@
       ]
     },
     {
-      "trip_id": "4_17603436",
+      "trip_id": "4_17707449",
       "direction_id": "1",
       "headsign": "PETRUSEWICZA",
       "service_id": "4",
@@ -13036,7 +13036,7 @@
       ]
     },
     {
-      "trip_id": "4_17603437",
+      "trip_id": "4_17707450",
       "direction_id": "0",
       "headsign": "Zajezdnia TYSKA",
       "service_id": "4",
@@ -13215,7 +13215,7 @@
       ]
     },
     {
-      "trip_id": "4_17603573",
+      "trip_id": "4_17707586",
       "direction_id": "0",
       "headsign": "Świdnicka",
       "service_id": "4",
@@ -13511,7 +13511,7 @@
         {
           "stop_sequence": 32,
           "stop_id": "240",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 08",
           "arrival_time": "23:49:00",
           "departure_time": "23:49:00",
           "lat": 51.11175007,
@@ -13538,7 +13538,7 @@
       ]
     },
     {
-      "trip_id": "6_17609499",
+      "trip_id": "6_17713512",
       "direction_id": "1",
       "headsign": "PRACZE ODRZAŃSKIE",
       "service_id": "6",
@@ -13654,7 +13654,7 @@
         {
           "stop_sequence": 12,
           "stop_id": "547",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 04",
           "arrival_time": "23:38:00",
           "departure_time": "23:38:00",
           "lat": 51.10801936,
@@ -13681,7 +13681,7 @@
         {
           "stop_sequence": 15,
           "stop_id": "242",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 07",
           "arrival_time": "23:43:00",
           "departure_time": "23:43:00",
           "lat": 51.11215441,
@@ -13987,7 +13987,7 @@
       ]
     },
     {
-      "trip_id": "6_17609615",
+      "trip_id": "6_17713628",
       "direction_id": "0",
       "headsign": "BROCHÓW",
       "service_id": "6",
@@ -14175,7 +14175,7 @@
       ]
     },
     {
-      "trip_id": "6_17609616",
+      "trip_id": "6_17713629",
       "direction_id": "1",
       "headsign": "PRACZE ODRZAŃSKIE",
       "service_id": "6",
@@ -14345,7 +14345,7 @@
         {
           "stop_sequence": 18,
           "stop_id": "547",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 04",
           "arrival_time": "24:08:00",
           "departure_time": "24:08:00",
           "lat": 51.10801936,
@@ -14372,7 +14372,7 @@
         {
           "stop_sequence": 21,
           "stop_id": "242",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 07",
           "arrival_time": "24:13:00",
           "departure_time": "24:13:00",
           "lat": 51.11215441,
@@ -14678,7 +14678,7 @@
       ]
     },
     {
-      "trip_id": "6_17609617",
+      "trip_id": "6_17713630",
       "direction_id": "0",
       "headsign": "BIEŃKOWICE",
       "service_id": "6",
@@ -14974,7 +14974,7 @@
         {
           "stop_sequence": 32,
           "stop_id": "240",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 08",
           "arrival_time": "25:38:00",
           "departure_time": "25:38:00",
           "lat": 51.11175007,
@@ -15001,7 +15001,7 @@
         {
           "stop_sequence": 35,
           "stop_id": "1330",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 03",
           "arrival_time": "25:44:00",
           "departure_time": "25:44:00",
           "lat": 51.10670852,
@@ -15244,7 +15244,7 @@
       ]
     },
     {
-      "trip_id": "6_17609618",
+      "trip_id": "6_17713631",
       "direction_id": "1",
       "headsign": "PRACZE ODRZAŃSKIE",
       "service_id": "6",
@@ -15441,7 +15441,7 @@
         {
           "stop_sequence": 21,
           "stop_id": "547",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 04",
           "arrival_time": "27:08:00",
           "departure_time": "27:08:00",
           "lat": 51.10801936,
@@ -15468,7 +15468,7 @@
         {
           "stop_sequence": 24,
           "stop_id": "242",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 07",
           "arrival_time": "27:13:00",
           "departure_time": "27:13:00",
           "lat": 51.11215441,
@@ -15774,7 +15774,7 @@
       ]
     },
     {
-      "trip_id": "6_17609619",
+      "trip_id": "6_17713632",
       "direction_id": "0",
       "headsign": "PETRUSEWICZA",
       "service_id": "6",
@@ -16070,7 +16070,7 @@
         {
           "stop_sequence": 32,
           "stop_id": "240",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 08",
           "arrival_time": "28:38:00",
           "departure_time": "28:38:00",
           "lat": 51.11175007,
@@ -16097,7 +16097,7 @@
         {
           "stop_sequence": 35,
           "stop_id": "1330",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 03",
           "arrival_time": "28:44:00",
           "departure_time": "28:44:00",
           "lat": 51.10670852,
@@ -16178,7 +16178,7 @@
       ]
     },
     {
-      "trip_id": "6_17609620",
+      "trip_id": "6_17713633",
       "direction_id": "0",
       "headsign": "Zajezdnia TYSKA",
       "service_id": "6",
@@ -16348,7 +16348,7 @@
       ]
     },
     {
-      "trip_id": "6_17609624",
+      "trip_id": "6_17713637",
       "direction_id": "0",
       "headsign": "BIEŃKOWICE",
       "service_id": "6",
@@ -16644,7 +16644,7 @@
         {
           "stop_sequence": 32,
           "stop_id": "240",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 08",
           "arrival_time": "24:38:00",
           "departure_time": "24:38:00",
           "lat": 51.11175007,
@@ -16671,7 +16671,7 @@
         {
           "stop_sequence": 35,
           "stop_id": "1330",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 03",
           "arrival_time": "24:44:00",
           "departure_time": "24:44:00",
           "lat": 51.10670852,
@@ -16914,7 +16914,7 @@
       ]
     },
     {
-      "trip_id": "6_17609625",
+      "trip_id": "6_17713638",
       "direction_id": "1",
       "headsign": "PRACZE ODRZAŃSKIE",
       "service_id": "6",
@@ -17111,7 +17111,7 @@
         {
           "stop_sequence": 21,
           "stop_id": "547",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 04",
           "arrival_time": "26:08:00",
           "departure_time": "26:08:00",
           "lat": 51.10801936,
@@ -17138,7 +17138,7 @@
         {
           "stop_sequence": 24,
           "stop_id": "242",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 07",
           "arrival_time": "26:13:00",
           "departure_time": "26:13:00",
           "lat": 51.11215441,
@@ -17444,7 +17444,7 @@
       ]
     },
     {
-      "trip_id": "6_17609626",
+      "trip_id": "6_17713639",
       "direction_id": "0",
       "headsign": "BIEŃKOWICE",
       "service_id": "6",
@@ -17740,7 +17740,7 @@
         {
           "stop_sequence": 32,
           "stop_id": "240",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 08",
           "arrival_time": "27:38:00",
           "departure_time": "27:38:00",
           "lat": 51.11175007,
@@ -17767,7 +17767,7 @@
         {
           "stop_sequence": 35,
           "stop_id": "1330",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 03",
           "arrival_time": "27:44:00",
           "departure_time": "27:44:00",
           "lat": 51.10670852,
@@ -18010,7 +18010,7 @@
       ]
     },
     {
-      "trip_id": "6_17609627",
+      "trip_id": "6_17713640",
       "direction_id": "1",
       "headsign": "PETRUSEWICZA",
       "service_id": "6",
@@ -18180,7 +18180,7 @@
       ]
     },
     {
-      "trip_id": "6_17609628",
+      "trip_id": "6_17713641",
       "direction_id": "0",
       "headsign": "Zajezdnia TYSKA",
       "service_id": "6",
@@ -18359,7 +18359,7 @@
       ]
     },
     {
-      "trip_id": "6_17609632",
+      "trip_id": "6_17713645",
       "direction_id": "0",
       "headsign": "BIEŃKOWICE",
       "service_id": "6",
@@ -18538,7 +18538,7 @@
       ]
     },
     {
-      "trip_id": "6_17609633",
+      "trip_id": "6_17713646",
       "direction_id": "1",
       "headsign": "PRACZE ODRZAŃSKIE",
       "service_id": "6",
@@ -18735,7 +18735,7 @@
         {
           "stop_sequence": 21,
           "stop_id": "547",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 04",
           "arrival_time": "25:08:00",
           "departure_time": "25:08:00",
           "lat": 51.10801936,
@@ -18762,7 +18762,7 @@
         {
           "stop_sequence": 24,
           "stop_id": "242",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 07",
           "arrival_time": "25:13:00",
           "departure_time": "25:13:00",
           "lat": 51.11215441,
@@ -19068,7 +19068,7 @@
       ]
     },
     {
-      "trip_id": "6_17609634",
+      "trip_id": "6_17713647",
       "direction_id": "0",
       "headsign": "BIEŃKOWICE",
       "service_id": "6",
@@ -19364,7 +19364,7 @@
         {
           "stop_sequence": 32,
           "stop_id": "240",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 08",
           "arrival_time": "26:38:00",
           "departure_time": "26:38:00",
           "lat": 51.11175007,
@@ -19391,7 +19391,7 @@
         {
           "stop_sequence": 35,
           "stop_id": "1330",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 03",
           "arrival_time": "26:44:00",
           "departure_time": "26:44:00",
           "lat": 51.10670852,
@@ -19634,7 +19634,7 @@
       ]
     },
     {
-      "trip_id": "6_17609635",
+      "trip_id": "6_17713648",
       "direction_id": "1",
       "headsign": "PETRUSEWICZA",
       "service_id": "6",
@@ -19804,7 +19804,7 @@
       ]
     },
     {
-      "trip_id": "6_17609636",
+      "trip_id": "6_17713649",
       "direction_id": "0",
       "headsign": "Zajezdnia TYSKA",
       "service_id": "6",
@@ -19983,7 +19983,7 @@
       ]
     },
     {
-      "trip_id": "6_17609763",
+      "trip_id": "6_17713776",
       "direction_id": "0",
       "headsign": "Świdnicka",
       "service_id": "6",
@@ -20279,7 +20279,7 @@
         {
           "stop_sequence": 32,
           "stop_id": "240",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 08",
           "arrival_time": "23:49:00",
           "departure_time": "23:49:00",
           "lat": 51.11175007,
@@ -20306,7 +20306,7 @@
       ]
     },
     {
-      "trip_id": "8_17616325",
+      "trip_id": "8_17720338",
       "direction_id": "1",
       "headsign": "PRACZE ODRZAŃSKIE",
       "service_id": "8",
@@ -20422,7 +20422,7 @@
         {
           "stop_sequence": 12,
           "stop_id": "547",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 04",
           "arrival_time": "23:38:00",
           "departure_time": "23:38:00",
           "lat": 51.10801936,
@@ -20449,7 +20449,7 @@
         {
           "stop_sequence": 15,
           "stop_id": "242",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 07",
           "arrival_time": "23:43:00",
           "departure_time": "23:43:00",
           "lat": 51.11215441,
@@ -20755,7 +20755,7 @@
       ]
     },
     {
-      "trip_id": "8_17616441",
+      "trip_id": "8_17720454",
       "direction_id": "0",
       "headsign": "BROCHÓW",
       "service_id": "8",
@@ -20943,7 +20943,7 @@
       ]
     },
     {
-      "trip_id": "8_17616442",
+      "trip_id": "8_17720455",
       "direction_id": "1",
       "headsign": "PRACZE ODRZAŃSKIE",
       "service_id": "8",
@@ -21113,7 +21113,7 @@
         {
           "stop_sequence": 18,
           "stop_id": "547",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 04",
           "arrival_time": "24:08:00",
           "departure_time": "24:08:00",
           "lat": 51.10801936,
@@ -21140,7 +21140,7 @@
         {
           "stop_sequence": 21,
           "stop_id": "242",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 07",
           "arrival_time": "24:13:00",
           "departure_time": "24:13:00",
           "lat": 51.11215441,
@@ -21446,7 +21446,7 @@
       ]
     },
     {
-      "trip_id": "8_17616443",
+      "trip_id": "8_17720456",
       "direction_id": "0",
       "headsign": "BIEŃKOWICE",
       "service_id": "8",
@@ -21742,7 +21742,7 @@
         {
           "stop_sequence": 32,
           "stop_id": "240",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 08",
           "arrival_time": "25:38:00",
           "departure_time": "25:38:00",
           "lat": 51.11175007,
@@ -21769,7 +21769,7 @@
         {
           "stop_sequence": 35,
           "stop_id": "1330",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 03",
           "arrival_time": "25:44:00",
           "departure_time": "25:44:00",
           "lat": 51.10670852,
@@ -22012,7 +22012,7 @@
       ]
     },
     {
-      "trip_id": "8_17616444",
+      "trip_id": "8_17720457",
       "direction_id": "1",
       "headsign": "PRACZE ODRZAŃSKIE",
       "service_id": "8",
@@ -22209,7 +22209,7 @@
         {
           "stop_sequence": 21,
           "stop_id": "547",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 04",
           "arrival_time": "27:08:00",
           "departure_time": "27:08:00",
           "lat": 51.10801936,
@@ -22236,7 +22236,7 @@
         {
           "stop_sequence": 24,
           "stop_id": "242",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 07",
           "arrival_time": "27:13:00",
           "departure_time": "27:13:00",
           "lat": 51.11215441,
@@ -22542,7 +22542,7 @@
       ]
     },
     {
-      "trip_id": "8_17616445",
+      "trip_id": "8_17720458",
       "direction_id": "0",
       "headsign": "PETRUSEWICZA",
       "service_id": "8",
@@ -22838,7 +22838,7 @@
         {
           "stop_sequence": 32,
           "stop_id": "240",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 08",
           "arrival_time": "28:38:00",
           "departure_time": "28:38:00",
           "lat": 51.11175007,
@@ -22865,7 +22865,7 @@
         {
           "stop_sequence": 35,
           "stop_id": "1330",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 03",
           "arrival_time": "28:44:00",
           "departure_time": "28:44:00",
           "lat": 51.10670852,
@@ -22946,7 +22946,7 @@
       ]
     },
     {
-      "trip_id": "8_17616446",
+      "trip_id": "8_17720459",
       "direction_id": "0",
       "headsign": "Zajezdnia TYSKA",
       "service_id": "8",
@@ -23116,7 +23116,7 @@
       ]
     },
     {
-      "trip_id": "8_17616450",
+      "trip_id": "8_17720463",
       "direction_id": "0",
       "headsign": "BIEŃKOWICE",
       "service_id": "8",
@@ -23412,7 +23412,7 @@
         {
           "stop_sequence": 32,
           "stop_id": "240",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 08",
           "arrival_time": "24:38:00",
           "departure_time": "24:38:00",
           "lat": 51.11175007,
@@ -23439,7 +23439,7 @@
         {
           "stop_sequence": 35,
           "stop_id": "1330",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 03",
           "arrival_time": "24:44:00",
           "departure_time": "24:44:00",
           "lat": 51.10670852,
@@ -23682,7 +23682,7 @@
       ]
     },
     {
-      "trip_id": "8_17616451",
+      "trip_id": "8_17720464",
       "direction_id": "1",
       "headsign": "PRACZE ODRZAŃSKIE",
       "service_id": "8",
@@ -23879,7 +23879,7 @@
         {
           "stop_sequence": 21,
           "stop_id": "547",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 04",
           "arrival_time": "26:08:00",
           "departure_time": "26:08:00",
           "lat": 51.10801936,
@@ -23906,7 +23906,7 @@
         {
           "stop_sequence": 24,
           "stop_id": "242",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 07",
           "arrival_time": "26:13:00",
           "departure_time": "26:13:00",
           "lat": 51.11215441,
@@ -24212,7 +24212,7 @@
       ]
     },
     {
-      "trip_id": "8_17616452",
+      "trip_id": "8_17720465",
       "direction_id": "0",
       "headsign": "BIEŃKOWICE",
       "service_id": "8",
@@ -24508,7 +24508,7 @@
         {
           "stop_sequence": 32,
           "stop_id": "240",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 08",
           "arrival_time": "27:38:00",
           "departure_time": "27:38:00",
           "lat": 51.11175007,
@@ -24535,7 +24535,7 @@
         {
           "stop_sequence": 35,
           "stop_id": "1330",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 03",
           "arrival_time": "27:44:00",
           "departure_time": "27:44:00",
           "lat": 51.10670852,
@@ -24778,7 +24778,7 @@
       ]
     },
     {
-      "trip_id": "8_17616453",
+      "trip_id": "8_17720466",
       "direction_id": "1",
       "headsign": "PETRUSEWICZA",
       "service_id": "8",
@@ -24948,7 +24948,7 @@
       ]
     },
     {
-      "trip_id": "8_17616454",
+      "trip_id": "8_17720467",
       "direction_id": "0",
       "headsign": "Zajezdnia TYSKA",
       "service_id": "8",
@@ -25127,7 +25127,7 @@
       ]
     },
     {
-      "trip_id": "8_17616458",
+      "trip_id": "8_17720471",
       "direction_id": "0",
       "headsign": "BIEŃKOWICE",
       "service_id": "8",
@@ -25306,7 +25306,7 @@
       ]
     },
     {
-      "trip_id": "8_17616459",
+      "trip_id": "8_17720472",
       "direction_id": "1",
       "headsign": "PRACZE ODRZAŃSKIE",
       "service_id": "8",
@@ -25503,7 +25503,7 @@
         {
           "stop_sequence": 21,
           "stop_id": "547",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 04",
           "arrival_time": "25:08:00",
           "departure_time": "25:08:00",
           "lat": 51.10801936,
@@ -25530,7 +25530,7 @@
         {
           "stop_sequence": 24,
           "stop_id": "242",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 07",
           "arrival_time": "25:13:00",
           "departure_time": "25:13:00",
           "lat": 51.11215441,
@@ -25836,7 +25836,7 @@
       ]
     },
     {
-      "trip_id": "8_17616460",
+      "trip_id": "8_17720473",
       "direction_id": "0",
       "headsign": "BIEŃKOWICE",
       "service_id": "8",
@@ -26132,7 +26132,7 @@
         {
           "stop_sequence": 32,
           "stop_id": "240",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 08",
           "arrival_time": "26:38:00",
           "departure_time": "26:38:00",
           "lat": 51.11175007,
@@ -26159,7 +26159,7 @@
         {
           "stop_sequence": 35,
           "stop_id": "1330",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 03",
           "arrival_time": "26:44:00",
           "departure_time": "26:44:00",
           "lat": 51.10670852,
@@ -26402,7 +26402,7 @@
       ]
     },
     {
-      "trip_id": "8_17616461",
+      "trip_id": "8_17720474",
       "direction_id": "1",
       "headsign": "PETRUSEWICZA",
       "service_id": "8",
@@ -26572,7 +26572,7 @@
       ]
     },
     {
-      "trip_id": "8_17616462",
+      "trip_id": "8_17720475",
       "direction_id": "0",
       "headsign": "Zajezdnia TYSKA",
       "service_id": "8",
@@ -26751,7 +26751,7 @@
       ]
     },
     {
-      "trip_id": "8_17616594",
+      "trip_id": "8_17720607",
       "direction_id": "0",
       "headsign": "Świdnicka",
       "service_id": "8",
@@ -27047,7 +27047,7 @@
         {
           "stop_sequence": 32,
           "stop_id": "240",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 08",
           "arrival_time": "23:49:00",
           "departure_time": "23:49:00",
           "lat": 51.11175007,

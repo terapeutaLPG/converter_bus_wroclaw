@@ -2,7 +2,7 @@
   "line": "607",
   "trips": [
     {
-      "trip_id": "6_17606354",
+      "trip_id": "6_17710367",
       "direction_id": "0",
       "headsign": "Kwiska",
       "service_id": "6",
@@ -73,7 +73,7 @@
       ]
     },
     {
-      "trip_id": "6_17606355",
+      "trip_id": "6_17710368",
       "direction_id": "1",
       "headsign": "Biskupice Podg. LG Energy Solution Wr. I",
       "service_id": "6",
@@ -171,7 +171,7 @@
       ]
     },
     {
-      "trip_id": "6_17606356",
+      "trip_id": "6_17710369",
       "direction_id": "0",
       "headsign": "MUCHOBÓR WIELKI (Roślinna)",
       "service_id": "6",
@@ -305,7 +305,7 @@
       ]
     },
     {
-      "trip_id": "6_17610207",
+      "trip_id": "6_17714220",
       "direction_id": "0",
       "headsign": "Kwiska",
       "service_id": "6",
@@ -376,7 +376,7 @@
       ]
     },
     {
-      "trip_id": "6_17610208",
+      "trip_id": "6_17714221",
       "direction_id": "1",
       "headsign": "Biskupice Podg. LG Energy Solution Wr. I",
       "service_id": "6",
@@ -474,7 +474,7 @@
       ]
     },
     {
-      "trip_id": "6_17610209",
+      "trip_id": "6_17714222",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "6",
@@ -626,7 +626,7 @@
       ]
     },
     {
-      "trip_id": "6_17610210",
+      "trip_id": "6_17714223",
       "direction_id": "0",
       "headsign": "Kwiska",
       "service_id": "6",
@@ -697,7 +697,7 @@
       ]
     },
     {
-      "trip_id": "6_17610211",
+      "trip_id": "6_17714224",
       "direction_id": "1",
       "headsign": "Biskupice Podg. LG Energy Solution Wr. I",
       "service_id": "6",
@@ -795,7 +795,7 @@
       ]
     },
     {
-      "trip_id": "6_17610212",
+      "trip_id": "6_17714225",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "6",
@@ -947,7 +947,7 @@
       ]
     },
     {
-      "trip_id": "6_17610213",
+      "trip_id": "6_17714226",
       "direction_id": "0",
       "headsign": "Kwiska",
       "service_id": "6",
@@ -1018,7 +1018,7 @@
       ]
     },
     {
-      "trip_id": "6_17610214",
+      "trip_id": "6_17714227",
       "direction_id": "1",
       "headsign": "Biskupice Podg. LG Energy Solution Wr. I",
       "service_id": "6",
@@ -1116,7 +1116,7 @@
       ]
     },
     {
-      "trip_id": "6_17610215",
+      "trip_id": "6_17714228",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "6",
@@ -1241,7 +1241,7 @@
       ]
     },
     {
-      "trip_id": "6_17610216",
+      "trip_id": "6_17714229",
       "direction_id": "0",
       "headsign": "Kwiska",
       "service_id": "6",
@@ -1312,7 +1312,7 @@
       ]
     },
     {
-      "trip_id": "6_17610217",
+      "trip_id": "6_17714230",
       "direction_id": "1",
       "headsign": "Biskupice Podg. LG Energy Solution Wr. I",
       "service_id": "6",
@@ -1383,7 +1383,7 @@
       ]
     },
     {
-      "trip_id": "6_17610218",
+      "trip_id": "6_17714231",
       "direction_id": "0",
       "headsign": "Kwiska",
       "service_id": "6",
@@ -1490,7 +1490,7 @@
       ]
     },
     {
-      "trip_id": "6_17610223",
+      "trip_id": "6_17714236",
       "direction_id": "0",
       "headsign": "Kwiska",
       "service_id": "6",
@@ -1561,7 +1561,7 @@
       ]
     },
     {
-      "trip_id": "6_17610224",
+      "trip_id": "6_17714237",
       "direction_id": "1",
       "headsign": "Biskupice Podg. LG Energy Solution Wr. I",
       "service_id": "6",
@@ -1632,7 +1632,7 @@
       ]
     },
     {
-      "trip_id": "6_17610225",
+      "trip_id": "6_17714238",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "6",
@@ -1784,7 +1784,7 @@
       ]
     },
     {
-      "trip_id": "8_17613180",
+      "trip_id": "8_17717193",
       "direction_id": "0",
       "headsign": "Kwiska",
       "service_id": "8",
@@ -1855,7 +1855,7 @@
       ]
     },
     {
-      "trip_id": "8_17613181",
+      "trip_id": "8_17717194",
       "direction_id": "1",
       "headsign": "Biskupice Podg. LG Energy Solution Wr. I",
       "service_id": "8",
@@ -1953,7 +1953,7 @@
       ]
     },
     {
-      "trip_id": "8_17613182",
+      "trip_id": "8_17717195",
       "direction_id": "0",
       "headsign": "MUCHOBÓR WIELKI (Roślinna)",
       "service_id": "8",
@@ -2087,7 +2087,7 @@
       ]
     },
     {
-      "trip_id": "8_17617036",
+      "trip_id": "8_17721049",
       "direction_id": "0",
       "headsign": "Kwiska",
       "service_id": "8",
@@ -2158,7 +2158,7 @@
       ]
     },
     {
-      "trip_id": "8_17617037",
+      "trip_id": "8_17721050",
       "direction_id": "1",
       "headsign": "Biskupice Podg. LG Energy Solution Wr. I",
       "service_id": "8",
@@ -2256,7 +2256,7 @@
       ]
     },
     {
-      "trip_id": "8_17617038",
+      "trip_id": "8_17721051",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "8",
@@ -2408,7 +2408,7 @@
       ]
     },
     {
-      "trip_id": "8_17617039",
+      "trip_id": "8_17721052",
       "direction_id": "0",
       "headsign": "Kwiska",
       "service_id": "8",
@@ -2479,7 +2479,7 @@
       ]
     },
     {
-      "trip_id": "8_17617040",
+      "trip_id": "8_17721053",
       "direction_id": "1",
       "headsign": "Biskupice Podg. LG Energy Solution Wr. I",
       "service_id": "8",
@@ -2577,7 +2577,7 @@
       ]
     },
     {
-      "trip_id": "8_17617041",
+      "trip_id": "8_17721054",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "8",
@@ -2729,7 +2729,7 @@
       ]
     },
     {
-      "trip_id": "8_17617042",
+      "trip_id": "8_17721055",
       "direction_id": "0",
       "headsign": "Kwiska",
       "service_id": "8",
@@ -2800,7 +2800,7 @@
       ]
     },
     {
-      "trip_id": "8_17617043",
+      "trip_id": "8_17721056",
       "direction_id": "1",
       "headsign": "Biskupice Podg. LG Energy Solution Wr. I",
       "service_id": "8",
@@ -2898,7 +2898,7 @@
       ]
     },
     {
-      "trip_id": "8_17617044",
+      "trip_id": "8_17721057",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "8",
@@ -3023,7 +3023,7 @@
       ]
     },
     {
-      "trip_id": "8_17617045",
+      "trip_id": "8_17721058",
       "direction_id": "0",
       "headsign": "Kwiska",
       "service_id": "8",
@@ -3094,7 +3094,7 @@
       ]
     },
     {
-      "trip_id": "8_17617046",
+      "trip_id": "8_17721059",
       "direction_id": "1",
       "headsign": "Biskupice Podg. LG Energy Solution Wr. I",
       "service_id": "8",
@@ -3165,7 +3165,7 @@
       ]
     },
     {
-      "trip_id": "8_17617047",
+      "trip_id": "8_17721060",
       "direction_id": "0",
       "headsign": "Kwiska",
       "service_id": "8",
@@ -3272,7 +3272,7 @@
       ]
     },
     {
-      "trip_id": "8_17617052",
+      "trip_id": "8_17721065",
       "direction_id": "0",
       "headsign": "Kwiska",
       "service_id": "8",
@@ -3343,7 +3343,7 @@
       ]
     },
     {
-      "trip_id": "8_17617053",
+      "trip_id": "8_17721066",
       "direction_id": "1",
       "headsign": "Biskupice Podg. LG Energy Solution Wr. I",
       "service_id": "8",
@@ -3414,7 +3414,7 @@
       ]
     },
     {
-      "trip_id": "8_17617054",
+      "trip_id": "8_17721067",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "8",

@@ -2,7 +2,7 @@
   "line": "150",
   "trips": [
     {
-      "trip_id": "6_17609042",
+      "trip_id": "6_17713055",
       "direction_id": "1",
       "headsign": "LITEWSKA",
       "service_id": "6",
@@ -253,7 +253,7 @@
       ]
     },
     {
-      "trip_id": "6_17609043",
+      "trip_id": "6_17713056",
       "direction_id": "0",
       "headsign": "OSIEDLE SOBIESKIEGO",
       "service_id": "6",
@@ -360,7 +360,7 @@
       ]
     },
     {
-      "trip_id": "6_17609044",
+      "trip_id": "6_17713057",
       "direction_id": "1",
       "headsign": "LITEWSKA",
       "service_id": "6",
@@ -512,7 +512,7 @@
       ]
     },
     {
-      "trip_id": "6_17609045",
+      "trip_id": "6_17713058",
       "direction_id": "0",
       "headsign": "OSIEDLE SOBIESKIEGO",
       "service_id": "6",
@@ -619,7 +619,7 @@
       ]
     },
     {
-      "trip_id": "6_17609046",
+      "trip_id": "6_17713059",
       "direction_id": "1",
       "headsign": "LITEWSKA",
       "service_id": "6",
@@ -771,7 +771,7 @@
       ]
     },
     {
-      "trip_id": "6_17609047",
+      "trip_id": "6_17713060",
       "direction_id": "0",
       "headsign": "OSIEDLE SOBIESKIEGO",
       "service_id": "6",
@@ -878,7 +878,7 @@
       ]
     },
     {
-      "trip_id": "6_17609048",
+      "trip_id": "6_17713061",
       "direction_id": "1",
       "headsign": "LITEWSKA",
       "service_id": "6",
@@ -1030,7 +1030,7 @@
       ]
     },
     {
-      "trip_id": "6_17609049",
+      "trip_id": "6_17713062",
       "direction_id": "0",
       "headsign": "OSIEDLE SOBIESKIEGO",
       "service_id": "6",
@@ -1137,7 +1137,7 @@
       ]
     },
     {
-      "trip_id": "6_17609050",
+      "trip_id": "6_17713063",
       "direction_id": "1",
       "headsign": "LITEWSKA",
       "service_id": "6",
@@ -1289,7 +1289,7 @@
       ]
     },
     {
-      "trip_id": "6_17609051",
+      "trip_id": "6_17713064",
       "direction_id": "0",
       "headsign": "OSIEDLE SOBIESKIEGO",
       "service_id": "6",
@@ -1396,7 +1396,7 @@
       ]
     },
     {
-      "trip_id": "6_17609052",
+      "trip_id": "6_17713065",
       "direction_id": "1",
       "headsign": "LITEWSKA",
       "service_id": "6",
@@ -1548,7 +1548,7 @@
       ]
     },
     {
-      "trip_id": "6_17609053",
+      "trip_id": "6_17713066",
       "direction_id": "0",
       "headsign": "OSIEDLE SOBIESKIEGO",
       "service_id": "6",
@@ -1655,7 +1655,7 @@
       ]
     },
     {
-      "trip_id": "6_17609054",
+      "trip_id": "6_17713067",
       "direction_id": "1",
       "headsign": "LITEWSKA",
       "service_id": "6",
@@ -1807,7 +1807,7 @@
       ]
     },
     {
-      "trip_id": "6_17609055",
+      "trip_id": "6_17713068",
       "direction_id": "0",
       "headsign": "OSIEDLE SOBIESKIEGO",
       "service_id": "6",
@@ -1914,7 +1914,7 @@
       ]
     },
     {
-      "trip_id": "6_17609056",
+      "trip_id": "6_17713069",
       "direction_id": "1",
       "headsign": "LITEWSKA",
       "service_id": "6",
@@ -2066,7 +2066,7 @@
       ]
     },
     {
-      "trip_id": "6_17609057",
+      "trip_id": "6_17713070",
       "direction_id": "0",
       "headsign": "OSIEDLE SOBIESKIEGO",
       "service_id": "6",
@@ -2173,7 +2173,7 @@
       ]
     },
     {
-      "trip_id": "6_17609058",
+      "trip_id": "6_17713071",
       "direction_id": "1",
       "headsign": "LITEWSKA",
       "service_id": "6",
@@ -2325,7 +2325,7 @@
       ]
     },
     {
-      "trip_id": "6_17609059",
+      "trip_id": "6_17713072",
       "direction_id": "0",
       "headsign": "OSIEDLE SOBIESKIEGO",
       "service_id": "6",
@@ -2432,7 +2432,7 @@
       ]
     },
     {
-      "trip_id": "6_17609060",
+      "trip_id": "6_17713073",
       "direction_id": "1",
       "headsign": "LITEWSKA",
       "service_id": "6",
@@ -2584,7 +2584,7 @@
       ]
     },
     {
-      "trip_id": "6_17609061",
+      "trip_id": "6_17713074",
       "direction_id": "0",
       "headsign": "OSIEDLE SOBIESKIEGO",
       "service_id": "6",
@@ -2691,7 +2691,7 @@
       ]
     },
     {
-      "trip_id": "6_17609062",
+      "trip_id": "6_17713075",
       "direction_id": "1",
       "headsign": "LITEWSKA",
       "service_id": "6",
@@ -2843,7 +2843,7 @@
       ]
     },
     {
-      "trip_id": "6_17609063",
+      "trip_id": "6_17713076",
       "direction_id": "0",
       "headsign": "OSIEDLE SOBIESKIEGO",
       "service_id": "6",
@@ -2950,7 +2950,7 @@
       ]
     },
     {
-      "trip_id": "6_17609064",
+      "trip_id": "6_17713077",
       "direction_id": "1",
       "headsign": "LITEWSKA",
       "service_id": "6",
@@ -3102,7 +3102,7 @@
       ]
     },
     {
-      "trip_id": "6_17609065",
+      "trip_id": "6_17713078",
       "direction_id": "0",
       "headsign": "OSIEDLE SOBIESKIEGO",
       "service_id": "6",
@@ -3209,7 +3209,7 @@
       ]
     },
     {
-      "trip_id": "6_17609066",
+      "trip_id": "6_17713079",
       "direction_id": "1",
       "headsign": "LITEWSKA",
       "service_id": "6",
@@ -3361,7 +3361,7 @@
       ]
     },
     {
-      "trip_id": "6_17609067",
+      "trip_id": "6_17713080",
       "direction_id": "0",
       "headsign": "OSIEDLE SOBIESKIEGO",
       "service_id": "6",
@@ -3468,7 +3468,7 @@
       ]
     },
     {
-      "trip_id": "6_17609068",
+      "trip_id": "6_17713081",
       "direction_id": "1",
       "headsign": "LITEWSKA",
       "service_id": "6",
@@ -3620,7 +3620,7 @@
       ]
     },
     {
-      "trip_id": "6_17609069",
+      "trip_id": "6_17713082",
       "direction_id": "0",
       "headsign": "OSIEDLE SOBIESKIEGO",
       "service_id": "6",
@@ -3727,7 +3727,7 @@
       ]
     },
     {
-      "trip_id": "6_17609070",
+      "trip_id": "6_17713083",
       "direction_id": "1",
       "headsign": "LITEWSKA",
       "service_id": "6",
@@ -3879,7 +3879,7 @@
       ]
     },
     {
-      "trip_id": "6_17609071",
+      "trip_id": "6_17713084",
       "direction_id": "0",
       "headsign": "OSIEDLE SOBIESKIEGO",
       "service_id": "6",
@@ -3986,7 +3986,7 @@
       ]
     },
     {
-      "trip_id": "6_17609072",
+      "trip_id": "6_17713085",
       "direction_id": "1",
       "headsign": "LITEWSKA",
       "service_id": "6",
@@ -4129,7 +4129,7 @@
       ]
     },
     {
-      "trip_id": "6_17609073",
+      "trip_id": "6_17713086",
       "direction_id": "0",
       "headsign": "OSIEDLE SOBIESKIEGO",
       "service_id": "6",
@@ -4209,7 +4209,7 @@
       ]
     },
     {
-      "trip_id": "6_17609074",
+      "trip_id": "6_17713087",
       "direction_id": "1",
       "headsign": "LITEWSKA",
       "service_id": "6",
@@ -4352,7 +4352,7 @@
       ]
     },
     {
-      "trip_id": "6_17609075",
+      "trip_id": "6_17713088",
       "direction_id": "0",
       "headsign": "OSIEDLE SOBIESKIEGO",
       "service_id": "6",
@@ -4432,7 +4432,7 @@
       ]
     },
     {
-      "trip_id": "6_17609076",
+      "trip_id": "6_17713089",
       "direction_id": "1",
       "headsign": "Zajezdnia TYSKA",
       "service_id": "6",
@@ -4728,7 +4728,7 @@
       ]
     },
     {
-      "trip_id": "6_17609077",
+      "trip_id": "6_17713090",
       "direction_id": "0",
       "headsign": "OSIEDLE SOBIESKIEGO",
       "service_id": "6",
@@ -4970,7 +4970,7 @@
       ]
     },
     {
-      "trip_id": "6_17609078",
+      "trip_id": "6_17713091",
       "direction_id": "1",
       "headsign": "LITEWSKA",
       "service_id": "6",
@@ -5122,7 +5122,7 @@
       ]
     },
     {
-      "trip_id": "6_17609079",
+      "trip_id": "6_17713092",
       "direction_id": "0",
       "headsign": "OSIEDLE SOBIESKIEGO",
       "service_id": "6",
@@ -5229,7 +5229,7 @@
       ]
     },
     {
-      "trip_id": "6_17609080",
+      "trip_id": "6_17713093",
       "direction_id": "1",
       "headsign": "LITEWSKA",
       "service_id": "6",
@@ -5381,7 +5381,7 @@
       ]
     },
     {
-      "trip_id": "6_17609081",
+      "trip_id": "6_17713094",
       "direction_id": "0",
       "headsign": "OSIEDLE SOBIESKIEGO",
       "service_id": "6",
@@ -5488,7 +5488,7 @@
       ]
     },
     {
-      "trip_id": "6_17609082",
+      "trip_id": "6_17713095",
       "direction_id": "1",
       "headsign": "LITEWSKA",
       "service_id": "6",
@@ -5640,7 +5640,7 @@
       ]
     },
     {
-      "trip_id": "6_17609083",
+      "trip_id": "6_17713096",
       "direction_id": "0",
       "headsign": "OSIEDLE SOBIESKIEGO",
       "service_id": "6",
@@ -5747,7 +5747,7 @@
       ]
     },
     {
-      "trip_id": "6_17609084",
+      "trip_id": "6_17713097",
       "direction_id": "1",
       "headsign": "LITEWSKA",
       "service_id": "6",
@@ -5899,7 +5899,7 @@
       ]
     },
     {
-      "trip_id": "6_17609085",
+      "trip_id": "6_17713098",
       "direction_id": "0",
       "headsign": "OSIEDLE SOBIESKIEGO",
       "service_id": "6",
@@ -6006,7 +6006,7 @@
       ]
     },
     {
-      "trip_id": "6_17609086",
+      "trip_id": "6_17713099",
       "direction_id": "1",
       "headsign": "LITEWSKA",
       "service_id": "6",
@@ -6158,7 +6158,7 @@
       ]
     },
     {
-      "trip_id": "6_17609087",
+      "trip_id": "6_17713100",
       "direction_id": "0",
       "headsign": "OSIEDLE SOBIESKIEGO",
       "service_id": "6",
@@ -6265,7 +6265,7 @@
       ]
     },
     {
-      "trip_id": "6_17609088",
+      "trip_id": "6_17713101",
       "direction_id": "1",
       "headsign": "LITEWSKA",
       "service_id": "6",
@@ -6417,7 +6417,7 @@
       ]
     },
     {
-      "trip_id": "6_17609089",
+      "trip_id": "6_17713102",
       "direction_id": "0",
       "headsign": "OSIEDLE SOBIESKIEGO",
       "service_id": "6",
@@ -6524,7 +6524,7 @@
       ]
     },
     {
-      "trip_id": "6_17609090",
+      "trip_id": "6_17713103",
       "direction_id": "1",
       "headsign": "LITEWSKA",
       "service_id": "6",
@@ -6676,7 +6676,7 @@
       ]
     },
     {
-      "trip_id": "6_17609091",
+      "trip_id": "6_17713104",
       "direction_id": "0",
       "headsign": "OSIEDLE SOBIESKIEGO",
       "service_id": "6",
@@ -6783,7 +6783,7 @@
       ]
     },
     {
-      "trip_id": "6_17609092",
+      "trip_id": "6_17713105",
       "direction_id": "1",
       "headsign": "LITEWSKA",
       "service_id": "6",
@@ -6935,7 +6935,7 @@
       ]
     },
     {
-      "trip_id": "6_17609093",
+      "trip_id": "6_17713106",
       "direction_id": "0",
       "headsign": "OSIEDLE SOBIESKIEGO",
       "service_id": "6",
@@ -7042,7 +7042,7 @@
       ]
     },
     {
-      "trip_id": "6_17609094",
+      "trip_id": "6_17713107",
       "direction_id": "1",
       "headsign": "LITEWSKA",
       "service_id": "6",
@@ -7194,7 +7194,7 @@
       ]
     },
     {
-      "trip_id": "6_17609095",
+      "trip_id": "6_17713108",
       "direction_id": "0",
       "headsign": "OSIEDLE SOBIESKIEGO",
       "service_id": "6",
@@ -7301,7 +7301,7 @@
       ]
     },
     {
-      "trip_id": "6_17609096",
+      "trip_id": "6_17713109",
       "direction_id": "1",
       "headsign": "LITEWSKA",
       "service_id": "6",
@@ -7453,7 +7453,7 @@
       ]
     },
     {
-      "trip_id": "6_17609097",
+      "trip_id": "6_17713110",
       "direction_id": "0",
       "headsign": "OSIEDLE SOBIESKIEGO",
       "service_id": "6",
@@ -7560,7 +7560,7 @@
       ]
     },
     {
-      "trip_id": "6_17609098",
+      "trip_id": "6_17713111",
       "direction_id": "1",
       "headsign": "LITEWSKA",
       "service_id": "6",
@@ -7712,7 +7712,7 @@
       ]
     },
     {
-      "trip_id": "6_17609099",
+      "trip_id": "6_17713112",
       "direction_id": "0",
       "headsign": "OSIEDLE SOBIESKIEGO",
       "service_id": "6",
@@ -7819,7 +7819,7 @@
       ]
     },
     {
-      "trip_id": "6_17609100",
+      "trip_id": "6_17713113",
       "direction_id": "1",
       "headsign": "LITEWSKA",
       "service_id": "6",
@@ -7971,7 +7971,7 @@
       ]
     },
     {
-      "trip_id": "6_17609101",
+      "trip_id": "6_17713114",
       "direction_id": "0",
       "headsign": "OSIEDLE SOBIESKIEGO",
       "service_id": "6",
@@ -8078,7 +8078,7 @@
       ]
     },
     {
-      "trip_id": "6_17609102",
+      "trip_id": "6_17713115",
       "direction_id": "1",
       "headsign": "LITEWSKA",
       "service_id": "6",
@@ -8230,7 +8230,7 @@
       ]
     },
     {
-      "trip_id": "6_17609103",
+      "trip_id": "6_17713116",
       "direction_id": "0",
       "headsign": "OSIEDLE SOBIESKIEGO",
       "service_id": "6",
@@ -8337,7 +8337,7 @@
       ]
     },
     {
-      "trip_id": "6_17609104",
+      "trip_id": "6_17713117",
       "direction_id": "1",
       "headsign": "LITEWSKA",
       "service_id": "6",
@@ -8489,7 +8489,7 @@
       ]
     },
     {
-      "trip_id": "6_17609105",
+      "trip_id": "6_17713118",
       "direction_id": "0",
       "headsign": "OSIEDLE SOBIESKIEGO",
       "service_id": "6",
@@ -8596,7 +8596,7 @@
       ]
     },
     {
-      "trip_id": "6_17609106",
+      "trip_id": "6_17713119",
       "direction_id": "1",
       "headsign": "LITEWSKA",
       "service_id": "6",
@@ -8748,7 +8748,7 @@
       ]
     },
     {
-      "trip_id": "6_17609107",
+      "trip_id": "6_17713120",
       "direction_id": "0",
       "headsign": "OSIEDLE SOBIESKIEGO",
       "service_id": "6",
@@ -8828,7 +8828,7 @@
       ]
     },
     {
-      "trip_id": "6_17609108",
+      "trip_id": "6_17713121",
       "direction_id": "1",
       "headsign": "LITEWSKA",
       "service_id": "6",
@@ -8971,7 +8971,7 @@
       ]
     },
     {
-      "trip_id": "6_17609109",
+      "trip_id": "6_17713122",
       "direction_id": "0",
       "headsign": "OSIEDLE SOBIESKIEGO",
       "service_id": "6",
@@ -9051,7 +9051,7 @@
       ]
     },
     {
-      "trip_id": "6_17609110",
+      "trip_id": "6_17713123",
       "direction_id": "1",
       "headsign": "LITEWSKA",
       "service_id": "6",
@@ -9194,7 +9194,7 @@
       ]
     },
     {
-      "trip_id": "6_17609111",
+      "trip_id": "6_17713124",
       "direction_id": "0",
       "headsign": "Zajezdnia TYSKA",
       "service_id": "6",
@@ -9490,7 +9490,7 @@
       ]
     },
     {
-      "trip_id": "8_17615868",
+      "trip_id": "8_17719881",
       "direction_id": "1",
       "headsign": "LITEWSKA",
       "service_id": "8",
@@ -9741,7 +9741,7 @@
       ]
     },
     {
-      "trip_id": "8_17615869",
+      "trip_id": "8_17719882",
       "direction_id": "0",
       "headsign": "OSIEDLE SOBIESKIEGO",
       "service_id": "8",
@@ -9848,7 +9848,7 @@
       ]
     },
     {
-      "trip_id": "8_17615870",
+      "trip_id": "8_17719883",
       "direction_id": "1",
       "headsign": "LITEWSKA",
       "service_id": "8",
@@ -10000,7 +10000,7 @@
       ]
     },
     {
-      "trip_id": "8_17615871",
+      "trip_id": "8_17719884",
       "direction_id": "0",
       "headsign": "OSIEDLE SOBIESKIEGO",
       "service_id": "8",
@@ -10107,7 +10107,7 @@
       ]
     },
     {
-      "trip_id": "8_17615872",
+      "trip_id": "8_17719885",
       "direction_id": "1",
       "headsign": "LITEWSKA",
       "service_id": "8",
@@ -10259,7 +10259,7 @@
       ]
     },
     {
-      "trip_id": "8_17615873",
+      "trip_id": "8_17719886",
       "direction_id": "0",
       "headsign": "OSIEDLE SOBIESKIEGO",
       "service_id": "8",
@@ -10366,7 +10366,7 @@
       ]
     },
     {
-      "trip_id": "8_17615874",
+      "trip_id": "8_17719887",
       "direction_id": "1",
       "headsign": "LITEWSKA",
       "service_id": "8",
@@ -10518,7 +10518,7 @@
       ]
     },
     {
-      "trip_id": "8_17615875",
+      "trip_id": "8_17719888",
       "direction_id": "0",
       "headsign": "OSIEDLE SOBIESKIEGO",
       "service_id": "8",
@@ -10625,7 +10625,7 @@
       ]
     },
     {
-      "trip_id": "8_17615876",
+      "trip_id": "8_17719889",
       "direction_id": "1",
       "headsign": "LITEWSKA",
       "service_id": "8",
@@ -10777,7 +10777,7 @@
       ]
     },
     {
-      "trip_id": "8_17615877",
+      "trip_id": "8_17719890",
       "direction_id": "0",
       "headsign": "OSIEDLE SOBIESKIEGO",
       "service_id": "8",
@@ -10884,7 +10884,7 @@
       ]
     },
     {
-      "trip_id": "8_17615878",
+      "trip_id": "8_17719891",
       "direction_id": "1",
       "headsign": "LITEWSKA",
       "service_id": "8",
@@ -11036,7 +11036,7 @@
       ]
     },
     {
-      "trip_id": "8_17615879",
+      "trip_id": "8_17719892",
       "direction_id": "0",
       "headsign": "OSIEDLE SOBIESKIEGO",
       "service_id": "8",
@@ -11143,7 +11143,7 @@
       ]
     },
     {
-      "trip_id": "8_17615880",
+      "trip_id": "8_17719893",
       "direction_id": "1",
       "headsign": "LITEWSKA",
       "service_id": "8",
@@ -11295,7 +11295,7 @@
       ]
     },
     {
-      "trip_id": "8_17615881",
+      "trip_id": "8_17719894",
       "direction_id": "0",
       "headsign": "OSIEDLE SOBIESKIEGO",
       "service_id": "8",
@@ -11402,7 +11402,7 @@
       ]
     },
     {
-      "trip_id": "8_17615882",
+      "trip_id": "8_17719895",
       "direction_id": "1",
       "headsign": "LITEWSKA",
       "service_id": "8",
@@ -11554,7 +11554,7 @@
       ]
     },
     {
-      "trip_id": "8_17615883",
+      "trip_id": "8_17719896",
       "direction_id": "0",
       "headsign": "OSIEDLE SOBIESKIEGO",
       "service_id": "8",
@@ -11661,7 +11661,7 @@
       ]
     },
     {
-      "trip_id": "8_17615884",
+      "trip_id": "8_17719897",
       "direction_id": "1",
       "headsign": "LITEWSKA",
       "service_id": "8",
@@ -11813,7 +11813,7 @@
       ]
     },
     {
-      "trip_id": "8_17615885",
+      "trip_id": "8_17719898",
       "direction_id": "0",
       "headsign": "OSIEDLE SOBIESKIEGO",
       "service_id": "8",
@@ -11920,7 +11920,7 @@
       ]
     },
     {
-      "trip_id": "8_17615886",
+      "trip_id": "8_17719899",
       "direction_id": "1",
       "headsign": "LITEWSKA",
       "service_id": "8",
@@ -12072,7 +12072,7 @@
       ]
     },
     {
-      "trip_id": "8_17615887",
+      "trip_id": "8_17719900",
       "direction_id": "0",
       "headsign": "OSIEDLE SOBIESKIEGO",
       "service_id": "8",
@@ -12179,7 +12179,7 @@
       ]
     },
     {
-      "trip_id": "8_17615888",
+      "trip_id": "8_17719901",
       "direction_id": "1",
       "headsign": "LITEWSKA",
       "service_id": "8",
@@ -12331,7 +12331,7 @@
       ]
     },
     {
-      "trip_id": "8_17615889",
+      "trip_id": "8_17719902",
       "direction_id": "0",
       "headsign": "OSIEDLE SOBIESKIEGO",
       "service_id": "8",
@@ -12438,7 +12438,7 @@
       ]
     },
     {
-      "trip_id": "8_17615890",
+      "trip_id": "8_17719903",
       "direction_id": "1",
       "headsign": "LITEWSKA",
       "service_id": "8",
@@ -12590,7 +12590,7 @@
       ]
     },
     {
-      "trip_id": "8_17615891",
+      "trip_id": "8_17719904",
       "direction_id": "0",
       "headsign": "OSIEDLE SOBIESKIEGO",
       "service_id": "8",
@@ -12697,7 +12697,7 @@
       ]
     },
     {
-      "trip_id": "8_17615892",
+      "trip_id": "8_17719905",
       "direction_id": "1",
       "headsign": "LITEWSKA",
       "service_id": "8",
@@ -12849,7 +12849,7 @@
       ]
     },
     {
-      "trip_id": "8_17615893",
+      "trip_id": "8_17719906",
       "direction_id": "0",
       "headsign": "OSIEDLE SOBIESKIEGO",
       "service_id": "8",
@@ -12956,7 +12956,7 @@
       ]
     },
     {
-      "trip_id": "8_17615894",
+      "trip_id": "8_17719907",
       "direction_id": "1",
       "headsign": "LITEWSKA",
       "service_id": "8",
@@ -13108,7 +13108,7 @@
       ]
     },
     {
-      "trip_id": "8_17615895",
+      "trip_id": "8_17719908",
       "direction_id": "0",
       "headsign": "OSIEDLE SOBIESKIEGO",
       "service_id": "8",
@@ -13215,7 +13215,7 @@
       ]
     },
     {
-      "trip_id": "8_17615896",
+      "trip_id": "8_17719909",
       "direction_id": "1",
       "headsign": "LITEWSKA",
       "service_id": "8",
@@ -13367,7 +13367,7 @@
       ]
     },
     {
-      "trip_id": "8_17615897",
+      "trip_id": "8_17719910",
       "direction_id": "0",
       "headsign": "OSIEDLE SOBIESKIEGO",
       "service_id": "8",
@@ -13474,7 +13474,7 @@
       ]
     },
     {
-      "trip_id": "8_17615898",
+      "trip_id": "8_17719911",
       "direction_id": "1",
       "headsign": "LITEWSKA",
       "service_id": "8",
@@ -13617,7 +13617,7 @@
       ]
     },
     {
-      "trip_id": "8_17615899",
+      "trip_id": "8_17719912",
       "direction_id": "0",
       "headsign": "OSIEDLE SOBIESKIEGO",
       "service_id": "8",
@@ -13697,7 +13697,7 @@
       ]
     },
     {
-      "trip_id": "8_17615900",
+      "trip_id": "8_17719913",
       "direction_id": "1",
       "headsign": "LITEWSKA",
       "service_id": "8",
@@ -13840,7 +13840,7 @@
       ]
     },
     {
-      "trip_id": "8_17615901",
+      "trip_id": "8_17719914",
       "direction_id": "0",
       "headsign": "OSIEDLE SOBIESKIEGO",
       "service_id": "8",
@@ -13920,7 +13920,7 @@
       ]
     },
     {
-      "trip_id": "8_17615902",
+      "trip_id": "8_17719915",
       "direction_id": "1",
       "headsign": "Zajezdnia TYSKA",
       "service_id": "8",
@@ -14216,7 +14216,7 @@
       ]
     },
     {
-      "trip_id": "8_17615903",
+      "trip_id": "8_17719916",
       "direction_id": "0",
       "headsign": "OSIEDLE SOBIESKIEGO",
       "service_id": "8",
@@ -14458,7 +14458,7 @@
       ]
     },
     {
-      "trip_id": "8_17615904",
+      "trip_id": "8_17719917",
       "direction_id": "1",
       "headsign": "LITEWSKA",
       "service_id": "8",
@@ -14610,7 +14610,7 @@
       ]
     },
     {
-      "trip_id": "8_17615905",
+      "trip_id": "8_17719918",
       "direction_id": "0",
       "headsign": "OSIEDLE SOBIESKIEGO",
       "service_id": "8",
@@ -14717,7 +14717,7 @@
       ]
     },
     {
-      "trip_id": "8_17615906",
+      "trip_id": "8_17719919",
       "direction_id": "1",
       "headsign": "LITEWSKA",
       "service_id": "8",
@@ -14869,7 +14869,7 @@
       ]
     },
     {
-      "trip_id": "8_17615907",
+      "trip_id": "8_17719920",
       "direction_id": "0",
       "headsign": "OSIEDLE SOBIESKIEGO",
       "service_id": "8",
@@ -14976,7 +14976,7 @@
       ]
     },
     {
-      "trip_id": "8_17615908",
+      "trip_id": "8_17719921",
       "direction_id": "1",
       "headsign": "LITEWSKA",
       "service_id": "8",
@@ -15128,7 +15128,7 @@
       ]
     },
     {
-      "trip_id": "8_17615909",
+      "trip_id": "8_17719922",
       "direction_id": "0",
       "headsign": "OSIEDLE SOBIESKIEGO",
       "service_id": "8",
@@ -15235,7 +15235,7 @@
       ]
     },
     {
-      "trip_id": "8_17615910",
+      "trip_id": "8_17719923",
       "direction_id": "1",
       "headsign": "LITEWSKA",
       "service_id": "8",
@@ -15387,7 +15387,7 @@
       ]
     },
     {
-      "trip_id": "8_17615911",
+      "trip_id": "8_17719924",
       "direction_id": "0",
       "headsign": "OSIEDLE SOBIESKIEGO",
       "service_id": "8",
@@ -15494,7 +15494,7 @@
       ]
     },
     {
-      "trip_id": "8_17615912",
+      "trip_id": "8_17719925",
       "direction_id": "1",
       "headsign": "LITEWSKA",
       "service_id": "8",
@@ -15646,7 +15646,7 @@
       ]
     },
     {
-      "trip_id": "8_17615913",
+      "trip_id": "8_17719926",
       "direction_id": "0",
       "headsign": "OSIEDLE SOBIESKIEGO",
       "service_id": "8",
@@ -15753,7 +15753,7 @@
       ]
     },
     {
-      "trip_id": "8_17615914",
+      "trip_id": "8_17719927",
       "direction_id": "1",
       "headsign": "LITEWSKA",
       "service_id": "8",
@@ -15905,7 +15905,7 @@
       ]
     },
     {
-      "trip_id": "8_17615915",
+      "trip_id": "8_17719928",
       "direction_id": "0",
       "headsign": "OSIEDLE SOBIESKIEGO",
       "service_id": "8",
@@ -16012,7 +16012,7 @@
       ]
     },
     {
-      "trip_id": "8_17615916",
+      "trip_id": "8_17719929",
       "direction_id": "1",
       "headsign": "LITEWSKA",
       "service_id": "8",
@@ -16164,7 +16164,7 @@
       ]
     },
     {
-      "trip_id": "8_17615917",
+      "trip_id": "8_17719930",
       "direction_id": "0",
       "headsign": "OSIEDLE SOBIESKIEGO",
       "service_id": "8",
@@ -16271,7 +16271,7 @@
       ]
     },
     {
-      "trip_id": "8_17615918",
+      "trip_id": "8_17719931",
       "direction_id": "1",
       "headsign": "LITEWSKA",
       "service_id": "8",
@@ -16423,7 +16423,7 @@
       ]
     },
     {
-      "trip_id": "8_17615919",
+      "trip_id": "8_17719932",
       "direction_id": "0",
       "headsign": "OSIEDLE SOBIESKIEGO",
       "service_id": "8",
@@ -16530,7 +16530,7 @@
       ]
     },
     {
-      "trip_id": "8_17615920",
+      "trip_id": "8_17719933",
       "direction_id": "1",
       "headsign": "LITEWSKA",
       "service_id": "8",
@@ -16682,7 +16682,7 @@
       ]
     },
     {
-      "trip_id": "8_17615921",
+      "trip_id": "8_17719934",
       "direction_id": "0",
       "headsign": "OSIEDLE SOBIESKIEGO",
       "service_id": "8",
@@ -16789,7 +16789,7 @@
       ]
     },
     {
-      "trip_id": "8_17615922",
+      "trip_id": "8_17719935",
       "direction_id": "1",
       "headsign": "LITEWSKA",
       "service_id": "8",
@@ -16941,7 +16941,7 @@
       ]
     },
     {
-      "trip_id": "8_17615923",
+      "trip_id": "8_17719936",
       "direction_id": "0",
       "headsign": "OSIEDLE SOBIESKIEGO",
       "service_id": "8",
@@ -17048,7 +17048,7 @@
       ]
     },
     {
-      "trip_id": "8_17615924",
+      "trip_id": "8_17719937",
       "direction_id": "1",
       "headsign": "LITEWSKA",
       "service_id": "8",
@@ -17200,7 +17200,7 @@
       ]
     },
     {
-      "trip_id": "8_17615925",
+      "trip_id": "8_17719938",
       "direction_id": "0",
       "headsign": "OSIEDLE SOBIESKIEGO",
       "service_id": "8",
@@ -17307,7 +17307,7 @@
       ]
     },
     {
-      "trip_id": "8_17615926",
+      "trip_id": "8_17719939",
       "direction_id": "1",
       "headsign": "LITEWSKA",
       "service_id": "8",
@@ -17459,7 +17459,7 @@
       ]
     },
     {
-      "trip_id": "8_17615927",
+      "trip_id": "8_17719940",
       "direction_id": "0",
       "headsign": "OSIEDLE SOBIESKIEGO",
       "service_id": "8",
@@ -17566,7 +17566,7 @@
       ]
     },
     {
-      "trip_id": "8_17615928",
+      "trip_id": "8_17719941",
       "direction_id": "1",
       "headsign": "LITEWSKA",
       "service_id": "8",
@@ -17718,7 +17718,7 @@
       ]
     },
     {
-      "trip_id": "8_17615929",
+      "trip_id": "8_17719942",
       "direction_id": "0",
       "headsign": "OSIEDLE SOBIESKIEGO",
       "service_id": "8",
@@ -17825,7 +17825,7 @@
       ]
     },
     {
-      "trip_id": "8_17615930",
+      "trip_id": "8_17719943",
       "direction_id": "1",
       "headsign": "LITEWSKA",
       "service_id": "8",
@@ -17977,7 +17977,7 @@
       ]
     },
     {
-      "trip_id": "8_17615931",
+      "trip_id": "8_17719944",
       "direction_id": "0",
       "headsign": "OSIEDLE SOBIESKIEGO",
       "service_id": "8",
@@ -18084,7 +18084,7 @@
       ]
     },
     {
-      "trip_id": "8_17615932",
+      "trip_id": "8_17719945",
       "direction_id": "1",
       "headsign": "LITEWSKA",
       "service_id": "8",
@@ -18236,7 +18236,7 @@
       ]
     },
     {
-      "trip_id": "8_17615933",
+      "trip_id": "8_17719946",
       "direction_id": "0",
       "headsign": "OSIEDLE SOBIESKIEGO",
       "service_id": "8",
@@ -18316,7 +18316,7 @@
       ]
     },
     {
-      "trip_id": "8_17615934",
+      "trip_id": "8_17719947",
       "direction_id": "1",
       "headsign": "LITEWSKA",
       "service_id": "8",
@@ -18459,7 +18459,7 @@
       ]
     },
     {
-      "trip_id": "8_17615935",
+      "trip_id": "8_17719948",
       "direction_id": "0",
       "headsign": "OSIEDLE SOBIESKIEGO",
       "service_id": "8",
@@ -18539,7 +18539,7 @@
       ]
     },
     {
-      "trip_id": "8_17615936",
+      "trip_id": "8_17719949",
       "direction_id": "1",
       "headsign": "LITEWSKA",
       "service_id": "8",
@@ -18682,7 +18682,7 @@
       ]
     },
     {
-      "trip_id": "8_17615937",
+      "trip_id": "8_17719950",
       "direction_id": "0",
       "headsign": "Zajezdnia TYSKA",
       "service_id": "8",

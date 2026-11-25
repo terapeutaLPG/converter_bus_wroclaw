@@ -2,7 +2,7 @@
   "line": "937",
   "trips": [
     {
-      "trip_id": "6_17449077",
+      "trip_id": "6_17722358",
       "direction_id": "1",
       "headsign": "Brzezinka Średzka - PKP",
       "service_id": "6",
@@ -199,7 +199,7 @@
       ]
     },
     {
-      "trip_id": "6_17449078",
+      "trip_id": "6_17722359",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "6",
@@ -387,7 +387,7 @@
       ]
     },
     {
-      "trip_id": "6_17449090",
+      "trip_id": "6_17722371",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "6",
@@ -575,7 +575,7 @@
       ]
     },
     {
-      "trip_id": "6_17449101",
+      "trip_id": "6_17722382",
       "direction_id": "1",
       "headsign": "Brzezinka Średzka - PKP",
       "service_id": "6",
@@ -772,7 +772,7 @@
       ]
     },
     {
-      "trip_id": "6_17449102",
+      "trip_id": "6_17722383",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "6",
@@ -933,7 +933,7 @@
       ]
     },
     {
-      "trip_id": "6_17449154",
+      "trip_id": "6_17722435",
       "direction_id": "1",
       "headsign": "Brzezinka Średzka - PKP",
       "service_id": "6",
@@ -1130,7 +1130,7 @@
       ]
     },
     {
-      "trip_id": "6_17449155",
+      "trip_id": "6_17722436",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "6",
@@ -1291,7 +1291,7 @@
       ]
     },
     {
-      "trip_id": "6_17449200",
+      "trip_id": "6_17722481",
       "direction_id": "1",
       "headsign": "Brzezinka Średzka - PKP",
       "service_id": "6",
@@ -1488,7 +1488,7 @@
       ]
     },
     {
-      "trip_id": "6_17449201",
+      "trip_id": "6_17722482",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "6",
@@ -1676,7 +1676,7 @@
       ]
     },
     {
-      "trip_id": "6_17449282",
+      "trip_id": "6_17722563",
       "direction_id": "1",
       "headsign": "Brzezinka Średzka - PKP",
       "service_id": "6",
@@ -1873,7 +1873,7 @@
       ]
     },
     {
-      "trip_id": "6_17449283",
+      "trip_id": "6_17722564",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "6",
@@ -2061,7 +2061,7 @@
       ]
     },
     {
-      "trip_id": "6_17449327",
+      "trip_id": "6_17722608",
       "direction_id": "1",
       "headsign": "Brzezinka Średzka - PKP",
       "service_id": "6",
@@ -2258,7 +2258,7 @@
       ]
     },
     {
-      "trip_id": "6_17449328",
+      "trip_id": "6_17722609",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "6",
@@ -2446,7 +2446,7 @@
       ]
     },
     {
-      "trip_id": "6_17449358",
+      "trip_id": "6_17722639",
       "direction_id": "1",
       "headsign": "Brzezinka Średzka - PKP",
       "service_id": "6",
@@ -2643,7 +2643,7 @@
       ]
     },
     {
-      "trip_id": "6_17449359",
+      "trip_id": "6_17722640",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "6",
@@ -2831,7 +2831,7 @@
       ]
     },
     {
-      "trip_id": "6_17449423",
+      "trip_id": "6_17722704",
       "direction_id": "1",
       "headsign": "Brzezinka Średzka - PKP",
       "service_id": "6",
@@ -3028,7 +3028,7 @@
       ]
     },
     {
-      "trip_id": "8_17449459",
+      "trip_id": "8_17722740",
       "direction_id": "1",
       "headsign": "Brzezinka Średzka - PKP",
       "service_id": "8",
@@ -3225,7 +3225,7 @@
       ]
     },
     {
-      "trip_id": "8_17449460",
+      "trip_id": "8_17722741",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "8",
@@ -3413,7 +3413,7 @@
       ]
     },
     {
-      "trip_id": "8_17449472",
+      "trip_id": "8_17722753",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "8",
@@ -3601,7 +3601,7 @@
       ]
     },
     {
-      "trip_id": "8_17449483",
+      "trip_id": "8_17722764",
       "direction_id": "1",
       "headsign": "Brzezinka Średzka - PKP",
       "service_id": "8",
@@ -3798,7 +3798,7 @@
       ]
     },
     {
-      "trip_id": "8_17449484",
+      "trip_id": "8_17722765",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "8",
@@ -3959,7 +3959,7 @@
       ]
     },
     {
-      "trip_id": "8_17449536",
+      "trip_id": "8_17722817",
       "direction_id": "1",
       "headsign": "Brzezinka Średzka - PKP",
       "service_id": "8",
@@ -4156,7 +4156,7 @@
       ]
     },
     {
-      "trip_id": "8_17449537",
+      "trip_id": "8_17722818",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "8",
@@ -4317,7 +4317,7 @@
       ]
     },
     {
-      "trip_id": "8_17449582",
+      "trip_id": "8_17722863",
       "direction_id": "1",
       "headsign": "Brzezinka Średzka - PKP",
       "service_id": "8",
@@ -4514,7 +4514,7 @@
       ]
     },
     {
-      "trip_id": "8_17449583",
+      "trip_id": "8_17722864",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "8",
@@ -4702,7 +4702,7 @@
       ]
     },
     {
-      "trip_id": "8_17449664",
+      "trip_id": "8_17722945",
       "direction_id": "1",
       "headsign": "Brzezinka Średzka - PKP",
       "service_id": "8",
@@ -4899,7 +4899,7 @@
       ]
     },
     {
-      "trip_id": "8_17449665",
+      "trip_id": "8_17722946",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "8",
@@ -5087,7 +5087,7 @@
       ]
     },
     {
-      "trip_id": "8_17449709",
+      "trip_id": "8_17722990",
       "direction_id": "1",
       "headsign": "Brzezinka Średzka - PKP",
       "service_id": "8",
@@ -5284,7 +5284,7 @@
       ]
     },
     {
-      "trip_id": "8_17449710",
+      "trip_id": "8_17722991",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "8",
@@ -5472,7 +5472,7 @@
       ]
     },
     {
-      "trip_id": "8_17449740",
+      "trip_id": "8_17723021",
       "direction_id": "1",
       "headsign": "Brzezinka Średzka - PKP",
       "service_id": "8",
@@ -5669,7 +5669,7 @@
       ]
     },
     {
-      "trip_id": "8_17449741",
+      "trip_id": "8_17723022",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "8",
@@ -5857,7 +5857,7 @@
       ]
     },
     {
-      "trip_id": "8_17449805",
+      "trip_id": "8_17723086",
       "direction_id": "1",
       "headsign": "Brzezinka Średzka - PKP",
       "service_id": "8",

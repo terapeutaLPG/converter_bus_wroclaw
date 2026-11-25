@@ -2,7 +2,7 @@
   "line": "920",
   "trips": [
     {
-      "trip_id": "3_17618082",
+      "trip_id": "3_17636757",
       "direction_id": "0",
       "headsign": "GALERIA DOMINIKAŃSKA",
       "service_id": "3",
@@ -271,7 +271,7 @@
         {
           "stop_sequence": 29,
           "stop_id": "5926",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 09",
           "arrival_time": "05:48:00",
           "departure_time": "05:48:00",
           "lat": 51.1089984,
@@ -280,7 +280,7 @@
       ]
     },
     {
-      "trip_id": "3_17618083",
+      "trip_id": "3_17636758",
       "direction_id": "1",
       "headsign": "Wojnowice - pętla",
       "service_id": "3",
@@ -288,7 +288,7 @@
         {
           "stop_sequence": 0,
           "stop_id": "5926",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 09",
           "arrival_time": "06:05:00",
           "departure_time": "06:05:00",
           "lat": 51.1089984,
@@ -558,7 +558,7 @@
       ]
     },
     {
-      "trip_id": "3_17618084",
+      "trip_id": "3_17636759",
       "direction_id": "0",
       "headsign": "GALERIA DOMINIKAŃSKA",
       "service_id": "3",
@@ -827,7 +827,7 @@
         {
           "stop_sequence": 29,
           "stop_id": "5926",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 09",
           "arrival_time": "07:49:00",
           "departure_time": "07:49:00",
           "lat": 51.1089984,
@@ -836,7 +836,7 @@
       ]
     },
     {
-      "trip_id": "3_17618097",
+      "trip_id": "3_17636772",
       "direction_id": "1",
       "headsign": "Wojnowice - pętla",
       "service_id": "3",
@@ -844,7 +844,7 @@
         {
           "stop_sequence": 0,
           "stop_id": "5926",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 09",
           "arrival_time": "15:05:00",
           "departure_time": "15:05:00",
           "lat": 51.1089984,
@@ -1114,7 +1114,7 @@
       ]
     },
     {
-      "trip_id": "3_17618098",
+      "trip_id": "3_17636773",
       "direction_id": "0",
       "headsign": "GALERIA DOMINIKAŃSKA",
       "service_id": "3",
@@ -1383,7 +1383,7 @@
         {
           "stop_sequence": 29,
           "stop_id": "5926",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 09",
           "arrival_time": "16:54:00",
           "departure_time": "16:54:00",
           "lat": 51.1089984,
@@ -1392,7 +1392,7 @@
       ]
     },
     {
-      "trip_id": "3_17618415",
+      "trip_id": "3_17637095",
       "direction_id": "1",
       "headsign": "Wojnowice - pętla",
       "service_id": "3",
@@ -1400,7 +1400,7 @@
         {
           "stop_sequence": 0,
           "stop_id": "5926",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 09",
           "arrival_time": "09:05:00",
           "departure_time": "09:05:00",
           "lat": 51.1089984,
@@ -1670,7 +1670,7 @@
       ]
     },
     {
-      "trip_id": "3_17618416",
+      "trip_id": "3_17637096",
       "direction_id": "0",
       "headsign": "GALERIA DOMINIKAŃSKA",
       "service_id": "3",
@@ -1939,7 +1939,7 @@
         {
           "stop_sequence": 29,
           "stop_id": "5926",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 09",
           "arrival_time": "10:54:00",
           "departure_time": "10:54:00",
           "lat": 51.1089984,
@@ -1948,7 +1948,7 @@
       ]
     },
     {
-      "trip_id": "3_17618417",
+      "trip_id": "3_17637097",
       "direction_id": "1",
       "headsign": "Wojnowice - pętla",
       "service_id": "3",
@@ -1956,7 +1956,7 @@
         {
           "stop_sequence": 0,
           "stop_id": "5926",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 09",
           "arrival_time": "11:05:00",
           "departure_time": "11:05:00",
           "lat": 51.1089984,
@@ -2226,7 +2226,7 @@
       ]
     },
     {
-      "trip_id": "3_17618418",
+      "trip_id": "3_17637098",
       "direction_id": "0",
       "headsign": "GALERIA DOMINIKAŃSKA",
       "service_id": "3",
@@ -2495,7 +2495,7 @@
         {
           "stop_sequence": 29,
           "stop_id": "5926",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 09",
           "arrival_time": "12:54:00",
           "departure_time": "12:54:00",
           "lat": 51.1089984,
@@ -2504,7 +2504,7 @@
       ]
     },
     {
-      "trip_id": "3_17618419",
+      "trip_id": "3_17637099",
       "direction_id": "1",
       "headsign": "Wojnowice - pętla",
       "service_id": "3",
@@ -2512,7 +2512,7 @@
         {
           "stop_sequence": 0,
           "stop_id": "5926",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 09",
           "arrival_time": "13:05:00",
           "departure_time": "13:05:00",
           "lat": 51.1089984,
@@ -2782,7 +2782,7 @@
       ]
     },
     {
-      "trip_id": "3_17618420",
+      "trip_id": "3_17637100",
       "direction_id": "0",
       "headsign": "GALERIA DOMINIKAŃSKA",
       "service_id": "3",
@@ -3051,7 +3051,7 @@
         {
           "stop_sequence": 29,
           "stop_id": "5926",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 09",
           "arrival_time": "14:54:00",
           "departure_time": "14:54:00",
           "lat": 51.1089984,
@@ -3060,7 +3060,7 @@
       ]
     },
     {
-      "trip_id": "3_17618423",
+      "trip_id": "3_17637103",
       "direction_id": "1",
       "headsign": "Wojnowice - pętla",
       "service_id": "3",
@@ -3068,7 +3068,7 @@
         {
           "stop_sequence": 0,
           "stop_id": "5926",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 09",
           "arrival_time": "17:15:00",
           "departure_time": "17:15:00",
           "lat": 51.1089984,
@@ -3338,7 +3338,7 @@
       ]
     },
     {
-      "trip_id": "3_17618424",
+      "trip_id": "3_17637104",
       "direction_id": "0",
       "headsign": "GALERIA DOMINIKAŃSKA",
       "service_id": "3",
@@ -3607,7 +3607,7 @@
         {
           "stop_sequence": 29,
           "stop_id": "5926",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 09",
           "arrival_time": "18:58:00",
           "departure_time": "18:58:00",
           "lat": 51.1089984,
@@ -3616,7 +3616,7 @@
       ]
     },
     {
-      "trip_id": "3_17618425",
+      "trip_id": "3_17637105",
       "direction_id": "1",
       "headsign": "Wojnowice - pętla",
       "service_id": "3",
@@ -3624,7 +3624,7 @@
         {
           "stop_sequence": 0,
           "stop_id": "5926",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 09",
           "arrival_time": "19:15:00",
           "departure_time": "19:15:00",
           "lat": 51.1089984,
@@ -3894,7 +3894,7 @@
       ]
     },
     {
-      "trip_id": "3_17618426",
+      "trip_id": "3_17637106",
       "direction_id": "0",
       "headsign": "GALERIA DOMINIKAŃSKA",
       "service_id": "3",
@@ -4163,7 +4163,7 @@
         {
           "stop_sequence": 29,
           "stop_id": "5926",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 09",
           "arrival_time": "21:07:00",
           "departure_time": "21:07:00",
           "lat": 51.1089984,
@@ -4172,7 +4172,7 @@
       ]
     },
     {
-      "trip_id": "3_17618427",
+      "trip_id": "3_17637107",
       "direction_id": "1",
       "headsign": "Wojnowice - pętla",
       "service_id": "3",
@@ -4180,7 +4180,7 @@
         {
           "stop_sequence": 0,
           "stop_id": "5926",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 09",
           "arrival_time": "21:15:00",
           "departure_time": "21:15:00",
           "lat": 51.1089984,
@@ -4450,7 +4450,7 @@
       ]
     },
     {
-      "trip_id": "3_17618513",
+      "trip_id": "3_17637188",
       "direction_id": "0",
       "headsign": "GALERIA DOMINIKAŃSKA",
       "service_id": "3",
@@ -4719,7 +4719,7 @@
         {
           "stop_sequence": 29,
           "stop_id": "5926",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 09",
           "arrival_time": "06:49:00",
           "departure_time": "06:49:00",
           "lat": 51.1089984,
@@ -4728,7 +4728,7 @@
       ]
     },
     {
-      "trip_id": "3_17618514",
+      "trip_id": "3_17637189",
       "direction_id": "1",
       "headsign": "Wojnowice - pętla",
       "service_id": "3",
@@ -4736,7 +4736,7 @@
         {
           "stop_sequence": 0,
           "stop_id": "5926",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 09",
           "arrival_time": "07:05:00",
           "departure_time": "07:05:00",
           "lat": 51.1089984,
@@ -5006,7 +5006,7 @@
       ]
     },
     {
-      "trip_id": "3_17618515",
+      "trip_id": "3_17637190",
       "direction_id": "0",
       "headsign": "GALERIA DOMINIKAŃSKA",
       "service_id": "3",
@@ -5275,7 +5275,7 @@
         {
           "stop_sequence": 29,
           "stop_id": "5926",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 09",
           "arrival_time": "08:49:00",
           "departure_time": "08:49:00",
           "lat": 51.1089984,
@@ -5284,7 +5284,7 @@
       ]
     },
     {
-      "trip_id": "4_17618704",
+      "trip_id": "4_17637379",
       "direction_id": "0",
       "headsign": "GALERIA DOMINIKAŃSKA",
       "service_id": "4",
@@ -5553,7 +5553,7 @@
         {
           "stop_sequence": 29,
           "stop_id": "5926",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 09",
           "arrival_time": "05:48:00",
           "departure_time": "05:48:00",
           "lat": 51.1089984,
@@ -5562,7 +5562,7 @@
       ]
     },
     {
-      "trip_id": "4_17618705",
+      "trip_id": "4_17637380",
       "direction_id": "1",
       "headsign": "Wojnowice - pętla",
       "service_id": "4",
@@ -5570,7 +5570,7 @@
         {
           "stop_sequence": 0,
           "stop_id": "5926",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 09",
           "arrival_time": "06:05:00",
           "departure_time": "06:05:00",
           "lat": 51.1089984,
@@ -5840,7 +5840,7 @@
       ]
     },
     {
-      "trip_id": "4_17618706",
+      "trip_id": "4_17637381",
       "direction_id": "0",
       "headsign": "GALERIA DOMINIKAŃSKA",
       "service_id": "4",
@@ -6109,7 +6109,7 @@
         {
           "stop_sequence": 29,
           "stop_id": "5926",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 09",
           "arrival_time": "07:49:00",
           "departure_time": "07:49:00",
           "lat": 51.1089984,
@@ -6118,7 +6118,7 @@
       ]
     },
     {
-      "trip_id": "4_17618719",
+      "trip_id": "4_17637394",
       "direction_id": "1",
       "headsign": "Wojnowice - pętla",
       "service_id": "4",
@@ -6126,7 +6126,7 @@
         {
           "stop_sequence": 0,
           "stop_id": "5926",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 09",
           "arrival_time": "15:05:00",
           "departure_time": "15:05:00",
           "lat": 51.1089984,
@@ -6396,7 +6396,7 @@
       ]
     },
     {
-      "trip_id": "4_17618720",
+      "trip_id": "4_17637395",
       "direction_id": "0",
       "headsign": "GALERIA DOMINIKAŃSKA",
       "service_id": "4",
@@ -6665,7 +6665,7 @@
         {
           "stop_sequence": 29,
           "stop_id": "5926",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 09",
           "arrival_time": "16:54:00",
           "departure_time": "16:54:00",
           "lat": 51.1089984,
@@ -6674,7 +6674,7 @@
       ]
     },
     {
-      "trip_id": "4_17618916",
+      "trip_id": "4_17637591",
       "direction_id": "0",
       "headsign": "GALERIA DOMINIKAŃSKA",
       "service_id": "4",
@@ -6943,7 +6943,7 @@
         {
           "stop_sequence": 29,
           "stop_id": "5926",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 09",
           "arrival_time": "06:49:00",
           "departure_time": "06:49:00",
           "lat": 51.1089984,
@@ -6952,7 +6952,7 @@
       ]
     },
     {
-      "trip_id": "4_17618917",
+      "trip_id": "4_17637592",
       "direction_id": "1",
       "headsign": "Wojnowice - pętla",
       "service_id": "4",
@@ -6960,7 +6960,7 @@
         {
           "stop_sequence": 0,
           "stop_id": "5926",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 09",
           "arrival_time": "07:05:00",
           "departure_time": "07:05:00",
           "lat": 51.1089984,
@@ -7230,7 +7230,7 @@
       ]
     },
     {
-      "trip_id": "4_17618918",
+      "trip_id": "4_17637593",
       "direction_id": "0",
       "headsign": "GALERIA DOMINIKAŃSKA",
       "service_id": "4",
@@ -7499,7 +7499,7 @@
         {
           "stop_sequence": 29,
           "stop_id": "5926",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 09",
           "arrival_time": "08:49:00",
           "departure_time": "08:49:00",
           "lat": 51.1089984,
@@ -7508,7 +7508,7 @@
       ]
     },
     {
-      "trip_id": "4_17619008",
+      "trip_id": "4_17637683",
       "direction_id": "1",
       "headsign": "Wojnowice - pętla",
       "service_id": "4",
@@ -7516,7 +7516,7 @@
         {
           "stop_sequence": 0,
           "stop_id": "5926",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 09",
           "arrival_time": "09:05:00",
           "departure_time": "09:05:00",
           "lat": 51.1089984,
@@ -7786,7 +7786,7 @@
       ]
     },
     {
-      "trip_id": "4_17619009",
+      "trip_id": "4_17637684",
       "direction_id": "0",
       "headsign": "GALERIA DOMINIKAŃSKA",
       "service_id": "4",
@@ -8055,7 +8055,7 @@
         {
           "stop_sequence": 29,
           "stop_id": "5926",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 09",
           "arrival_time": "10:54:00",
           "departure_time": "10:54:00",
           "lat": 51.1089984,
@@ -8064,7 +8064,7 @@
       ]
     },
     {
-      "trip_id": "4_17619010",
+      "trip_id": "4_17637685",
       "direction_id": "1",
       "headsign": "Wojnowice - pętla",
       "service_id": "4",
@@ -8072,7 +8072,7 @@
         {
           "stop_sequence": 0,
           "stop_id": "5926",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 09",
           "arrival_time": "11:05:00",
           "departure_time": "11:05:00",
           "lat": 51.1089984,
@@ -8342,7 +8342,7 @@
       ]
     },
     {
-      "trip_id": "4_17619011",
+      "trip_id": "4_17637686",
       "direction_id": "0",
       "headsign": "GALERIA DOMINIKAŃSKA",
       "service_id": "4",
@@ -8611,7 +8611,7 @@
         {
           "stop_sequence": 29,
           "stop_id": "5926",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 09",
           "arrival_time": "12:54:00",
           "departure_time": "12:54:00",
           "lat": 51.1089984,
@@ -8620,7 +8620,7 @@
       ]
     },
     {
-      "trip_id": "4_17619012",
+      "trip_id": "4_17637687",
       "direction_id": "1",
       "headsign": "Wojnowice - pętla",
       "service_id": "4",
@@ -8628,7 +8628,7 @@
         {
           "stop_sequence": 0,
           "stop_id": "5926",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 09",
           "arrival_time": "13:05:00",
           "departure_time": "13:05:00",
           "lat": 51.1089984,
@@ -8898,7 +8898,7 @@
       ]
     },
     {
-      "trip_id": "4_17619013",
+      "trip_id": "4_17637688",
       "direction_id": "0",
       "headsign": "GALERIA DOMINIKAŃSKA",
       "service_id": "4",
@@ -9167,7 +9167,7 @@
         {
           "stop_sequence": 29,
           "stop_id": "5926",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 09",
           "arrival_time": "14:54:00",
           "departure_time": "14:54:00",
           "lat": 51.1089984,
@@ -9176,7 +9176,7 @@
       ]
     },
     {
-      "trip_id": "4_17619016",
+      "trip_id": "4_17637691",
       "direction_id": "1",
       "headsign": "Wojnowice - pętla",
       "service_id": "4",
@@ -9184,7 +9184,7 @@
         {
           "stop_sequence": 0,
           "stop_id": "5926",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 09",
           "arrival_time": "17:15:00",
           "departure_time": "17:15:00",
           "lat": 51.1089984,
@@ -9454,7 +9454,7 @@
       ]
     },
     {
-      "trip_id": "4_17619017",
+      "trip_id": "4_17637692",
       "direction_id": "0",
       "headsign": "GALERIA DOMINIKAŃSKA",
       "service_id": "4",
@@ -9723,7 +9723,7 @@
         {
           "stop_sequence": 29,
           "stop_id": "5926",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 09",
           "arrival_time": "18:58:00",
           "departure_time": "18:58:00",
           "lat": 51.1089984,
@@ -9732,7 +9732,7 @@
       ]
     },
     {
-      "trip_id": "4_17619018",
+      "trip_id": "4_17637693",
       "direction_id": "1",
       "headsign": "Wojnowice - pętla",
       "service_id": "4",
@@ -9740,7 +9740,7 @@
         {
           "stop_sequence": 0,
           "stop_id": "5926",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 09",
           "arrival_time": "19:15:00",
           "departure_time": "19:15:00",
           "lat": 51.1089984,
@@ -10010,7 +10010,7 @@
       ]
     },
     {
-      "trip_id": "4_17619019",
+      "trip_id": "4_17637694",
       "direction_id": "0",
       "headsign": "GALERIA DOMINIKAŃSKA",
       "service_id": "4",
@@ -10279,7 +10279,7 @@
         {
           "stop_sequence": 29,
           "stop_id": "5926",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 09",
           "arrival_time": "21:07:00",
           "departure_time": "21:07:00",
           "lat": 51.1089984,
@@ -10288,7 +10288,7 @@
       ]
     },
     {
-      "trip_id": "4_17619020",
+      "trip_id": "4_17637695",
       "direction_id": "1",
       "headsign": "Wojnowice - pętla",
       "service_id": "4",
@@ -10296,7 +10296,7 @@
         {
           "stop_sequence": 0,
           "stop_id": "5926",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 09",
           "arrival_time": "21:15:00",
           "departure_time": "21:15:00",
           "lat": 51.1089984,
@@ -10566,7 +10566,7 @@
       ]
     },
     {
-      "trip_id": "6_17619091",
+      "trip_id": "6_17637766",
       "direction_id": "0",
       "headsign": "GALERIA DOMINIKAŃSKA",
       "service_id": "6",
@@ -10575,8 +10575,8 @@
           "stop_sequence": 0,
           "stop_id": "4929",
           "stop_name": "Wojnowice - pętla",
-          "arrival_time": "06:11:00",
-          "departure_time": "06:11:00",
+          "arrival_time": "06:06:00",
+          "departure_time": "06:06:00",
           "lat": 51.062709,
           "lon": 17.262826
         },
@@ -10584,8 +10584,8 @@
           "stop_sequence": 1,
           "stop_id": "5735",
           "stop_name": "Wojnowice - Główna I",
-          "arrival_time": "06:13:00",
-          "departure_time": "06:13:00",
+          "arrival_time": "06:08:00",
+          "departure_time": "06:08:00",
           "lat": 51.06336105,
           "lon": 17.25191263
         },
@@ -10593,8 +10593,8 @@
           "stop_sequence": 2,
           "stop_id": "4976",
           "stop_name": "Wojnowice - Tymiankowa",
-          "arrival_time": "06:14:00",
-          "departure_time": "06:14:00",
+          "arrival_time": "06:09:00",
+          "departure_time": "06:09:00",
           "lat": 51.0645,
           "lon": 17.2443
         },
@@ -10602,8 +10602,8 @@
           "stop_sequence": 3,
           "stop_id": "4978",
           "stop_name": "Jeszkowice - Zielonego Dębu",
-          "arrival_time": "06:16:00",
-          "departure_time": "06:16:00",
+          "arrival_time": "06:11:00",
+          "departure_time": "06:11:00",
           "lat": 51.0656981,
           "lon": 17.22986063
         },
@@ -10611,8 +10611,8 @@
           "stop_sequence": 4,
           "stop_id": "4979",
           "stop_name": "Jeszkowice - pętla",
-          "arrival_time": "06:17:00",
-          "departure_time": "06:17:00",
+          "arrival_time": "06:12:00",
+          "departure_time": "06:12:00",
           "lat": 51.066123,
           "lon": 17.22524576
         },
@@ -10620,8 +10620,8 @@
           "stop_sequence": 5,
           "stop_id": "4981",
           "stop_name": "Jeszkowice - Główna/Słoneczna",
-          "arrival_time": "06:18:00",
-          "departure_time": "06:18:00",
+          "arrival_time": "06:13:00",
+          "departure_time": "06:13:00",
           "lat": 51.06111933,
           "lon": 17.22406591
         },
@@ -10629,8 +10629,8 @@
           "stop_sequence": 6,
           "stop_id": "5726",
           "stop_name": "Jeszkowice - Główna/świetlica",
-          "arrival_time": "06:19:00",
-          "departure_time": "06:19:00",
+          "arrival_time": "06:14:00",
+          "departure_time": "06:14:00",
           "lat": 51.05611961,
           "lon": 17.22315811
         },
@@ -10638,8 +10638,8 @@
           "stop_sequence": 7,
           "stop_id": "5822",
           "stop_name": "Jeszkowice - Jelczańska/Wrocławska",
-          "arrival_time": "06:22:00",
-          "departure_time": "06:22:00",
+          "arrival_time": "06:17:00",
+          "departure_time": "06:17:00",
           "lat": 51.05494817,
           "lon": 17.21172475
         },
@@ -10647,8 +10647,8 @@
           "stop_sequence": 8,
           "stop_id": "5831",
           "stop_name": "Gajków - Polna skrzyż.",
-          "arrival_time": "06:23:00",
-          "departure_time": "06:23:00",
+          "arrival_time": "06:18:00",
+          "departure_time": "06:18:00",
           "lat": 51.05931509,
           "lon": 17.20531807
         },
@@ -10656,8 +10656,8 @@
           "stop_sequence": 9,
           "stop_id": "4969",
           "stop_name": "Gajków - Lipowa",
-          "arrival_time": "06:25:00",
-          "departure_time": "06:25:00",
+          "arrival_time": "06:20:00",
+          "departure_time": "06:20:00",
           "lat": 51.06560627,
           "lon": 17.19306052
         },
@@ -10665,8 +10665,8 @@
           "stop_sequence": 10,
           "stop_id": "4989",
           "stop_name": "Kamieniec Wrocławski - Wrocławska/Boczna",
-          "arrival_time": "06:26:00",
-          "departure_time": "06:26:00",
+          "arrival_time": "06:21:00",
+          "departure_time": "06:21:00",
           "lat": 51.06869845,
           "lon": 17.18645966
         },
@@ -10674,8 +10674,8 @@
           "stop_sequence": 11,
           "stop_id": "4442",
           "stop_name": "Kamieniec Wrocławski - Wrocławska/Szkolna",
-          "arrival_time": "06:27:00",
-          "departure_time": "06:27:00",
+          "arrival_time": "06:22:00",
+          "departure_time": "06:22:00",
           "lat": 51.07227287,
           "lon": 17.17921591
         },
@@ -10683,22 +10683,49 @@
           "stop_sequence": 12,
           "stop_id": "4437",
           "stop_name": "Kamieniec Wrocławski - Wrocławska/Kolejowa",
-          "arrival_time": "06:29:00",
-          "departure_time": "06:29:00",
+          "arrival_time": "06:24:00",
+          "departure_time": "06:24:00",
           "lat": 51.07585244,
           "lon": 17.17270677
         },
         {
           "stop_sequence": 13,
-          "stop_id": "4918",
-          "stop_name": "Kamieniec Wrocławski - Łany",
-          "arrival_time": "06:31:00",
-          "departure_time": "06:31:00",
-          "lat": 51.08102099,
-          "lon": 17.17008927
+          "stop_id": "4968",
+          "stop_name": "Kamieniec Wrocławski - szkoła",
+          "arrival_time": "06:25:00",
+          "departure_time": "06:25:00",
+          "lat": 51.07773614,
+          "lon": 17.17307468
         },
         {
           "stop_sequence": 14,
+          "stop_id": "4942",
+          "stop_name": "Dobrzykowice - przejazd",
+          "arrival_time": "06:28:00",
+          "departure_time": "06:28:00",
+          "lat": 51.087242,
+          "lon": 17.182781
+        },
+        {
+          "stop_sequence": 15,
+          "stop_id": "4966",
+          "stop_name": "Dobrzykowice - Sukcesu",
+          "arrival_time": "06:29:00",
+          "departure_time": "06:29:00",
+          "lat": 51.08950292,
+          "lon": 17.18538291
+        },
+        {
+          "stop_sequence": 16,
+          "stop_id": "4919",
+          "stop_name": "Dobrzykowice - Boczna",
+          "arrival_time": "06:31:00",
+          "departure_time": "06:31:00",
+          "lat": 51.09352198,
+          "lon": 17.18959113
+        },
+        {
+          "stop_sequence": 17,
           "stop_id": "3370",
           "stop_name": "BLIZANOWICE",
           "arrival_time": "06:38:00",
@@ -10707,7 +10734,7 @@
           "lon": 17.15723419
         },
         {
-          "stop_sequence": 15,
+          "stop_sequence": 18,
           "stop_id": "3272",
           "stop_name": "TRESTNO (pętla)",
           "arrival_time": "06:40:00",
@@ -10716,7 +10743,7 @@
           "lon": 17.14536285
         },
         {
-          "stop_sequence": 16,
+          "stop_sequence": 19,
           "stop_id": "4268",
           "stop_name": "Trestno - kościół",
           "arrival_time": "06:41:00",
@@ -10725,7 +10752,7 @@
           "lon": 17.145117
         },
         {
-          "stop_sequence": 17,
+          "stop_sequence": 20,
           "stop_id": "4264",
           "stop_name": "Trestno - świetlica",
           "arrival_time": "06:42:00",
@@ -10734,7 +10761,7 @@
           "lon": 17.145895
         },
         {
-          "stop_sequence": 18,
+          "stop_sequence": 21,
           "stop_id": "1762",
           "stop_name": "Zalewowa",
           "arrival_time": "06:43:00",
@@ -10743,7 +10770,7 @@
           "lon": 17.13457316
         },
         {
-          "stop_sequence": 19,
+          "stop_sequence": 22,
           "stop_id": "1971",
           "stop_name": "Opatowicka nr 127",
           "arrival_time": "06:44:00",
@@ -10752,7 +10779,7 @@
           "lon": 17.13294217
         },
         {
-          "stop_sequence": 20,
+          "stop_sequence": 23,
           "stop_id": "539",
           "stop_name": "OPATOWICE",
           "arrival_time": "06:45:00",
@@ -10761,7 +10788,7 @@
           "lon": 17.12958335
         },
         {
-          "stop_sequence": 21,
+          "stop_sequence": 24,
           "stop_id": "531",
           "stop_name": "Opatowicka nr 85",
           "arrival_time": "06:46:00",
@@ -10770,7 +10797,7 @@
           "lon": 17.12316494
         },
         {
-          "stop_sequence": 22,
+          "stop_sequence": 25,
           "stop_id": "4050",
           "stop_name": "Opatowicka nr 59",
           "arrival_time": "06:47:00",
@@ -10779,7 +10806,7 @@
           "lon": 17.11643035
         },
         {
-          "stop_sequence": 23,
+          "stop_sequence": 26,
           "stop_id": "534",
           "stop_name": "Nowy Dom",
           "arrival_time": "06:48:00",
@@ -10788,7 +10815,7 @@
           "lon": 17.10706553
         },
         {
-          "stop_sequence": 24,
+          "stop_sequence": 27,
           "stop_id": "537",
           "stop_name": "Bierdzany",
           "arrival_time": "06:50:00",
@@ -10797,7 +10824,7 @@
           "lon": 17.09129425
         },
         {
-          "stop_sequence": 25,
+          "stop_sequence": 28,
           "stop_id": "533",
           "stop_name": "Międzyrzecka",
           "arrival_time": "06:52:00",
@@ -10806,7 +10833,7 @@
           "lon": 17.08073914
         },
         {
-          "stop_sequence": 26,
+          "stop_sequence": 29,
           "stop_id": "4665",
           "stop_name": "Okólna",
           "arrival_time": "06:55:00",
@@ -10815,7 +10842,7 @@
           "lon": 17.06733648
         },
         {
-          "stop_sequence": 27,
+          "stop_sequence": 30,
           "stop_id": "4664",
           "stop_name": "Na Grobli (Hydropolis)",
           "arrival_time": "06:57:00",
@@ -10824,7 +10851,7 @@
           "lon": 17.05519721
         },
         {
-          "stop_sequence": 28,
+          "stop_sequence": 31,
           "stop_id": "5862",
           "stop_name": "Pl. Wróblewskiego",
           "arrival_time": "07:00:00",
@@ -10833,9 +10860,9 @@
           "lon": 17.04676748
         },
         {
-          "stop_sequence": 29,
+          "stop_sequence": 32,
           "stop_id": "5926",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 09",
           "arrival_time": "07:05:00",
           "departure_time": "07:05:00",
           "lat": 51.1089984,
@@ -10844,7 +10871,7 @@
       ]
     },
     {
-      "trip_id": "6_17619096",
+      "trip_id": "6_17637771",
       "direction_id": "1",
       "headsign": "OPATOWICE",
       "service_id": "6",
@@ -10852,7 +10879,7 @@
         {
           "stop_sequence": 0,
           "stop_id": "5926",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 09",
           "arrival_time": "09:55:00",
           "departure_time": "09:55:00",
           "lat": 51.1089984,
@@ -10942,7 +10969,7 @@
       ]
     },
     {
-      "trip_id": "6_17619097",
+      "trip_id": "6_17637772",
       "direction_id": "0",
       "headsign": "GALERIA DOMINIKAŃSKA",
       "service_id": "6",
@@ -11031,7 +11058,7 @@
         {
           "stop_sequence": 9,
           "stop_id": "5926",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 09",
           "arrival_time": "11:51:00",
           "departure_time": "11:51:00",
           "lat": 51.1089984,
@@ -11040,7 +11067,7 @@
       ]
     },
     {
-      "trip_id": "6_17619098",
+      "trip_id": "6_17637773",
       "direction_id": "1",
       "headsign": "OPATOWICE",
       "service_id": "6",
@@ -11048,7 +11075,7 @@
         {
           "stop_sequence": 0,
           "stop_id": "5926",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 09",
           "arrival_time": "12:00:00",
           "departure_time": "12:00:00",
           "lat": 51.1089984,
@@ -11138,7 +11165,7 @@
       ]
     },
     {
-      "trip_id": "6_17619099",
+      "trip_id": "6_17637774",
       "direction_id": "0",
       "headsign": "GALERIA DOMINIKAŃSKA",
       "service_id": "6",
@@ -11227,7 +11254,7 @@
         {
           "stop_sequence": 9,
           "stop_id": "5926",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 09",
           "arrival_time": "13:14:00",
           "departure_time": "13:14:00",
           "lat": 51.1089984,
@@ -11236,7 +11263,7 @@
       ]
     },
     {
-      "trip_id": "6_17619100",
+      "trip_id": "6_17637775",
       "direction_id": "0",
       "headsign": "GALERIA DOMINIKAŃSKA",
       "service_id": "6",
@@ -11325,7 +11352,7 @@
         {
           "stop_sequence": 9,
           "stop_id": "5926",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 09",
           "arrival_time": "14:11:00",
           "departure_time": "14:11:00",
           "lat": 51.1089984,
@@ -11334,7 +11361,7 @@
       ]
     },
     {
-      "trip_id": "6_17619105",
+      "trip_id": "6_17637780",
       "direction_id": "1",
       "headsign": "Wojnowice - pętla",
       "service_id": "6",
@@ -11342,7 +11369,7 @@
         {
           "stop_sequence": 0,
           "stop_id": "5926",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 09",
           "arrival_time": "17:20:00",
           "departure_time": "17:20:00",
           "lat": 51.1089984,
@@ -11612,7 +11639,7 @@
       ]
     },
     {
-      "trip_id": "6_17619106",
+      "trip_id": "6_17637781",
       "direction_id": "0",
       "headsign": "GALERIA DOMINIKAŃSKA",
       "service_id": "6",
@@ -11881,7 +11908,7 @@
         {
           "stop_sequence": 29,
           "stop_id": "5926",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 09",
           "arrival_time": "19:15:00",
           "departure_time": "19:15:00",
           "lat": 51.1089984,
@@ -11890,7 +11917,7 @@
       ]
     },
     {
-      "trip_id": "6_17619107",
+      "trip_id": "6_17637782",
       "direction_id": "1",
       "headsign": "Wojnowice - pętla",
       "service_id": "6",
@@ -11898,7 +11925,7 @@
         {
           "stop_sequence": 0,
           "stop_id": "5926",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 09",
           "arrival_time": "19:20:00",
           "departure_time": "19:20:00",
           "lat": 51.1089984,
@@ -12168,7 +12195,7 @@
       ]
     },
     {
-      "trip_id": "6_17619108",
+      "trip_id": "6_17637783",
       "direction_id": "0",
       "headsign": "GALERIA DOMINIKAŃSKA",
       "service_id": "6",
@@ -12437,7 +12464,7 @@
         {
           "stop_sequence": 29,
           "stop_id": "5926",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 09",
           "arrival_time": "21:13:00",
           "departure_time": "21:13:00",
           "lat": 51.1089984,
@@ -12446,7 +12473,7 @@
       ]
     },
     {
-      "trip_id": "6_17619109",
+      "trip_id": "6_17637784",
       "direction_id": "1",
       "headsign": "Wojnowice - pętla",
       "service_id": "6",
@@ -12454,7 +12481,7 @@
         {
           "stop_sequence": 0,
           "stop_id": "5926",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 09",
           "arrival_time": "21:20:00",
           "departure_time": "21:20:00",
           "lat": 51.1089984,
@@ -12724,7 +12751,7 @@
       ]
     },
     {
-      "trip_id": "6_17619642",
+      "trip_id": "6_17638317",
       "direction_id": "1",
       "headsign": "Wojnowice - pętla",
       "service_id": "6",
@@ -12732,7 +12759,7 @@
         {
           "stop_sequence": 0,
           "stop_id": "5926",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 09",
           "arrival_time": "11:05:00",
           "departure_time": "11:05:00",
           "lat": 51.1089984,
@@ -13002,7 +13029,7 @@
       ]
     },
     {
-      "trip_id": "6_17619643",
+      "trip_id": "6_17638318",
       "direction_id": "0",
       "headsign": "GALERIA DOMINIKAŃSKA",
       "service_id": "6",
@@ -13271,7 +13298,7 @@
         {
           "stop_sequence": 29,
           "stop_id": "5926",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 09",
           "arrival_time": "12:51:00",
           "departure_time": "12:51:00",
           "lat": 51.1089984,
@@ -13280,7 +13307,7 @@
       ]
     },
     {
-      "trip_id": "6_17619661",
+      "trip_id": "6_17638336",
       "direction_id": "1",
       "headsign": "Wojnowice - pętla",
       "service_id": "6",
@@ -13288,7 +13315,7 @@
         {
           "stop_sequence": 0,
           "stop_id": "5926",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 09",
           "arrival_time": "08:00:00",
           "departure_time": "08:00:00",
           "lat": 51.1089984,
@@ -13558,7 +13585,7 @@
       ]
     },
     {
-      "trip_id": "6_17619662",
+      "trip_id": "6_17638337",
       "direction_id": "0",
       "headsign": "GALERIA DOMINIKAŃSKA",
       "service_id": "6",
@@ -13827,7 +13854,7 @@
         {
           "stop_sequence": 29,
           "stop_id": "5926",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 09",
           "arrival_time": "09:51:00",
           "departure_time": "09:51:00",
           "lat": 51.1089984,
@@ -13836,7 +13863,7 @@
       ]
     },
     {
-      "trip_id": "6_17619667",
+      "trip_id": "6_17638342",
       "direction_id": "1",
       "headsign": "Wojnowice - pętla",
       "service_id": "6",
@@ -13844,7 +13871,7 @@
         {
           "stop_sequence": 0,
           "stop_id": "5926",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 09",
           "arrival_time": "14:05:00",
           "departure_time": "14:05:00",
           "lat": 51.1089984,
@@ -14114,7 +14141,7 @@
       ]
     },
     {
-      "trip_id": "6_17619668",
+      "trip_id": "6_17638343",
       "direction_id": "0",
       "headsign": "GALERIA DOMINIKAŃSKA",
       "service_id": "6",
@@ -14383,7 +14410,7 @@
         {
           "stop_sequence": 29,
           "stop_id": "5926",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 09",
           "arrival_time": "16:11:00",
           "departure_time": "16:11:00",
           "lat": 51.1089984,
@@ -14392,7 +14419,7 @@
       ]
     },
     {
-      "trip_id": "6_17619669",
+      "trip_id": "6_17638344",
       "direction_id": "1",
       "headsign": "Wojnowice - pętla",
       "service_id": "6",
@@ -14400,7 +14427,7 @@
         {
           "stop_sequence": 0,
           "stop_id": "5926",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 09",
           "arrival_time": "16:20:00",
           "departure_time": "16:20:00",
           "lat": 51.1089984,
@@ -14670,7 +14697,7 @@
       ]
     },
     {
-      "trip_id": "6_17619670",
+      "trip_id": "6_17638345",
       "direction_id": "0",
       "headsign": "GALERIA DOMINIKAŃSKA",
       "service_id": "6",
@@ -14939,7 +14966,7 @@
         {
           "stop_sequence": 29,
           "stop_id": "5926",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 09",
           "arrival_time": "18:20:00",
           "departure_time": "18:20:00",
           "lat": 51.1089984,
@@ -14948,7 +14975,7 @@
       ]
     },
     {
-      "trip_id": "6_17619671",
+      "trip_id": "6_17638346",
       "direction_id": "1",
       "headsign": "Wojnowice - pętla",
       "service_id": "6",
@@ -14956,7 +14983,7 @@
         {
           "stop_sequence": 0,
           "stop_id": "5926",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 09",
           "arrival_time": "18:25:00",
           "departure_time": "18:25:00",
           "lat": 51.1089984,
@@ -15226,7 +15253,7 @@
       ]
     },
     {
-      "trip_id": "6_17619672",
+      "trip_id": "6_17638347",
       "direction_id": "0",
       "headsign": "GALERIA DOMINIKAŃSKA",
       "service_id": "6",
@@ -15495,7 +15522,7 @@
         {
           "stop_sequence": 29,
           "stop_id": "5926",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 09",
           "arrival_time": "20:13:00",
           "departure_time": "20:13:00",
           "lat": 51.1089984,
@@ -15504,7 +15531,7 @@
       ]
     },
     {
-      "trip_id": "6_17620092",
+      "trip_id": "6_17638767",
       "direction_id": "0",
       "headsign": "GALERIA DOMINIKAŃSKA",
       "service_id": "6",
@@ -15773,7 +15800,7 @@
         {
           "stop_sequence": 29,
           "stop_id": "5926",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 09",
           "arrival_time": "06:30:00",
           "departure_time": "06:30:00",
           "lat": 51.1089984,
@@ -15782,7 +15809,7 @@
       ]
     },
     {
-      "trip_id": "6_17620093",
+      "trip_id": "6_17638768",
       "direction_id": "1",
       "headsign": "Wojnowice - pętla",
       "service_id": "6",
@@ -15790,7 +15817,7 @@
         {
           "stop_sequence": 0,
           "stop_id": "5926",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 09",
           "arrival_time": "06:50:00",
           "departure_time": "06:50:00",
           "lat": 51.1089984,
@@ -16060,7 +16087,7 @@
       ]
     },
     {
-      "trip_id": "6_17620094",
+      "trip_id": "6_17638769",
       "direction_id": "0",
       "headsign": "GALERIA DOMINIKAŃSKA",
       "service_id": "6",
@@ -16329,7 +16356,7 @@
         {
           "stop_sequence": 29,
           "stop_id": "5926",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 09",
           "arrival_time": "08:46:00",
           "departure_time": "08:46:00",
           "lat": 51.1089984,
@@ -16338,7 +16365,7 @@
       ]
     },
     {
-      "trip_id": "6_17620095",
+      "trip_id": "6_17638770",
       "direction_id": "1",
       "headsign": "OPATOWICE",
       "service_id": "6",
@@ -16346,7 +16373,7 @@
         {
           "stop_sequence": 0,
           "stop_id": "5926",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 09",
           "arrival_time": "09:00:00",
           "departure_time": "09:00:00",
           "lat": 51.1089984,
@@ -16436,7 +16463,7 @@
       ]
     },
     {
-      "trip_id": "6_17620096",
+      "trip_id": "6_17638771",
       "direction_id": "0",
       "headsign": "GALERIA DOMINIKAŃSKA",
       "service_id": "6",
@@ -16525,7 +16552,7 @@
         {
           "stop_sequence": 9,
           "stop_id": "5926",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 09",
           "arrival_time": "10:51:00",
           "departure_time": "10:51:00",
           "lat": 51.1089984,
@@ -16534,7 +16561,7 @@
       ]
     },
     {
-      "trip_id": "6_17620099",
+      "trip_id": "6_17638774",
       "direction_id": "1",
       "headsign": "Wojnowice - pętla",
       "service_id": "6",
@@ -16542,7 +16569,7 @@
         {
           "stop_sequence": 0,
           "stop_id": "5926",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 09",
           "arrival_time": "13:05:00",
           "departure_time": "13:05:00",
           "lat": 51.1089984,
@@ -16812,7 +16839,7 @@
       ]
     },
     {
-      "trip_id": "6_17620100",
+      "trip_id": "6_17638775",
       "direction_id": "0",
       "headsign": "GALERIA DOMINIKAŃSKA",
       "service_id": "6",
@@ -17081,7 +17108,7 @@
         {
           "stop_sequence": 29,
           "stop_id": "5926",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 09",
           "arrival_time": "15:11:00",
           "departure_time": "15:11:00",
           "lat": 51.1089984,
@@ -17090,7 +17117,7 @@
       ]
     },
     {
-      "trip_id": "6_17620101",
+      "trip_id": "6_17638776",
       "direction_id": "1",
       "headsign": "Wojnowice - pętla",
       "service_id": "6",
@@ -17098,7 +17125,7 @@
         {
           "stop_sequence": 0,
           "stop_id": "5926",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 09",
           "arrival_time": "15:25:00",
           "departure_time": "15:25:00",
           "lat": 51.1089984,
@@ -17368,7 +17395,7 @@
       ]
     },
     {
-      "trip_id": "6_17620102",
+      "trip_id": "6_17638777",
       "direction_id": "0",
       "headsign": "GALERIA DOMINIKAŃSKA",
       "service_id": "6",
@@ -17637,7 +17664,7 @@
         {
           "stop_sequence": 29,
           "stop_id": "5926",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 09",
           "arrival_time": "17:25:00",
           "departure_time": "17:25:00",
           "lat": 51.1089984,
@@ -17646,7 +17673,7 @@
       ]
     },
     {
-      "trip_id": "8_17620137",
+      "trip_id": "8_17638812",
       "direction_id": "0",
       "headsign": "GALERIA DOMINIKAŃSKA",
       "service_id": "8",
@@ -17655,8 +17682,8 @@
           "stop_sequence": 0,
           "stop_id": "4929",
           "stop_name": "Wojnowice - pętla",
-          "arrival_time": "06:11:00",
-          "departure_time": "06:11:00",
+          "arrival_time": "06:06:00",
+          "departure_time": "06:06:00",
           "lat": 51.062709,
           "lon": 17.262826
         },
@@ -17664,8 +17691,8 @@
           "stop_sequence": 1,
           "stop_id": "5735",
           "stop_name": "Wojnowice - Główna I",
-          "arrival_time": "06:13:00",
-          "departure_time": "06:13:00",
+          "arrival_time": "06:08:00",
+          "departure_time": "06:08:00",
           "lat": 51.06336105,
           "lon": 17.25191263
         },
@@ -17673,8 +17700,8 @@
           "stop_sequence": 2,
           "stop_id": "4976",
           "stop_name": "Wojnowice - Tymiankowa",
-          "arrival_time": "06:14:00",
-          "departure_time": "06:14:00",
+          "arrival_time": "06:09:00",
+          "departure_time": "06:09:00",
           "lat": 51.0645,
           "lon": 17.2443
         },
@@ -17682,8 +17709,8 @@
           "stop_sequence": 3,
           "stop_id": "4978",
           "stop_name": "Jeszkowice - Zielonego Dębu",
-          "arrival_time": "06:16:00",
-          "departure_time": "06:16:00",
+          "arrival_time": "06:11:00",
+          "departure_time": "06:11:00",
           "lat": 51.0656981,
           "lon": 17.22986063
         },
@@ -17691,8 +17718,8 @@
           "stop_sequence": 4,
           "stop_id": "4979",
           "stop_name": "Jeszkowice - pętla",
-          "arrival_time": "06:17:00",
-          "departure_time": "06:17:00",
+          "arrival_time": "06:12:00",
+          "departure_time": "06:12:00",
           "lat": 51.066123,
           "lon": 17.22524576
         },
@@ -17700,8 +17727,8 @@
           "stop_sequence": 5,
           "stop_id": "4981",
           "stop_name": "Jeszkowice - Główna/Słoneczna",
-          "arrival_time": "06:18:00",
-          "departure_time": "06:18:00",
+          "arrival_time": "06:13:00",
+          "departure_time": "06:13:00",
           "lat": 51.06111933,
           "lon": 17.22406591
         },
@@ -17709,8 +17736,8 @@
           "stop_sequence": 6,
           "stop_id": "5726",
           "stop_name": "Jeszkowice - Główna/świetlica",
-          "arrival_time": "06:19:00",
-          "departure_time": "06:19:00",
+          "arrival_time": "06:14:00",
+          "departure_time": "06:14:00",
           "lat": 51.05611961,
           "lon": 17.22315811
         },
@@ -17718,8 +17745,8 @@
           "stop_sequence": 7,
           "stop_id": "5822",
           "stop_name": "Jeszkowice - Jelczańska/Wrocławska",
-          "arrival_time": "06:22:00",
-          "departure_time": "06:22:00",
+          "arrival_time": "06:17:00",
+          "departure_time": "06:17:00",
           "lat": 51.05494817,
           "lon": 17.21172475
         },
@@ -17727,8 +17754,8 @@
           "stop_sequence": 8,
           "stop_id": "5831",
           "stop_name": "Gajków - Polna skrzyż.",
-          "arrival_time": "06:23:00",
-          "departure_time": "06:23:00",
+          "arrival_time": "06:18:00",
+          "departure_time": "06:18:00",
           "lat": 51.05931509,
           "lon": 17.20531807
         },
@@ -17736,8 +17763,8 @@
           "stop_sequence": 9,
           "stop_id": "4969",
           "stop_name": "Gajków - Lipowa",
-          "arrival_time": "06:25:00",
-          "departure_time": "06:25:00",
+          "arrival_time": "06:20:00",
+          "departure_time": "06:20:00",
           "lat": 51.06560627,
           "lon": 17.19306052
         },
@@ -17745,8 +17772,8 @@
           "stop_sequence": 10,
           "stop_id": "4989",
           "stop_name": "Kamieniec Wrocławski - Wrocławska/Boczna",
-          "arrival_time": "06:26:00",
-          "departure_time": "06:26:00",
+          "arrival_time": "06:21:00",
+          "departure_time": "06:21:00",
           "lat": 51.06869845,
           "lon": 17.18645966
         },
@@ -17754,8 +17781,8 @@
           "stop_sequence": 11,
           "stop_id": "4442",
           "stop_name": "Kamieniec Wrocławski - Wrocławska/Szkolna",
-          "arrival_time": "06:27:00",
-          "departure_time": "06:27:00",
+          "arrival_time": "06:22:00",
+          "departure_time": "06:22:00",
           "lat": 51.07227287,
           "lon": 17.17921591
         },
@@ -17763,22 +17790,49 @@
           "stop_sequence": 12,
           "stop_id": "4437",
           "stop_name": "Kamieniec Wrocławski - Wrocławska/Kolejowa",
-          "arrival_time": "06:29:00",
-          "departure_time": "06:29:00",
+          "arrival_time": "06:24:00",
+          "departure_time": "06:24:00",
           "lat": 51.07585244,
           "lon": 17.17270677
         },
         {
           "stop_sequence": 13,
-          "stop_id": "4918",
-          "stop_name": "Kamieniec Wrocławski - Łany",
-          "arrival_time": "06:31:00",
-          "departure_time": "06:31:00",
-          "lat": 51.08102099,
-          "lon": 17.17008927
+          "stop_id": "4968",
+          "stop_name": "Kamieniec Wrocławski - szkoła",
+          "arrival_time": "06:25:00",
+          "departure_time": "06:25:00",
+          "lat": 51.07773614,
+          "lon": 17.17307468
         },
         {
           "stop_sequence": 14,
+          "stop_id": "4942",
+          "stop_name": "Dobrzykowice - przejazd",
+          "arrival_time": "06:28:00",
+          "departure_time": "06:28:00",
+          "lat": 51.087242,
+          "lon": 17.182781
+        },
+        {
+          "stop_sequence": 15,
+          "stop_id": "4966",
+          "stop_name": "Dobrzykowice - Sukcesu",
+          "arrival_time": "06:29:00",
+          "departure_time": "06:29:00",
+          "lat": 51.08950292,
+          "lon": 17.18538291
+        },
+        {
+          "stop_sequence": 16,
+          "stop_id": "4919",
+          "stop_name": "Dobrzykowice - Boczna",
+          "arrival_time": "06:31:00",
+          "departure_time": "06:31:00",
+          "lat": 51.09352198,
+          "lon": 17.18959113
+        },
+        {
+          "stop_sequence": 17,
           "stop_id": "3370",
           "stop_name": "BLIZANOWICE",
           "arrival_time": "06:38:00",
@@ -17787,7 +17841,7 @@
           "lon": 17.15723419
         },
         {
-          "stop_sequence": 15,
+          "stop_sequence": 18,
           "stop_id": "3272",
           "stop_name": "TRESTNO (pętla)",
           "arrival_time": "06:40:00",
@@ -17796,7 +17850,7 @@
           "lon": 17.14536285
         },
         {
-          "stop_sequence": 16,
+          "stop_sequence": 19,
           "stop_id": "4268",
           "stop_name": "Trestno - kościół",
           "arrival_time": "06:41:00",
@@ -17805,7 +17859,7 @@
           "lon": 17.145117
         },
         {
-          "stop_sequence": 17,
+          "stop_sequence": 20,
           "stop_id": "4264",
           "stop_name": "Trestno - świetlica",
           "arrival_time": "06:42:00",
@@ -17814,7 +17868,7 @@
           "lon": 17.145895
         },
         {
-          "stop_sequence": 18,
+          "stop_sequence": 21,
           "stop_id": "1762",
           "stop_name": "Zalewowa",
           "arrival_time": "06:43:00",
@@ -17823,7 +17877,7 @@
           "lon": 17.13457316
         },
         {
-          "stop_sequence": 19,
+          "stop_sequence": 22,
           "stop_id": "1971",
           "stop_name": "Opatowicka nr 127",
           "arrival_time": "06:44:00",
@@ -17832,7 +17886,7 @@
           "lon": 17.13294217
         },
         {
-          "stop_sequence": 20,
+          "stop_sequence": 23,
           "stop_id": "539",
           "stop_name": "OPATOWICE",
           "arrival_time": "06:45:00",
@@ -17841,7 +17895,7 @@
           "lon": 17.12958335
         },
         {
-          "stop_sequence": 21,
+          "stop_sequence": 24,
           "stop_id": "531",
           "stop_name": "Opatowicka nr 85",
           "arrival_time": "06:46:00",
@@ -17850,7 +17904,7 @@
           "lon": 17.12316494
         },
         {
-          "stop_sequence": 22,
+          "stop_sequence": 25,
           "stop_id": "4050",
           "stop_name": "Opatowicka nr 59",
           "arrival_time": "06:47:00",
@@ -17859,7 +17913,7 @@
           "lon": 17.11643035
         },
         {
-          "stop_sequence": 23,
+          "stop_sequence": 26,
           "stop_id": "534",
           "stop_name": "Nowy Dom",
           "arrival_time": "06:48:00",
@@ -17868,7 +17922,7 @@
           "lon": 17.10706553
         },
         {
-          "stop_sequence": 24,
+          "stop_sequence": 27,
           "stop_id": "537",
           "stop_name": "Bierdzany",
           "arrival_time": "06:50:00",
@@ -17877,7 +17931,7 @@
           "lon": 17.09129425
         },
         {
-          "stop_sequence": 25,
+          "stop_sequence": 28,
           "stop_id": "533",
           "stop_name": "Międzyrzecka",
           "arrival_time": "06:52:00",
@@ -17886,7 +17940,7 @@
           "lon": 17.08073914
         },
         {
-          "stop_sequence": 26,
+          "stop_sequence": 29,
           "stop_id": "4665",
           "stop_name": "Okólna",
           "arrival_time": "06:55:00",
@@ -17895,7 +17949,7 @@
           "lon": 17.06733648
         },
         {
-          "stop_sequence": 27,
+          "stop_sequence": 30,
           "stop_id": "4664",
           "stop_name": "Na Grobli (Hydropolis)",
           "arrival_time": "06:57:00",
@@ -17904,7 +17958,7 @@
           "lon": 17.05519721
         },
         {
-          "stop_sequence": 28,
+          "stop_sequence": 31,
           "stop_id": "5862",
           "stop_name": "Pl. Wróblewskiego",
           "arrival_time": "07:00:00",
@@ -17913,9 +17967,9 @@
           "lon": 17.04676748
         },
         {
-          "stop_sequence": 29,
+          "stop_sequence": 32,
           "stop_id": "5926",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 09",
           "arrival_time": "07:05:00",
           "departure_time": "07:05:00",
           "lat": 51.1089984,
@@ -17924,7 +17978,7 @@
       ]
     },
     {
-      "trip_id": "8_17620142",
+      "trip_id": "8_17638817",
       "direction_id": "1",
       "headsign": "OPATOWICE",
       "service_id": "8",
@@ -17932,7 +17986,7 @@
         {
           "stop_sequence": 0,
           "stop_id": "5926",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 09",
           "arrival_time": "09:55:00",
           "departure_time": "09:55:00",
           "lat": 51.1089984,
@@ -18022,7 +18076,7 @@
       ]
     },
     {
-      "trip_id": "8_17620143",
+      "trip_id": "8_17638818",
       "direction_id": "0",
       "headsign": "GALERIA DOMINIKAŃSKA",
       "service_id": "8",
@@ -18111,7 +18165,7 @@
         {
           "stop_sequence": 9,
           "stop_id": "5926",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 09",
           "arrival_time": "11:51:00",
           "departure_time": "11:51:00",
           "lat": 51.1089984,
@@ -18120,7 +18174,7 @@
       ]
     },
     {
-      "trip_id": "8_17620144",
+      "trip_id": "8_17638819",
       "direction_id": "1",
       "headsign": "OPATOWICE",
       "service_id": "8",
@@ -18128,7 +18182,7 @@
         {
           "stop_sequence": 0,
           "stop_id": "5926",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 09",
           "arrival_time": "12:00:00",
           "departure_time": "12:00:00",
           "lat": 51.1089984,
@@ -18218,7 +18272,7 @@
       ]
     },
     {
-      "trip_id": "8_17620145",
+      "trip_id": "8_17638820",
       "direction_id": "0",
       "headsign": "GALERIA DOMINIKAŃSKA",
       "service_id": "8",
@@ -18307,7 +18361,7 @@
         {
           "stop_sequence": 9,
           "stop_id": "5926",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 09",
           "arrival_time": "13:14:00",
           "departure_time": "13:14:00",
           "lat": 51.1089984,
@@ -18316,7 +18370,7 @@
       ]
     },
     {
-      "trip_id": "8_17620146",
+      "trip_id": "8_17638821",
       "direction_id": "0",
       "headsign": "GALERIA DOMINIKAŃSKA",
       "service_id": "8",
@@ -18405,7 +18459,7 @@
         {
           "stop_sequence": 9,
           "stop_id": "5926",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 09",
           "arrival_time": "14:11:00",
           "departure_time": "14:11:00",
           "lat": 51.1089984,
@@ -18414,7 +18468,7 @@
       ]
     },
     {
-      "trip_id": "8_17620151",
+      "trip_id": "8_17638826",
       "direction_id": "1",
       "headsign": "Wojnowice - pętla",
       "service_id": "8",
@@ -18422,7 +18476,7 @@
         {
           "stop_sequence": 0,
           "stop_id": "5926",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 09",
           "arrival_time": "17:20:00",
           "departure_time": "17:20:00",
           "lat": 51.1089984,
@@ -18692,7 +18746,7 @@
       ]
     },
     {
-      "trip_id": "8_17620152",
+      "trip_id": "8_17638827",
       "direction_id": "0",
       "headsign": "GALERIA DOMINIKAŃSKA",
       "service_id": "8",
@@ -18961,7 +19015,7 @@
         {
           "stop_sequence": 29,
           "stop_id": "5926",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 09",
           "arrival_time": "19:15:00",
           "departure_time": "19:15:00",
           "lat": 51.1089984,
@@ -18970,7 +19024,7 @@
       ]
     },
     {
-      "trip_id": "8_17620153",
+      "trip_id": "8_17638828",
       "direction_id": "1",
       "headsign": "Wojnowice - pętla",
       "service_id": "8",
@@ -18978,7 +19032,7 @@
         {
           "stop_sequence": 0,
           "stop_id": "5926",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 09",
           "arrival_time": "19:20:00",
           "departure_time": "19:20:00",
           "lat": 51.1089984,
@@ -19248,7 +19302,7 @@
       ]
     },
     {
-      "trip_id": "8_17620154",
+      "trip_id": "8_17638829",
       "direction_id": "0",
       "headsign": "GALERIA DOMINIKAŃSKA",
       "service_id": "8",
@@ -19517,7 +19571,7 @@
         {
           "stop_sequence": 29,
           "stop_id": "5926",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 09",
           "arrival_time": "21:13:00",
           "departure_time": "21:13:00",
           "lat": 51.1089984,
@@ -19526,7 +19580,7 @@
       ]
     },
     {
-      "trip_id": "8_17620155",
+      "trip_id": "8_17638830",
       "direction_id": "1",
       "headsign": "Wojnowice - pętla",
       "service_id": "8",
@@ -19534,7 +19588,7 @@
         {
           "stop_sequence": 0,
           "stop_id": "5926",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 09",
           "arrival_time": "21:20:00",
           "departure_time": "21:20:00",
           "lat": 51.1089984,
@@ -19804,7 +19858,7 @@
       ]
     },
     {
-      "trip_id": "8_17620688",
+      "trip_id": "8_17639363",
       "direction_id": "1",
       "headsign": "Wojnowice - pętla",
       "service_id": "8",
@@ -19812,7 +19866,7 @@
         {
           "stop_sequence": 0,
           "stop_id": "5926",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 09",
           "arrival_time": "11:05:00",
           "departure_time": "11:05:00",
           "lat": 51.1089984,
@@ -20082,7 +20136,7 @@
       ]
     },
     {
-      "trip_id": "8_17620689",
+      "trip_id": "8_17639364",
       "direction_id": "0",
       "headsign": "GALERIA DOMINIKAŃSKA",
       "service_id": "8",
@@ -20351,7 +20405,7 @@
         {
           "stop_sequence": 29,
           "stop_id": "5926",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 09",
           "arrival_time": "12:51:00",
           "departure_time": "12:51:00",
           "lat": 51.1089984,
@@ -20360,7 +20414,7 @@
       ]
     },
     {
-      "trip_id": "8_17620707",
+      "trip_id": "8_17639382",
       "direction_id": "1",
       "headsign": "Wojnowice - pętla",
       "service_id": "8",
@@ -20368,7 +20422,7 @@
         {
           "stop_sequence": 0,
           "stop_id": "5926",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 09",
           "arrival_time": "08:00:00",
           "departure_time": "08:00:00",
           "lat": 51.1089984,
@@ -20638,7 +20692,7 @@
       ]
     },
     {
-      "trip_id": "8_17620708",
+      "trip_id": "8_17639383",
       "direction_id": "0",
       "headsign": "GALERIA DOMINIKAŃSKA",
       "service_id": "8",
@@ -20907,7 +20961,7 @@
         {
           "stop_sequence": 29,
           "stop_id": "5926",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 09",
           "arrival_time": "09:51:00",
           "departure_time": "09:51:00",
           "lat": 51.1089984,
@@ -20916,7 +20970,7 @@
       ]
     },
     {
-      "trip_id": "8_17620713",
+      "trip_id": "8_17639388",
       "direction_id": "1",
       "headsign": "Wojnowice - pętla",
       "service_id": "8",
@@ -20924,7 +20978,7 @@
         {
           "stop_sequence": 0,
           "stop_id": "5926",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 09",
           "arrival_time": "14:05:00",
           "departure_time": "14:05:00",
           "lat": 51.1089984,
@@ -21194,7 +21248,7 @@
       ]
     },
     {
-      "trip_id": "8_17620714",
+      "trip_id": "8_17639389",
       "direction_id": "0",
       "headsign": "GALERIA DOMINIKAŃSKA",
       "service_id": "8",
@@ -21463,7 +21517,7 @@
         {
           "stop_sequence": 29,
           "stop_id": "5926",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 09",
           "arrival_time": "16:11:00",
           "departure_time": "16:11:00",
           "lat": 51.1089984,
@@ -21472,7 +21526,7 @@
       ]
     },
     {
-      "trip_id": "8_17620715",
+      "trip_id": "8_17639390",
       "direction_id": "1",
       "headsign": "Wojnowice - pętla",
       "service_id": "8",
@@ -21480,7 +21534,7 @@
         {
           "stop_sequence": 0,
           "stop_id": "5926",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 09",
           "arrival_time": "16:20:00",
           "departure_time": "16:20:00",
           "lat": 51.1089984,
@@ -21750,7 +21804,7 @@
       ]
     },
     {
-      "trip_id": "8_17620716",
+      "trip_id": "8_17639391",
       "direction_id": "0",
       "headsign": "GALERIA DOMINIKAŃSKA",
       "service_id": "8",
@@ -22019,7 +22073,7 @@
         {
           "stop_sequence": 29,
           "stop_id": "5926",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 09",
           "arrival_time": "18:20:00",
           "departure_time": "18:20:00",
           "lat": 51.1089984,
@@ -22028,7 +22082,7 @@
       ]
     },
     {
-      "trip_id": "8_17620717",
+      "trip_id": "8_17639392",
       "direction_id": "1",
       "headsign": "Wojnowice - pętla",
       "service_id": "8",
@@ -22036,7 +22090,7 @@
         {
           "stop_sequence": 0,
           "stop_id": "5926",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 09",
           "arrival_time": "18:25:00",
           "departure_time": "18:25:00",
           "lat": 51.1089984,
@@ -22306,7 +22360,7 @@
       ]
     },
     {
-      "trip_id": "8_17620718",
+      "trip_id": "8_17639393",
       "direction_id": "0",
       "headsign": "GALERIA DOMINIKAŃSKA",
       "service_id": "8",
@@ -22575,7 +22629,7 @@
         {
           "stop_sequence": 29,
           "stop_id": "5926",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 09",
           "arrival_time": "20:13:00",
           "departure_time": "20:13:00",
           "lat": 51.1089984,
@@ -22584,7 +22638,7 @@
       ]
     },
     {
-      "trip_id": "8_17621138",
+      "trip_id": "8_17639813",
       "direction_id": "0",
       "headsign": "GALERIA DOMINIKAŃSKA",
       "service_id": "8",
@@ -22853,7 +22907,7 @@
         {
           "stop_sequence": 29,
           "stop_id": "5926",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 09",
           "arrival_time": "06:30:00",
           "departure_time": "06:30:00",
           "lat": 51.1089984,
@@ -22862,7 +22916,7 @@
       ]
     },
     {
-      "trip_id": "8_17621139",
+      "trip_id": "8_17639814",
       "direction_id": "1",
       "headsign": "Wojnowice - pętla",
       "service_id": "8",
@@ -22870,7 +22924,7 @@
         {
           "stop_sequence": 0,
           "stop_id": "5926",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 09",
           "arrival_time": "06:50:00",
           "departure_time": "06:50:00",
           "lat": 51.1089984,
@@ -23140,7 +23194,7 @@
       ]
     },
     {
-      "trip_id": "8_17621140",
+      "trip_id": "8_17639815",
       "direction_id": "0",
       "headsign": "GALERIA DOMINIKAŃSKA",
       "service_id": "8",
@@ -23409,7 +23463,7 @@
         {
           "stop_sequence": 29,
           "stop_id": "5926",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 09",
           "arrival_time": "08:46:00",
           "departure_time": "08:46:00",
           "lat": 51.1089984,
@@ -23418,7 +23472,7 @@
       ]
     },
     {
-      "trip_id": "8_17621141",
+      "trip_id": "8_17639816",
       "direction_id": "1",
       "headsign": "OPATOWICE",
       "service_id": "8",
@@ -23426,7 +23480,7 @@
         {
           "stop_sequence": 0,
           "stop_id": "5926",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 09",
           "arrival_time": "09:00:00",
           "departure_time": "09:00:00",
           "lat": 51.1089984,
@@ -23516,7 +23570,7 @@
       ]
     },
     {
-      "trip_id": "8_17621142",
+      "trip_id": "8_17639817",
       "direction_id": "0",
       "headsign": "GALERIA DOMINIKAŃSKA",
       "service_id": "8",
@@ -23605,7 +23659,7 @@
         {
           "stop_sequence": 9,
           "stop_id": "5926",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 09",
           "arrival_time": "10:51:00",
           "departure_time": "10:51:00",
           "lat": 51.1089984,
@@ -23614,7 +23668,7 @@
       ]
     },
     {
-      "trip_id": "8_17621145",
+      "trip_id": "8_17639820",
       "direction_id": "1",
       "headsign": "Wojnowice - pętla",
       "service_id": "8",
@@ -23622,7 +23676,7 @@
         {
           "stop_sequence": 0,
           "stop_id": "5926",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 09",
           "arrival_time": "13:05:00",
           "departure_time": "13:05:00",
           "lat": 51.1089984,
@@ -23892,7 +23946,7 @@
       ]
     },
     {
-      "trip_id": "8_17621146",
+      "trip_id": "8_17639821",
       "direction_id": "0",
       "headsign": "GALERIA DOMINIKAŃSKA",
       "service_id": "8",
@@ -24161,7 +24215,7 @@
         {
           "stop_sequence": 29,
           "stop_id": "5926",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 09",
           "arrival_time": "15:11:00",
           "departure_time": "15:11:00",
           "lat": 51.1089984,
@@ -24170,7 +24224,7 @@
       ]
     },
     {
-      "trip_id": "8_17621147",
+      "trip_id": "8_17639822",
       "direction_id": "1",
       "headsign": "Wojnowice - pętla",
       "service_id": "8",
@@ -24178,7 +24232,7 @@
         {
           "stop_sequence": 0,
           "stop_id": "5926",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 09",
           "arrival_time": "15:25:00",
           "departure_time": "15:25:00",
           "lat": 51.1089984,
@@ -24448,7 +24502,7 @@
       ]
     },
     {
-      "trip_id": "8_17621148",
+      "trip_id": "8_17639823",
       "direction_id": "0",
       "headsign": "GALERIA DOMINIKAŃSKA",
       "service_id": "8",
@@ -24717,7 +24771,7 @@
         {
           "stop_sequence": 29,
           "stop_id": "5926",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 09",
           "arrival_time": "17:25:00",
           "departure_time": "17:25:00",
           "lat": 51.1089984,

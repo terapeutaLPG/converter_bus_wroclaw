@@ -2,7 +2,7 @@
   "line": "116",
   "trips": [
     {
-      "trip_id": "3_17596560",
+      "trip_id": "3_17700573",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "3",
@@ -172,7 +172,7 @@
       ]
     },
     {
-      "trip_id": "3_17596561",
+      "trip_id": "3_17700574",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "3",
@@ -342,7 +342,7 @@
       ]
     },
     {
-      "trip_id": "3_17596562",
+      "trip_id": "3_17700575",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "3",
@@ -503,7 +503,7 @@
       ]
     },
     {
-      "trip_id": "3_17596565",
+      "trip_id": "3_17700578",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "3",
@@ -673,7 +673,7 @@
       ]
     },
     {
-      "trip_id": "3_17596566",
+      "trip_id": "3_17700579",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "3",
@@ -834,7 +834,7 @@
       ]
     },
     {
-      "trip_id": "3_17596569",
+      "trip_id": "3_17700582",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "3",
@@ -1004,7 +1004,7 @@
       ]
     },
     {
-      "trip_id": "3_17596570",
+      "trip_id": "3_17700583",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "3",
@@ -1165,7 +1165,7 @@
       ]
     },
     {
-      "trip_id": "3_17596573",
+      "trip_id": "3_17700586",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "3",
@@ -1335,7 +1335,7 @@
       ]
     },
     {
-      "trip_id": "3_17596574",
+      "trip_id": "3_17700587",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "3",
@@ -1496,7 +1496,7 @@
       ]
     },
     {
-      "trip_id": "3_17596577",
+      "trip_id": "3_17700590",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "3",
@@ -1666,7 +1666,7 @@
       ]
     },
     {
-      "trip_id": "3_17596578",
+      "trip_id": "3_17700591",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "3",
@@ -1827,7 +1827,7 @@
       ]
     },
     {
-      "trip_id": "3_17596579",
+      "trip_id": "3_17700592",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "3",
@@ -1997,7 +1997,7 @@
       ]
     },
     {
-      "trip_id": "3_17596580",
+      "trip_id": "3_17700593",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "3",
@@ -2158,7 +2158,7 @@
       ]
     },
     {
-      "trip_id": "3_17596581",
+      "trip_id": "3_17700594",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "3",
@@ -2328,7 +2328,7 @@
       ]
     },
     {
-      "trip_id": "3_17596584",
+      "trip_id": "3_17700597",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "3",
@@ -2498,7 +2498,7 @@
       ]
     },
     {
-      "trip_id": "3_17596585",
+      "trip_id": "3_17700598",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "3",
@@ -2668,7 +2668,7 @@
       ]
     },
     {
-      "trip_id": "3_17596586",
+      "trip_id": "3_17700599",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "3",
@@ -2829,7 +2829,7 @@
       ]
     },
     {
-      "trip_id": "3_17596589",
+      "trip_id": "3_17700602",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "3",
@@ -2999,7 +2999,7 @@
       ]
     },
     {
-      "trip_id": "3_17596590",
+      "trip_id": "3_17700603",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "3",
@@ -3160,7 +3160,7 @@
       ]
     },
     {
-      "trip_id": "3_17596593",
+      "trip_id": "3_17700606",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "3",
@@ -3330,7 +3330,7 @@
       ]
     },
     {
-      "trip_id": "3_17596594",
+      "trip_id": "3_17700607",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "3",
@@ -3491,7 +3491,7 @@
       ]
     },
     {
-      "trip_id": "3_17596597",
+      "trip_id": "3_17700610",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "3",
@@ -3661,7 +3661,7 @@
       ]
     },
     {
-      "trip_id": "3_17596598",
+      "trip_id": "3_17700611",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "3",
@@ -3822,7 +3822,7 @@
       ]
     },
     {
-      "trip_id": "3_17596601",
+      "trip_id": "3_17700614",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "3",
@@ -3992,7 +3992,7 @@
       ]
     },
     {
-      "trip_id": "3_17596602",
+      "trip_id": "3_17700615",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "3",
@@ -4153,7 +4153,7 @@
       ]
     },
     {
-      "trip_id": "3_17596603",
+      "trip_id": "3_17700616",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "3",
@@ -4323,7 +4323,7 @@
       ]
     },
     {
-      "trip_id": "3_17596604",
+      "trip_id": "3_17700617",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "3",
@@ -4484,7 +4484,7 @@
       ]
     },
     {
-      "trip_id": "3_17596605",
+      "trip_id": "3_17700618",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "3",
@@ -4645,7 +4645,7 @@
       ]
     },
     {
-      "trip_id": "3_17596606",
+      "trip_id": "3_17700619",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "3",
@@ -4815,7 +4815,7 @@
       ]
     },
     {
-      "trip_id": "3_17596607",
+      "trip_id": "3_17700620",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "3",
@@ -4985,7 +4985,7 @@
       ]
     },
     {
-      "trip_id": "3_17596608",
+      "trip_id": "3_17700621",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "3",
@@ -5146,7 +5146,7 @@
       ]
     },
     {
-      "trip_id": "3_17596611",
+      "trip_id": "3_17700624",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "3",
@@ -5316,7 +5316,7 @@
       ]
     },
     {
-      "trip_id": "3_17596612",
+      "trip_id": "3_17700625",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "3",
@@ -5477,7 +5477,7 @@
       ]
     },
     {
-      "trip_id": "3_17596615",
+      "trip_id": "3_17700628",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "3",
@@ -5647,7 +5647,7 @@
       ]
     },
     {
-      "trip_id": "3_17596616",
+      "trip_id": "3_17700629",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "3",
@@ -5808,7 +5808,7 @@
       ]
     },
     {
-      "trip_id": "3_17596619",
+      "trip_id": "3_17700632",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "3",
@@ -5978,7 +5978,7 @@
       ]
     },
     {
-      "trip_id": "3_17596620",
+      "trip_id": "3_17700633",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "3",
@@ -6139,7 +6139,7 @@
       ]
     },
     {
-      "trip_id": "3_17598924",
+      "trip_id": "3_17702937",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "3",
@@ -6273,7 +6273,7 @@
       ]
     },
     {
-      "trip_id": "3_17598925",
+      "trip_id": "3_17702938",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "3",
@@ -6434,7 +6434,7 @@
       ]
     },
     {
-      "trip_id": "3_17598926",
+      "trip_id": "3_17702939",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "3",
@@ -6604,7 +6604,7 @@
       ]
     },
     {
-      "trip_id": "3_17598927",
+      "trip_id": "3_17702940",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "3",
@@ -6765,7 +6765,7 @@
       ]
     },
     {
-      "trip_id": "3_17598928",
+      "trip_id": "3_17702941",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "3",
@@ -6944,7 +6944,7 @@
       ]
     },
     {
-      "trip_id": "3_17599372",
+      "trip_id": "3_17703385",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "3",
@@ -7114,7 +7114,7 @@
       ]
     },
     {
-      "trip_id": "3_17599373",
+      "trip_id": "3_17703386",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "3",
@@ -7275,7 +7275,7 @@
       ]
     },
     {
-      "trip_id": "3_17599376",
+      "trip_id": "3_17703389",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "3",
@@ -7445,7 +7445,7 @@
       ]
     },
     {
-      "trip_id": "3_17599377",
+      "trip_id": "3_17703390",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "3",
@@ -7606,7 +7606,7 @@
       ]
     },
     {
-      "trip_id": "3_17599380",
+      "trip_id": "3_17703393",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "3",
@@ -7776,7 +7776,7 @@
       ]
     },
     {
-      "trip_id": "3_17599381",
+      "trip_id": "3_17703394",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "3",
@@ -7937,7 +7937,7 @@
       ]
     },
     {
-      "trip_id": "3_17599392",
+      "trip_id": "3_17703405",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "3",
@@ -8107,7 +8107,7 @@
       ]
     },
     {
-      "trip_id": "3_17599393",
+      "trip_id": "3_17703406",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "3",
@@ -8268,7 +8268,7 @@
       ]
     },
     {
-      "trip_id": "3_17599396",
+      "trip_id": "3_17703409",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "3",
@@ -8438,7 +8438,7 @@
       ]
     },
     {
-      "trip_id": "3_17599397",
+      "trip_id": "3_17703410",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "3",
@@ -8599,7 +8599,7 @@
       ]
     },
     {
-      "trip_id": "3_17599400",
+      "trip_id": "3_17703413",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "3",
@@ -8769,7 +8769,7 @@
       ]
     },
     {
-      "trip_id": "3_17599401",
+      "trip_id": "3_17703414",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "3",
@@ -8930,7 +8930,7 @@
       ]
     },
     {
-      "trip_id": "3_17599409",
+      "trip_id": "3_17703422",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "3",
@@ -9100,7 +9100,7 @@
       ]
     },
     {
-      "trip_id": "3_17599410",
+      "trip_id": "3_17703423",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "3",
@@ -9261,7 +9261,7 @@
       ]
     },
     {
-      "trip_id": "3_17599413",
+      "trip_id": "3_17703426",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "3",
@@ -9431,7 +9431,7 @@
       ]
     },
     {
-      "trip_id": "3_17599414",
+      "trip_id": "3_17703427",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "3",
@@ -9592,7 +9592,7 @@
       ]
     },
     {
-      "trip_id": "3_17599417",
+      "trip_id": "3_17703430",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "3",
@@ -9762,7 +9762,7 @@
       ]
     },
     {
-      "trip_id": "3_17599418",
+      "trip_id": "3_17703431",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "3",
@@ -9923,7 +9923,7 @@
       ]
     },
     {
-      "trip_id": "3_17599421",
+      "trip_id": "3_17703434",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "3",
@@ -10093,7 +10093,7 @@
       ]
     },
     {
-      "trip_id": "3_17599422",
+      "trip_id": "3_17703435",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "3",
@@ -10254,7 +10254,7 @@
       ]
     },
     {
-      "trip_id": "3_17599423",
+      "trip_id": "3_17703436",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "3",
@@ -10424,7 +10424,7 @@
       ]
     },
     {
-      "trip_id": "3_17599424",
+      "trip_id": "3_17703437",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "3",
@@ -10585,7 +10585,7 @@
       ]
     },
     {
-      "trip_id": "3_17599425",
+      "trip_id": "3_17703438",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "3",
@@ -10746,7 +10746,7 @@
       ]
     },
     {
-      "trip_id": "3_17599428",
+      "trip_id": "3_17703441",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "3",
@@ -10916,7 +10916,7 @@
       ]
     },
     {
-      "trip_id": "3_17599429",
+      "trip_id": "3_17703442",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "3",
@@ -11077,7 +11077,7 @@
       ]
     },
     {
-      "trip_id": "3_17599432",
+      "trip_id": "3_17703445",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "3",
@@ -11247,7 +11247,7 @@
       ]
     },
     {
-      "trip_id": "3_17599433",
+      "trip_id": "3_17703446",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "3",
@@ -11408,7 +11408,7 @@
       ]
     },
     {
-      "trip_id": "3_17599436",
+      "trip_id": "3_17703449",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "3",
@@ -11578,7 +11578,7 @@
       ]
     },
     {
-      "trip_id": "3_17599437",
+      "trip_id": "3_17703450",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "3",
@@ -11739,7 +11739,7 @@
       ]
     },
     {
-      "trip_id": "3_17599440",
+      "trip_id": "3_17703453",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "3",
@@ -11909,7 +11909,7 @@
       ]
     },
     {
-      "trip_id": "3_17599441",
+      "trip_id": "3_17703454",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "3",
@@ -12070,7 +12070,7 @@
       ]
     },
     {
-      "trip_id": "3_17599442",
+      "trip_id": "3_17703455",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "3",
@@ -12240,7 +12240,7 @@
       ]
     },
     {
-      "trip_id": "3_17599443",
+      "trip_id": "3_17703456",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "3",
@@ -12401,7 +12401,7 @@
       ]
     },
     {
-      "trip_id": "3_17599444",
+      "trip_id": "3_17703457",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "3",
@@ -12562,7 +12562,7 @@
       ]
     },
     {
-      "trip_id": "3_17599447",
+      "trip_id": "3_17703460",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "3",
@@ -12732,7 +12732,7 @@
       ]
     },
     {
-      "trip_id": "3_17599448",
+      "trip_id": "3_17703461",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "3",
@@ -12893,7 +12893,7 @@
       ]
     },
     {
-      "trip_id": "3_17599451",
+      "trip_id": "3_17703464",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "3",
@@ -13063,7 +13063,7 @@
       ]
     },
     {
-      "trip_id": "3_17599452",
+      "trip_id": "3_17703465",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "3",
@@ -13224,7 +13224,7 @@
       ]
     },
     {
-      "trip_id": "3_17599455",
+      "trip_id": "3_17703468",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "3",
@@ -13394,7 +13394,7 @@
       ]
     },
     {
-      "trip_id": "3_17599456",
+      "trip_id": "3_17703469",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "3",
@@ -13555,7 +13555,7 @@
       ]
     },
     {
-      "trip_id": "3_17599459",
+      "trip_id": "3_17703472",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "3",
@@ -13725,7 +13725,7 @@
       ]
     },
     {
-      "trip_id": "3_17599460",
+      "trip_id": "3_17703473",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "3",
@@ -13886,7 +13886,7 @@
       ]
     },
     {
-      "trip_id": "3_17599461",
+      "trip_id": "3_17703474",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "3",
@@ -14056,7 +14056,7 @@
       ]
     },
     {
-      "trip_id": "3_17599462",
+      "trip_id": "3_17703475",
       "direction_id": "1",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "3",
@@ -14199,7 +14199,7 @@
       ]
     },
     {
-      "trip_id": "4_17601066",
+      "trip_id": "4_17705079",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "4",
@@ -14369,7 +14369,7 @@
       ]
     },
     {
-      "trip_id": "4_17601067",
+      "trip_id": "4_17705080",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "4",
@@ -14539,7 +14539,7 @@
       ]
     },
     {
-      "trip_id": "4_17601068",
+      "trip_id": "4_17705081",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "4",
@@ -14700,7 +14700,7 @@
       ]
     },
     {
-      "trip_id": "4_17601071",
+      "trip_id": "4_17705084",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "4",
@@ -14870,7 +14870,7 @@
       ]
     },
     {
-      "trip_id": "4_17601072",
+      "trip_id": "4_17705085",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "4",
@@ -15031,7 +15031,7 @@
       ]
     },
     {
-      "trip_id": "4_17601075",
+      "trip_id": "4_17705088",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "4",
@@ -15201,7 +15201,7 @@
       ]
     },
     {
-      "trip_id": "4_17601076",
+      "trip_id": "4_17705089",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "4",
@@ -15362,7 +15362,7 @@
       ]
     },
     {
-      "trip_id": "4_17601079",
+      "trip_id": "4_17705092",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "4",
@@ -15532,7 +15532,7 @@
       ]
     },
     {
-      "trip_id": "4_17601080",
+      "trip_id": "4_17705093",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "4",
@@ -15693,7 +15693,7 @@
       ]
     },
     {
-      "trip_id": "4_17601083",
+      "trip_id": "4_17705096",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "4",
@@ -15863,7 +15863,7 @@
       ]
     },
     {
-      "trip_id": "4_17601084",
+      "trip_id": "4_17705097",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "4",
@@ -16024,7 +16024,7 @@
       ]
     },
     {
-      "trip_id": "4_17601085",
+      "trip_id": "4_17705098",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "4",
@@ -16194,7 +16194,7 @@
       ]
     },
     {
-      "trip_id": "4_17601086",
+      "trip_id": "4_17705099",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "4",
@@ -16355,7 +16355,7 @@
       ]
     },
     {
-      "trip_id": "4_17601087",
+      "trip_id": "4_17705100",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "4",
@@ -16525,7 +16525,7 @@
       ]
     },
     {
-      "trip_id": "4_17601090",
+      "trip_id": "4_17705103",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "4",
@@ -16695,7 +16695,7 @@
       ]
     },
     {
-      "trip_id": "4_17601091",
+      "trip_id": "4_17705104",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "4",
@@ -16865,7 +16865,7 @@
       ]
     },
     {
-      "trip_id": "4_17601092",
+      "trip_id": "4_17705105",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "4",
@@ -17026,7 +17026,7 @@
       ]
     },
     {
-      "trip_id": "4_17601095",
+      "trip_id": "4_17705108",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "4",
@@ -17196,7 +17196,7 @@
       ]
     },
     {
-      "trip_id": "4_17601096",
+      "trip_id": "4_17705109",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "4",
@@ -17357,7 +17357,7 @@
       ]
     },
     {
-      "trip_id": "4_17601099",
+      "trip_id": "4_17705112",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "4",
@@ -17527,7 +17527,7 @@
       ]
     },
     {
-      "trip_id": "4_17601100",
+      "trip_id": "4_17705113",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "4",
@@ -17688,7 +17688,7 @@
       ]
     },
     {
-      "trip_id": "4_17601103",
+      "trip_id": "4_17705116",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "4",
@@ -17858,7 +17858,7 @@
       ]
     },
     {
-      "trip_id": "4_17601104",
+      "trip_id": "4_17705117",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "4",
@@ -18019,7 +18019,7 @@
       ]
     },
     {
-      "trip_id": "4_17601107",
+      "trip_id": "4_17705120",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "4",
@@ -18189,7 +18189,7 @@
       ]
     },
     {
-      "trip_id": "4_17601108",
+      "trip_id": "4_17705121",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "4",
@@ -18350,7 +18350,7 @@
       ]
     },
     {
-      "trip_id": "4_17601109",
+      "trip_id": "4_17705122",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "4",
@@ -18520,7 +18520,7 @@
       ]
     },
     {
-      "trip_id": "4_17601110",
+      "trip_id": "4_17705123",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "4",
@@ -18681,7 +18681,7 @@
       ]
     },
     {
-      "trip_id": "4_17601111",
+      "trip_id": "4_17705124",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "4",
@@ -18842,7 +18842,7 @@
       ]
     },
     {
-      "trip_id": "4_17601112",
+      "trip_id": "4_17705125",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "4",
@@ -19012,7 +19012,7 @@
       ]
     },
     {
-      "trip_id": "4_17601113",
+      "trip_id": "4_17705126",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "4",
@@ -19182,7 +19182,7 @@
       ]
     },
     {
-      "trip_id": "4_17601114",
+      "trip_id": "4_17705127",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "4",
@@ -19343,7 +19343,7 @@
       ]
     },
     {
-      "trip_id": "4_17601117",
+      "trip_id": "4_17705130",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "4",
@@ -19513,7 +19513,7 @@
       ]
     },
     {
-      "trip_id": "4_17601118",
+      "trip_id": "4_17705131",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "4",
@@ -19674,7 +19674,7 @@
       ]
     },
     {
-      "trip_id": "4_17601121",
+      "trip_id": "4_17705134",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "4",
@@ -19844,7 +19844,7 @@
       ]
     },
     {
-      "trip_id": "4_17601122",
+      "trip_id": "4_17705135",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "4",
@@ -20005,7 +20005,7 @@
       ]
     },
     {
-      "trip_id": "4_17601125",
+      "trip_id": "4_17705138",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "4",
@@ -20175,7 +20175,7 @@
       ]
     },
     {
-      "trip_id": "4_17601126",
+      "trip_id": "4_17705139",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "4",
@@ -20336,7 +20336,7 @@
       ]
     },
     {
-      "trip_id": "4_17603336",
+      "trip_id": "4_17707349",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "4",
@@ -20470,7 +20470,7 @@
       ]
     },
     {
-      "trip_id": "4_17603337",
+      "trip_id": "4_17707350",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "4",
@@ -20631,7 +20631,7 @@
       ]
     },
     {
-      "trip_id": "4_17603338",
+      "trip_id": "4_17707351",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "4",
@@ -20801,7 +20801,7 @@
       ]
     },
     {
-      "trip_id": "4_17603339",
+      "trip_id": "4_17707352",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "4",
@@ -20962,7 +20962,7 @@
       ]
     },
     {
-      "trip_id": "4_17603340",
+      "trip_id": "4_17707353",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "4",
@@ -21141,7 +21141,7 @@
       ]
     },
     {
-      "trip_id": "4_17603781",
+      "trip_id": "4_17707794",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "4",
@@ -21311,7 +21311,7 @@
       ]
     },
     {
-      "trip_id": "4_17603782",
+      "trip_id": "4_17707795",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "4",
@@ -21472,7 +21472,7 @@
       ]
     },
     {
-      "trip_id": "4_17603785",
+      "trip_id": "4_17707798",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "4",
@@ -21642,7 +21642,7 @@
       ]
     },
     {
-      "trip_id": "4_17603786",
+      "trip_id": "4_17707799",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "4",
@@ -21803,7 +21803,7 @@
       ]
     },
     {
-      "trip_id": "4_17603789",
+      "trip_id": "4_17707802",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "4",
@@ -21973,7 +21973,7 @@
       ]
     },
     {
-      "trip_id": "4_17603790",
+      "trip_id": "4_17707803",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "4",
@@ -22134,7 +22134,7 @@
       ]
     },
     {
-      "trip_id": "4_17603801",
+      "trip_id": "4_17707814",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "4",
@@ -22304,7 +22304,7 @@
       ]
     },
     {
-      "trip_id": "4_17603802",
+      "trip_id": "4_17707815",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "4",
@@ -22465,7 +22465,7 @@
       ]
     },
     {
-      "trip_id": "4_17603805",
+      "trip_id": "4_17707818",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "4",
@@ -22635,7 +22635,7 @@
       ]
     },
     {
-      "trip_id": "4_17603806",
+      "trip_id": "4_17707819",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "4",
@@ -22796,7 +22796,7 @@
       ]
     },
     {
-      "trip_id": "4_17603809",
+      "trip_id": "4_17707822",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "4",
@@ -22966,7 +22966,7 @@
       ]
     },
     {
-      "trip_id": "4_17603810",
+      "trip_id": "4_17707823",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "4",
@@ -23127,7 +23127,7 @@
       ]
     },
     {
-      "trip_id": "4_17603818",
+      "trip_id": "4_17707831",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "4",
@@ -23297,7 +23297,7 @@
       ]
     },
     {
-      "trip_id": "4_17603819",
+      "trip_id": "4_17707832",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "4",
@@ -23458,7 +23458,7 @@
       ]
     },
     {
-      "trip_id": "4_17603822",
+      "trip_id": "4_17707835",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "4",
@@ -23628,7 +23628,7 @@
       ]
     },
     {
-      "trip_id": "4_17603823",
+      "trip_id": "4_17707836",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "4",
@@ -23789,7 +23789,7 @@
       ]
     },
     {
-      "trip_id": "4_17603826",
+      "trip_id": "4_17707839",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "4",
@@ -23959,7 +23959,7 @@
       ]
     },
     {
-      "trip_id": "4_17603827",
+      "trip_id": "4_17707840",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "4",
@@ -24120,7 +24120,7 @@
       ]
     },
     {
-      "trip_id": "4_17603830",
+      "trip_id": "4_17707843",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "4",
@@ -24290,7 +24290,7 @@
       ]
     },
     {
-      "trip_id": "4_17603831",
+      "trip_id": "4_17707844",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "4",
@@ -24451,7 +24451,7 @@
       ]
     },
     {
-      "trip_id": "4_17603832",
+      "trip_id": "4_17707845",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "4",
@@ -24621,7 +24621,7 @@
       ]
     },
     {
-      "trip_id": "4_17603833",
+      "trip_id": "4_17707846",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "4",
@@ -24782,7 +24782,7 @@
       ]
     },
     {
-      "trip_id": "4_17603834",
+      "trip_id": "4_17707847",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "4",
@@ -24943,7 +24943,7 @@
       ]
     },
     {
-      "trip_id": "4_17603837",
+      "trip_id": "4_17707850",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "4",
@@ -25113,7 +25113,7 @@
       ]
     },
     {
-      "trip_id": "4_17603838",
+      "trip_id": "4_17707851",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "4",
@@ -25274,7 +25274,7 @@
       ]
     },
     {
-      "trip_id": "4_17603841",
+      "trip_id": "4_17707854",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "4",
@@ -25444,7 +25444,7 @@
       ]
     },
     {
-      "trip_id": "4_17603842",
+      "trip_id": "4_17707855",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "4",
@@ -25605,7 +25605,7 @@
       ]
     },
     {
-      "trip_id": "4_17603845",
+      "trip_id": "4_17707858",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "4",
@@ -25775,7 +25775,7 @@
       ]
     },
     {
-      "trip_id": "4_17603846",
+      "trip_id": "4_17707859",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "4",
@@ -25936,7 +25936,7 @@
       ]
     },
     {
-      "trip_id": "4_17603849",
+      "trip_id": "4_17707862",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "4",
@@ -26106,7 +26106,7 @@
       ]
     },
     {
-      "trip_id": "4_17603850",
+      "trip_id": "4_17707863",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "4",
@@ -26267,7 +26267,7 @@
       ]
     },
     {
-      "trip_id": "4_17603851",
+      "trip_id": "4_17707864",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "4",
@@ -26437,7 +26437,7 @@
       ]
     },
     {
-      "trip_id": "4_17603852",
+      "trip_id": "4_17707865",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "4",
@@ -26598,7 +26598,7 @@
       ]
     },
     {
-      "trip_id": "4_17603853",
+      "trip_id": "4_17707866",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "4",
@@ -26759,7 +26759,7 @@
       ]
     },
     {
-      "trip_id": "4_17603856",
+      "trip_id": "4_17707869",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "4",
@@ -26929,7 +26929,7 @@
       ]
     },
     {
-      "trip_id": "4_17603857",
+      "trip_id": "4_17707870",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "4",
@@ -27090,7 +27090,7 @@
       ]
     },
     {
-      "trip_id": "4_17603860",
+      "trip_id": "4_17707873",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "4",
@@ -27260,7 +27260,7 @@
       ]
     },
     {
-      "trip_id": "4_17603861",
+      "trip_id": "4_17707874",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "4",
@@ -27421,7 +27421,7 @@
       ]
     },
     {
-      "trip_id": "4_17603864",
+      "trip_id": "4_17707877",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "4",
@@ -27591,7 +27591,7 @@
       ]
     },
     {
-      "trip_id": "4_17603865",
+      "trip_id": "4_17707878",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "4",
@@ -27752,7 +27752,7 @@
       ]
     },
     {
-      "trip_id": "4_17603868",
+      "trip_id": "4_17707881",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "4",
@@ -27922,7 +27922,7 @@
       ]
     },
     {
-      "trip_id": "4_17603869",
+      "trip_id": "4_17707882",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "4",
@@ -28083,7 +28083,7 @@
       ]
     },
     {
-      "trip_id": "4_17603870",
+      "trip_id": "4_17707883",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "4",
@@ -28253,7 +28253,7 @@
       ]
     },
     {
-      "trip_id": "4_17603871",
+      "trip_id": "4_17707884",
       "direction_id": "1",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "4",
@@ -28396,7 +28396,7 @@
       ]
     },
     {
-      "trip_id": "6_17606018",
+      "trip_id": "6_17710031",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "6",
@@ -28548,7 +28548,7 @@
       ]
     },
     {
-      "trip_id": "6_17606019",
+      "trip_id": "6_17710032",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "6",
@@ -28709,7 +28709,7 @@
       ]
     },
     {
-      "trip_id": "6_17606020",
+      "trip_id": "6_17710033",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "6",
@@ -28879,7 +28879,7 @@
       ]
     },
     {
-      "trip_id": "6_17606021",
+      "trip_id": "6_17710034",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "6",
@@ -29040,7 +29040,7 @@
       ]
     },
     {
-      "trip_id": "6_17606022",
+      "trip_id": "6_17710035",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "6",
@@ -29210,7 +29210,7 @@
       ]
     },
     {
-      "trip_id": "6_17606023",
+      "trip_id": "6_17710036",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "6",
@@ -29371,7 +29371,7 @@
       ]
     },
     {
-      "trip_id": "6_17606024",
+      "trip_id": "6_17710037",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "6",
@@ -29541,7 +29541,7 @@
       ]
     },
     {
-      "trip_id": "6_17606025",
+      "trip_id": "6_17710038",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "6",
@@ -29702,7 +29702,7 @@
       ]
     },
     {
-      "trip_id": "6_17606026",
+      "trip_id": "6_17710039",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "6",
@@ -29872,7 +29872,7 @@
       ]
     },
     {
-      "trip_id": "6_17606027",
+      "trip_id": "6_17710040",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "6",
@@ -30033,7 +30033,7 @@
       ]
     },
     {
-      "trip_id": "6_17606028",
+      "trip_id": "6_17710041",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "6",
@@ -30203,7 +30203,7 @@
       ]
     },
     {
-      "trip_id": "6_17606029",
+      "trip_id": "6_17710042",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "6",
@@ -30364,7 +30364,7 @@
       ]
     },
     {
-      "trip_id": "6_17606030",
+      "trip_id": "6_17710043",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "6",
@@ -30534,7 +30534,7 @@
       ]
     },
     {
-      "trip_id": "6_17606031",
+      "trip_id": "6_17710044",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "6",
@@ -30695,7 +30695,7 @@
       ]
     },
     {
-      "trip_id": "6_17606032",
+      "trip_id": "6_17710045",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "6",
@@ -30865,7 +30865,7 @@
       ]
     },
     {
-      "trip_id": "6_17606033",
+      "trip_id": "6_17710046",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "6",
@@ -31026,7 +31026,7 @@
       ]
     },
     {
-      "trip_id": "6_17606034",
+      "trip_id": "6_17710047",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "6",
@@ -31196,7 +31196,7 @@
       ]
     },
     {
-      "trip_id": "6_17606035",
+      "trip_id": "6_17710048",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "6",
@@ -31357,7 +31357,7 @@
       ]
     },
     {
-      "trip_id": "6_17606036",
+      "trip_id": "6_17710049",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "6",
@@ -31527,7 +31527,7 @@
       ]
     },
     {
-      "trip_id": "6_17606037",
+      "trip_id": "6_17710050",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "6",
@@ -31688,7 +31688,7 @@
       ]
     },
     {
-      "trip_id": "6_17606038",
+      "trip_id": "6_17710051",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "6",
@@ -31858,7 +31858,7 @@
       ]
     },
     {
-      "trip_id": "6_17606039",
+      "trip_id": "6_17710052",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "6",
@@ -32019,7 +32019,7 @@
       ]
     },
     {
-      "trip_id": "6_17606040",
+      "trip_id": "6_17710053",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "6",
@@ -32180,7 +32180,7 @@
       ]
     },
     {
-      "trip_id": "6_17606041",
+      "trip_id": "6_17710054",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "6",
@@ -32332,7 +32332,7 @@
       ]
     },
     {
-      "trip_id": "6_17606042",
+      "trip_id": "6_17710055",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "6",
@@ -32493,7 +32493,7 @@
       ]
     },
     {
-      "trip_id": "6_17606043",
+      "trip_id": "6_17710056",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "6",
@@ -32663,7 +32663,7 @@
       ]
     },
     {
-      "trip_id": "6_17606044",
+      "trip_id": "6_17710057",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "6",
@@ -32824,7 +32824,7 @@
       ]
     },
     {
-      "trip_id": "6_17606045",
+      "trip_id": "6_17710058",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "6",
@@ -32994,7 +32994,7 @@
       ]
     },
     {
-      "trip_id": "6_17606046",
+      "trip_id": "6_17710059",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "6",
@@ -33155,7 +33155,7 @@
       ]
     },
     {
-      "trip_id": "6_17606047",
+      "trip_id": "6_17710060",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "6",
@@ -33325,7 +33325,7 @@
       ]
     },
     {
-      "trip_id": "6_17606048",
+      "trip_id": "6_17710061",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "6",
@@ -33486,7 +33486,7 @@
       ]
     },
     {
-      "trip_id": "6_17606049",
+      "trip_id": "6_17710062",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "6",
@@ -33656,7 +33656,7 @@
       ]
     },
     {
-      "trip_id": "6_17606050",
+      "trip_id": "6_17710063",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "6",
@@ -33817,7 +33817,7 @@
       ]
     },
     {
-      "trip_id": "6_17606051",
+      "trip_id": "6_17710064",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "6",
@@ -33987,7 +33987,7 @@
       ]
     },
     {
-      "trip_id": "6_17606052",
+      "trip_id": "6_17710065",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "6",
@@ -34148,7 +34148,7 @@
       ]
     },
     {
-      "trip_id": "6_17606053",
+      "trip_id": "6_17710066",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "6",
@@ -34318,7 +34318,7 @@
       ]
     },
     {
-      "trip_id": "6_17606054",
+      "trip_id": "6_17710067",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "6",
@@ -34479,7 +34479,7 @@
       ]
     },
     {
-      "trip_id": "6_17606055",
+      "trip_id": "6_17710068",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "6",
@@ -34649,7 +34649,7 @@
       ]
     },
     {
-      "trip_id": "6_17606056",
+      "trip_id": "6_17710069",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "6",
@@ -34810,7 +34810,7 @@
       ]
     },
     {
-      "trip_id": "6_17606057",
+      "trip_id": "6_17710070",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "6",
@@ -34980,7 +34980,7 @@
       ]
     },
     {
-      "trip_id": "6_17606058",
+      "trip_id": "6_17710071",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "6",
@@ -35141,7 +35141,7 @@
       ]
     },
     {
-      "trip_id": "6_17606059",
+      "trip_id": "6_17710072",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "6",
@@ -35311,7 +35311,7 @@
       ]
     },
     {
-      "trip_id": "6_17606060",
+      "trip_id": "6_17710073",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "6",
@@ -35472,7 +35472,7 @@
       ]
     },
     {
-      "trip_id": "6_17606061",
+      "trip_id": "6_17710074",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "6",
@@ -35642,7 +35642,7 @@
       ]
     },
     {
-      "trip_id": "6_17606062",
+      "trip_id": "6_17710075",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "6",
@@ -35803,7 +35803,7 @@
       ]
     },
     {
-      "trip_id": "6_17606063",
+      "trip_id": "6_17710076",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "6",
@@ -35973,7 +35973,7 @@
       ]
     },
     {
-      "trip_id": "6_17606064",
+      "trip_id": "6_17710077",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "6",
@@ -36134,7 +36134,7 @@
       ]
     },
     {
-      "trip_id": "6_17606065",
+      "trip_id": "6_17710078",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "6",
@@ -36304,7 +36304,7 @@
       ]
     },
     {
-      "trip_id": "6_17606066",
+      "trip_id": "6_17710079",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "6",
@@ -36465,7 +36465,7 @@
       ]
     },
     {
-      "trip_id": "6_17606067",
+      "trip_id": "6_17710080",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "6",
@@ -36626,7 +36626,7 @@
       ]
     },
     {
-      "trip_id": "6_17606068",
+      "trip_id": "6_17710081",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "6",
@@ -36796,7 +36796,7 @@
       ]
     },
     {
-      "trip_id": "6_17606069",
+      "trip_id": "6_17710082",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "6",
@@ -36966,7 +36966,7 @@
       ]
     },
     {
-      "trip_id": "6_17606070",
+      "trip_id": "6_17710083",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "6",
@@ -37127,7 +37127,7 @@
       ]
     },
     {
-      "trip_id": "6_17606071",
+      "trip_id": "6_17710084",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "6",
@@ -37297,7 +37297,7 @@
       ]
     },
     {
-      "trip_id": "6_17606072",
+      "trip_id": "6_17710085",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "6",
@@ -37458,7 +37458,7 @@
       ]
     },
     {
-      "trip_id": "6_17606073",
+      "trip_id": "6_17710086",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "6",
@@ -37628,7 +37628,7 @@
       ]
     },
     {
-      "trip_id": "6_17606074",
+      "trip_id": "6_17710087",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "6",
@@ -37789,7 +37789,7 @@
       ]
     },
     {
-      "trip_id": "6_17606075",
+      "trip_id": "6_17710088",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "6",
@@ -37959,7 +37959,7 @@
       ]
     },
     {
-      "trip_id": "6_17606076",
+      "trip_id": "6_17710089",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "6",
@@ -38120,7 +38120,7 @@
       ]
     },
     {
-      "trip_id": "6_17606077",
+      "trip_id": "6_17710090",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "6",
@@ -38290,7 +38290,7 @@
       ]
     },
     {
-      "trip_id": "6_17606078",
+      "trip_id": "6_17710091",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "6",
@@ -38451,7 +38451,7 @@
       ]
     },
     {
-      "trip_id": "6_17606079",
+      "trip_id": "6_17710092",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "6",
@@ -38621,7 +38621,7 @@
       ]
     },
     {
-      "trip_id": "6_17606080",
+      "trip_id": "6_17710093",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "6",
@@ -38782,7 +38782,7 @@
       ]
     },
     {
-      "trip_id": "6_17606081",
+      "trip_id": "6_17710094",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "6",
@@ -38952,7 +38952,7 @@
       ]
     },
     {
-      "trip_id": "6_17606082",
+      "trip_id": "6_17710095",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "6",
@@ -39113,7 +39113,7 @@
       ]
     },
     {
-      "trip_id": "6_17606083",
+      "trip_id": "6_17710096",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "6",
@@ -39283,7 +39283,7 @@
       ]
     },
     {
-      "trip_id": "6_17606084",
+      "trip_id": "6_17710097",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "6",
@@ -39444,7 +39444,7 @@
       ]
     },
     {
-      "trip_id": "6_17606085",
+      "trip_id": "6_17710098",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "6",
@@ -39614,7 +39614,7 @@
       ]
     },
     {
-      "trip_id": "6_17606086",
+      "trip_id": "6_17710099",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "6",
@@ -39775,7 +39775,7 @@
       ]
     },
     {
-      "trip_id": "6_17606087",
+      "trip_id": "6_17710100",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "6",
@@ -39945,7 +39945,7 @@
       ]
     },
     {
-      "trip_id": "6_17606088",
+      "trip_id": "6_17710101",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "6",
@@ -40106,7 +40106,7 @@
       ]
     },
     {
-      "trip_id": "6_17606089",
+      "trip_id": "6_17710102",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "6",
@@ -40276,7 +40276,7 @@
       ]
     },
     {
-      "trip_id": "6_17606090",
+      "trip_id": "6_17710103",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "6",
@@ -40437,7 +40437,7 @@
       ]
     },
     {
-      "trip_id": "6_17606091",
+      "trip_id": "6_17710104",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "6",
@@ -40607,7 +40607,7 @@
       ]
     },
     {
-      "trip_id": "6_17606092",
+      "trip_id": "6_17710105",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "6",
@@ -40768,7 +40768,7 @@
       ]
     },
     {
-      "trip_id": "6_17606093",
+      "trip_id": "6_17710106",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "6",
@@ -40938,7 +40938,7 @@
       ]
     },
     {
-      "trip_id": "6_17606094",
+      "trip_id": "6_17710107",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "6",
@@ -41099,7 +41099,7 @@
       ]
     },
     {
-      "trip_id": "6_17606095",
+      "trip_id": "6_17710108",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "6",
@@ -41269,7 +41269,7 @@
       ]
     },
     {
-      "trip_id": "6_17606098",
+      "trip_id": "6_17710111",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "6",
@@ -41439,7 +41439,7 @@
       ]
     },
     {
-      "trip_id": "6_17606099",
+      "trip_id": "6_17710112",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "6",
@@ -41609,7 +41609,7 @@
       ]
     },
     {
-      "trip_id": "6_17606100",
+      "trip_id": "6_17710113",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "6",
@@ -41770,7 +41770,7 @@
       ]
     },
     {
-      "trip_id": "6_17606101",
+      "trip_id": "6_17710114",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "6",
@@ -41940,7 +41940,7 @@
       ]
     },
     {
-      "trip_id": "6_17606102",
+      "trip_id": "6_17710115",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "6",
@@ -42101,7 +42101,7 @@
       ]
     },
     {
-      "trip_id": "6_17606103",
+      "trip_id": "6_17710116",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "6",
@@ -42271,7 +42271,7 @@
       ]
     },
     {
-      "trip_id": "6_17606104",
+      "trip_id": "6_17710117",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "6",
@@ -42432,7 +42432,7 @@
       ]
     },
     {
-      "trip_id": "6_17606105",
+      "trip_id": "6_17710118",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "6",
@@ -42602,7 +42602,7 @@
       ]
     },
     {
-      "trip_id": "6_17606106",
+      "trip_id": "6_17710119",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "6",
@@ -42763,7 +42763,7 @@
       ]
     },
     {
-      "trip_id": "6_17606107",
+      "trip_id": "6_17710120",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "6",
@@ -42933,7 +42933,7 @@
       ]
     },
     {
-      "trip_id": "6_17606108",
+      "trip_id": "6_17710121",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "6",
@@ -43094,7 +43094,7 @@
       ]
     },
     {
-      "trip_id": "6_17606109",
+      "trip_id": "6_17710122",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "6",
@@ -43264,7 +43264,7 @@
       ]
     },
     {
-      "trip_id": "6_17606110",
+      "trip_id": "6_17710123",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "6",
@@ -43425,7 +43425,7 @@
       ]
     },
     {
-      "trip_id": "6_17606111",
+      "trip_id": "6_17710124",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "6",
@@ -43595,7 +43595,7 @@
       ]
     },
     {
-      "trip_id": "6_17606112",
+      "trip_id": "6_17710125",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "6",
@@ -43756,7 +43756,7 @@
       ]
     },
     {
-      "trip_id": "6_17606113",
+      "trip_id": "6_17710126",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "6",
@@ -43926,7 +43926,7 @@
       ]
     },
     {
-      "trip_id": "6_17606114",
+      "trip_id": "6_17710127",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "6",
@@ -44087,7 +44087,7 @@
       ]
     },
     {
-      "trip_id": "6_17606115",
+      "trip_id": "6_17710128",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "6",
@@ -44257,7 +44257,7 @@
       ]
     },
     {
-      "trip_id": "6_17606116",
+      "trip_id": "6_17710129",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "6",
@@ -44418,7 +44418,7 @@
       ]
     },
     {
-      "trip_id": "6_17606117",
+      "trip_id": "6_17710130",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "6",
@@ -44588,7 +44588,7 @@
       ]
     },
     {
-      "trip_id": "6_17606118",
+      "trip_id": "6_17710131",
       "direction_id": "1",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "6",
@@ -44731,7 +44731,7 @@
       ]
     },
     {
-      "trip_id": "6_17606119",
+      "trip_id": "6_17710132",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "6",
@@ -44883,7 +44883,7 @@
       ]
     },
     {
-      "trip_id": "6_17606120",
+      "trip_id": "6_17710133",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "6",
@@ -45044,7 +45044,7 @@
       ]
     },
     {
-      "trip_id": "6_17606121",
+      "trip_id": "6_17710134",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "6",
@@ -45214,7 +45214,7 @@
       ]
     },
     {
-      "trip_id": "6_17606122",
+      "trip_id": "6_17710135",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "6",
@@ -45375,7 +45375,7 @@
       ]
     },
     {
-      "trip_id": "6_17606123",
+      "trip_id": "6_17710136",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "6",
@@ -45545,7 +45545,7 @@
       ]
     },
     {
-      "trip_id": "6_17606124",
+      "trip_id": "6_17710137",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "6",
@@ -45706,7 +45706,7 @@
       ]
     },
     {
-      "trip_id": "6_17606125",
+      "trip_id": "6_17710138",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "6",
@@ -45876,7 +45876,7 @@
       ]
     },
     {
-      "trip_id": "6_17606126",
+      "trip_id": "6_17710139",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "6",
@@ -46037,7 +46037,7 @@
       ]
     },
     {
-      "trip_id": "6_17606127",
+      "trip_id": "6_17710140",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "6",
@@ -46207,7 +46207,7 @@
       ]
     },
     {
-      "trip_id": "6_17606128",
+      "trip_id": "6_17710141",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "6",
@@ -46368,7 +46368,7 @@
       ]
     },
     {
-      "trip_id": "6_17606129",
+      "trip_id": "6_17710142",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "6",
@@ -46538,7 +46538,7 @@
       ]
     },
     {
-      "trip_id": "6_17606130",
+      "trip_id": "6_17710143",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "6",
@@ -46699,7 +46699,7 @@
       ]
     },
     {
-      "trip_id": "6_17606131",
+      "trip_id": "6_17710144",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "6",
@@ -46869,7 +46869,7 @@
       ]
     },
     {
-      "trip_id": "6_17606132",
+      "trip_id": "6_17710145",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "6",
@@ -47030,7 +47030,7 @@
       ]
     },
     {
-      "trip_id": "6_17606133",
+      "trip_id": "6_17710146",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "6",
@@ -47200,7 +47200,7 @@
       ]
     },
     {
-      "trip_id": "6_17606134",
+      "trip_id": "6_17710147",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "6",
@@ -47361,7 +47361,7 @@
       ]
     },
     {
-      "trip_id": "6_17606135",
+      "trip_id": "6_17710148",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "6",
@@ -47531,7 +47531,7 @@
       ]
     },
     {
-      "trip_id": "6_17606136",
+      "trip_id": "6_17710149",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "6",
@@ -47692,7 +47692,7 @@
       ]
     },
     {
-      "trip_id": "6_17606137",
+      "trip_id": "6_17710150",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "6",
@@ -47862,7 +47862,7 @@
       ]
     },
     {
-      "trip_id": "6_17606138",
+      "trip_id": "6_17710151",
       "direction_id": "1",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "6",
@@ -48005,7 +48005,7 @@
       ]
     },
     {
-      "trip_id": "6_17606139",
+      "trip_id": "6_17710152",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "6",
@@ -48157,7 +48157,7 @@
       ]
     },
     {
-      "trip_id": "6_17606140",
+      "trip_id": "6_17710153",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "6",
@@ -48318,7 +48318,7 @@
       ]
     },
     {
-      "trip_id": "6_17606141",
+      "trip_id": "6_17710154",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "6",
@@ -48488,7 +48488,7 @@
       ]
     },
     {
-      "trip_id": "6_17606142",
+      "trip_id": "6_17710155",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "6",
@@ -48649,7 +48649,7 @@
       ]
     },
     {
-      "trip_id": "6_17606143",
+      "trip_id": "6_17710156",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "6",
@@ -48819,7 +48819,7 @@
       ]
     },
     {
-      "trip_id": "6_17606144",
+      "trip_id": "6_17710157",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "6",
@@ -48980,7 +48980,7 @@
       ]
     },
     {
-      "trip_id": "6_17606145",
+      "trip_id": "6_17710158",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "6",
@@ -49150,7 +49150,7 @@
       ]
     },
     {
-      "trip_id": "6_17606146",
+      "trip_id": "6_17710159",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "6",
@@ -49311,7 +49311,7 @@
       ]
     },
     {
-      "trip_id": "6_17606147",
+      "trip_id": "6_17710160",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "6",
@@ -49481,7 +49481,7 @@
       ]
     },
     {
-      "trip_id": "6_17606148",
+      "trip_id": "6_17710161",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "6",
@@ -49642,7 +49642,7 @@
       ]
     },
     {
-      "trip_id": "6_17606149",
+      "trip_id": "6_17710162",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "6",
@@ -49812,7 +49812,7 @@
       ]
     },
     {
-      "trip_id": "6_17606150",
+      "trip_id": "6_17710163",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "6",
@@ -49973,7 +49973,7 @@
       ]
     },
     {
-      "trip_id": "6_17606151",
+      "trip_id": "6_17710164",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "6",
@@ -50143,7 +50143,7 @@
       ]
     },
     {
-      "trip_id": "6_17606152",
+      "trip_id": "6_17710165",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "6",
@@ -50304,7 +50304,7 @@
       ]
     },
     {
-      "trip_id": "6_17606153",
+      "trip_id": "6_17710166",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "6",
@@ -50474,7 +50474,7 @@
       ]
     },
     {
-      "trip_id": "6_17606154",
+      "trip_id": "6_17710167",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "6",
@@ -50635,7 +50635,7 @@
       ]
     },
     {
-      "trip_id": "6_17606155",
+      "trip_id": "6_17710168",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "6",
@@ -50805,7 +50805,7 @@
       ]
     },
     {
-      "trip_id": "6_17606156",
+      "trip_id": "6_17710169",
       "direction_id": "1",
       "headsign": "KROMERA",
       "service_id": "6",
@@ -50867,7 +50867,7 @@
       ]
     },
     {
-      "trip_id": "6_17606165",
+      "trip_id": "6_17710178",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "6",
@@ -51019,7 +51019,7 @@
       ]
     },
     {
-      "trip_id": "6_17606166",
+      "trip_id": "6_17710179",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "6",
@@ -51180,7 +51180,7 @@
       ]
     },
     {
-      "trip_id": "6_17606167",
+      "trip_id": "6_17710180",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "6",
@@ -51350,7 +51350,7 @@
       ]
     },
     {
-      "trip_id": "6_17606168",
+      "trip_id": "6_17710181",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "6",
@@ -51511,7 +51511,7 @@
       ]
     },
     {
-      "trip_id": "6_17606169",
+      "trip_id": "6_17710182",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "6",
@@ -51681,7 +51681,7 @@
       ]
     },
     {
-      "trip_id": "6_17606170",
+      "trip_id": "6_17710183",
       "direction_id": "1",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "6",
@@ -51824,7 +51824,7 @@
       ]
     },
     {
-      "trip_id": "6_17609535",
+      "trip_id": "6_17713548",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "6",
@@ -51958,7 +51958,7 @@
       ]
     },
     {
-      "trip_id": "6_17609536",
+      "trip_id": "6_17713549",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "6",
@@ -52119,7 +52119,7 @@
       ]
     },
     {
-      "trip_id": "6_17609537",
+      "trip_id": "6_17713550",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "6",
@@ -52289,7 +52289,7 @@
       ]
     },
     {
-      "trip_id": "6_17609538",
+      "trip_id": "6_17713551",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "6",
@@ -52450,7 +52450,7 @@
       ]
     },
     {
-      "trip_id": "6_17609539",
+      "trip_id": "6_17713552",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "6",
@@ -52629,7 +52629,7 @@
       ]
     },
     {
-      "trip_id": "6_17610570",
+      "trip_id": "6_17714583",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "6",
@@ -52799,7 +52799,7 @@
       ]
     },
     {
-      "trip_id": "6_17610571",
+      "trip_id": "6_17714584",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "6",
@@ -52969,7 +52969,7 @@
       ]
     },
     {
-      "trip_id": "6_17610572",
+      "trip_id": "6_17714585",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "6",
@@ -53130,7 +53130,7 @@
       ]
     },
     {
-      "trip_id": "6_17610573",
+      "trip_id": "6_17714586",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "6",
@@ -53300,7 +53300,7 @@
       ]
     },
     {
-      "trip_id": "6_17610574",
+      "trip_id": "6_17714587",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "6",
@@ -53461,7 +53461,7 @@
       ]
     },
     {
-      "trip_id": "8_17612844",
+      "trip_id": "8_17716857",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "8",
@@ -53613,7 +53613,7 @@
       ]
     },
     {
-      "trip_id": "8_17612845",
+      "trip_id": "8_17716858",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "8",
@@ -53774,7 +53774,7 @@
       ]
     },
     {
-      "trip_id": "8_17612846",
+      "trip_id": "8_17716859",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "8",
@@ -53944,7 +53944,7 @@
       ]
     },
     {
-      "trip_id": "8_17612847",
+      "trip_id": "8_17716860",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "8",
@@ -54105,7 +54105,7 @@
       ]
     },
     {
-      "trip_id": "8_17612848",
+      "trip_id": "8_17716861",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "8",
@@ -54275,7 +54275,7 @@
       ]
     },
     {
-      "trip_id": "8_17612849",
+      "trip_id": "8_17716862",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "8",
@@ -54436,7 +54436,7 @@
       ]
     },
     {
-      "trip_id": "8_17612850",
+      "trip_id": "8_17716863",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "8",
@@ -54606,7 +54606,7 @@
       ]
     },
     {
-      "trip_id": "8_17612851",
+      "trip_id": "8_17716864",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "8",
@@ -54767,7 +54767,7 @@
       ]
     },
     {
-      "trip_id": "8_17612852",
+      "trip_id": "8_17716865",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "8",
@@ -54937,7 +54937,7 @@
       ]
     },
     {
-      "trip_id": "8_17612853",
+      "trip_id": "8_17716866",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "8",
@@ -55098,7 +55098,7 @@
       ]
     },
     {
-      "trip_id": "8_17612854",
+      "trip_id": "8_17716867",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "8",
@@ -55268,7 +55268,7 @@
       ]
     },
     {
-      "trip_id": "8_17612855",
+      "trip_id": "8_17716868",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "8",
@@ -55429,7 +55429,7 @@
       ]
     },
     {
-      "trip_id": "8_17612856",
+      "trip_id": "8_17716869",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "8",
@@ -55599,7 +55599,7 @@
       ]
     },
     {
-      "trip_id": "8_17612857",
+      "trip_id": "8_17716870",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "8",
@@ -55760,7 +55760,7 @@
       ]
     },
     {
-      "trip_id": "8_17612858",
+      "trip_id": "8_17716871",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "8",
@@ -55930,7 +55930,7 @@
       ]
     },
     {
-      "trip_id": "8_17612859",
+      "trip_id": "8_17716872",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "8",
@@ -56091,7 +56091,7 @@
       ]
     },
     {
-      "trip_id": "8_17612860",
+      "trip_id": "8_17716873",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "8",
@@ -56261,7 +56261,7 @@
       ]
     },
     {
-      "trip_id": "8_17612861",
+      "trip_id": "8_17716874",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "8",
@@ -56422,7 +56422,7 @@
       ]
     },
     {
-      "trip_id": "8_17612862",
+      "trip_id": "8_17716875",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "8",
@@ -56592,7 +56592,7 @@
       ]
     },
     {
-      "trip_id": "8_17612863",
+      "trip_id": "8_17716876",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "8",
@@ -56753,7 +56753,7 @@
       ]
     },
     {
-      "trip_id": "8_17612864",
+      "trip_id": "8_17716877",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "8",
@@ -56923,7 +56923,7 @@
       ]
     },
     {
-      "trip_id": "8_17612865",
+      "trip_id": "8_17716878",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "8",
@@ -57084,7 +57084,7 @@
       ]
     },
     {
-      "trip_id": "8_17612866",
+      "trip_id": "8_17716879",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "8",
@@ -57245,7 +57245,7 @@
       ]
     },
     {
-      "trip_id": "8_17612867",
+      "trip_id": "8_17716880",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "8",
@@ -57397,7 +57397,7 @@
       ]
     },
     {
-      "trip_id": "8_17612868",
+      "trip_id": "8_17716881",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "8",
@@ -57558,7 +57558,7 @@
       ]
     },
     {
-      "trip_id": "8_17612869",
+      "trip_id": "8_17716882",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "8",
@@ -57728,7 +57728,7 @@
       ]
     },
     {
-      "trip_id": "8_17612870",
+      "trip_id": "8_17716883",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "8",
@@ -57889,7 +57889,7 @@
       ]
     },
     {
-      "trip_id": "8_17612871",
+      "trip_id": "8_17716884",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "8",
@@ -58059,7 +58059,7 @@
       ]
     },
     {
-      "trip_id": "8_17612872",
+      "trip_id": "8_17716885",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "8",
@@ -58220,7 +58220,7 @@
       ]
     },
     {
-      "trip_id": "8_17612873",
+      "trip_id": "8_17716886",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "8",
@@ -58390,7 +58390,7 @@
       ]
     },
     {
-      "trip_id": "8_17612874",
+      "trip_id": "8_17716887",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "8",
@@ -58551,7 +58551,7 @@
       ]
     },
     {
-      "trip_id": "8_17612875",
+      "trip_id": "8_17716888",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "8",
@@ -58721,7 +58721,7 @@
       ]
     },
     {
-      "trip_id": "8_17612876",
+      "trip_id": "8_17716889",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "8",
@@ -58882,7 +58882,7 @@
       ]
     },
     {
-      "trip_id": "8_17612877",
+      "trip_id": "8_17716890",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "8",
@@ -59052,7 +59052,7 @@
       ]
     },
     {
-      "trip_id": "8_17612878",
+      "trip_id": "8_17716891",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "8",
@@ -59213,7 +59213,7 @@
       ]
     },
     {
-      "trip_id": "8_17612879",
+      "trip_id": "8_17716892",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "8",
@@ -59383,7 +59383,7 @@
       ]
     },
     {
-      "trip_id": "8_17612880",
+      "trip_id": "8_17716893",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "8",
@@ -59544,7 +59544,7 @@
       ]
     },
     {
-      "trip_id": "8_17612881",
+      "trip_id": "8_17716894",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "8",
@@ -59714,7 +59714,7 @@
       ]
     },
     {
-      "trip_id": "8_17612882",
+      "trip_id": "8_17716895",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "8",
@@ -59875,7 +59875,7 @@
       ]
     },
     {
-      "trip_id": "8_17612883",
+      "trip_id": "8_17716896",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "8",
@@ -60045,7 +60045,7 @@
       ]
     },
     {
-      "trip_id": "8_17612884",
+      "trip_id": "8_17716897",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "8",
@@ -60206,7 +60206,7 @@
       ]
     },
     {
-      "trip_id": "8_17612885",
+      "trip_id": "8_17716898",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "8",
@@ -60376,7 +60376,7 @@
       ]
     },
     {
-      "trip_id": "8_17612886",
+      "trip_id": "8_17716899",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "8",
@@ -60537,7 +60537,7 @@
       ]
     },
     {
-      "trip_id": "8_17612887",
+      "trip_id": "8_17716900",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "8",
@@ -60707,7 +60707,7 @@
       ]
     },
     {
-      "trip_id": "8_17612888",
+      "trip_id": "8_17716901",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "8",
@@ -60868,7 +60868,7 @@
       ]
     },
     {
-      "trip_id": "8_17612889",
+      "trip_id": "8_17716902",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "8",
@@ -61038,7 +61038,7 @@
       ]
     },
     {
-      "trip_id": "8_17612890",
+      "trip_id": "8_17716903",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "8",
@@ -61199,7 +61199,7 @@
       ]
     },
     {
-      "trip_id": "8_17612891",
+      "trip_id": "8_17716904",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "8",
@@ -61369,7 +61369,7 @@
       ]
     },
     {
-      "trip_id": "8_17612892",
+      "trip_id": "8_17716905",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "8",
@@ -61530,7 +61530,7 @@
       ]
     },
     {
-      "trip_id": "8_17612893",
+      "trip_id": "8_17716906",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "8",
@@ -61691,7 +61691,7 @@
       ]
     },
     {
-      "trip_id": "8_17612894",
+      "trip_id": "8_17716907",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "8",
@@ -61861,7 +61861,7 @@
       ]
     },
     {
-      "trip_id": "8_17612895",
+      "trip_id": "8_17716908",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "8",
@@ -62031,7 +62031,7 @@
       ]
     },
     {
-      "trip_id": "8_17612896",
+      "trip_id": "8_17716909",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "8",
@@ -62192,7 +62192,7 @@
       ]
     },
     {
-      "trip_id": "8_17612897",
+      "trip_id": "8_17716910",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "8",
@@ -62362,7 +62362,7 @@
       ]
     },
     {
-      "trip_id": "8_17612898",
+      "trip_id": "8_17716911",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "8",
@@ -62523,7 +62523,7 @@
       ]
     },
     {
-      "trip_id": "8_17612899",
+      "trip_id": "8_17716912",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "8",
@@ -62693,7 +62693,7 @@
       ]
     },
     {
-      "trip_id": "8_17612900",
+      "trip_id": "8_17716913",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "8",
@@ -62854,7 +62854,7 @@
       ]
     },
     {
-      "trip_id": "8_17612901",
+      "trip_id": "8_17716914",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "8",
@@ -63024,7 +63024,7 @@
       ]
     },
     {
-      "trip_id": "8_17612902",
+      "trip_id": "8_17716915",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "8",
@@ -63185,7 +63185,7 @@
       ]
     },
     {
-      "trip_id": "8_17612903",
+      "trip_id": "8_17716916",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "8",
@@ -63355,7 +63355,7 @@
       ]
     },
     {
-      "trip_id": "8_17612904",
+      "trip_id": "8_17716917",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "8",
@@ -63516,7 +63516,7 @@
       ]
     },
     {
-      "trip_id": "8_17612905",
+      "trip_id": "8_17716918",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "8",
@@ -63686,7 +63686,7 @@
       ]
     },
     {
-      "trip_id": "8_17612906",
+      "trip_id": "8_17716919",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "8",
@@ -63847,7 +63847,7 @@
       ]
     },
     {
-      "trip_id": "8_17612907",
+      "trip_id": "8_17716920",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "8",
@@ -64017,7 +64017,7 @@
       ]
     },
     {
-      "trip_id": "8_17612908",
+      "trip_id": "8_17716921",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "8",
@@ -64178,7 +64178,7 @@
       ]
     },
     {
-      "trip_id": "8_17612909",
+      "trip_id": "8_17716922",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "8",
@@ -64348,7 +64348,7 @@
       ]
     },
     {
-      "trip_id": "8_17612910",
+      "trip_id": "8_17716923",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "8",
@@ -64509,7 +64509,7 @@
       ]
     },
     {
-      "trip_id": "8_17612911",
+      "trip_id": "8_17716924",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "8",
@@ -64679,7 +64679,7 @@
       ]
     },
     {
-      "trip_id": "8_17612912",
+      "trip_id": "8_17716925",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "8",
@@ -64840,7 +64840,7 @@
       ]
     },
     {
-      "trip_id": "8_17612913",
+      "trip_id": "8_17716926",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "8",
@@ -65010,7 +65010,7 @@
       ]
     },
     {
-      "trip_id": "8_17612914",
+      "trip_id": "8_17716927",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "8",
@@ -65171,7 +65171,7 @@
       ]
     },
     {
-      "trip_id": "8_17612915",
+      "trip_id": "8_17716928",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "8",
@@ -65341,7 +65341,7 @@
       ]
     },
     {
-      "trip_id": "8_17612916",
+      "trip_id": "8_17716929",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "8",
@@ -65502,7 +65502,7 @@
       ]
     },
     {
-      "trip_id": "8_17612917",
+      "trip_id": "8_17716930",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "8",
@@ -65672,7 +65672,7 @@
       ]
     },
     {
-      "trip_id": "8_17612918",
+      "trip_id": "8_17716931",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "8",
@@ -65833,7 +65833,7 @@
       ]
     },
     {
-      "trip_id": "8_17612919",
+      "trip_id": "8_17716932",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "8",
@@ -66003,7 +66003,7 @@
       ]
     },
     {
-      "trip_id": "8_17612920",
+      "trip_id": "8_17716933",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "8",
@@ -66164,7 +66164,7 @@
       ]
     },
     {
-      "trip_id": "8_17612921",
+      "trip_id": "8_17716934",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "8",
@@ -66334,7 +66334,7 @@
       ]
     },
     {
-      "trip_id": "8_17612924",
+      "trip_id": "8_17716937",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "8",
@@ -66504,7 +66504,7 @@
       ]
     },
     {
-      "trip_id": "8_17612925",
+      "trip_id": "8_17716938",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "8",
@@ -66674,7 +66674,7 @@
       ]
     },
     {
-      "trip_id": "8_17612926",
+      "trip_id": "8_17716939",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "8",
@@ -66835,7 +66835,7 @@
       ]
     },
     {
-      "trip_id": "8_17612927",
+      "trip_id": "8_17716940",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "8",
@@ -67005,7 +67005,7 @@
       ]
     },
     {
-      "trip_id": "8_17612928",
+      "trip_id": "8_17716941",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "8",
@@ -67166,7 +67166,7 @@
       ]
     },
     {
-      "trip_id": "8_17612929",
+      "trip_id": "8_17716942",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "8",
@@ -67336,7 +67336,7 @@
       ]
     },
     {
-      "trip_id": "8_17612930",
+      "trip_id": "8_17716943",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "8",
@@ -67497,7 +67497,7 @@
       ]
     },
     {
-      "trip_id": "8_17612931",
+      "trip_id": "8_17716944",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "8",
@@ -67667,7 +67667,7 @@
       ]
     },
     {
-      "trip_id": "8_17612932",
+      "trip_id": "8_17716945",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "8",
@@ -67828,7 +67828,7 @@
       ]
     },
     {
-      "trip_id": "8_17612933",
+      "trip_id": "8_17716946",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "8",
@@ -67998,7 +67998,7 @@
       ]
     },
     {
-      "trip_id": "8_17612934",
+      "trip_id": "8_17716947",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "8",
@@ -68159,7 +68159,7 @@
       ]
     },
     {
-      "trip_id": "8_17612935",
+      "trip_id": "8_17716948",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "8",
@@ -68329,7 +68329,7 @@
       ]
     },
     {
-      "trip_id": "8_17612936",
+      "trip_id": "8_17716949",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "8",
@@ -68490,7 +68490,7 @@
       ]
     },
     {
-      "trip_id": "8_17612937",
+      "trip_id": "8_17716950",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "8",
@@ -68660,7 +68660,7 @@
       ]
     },
     {
-      "trip_id": "8_17612938",
+      "trip_id": "8_17716951",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "8",
@@ -68821,7 +68821,7 @@
       ]
     },
     {
-      "trip_id": "8_17612939",
+      "trip_id": "8_17716952",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "8",
@@ -68991,7 +68991,7 @@
       ]
     },
     {
-      "trip_id": "8_17612940",
+      "trip_id": "8_17716953",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "8",
@@ -69152,7 +69152,7 @@
       ]
     },
     {
-      "trip_id": "8_17612941",
+      "trip_id": "8_17716954",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "8",
@@ -69322,7 +69322,7 @@
       ]
     },
     {
-      "trip_id": "8_17612942",
+      "trip_id": "8_17716955",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "8",
@@ -69483,7 +69483,7 @@
       ]
     },
     {
-      "trip_id": "8_17612943",
+      "trip_id": "8_17716956",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "8",
@@ -69653,7 +69653,7 @@
       ]
     },
     {
-      "trip_id": "8_17612944",
+      "trip_id": "8_17716957",
       "direction_id": "1",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "8",
@@ -69796,7 +69796,7 @@
       ]
     },
     {
-      "trip_id": "8_17612945",
+      "trip_id": "8_17716958",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "8",
@@ -69948,7 +69948,7 @@
       ]
     },
     {
-      "trip_id": "8_17612946",
+      "trip_id": "8_17716959",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "8",
@@ -70109,7 +70109,7 @@
       ]
     },
     {
-      "trip_id": "8_17612947",
+      "trip_id": "8_17716960",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "8",
@@ -70279,7 +70279,7 @@
       ]
     },
     {
-      "trip_id": "8_17612948",
+      "trip_id": "8_17716961",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "8",
@@ -70440,7 +70440,7 @@
       ]
     },
     {
-      "trip_id": "8_17612949",
+      "trip_id": "8_17716962",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "8",
@@ -70610,7 +70610,7 @@
       ]
     },
     {
-      "trip_id": "8_17612950",
+      "trip_id": "8_17716963",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "8",
@@ -70771,7 +70771,7 @@
       ]
     },
     {
-      "trip_id": "8_17612951",
+      "trip_id": "8_17716964",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "8",
@@ -70941,7 +70941,7 @@
       ]
     },
     {
-      "trip_id": "8_17612952",
+      "trip_id": "8_17716965",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "8",
@@ -71102,7 +71102,7 @@
       ]
     },
     {
-      "trip_id": "8_17612953",
+      "trip_id": "8_17716966",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "8",
@@ -71272,7 +71272,7 @@
       ]
     },
     {
-      "trip_id": "8_17612954",
+      "trip_id": "8_17716967",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "8",
@@ -71433,7 +71433,7 @@
       ]
     },
     {
-      "trip_id": "8_17612955",
+      "trip_id": "8_17716968",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "8",
@@ -71603,7 +71603,7 @@
       ]
     },
     {
-      "trip_id": "8_17612956",
+      "trip_id": "8_17716969",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "8",
@@ -71764,7 +71764,7 @@
       ]
     },
     {
-      "trip_id": "8_17612957",
+      "trip_id": "8_17716970",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "8",
@@ -71934,7 +71934,7 @@
       ]
     },
     {
-      "trip_id": "8_17612958",
+      "trip_id": "8_17716971",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "8",
@@ -72095,7 +72095,7 @@
       ]
     },
     {
-      "trip_id": "8_17612959",
+      "trip_id": "8_17716972",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "8",
@@ -72265,7 +72265,7 @@
       ]
     },
     {
-      "trip_id": "8_17612960",
+      "trip_id": "8_17716973",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "8",
@@ -72426,7 +72426,7 @@
       ]
     },
     {
-      "trip_id": "8_17612961",
+      "trip_id": "8_17716974",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "8",
@@ -72596,7 +72596,7 @@
       ]
     },
     {
-      "trip_id": "8_17612962",
+      "trip_id": "8_17716975",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "8",
@@ -72757,7 +72757,7 @@
       ]
     },
     {
-      "trip_id": "8_17612963",
+      "trip_id": "8_17716976",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "8",
@@ -72927,7 +72927,7 @@
       ]
     },
     {
-      "trip_id": "8_17612964",
+      "trip_id": "8_17716977",
       "direction_id": "1",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "8",
@@ -73070,7 +73070,7 @@
       ]
     },
     {
-      "trip_id": "8_17612965",
+      "trip_id": "8_17716978",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "8",
@@ -73222,7 +73222,7 @@
       ]
     },
     {
-      "trip_id": "8_17612966",
+      "trip_id": "8_17716979",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "8",
@@ -73383,7 +73383,7 @@
       ]
     },
     {
-      "trip_id": "8_17612967",
+      "trip_id": "8_17716980",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "8",
@@ -73553,7 +73553,7 @@
       ]
     },
     {
-      "trip_id": "8_17612968",
+      "trip_id": "8_17716981",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "8",
@@ -73714,7 +73714,7 @@
       ]
     },
     {
-      "trip_id": "8_17612969",
+      "trip_id": "8_17716982",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "8",
@@ -73884,7 +73884,7 @@
       ]
     },
     {
-      "trip_id": "8_17612970",
+      "trip_id": "8_17716983",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "8",
@@ -74045,7 +74045,7 @@
       ]
     },
     {
-      "trip_id": "8_17612971",
+      "trip_id": "8_17716984",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "8",
@@ -74215,7 +74215,7 @@
       ]
     },
     {
-      "trip_id": "8_17612972",
+      "trip_id": "8_17716985",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "8",
@@ -74376,7 +74376,7 @@
       ]
     },
     {
-      "trip_id": "8_17612973",
+      "trip_id": "8_17716986",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "8",
@@ -74546,7 +74546,7 @@
       ]
     },
     {
-      "trip_id": "8_17612974",
+      "trip_id": "8_17716987",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "8",
@@ -74707,7 +74707,7 @@
       ]
     },
     {
-      "trip_id": "8_17612975",
+      "trip_id": "8_17716988",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "8",
@@ -74877,7 +74877,7 @@
       ]
     },
     {
-      "trip_id": "8_17612976",
+      "trip_id": "8_17716989",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "8",
@@ -75038,7 +75038,7 @@
       ]
     },
     {
-      "trip_id": "8_17612977",
+      "trip_id": "8_17716990",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "8",
@@ -75208,7 +75208,7 @@
       ]
     },
     {
-      "trip_id": "8_17612978",
+      "trip_id": "8_17716991",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "8",
@@ -75369,7 +75369,7 @@
       ]
     },
     {
-      "trip_id": "8_17612979",
+      "trip_id": "8_17716992",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "8",
@@ -75539,7 +75539,7 @@
       ]
     },
     {
-      "trip_id": "8_17612980",
+      "trip_id": "8_17716993",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "8",
@@ -75700,7 +75700,7 @@
       ]
     },
     {
-      "trip_id": "8_17612981",
+      "trip_id": "8_17716994",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "8",
@@ -75870,7 +75870,7 @@
       ]
     },
     {
-      "trip_id": "8_17612982",
+      "trip_id": "8_17716995",
       "direction_id": "1",
       "headsign": "KROMERA",
       "service_id": "8",
@@ -75932,7 +75932,7 @@
       ]
     },
     {
-      "trip_id": "8_17612991",
+      "trip_id": "8_17717004",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "8",
@@ -76084,7 +76084,7 @@
       ]
     },
     {
-      "trip_id": "8_17612992",
+      "trip_id": "8_17717005",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "8",
@@ -76245,7 +76245,7 @@
       ]
     },
     {
-      "trip_id": "8_17612993",
+      "trip_id": "8_17717006",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "8",
@@ -76415,7 +76415,7 @@
       ]
     },
     {
-      "trip_id": "8_17612994",
+      "trip_id": "8_17717007",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "8",
@@ -76576,7 +76576,7 @@
       ]
     },
     {
-      "trip_id": "8_17612995",
+      "trip_id": "8_17717008",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "8",
@@ -76746,7 +76746,7 @@
       ]
     },
     {
-      "trip_id": "8_17612996",
+      "trip_id": "8_17717009",
       "direction_id": "1",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "8",
@@ -76889,7 +76889,7 @@
       ]
     },
     {
-      "trip_id": "8_17616361",
+      "trip_id": "8_17720374",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "8",
@@ -77023,7 +77023,7 @@
       ]
     },
     {
-      "trip_id": "8_17616362",
+      "trip_id": "8_17720375",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "8",
@@ -77184,7 +77184,7 @@
       ]
     },
     {
-      "trip_id": "8_17616363",
+      "trip_id": "8_17720376",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "8",
@@ -77354,7 +77354,7 @@
       ]
     },
     {
-      "trip_id": "8_17616364",
+      "trip_id": "8_17720377",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "8",
@@ -77515,7 +77515,7 @@
       ]
     },
     {
-      "trip_id": "8_17616365",
+      "trip_id": "8_17720378",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "8",
@@ -77694,7 +77694,7 @@
       ]
     },
     {
-      "trip_id": "8_17617399",
+      "trip_id": "8_17721412",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "8",
@@ -77864,7 +77864,7 @@
       ]
     },
     {
-      "trip_id": "8_17617400",
+      "trip_id": "8_17721413",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "8",
@@ -78034,7 +78034,7 @@
       ]
     },
     {
-      "trip_id": "8_17617401",
+      "trip_id": "8_17721414",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "8",
@@ -78195,7 +78195,7 @@
       ]
     },
     {
-      "trip_id": "8_17617402",
+      "trip_id": "8_17721415",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "8",
@@ -78365,7 +78365,7 @@
       ]
     },
     {
-      "trip_id": "8_17617403",
+      "trip_id": "8_17721416",
       "direction_id": "1",
       "headsign": "SOŁTYSOWICE",
       "service_id": "8",

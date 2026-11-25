@@ -2,7 +2,7 @@
   "line": "108",
   "trips": [
     {
-      "trip_id": "3_17617910",
+      "trip_id": "3_17636585",
       "direction_id": "1",
       "headsign": "KMINKOWA",
       "service_id": "3",
@@ -226,7 +226,7 @@
       ]
     },
     {
-      "trip_id": "3_17617911",
+      "trip_id": "3_17636586",
       "direction_id": "0",
       "headsign": "DWORZEC NADODRZE",
       "service_id": "3",
@@ -432,7 +432,7 @@
       ]
     },
     {
-      "trip_id": "3_17617912",
+      "trip_id": "3_17636587",
       "direction_id": "1",
       "headsign": "KMINKOWA",
       "service_id": "3",
@@ -656,7 +656,7 @@
       ]
     },
     {
-      "trip_id": "3_17617913",
+      "trip_id": "3_17636588",
       "direction_id": "0",
       "headsign": "DWORZEC NADODRZE",
       "service_id": "3",
@@ -862,7 +862,7 @@
       ]
     },
     {
-      "trip_id": "3_17617914",
+      "trip_id": "3_17636589",
       "direction_id": "1",
       "headsign": "KMINKOWA",
       "service_id": "3",
@@ -1086,7 +1086,7 @@
       ]
     },
     {
-      "trip_id": "3_17617915",
+      "trip_id": "3_17636590",
       "direction_id": "0",
       "headsign": "DWORZEC NADODRZE",
       "service_id": "3",
@@ -1292,7 +1292,7 @@
       ]
     },
     {
-      "trip_id": "3_17617916",
+      "trip_id": "3_17636591",
       "direction_id": "1",
       "headsign": "KMINKOWA",
       "service_id": "3",
@@ -1516,7 +1516,7 @@
       ]
     },
     {
-      "trip_id": "3_17617917",
+      "trip_id": "3_17636592",
       "direction_id": "0",
       "headsign": "DWORZEC NADODRZE",
       "service_id": "3",
@@ -1722,7 +1722,7 @@
       ]
     },
     {
-      "trip_id": "3_17617920",
+      "trip_id": "3_17636595",
       "direction_id": "1",
       "headsign": "KMINKOWA",
       "service_id": "3",
@@ -1946,7 +1946,7 @@
       ]
     },
     {
-      "trip_id": "3_17617921",
+      "trip_id": "3_17636596",
       "direction_id": "0",
       "headsign": "DWORZEC NADODRZE",
       "service_id": "3",
@@ -2152,7 +2152,7 @@
       ]
     },
     {
-      "trip_id": "3_17617924",
+      "trip_id": "3_17636599",
       "direction_id": "1",
       "headsign": "KMINKOWA",
       "service_id": "3",
@@ -2376,7 +2376,7 @@
       ]
     },
     {
-      "trip_id": "3_17617931",
+      "trip_id": "3_17636606",
       "direction_id": "1",
       "headsign": "KMINKOWA",
       "service_id": "3",
@@ -2600,7 +2600,7 @@
       ]
     },
     {
-      "trip_id": "3_17617932",
+      "trip_id": "3_17636607",
       "direction_id": "0",
       "headsign": "DWORZEC NADODRZE",
       "service_id": "3",
@@ -2806,7 +2806,7 @@
       ]
     },
     {
-      "trip_id": "3_17617935",
+      "trip_id": "3_17636610",
       "direction_id": "1",
       "headsign": "KMINKOWA",
       "service_id": "3",
@@ -3030,7 +3030,7 @@
       ]
     },
     {
-      "trip_id": "3_17617936",
+      "trip_id": "3_17636611",
       "direction_id": "0",
       "headsign": "DWORZEC NADODRZE",
       "service_id": "3",
@@ -3236,7 +3236,7 @@
       ]
     },
     {
-      "trip_id": "3_17617937",
+      "trip_id": "3_17636612",
       "direction_id": "1",
       "headsign": "KMINKOWA",
       "service_id": "3",
@@ -3460,7 +3460,7 @@
       ]
     },
     {
-      "trip_id": "3_17617938",
+      "trip_id": "3_17636613",
       "direction_id": "0",
       "headsign": "DWORZEC NADODRZE",
       "service_id": "3",
@@ -3666,7 +3666,7 @@
       ]
     },
     {
-      "trip_id": "3_17617939",
+      "trip_id": "3_17636614",
       "direction_id": "1",
       "headsign": "KMINKOWA",
       "service_id": "3",
@@ -3890,7 +3890,7 @@
       ]
     },
     {
-      "trip_id": "3_17617940",
+      "trip_id": "3_17636615",
       "direction_id": "0",
       "headsign": "DWORZEC NADODRZE",
       "service_id": "3",
@@ -4096,7 +4096,7 @@
       ]
     },
     {
-      "trip_id": "3_17617941",
+      "trip_id": "3_17636616",
       "direction_id": "1",
       "headsign": "KMINKOWA",
       "service_id": "3",
@@ -4320,7 +4320,7 @@
       ]
     },
     {
-      "trip_id": "3_17617942",
+      "trip_id": "3_17636617",
       "direction_id": "0",
       "headsign": "DWORZEC NADODRZE",
       "service_id": "3",
@@ -4526,7 +4526,7 @@
       ]
     },
     {
-      "trip_id": "3_17617943",
+      "trip_id": "3_17636618",
       "direction_id": "1",
       "headsign": "KMINKOWA",
       "service_id": "3",
@@ -4750,7 +4750,7 @@
       ]
     },
     {
-      "trip_id": "3_17617944",
+      "trip_id": "3_17636619",
       "direction_id": "0",
       "headsign": "DWORZEC NADODRZE",
       "service_id": "3",
@@ -4956,7 +4956,7 @@
       ]
     },
     {
-      "trip_id": "3_17617945",
+      "trip_id": "3_17636620",
       "direction_id": "1",
       "headsign": "KMINKOWA",
       "service_id": "3",
@@ -5180,7 +5180,7 @@
       ]
     },
     {
-      "trip_id": "3_17617946",
+      "trip_id": "3_17636621",
       "direction_id": "0",
       "headsign": "DWORZEC NADODRZE",
       "service_id": "3",
@@ -5386,7 +5386,7 @@
       ]
     },
     {
-      "trip_id": "3_17618012",
+      "trip_id": "3_17636687",
       "direction_id": "1",
       "headsign": "KMINKOWA",
       "service_id": "3",
@@ -5610,7 +5610,7 @@
       ]
     },
     {
-      "trip_id": "3_17618013",
+      "trip_id": "3_17636688",
       "direction_id": "0",
       "headsign": "DWORZEC NADODRZE",
       "service_id": "3",
@@ -5816,7 +5816,7 @@
       ]
     },
     {
-      "trip_id": "3_17618014",
+      "trip_id": "3_17636689",
       "direction_id": "1",
       "headsign": "KMINKOWA",
       "service_id": "3",
@@ -6040,7 +6040,7 @@
       ]
     },
     {
-      "trip_id": "3_17618015",
+      "trip_id": "3_17636690",
       "direction_id": "0",
       "headsign": "DWORZEC NADODRZE",
       "service_id": "3",
@@ -6246,7 +6246,7 @@
       ]
     },
     {
-      "trip_id": "3_17618016",
+      "trip_id": "3_17636691",
       "direction_id": "1",
       "headsign": "KMINKOWA",
       "service_id": "3",
@@ -6470,7 +6470,7 @@
       ]
     },
     {
-      "trip_id": "3_17618017",
+      "trip_id": "3_17636692",
       "direction_id": "0",
       "headsign": "DWORZEC NADODRZE",
       "service_id": "3",
@@ -6676,7 +6676,7 @@
       ]
     },
     {
-      "trip_id": "3_17618018",
+      "trip_id": "3_17636693",
       "direction_id": "1",
       "headsign": "KMINKOWA",
       "service_id": "3",
@@ -6900,7 +6900,7 @@
       ]
     },
     {
-      "trip_id": "3_17618019",
+      "trip_id": "3_17636694",
       "direction_id": "0",
       "headsign": "DWORZEC NADODRZE",
       "service_id": "3",
@@ -7106,7 +7106,7 @@
       ]
     },
     {
-      "trip_id": "3_17618022",
+      "trip_id": "3_17636697",
       "direction_id": "1",
       "headsign": "KMINKOWA",
       "service_id": "3",
@@ -7330,7 +7330,7 @@
       ]
     },
     {
-      "trip_id": "3_17618023",
+      "trip_id": "3_17636698",
       "direction_id": "0",
       "headsign": "DWORZEC NADODRZE",
       "service_id": "3",
@@ -7536,7 +7536,7 @@
       ]
     },
     {
-      "trip_id": "3_17618026",
+      "trip_id": "3_17636701",
       "direction_id": "1",
       "headsign": "KMINKOWA",
       "service_id": "3",
@@ -7760,7 +7760,7 @@
       ]
     },
     {
-      "trip_id": "3_17618027",
+      "trip_id": "3_17636702",
       "direction_id": "0",
       "headsign": "DWORZEC NADODRZE",
       "service_id": "3",
@@ -7966,7 +7966,7 @@
       ]
     },
     {
-      "trip_id": "3_17618030",
+      "trip_id": "3_17636705",
       "direction_id": "1",
       "headsign": "KMINKOWA",
       "service_id": "3",
@@ -8190,7 +8190,7 @@
       ]
     },
     {
-      "trip_id": "3_17618031",
+      "trip_id": "3_17636706",
       "direction_id": "0",
       "headsign": "DWORZEC NADODRZE",
       "service_id": "3",
@@ -8396,7 +8396,7 @@
       ]
     },
     {
-      "trip_id": "3_17618036",
+      "trip_id": "3_17636711",
       "direction_id": "1",
       "headsign": "PRACZE WIDAWSKIE",
       "service_id": "3",
@@ -8539,7 +8539,7 @@
       ]
     },
     {
-      "trip_id": "3_17618037",
+      "trip_id": "3_17636712",
       "direction_id": "0",
       "headsign": "DWORZEC NADODRZE",
       "service_id": "3",
@@ -8664,7 +8664,7 @@
       ]
     },
     {
-      "trip_id": "3_17618042",
+      "trip_id": "3_17636717",
       "direction_id": "1",
       "headsign": "KMINKOWA",
       "service_id": "3",
@@ -8888,7 +8888,7 @@
       ]
     },
     {
-      "trip_id": "3_17618043",
+      "trip_id": "3_17636718",
       "direction_id": "0",
       "headsign": "DWORZEC NADODRZE",
       "service_id": "3",
@@ -9094,7 +9094,7 @@
       ]
     },
     {
-      "trip_id": "3_17618044",
+      "trip_id": "3_17636719",
       "direction_id": "1",
       "headsign": "KMINKOWA",
       "service_id": "3",
@@ -9318,7 +9318,7 @@
       ]
     },
     {
-      "trip_id": "3_17618045",
+      "trip_id": "3_17636720",
       "direction_id": "0",
       "headsign": "DWORZEC NADODRZE",
       "service_id": "3",
@@ -9524,7 +9524,7 @@
       ]
     },
     {
-      "trip_id": "3_17618048",
+      "trip_id": "3_17636723",
       "direction_id": "1",
       "headsign": "KMINKOWA",
       "service_id": "3",
@@ -9748,7 +9748,7 @@
       ]
     },
     {
-      "trip_id": "3_17618049",
+      "trip_id": "3_17636724",
       "direction_id": "0",
       "headsign": "DWORZEC NADODRZE",
       "service_id": "3",
@@ -9954,7 +9954,7 @@
       ]
     },
     {
-      "trip_id": "3_17618052",
+      "trip_id": "3_17636727",
       "direction_id": "1",
       "headsign": "KMINKOWA",
       "service_id": "3",
@@ -10178,7 +10178,7 @@
       ]
     },
     {
-      "trip_id": "3_17618053",
+      "trip_id": "3_17636728",
       "direction_id": "0",
       "headsign": "DWORZEC NADODRZE",
       "service_id": "3",
@@ -10384,7 +10384,7 @@
       ]
     },
     {
-      "trip_id": "3_17618056",
+      "trip_id": "3_17636731",
       "direction_id": "1",
       "headsign": "KMINKOWA",
       "service_id": "3",
@@ -10608,7 +10608,7 @@
       ]
     },
     {
-      "trip_id": "3_17618057",
+      "trip_id": "3_17636732",
       "direction_id": "0",
       "headsign": "DWORZEC NADODRZE",
       "service_id": "3",
@@ -10814,7 +10814,7 @@
       ]
     },
     {
-      "trip_id": "3_17618063",
+      "trip_id": "3_17636738",
       "direction_id": "1",
       "headsign": "KMINKOWA",
       "service_id": "3",
@@ -11038,7 +11038,7 @@
       ]
     },
     {
-      "trip_id": "3_17618064",
+      "trip_id": "3_17636739",
       "direction_id": "0",
       "headsign": "DWORZEC NADODRZE",
       "service_id": "3",
@@ -11244,7 +11244,7 @@
       ]
     },
     {
-      "trip_id": "3_17618065",
+      "trip_id": "3_17636740",
       "direction_id": "1",
       "headsign": "KMINKOWA",
       "service_id": "3",
@@ -11468,7 +11468,7 @@
       ]
     },
     {
-      "trip_id": "3_17618066",
+      "trip_id": "3_17636741",
       "direction_id": "0",
       "headsign": "DWORZEC NADODRZE",
       "service_id": "3",
@@ -11674,7 +11674,7 @@
       ]
     },
     {
-      "trip_id": "3_17618067",
+      "trip_id": "3_17636742",
       "direction_id": "1",
       "headsign": "KMINKOWA",
       "service_id": "3",
@@ -11898,7 +11898,7 @@
       ]
     },
     {
-      "trip_id": "3_17618068",
+      "trip_id": "3_17636743",
       "direction_id": "0",
       "headsign": "DWORZEC NADODRZE",
       "service_id": "3",
@@ -12104,7 +12104,7 @@
       ]
     },
     {
-      "trip_id": "3_17618069",
+      "trip_id": "3_17636744",
       "direction_id": "1",
       "headsign": "KMINKOWA",
       "service_id": "3",
@@ -12328,7 +12328,7 @@
       ]
     },
     {
-      "trip_id": "3_17618070",
+      "trip_id": "3_17636745",
       "direction_id": "0",
       "headsign": "DWORZEC NADODRZE",
       "service_id": "3",
@@ -12534,7 +12534,7 @@
       ]
     },
     {
-      "trip_id": "3_17618071",
+      "trip_id": "3_17636746",
       "direction_id": "1",
       "headsign": "KMINKOWA",
       "service_id": "3",
@@ -12758,7 +12758,7 @@
       ]
     },
     {
-      "trip_id": "3_17618072",
+      "trip_id": "3_17636747",
       "direction_id": "0",
       "headsign": "DWORZEC NADODRZE",
       "service_id": "3",
@@ -12964,7 +12964,7 @@
       ]
     },
     {
-      "trip_id": "3_17618073",
+      "trip_id": "3_17636748",
       "direction_id": "1",
       "headsign": "KMINKOWA",
       "service_id": "3",
@@ -13188,7 +13188,7 @@
       ]
     },
     {
-      "trip_id": "3_17618074",
+      "trip_id": "3_17636749",
       "direction_id": "0",
       "headsign": "DWORZEC NADODRZE",
       "service_id": "3",
@@ -13394,7 +13394,7 @@
       ]
     },
     {
-      "trip_id": "3_17618075",
+      "trip_id": "3_17636750",
       "direction_id": "1",
       "headsign": "KMINKOWA",
       "service_id": "3",
@@ -13618,7 +13618,7 @@
       ]
     },
     {
-      "trip_id": "3_17618076",
+      "trip_id": "3_17636751",
       "direction_id": "0",
       "headsign": "DWORZEC NADODRZE",
       "service_id": "3",
@@ -13824,7 +13824,7 @@
       ]
     },
     {
-      "trip_id": "4_17618574",
+      "trip_id": "4_17637249",
       "direction_id": "1",
       "headsign": "KMINKOWA",
       "service_id": "4",
@@ -14048,7 +14048,7 @@
       ]
     },
     {
-      "trip_id": "4_17618575",
+      "trip_id": "4_17637250",
       "direction_id": "0",
       "headsign": "DWORZEC NADODRZE",
       "service_id": "4",
@@ -14254,7 +14254,7 @@
       ]
     },
     {
-      "trip_id": "4_17618578",
+      "trip_id": "4_17637253",
       "direction_id": "1",
       "headsign": "KMINKOWA",
       "service_id": "4",
@@ -14478,7 +14478,7 @@
       ]
     },
     {
-      "trip_id": "4_17618579",
+      "trip_id": "4_17637254",
       "direction_id": "0",
       "headsign": "DWORZEC NADODRZE",
       "service_id": "4",
@@ -14684,7 +14684,7 @@
       ]
     },
     {
-      "trip_id": "4_17618580",
+      "trip_id": "4_17637255",
       "direction_id": "1",
       "headsign": "KMINKOWA",
       "service_id": "4",
@@ -14908,7 +14908,7 @@
       ]
     },
     {
-      "trip_id": "4_17618581",
+      "trip_id": "4_17637256",
       "direction_id": "0",
       "headsign": "DWORZEC NADODRZE",
       "service_id": "4",
@@ -15114,7 +15114,7 @@
       ]
     },
     {
-      "trip_id": "4_17618582",
+      "trip_id": "4_17637257",
       "direction_id": "1",
       "headsign": "KMINKOWA",
       "service_id": "4",
@@ -15338,7 +15338,7 @@
       ]
     },
     {
-      "trip_id": "4_17618583",
+      "trip_id": "4_17637258",
       "direction_id": "0",
       "headsign": "DWORZEC NADODRZE",
       "service_id": "4",
@@ -15544,7 +15544,7 @@
       ]
     },
     {
-      "trip_id": "4_17618586",
+      "trip_id": "4_17637261",
       "direction_id": "1",
       "headsign": "KMINKOWA",
       "service_id": "4",
@@ -15768,7 +15768,7 @@
       ]
     },
     {
-      "trip_id": "4_17618587",
+      "trip_id": "4_17637262",
       "direction_id": "0",
       "headsign": "DWORZEC NADODRZE",
       "service_id": "4",
@@ -15974,7 +15974,7 @@
       ]
     },
     {
-      "trip_id": "4_17618592",
+      "trip_id": "4_17637267",
       "direction_id": "1",
       "headsign": "KMINKOWA",
       "service_id": "4",
@@ -16198,7 +16198,7 @@
       ]
     },
     {
-      "trip_id": "4_17618595",
+      "trip_id": "4_17637270",
       "direction_id": "1",
       "headsign": "KMINKOWA",
       "service_id": "4",
@@ -16422,7 +16422,7 @@
       ]
     },
     {
-      "trip_id": "4_17618596",
+      "trip_id": "4_17637271",
       "direction_id": "0",
       "headsign": "DWORZEC NADODRZE",
       "service_id": "4",
@@ -16628,7 +16628,7 @@
       ]
     },
     {
-      "trip_id": "4_17618597",
+      "trip_id": "4_17637272",
       "direction_id": "1",
       "headsign": "KMINKOWA",
       "service_id": "4",
@@ -16852,7 +16852,7 @@
       ]
     },
     {
-      "trip_id": "4_17618598",
+      "trip_id": "4_17637273",
       "direction_id": "0",
       "headsign": "DWORZEC NADODRZE",
       "service_id": "4",
@@ -17058,7 +17058,7 @@
       ]
     },
     {
-      "trip_id": "4_17618599",
+      "trip_id": "4_17637274",
       "direction_id": "1",
       "headsign": "KMINKOWA",
       "service_id": "4",
@@ -17282,7 +17282,7 @@
       ]
     },
     {
-      "trip_id": "4_17618600",
+      "trip_id": "4_17637275",
       "direction_id": "0",
       "headsign": "DWORZEC NADODRZE",
       "service_id": "4",
@@ -17488,7 +17488,7 @@
       ]
     },
     {
-      "trip_id": "4_17618601",
+      "trip_id": "4_17637276",
       "direction_id": "1",
       "headsign": "KMINKOWA",
       "service_id": "4",
@@ -17712,7 +17712,7 @@
       ]
     },
     {
-      "trip_id": "4_17618602",
+      "trip_id": "4_17637277",
       "direction_id": "0",
       "headsign": "DWORZEC NADODRZE",
       "service_id": "4",
@@ -17918,7 +17918,7 @@
       ]
     },
     {
-      "trip_id": "4_17618603",
+      "trip_id": "4_17637278",
       "direction_id": "1",
       "headsign": "KMINKOWA",
       "service_id": "4",
@@ -18142,7 +18142,7 @@
       ]
     },
     {
-      "trip_id": "4_17618604",
+      "trip_id": "4_17637279",
       "direction_id": "0",
       "headsign": "DWORZEC NADODRZE",
       "service_id": "4",
@@ -18348,7 +18348,7 @@
       ]
     },
     {
-      "trip_id": "4_17618605",
+      "trip_id": "4_17637280",
       "direction_id": "1",
       "headsign": "KMINKOWA",
       "service_id": "4",
@@ -18572,7 +18572,7 @@
       ]
     },
     {
-      "trip_id": "4_17618606",
+      "trip_id": "4_17637281",
       "direction_id": "0",
       "headsign": "DWORZEC NADODRZE",
       "service_id": "4",
@@ -18778,7 +18778,7 @@
       ]
     },
     {
-      "trip_id": "4_17618607",
+      "trip_id": "4_17637282",
       "direction_id": "1",
       "headsign": "KMINKOWA",
       "service_id": "4",
@@ -19002,7 +19002,7 @@
       ]
     },
     {
-      "trip_id": "4_17618608",
+      "trip_id": "4_17637283",
       "direction_id": "0",
       "headsign": "DWORZEC NADODRZE",
       "service_id": "4",
@@ -19208,7 +19208,7 @@
       ]
     },
     {
-      "trip_id": "4_17618641",
+      "trip_id": "4_17637316",
       "direction_id": "1",
       "headsign": "KMINKOWA",
       "service_id": "4",
@@ -19432,7 +19432,7 @@
       ]
     },
     {
-      "trip_id": "4_17618642",
+      "trip_id": "4_17637317",
       "direction_id": "0",
       "headsign": "DWORZEC NADODRZE",
       "service_id": "4",
@@ -19638,7 +19638,7 @@
       ]
     },
     {
-      "trip_id": "4_17618645",
+      "trip_id": "4_17637320",
       "direction_id": "1",
       "headsign": "KMINKOWA",
       "service_id": "4",
@@ -19862,7 +19862,7 @@
       ]
     },
     {
-      "trip_id": "4_17618646",
+      "trip_id": "4_17637321",
       "direction_id": "0",
       "headsign": "DWORZEC NADODRZE",
       "service_id": "4",
@@ -20068,7 +20068,7 @@
       ]
     },
     {
-      "trip_id": "4_17618649",
+      "trip_id": "4_17637324",
       "direction_id": "1",
       "headsign": "KMINKOWA",
       "service_id": "4",
@@ -20292,7 +20292,7 @@
       ]
     },
     {
-      "trip_id": "4_17618650",
+      "trip_id": "4_17637325",
       "direction_id": "0",
       "headsign": "DWORZEC NADODRZE",
       "service_id": "4",
@@ -20498,7 +20498,7 @@
       ]
     },
     {
-      "trip_id": "4_17618653",
+      "trip_id": "4_17637328",
       "direction_id": "1",
       "headsign": "KMINKOWA",
       "service_id": "4",
@@ -20722,7 +20722,7 @@
       ]
     },
     {
-      "trip_id": "4_17618654",
+      "trip_id": "4_17637329",
       "direction_id": "0",
       "headsign": "DWORZEC NADODRZE",
       "service_id": "4",
@@ -20928,7 +20928,7 @@
       ]
     },
     {
-      "trip_id": "4_17618657",
+      "trip_id": "4_17637332",
       "direction_id": "1",
       "headsign": "KMINKOWA",
       "service_id": "4",
@@ -21152,7 +21152,7 @@
       ]
     },
     {
-      "trip_id": "4_17618658",
+      "trip_id": "4_17637333",
       "direction_id": "0",
       "headsign": "DWORZEC NADODRZE",
       "service_id": "4",
@@ -21358,7 +21358,7 @@
       ]
     },
     {
-      "trip_id": "4_17618659",
+      "trip_id": "4_17637334",
       "direction_id": "1",
       "headsign": "KMINKOWA",
       "service_id": "4",
@@ -21582,7 +21582,7 @@
       ]
     },
     {
-      "trip_id": "4_17618660",
+      "trip_id": "4_17637335",
       "direction_id": "0",
       "headsign": "DWORZEC NADODRZE",
       "service_id": "4",
@@ -21788,7 +21788,7 @@
       ]
     },
     {
-      "trip_id": "4_17618665",
+      "trip_id": "4_17637340",
       "direction_id": "1",
       "headsign": "PRACZE WIDAWSKIE",
       "service_id": "4",
@@ -21931,7 +21931,7 @@
       ]
     },
     {
-      "trip_id": "4_17618672",
+      "trip_id": "4_17637347",
       "direction_id": "1",
       "headsign": "KMINKOWA",
       "service_id": "4",
@@ -22155,7 +22155,7 @@
       ]
     },
     {
-      "trip_id": "4_17618673",
+      "trip_id": "4_17637348",
       "direction_id": "0",
       "headsign": "DWORZEC NADODRZE",
       "service_id": "4",
@@ -22361,7 +22361,7 @@
       ]
     },
     {
-      "trip_id": "4_17618676",
+      "trip_id": "4_17637351",
       "direction_id": "1",
       "headsign": "KMINKOWA",
       "service_id": "4",
@@ -22585,7 +22585,7 @@
       ]
     },
     {
-      "trip_id": "4_17618677",
+      "trip_id": "4_17637352",
       "direction_id": "0",
       "headsign": "DWORZEC NADODRZE",
       "service_id": "4",
@@ -22791,7 +22791,7 @@
       ]
     },
     {
-      "trip_id": "4_17618680",
+      "trip_id": "4_17637355",
       "direction_id": "1",
       "headsign": "KMINKOWA",
       "service_id": "4",
@@ -23015,7 +23015,7 @@
       ]
     },
     {
-      "trip_id": "4_17618681",
+      "trip_id": "4_17637356",
       "direction_id": "0",
       "headsign": "DWORZEC NADODRZE",
       "service_id": "4",
@@ -23221,7 +23221,7 @@
       ]
     },
     {
-      "trip_id": "4_17618684",
+      "trip_id": "4_17637359",
       "direction_id": "1",
       "headsign": "KMINKOWA",
       "service_id": "4",
@@ -23445,7 +23445,7 @@
       ]
     },
     {
-      "trip_id": "4_17618685",
+      "trip_id": "4_17637360",
       "direction_id": "0",
       "headsign": "DWORZEC NADODRZE",
       "service_id": "4",
@@ -23651,7 +23651,7 @@
       ]
     },
     {
-      "trip_id": "4_17618688",
+      "trip_id": "4_17637363",
       "direction_id": "1",
       "headsign": "KMINKOWA",
       "service_id": "4",
@@ -23875,7 +23875,7 @@
       ]
     },
     {
-      "trip_id": "4_17618689",
+      "trip_id": "4_17637364",
       "direction_id": "0",
       "headsign": "DWORZEC NADODRZE",
       "service_id": "4",
@@ -24081,7 +24081,7 @@
       ]
     },
     {
-      "trip_id": "4_17618690",
+      "trip_id": "4_17637365",
       "direction_id": "1",
       "headsign": "KMINKOWA",
       "service_id": "4",
@@ -24305,7 +24305,7 @@
       ]
     },
     {
-      "trip_id": "4_17618691",
+      "trip_id": "4_17637366",
       "direction_id": "0",
       "headsign": "DWORZEC NADODRZE",
       "service_id": "4",
@@ -24511,7 +24511,7 @@
       ]
     },
     {
-      "trip_id": "4_17618692",
+      "trip_id": "4_17637367",
       "direction_id": "1",
       "headsign": "KMINKOWA",
       "service_id": "4",
@@ -24735,7 +24735,7 @@
       ]
     },
     {
-      "trip_id": "4_17618693",
+      "trip_id": "4_17637368",
       "direction_id": "0",
       "headsign": "DWORZEC NADODRZE",
       "service_id": "4",
@@ -24941,7 +24941,7 @@
       ]
     },
     {
-      "trip_id": "4_17618696",
+      "trip_id": "4_17637371",
       "direction_id": "1",
       "headsign": "KMINKOWA",
       "service_id": "4",
@@ -25165,7 +25165,7 @@
       ]
     },
     {
-      "trip_id": "4_17618697",
+      "trip_id": "4_17637372",
       "direction_id": "0",
       "headsign": "DWORZEC NADODRZE",
       "service_id": "4",
@@ -25371,7 +25371,7 @@
       ]
     },
     {
-      "trip_id": "4_17618698",
+      "trip_id": "4_17637373",
       "direction_id": "1",
       "headsign": "KMINKOWA",
       "service_id": "4",
@@ -25595,7 +25595,7 @@
       ]
     },
     {
-      "trip_id": "4_17618699",
+      "trip_id": "4_17637374",
       "direction_id": "0",
       "headsign": "DWORZEC NADODRZE",
       "service_id": "4",
@@ -25801,7 +25801,7 @@
       ]
     },
     {
-      "trip_id": "4_17618700",
+      "trip_id": "4_17637375",
       "direction_id": "1",
       "headsign": "KMINKOWA",
       "service_id": "4",
@@ -26025,7 +26025,7 @@
       ]
     },
     {
-      "trip_id": "4_17618701",
+      "trip_id": "4_17637376",
       "direction_id": "0",
       "headsign": "DWORZEC NADODRZE",
       "service_id": "4",
@@ -26231,7 +26231,7 @@
       ]
     },
     {
-      "trip_id": "4_17618702",
+      "trip_id": "4_17637377",
       "direction_id": "1",
       "headsign": "KMINKOWA",
       "service_id": "4",
@@ -26455,7 +26455,7 @@
       ]
     },
     {
-      "trip_id": "4_17618703",
+      "trip_id": "4_17637378",
       "direction_id": "0",
       "headsign": "DWORZEC NADODRZE",
       "service_id": "4",
@@ -26661,7 +26661,7 @@
       ]
     },
     {
-      "trip_id": "6_17619133",
+      "trip_id": "6_17637808",
       "direction_id": "1",
       "headsign": "KMINKOWA",
       "service_id": "6",
@@ -26885,7 +26885,7 @@
       ]
     },
     {
-      "trip_id": "6_17619134",
+      "trip_id": "6_17637809",
       "direction_id": "0",
       "headsign": "DWORZEC NADODRZE",
       "service_id": "6",
@@ -27091,7 +27091,7 @@
       ]
     },
     {
-      "trip_id": "6_17619137",
+      "trip_id": "6_17637812",
       "direction_id": "1",
       "headsign": "KMINKOWA",
       "service_id": "6",
@@ -27315,7 +27315,7 @@
       ]
     },
     {
-      "trip_id": "6_17619138",
+      "trip_id": "6_17637813",
       "direction_id": "0",
       "headsign": "DWORZEC NADODRZE",
       "service_id": "6",
@@ -27521,7 +27521,7 @@
       ]
     },
     {
-      "trip_id": "6_17619139",
+      "trip_id": "6_17637814",
       "direction_id": "1",
       "headsign": "KMINKOWA",
       "service_id": "6",
@@ -27745,7 +27745,7 @@
       ]
     },
     {
-      "trip_id": "6_17619140",
+      "trip_id": "6_17637815",
       "direction_id": "0",
       "headsign": "DWORZEC NADODRZE",
       "service_id": "6",
@@ -27951,7 +27951,7 @@
       ]
     },
     {
-      "trip_id": "6_17619141",
+      "trip_id": "6_17637816",
       "direction_id": "1",
       "headsign": "KMINKOWA",
       "service_id": "6",
@@ -28175,7 +28175,7 @@
       ]
     },
     {
-      "trip_id": "6_17619142",
+      "trip_id": "6_17637817",
       "direction_id": "0",
       "headsign": "DWORZEC NADODRZE",
       "service_id": "6",
@@ -28381,7 +28381,7 @@
       ]
     },
     {
-      "trip_id": "6_17619143",
+      "trip_id": "6_17637818",
       "direction_id": "1",
       "headsign": "KMINKOWA",
       "service_id": "6",
@@ -28605,7 +28605,7 @@
       ]
     },
     {
-      "trip_id": "6_17619144",
+      "trip_id": "6_17637819",
       "direction_id": "0",
       "headsign": "DWORZEC NADODRZE",
       "service_id": "6",
@@ -28811,7 +28811,7 @@
       ]
     },
     {
-      "trip_id": "6_17619145",
+      "trip_id": "6_17637820",
       "direction_id": "1",
       "headsign": "KMINKOWA",
       "service_id": "6",
@@ -29035,7 +29035,7 @@
       ]
     },
     {
-      "trip_id": "6_17619146",
+      "trip_id": "6_17637821",
       "direction_id": "0",
       "headsign": "DWORZEC NADODRZE",
       "service_id": "6",
@@ -29241,7 +29241,7 @@
       ]
     },
     {
-      "trip_id": "6_17619147",
+      "trip_id": "6_17637822",
       "direction_id": "1",
       "headsign": "KMINKOWA",
       "service_id": "6",
@@ -29465,7 +29465,7 @@
       ]
     },
     {
-      "trip_id": "6_17619148",
+      "trip_id": "6_17637823",
       "direction_id": "0",
       "headsign": "DWORZEC NADODRZE",
       "service_id": "6",
@@ -29671,7 +29671,7 @@
       ]
     },
     {
-      "trip_id": "6_17619151",
+      "trip_id": "6_17637826",
       "direction_id": "1",
       "headsign": "KMINKOWA",
       "service_id": "6",
@@ -29895,7 +29895,7 @@
       ]
     },
     {
-      "trip_id": "6_17619152",
+      "trip_id": "6_17637827",
       "direction_id": "0",
       "headsign": "DWORZEC NADODRZE",
       "service_id": "6",
@@ -30101,7 +30101,7 @@
       ]
     },
     {
-      "trip_id": "6_17619153",
+      "trip_id": "6_17637828",
       "direction_id": "1",
       "headsign": "PRACZE WIDAWSKIE",
       "service_id": "6",
@@ -30244,7 +30244,7 @@
       ]
     },
     {
-      "trip_id": "6_17619154",
+      "trip_id": "6_17637829",
       "direction_id": "0",
       "headsign": "DWORZEC NADODRZE",
       "service_id": "6",
@@ -30450,7 +30450,7 @@
       ]
     },
     {
-      "trip_id": "6_17619155",
+      "trip_id": "6_17637830",
       "direction_id": "1",
       "headsign": "KMINKOWA",
       "service_id": "6",
@@ -30674,7 +30674,7 @@
       ]
     },
     {
-      "trip_id": "6_17619156",
+      "trip_id": "6_17637831",
       "direction_id": "0",
       "headsign": "DWORZEC NADODRZE",
       "service_id": "6",
@@ -30880,7 +30880,7 @@
       ]
     },
     {
-      "trip_id": "6_17619157",
+      "trip_id": "6_17637832",
       "direction_id": "1",
       "headsign": "KMINKOWA",
       "service_id": "6",
@@ -31104,7 +31104,7 @@
       ]
     },
     {
-      "trip_id": "6_17619158",
+      "trip_id": "6_17637833",
       "direction_id": "0",
       "headsign": "DWORZEC NADODRZE",
       "service_id": "6",
@@ -31310,7 +31310,7 @@
       ]
     },
     {
-      "trip_id": "6_17619159",
+      "trip_id": "6_17637834",
       "direction_id": "1",
       "headsign": "KMINKOWA",
       "service_id": "6",
@@ -31534,7 +31534,7 @@
       ]
     },
     {
-      "trip_id": "6_17619160",
+      "trip_id": "6_17637835",
       "direction_id": "0",
       "headsign": "DWORZEC NADODRZE",
       "service_id": "6",
@@ -31740,7 +31740,7 @@
       ]
     },
     {
-      "trip_id": "6_17619163",
+      "trip_id": "6_17637838",
       "direction_id": "1",
       "headsign": "KMINKOWA",
       "service_id": "6",
@@ -31964,7 +31964,7 @@
       ]
     },
     {
-      "trip_id": "6_17619164",
+      "trip_id": "6_17637839",
       "direction_id": "0",
       "headsign": "DWORZEC NADODRZE",
       "service_id": "6",
@@ -32170,7 +32170,7 @@
       ]
     },
     {
-      "trip_id": "6_17619170",
+      "trip_id": "6_17637845",
       "direction_id": "0",
       "headsign": "DWORZEC NADODRZE",
       "service_id": "6",
@@ -32376,7 +32376,7 @@
       ]
     },
     {
-      "trip_id": "6_17619171",
+      "trip_id": "6_17637846",
       "direction_id": "1",
       "headsign": "KMINKOWA",
       "service_id": "6",
@@ -32600,7 +32600,7 @@
       ]
     },
     {
-      "trip_id": "6_17619172",
+      "trip_id": "6_17637847",
       "direction_id": "0",
       "headsign": "DWORZEC NADODRZE",
       "service_id": "6",
@@ -32806,7 +32806,7 @@
       ]
     },
     {
-      "trip_id": "6_17619173",
+      "trip_id": "6_17637848",
       "direction_id": "1",
       "headsign": "KMINKOWA",
       "service_id": "6",
@@ -33030,7 +33030,7 @@
       ]
     },
     {
-      "trip_id": "6_17619174",
+      "trip_id": "6_17637849",
       "direction_id": "0",
       "headsign": "DWORZEC NADODRZE",
       "service_id": "6",
@@ -33236,7 +33236,7 @@
       ]
     },
     {
-      "trip_id": "6_17619178",
+      "trip_id": "6_17637853",
       "direction_id": "1",
       "headsign": "KMINKOWA",
       "service_id": "6",
@@ -33460,7 +33460,7 @@
       ]
     },
     {
-      "trip_id": "6_17619179",
+      "trip_id": "6_17637854",
       "direction_id": "0",
       "headsign": "DWORZEC NADODRZE",
       "service_id": "6",
@@ -33666,7 +33666,7 @@
       ]
     },
     {
-      "trip_id": "6_17619180",
+      "trip_id": "6_17637855",
       "direction_id": "1",
       "headsign": "KMINKOWA",
       "service_id": "6",
@@ -33890,7 +33890,7 @@
       ]
     },
     {
-      "trip_id": "6_17619181",
+      "trip_id": "6_17637856",
       "direction_id": "0",
       "headsign": "DWORZEC NADODRZE",
       "service_id": "6",
@@ -34096,7 +34096,7 @@
       ]
     },
     {
-      "trip_id": "6_17619182",
+      "trip_id": "6_17637857",
       "direction_id": "1",
       "headsign": "KMINKOWA",
       "service_id": "6",
@@ -34320,7 +34320,7 @@
       ]
     },
     {
-      "trip_id": "6_17619183",
+      "trip_id": "6_17637858",
       "direction_id": "0",
       "headsign": "DWORZEC NADODRZE",
       "service_id": "6",
@@ -34526,7 +34526,7 @@
       ]
     },
     {
-      "trip_id": "6_17619184",
+      "trip_id": "6_17637859",
       "direction_id": "1",
       "headsign": "KMINKOWA",
       "service_id": "6",
@@ -34750,7 +34750,7 @@
       ]
     },
     {
-      "trip_id": "6_17619185",
+      "trip_id": "6_17637860",
       "direction_id": "0",
       "headsign": "DWORZEC NADODRZE",
       "service_id": "6",
@@ -34956,7 +34956,7 @@
       ]
     },
     {
-      "trip_id": "6_17619186",
+      "trip_id": "6_17637861",
       "direction_id": "1",
       "headsign": "KMINKOWA",
       "service_id": "6",
@@ -35180,7 +35180,7 @@
       ]
     },
     {
-      "trip_id": "6_17619187",
+      "trip_id": "6_17637862",
       "direction_id": "0",
       "headsign": "DWORZEC NADODRZE",
       "service_id": "6",
@@ -35386,7 +35386,7 @@
       ]
     },
     {
-      "trip_id": "6_17619188",
+      "trip_id": "6_17637863",
       "direction_id": "1",
       "headsign": "KMINKOWA",
       "service_id": "6",
@@ -35610,7 +35610,7 @@
       ]
     },
     {
-      "trip_id": "6_17619189",
+      "trip_id": "6_17637864",
       "direction_id": "0",
       "headsign": "DWORZEC NADODRZE",
       "service_id": "6",
@@ -35816,7 +35816,7 @@
       ]
     },
     {
-      "trip_id": "6_17619192",
+      "trip_id": "6_17637867",
       "direction_id": "1",
       "headsign": "KMINKOWA",
       "service_id": "6",
@@ -36040,7 +36040,7 @@
       ]
     },
     {
-      "trip_id": "6_17619193",
+      "trip_id": "6_17637868",
       "direction_id": "0",
       "headsign": "DWORZEC NADODRZE",
       "service_id": "6",
@@ -36165,7 +36165,7 @@
       ]
     },
     {
-      "trip_id": "6_17619194",
+      "trip_id": "6_17637869",
       "direction_id": "1",
       "headsign": "KMINKOWA",
       "service_id": "6",
@@ -36389,7 +36389,7 @@
       ]
     },
     {
-      "trip_id": "6_17619195",
+      "trip_id": "6_17637870",
       "direction_id": "0",
       "headsign": "DWORZEC NADODRZE",
       "service_id": "6",
@@ -36595,7 +36595,7 @@
       ]
     },
     {
-      "trip_id": "6_17619196",
+      "trip_id": "6_17637871",
       "direction_id": "1",
       "headsign": "KMINKOWA",
       "service_id": "6",
@@ -36819,7 +36819,7 @@
       ]
     },
     {
-      "trip_id": "6_17619197",
+      "trip_id": "6_17637872",
       "direction_id": "0",
       "headsign": "DWORZEC NADODRZE",
       "service_id": "6",
@@ -37034,7 +37034,7 @@
       ]
     },
     {
-      "trip_id": "6_17619198",
+      "trip_id": "6_17637873",
       "direction_id": "1",
       "headsign": "KMINKOWA",
       "service_id": "6",
@@ -37258,7 +37258,7 @@
       ]
     },
     {
-      "trip_id": "6_17619199",
+      "trip_id": "6_17637874",
       "direction_id": "0",
       "headsign": "DWORZEC NADODRZE",
       "service_id": "6",
@@ -37464,7 +37464,7 @@
       ]
     },
     {
-      "trip_id": "6_17619200",
+      "trip_id": "6_17637875",
       "direction_id": "1",
       "headsign": "KMINKOWA",
       "service_id": "6",
@@ -37688,7 +37688,7 @@
       ]
     },
     {
-      "trip_id": "6_17619201",
+      "trip_id": "6_17637876",
       "direction_id": "0",
       "headsign": "DWORZEC NADODRZE",
       "service_id": "6",
@@ -37894,7 +37894,7 @@
       ]
     },
     {
-      "trip_id": "6_17619202",
+      "trip_id": "6_17637877",
       "direction_id": "1",
       "headsign": "KMINKOWA",
       "service_id": "6",
@@ -38118,7 +38118,7 @@
       ]
     },
     {
-      "trip_id": "6_17619203",
+      "trip_id": "6_17637878",
       "direction_id": "0",
       "headsign": "DWORZEC NADODRZE",
       "service_id": "6",
@@ -38324,7 +38324,7 @@
       ]
     },
     {
-      "trip_id": "6_17619204",
+      "trip_id": "6_17637879",
       "direction_id": "1",
       "headsign": "KMINKOWA",
       "service_id": "6",
@@ -38548,7 +38548,7 @@
       ]
     },
     {
-      "trip_id": "6_17619205",
+      "trip_id": "6_17637880",
       "direction_id": "0",
       "headsign": "DWORZEC NADODRZE",
       "service_id": "6",
@@ -38754,7 +38754,7 @@
       ]
     },
     {
-      "trip_id": "6_17619206",
+      "trip_id": "6_17637881",
       "direction_id": "1",
       "headsign": "KMINKOWA",
       "service_id": "6",
@@ -38978,7 +38978,7 @@
       ]
     },
     {
-      "trip_id": "6_17619207",
+      "trip_id": "6_17637882",
       "direction_id": "0",
       "headsign": "DWORZEC NADODRZE",
       "service_id": "6",
@@ -39184,7 +39184,7 @@
       ]
     },
     {
-      "trip_id": "6_17619395",
+      "trip_id": "6_17638070",
       "direction_id": "1",
       "headsign": "KMINKOWA",
       "service_id": "6",
@@ -39408,7 +39408,7 @@
       ]
     },
     {
-      "trip_id": "6_17619396",
+      "trip_id": "6_17638071",
       "direction_id": "0",
       "headsign": "DWORZEC NADODRZE",
       "service_id": "6",
@@ -39614,7 +39614,7 @@
       ]
     },
     {
-      "trip_id": "6_17619397",
+      "trip_id": "6_17638072",
       "direction_id": "1",
       "headsign": "KMINKOWA",
       "service_id": "6",
@@ -39838,7 +39838,7 @@
       ]
     },
     {
-      "trip_id": "6_17619398",
+      "trip_id": "6_17638073",
       "direction_id": "0",
       "headsign": "DWORZEC NADODRZE",
       "service_id": "6",
@@ -40044,7 +40044,7 @@
       ]
     },
     {
-      "trip_id": "6_17619399",
+      "trip_id": "6_17638074",
       "direction_id": "1",
       "headsign": "KMINKOWA",
       "service_id": "6",
@@ -40268,7 +40268,7 @@
       ]
     },
     {
-      "trip_id": "6_17619400",
+      "trip_id": "6_17638075",
       "direction_id": "0",
       "headsign": "DWORZEC NADODRZE",
       "service_id": "6",
@@ -40474,7 +40474,7 @@
       ]
     },
     {
-      "trip_id": "6_17619401",
+      "trip_id": "6_17638076",
       "direction_id": "1",
       "headsign": "KMINKOWA",
       "service_id": "6",
@@ -40698,7 +40698,7 @@
       ]
     },
     {
-      "trip_id": "6_17619402",
+      "trip_id": "6_17638077",
       "direction_id": "0",
       "headsign": "DWORZEC NADODRZE",
       "service_id": "6",
@@ -40904,7 +40904,7 @@
       ]
     },
     {
-      "trip_id": "6_17619403",
+      "trip_id": "6_17638078",
       "direction_id": "1",
       "headsign": "KMINKOWA",
       "service_id": "6",
@@ -41128,7 +41128,7 @@
       ]
     },
     {
-      "trip_id": "6_17619404",
+      "trip_id": "6_17638079",
       "direction_id": "0",
       "headsign": "DWORZEC NADODRZE",
       "service_id": "6",
@@ -41334,7 +41334,7 @@
       ]
     },
     {
-      "trip_id": "6_17619405",
+      "trip_id": "6_17638080",
       "direction_id": "1",
       "headsign": "KMINKOWA",
       "service_id": "6",
@@ -41558,7 +41558,7 @@
       ]
     },
     {
-      "trip_id": "6_17619406",
+      "trip_id": "6_17638081",
       "direction_id": "0",
       "headsign": "DWORZEC NADODRZE",
       "service_id": "6",
@@ -41764,7 +41764,7 @@
       ]
     },
     {
-      "trip_id": "6_17619407",
+      "trip_id": "6_17638082",
       "direction_id": "1",
       "headsign": "KMINKOWA",
       "service_id": "6",
@@ -41988,7 +41988,7 @@
       ]
     },
     {
-      "trip_id": "6_17619408",
+      "trip_id": "6_17638083",
       "direction_id": "0",
       "headsign": "DWORZEC NADODRZE",
       "service_id": "6",
@@ -42194,7 +42194,7 @@
       ]
     },
     {
-      "trip_id": "6_17619409",
+      "trip_id": "6_17638084",
       "direction_id": "1",
       "headsign": "KMINKOWA",
       "service_id": "6",
@@ -42418,7 +42418,7 @@
       ]
     },
     {
-      "trip_id": "6_17619410",
+      "trip_id": "6_17638085",
       "direction_id": "0",
       "headsign": "DWORZEC NADODRZE",
       "service_id": "6",
@@ -42624,7 +42624,7 @@
       ]
     },
     {
-      "trip_id": "6_17619415",
+      "trip_id": "6_17638090",
       "direction_id": "1",
       "headsign": "KMINKOWA",
       "service_id": "6",
@@ -42848,7 +42848,7 @@
       ]
     },
     {
-      "trip_id": "6_17619416",
+      "trip_id": "6_17638091",
       "direction_id": "0",
       "headsign": "DWORZEC NADODRZE",
       "service_id": "6",
@@ -43054,7 +43054,7 @@
       ]
     },
     {
-      "trip_id": "6_17619448",
+      "trip_id": "6_17638123",
       "direction_id": "1",
       "headsign": "KMINKOWA",
       "service_id": "6",
@@ -43278,7 +43278,7 @@
       ]
     },
     {
-      "trip_id": "6_17619449",
+      "trip_id": "6_17638124",
       "direction_id": "0",
       "headsign": "DWORZEC NADODRZE",
       "service_id": "6",
@@ -43484,7 +43484,7 @@
       ]
     },
     {
-      "trip_id": "6_17619462",
+      "trip_id": "6_17638137",
       "direction_id": "1",
       "headsign": "KMINKOWA",
       "service_id": "6",
@@ -43708,7 +43708,7 @@
       ]
     },
     {
-      "trip_id": "6_17619463",
+      "trip_id": "6_17638138",
       "direction_id": "0",
       "headsign": "DWORZEC NADODRZE",
       "service_id": "6",
@@ -43914,7 +43914,7 @@
       ]
     },
     {
-      "trip_id": "6_17619833",
+      "trip_id": "6_17638508",
       "direction_id": "1",
       "headsign": "KMINKOWA",
       "service_id": "6",
@@ -44138,7 +44138,7 @@
       ]
     },
     {
-      "trip_id": "6_17619834",
+      "trip_id": "6_17638509",
       "direction_id": "0",
       "headsign": "DWORZEC NADODRZE",
       "service_id": "6",
@@ -44344,7 +44344,7 @@
       ]
     },
     {
-      "trip_id": "6_17619835",
+      "trip_id": "6_17638510",
       "direction_id": "1",
       "headsign": "KMINKOWA",
       "service_id": "6",
@@ -44568,7 +44568,7 @@
       ]
     },
     {
-      "trip_id": "6_17619836",
+      "trip_id": "6_17638511",
       "direction_id": "0",
       "headsign": "DWORZEC NADODRZE",
       "service_id": "6",
@@ -44774,7 +44774,7 @@
       ]
     },
     {
-      "trip_id": "6_17619837",
+      "trip_id": "6_17638512",
       "direction_id": "1",
       "headsign": "KMINKOWA",
       "service_id": "6",
@@ -44998,7 +44998,7 @@
       ]
     },
     {
-      "trip_id": "6_17619838",
+      "trip_id": "6_17638513",
       "direction_id": "0",
       "headsign": "DWORZEC NADODRZE",
       "service_id": "6",
@@ -45204,7 +45204,7 @@
       ]
     },
     {
-      "trip_id": "6_17619839",
+      "trip_id": "6_17638514",
       "direction_id": "1",
       "headsign": "KMINKOWA",
       "service_id": "6",
@@ -45428,7 +45428,7 @@
       ]
     },
     {
-      "trip_id": "6_17619840",
+      "trip_id": "6_17638515",
       "direction_id": "0",
       "headsign": "DWORZEC NADODRZE",
       "service_id": "6",
@@ -45634,7 +45634,7 @@
       ]
     },
     {
-      "trip_id": "6_17619843",
+      "trip_id": "6_17638518",
       "direction_id": "1",
       "headsign": "PRACZE WIDAWSKIE",
       "service_id": "6",
@@ -45777,7 +45777,7 @@
       ]
     },
     {
-      "trip_id": "6_17619844",
+      "trip_id": "6_17638519",
       "direction_id": "0",
       "headsign": "DWORZEC NADODRZE",
       "service_id": "6",
@@ -45902,7 +45902,7 @@
       ]
     },
     {
-      "trip_id": "6_17619845",
+      "trip_id": "6_17638520",
       "direction_id": "1",
       "headsign": "KMINKOWA",
       "service_id": "6",
@@ -46126,7 +46126,7 @@
       ]
     },
     {
-      "trip_id": "6_17619846",
+      "trip_id": "6_17638521",
       "direction_id": "0",
       "headsign": "DWORZEC NADODRZE",
       "service_id": "6",
@@ -46332,7 +46332,7 @@
       ]
     },
     {
-      "trip_id": "6_17619847",
+      "trip_id": "6_17638522",
       "direction_id": "1",
       "headsign": "KMINKOWA",
       "service_id": "6",
@@ -46556,7 +46556,7 @@
       ]
     },
     {
-      "trip_id": "6_17619848",
+      "trip_id": "6_17638523",
       "direction_id": "0",
       "headsign": "DWORZEC NADODRZE",
       "service_id": "6",
@@ -46762,7 +46762,7 @@
       ]
     },
     {
-      "trip_id": "6_17619849",
+      "trip_id": "6_17638524",
       "direction_id": "1",
       "headsign": "KMINKOWA",
       "service_id": "6",
@@ -46986,7 +46986,7 @@
       ]
     },
     {
-      "trip_id": "6_17619850",
+      "trip_id": "6_17638525",
       "direction_id": "0",
       "headsign": "DWORZEC NADODRZE",
       "service_id": "6",
@@ -47192,7 +47192,7 @@
       ]
     },
     {
-      "trip_id": "8_17620179",
+      "trip_id": "8_17638854",
       "direction_id": "1",
       "headsign": "KMINKOWA",
       "service_id": "8",
@@ -47416,7 +47416,7 @@
       ]
     },
     {
-      "trip_id": "8_17620180",
+      "trip_id": "8_17638855",
       "direction_id": "0",
       "headsign": "DWORZEC NADODRZE",
       "service_id": "8",
@@ -47622,7 +47622,7 @@
       ]
     },
     {
-      "trip_id": "8_17620183",
+      "trip_id": "8_17638858",
       "direction_id": "1",
       "headsign": "KMINKOWA",
       "service_id": "8",
@@ -47846,7 +47846,7 @@
       ]
     },
     {
-      "trip_id": "8_17620184",
+      "trip_id": "8_17638859",
       "direction_id": "0",
       "headsign": "DWORZEC NADODRZE",
       "service_id": "8",
@@ -48052,7 +48052,7 @@
       ]
     },
     {
-      "trip_id": "8_17620185",
+      "trip_id": "8_17638860",
       "direction_id": "1",
       "headsign": "KMINKOWA",
       "service_id": "8",
@@ -48276,7 +48276,7 @@
       ]
     },
     {
-      "trip_id": "8_17620186",
+      "trip_id": "8_17638861",
       "direction_id": "0",
       "headsign": "DWORZEC NADODRZE",
       "service_id": "8",
@@ -48482,7 +48482,7 @@
       ]
     },
     {
-      "trip_id": "8_17620187",
+      "trip_id": "8_17638862",
       "direction_id": "1",
       "headsign": "KMINKOWA",
       "service_id": "8",
@@ -48706,7 +48706,7 @@
       ]
     },
     {
-      "trip_id": "8_17620188",
+      "trip_id": "8_17638863",
       "direction_id": "0",
       "headsign": "DWORZEC NADODRZE",
       "service_id": "8",
@@ -48912,7 +48912,7 @@
       ]
     },
     {
-      "trip_id": "8_17620189",
+      "trip_id": "8_17638864",
       "direction_id": "1",
       "headsign": "KMINKOWA",
       "service_id": "8",
@@ -49136,7 +49136,7 @@
       ]
     },
     {
-      "trip_id": "8_17620190",
+      "trip_id": "8_17638865",
       "direction_id": "0",
       "headsign": "DWORZEC NADODRZE",
       "service_id": "8",
@@ -49342,7 +49342,7 @@
       ]
     },
     {
-      "trip_id": "8_17620191",
+      "trip_id": "8_17638866",
       "direction_id": "1",
       "headsign": "KMINKOWA",
       "service_id": "8",
@@ -49566,7 +49566,7 @@
       ]
     },
     {
-      "trip_id": "8_17620192",
+      "trip_id": "8_17638867",
       "direction_id": "0",
       "headsign": "DWORZEC NADODRZE",
       "service_id": "8",
@@ -49772,7 +49772,7 @@
       ]
     },
     {
-      "trip_id": "8_17620193",
+      "trip_id": "8_17638868",
       "direction_id": "1",
       "headsign": "KMINKOWA",
       "service_id": "8",
@@ -49996,7 +49996,7 @@
       ]
     },
     {
-      "trip_id": "8_17620194",
+      "trip_id": "8_17638869",
       "direction_id": "0",
       "headsign": "DWORZEC NADODRZE",
       "service_id": "8",
@@ -50202,7 +50202,7 @@
       ]
     },
     {
-      "trip_id": "8_17620197",
+      "trip_id": "8_17638872",
       "direction_id": "1",
       "headsign": "KMINKOWA",
       "service_id": "8",
@@ -50426,7 +50426,7 @@
       ]
     },
     {
-      "trip_id": "8_17620198",
+      "trip_id": "8_17638873",
       "direction_id": "0",
       "headsign": "DWORZEC NADODRZE",
       "service_id": "8",
@@ -50632,7 +50632,7 @@
       ]
     },
     {
-      "trip_id": "8_17620199",
+      "trip_id": "8_17638874",
       "direction_id": "1",
       "headsign": "PRACZE WIDAWSKIE",
       "service_id": "8",
@@ -50775,7 +50775,7 @@
       ]
     },
     {
-      "trip_id": "8_17620200",
+      "trip_id": "8_17638875",
       "direction_id": "0",
       "headsign": "DWORZEC NADODRZE",
       "service_id": "8",
@@ -50981,7 +50981,7 @@
       ]
     },
     {
-      "trip_id": "8_17620201",
+      "trip_id": "8_17638876",
       "direction_id": "1",
       "headsign": "KMINKOWA",
       "service_id": "8",
@@ -51205,7 +51205,7 @@
       ]
     },
     {
-      "trip_id": "8_17620202",
+      "trip_id": "8_17638877",
       "direction_id": "0",
       "headsign": "DWORZEC NADODRZE",
       "service_id": "8",
@@ -51411,7 +51411,7 @@
       ]
     },
     {
-      "trip_id": "8_17620203",
+      "trip_id": "8_17638878",
       "direction_id": "1",
       "headsign": "KMINKOWA",
       "service_id": "8",
@@ -51635,7 +51635,7 @@
       ]
     },
     {
-      "trip_id": "8_17620204",
+      "trip_id": "8_17638879",
       "direction_id": "0",
       "headsign": "DWORZEC NADODRZE",
       "service_id": "8",
@@ -51841,7 +51841,7 @@
       ]
     },
     {
-      "trip_id": "8_17620205",
+      "trip_id": "8_17638880",
       "direction_id": "1",
       "headsign": "KMINKOWA",
       "service_id": "8",
@@ -52065,7 +52065,7 @@
       ]
     },
     {
-      "trip_id": "8_17620206",
+      "trip_id": "8_17638881",
       "direction_id": "0",
       "headsign": "DWORZEC NADODRZE",
       "service_id": "8",
@@ -52271,7 +52271,7 @@
       ]
     },
     {
-      "trip_id": "8_17620209",
+      "trip_id": "8_17638884",
       "direction_id": "1",
       "headsign": "KMINKOWA",
       "service_id": "8",
@@ -52495,7 +52495,7 @@
       ]
     },
     {
-      "trip_id": "8_17620210",
+      "trip_id": "8_17638885",
       "direction_id": "0",
       "headsign": "DWORZEC NADODRZE",
       "service_id": "8",
@@ -52701,7 +52701,7 @@
       ]
     },
     {
-      "trip_id": "8_17620216",
+      "trip_id": "8_17638891",
       "direction_id": "0",
       "headsign": "DWORZEC NADODRZE",
       "service_id": "8",
@@ -52907,7 +52907,7 @@
       ]
     },
     {
-      "trip_id": "8_17620217",
+      "trip_id": "8_17638892",
       "direction_id": "1",
       "headsign": "KMINKOWA",
       "service_id": "8",
@@ -53131,7 +53131,7 @@
       ]
     },
     {
-      "trip_id": "8_17620218",
+      "trip_id": "8_17638893",
       "direction_id": "0",
       "headsign": "DWORZEC NADODRZE",
       "service_id": "8",
@@ -53337,7 +53337,7 @@
       ]
     },
     {
-      "trip_id": "8_17620219",
+      "trip_id": "8_17638894",
       "direction_id": "1",
       "headsign": "KMINKOWA",
       "service_id": "8",
@@ -53561,7 +53561,7 @@
       ]
     },
     {
-      "trip_id": "8_17620220",
+      "trip_id": "8_17638895",
       "direction_id": "0",
       "headsign": "DWORZEC NADODRZE",
       "service_id": "8",
@@ -53767,7 +53767,7 @@
       ]
     },
     {
-      "trip_id": "8_17620224",
+      "trip_id": "8_17638899",
       "direction_id": "1",
       "headsign": "KMINKOWA",
       "service_id": "8",
@@ -53991,7 +53991,7 @@
       ]
     },
     {
-      "trip_id": "8_17620225",
+      "trip_id": "8_17638900",
       "direction_id": "0",
       "headsign": "DWORZEC NADODRZE",
       "service_id": "8",
@@ -54197,7 +54197,7 @@
       ]
     },
     {
-      "trip_id": "8_17620226",
+      "trip_id": "8_17638901",
       "direction_id": "1",
       "headsign": "KMINKOWA",
       "service_id": "8",
@@ -54421,7 +54421,7 @@
       ]
     },
     {
-      "trip_id": "8_17620227",
+      "trip_id": "8_17638902",
       "direction_id": "0",
       "headsign": "DWORZEC NADODRZE",
       "service_id": "8",
@@ -54627,7 +54627,7 @@
       ]
     },
     {
-      "trip_id": "8_17620228",
+      "trip_id": "8_17638903",
       "direction_id": "1",
       "headsign": "KMINKOWA",
       "service_id": "8",
@@ -54851,7 +54851,7 @@
       ]
     },
     {
-      "trip_id": "8_17620229",
+      "trip_id": "8_17638904",
       "direction_id": "0",
       "headsign": "DWORZEC NADODRZE",
       "service_id": "8",
@@ -55057,7 +55057,7 @@
       ]
     },
     {
-      "trip_id": "8_17620230",
+      "trip_id": "8_17638905",
       "direction_id": "1",
       "headsign": "KMINKOWA",
       "service_id": "8",
@@ -55281,7 +55281,7 @@
       ]
     },
     {
-      "trip_id": "8_17620231",
+      "trip_id": "8_17638906",
       "direction_id": "0",
       "headsign": "DWORZEC NADODRZE",
       "service_id": "8",
@@ -55487,7 +55487,7 @@
       ]
     },
     {
-      "trip_id": "8_17620232",
+      "trip_id": "8_17638907",
       "direction_id": "1",
       "headsign": "KMINKOWA",
       "service_id": "8",
@@ -55711,7 +55711,7 @@
       ]
     },
     {
-      "trip_id": "8_17620233",
+      "trip_id": "8_17638908",
       "direction_id": "0",
       "headsign": "DWORZEC NADODRZE",
       "service_id": "8",
@@ -55917,7 +55917,7 @@
       ]
     },
     {
-      "trip_id": "8_17620234",
+      "trip_id": "8_17638909",
       "direction_id": "1",
       "headsign": "KMINKOWA",
       "service_id": "8",
@@ -56141,7 +56141,7 @@
       ]
     },
     {
-      "trip_id": "8_17620235",
+      "trip_id": "8_17638910",
       "direction_id": "0",
       "headsign": "DWORZEC NADODRZE",
       "service_id": "8",
@@ -56347,7 +56347,7 @@
       ]
     },
     {
-      "trip_id": "8_17620238",
+      "trip_id": "8_17638913",
       "direction_id": "1",
       "headsign": "KMINKOWA",
       "service_id": "8",
@@ -56571,7 +56571,7 @@
       ]
     },
     {
-      "trip_id": "8_17620239",
+      "trip_id": "8_17638914",
       "direction_id": "0",
       "headsign": "DWORZEC NADODRZE",
       "service_id": "8",
@@ -56696,7 +56696,7 @@
       ]
     },
     {
-      "trip_id": "8_17620240",
+      "trip_id": "8_17638915",
       "direction_id": "1",
       "headsign": "KMINKOWA",
       "service_id": "8",
@@ -56920,7 +56920,7 @@
       ]
     },
     {
-      "trip_id": "8_17620241",
+      "trip_id": "8_17638916",
       "direction_id": "0",
       "headsign": "DWORZEC NADODRZE",
       "service_id": "8",
@@ -57126,7 +57126,7 @@
       ]
     },
     {
-      "trip_id": "8_17620242",
+      "trip_id": "8_17638917",
       "direction_id": "1",
       "headsign": "KMINKOWA",
       "service_id": "8",
@@ -57350,7 +57350,7 @@
       ]
     },
     {
-      "trip_id": "8_17620243",
+      "trip_id": "8_17638918",
       "direction_id": "0",
       "headsign": "DWORZEC NADODRZE",
       "service_id": "8",
@@ -57565,7 +57565,7 @@
       ]
     },
     {
-      "trip_id": "8_17620244",
+      "trip_id": "8_17638919",
       "direction_id": "1",
       "headsign": "KMINKOWA",
       "service_id": "8",
@@ -57789,7 +57789,7 @@
       ]
     },
     {
-      "trip_id": "8_17620245",
+      "trip_id": "8_17638920",
       "direction_id": "0",
       "headsign": "DWORZEC NADODRZE",
       "service_id": "8",
@@ -57995,7 +57995,7 @@
       ]
     },
     {
-      "trip_id": "8_17620246",
+      "trip_id": "8_17638921",
       "direction_id": "1",
       "headsign": "KMINKOWA",
       "service_id": "8",
@@ -58219,7 +58219,7 @@
       ]
     },
     {
-      "trip_id": "8_17620247",
+      "trip_id": "8_17638922",
       "direction_id": "0",
       "headsign": "DWORZEC NADODRZE",
       "service_id": "8",
@@ -58425,7 +58425,7 @@
       ]
     },
     {
-      "trip_id": "8_17620248",
+      "trip_id": "8_17638923",
       "direction_id": "1",
       "headsign": "KMINKOWA",
       "service_id": "8",
@@ -58649,7 +58649,7 @@
       ]
     },
     {
-      "trip_id": "8_17620249",
+      "trip_id": "8_17638924",
       "direction_id": "0",
       "headsign": "DWORZEC NADODRZE",
       "service_id": "8",
@@ -58855,7 +58855,7 @@
       ]
     },
     {
-      "trip_id": "8_17620250",
+      "trip_id": "8_17638925",
       "direction_id": "1",
       "headsign": "KMINKOWA",
       "service_id": "8",
@@ -59079,7 +59079,7 @@
       ]
     },
     {
-      "trip_id": "8_17620251",
+      "trip_id": "8_17638926",
       "direction_id": "0",
       "headsign": "DWORZEC NADODRZE",
       "service_id": "8",
@@ -59285,7 +59285,7 @@
       ]
     },
     {
-      "trip_id": "8_17620252",
+      "trip_id": "8_17638927",
       "direction_id": "1",
       "headsign": "KMINKOWA",
       "service_id": "8",
@@ -59509,7 +59509,7 @@
       ]
     },
     {
-      "trip_id": "8_17620253",
+      "trip_id": "8_17638928",
       "direction_id": "0",
       "headsign": "DWORZEC NADODRZE",
       "service_id": "8",
@@ -59715,7 +59715,7 @@
       ]
     },
     {
-      "trip_id": "8_17620441",
+      "trip_id": "8_17639116",
       "direction_id": "1",
       "headsign": "KMINKOWA",
       "service_id": "8",
@@ -59939,7 +59939,7 @@
       ]
     },
     {
-      "trip_id": "8_17620442",
+      "trip_id": "8_17639117",
       "direction_id": "0",
       "headsign": "DWORZEC NADODRZE",
       "service_id": "8",
@@ -60145,7 +60145,7 @@
       ]
     },
     {
-      "trip_id": "8_17620443",
+      "trip_id": "8_17639118",
       "direction_id": "1",
       "headsign": "KMINKOWA",
       "service_id": "8",
@@ -60369,7 +60369,7 @@
       ]
     },
     {
-      "trip_id": "8_17620444",
+      "trip_id": "8_17639119",
       "direction_id": "0",
       "headsign": "DWORZEC NADODRZE",
       "service_id": "8",
@@ -60575,7 +60575,7 @@
       ]
     },
     {
-      "trip_id": "8_17620445",
+      "trip_id": "8_17639120",
       "direction_id": "1",
       "headsign": "KMINKOWA",
       "service_id": "8",
@@ -60799,7 +60799,7 @@
       ]
     },
     {
-      "trip_id": "8_17620446",
+      "trip_id": "8_17639121",
       "direction_id": "0",
       "headsign": "DWORZEC NADODRZE",
       "service_id": "8",
@@ -61005,7 +61005,7 @@
       ]
     },
     {
-      "trip_id": "8_17620447",
+      "trip_id": "8_17639122",
       "direction_id": "1",
       "headsign": "KMINKOWA",
       "service_id": "8",
@@ -61229,7 +61229,7 @@
       ]
     },
     {
-      "trip_id": "8_17620448",
+      "trip_id": "8_17639123",
       "direction_id": "0",
       "headsign": "DWORZEC NADODRZE",
       "service_id": "8",
@@ -61435,7 +61435,7 @@
       ]
     },
     {
-      "trip_id": "8_17620449",
+      "trip_id": "8_17639124",
       "direction_id": "1",
       "headsign": "KMINKOWA",
       "service_id": "8",
@@ -61659,7 +61659,7 @@
       ]
     },
     {
-      "trip_id": "8_17620450",
+      "trip_id": "8_17639125",
       "direction_id": "0",
       "headsign": "DWORZEC NADODRZE",
       "service_id": "8",
@@ -61865,7 +61865,7 @@
       ]
     },
     {
-      "trip_id": "8_17620451",
+      "trip_id": "8_17639126",
       "direction_id": "1",
       "headsign": "KMINKOWA",
       "service_id": "8",
@@ -62089,7 +62089,7 @@
       ]
     },
     {
-      "trip_id": "8_17620452",
+      "trip_id": "8_17639127",
       "direction_id": "0",
       "headsign": "DWORZEC NADODRZE",
       "service_id": "8",
@@ -62295,7 +62295,7 @@
       ]
     },
     {
-      "trip_id": "8_17620453",
+      "trip_id": "8_17639128",
       "direction_id": "1",
       "headsign": "KMINKOWA",
       "service_id": "8",
@@ -62519,7 +62519,7 @@
       ]
     },
     {
-      "trip_id": "8_17620454",
+      "trip_id": "8_17639129",
       "direction_id": "0",
       "headsign": "DWORZEC NADODRZE",
       "service_id": "8",
@@ -62725,7 +62725,7 @@
       ]
     },
     {
-      "trip_id": "8_17620455",
+      "trip_id": "8_17639130",
       "direction_id": "1",
       "headsign": "KMINKOWA",
       "service_id": "8",
@@ -62949,7 +62949,7 @@
       ]
     },
     {
-      "trip_id": "8_17620456",
+      "trip_id": "8_17639131",
       "direction_id": "0",
       "headsign": "DWORZEC NADODRZE",
       "service_id": "8",
@@ -63155,7 +63155,7 @@
       ]
     },
     {
-      "trip_id": "8_17620461",
+      "trip_id": "8_17639136",
       "direction_id": "1",
       "headsign": "KMINKOWA",
       "service_id": "8",
@@ -63379,7 +63379,7 @@
       ]
     },
     {
-      "trip_id": "8_17620462",
+      "trip_id": "8_17639137",
       "direction_id": "0",
       "headsign": "DWORZEC NADODRZE",
       "service_id": "8",
@@ -63585,7 +63585,7 @@
       ]
     },
     {
-      "trip_id": "8_17620494",
+      "trip_id": "8_17639169",
       "direction_id": "1",
       "headsign": "KMINKOWA",
       "service_id": "8",
@@ -63809,7 +63809,7 @@
       ]
     },
     {
-      "trip_id": "8_17620495",
+      "trip_id": "8_17639170",
       "direction_id": "0",
       "headsign": "DWORZEC NADODRZE",
       "service_id": "8",
@@ -64015,7 +64015,7 @@
       ]
     },
     {
-      "trip_id": "8_17620508",
+      "trip_id": "8_17639183",
       "direction_id": "1",
       "headsign": "KMINKOWA",
       "service_id": "8",
@@ -64239,7 +64239,7 @@
       ]
     },
     {
-      "trip_id": "8_17620509",
+      "trip_id": "8_17639184",
       "direction_id": "0",
       "headsign": "DWORZEC NADODRZE",
       "service_id": "8",
@@ -64445,7 +64445,7 @@
       ]
     },
     {
-      "trip_id": "8_17620879",
+      "trip_id": "8_17639554",
       "direction_id": "1",
       "headsign": "KMINKOWA",
       "service_id": "8",
@@ -64669,7 +64669,7 @@
       ]
     },
     {
-      "trip_id": "8_17620880",
+      "trip_id": "8_17639555",
       "direction_id": "0",
       "headsign": "DWORZEC NADODRZE",
       "service_id": "8",
@@ -64875,7 +64875,7 @@
       ]
     },
     {
-      "trip_id": "8_17620881",
+      "trip_id": "8_17639556",
       "direction_id": "1",
       "headsign": "KMINKOWA",
       "service_id": "8",
@@ -65099,7 +65099,7 @@
       ]
     },
     {
-      "trip_id": "8_17620882",
+      "trip_id": "8_17639557",
       "direction_id": "0",
       "headsign": "DWORZEC NADODRZE",
       "service_id": "8",
@@ -65305,7 +65305,7 @@
       ]
     },
     {
-      "trip_id": "8_17620883",
+      "trip_id": "8_17639558",
       "direction_id": "1",
       "headsign": "KMINKOWA",
       "service_id": "8",
@@ -65529,7 +65529,7 @@
       ]
     },
     {
-      "trip_id": "8_17620884",
+      "trip_id": "8_17639559",
       "direction_id": "0",
       "headsign": "DWORZEC NADODRZE",
       "service_id": "8",
@@ -65735,7 +65735,7 @@
       ]
     },
     {
-      "trip_id": "8_17620885",
+      "trip_id": "8_17639560",
       "direction_id": "1",
       "headsign": "KMINKOWA",
       "service_id": "8",
@@ -65959,7 +65959,7 @@
       ]
     },
     {
-      "trip_id": "8_17620886",
+      "trip_id": "8_17639561",
       "direction_id": "0",
       "headsign": "DWORZEC NADODRZE",
       "service_id": "8",
@@ -66165,7 +66165,7 @@
       ]
     },
     {
-      "trip_id": "8_17620889",
+      "trip_id": "8_17639564",
       "direction_id": "1",
       "headsign": "PRACZE WIDAWSKIE",
       "service_id": "8",
@@ -66308,7 +66308,7 @@
       ]
     },
     {
-      "trip_id": "8_17620890",
+      "trip_id": "8_17639565",
       "direction_id": "0",
       "headsign": "DWORZEC NADODRZE",
       "service_id": "8",
@@ -66433,7 +66433,7 @@
       ]
     },
     {
-      "trip_id": "8_17620891",
+      "trip_id": "8_17639566",
       "direction_id": "1",
       "headsign": "KMINKOWA",
       "service_id": "8",
@@ -66657,7 +66657,7 @@
       ]
     },
     {
-      "trip_id": "8_17620892",
+      "trip_id": "8_17639567",
       "direction_id": "0",
       "headsign": "DWORZEC NADODRZE",
       "service_id": "8",
@@ -66863,7 +66863,7 @@
       ]
     },
     {
-      "trip_id": "8_17620893",
+      "trip_id": "8_17639568",
       "direction_id": "1",
       "headsign": "KMINKOWA",
       "service_id": "8",
@@ -67087,7 +67087,7 @@
       ]
     },
     {
-      "trip_id": "8_17620894",
+      "trip_id": "8_17639569",
       "direction_id": "0",
       "headsign": "DWORZEC NADODRZE",
       "service_id": "8",
@@ -67293,7 +67293,7 @@
       ]
     },
     {
-      "trip_id": "8_17620895",
+      "trip_id": "8_17639570",
       "direction_id": "1",
       "headsign": "KMINKOWA",
       "service_id": "8",
@@ -67517,7 +67517,7 @@
       ]
     },
     {
-      "trip_id": "8_17620896",
+      "trip_id": "8_17639571",
       "direction_id": "0",
       "headsign": "DWORZEC NADODRZE",
       "service_id": "8",

@@ -2,7 +2,7 @@
   "line": "250",
   "trips": [
     {
-      "trip_id": "3_17595582",
+      "trip_id": "3_17699595",
       "direction_id": "0",
       "headsign": "DWORZEC AUTOBUSOWY",
       "service_id": "3",
@@ -10,7 +10,7 @@
         {
           "stop_sequence": 0,
           "stop_id": "240",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 08",
           "arrival_time": "23:22:00",
           "departure_time": "23:22:00",
           "lat": 51.11175007,
@@ -64,7 +64,7 @@
       ]
     },
     {
-      "trip_id": "3_17595583",
+      "trip_id": "3_17699596",
       "direction_id": "1",
       "headsign": "DWORZEC AUTOBUSOWY",
       "service_id": "3",
@@ -225,7 +225,7 @@
         {
           "stop_sequence": 17,
           "stop_id": "5469",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 02",
           "arrival_time": "23:58:00",
           "departure_time": "23:58:00",
           "lat": 51.11213444,
@@ -279,7 +279,7 @@
       ]
     },
     {
-      "trip_id": "3_17595584",
+      "trip_id": "3_17699597",
       "direction_id": "1",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "3",
@@ -467,7 +467,7 @@
       ]
     },
     {
-      "trip_id": "3_17599132",
+      "trip_id": "3_17703145",
       "direction_id": "1",
       "headsign": "DWORZEC AUTOBUSOWY",
       "service_id": "3",
@@ -574,7 +574,7 @@
         {
           "stop_sequence": 11,
           "stop_id": "5469",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 02",
           "arrival_time": "24:30:00",
           "departure_time": "24:30:00",
           "lat": 51.11213444,
@@ -628,7 +628,7 @@
       ]
     },
     {
-      "trip_id": "3_17599133",
+      "trip_id": "3_17703146",
       "direction_id": "1",
       "headsign": "DWORZEC AUTOBUSOWY",
       "service_id": "3",
@@ -789,7 +789,7 @@
         {
           "stop_sequence": 17,
           "stop_id": "5469",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 02",
           "arrival_time": "25:18:00",
           "departure_time": "25:18:00",
           "lat": 51.11213444,
@@ -843,7 +843,7 @@
       ]
     },
     {
-      "trip_id": "3_17599134",
+      "trip_id": "3_17703147",
       "direction_id": "1",
       "headsign": "DWORZEC AUTOBUSOWY",
       "service_id": "3",
@@ -1004,7 +1004,7 @@
         {
           "stop_sequence": 17,
           "stop_id": "5469",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 02",
           "arrival_time": "25:58:00",
           "departure_time": "25:58:00",
           "lat": 51.11213444,
@@ -1058,7 +1058,7 @@
       ]
     },
     {
-      "trip_id": "3_17599135",
+      "trip_id": "3_17703148",
       "direction_id": "1",
       "headsign": "DWORZEC AUTOBUSOWY",
       "service_id": "3",
@@ -1219,7 +1219,7 @@
         {
           "stop_sequence": 17,
           "stop_id": "5469",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 02",
           "arrival_time": "26:43:00",
           "departure_time": "26:43:00",
           "lat": 51.11213444,
@@ -1273,7 +1273,7 @@
       ]
     },
     {
-      "trip_id": "3_17599136",
+      "trip_id": "3_17703149",
       "direction_id": "1",
       "headsign": "DWORZEC AUTOBUSOWY",
       "service_id": "3",
@@ -1434,7 +1434,7 @@
         {
           "stop_sequence": 17,
           "stop_id": "5469",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 02",
           "arrival_time": "27:28:00",
           "departure_time": "27:28:00",
           "lat": 51.11213444,
@@ -1488,7 +1488,7 @@
       ]
     },
     {
-      "trip_id": "3_17599137",
+      "trip_id": "3_17703150",
       "direction_id": "1",
       "headsign": "DWORZEC AUTOBUSOWY",
       "service_id": "3",
@@ -1649,7 +1649,7 @@
         {
           "stop_sequence": 17,
           "stop_id": "5469",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 02",
           "arrival_time": "28:13:00",
           "departure_time": "28:13:00",
           "lat": 51.11213444,
@@ -1703,7 +1703,7 @@
       ]
     },
     {
-      "trip_id": "3_17599138",
+      "trip_id": "3_17703151",
       "direction_id": "1",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "3",
@@ -1891,7 +1891,7 @@
       ]
     },
     {
-      "trip_id": "4_17600139",
+      "trip_id": "4_17704152",
       "direction_id": "0",
       "headsign": "DWORZEC AUTOBUSOWY",
       "service_id": "4",
@@ -1899,7 +1899,7 @@
         {
           "stop_sequence": 0,
           "stop_id": "240",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 08",
           "arrival_time": "23:22:00",
           "departure_time": "23:22:00",
           "lat": 51.11175007,
@@ -1953,7 +1953,7 @@
       ]
     },
     {
-      "trip_id": "4_17600140",
+      "trip_id": "4_17704153",
       "direction_id": "1",
       "headsign": "DWORZEC AUTOBUSOWY",
       "service_id": "4",
@@ -2114,7 +2114,7 @@
         {
           "stop_sequence": 17,
           "stop_id": "5469",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 02",
           "arrival_time": "23:58:00",
           "departure_time": "23:58:00",
           "lat": 51.11213444,
@@ -2168,7 +2168,7 @@
       ]
     },
     {
-      "trip_id": "4_17600141",
+      "trip_id": "4_17704154",
       "direction_id": "1",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "4",
@@ -2356,7 +2356,7 @@
       ]
     },
     {
-      "trip_id": "4_17603540",
+      "trip_id": "4_17707553",
       "direction_id": "1",
       "headsign": "DWORZEC AUTOBUSOWY",
       "service_id": "4",
@@ -2463,7 +2463,7 @@
         {
           "stop_sequence": 11,
           "stop_id": "5469",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 02",
           "arrival_time": "24:30:00",
           "departure_time": "24:30:00",
           "lat": 51.11213444,
@@ -2517,7 +2517,7 @@
       ]
     },
     {
-      "trip_id": "4_17603541",
+      "trip_id": "4_17707554",
       "direction_id": "1",
       "headsign": "DWORZEC AUTOBUSOWY",
       "service_id": "4",
@@ -2678,7 +2678,7 @@
         {
           "stop_sequence": 17,
           "stop_id": "5469",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 02",
           "arrival_time": "25:18:00",
           "departure_time": "25:18:00",
           "lat": 51.11213444,
@@ -2732,7 +2732,7 @@
       ]
     },
     {
-      "trip_id": "4_17603542",
+      "trip_id": "4_17707555",
       "direction_id": "1",
       "headsign": "DWORZEC AUTOBUSOWY",
       "service_id": "4",
@@ -2893,7 +2893,7 @@
         {
           "stop_sequence": 17,
           "stop_id": "5469",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 02",
           "arrival_time": "25:58:00",
           "departure_time": "25:58:00",
           "lat": 51.11213444,
@@ -2947,7 +2947,7 @@
       ]
     },
     {
-      "trip_id": "4_17603543",
+      "trip_id": "4_17707556",
       "direction_id": "1",
       "headsign": "DWORZEC AUTOBUSOWY",
       "service_id": "4",
@@ -3108,7 +3108,7 @@
         {
           "stop_sequence": 17,
           "stop_id": "5469",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 02",
           "arrival_time": "26:43:00",
           "departure_time": "26:43:00",
           "lat": 51.11213444,
@@ -3162,7 +3162,7 @@
       ]
     },
     {
-      "trip_id": "4_17603544",
+      "trip_id": "4_17707557",
       "direction_id": "1",
       "headsign": "DWORZEC AUTOBUSOWY",
       "service_id": "4",
@@ -3323,7 +3323,7 @@
         {
           "stop_sequence": 17,
           "stop_id": "5469",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 02",
           "arrival_time": "27:28:00",
           "departure_time": "27:28:00",
           "lat": 51.11213444,
@@ -3377,7 +3377,7 @@
       ]
     },
     {
-      "trip_id": "4_17603545",
+      "trip_id": "4_17707558",
       "direction_id": "1",
       "headsign": "DWORZEC AUTOBUSOWY",
       "service_id": "4",
@@ -3538,7 +3538,7 @@
         {
           "stop_sequence": 17,
           "stop_id": "5469",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 02",
           "arrival_time": "28:13:00",
           "departure_time": "28:13:00",
           "lat": 51.11213444,
@@ -3592,7 +3592,7 @@
       ]
     },
     {
-      "trip_id": "4_17603546",
+      "trip_id": "4_17707559",
       "direction_id": "1",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "4",
@@ -3780,7 +3780,7 @@
       ]
     },
     {
-      "trip_id": "6_17604423",
+      "trip_id": "6_17708436",
       "direction_id": "0",
       "headsign": "DWORZEC AUTOBUSOWY",
       "service_id": "6",
@@ -3788,7 +3788,7 @@
         {
           "stop_sequence": 0,
           "stop_id": "240",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 08",
           "arrival_time": "23:22:00",
           "departure_time": "23:22:00",
           "lat": 51.11175007,
@@ -3842,7 +3842,7 @@
       ]
     },
     {
-      "trip_id": "6_17604424",
+      "trip_id": "6_17708437",
       "direction_id": "1",
       "headsign": "DWORZEC AUTOBUSOWY",
       "service_id": "6",
@@ -4003,7 +4003,7 @@
         {
           "stop_sequence": 17,
           "stop_id": "5469",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 02",
           "arrival_time": "23:58:00",
           "departure_time": "23:58:00",
           "lat": 51.11213444,
@@ -4057,7 +4057,7 @@
       ]
     },
     {
-      "trip_id": "6_17604425",
+      "trip_id": "6_17708438",
       "direction_id": "1",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "6",
@@ -4245,7 +4245,7 @@
       ]
     },
     {
-      "trip_id": "6_17609730",
+      "trip_id": "6_17713743",
       "direction_id": "1",
       "headsign": "DWORZEC AUTOBUSOWY",
       "service_id": "6",
@@ -4352,7 +4352,7 @@
         {
           "stop_sequence": 11,
           "stop_id": "5469",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 02",
           "arrival_time": "24:30:00",
           "departure_time": "24:30:00",
           "lat": 51.11213444,
@@ -4406,7 +4406,7 @@
       ]
     },
     {
-      "trip_id": "6_17609731",
+      "trip_id": "6_17713744",
       "direction_id": "1",
       "headsign": "DWORZEC AUTOBUSOWY",
       "service_id": "6",
@@ -4567,7 +4567,7 @@
         {
           "stop_sequence": 17,
           "stop_id": "5469",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 02",
           "arrival_time": "25:18:00",
           "departure_time": "25:18:00",
           "lat": 51.11213444,
@@ -4621,7 +4621,7 @@
       ]
     },
     {
-      "trip_id": "6_17609732",
+      "trip_id": "6_17713745",
       "direction_id": "1",
       "headsign": "DWORZEC AUTOBUSOWY",
       "service_id": "6",
@@ -4782,7 +4782,7 @@
         {
           "stop_sequence": 17,
           "stop_id": "5469",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 02",
           "arrival_time": "25:58:00",
           "departure_time": "25:58:00",
           "lat": 51.11213444,
@@ -4836,7 +4836,7 @@
       ]
     },
     {
-      "trip_id": "6_17609733",
+      "trip_id": "6_17713746",
       "direction_id": "1",
       "headsign": "DWORZEC AUTOBUSOWY",
       "service_id": "6",
@@ -4997,7 +4997,7 @@
         {
           "stop_sequence": 17,
           "stop_id": "5469",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 02",
           "arrival_time": "26:43:00",
           "departure_time": "26:43:00",
           "lat": 51.11213444,
@@ -5051,7 +5051,7 @@
       ]
     },
     {
-      "trip_id": "6_17609734",
+      "trip_id": "6_17713747",
       "direction_id": "1",
       "headsign": "DWORZEC AUTOBUSOWY",
       "service_id": "6",
@@ -5212,7 +5212,7 @@
         {
           "stop_sequence": 17,
           "stop_id": "5469",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 02",
           "arrival_time": "27:28:00",
           "departure_time": "27:28:00",
           "lat": 51.11213444,
@@ -5266,7 +5266,7 @@
       ]
     },
     {
-      "trip_id": "6_17609735",
+      "trip_id": "6_17713748",
       "direction_id": "1",
       "headsign": "DWORZEC AUTOBUSOWY",
       "service_id": "6",
@@ -5427,7 +5427,7 @@
         {
           "stop_sequence": 17,
           "stop_id": "5469",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 02",
           "arrival_time": "28:13:00",
           "departure_time": "28:13:00",
           "lat": 51.11213444,
@@ -5481,7 +5481,7 @@
       ]
     },
     {
-      "trip_id": "6_17609736",
+      "trip_id": "6_17713749",
       "direction_id": "1",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "6",
@@ -5669,7 +5669,7 @@
       ]
     },
     {
-      "trip_id": "8_17611249",
+      "trip_id": "8_17715262",
       "direction_id": "0",
       "headsign": "DWORZEC AUTOBUSOWY",
       "service_id": "8",
@@ -5677,7 +5677,7 @@
         {
           "stop_sequence": 0,
           "stop_id": "240",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 08",
           "arrival_time": "23:22:00",
           "departure_time": "23:22:00",
           "lat": 51.11175007,
@@ -5731,7 +5731,7 @@
       ]
     },
     {
-      "trip_id": "8_17611250",
+      "trip_id": "8_17715263",
       "direction_id": "1",
       "headsign": "DWORZEC AUTOBUSOWY",
       "service_id": "8",
@@ -5892,7 +5892,7 @@
         {
           "stop_sequence": 17,
           "stop_id": "5469",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 02",
           "arrival_time": "23:58:00",
           "departure_time": "23:58:00",
           "lat": 51.11213444,
@@ -5946,7 +5946,7 @@
       ]
     },
     {
-      "trip_id": "8_17611251",
+      "trip_id": "8_17715264",
       "direction_id": "1",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "8",
@@ -6134,7 +6134,7 @@
       ]
     },
     {
-      "trip_id": "8_17616560",
+      "trip_id": "8_17720573",
       "direction_id": "1",
       "headsign": "DWORZEC AUTOBUSOWY",
       "service_id": "8",
@@ -6241,7 +6241,7 @@
         {
           "stop_sequence": 11,
           "stop_id": "5469",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 02",
           "arrival_time": "24:30:00",
           "departure_time": "24:30:00",
           "lat": 51.11213444,
@@ -6295,7 +6295,7 @@
       ]
     },
     {
-      "trip_id": "8_17616561",
+      "trip_id": "8_17720574",
       "direction_id": "1",
       "headsign": "DWORZEC AUTOBUSOWY",
       "service_id": "8",
@@ -6456,7 +6456,7 @@
         {
           "stop_sequence": 17,
           "stop_id": "5469",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 02",
           "arrival_time": "25:18:00",
           "departure_time": "25:18:00",
           "lat": 51.11213444,
@@ -6510,7 +6510,7 @@
       ]
     },
     {
-      "trip_id": "8_17616562",
+      "trip_id": "8_17720575",
       "direction_id": "1",
       "headsign": "DWORZEC AUTOBUSOWY",
       "service_id": "8",
@@ -6671,7 +6671,7 @@
         {
           "stop_sequence": 17,
           "stop_id": "5469",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 02",
           "arrival_time": "25:58:00",
           "departure_time": "25:58:00",
           "lat": 51.11213444,
@@ -6725,7 +6725,7 @@
       ]
     },
     {
-      "trip_id": "8_17616563",
+      "trip_id": "8_17720576",
       "direction_id": "1",
       "headsign": "DWORZEC AUTOBUSOWY",
       "service_id": "8",
@@ -6886,7 +6886,7 @@
         {
           "stop_sequence": 17,
           "stop_id": "5469",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 02",
           "arrival_time": "26:43:00",
           "departure_time": "26:43:00",
           "lat": 51.11213444,
@@ -6940,7 +6940,7 @@
       ]
     },
     {
-      "trip_id": "8_17616564",
+      "trip_id": "8_17720577",
       "direction_id": "1",
       "headsign": "DWORZEC AUTOBUSOWY",
       "service_id": "8",
@@ -7101,7 +7101,7 @@
         {
           "stop_sequence": 17,
           "stop_id": "5469",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 02",
           "arrival_time": "27:28:00",
           "departure_time": "27:28:00",
           "lat": 51.11213444,
@@ -7155,7 +7155,7 @@
       ]
     },
     {
-      "trip_id": "8_17616565",
+      "trip_id": "8_17720578",
       "direction_id": "1",
       "headsign": "DWORZEC AUTOBUSOWY",
       "service_id": "8",
@@ -7316,7 +7316,7 @@
         {
           "stop_sequence": 17,
           "stop_id": "5469",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 02",
           "arrival_time": "28:13:00",
           "departure_time": "28:13:00",
           "lat": 51.11213444,
@@ -7370,7 +7370,7 @@
       ]
     },
     {
-      "trip_id": "8_17616566",
+      "trip_id": "8_17720579",
       "direction_id": "1",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "8",

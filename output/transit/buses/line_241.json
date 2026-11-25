@@ -2,7 +2,7 @@
   "line": "241",
   "trips": [
     {
-      "trip_id": "3_17597726",
+      "trip_id": "3_17701739",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "3",
@@ -145,7 +145,7 @@
       ]
     },
     {
-      "trip_id": "3_17597727",
+      "trip_id": "3_17701740",
       "direction_id": "0",
       "headsign": "Zajezdnia TYSKA",
       "service_id": "3",
@@ -414,7 +414,7 @@
       ]
     },
     {
-      "trip_id": "3_17598907",
+      "trip_id": "3_17702920",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "3",
@@ -683,7 +683,7 @@
         {
           "stop_sequence": 29,
           "stop_id": "1330",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 03",
           "arrival_time": "24:46:00",
           "departure_time": "24:46:00",
           "lat": 51.10670852,
@@ -971,7 +971,7 @@
       ]
     },
     {
-      "trip_id": "3_17598908",
+      "trip_id": "3_17702921",
       "direction_id": "0",
       "headsign": "PAWŁOWICE (Widawska)",
       "service_id": "3",
@@ -1240,7 +1240,7 @@
         {
           "stop_sequence": 29,
           "stop_id": "546",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 05",
           "arrival_time": "26:38:00",
           "departure_time": "26:38:00",
           "lat": 51.10740171,
@@ -1492,7 +1492,7 @@
       ]
     },
     {
-      "trip_id": "3_17598909",
+      "trip_id": "3_17702922",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "3",
@@ -1761,7 +1761,7 @@
         {
           "stop_sequence": 29,
           "stop_id": "1330",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 03",
           "arrival_time": "28:46:00",
           "departure_time": "28:46:00",
           "lat": 51.10670852,
@@ -2049,7 +2049,7 @@
       ]
     },
     {
-      "trip_id": "3_17598910",
+      "trip_id": "3_17702923",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "3",
@@ -2264,7 +2264,7 @@
       ]
     },
     {
-      "trip_id": "3_17598915",
+      "trip_id": "3_17702928",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "3",
@@ -2533,7 +2533,7 @@
         {
           "stop_sequence": 29,
           "stop_id": "1330",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 03",
           "arrival_time": "23:46:00",
           "departure_time": "23:46:00",
           "lat": 51.10670852,
@@ -2821,7 +2821,7 @@
       ]
     },
     {
-      "trip_id": "3_17598916",
+      "trip_id": "3_17702929",
       "direction_id": "0",
       "headsign": "PAWŁOWICE (Widawska)",
       "service_id": "3",
@@ -3090,7 +3090,7 @@
         {
           "stop_sequence": 29,
           "stop_id": "546",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 05",
           "arrival_time": "25:38:00",
           "departure_time": "25:38:00",
           "lat": 51.10740171,
@@ -3342,7 +3342,7 @@
       ]
     },
     {
-      "trip_id": "3_17598917",
+      "trip_id": "3_17702930",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "3",
@@ -3611,7 +3611,7 @@
         {
           "stop_sequence": 29,
           "stop_id": "1330",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 03",
           "arrival_time": "27:46:00",
           "departure_time": "27:46:00",
           "lat": 51.10670852,
@@ -3899,7 +3899,7 @@
       ]
     },
     {
-      "trip_id": "3_17598918",
+      "trip_id": "3_17702931",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "3",
@@ -4096,7 +4096,7 @@
       ]
     },
     {
-      "trip_id": "3_17598920",
+      "trip_id": "3_17702933",
       "direction_id": "0",
       "headsign": "PAWŁOWICE (Widawska)",
       "service_id": "3",
@@ -4365,7 +4365,7 @@
         {
           "stop_sequence": 29,
           "stop_id": "546",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 05",
           "arrival_time": "24:38:00",
           "departure_time": "24:38:00",
           "lat": 51.10740171,
@@ -4617,7 +4617,7 @@
       ]
     },
     {
-      "trip_id": "3_17598921",
+      "trip_id": "3_17702934",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "3",
@@ -4886,7 +4886,7 @@
         {
           "stop_sequence": 29,
           "stop_id": "1330",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 03",
           "arrival_time": "26:46:00",
           "departure_time": "26:46:00",
           "lat": 51.10670852,
@@ -5174,7 +5174,7 @@
       ]
     },
     {
-      "trip_id": "3_17598922",
+      "trip_id": "3_17702935",
       "direction_id": "0",
       "headsign": "PETRUSEWICZA",
       "service_id": "3",
@@ -5416,7 +5416,7 @@
       ]
     },
     {
-      "trip_id": "3_17598923",
+      "trip_id": "3_17702936",
       "direction_id": "0",
       "headsign": "Zajezdnia TYSKA",
       "service_id": "3",
@@ -5577,7 +5577,7 @@
       ]
     },
     {
-      "trip_id": "3_17598929",
+      "trip_id": "3_17702942",
       "direction_id": "0",
       "headsign": "PAWŁOWICE (Widawska)",
       "service_id": "3",
@@ -5810,7 +5810,7 @@
       ]
     },
     {
-      "trip_id": "3_17598930",
+      "trip_id": "3_17702943",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "3",
@@ -6079,7 +6079,7 @@
         {
           "stop_sequence": 29,
           "stop_id": "1330",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 03",
           "arrival_time": "25:46:00",
           "departure_time": "25:46:00",
           "lat": 51.10670852,
@@ -6367,7 +6367,7 @@
       ]
     },
     {
-      "trip_id": "3_17598931",
+      "trip_id": "3_17702944",
       "direction_id": "0",
       "headsign": "PAWŁOWICE (Widawska)",
       "service_id": "3",
@@ -6636,7 +6636,7 @@
         {
           "stop_sequence": 29,
           "stop_id": "546",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 05",
           "arrival_time": "27:38:00",
           "departure_time": "27:38:00",
           "lat": 51.10740171,
@@ -6888,7 +6888,7 @@
       ]
     },
     {
-      "trip_id": "3_17598932",
+      "trip_id": "3_17702945",
       "direction_id": "1",
       "headsign": "PETRUSEWICZA",
       "service_id": "3",
@@ -7157,7 +7157,7 @@
         {
           "stop_sequence": 29,
           "stop_id": "1330",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 03",
           "arrival_time": "29:04:00",
           "departure_time": "29:04:00",
           "lat": 51.10670852,
@@ -7220,7 +7220,7 @@
       ]
     },
     {
-      "trip_id": "3_17598933",
+      "trip_id": "3_17702946",
       "direction_id": "0",
       "headsign": "Zajezdnia TYSKA",
       "service_id": "3",
@@ -7381,7 +7381,7 @@
       ]
     },
     {
-      "trip_id": "3_17598935",
+      "trip_id": "3_17702948",
       "direction_id": "0",
       "headsign": "PAWŁOWICE (Widawska)",
       "service_id": "3",
@@ -7650,7 +7650,7 @@
         {
           "stop_sequence": 29,
           "stop_id": "546",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 05",
           "arrival_time": "23:48:00",
           "departure_time": "23:48:00",
           "lat": 51.10740171,
@@ -7902,7 +7902,7 @@
       ]
     },
     {
-      "trip_id": "3_17598936",
+      "trip_id": "3_17702949",
       "direction_id": "1",
       "headsign": "KROMERA",
       "service_id": "3",
@@ -8126,7 +8126,7 @@
       ]
     },
     {
-      "trip_id": "3_17598943",
+      "trip_id": "3_17702956",
       "direction_id": "0",
       "headsign": "Zajezdnia TYSKA",
       "service_id": "3",
@@ -8170,7 +8170,7 @@
         {
           "stop_sequence": 4,
           "stop_id": "546",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 05",
           "arrival_time": "29:08:00",
           "departure_time": "29:08:00",
           "lat": 51.10740171,
@@ -8368,7 +8368,7 @@
       ]
     },
     {
-      "trip_id": "3_17598950",
+      "trip_id": "3_17702963",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "3",
@@ -8601,7 +8601,7 @@
       ]
     },
     {
-      "trip_id": "3_17599154",
+      "trip_id": "3_17703167",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "3",
@@ -8843,7 +8843,7 @@
       ]
     },
     {
-      "trip_id": "3_17599155",
+      "trip_id": "3_17703168",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "3",
@@ -9049,7 +9049,7 @@
       ]
     },
     {
-      "trip_id": "4_17602159",
+      "trip_id": "4_17706172",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "4",
@@ -9192,7 +9192,7 @@
       ]
     },
     {
-      "trip_id": "4_17602160",
+      "trip_id": "4_17706173",
       "direction_id": "0",
       "headsign": "Zajezdnia TYSKA",
       "service_id": "4",
@@ -9461,7 +9461,7 @@
       ]
     },
     {
-      "trip_id": "4_17603319",
+      "trip_id": "4_17707332",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "4",
@@ -9730,7 +9730,7 @@
         {
           "stop_sequence": 29,
           "stop_id": "1330",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 03",
           "arrival_time": "24:46:00",
           "departure_time": "24:46:00",
           "lat": 51.10670852,
@@ -10018,7 +10018,7 @@
       ]
     },
     {
-      "trip_id": "4_17603320",
+      "trip_id": "4_17707333",
       "direction_id": "0",
       "headsign": "PAWŁOWICE (Widawska)",
       "service_id": "4",
@@ -10287,7 +10287,7 @@
         {
           "stop_sequence": 29,
           "stop_id": "546",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 05",
           "arrival_time": "26:38:00",
           "departure_time": "26:38:00",
           "lat": 51.10740171,
@@ -10539,7 +10539,7 @@
       ]
     },
     {
-      "trip_id": "4_17603321",
+      "trip_id": "4_17707334",
       "direction_id": "1",
       "headsign": "PETRUSEWICZA",
       "service_id": "4",
@@ -10808,7 +10808,7 @@
         {
           "stop_sequence": 29,
           "stop_id": "1330",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 03",
           "arrival_time": "28:46:00",
           "departure_time": "28:46:00",
           "lat": 51.10670852,
@@ -10889,7 +10889,7 @@
       ]
     },
     {
-      "trip_id": "4_17603327",
+      "trip_id": "4_17707340",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "4",
@@ -11158,7 +11158,7 @@
         {
           "stop_sequence": 29,
           "stop_id": "1330",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 03",
           "arrival_time": "23:46:00",
           "departure_time": "23:46:00",
           "lat": 51.10670852,
@@ -11446,7 +11446,7 @@
       ]
     },
     {
-      "trip_id": "4_17603328",
+      "trip_id": "4_17707341",
       "direction_id": "0",
       "headsign": "PAWŁOWICE (Widawska)",
       "service_id": "4",
@@ -11715,7 +11715,7 @@
         {
           "stop_sequence": 29,
           "stop_id": "546",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 05",
           "arrival_time": "25:38:00",
           "departure_time": "25:38:00",
           "lat": 51.10740171,
@@ -11967,7 +11967,7 @@
       ]
     },
     {
-      "trip_id": "4_17603329",
+      "trip_id": "4_17707342",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "4",
@@ -12236,7 +12236,7 @@
         {
           "stop_sequence": 29,
           "stop_id": "1330",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 03",
           "arrival_time": "27:46:00",
           "departure_time": "27:46:00",
           "lat": 51.10670852,
@@ -12524,7 +12524,7 @@
       ]
     },
     {
-      "trip_id": "4_17603330",
+      "trip_id": "4_17707343",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "4",
@@ -12721,7 +12721,7 @@
       ]
     },
     {
-      "trip_id": "4_17603332",
+      "trip_id": "4_17707345",
       "direction_id": "0",
       "headsign": "PAWŁOWICE (Widawska)",
       "service_id": "4",
@@ -12990,7 +12990,7 @@
         {
           "stop_sequence": 29,
           "stop_id": "546",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 05",
           "arrival_time": "24:38:00",
           "departure_time": "24:38:00",
           "lat": 51.10740171,
@@ -13242,7 +13242,7 @@
       ]
     },
     {
-      "trip_id": "4_17603333",
+      "trip_id": "4_17707346",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "4",
@@ -13511,7 +13511,7 @@
         {
           "stop_sequence": 29,
           "stop_id": "1330",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 03",
           "arrival_time": "26:46:00",
           "departure_time": "26:46:00",
           "lat": 51.10670852,
@@ -13799,7 +13799,7 @@
       ]
     },
     {
-      "trip_id": "4_17603334",
+      "trip_id": "4_17707347",
       "direction_id": "0",
       "headsign": "PETRUSEWICZA",
       "service_id": "4",
@@ -14041,7 +14041,7 @@
       ]
     },
     {
-      "trip_id": "4_17603335",
+      "trip_id": "4_17707348",
       "direction_id": "0",
       "headsign": "Zajezdnia TYSKA",
       "service_id": "4",
@@ -14202,7 +14202,7 @@
       ]
     },
     {
-      "trip_id": "4_17603341",
+      "trip_id": "4_17707354",
       "direction_id": "0",
       "headsign": "PAWŁOWICE (Widawska)",
       "service_id": "4",
@@ -14435,7 +14435,7 @@
       ]
     },
     {
-      "trip_id": "4_17603342",
+      "trip_id": "4_17707355",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "4",
@@ -14704,7 +14704,7 @@
         {
           "stop_sequence": 29,
           "stop_id": "1330",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 03",
           "arrival_time": "25:46:00",
           "departure_time": "25:46:00",
           "lat": 51.10670852,
@@ -14992,7 +14992,7 @@
       ]
     },
     {
-      "trip_id": "4_17603343",
+      "trip_id": "4_17707356",
       "direction_id": "0",
       "headsign": "PAWŁOWICE (Widawska)",
       "service_id": "4",
@@ -15261,7 +15261,7 @@
         {
           "stop_sequence": 29,
           "stop_id": "546",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 05",
           "arrival_time": "27:38:00",
           "departure_time": "27:38:00",
           "lat": 51.10740171,
@@ -15513,7 +15513,7 @@
       ]
     },
     {
-      "trip_id": "4_17603344",
+      "trip_id": "4_17707357",
       "direction_id": "1",
       "headsign": "PETRUSEWICZA",
       "service_id": "4",
@@ -15782,7 +15782,7 @@
         {
           "stop_sequence": 29,
           "stop_id": "1330",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 03",
           "arrival_time": "29:04:00",
           "departure_time": "29:04:00",
           "lat": 51.10670852,
@@ -15845,7 +15845,7 @@
       ]
     },
     {
-      "trip_id": "4_17603345",
+      "trip_id": "4_17707358",
       "direction_id": "0",
       "headsign": "Zajezdnia TYSKA",
       "service_id": "4",
@@ -16006,7 +16006,7 @@
       ]
     },
     {
-      "trip_id": "4_17603347",
+      "trip_id": "4_17707360",
       "direction_id": "0",
       "headsign": "PAWŁOWICE (Widawska)",
       "service_id": "4",
@@ -16275,7 +16275,7 @@
         {
           "stop_sequence": 29,
           "stop_id": "546",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 05",
           "arrival_time": "23:48:00",
           "departure_time": "23:48:00",
           "lat": 51.10740171,
@@ -16527,7 +16527,7 @@
       ]
     },
     {
-      "trip_id": "4_17603348",
+      "trip_id": "4_17707361",
       "direction_id": "1",
       "headsign": "KROMERA",
       "service_id": "4",
@@ -16751,7 +16751,7 @@
       ]
     },
     {
-      "trip_id": "4_17603355",
+      "trip_id": "4_17707368",
       "direction_id": "0",
       "headsign": "Zajezdnia TYSKA",
       "service_id": "4",
@@ -16795,7 +16795,7 @@
         {
           "stop_sequence": 4,
           "stop_id": "546",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 05",
           "arrival_time": "29:08:00",
           "departure_time": "29:08:00",
           "lat": 51.10740171,
@@ -16993,7 +16993,7 @@
       ]
     },
     {
-      "trip_id": "4_17603562",
+      "trip_id": "4_17707575",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "4",
@@ -17271,7 +17271,7 @@
       ]
     },
     {
-      "trip_id": "4_17603563",
+      "trip_id": "4_17707576",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "4",
@@ -17477,7 +17477,7 @@
       ]
     },
     {
-      "trip_id": "6_17607825",
+      "trip_id": "6_17711838",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "6",
@@ -17620,7 +17620,7 @@
       ]
     },
     {
-      "trip_id": "6_17607826",
+      "trip_id": "6_17711839",
       "direction_id": "0",
       "headsign": "Zajezdnia TYSKA",
       "service_id": "6",
@@ -17889,7 +17889,7 @@
       ]
     },
     {
-      "trip_id": "6_17609518",
+      "trip_id": "6_17713531",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "6",
@@ -18158,7 +18158,7 @@
         {
           "stop_sequence": 29,
           "stop_id": "1330",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 03",
           "arrival_time": "24:46:00",
           "departure_time": "24:46:00",
           "lat": 51.10670852,
@@ -18446,7 +18446,7 @@
       ]
     },
     {
-      "trip_id": "6_17609519",
+      "trip_id": "6_17713532",
       "direction_id": "0",
       "headsign": "PAWŁOWICE (Widawska)",
       "service_id": "6",
@@ -18715,7 +18715,7 @@
         {
           "stop_sequence": 29,
           "stop_id": "546",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 05",
           "arrival_time": "26:38:00",
           "departure_time": "26:38:00",
           "lat": 51.10740171,
@@ -18967,7 +18967,7 @@
       ]
     },
     {
-      "trip_id": "6_17609520",
+      "trip_id": "6_17713533",
       "direction_id": "1",
       "headsign": "PETRUSEWICZA",
       "service_id": "6",
@@ -19236,7 +19236,7 @@
         {
           "stop_sequence": 29,
           "stop_id": "1330",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 03",
           "arrival_time": "28:46:00",
           "departure_time": "28:46:00",
           "lat": 51.10670852,
@@ -19317,7 +19317,7 @@
       ]
     },
     {
-      "trip_id": "6_17609526",
+      "trip_id": "6_17713539",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "6",
@@ -19586,7 +19586,7 @@
         {
           "stop_sequence": 29,
           "stop_id": "1330",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 03",
           "arrival_time": "23:46:00",
           "departure_time": "23:46:00",
           "lat": 51.10670852,
@@ -19874,7 +19874,7 @@
       ]
     },
     {
-      "trip_id": "6_17609527",
+      "trip_id": "6_17713540",
       "direction_id": "0",
       "headsign": "PAWŁOWICE (Widawska)",
       "service_id": "6",
@@ -20143,7 +20143,7 @@
         {
           "stop_sequence": 29,
           "stop_id": "546",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 05",
           "arrival_time": "25:38:00",
           "departure_time": "25:38:00",
           "lat": 51.10740171,
@@ -20395,7 +20395,7 @@
       ]
     },
     {
-      "trip_id": "6_17609528",
+      "trip_id": "6_17713541",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "6",
@@ -20664,7 +20664,7 @@
         {
           "stop_sequence": 29,
           "stop_id": "1330",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 03",
           "arrival_time": "27:46:00",
           "departure_time": "27:46:00",
           "lat": 51.10670852,
@@ -20952,7 +20952,7 @@
       ]
     },
     {
-      "trip_id": "6_17609529",
+      "trip_id": "6_17713542",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "6",
@@ -21149,7 +21149,7 @@
       ]
     },
     {
-      "trip_id": "6_17609531",
+      "trip_id": "6_17713544",
       "direction_id": "0",
       "headsign": "PAWŁOWICE (Widawska)",
       "service_id": "6",
@@ -21418,7 +21418,7 @@
         {
           "stop_sequence": 29,
           "stop_id": "546",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 05",
           "arrival_time": "24:38:00",
           "departure_time": "24:38:00",
           "lat": 51.10740171,
@@ -21670,7 +21670,7 @@
       ]
     },
     {
-      "trip_id": "6_17609532",
+      "trip_id": "6_17713545",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "6",
@@ -21939,7 +21939,7 @@
         {
           "stop_sequence": 29,
           "stop_id": "1330",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 03",
           "arrival_time": "26:46:00",
           "departure_time": "26:46:00",
           "lat": 51.10670852,
@@ -22227,7 +22227,7 @@
       ]
     },
     {
-      "trip_id": "6_17609533",
+      "trip_id": "6_17713546",
       "direction_id": "0",
       "headsign": "PETRUSEWICZA",
       "service_id": "6",
@@ -22469,7 +22469,7 @@
       ]
     },
     {
-      "trip_id": "6_17609534",
+      "trip_id": "6_17713547",
       "direction_id": "0",
       "headsign": "Zajezdnia TYSKA",
       "service_id": "6",
@@ -22630,7 +22630,7 @@
       ]
     },
     {
-      "trip_id": "6_17609540",
+      "trip_id": "6_17713553",
       "direction_id": "0",
       "headsign": "PAWŁOWICE (Widawska)",
       "service_id": "6",
@@ -22863,7 +22863,7 @@
       ]
     },
     {
-      "trip_id": "6_17609541",
+      "trip_id": "6_17713554",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "6",
@@ -23132,7 +23132,7 @@
         {
           "stop_sequence": 29,
           "stop_id": "1330",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 03",
           "arrival_time": "25:46:00",
           "departure_time": "25:46:00",
           "lat": 51.10670852,
@@ -23420,7 +23420,7 @@
       ]
     },
     {
-      "trip_id": "6_17609542",
+      "trip_id": "6_17713555",
       "direction_id": "0",
       "headsign": "PAWŁOWICE (Widawska)",
       "service_id": "6",
@@ -23689,7 +23689,7 @@
         {
           "stop_sequence": 29,
           "stop_id": "546",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 05",
           "arrival_time": "27:38:00",
           "departure_time": "27:38:00",
           "lat": 51.10740171,
@@ -23941,7 +23941,7 @@
       ]
     },
     {
-      "trip_id": "6_17609543",
+      "trip_id": "6_17713556",
       "direction_id": "1",
       "headsign": "PETRUSEWICZA",
       "service_id": "6",
@@ -24210,7 +24210,7 @@
         {
           "stop_sequence": 29,
           "stop_id": "1330",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 03",
           "arrival_time": "29:04:00",
           "departure_time": "29:04:00",
           "lat": 51.10670852,
@@ -24273,7 +24273,7 @@
       ]
     },
     {
-      "trip_id": "6_17609544",
+      "trip_id": "6_17713557",
       "direction_id": "0",
       "headsign": "Zajezdnia TYSKA",
       "service_id": "6",
@@ -24434,7 +24434,7 @@
       ]
     },
     {
-      "trip_id": "6_17609546",
+      "trip_id": "6_17713559",
       "direction_id": "0",
       "headsign": "PAWŁOWICE (Widawska)",
       "service_id": "6",
@@ -24703,7 +24703,7 @@
         {
           "stop_sequence": 29,
           "stop_id": "546",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 05",
           "arrival_time": "23:48:00",
           "departure_time": "23:48:00",
           "lat": 51.10740171,
@@ -24955,7 +24955,7 @@
       ]
     },
     {
-      "trip_id": "6_17609547",
+      "trip_id": "6_17713560",
       "direction_id": "1",
       "headsign": "KROMERA",
       "service_id": "6",
@@ -25179,7 +25179,7 @@
       ]
     },
     {
-      "trip_id": "6_17609554",
+      "trip_id": "6_17713567",
       "direction_id": "0",
       "headsign": "Zajezdnia TYSKA",
       "service_id": "6",
@@ -25223,7 +25223,7 @@
         {
           "stop_sequence": 4,
           "stop_id": "546",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 05",
           "arrival_time": "29:08:00",
           "departure_time": "29:08:00",
           "lat": 51.10740171,
@@ -25421,7 +25421,7 @@
       ]
     },
     {
-      "trip_id": "6_17609752",
+      "trip_id": "6_17713765",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "6",
@@ -25699,7 +25699,7 @@
       ]
     },
     {
-      "trip_id": "6_17609753",
+      "trip_id": "6_17713766",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "6",
@@ -25905,7 +25905,7 @@
       ]
     },
     {
-      "trip_id": "8_17614651",
+      "trip_id": "8_17718664",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "8",
@@ -26048,7 +26048,7 @@
       ]
     },
     {
-      "trip_id": "8_17614652",
+      "trip_id": "8_17718665",
       "direction_id": "0",
       "headsign": "Zajezdnia TYSKA",
       "service_id": "8",
@@ -26317,7 +26317,7 @@
       ]
     },
     {
-      "trip_id": "8_17616344",
+      "trip_id": "8_17720357",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "8",
@@ -26586,7 +26586,7 @@
         {
           "stop_sequence": 29,
           "stop_id": "1330",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 03",
           "arrival_time": "24:46:00",
           "departure_time": "24:46:00",
           "lat": 51.10670852,
@@ -26874,7 +26874,7 @@
       ]
     },
     {
-      "trip_id": "8_17616345",
+      "trip_id": "8_17720358",
       "direction_id": "0",
       "headsign": "PAWŁOWICE (Widawska)",
       "service_id": "8",
@@ -27143,7 +27143,7 @@
         {
           "stop_sequence": 29,
           "stop_id": "546",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 05",
           "arrival_time": "26:38:00",
           "departure_time": "26:38:00",
           "lat": 51.10740171,
@@ -27395,7 +27395,7 @@
       ]
     },
     {
-      "trip_id": "8_17616346",
+      "trip_id": "8_17720359",
       "direction_id": "1",
       "headsign": "PETRUSEWICZA",
       "service_id": "8",
@@ -27664,7 +27664,7 @@
         {
           "stop_sequence": 29,
           "stop_id": "1330",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 03",
           "arrival_time": "28:46:00",
           "departure_time": "28:46:00",
           "lat": 51.10670852,
@@ -27745,7 +27745,7 @@
       ]
     },
     {
-      "trip_id": "8_17616352",
+      "trip_id": "8_17720365",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "8",
@@ -28014,7 +28014,7 @@
         {
           "stop_sequence": 29,
           "stop_id": "1330",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 03",
           "arrival_time": "23:46:00",
           "departure_time": "23:46:00",
           "lat": 51.10670852,
@@ -28302,7 +28302,7 @@
       ]
     },
     {
-      "trip_id": "8_17616353",
+      "trip_id": "8_17720366",
       "direction_id": "0",
       "headsign": "PAWŁOWICE (Widawska)",
       "service_id": "8",
@@ -28571,7 +28571,7 @@
         {
           "stop_sequence": 29,
           "stop_id": "546",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 05",
           "arrival_time": "25:38:00",
           "departure_time": "25:38:00",
           "lat": 51.10740171,
@@ -28823,7 +28823,7 @@
       ]
     },
     {
-      "trip_id": "8_17616354",
+      "trip_id": "8_17720367",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "8",
@@ -29092,7 +29092,7 @@
         {
           "stop_sequence": 29,
           "stop_id": "1330",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 03",
           "arrival_time": "27:46:00",
           "departure_time": "27:46:00",
           "lat": 51.10670852,
@@ -29380,7 +29380,7 @@
       ]
     },
     {
-      "trip_id": "8_17616355",
+      "trip_id": "8_17720368",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "8",
@@ -29577,7 +29577,7 @@
       ]
     },
     {
-      "trip_id": "8_17616357",
+      "trip_id": "8_17720370",
       "direction_id": "0",
       "headsign": "PAWŁOWICE (Widawska)",
       "service_id": "8",
@@ -29846,7 +29846,7 @@
         {
           "stop_sequence": 29,
           "stop_id": "546",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 05",
           "arrival_time": "24:38:00",
           "departure_time": "24:38:00",
           "lat": 51.10740171,
@@ -30098,7 +30098,7 @@
       ]
     },
     {
-      "trip_id": "8_17616358",
+      "trip_id": "8_17720371",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "8",
@@ -30367,7 +30367,7 @@
         {
           "stop_sequence": 29,
           "stop_id": "1330",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 03",
           "arrival_time": "26:46:00",
           "departure_time": "26:46:00",
           "lat": 51.10670852,
@@ -30655,7 +30655,7 @@
       ]
     },
     {
-      "trip_id": "8_17616359",
+      "trip_id": "8_17720372",
       "direction_id": "0",
       "headsign": "PETRUSEWICZA",
       "service_id": "8",
@@ -30897,7 +30897,7 @@
       ]
     },
     {
-      "trip_id": "8_17616360",
+      "trip_id": "8_17720373",
       "direction_id": "0",
       "headsign": "Zajezdnia TYSKA",
       "service_id": "8",
@@ -31058,7 +31058,7 @@
       ]
     },
     {
-      "trip_id": "8_17616366",
+      "trip_id": "8_17720379",
       "direction_id": "0",
       "headsign": "PAWŁOWICE (Widawska)",
       "service_id": "8",
@@ -31291,7 +31291,7 @@
       ]
     },
     {
-      "trip_id": "8_17616367",
+      "trip_id": "8_17720380",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "8",
@@ -31560,7 +31560,7 @@
         {
           "stop_sequence": 29,
           "stop_id": "1330",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 03",
           "arrival_time": "25:46:00",
           "departure_time": "25:46:00",
           "lat": 51.10670852,
@@ -31848,7 +31848,7 @@
       ]
     },
     {
-      "trip_id": "8_17616368",
+      "trip_id": "8_17720381",
       "direction_id": "0",
       "headsign": "PAWŁOWICE (Widawska)",
       "service_id": "8",
@@ -32117,7 +32117,7 @@
         {
           "stop_sequence": 29,
           "stop_id": "546",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 05",
           "arrival_time": "27:38:00",
           "departure_time": "27:38:00",
           "lat": 51.10740171,
@@ -32369,7 +32369,7 @@
       ]
     },
     {
-      "trip_id": "8_17616369",
+      "trip_id": "8_17720382",
       "direction_id": "1",
       "headsign": "PETRUSEWICZA",
       "service_id": "8",
@@ -32638,7 +32638,7 @@
         {
           "stop_sequence": 29,
           "stop_id": "1330",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 03",
           "arrival_time": "29:04:00",
           "departure_time": "29:04:00",
           "lat": 51.10670852,
@@ -32701,7 +32701,7 @@
       ]
     },
     {
-      "trip_id": "8_17616370",
+      "trip_id": "8_17720383",
       "direction_id": "0",
       "headsign": "Zajezdnia TYSKA",
       "service_id": "8",
@@ -32862,7 +32862,7 @@
       ]
     },
     {
-      "trip_id": "8_17616372",
+      "trip_id": "8_17720385",
       "direction_id": "0",
       "headsign": "PAWŁOWICE (Widawska)",
       "service_id": "8",
@@ -33131,7 +33131,7 @@
         {
           "stop_sequence": 29,
           "stop_id": "546",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 05",
           "arrival_time": "23:48:00",
           "departure_time": "23:48:00",
           "lat": 51.10740171,
@@ -33383,7 +33383,7 @@
       ]
     },
     {
-      "trip_id": "8_17616373",
+      "trip_id": "8_17720386",
       "direction_id": "1",
       "headsign": "KROMERA",
       "service_id": "8",
@@ -33607,7 +33607,7 @@
       ]
     },
     {
-      "trip_id": "8_17616380",
+      "trip_id": "8_17720393",
       "direction_id": "0",
       "headsign": "Zajezdnia TYSKA",
       "service_id": "8",
@@ -33651,7 +33651,7 @@
         {
           "stop_sequence": 4,
           "stop_id": "546",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 05",
           "arrival_time": "29:08:00",
           "departure_time": "29:08:00",
           "lat": 51.10740171,
@@ -33849,7 +33849,7 @@
       ]
     },
     {
-      "trip_id": "8_17616582",
+      "trip_id": "8_17720595",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "8",
@@ -34127,7 +34127,7 @@
       ]
     },
     {
-      "trip_id": "8_17616583",
+      "trip_id": "8_17720596",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "8",

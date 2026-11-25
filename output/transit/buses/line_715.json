@@ -2,7 +2,7 @@
   "line": "715",
   "trips": [
     {
-      "trip_id": "3_17599254",
+      "trip_id": "3_17703267",
       "direction_id": "1",
       "headsign": "SWOJCZYCE",
       "service_id": "3",
@@ -181,7 +181,7 @@
       ]
     },
     {
-      "trip_id": "3_17599255",
+      "trip_id": "3_17703268",
       "direction_id": "0",
       "headsign": "8 Maja",
       "service_id": "3",
@@ -252,7 +252,7 @@
       ]
     },
     {
-      "trip_id": "3_17599256",
+      "trip_id": "3_17703269",
       "direction_id": "1",
       "headsign": "SWOJCZYCE",
       "service_id": "3",
@@ -323,7 +323,7 @@
       ]
     },
     {
-      "trip_id": "3_17599257",
+      "trip_id": "3_17703270",
       "direction_id": "0",
       "headsign": "8 Maja",
       "service_id": "3",
@@ -394,7 +394,7 @@
       ]
     },
     {
-      "trip_id": "3_17599258",
+      "trip_id": "3_17703271",
       "direction_id": "1",
       "headsign": "SWOJCZYCE",
       "service_id": "3",
@@ -465,7 +465,7 @@
       ]
     },
     {
-      "trip_id": "3_17599259",
+      "trip_id": "3_17703272",
       "direction_id": "0",
       "headsign": "8 Maja",
       "service_id": "3",
@@ -536,7 +536,7 @@
       ]
     },
     {
-      "trip_id": "3_17599260",
+      "trip_id": "3_17703273",
       "direction_id": "1",
       "headsign": "SWOJCZYCE",
       "service_id": "3",
@@ -607,7 +607,7 @@
       ]
     },
     {
-      "trip_id": "3_17599261",
+      "trip_id": "3_17703274",
       "direction_id": "0",
       "headsign": "8 Maja",
       "service_id": "3",
@@ -678,7 +678,7 @@
       ]
     },
     {
-      "trip_id": "3_17599262",
+      "trip_id": "3_17703275",
       "direction_id": "1",
       "headsign": "SWOJCZYCE",
       "service_id": "3",
@@ -749,7 +749,7 @@
       ]
     },
     {
-      "trip_id": "3_17599263",
+      "trip_id": "3_17703276",
       "direction_id": "0",
       "headsign": "8 Maja",
       "service_id": "3",
@@ -820,7 +820,7 @@
       ]
     },
     {
-      "trip_id": "3_17599264",
+      "trip_id": "3_17703277",
       "direction_id": "1",
       "headsign": "SWOJCZYCE",
       "service_id": "3",
@@ -891,7 +891,7 @@
       ]
     },
     {
-      "trip_id": "3_17599265",
+      "trip_id": "3_17703278",
       "direction_id": "0",
       "headsign": "8 Maja",
       "service_id": "3",
@@ -962,7 +962,7 @@
       ]
     },
     {
-      "trip_id": "3_17599266",
+      "trip_id": "3_17703279",
       "direction_id": "1",
       "headsign": "SWOJCZYCE",
       "service_id": "3",
@@ -1033,7 +1033,7 @@
       ]
     },
     {
-      "trip_id": "3_17599267",
+      "trip_id": "3_17703280",
       "direction_id": "0",
       "headsign": "8 Maja",
       "service_id": "3",
@@ -1104,7 +1104,7 @@
       ]
     },
     {
-      "trip_id": "3_17599268",
+      "trip_id": "3_17703281",
       "direction_id": "1",
       "headsign": "SWOJCZYCE",
       "service_id": "3",
@@ -1175,7 +1175,7 @@
       ]
     },
     {
-      "trip_id": "3_17599269",
+      "trip_id": "3_17703282",
       "direction_id": "0",
       "headsign": "8 Maja",
       "service_id": "3",
@@ -1246,7 +1246,7 @@
       ]
     },
     {
-      "trip_id": "3_17599270",
+      "trip_id": "3_17703283",
       "direction_id": "1",
       "headsign": "SWOJCZYCE",
       "service_id": "3",
@@ -1317,7 +1317,7 @@
       ]
     },
     {
-      "trip_id": "3_17599271",
+      "trip_id": "3_17703284",
       "direction_id": "0",
       "headsign": "8 Maja",
       "service_id": "3",
@@ -1388,7 +1388,7 @@
       ]
     },
     {
-      "trip_id": "3_17599272",
+      "trip_id": "3_17703285",
       "direction_id": "1",
       "headsign": "SWOJCZYCE",
       "service_id": "3",
@@ -1459,7 +1459,7 @@
       ]
     },
     {
-      "trip_id": "3_17599273",
+      "trip_id": "3_17703286",
       "direction_id": "0",
       "headsign": "8 Maja",
       "service_id": "3",
@@ -1530,7 +1530,7 @@
       ]
     },
     {
-      "trip_id": "3_17599274",
+      "trip_id": "3_17703287",
       "direction_id": "1",
       "headsign": "SWOJCZYCE",
       "service_id": "3",
@@ -1601,7 +1601,7 @@
       ]
     },
     {
-      "trip_id": "3_17599275",
+      "trip_id": "3_17703288",
       "direction_id": "0",
       "headsign": "8 Maja",
       "service_id": "3",
@@ -1672,7 +1672,7 @@
       ]
     },
     {
-      "trip_id": "3_17599276",
+      "trip_id": "3_17703289",
       "direction_id": "1",
       "headsign": "SWOJCZYCE",
       "service_id": "3",
@@ -1743,7 +1743,7 @@
       ]
     },
     {
-      "trip_id": "3_17599277",
+      "trip_id": "3_17703290",
       "direction_id": "0",
       "headsign": "8 Maja",
       "service_id": "3",
@@ -1814,7 +1814,7 @@
       ]
     },
     {
-      "trip_id": "3_17599278",
+      "trip_id": "3_17703291",
       "direction_id": "1",
       "headsign": "SWOJCZYCE",
       "service_id": "3",
@@ -1885,7 +1885,7 @@
       ]
     },
     {
-      "trip_id": "3_17599279",
+      "trip_id": "3_17703292",
       "direction_id": "0",
       "headsign": "8 Maja",
       "service_id": "3",
@@ -1956,7 +1956,7 @@
       ]
     },
     {
-      "trip_id": "3_17599280",
+      "trip_id": "3_17703293",
       "direction_id": "1",
       "headsign": "SWOJCZYCE",
       "service_id": "3",
@@ -2027,7 +2027,7 @@
       ]
     },
     {
-      "trip_id": "3_17599281",
+      "trip_id": "3_17703294",
       "direction_id": "0",
       "headsign": "8 Maja",
       "service_id": "3",
@@ -2098,7 +2098,7 @@
       ]
     },
     {
-      "trip_id": "3_17599282",
+      "trip_id": "3_17703295",
       "direction_id": "1",
       "headsign": "SWOJCZYCE",
       "service_id": "3",
@@ -2169,7 +2169,7 @@
       ]
     },
     {
-      "trip_id": "3_17599283",
+      "trip_id": "3_17703296",
       "direction_id": "0",
       "headsign": "8 Maja",
       "service_id": "3",
@@ -2240,7 +2240,7 @@
       ]
     },
     {
-      "trip_id": "3_17599284",
+      "trip_id": "3_17703297",
       "direction_id": "1",
       "headsign": "SWOJCZYCE",
       "service_id": "3",
@@ -2311,7 +2311,7 @@
       ]
     },
     {
-      "trip_id": "3_17599285",
+      "trip_id": "3_17703298",
       "direction_id": "0",
       "headsign": "8 Maja",
       "service_id": "3",
@@ -2382,7 +2382,7 @@
       ]
     },
     {
-      "trip_id": "3_17599286",
+      "trip_id": "3_17703299",
       "direction_id": "1",
       "headsign": "SWOJCZYCE",
       "service_id": "3",
@@ -2453,7 +2453,7 @@
       ]
     },
     {
-      "trip_id": "3_17599287",
+      "trip_id": "3_17703300",
       "direction_id": "0",
       "headsign": "8 Maja",
       "service_id": "3",
@@ -2524,7 +2524,7 @@
       ]
     },
     {
-      "trip_id": "3_17599288",
+      "trip_id": "3_17703301",
       "direction_id": "1",
       "headsign": "SWOJCZYCE",
       "service_id": "3",
@@ -2595,7 +2595,7 @@
       ]
     },
     {
-      "trip_id": "3_17599289",
+      "trip_id": "3_17703302",
       "direction_id": "0",
       "headsign": "8 Maja",
       "service_id": "3",
@@ -2666,7 +2666,7 @@
       ]
     },
     {
-      "trip_id": "3_17599290",
+      "trip_id": "3_17703303",
       "direction_id": "1",
       "headsign": "SWOJCZYCE",
       "service_id": "3",
@@ -2737,7 +2737,7 @@
       ]
     },
     {
-      "trip_id": "3_17599291",
+      "trip_id": "3_17703304",
       "direction_id": "0",
       "headsign": "8 Maja",
       "service_id": "3",
@@ -2808,7 +2808,7 @@
       ]
     },
     {
-      "trip_id": "3_17599292",
+      "trip_id": "3_17703305",
       "direction_id": "1",
       "headsign": "SWOJCZYCE",
       "service_id": "3",
@@ -2879,7 +2879,7 @@
       ]
     },
     {
-      "trip_id": "3_17599293",
+      "trip_id": "3_17703306",
       "direction_id": "0",
       "headsign": "8 Maja",
       "service_id": "3",
@@ -2950,7 +2950,7 @@
       ]
     },
     {
-      "trip_id": "3_17599294",
+      "trip_id": "3_17703307",
       "direction_id": "1",
       "headsign": "SWOJCZYCE",
       "service_id": "3",
@@ -3021,7 +3021,7 @@
       ]
     },
     {
-      "trip_id": "3_17599295",
+      "trip_id": "3_17703308",
       "direction_id": "0",
       "headsign": "8 Maja",
       "service_id": "3",
@@ -3092,7 +3092,7 @@
       ]
     },
     {
-      "trip_id": "3_17599296",
+      "trip_id": "3_17703309",
       "direction_id": "1",
       "headsign": "SWOJCZYCE",
       "service_id": "3",
@@ -3163,7 +3163,7 @@
       ]
     },
     {
-      "trip_id": "3_17599297",
+      "trip_id": "3_17703310",
       "direction_id": "0",
       "headsign": "8 Maja",
       "service_id": "3",
@@ -3234,7 +3234,7 @@
       ]
     },
     {
-      "trip_id": "3_17599298",
+      "trip_id": "3_17703311",
       "direction_id": "1",
       "headsign": "SWOJCZYCE",
       "service_id": "3",
@@ -3305,7 +3305,7 @@
       ]
     },
     {
-      "trip_id": "3_17599299",
+      "trip_id": "3_17703312",
       "direction_id": "0",
       "headsign": "Zajezdnia TYSKA",
       "service_id": "3",
@@ -3529,7 +3529,7 @@
       ]
     },
     {
-      "trip_id": "3_17599300",
+      "trip_id": "3_17703313",
       "direction_id": "1",
       "headsign": "SWOJCZYCE",
       "service_id": "3",
@@ -3708,7 +3708,7 @@
       ]
     },
     {
-      "trip_id": "3_17599301",
+      "trip_id": "3_17703314",
       "direction_id": "0",
       "headsign": "8 Maja",
       "service_id": "3",
@@ -3779,7 +3779,7 @@
       ]
     },
     {
-      "trip_id": "3_17599302",
+      "trip_id": "3_17703315",
       "direction_id": "1",
       "headsign": "SWOJCZYCE",
       "service_id": "3",
@@ -3850,7 +3850,7 @@
       ]
     },
     {
-      "trip_id": "3_17599303",
+      "trip_id": "3_17703316",
       "direction_id": "0",
       "headsign": "8 Maja",
       "service_id": "3",
@@ -3921,7 +3921,7 @@
       ]
     },
     {
-      "trip_id": "3_17599304",
+      "trip_id": "3_17703317",
       "direction_id": "1",
       "headsign": "SWOJCZYCE",
       "service_id": "3",
@@ -3992,7 +3992,7 @@
       ]
     },
     {
-      "trip_id": "3_17599305",
+      "trip_id": "3_17703318",
       "direction_id": "0",
       "headsign": "8 Maja",
       "service_id": "3",
@@ -4063,7 +4063,7 @@
       ]
     },
     {
-      "trip_id": "3_17599306",
+      "trip_id": "3_17703319",
       "direction_id": "1",
       "headsign": "SWOJCZYCE",
       "service_id": "3",
@@ -4134,7 +4134,7 @@
       ]
     },
     {
-      "trip_id": "3_17599307",
+      "trip_id": "3_17703320",
       "direction_id": "0",
       "headsign": "8 Maja",
       "service_id": "3",
@@ -4205,7 +4205,7 @@
       ]
     },
     {
-      "trip_id": "3_17599308",
+      "trip_id": "3_17703321",
       "direction_id": "1",
       "headsign": "SWOJCZYCE",
       "service_id": "3",
@@ -4276,7 +4276,7 @@
       ]
     },
     {
-      "trip_id": "3_17599309",
+      "trip_id": "3_17703322",
       "direction_id": "0",
       "headsign": "8 Maja",
       "service_id": "3",
@@ -4347,7 +4347,7 @@
       ]
     },
     {
-      "trip_id": "3_17599310",
+      "trip_id": "3_17703323",
       "direction_id": "1",
       "headsign": "SWOJCZYCE",
       "service_id": "3",
@@ -4418,7 +4418,7 @@
       ]
     },
     {
-      "trip_id": "3_17599311",
+      "trip_id": "3_17703324",
       "direction_id": "0",
       "headsign": "8 Maja",
       "service_id": "3",
@@ -4489,7 +4489,7 @@
       ]
     },
     {
-      "trip_id": "3_17599312",
+      "trip_id": "3_17703325",
       "direction_id": "1",
       "headsign": "SWOJCZYCE",
       "service_id": "3",
@@ -4560,7 +4560,7 @@
       ]
     },
     {
-      "trip_id": "3_17599313",
+      "trip_id": "3_17703326",
       "direction_id": "0",
       "headsign": "8 Maja",
       "service_id": "3",
@@ -4631,7 +4631,7 @@
       ]
     },
     {
-      "trip_id": "3_17599314",
+      "trip_id": "3_17703327",
       "direction_id": "1",
       "headsign": "SWOJCZYCE",
       "service_id": "3",
@@ -4702,7 +4702,7 @@
       ]
     },
     {
-      "trip_id": "3_17599315",
+      "trip_id": "3_17703328",
       "direction_id": "0",
       "headsign": "8 Maja",
       "service_id": "3",
@@ -4773,7 +4773,7 @@
       ]
     },
     {
-      "trip_id": "3_17599316",
+      "trip_id": "3_17703329",
       "direction_id": "1",
       "headsign": "SWOJCZYCE",
       "service_id": "3",
@@ -4844,7 +4844,7 @@
       ]
     },
     {
-      "trip_id": "3_17599317",
+      "trip_id": "3_17703330",
       "direction_id": "0",
       "headsign": "8 Maja",
       "service_id": "3",
@@ -4915,7 +4915,7 @@
       ]
     },
     {
-      "trip_id": "3_17599318",
+      "trip_id": "3_17703331",
       "direction_id": "1",
       "headsign": "SWOJCZYCE",
       "service_id": "3",
@@ -4986,7 +4986,7 @@
       ]
     },
     {
-      "trip_id": "3_17599319",
+      "trip_id": "3_17703332",
       "direction_id": "0",
       "headsign": "8 Maja",
       "service_id": "3",
@@ -5057,7 +5057,7 @@
       ]
     },
     {
-      "trip_id": "3_17599320",
+      "trip_id": "3_17703333",
       "direction_id": "1",
       "headsign": "SWOJCZYCE",
       "service_id": "3",
@@ -5128,7 +5128,7 @@
       ]
     },
     {
-      "trip_id": "3_17599321",
+      "trip_id": "3_17703334",
       "direction_id": "0",
       "headsign": "8 Maja",
       "service_id": "3",
@@ -5199,7 +5199,7 @@
       ]
     },
     {
-      "trip_id": "3_17599322",
+      "trip_id": "3_17703335",
       "direction_id": "1",
       "headsign": "SWOJCZYCE",
       "service_id": "3",
@@ -5270,7 +5270,7 @@
       ]
     },
     {
-      "trip_id": "3_17599323",
+      "trip_id": "3_17703336",
       "direction_id": "0",
       "headsign": "8 Maja",
       "service_id": "3",
@@ -5341,7 +5341,7 @@
       ]
     },
     {
-      "trip_id": "3_17599324",
+      "trip_id": "3_17703337",
       "direction_id": "1",
       "headsign": "SWOJCZYCE",
       "service_id": "3",
@@ -5412,7 +5412,7 @@
       ]
     },
     {
-      "trip_id": "3_17599325",
+      "trip_id": "3_17703338",
       "direction_id": "0",
       "headsign": "8 Maja",
       "service_id": "3",
@@ -5483,7 +5483,7 @@
       ]
     },
     {
-      "trip_id": "3_17599326",
+      "trip_id": "3_17703339",
       "direction_id": "1",
       "headsign": "SWOJCZYCE",
       "service_id": "3",
@@ -5554,7 +5554,7 @@
       ]
     },
     {
-      "trip_id": "3_17599327",
+      "trip_id": "3_17703340",
       "direction_id": "0",
       "headsign": "8 Maja",
       "service_id": "3",
@@ -5625,7 +5625,7 @@
       ]
     },
     {
-      "trip_id": "3_17599328",
+      "trip_id": "3_17703341",
       "direction_id": "1",
       "headsign": "SWOJCZYCE",
       "service_id": "3",
@@ -5696,7 +5696,7 @@
       ]
     },
     {
-      "trip_id": "3_17599329",
+      "trip_id": "3_17703342",
       "direction_id": "0",
       "headsign": "8 Maja",
       "service_id": "3",
@@ -5767,7 +5767,7 @@
       ]
     },
     {
-      "trip_id": "3_17599330",
+      "trip_id": "3_17703343",
       "direction_id": "1",
       "headsign": "SWOJCZYCE",
       "service_id": "3",
@@ -5838,7 +5838,7 @@
       ]
     },
     {
-      "trip_id": "3_17599331",
+      "trip_id": "3_17703344",
       "direction_id": "0",
       "headsign": "8 Maja",
       "service_id": "3",
@@ -5909,7 +5909,7 @@
       ]
     },
     {
-      "trip_id": "3_17599332",
+      "trip_id": "3_17703345",
       "direction_id": "1",
       "headsign": "SWOJCZYCE",
       "service_id": "3",
@@ -5980,7 +5980,7 @@
       ]
     },
     {
-      "trip_id": "3_17599333",
+      "trip_id": "3_17703346",
       "direction_id": "0",
       "headsign": "Zajezdnia TYSKA",
       "service_id": "3",
@@ -6204,7 +6204,7 @@
       ]
     },
     {
-      "trip_id": "3_17599334",
+      "trip_id": "3_17703347",
       "direction_id": "1",
       "headsign": "SWOJCZYCE",
       "service_id": "3",
@@ -6383,7 +6383,7 @@
       ]
     },
     {
-      "trip_id": "3_17599335",
+      "trip_id": "3_17703348",
       "direction_id": "0",
       "headsign": "8 Maja",
       "service_id": "3",
@@ -6454,7 +6454,7 @@
       ]
     },
     {
-      "trip_id": "3_17599336",
+      "trip_id": "3_17703349",
       "direction_id": "1",
       "headsign": "SWOJCZYCE",
       "service_id": "3",
@@ -6525,7 +6525,7 @@
       ]
     },
     {
-      "trip_id": "3_17599337",
+      "trip_id": "3_17703350",
       "direction_id": "0",
       "headsign": "8 Maja",
       "service_id": "3",
@@ -6596,7 +6596,7 @@
       ]
     },
     {
-      "trip_id": "3_17599338",
+      "trip_id": "3_17703351",
       "direction_id": "1",
       "headsign": "SWOJCZYCE",
       "service_id": "3",
@@ -6667,7 +6667,7 @@
       ]
     },
     {
-      "trip_id": "3_17599339",
+      "trip_id": "3_17703352",
       "direction_id": "0",
       "headsign": "8 Maja",
       "service_id": "3",
@@ -6738,7 +6738,7 @@
       ]
     },
     {
-      "trip_id": "3_17599340",
+      "trip_id": "3_17703353",
       "direction_id": "1",
       "headsign": "SWOJCZYCE",
       "service_id": "3",
@@ -6809,7 +6809,7 @@
       ]
     },
     {
-      "trip_id": "3_17599341",
+      "trip_id": "3_17703354",
       "direction_id": "0",
       "headsign": "8 Maja",
       "service_id": "3",
@@ -6880,7 +6880,7 @@
       ]
     },
     {
-      "trip_id": "3_17599342",
+      "trip_id": "3_17703355",
       "direction_id": "1",
       "headsign": "SWOJCZYCE",
       "service_id": "3",
@@ -6951,7 +6951,7 @@
       ]
     },
     {
-      "trip_id": "3_17599343",
+      "trip_id": "3_17703356",
       "direction_id": "0",
       "headsign": "8 Maja",
       "service_id": "3",
@@ -7022,7 +7022,7 @@
       ]
     },
     {
-      "trip_id": "3_17599344",
+      "trip_id": "3_17703357",
       "direction_id": "1",
       "headsign": "SWOJCZYCE",
       "service_id": "3",
@@ -7093,7 +7093,7 @@
       ]
     },
     {
-      "trip_id": "3_17599345",
+      "trip_id": "3_17703358",
       "direction_id": "0",
       "headsign": "8 Maja",
       "service_id": "3",
@@ -7164,7 +7164,7 @@
       ]
     },
     {
-      "trip_id": "3_17599346",
+      "trip_id": "3_17703359",
       "direction_id": "1",
       "headsign": "SWOJCZYCE",
       "service_id": "3",
@@ -7235,7 +7235,7 @@
       ]
     },
     {
-      "trip_id": "3_17599347",
+      "trip_id": "3_17703360",
       "direction_id": "0",
       "headsign": "8 Maja",
       "service_id": "3",
@@ -7306,7 +7306,7 @@
       ]
     },
     {
-      "trip_id": "3_17599348",
+      "trip_id": "3_17703361",
       "direction_id": "1",
       "headsign": "SWOJCZYCE",
       "service_id": "3",
@@ -7377,7 +7377,7 @@
       ]
     },
     {
-      "trip_id": "3_17599349",
+      "trip_id": "3_17703362",
       "direction_id": "0",
       "headsign": "8 Maja",
       "service_id": "3",
@@ -7448,7 +7448,7 @@
       ]
     },
     {
-      "trip_id": "3_17599350",
+      "trip_id": "3_17703363",
       "direction_id": "1",
       "headsign": "SWOJCZYCE",
       "service_id": "3",
@@ -7519,7 +7519,7 @@
       ]
     },
     {
-      "trip_id": "3_17599351",
+      "trip_id": "3_17703364",
       "direction_id": "0",
       "headsign": "8 Maja",
       "service_id": "3",
@@ -7590,7 +7590,7 @@
       ]
     },
     {
-      "trip_id": "3_17599352",
+      "trip_id": "3_17703365",
       "direction_id": "1",
       "headsign": "SWOJCZYCE",
       "service_id": "3",
@@ -7661,7 +7661,7 @@
       ]
     },
     {
-      "trip_id": "3_17599353",
+      "trip_id": "3_17703366",
       "direction_id": "0",
       "headsign": "8 Maja",
       "service_id": "3",
@@ -7732,7 +7732,7 @@
       ]
     },
     {
-      "trip_id": "3_17599354",
+      "trip_id": "3_17703367",
       "direction_id": "1",
       "headsign": "SWOJCZYCE",
       "service_id": "3",
@@ -7803,7 +7803,7 @@
       ]
     },
     {
-      "trip_id": "3_17599355",
+      "trip_id": "3_17703368",
       "direction_id": "0",
       "headsign": "8 Maja",
       "service_id": "3",
@@ -7874,7 +7874,7 @@
       ]
     },
     {
-      "trip_id": "3_17599356",
+      "trip_id": "3_17703369",
       "direction_id": "1",
       "headsign": "SWOJCZYCE",
       "service_id": "3",
@@ -7945,7 +7945,7 @@
       ]
     },
     {
-      "trip_id": "3_17599357",
+      "trip_id": "3_17703370",
       "direction_id": "0",
       "headsign": "8 Maja",
       "service_id": "3",
@@ -8016,7 +8016,7 @@
       ]
     },
     {
-      "trip_id": "3_17599358",
+      "trip_id": "3_17703371",
       "direction_id": "1",
       "headsign": "SWOJCZYCE",
       "service_id": "3",
@@ -8087,7 +8087,7 @@
       ]
     },
     {
-      "trip_id": "3_17599359",
+      "trip_id": "3_17703372",
       "direction_id": "0",
       "headsign": "8 Maja",
       "service_id": "3",
@@ -8158,7 +8158,7 @@
       ]
     },
     {
-      "trip_id": "3_17599360",
+      "trip_id": "3_17703373",
       "direction_id": "1",
       "headsign": "SWOJCZYCE",
       "service_id": "3",
@@ -8229,7 +8229,7 @@
       ]
     },
     {
-      "trip_id": "3_17599361",
+      "trip_id": "3_17703374",
       "direction_id": "0",
       "headsign": "8 Maja",
       "service_id": "3",
@@ -8300,7 +8300,7 @@
       ]
     },
     {
-      "trip_id": "3_17599362",
+      "trip_id": "3_17703375",
       "direction_id": "1",
       "headsign": "SWOJCZYCE",
       "service_id": "3",
@@ -8371,7 +8371,7 @@
       ]
     },
     {
-      "trip_id": "3_17599363",
+      "trip_id": "3_17703376",
       "direction_id": "0",
       "headsign": "8 Maja",
       "service_id": "3",
@@ -8442,7 +8442,7 @@
       ]
     },
     {
-      "trip_id": "3_17599364",
+      "trip_id": "3_17703377",
       "direction_id": "1",
       "headsign": "SWOJCZYCE",
       "service_id": "3",
@@ -8513,7 +8513,7 @@
       ]
     },
     {
-      "trip_id": "3_17599365",
+      "trip_id": "3_17703378",
       "direction_id": "0",
       "headsign": "8 Maja",
       "service_id": "3",
@@ -8584,7 +8584,7 @@
       ]
     },
     {
-      "trip_id": "3_17599366",
+      "trip_id": "3_17703379",
       "direction_id": "1",
       "headsign": "SWOJCZYCE",
       "service_id": "3",
@@ -8655,7 +8655,7 @@
       ]
     },
     {
-      "trip_id": "3_17599367",
+      "trip_id": "3_17703380",
       "direction_id": "0",
       "headsign": "8 Maja",
       "service_id": "3",
@@ -8726,7 +8726,7 @@
       ]
     },
     {
-      "trip_id": "3_17599368",
+      "trip_id": "3_17703381",
       "direction_id": "1",
       "headsign": "SWOJCZYCE",
       "service_id": "3",
@@ -8797,7 +8797,7 @@
       ]
     },
     {
-      "trip_id": "3_17599369",
+      "trip_id": "3_17703382",
       "direction_id": "0",
       "headsign": "Zajezdnia TYSKA",
       "service_id": "3",
@@ -9021,7 +9021,7 @@
       ]
     },
     {
-      "trip_id": "4_17603663",
+      "trip_id": "4_17707676",
       "direction_id": "1",
       "headsign": "SWOJCZYCE",
       "service_id": "4",
@@ -9200,7 +9200,7 @@
       ]
     },
     {
-      "trip_id": "4_17603664",
+      "trip_id": "4_17707677",
       "direction_id": "0",
       "headsign": "8 Maja",
       "service_id": "4",
@@ -9271,7 +9271,7 @@
       ]
     },
     {
-      "trip_id": "4_17603665",
+      "trip_id": "4_17707678",
       "direction_id": "1",
       "headsign": "SWOJCZYCE",
       "service_id": "4",
@@ -9342,7 +9342,7 @@
       ]
     },
     {
-      "trip_id": "4_17603666",
+      "trip_id": "4_17707679",
       "direction_id": "0",
       "headsign": "8 Maja",
       "service_id": "4",
@@ -9413,7 +9413,7 @@
       ]
     },
     {
-      "trip_id": "4_17603667",
+      "trip_id": "4_17707680",
       "direction_id": "1",
       "headsign": "SWOJCZYCE",
       "service_id": "4",
@@ -9484,7 +9484,7 @@
       ]
     },
     {
-      "trip_id": "4_17603668",
+      "trip_id": "4_17707681",
       "direction_id": "0",
       "headsign": "8 Maja",
       "service_id": "4",
@@ -9555,7 +9555,7 @@
       ]
     },
     {
-      "trip_id": "4_17603669",
+      "trip_id": "4_17707682",
       "direction_id": "1",
       "headsign": "SWOJCZYCE",
       "service_id": "4",
@@ -9626,7 +9626,7 @@
       ]
     },
     {
-      "trip_id": "4_17603670",
+      "trip_id": "4_17707683",
       "direction_id": "0",
       "headsign": "8 Maja",
       "service_id": "4",
@@ -9697,7 +9697,7 @@
       ]
     },
     {
-      "trip_id": "4_17603671",
+      "trip_id": "4_17707684",
       "direction_id": "1",
       "headsign": "SWOJCZYCE",
       "service_id": "4",
@@ -9768,7 +9768,7 @@
       ]
     },
     {
-      "trip_id": "4_17603672",
+      "trip_id": "4_17707685",
       "direction_id": "0",
       "headsign": "8 Maja",
       "service_id": "4",
@@ -9839,7 +9839,7 @@
       ]
     },
     {
-      "trip_id": "4_17603673",
+      "trip_id": "4_17707686",
       "direction_id": "1",
       "headsign": "SWOJCZYCE",
       "service_id": "4",
@@ -9910,7 +9910,7 @@
       ]
     },
     {
-      "trip_id": "4_17603674",
+      "trip_id": "4_17707687",
       "direction_id": "0",
       "headsign": "8 Maja",
       "service_id": "4",
@@ -9981,7 +9981,7 @@
       ]
     },
     {
-      "trip_id": "4_17603675",
+      "trip_id": "4_17707688",
       "direction_id": "1",
       "headsign": "SWOJCZYCE",
       "service_id": "4",
@@ -10052,7 +10052,7 @@
       ]
     },
     {
-      "trip_id": "4_17603676",
+      "trip_id": "4_17707689",
       "direction_id": "0",
       "headsign": "8 Maja",
       "service_id": "4",
@@ -10123,7 +10123,7 @@
       ]
     },
     {
-      "trip_id": "4_17603677",
+      "trip_id": "4_17707690",
       "direction_id": "1",
       "headsign": "SWOJCZYCE",
       "service_id": "4",
@@ -10194,7 +10194,7 @@
       ]
     },
     {
-      "trip_id": "4_17603678",
+      "trip_id": "4_17707691",
       "direction_id": "0",
       "headsign": "8 Maja",
       "service_id": "4",
@@ -10265,7 +10265,7 @@
       ]
     },
     {
-      "trip_id": "4_17603679",
+      "trip_id": "4_17707692",
       "direction_id": "1",
       "headsign": "SWOJCZYCE",
       "service_id": "4",
@@ -10336,7 +10336,7 @@
       ]
     },
     {
-      "trip_id": "4_17603680",
+      "trip_id": "4_17707693",
       "direction_id": "0",
       "headsign": "8 Maja",
       "service_id": "4",
@@ -10407,7 +10407,7 @@
       ]
     },
     {
-      "trip_id": "4_17603681",
+      "trip_id": "4_17707694",
       "direction_id": "1",
       "headsign": "SWOJCZYCE",
       "service_id": "4",
@@ -10478,7 +10478,7 @@
       ]
     },
     {
-      "trip_id": "4_17603682",
+      "trip_id": "4_17707695",
       "direction_id": "0",
       "headsign": "8 Maja",
       "service_id": "4",
@@ -10549,7 +10549,7 @@
       ]
     },
     {
-      "trip_id": "4_17603683",
+      "trip_id": "4_17707696",
       "direction_id": "1",
       "headsign": "SWOJCZYCE",
       "service_id": "4",
@@ -10620,7 +10620,7 @@
       ]
     },
     {
-      "trip_id": "4_17603684",
+      "trip_id": "4_17707697",
       "direction_id": "0",
       "headsign": "8 Maja",
       "service_id": "4",
@@ -10691,7 +10691,7 @@
       ]
     },
     {
-      "trip_id": "4_17603685",
+      "trip_id": "4_17707698",
       "direction_id": "1",
       "headsign": "SWOJCZYCE",
       "service_id": "4",
@@ -10762,7 +10762,7 @@
       ]
     },
     {
-      "trip_id": "4_17603686",
+      "trip_id": "4_17707699",
       "direction_id": "0",
       "headsign": "8 Maja",
       "service_id": "4",
@@ -10833,7 +10833,7 @@
       ]
     },
     {
-      "trip_id": "4_17603687",
+      "trip_id": "4_17707700",
       "direction_id": "1",
       "headsign": "SWOJCZYCE",
       "service_id": "4",
@@ -10904,7 +10904,7 @@
       ]
     },
     {
-      "trip_id": "4_17603688",
+      "trip_id": "4_17707701",
       "direction_id": "0",
       "headsign": "8 Maja",
       "service_id": "4",
@@ -10975,7 +10975,7 @@
       ]
     },
     {
-      "trip_id": "4_17603689",
+      "trip_id": "4_17707702",
       "direction_id": "1",
       "headsign": "SWOJCZYCE",
       "service_id": "4",
@@ -11046,7 +11046,7 @@
       ]
     },
     {
-      "trip_id": "4_17603690",
+      "trip_id": "4_17707703",
       "direction_id": "0",
       "headsign": "8 Maja",
       "service_id": "4",
@@ -11117,7 +11117,7 @@
       ]
     },
     {
-      "trip_id": "4_17603691",
+      "trip_id": "4_17707704",
       "direction_id": "1",
       "headsign": "SWOJCZYCE",
       "service_id": "4",
@@ -11188,7 +11188,7 @@
       ]
     },
     {
-      "trip_id": "4_17603692",
+      "trip_id": "4_17707705",
       "direction_id": "0",
       "headsign": "8 Maja",
       "service_id": "4",
@@ -11259,7 +11259,7 @@
       ]
     },
     {
-      "trip_id": "4_17603693",
+      "trip_id": "4_17707706",
       "direction_id": "1",
       "headsign": "SWOJCZYCE",
       "service_id": "4",
@@ -11330,7 +11330,7 @@
       ]
     },
     {
-      "trip_id": "4_17603694",
+      "trip_id": "4_17707707",
       "direction_id": "0",
       "headsign": "8 Maja",
       "service_id": "4",
@@ -11401,7 +11401,7 @@
       ]
     },
     {
-      "trip_id": "4_17603695",
+      "trip_id": "4_17707708",
       "direction_id": "1",
       "headsign": "SWOJCZYCE",
       "service_id": "4",
@@ -11472,7 +11472,7 @@
       ]
     },
     {
-      "trip_id": "4_17603696",
+      "trip_id": "4_17707709",
       "direction_id": "0",
       "headsign": "8 Maja",
       "service_id": "4",
@@ -11543,7 +11543,7 @@
       ]
     },
     {
-      "trip_id": "4_17603697",
+      "trip_id": "4_17707710",
       "direction_id": "1",
       "headsign": "SWOJCZYCE",
       "service_id": "4",
@@ -11614,7 +11614,7 @@
       ]
     },
     {
-      "trip_id": "4_17603698",
+      "trip_id": "4_17707711",
       "direction_id": "0",
       "headsign": "8 Maja",
       "service_id": "4",
@@ -11685,7 +11685,7 @@
       ]
     },
     {
-      "trip_id": "4_17603699",
+      "trip_id": "4_17707712",
       "direction_id": "1",
       "headsign": "SWOJCZYCE",
       "service_id": "4",
@@ -11756,7 +11756,7 @@
       ]
     },
     {
-      "trip_id": "4_17603700",
+      "trip_id": "4_17707713",
       "direction_id": "0",
       "headsign": "8 Maja",
       "service_id": "4",
@@ -11827,7 +11827,7 @@
       ]
     },
     {
-      "trip_id": "4_17603701",
+      "trip_id": "4_17707714",
       "direction_id": "1",
       "headsign": "SWOJCZYCE",
       "service_id": "4",
@@ -11898,7 +11898,7 @@
       ]
     },
     {
-      "trip_id": "4_17603702",
+      "trip_id": "4_17707715",
       "direction_id": "0",
       "headsign": "8 Maja",
       "service_id": "4",
@@ -11969,7 +11969,7 @@
       ]
     },
     {
-      "trip_id": "4_17603703",
+      "trip_id": "4_17707716",
       "direction_id": "1",
       "headsign": "SWOJCZYCE",
       "service_id": "4",
@@ -12040,7 +12040,7 @@
       ]
     },
     {
-      "trip_id": "4_17603704",
+      "trip_id": "4_17707717",
       "direction_id": "0",
       "headsign": "8 Maja",
       "service_id": "4",
@@ -12111,7 +12111,7 @@
       ]
     },
     {
-      "trip_id": "4_17603705",
+      "trip_id": "4_17707718",
       "direction_id": "1",
       "headsign": "SWOJCZYCE",
       "service_id": "4",
@@ -12182,7 +12182,7 @@
       ]
     },
     {
-      "trip_id": "4_17603706",
+      "trip_id": "4_17707719",
       "direction_id": "0",
       "headsign": "8 Maja",
       "service_id": "4",
@@ -12253,7 +12253,7 @@
       ]
     },
     {
-      "trip_id": "4_17603707",
+      "trip_id": "4_17707720",
       "direction_id": "1",
       "headsign": "SWOJCZYCE",
       "service_id": "4",
@@ -12324,7 +12324,7 @@
       ]
     },
     {
-      "trip_id": "4_17603708",
+      "trip_id": "4_17707721",
       "direction_id": "0",
       "headsign": "Zajezdnia TYSKA",
       "service_id": "4",
@@ -12548,7 +12548,7 @@
       ]
     },
     {
-      "trip_id": "4_17603709",
+      "trip_id": "4_17707722",
       "direction_id": "1",
       "headsign": "SWOJCZYCE",
       "service_id": "4",
@@ -12727,7 +12727,7 @@
       ]
     },
     {
-      "trip_id": "4_17603710",
+      "trip_id": "4_17707723",
       "direction_id": "0",
       "headsign": "8 Maja",
       "service_id": "4",
@@ -12798,7 +12798,7 @@
       ]
     },
     {
-      "trip_id": "4_17603711",
+      "trip_id": "4_17707724",
       "direction_id": "1",
       "headsign": "SWOJCZYCE",
       "service_id": "4",
@@ -12869,7 +12869,7 @@
       ]
     },
     {
-      "trip_id": "4_17603712",
+      "trip_id": "4_17707725",
       "direction_id": "0",
       "headsign": "8 Maja",
       "service_id": "4",
@@ -12940,7 +12940,7 @@
       ]
     },
     {
-      "trip_id": "4_17603713",
+      "trip_id": "4_17707726",
       "direction_id": "1",
       "headsign": "SWOJCZYCE",
       "service_id": "4",
@@ -13011,7 +13011,7 @@
       ]
     },
     {
-      "trip_id": "4_17603714",
+      "trip_id": "4_17707727",
       "direction_id": "0",
       "headsign": "8 Maja",
       "service_id": "4",
@@ -13082,7 +13082,7 @@
       ]
     },
     {
-      "trip_id": "4_17603715",
+      "trip_id": "4_17707728",
       "direction_id": "1",
       "headsign": "SWOJCZYCE",
       "service_id": "4",
@@ -13153,7 +13153,7 @@
       ]
     },
     {
-      "trip_id": "4_17603716",
+      "trip_id": "4_17707729",
       "direction_id": "0",
       "headsign": "8 Maja",
       "service_id": "4",
@@ -13224,7 +13224,7 @@
       ]
     },
     {
-      "trip_id": "4_17603717",
+      "trip_id": "4_17707730",
       "direction_id": "1",
       "headsign": "SWOJCZYCE",
       "service_id": "4",
@@ -13295,7 +13295,7 @@
       ]
     },
     {
-      "trip_id": "4_17603718",
+      "trip_id": "4_17707731",
       "direction_id": "0",
       "headsign": "8 Maja",
       "service_id": "4",
@@ -13366,7 +13366,7 @@
       ]
     },
     {
-      "trip_id": "4_17603719",
+      "trip_id": "4_17707732",
       "direction_id": "1",
       "headsign": "SWOJCZYCE",
       "service_id": "4",
@@ -13437,7 +13437,7 @@
       ]
     },
     {
-      "trip_id": "4_17603720",
+      "trip_id": "4_17707733",
       "direction_id": "0",
       "headsign": "8 Maja",
       "service_id": "4",
@@ -13508,7 +13508,7 @@
       ]
     },
     {
-      "trip_id": "4_17603721",
+      "trip_id": "4_17707734",
       "direction_id": "1",
       "headsign": "SWOJCZYCE",
       "service_id": "4",
@@ -13579,7 +13579,7 @@
       ]
     },
     {
-      "trip_id": "4_17603722",
+      "trip_id": "4_17707735",
       "direction_id": "0",
       "headsign": "8 Maja",
       "service_id": "4",
@@ -13650,7 +13650,7 @@
       ]
     },
     {
-      "trip_id": "4_17603723",
+      "trip_id": "4_17707736",
       "direction_id": "1",
       "headsign": "SWOJCZYCE",
       "service_id": "4",
@@ -13721,7 +13721,7 @@
       ]
     },
     {
-      "trip_id": "4_17603724",
+      "trip_id": "4_17707737",
       "direction_id": "0",
       "headsign": "8 Maja",
       "service_id": "4",
@@ -13792,7 +13792,7 @@
       ]
     },
     {
-      "trip_id": "4_17603725",
+      "trip_id": "4_17707738",
       "direction_id": "1",
       "headsign": "SWOJCZYCE",
       "service_id": "4",
@@ -13863,7 +13863,7 @@
       ]
     },
     {
-      "trip_id": "4_17603726",
+      "trip_id": "4_17707739",
       "direction_id": "0",
       "headsign": "8 Maja",
       "service_id": "4",
@@ -13934,7 +13934,7 @@
       ]
     },
     {
-      "trip_id": "4_17603727",
+      "trip_id": "4_17707740",
       "direction_id": "1",
       "headsign": "SWOJCZYCE",
       "service_id": "4",
@@ -14005,7 +14005,7 @@
       ]
     },
     {
-      "trip_id": "4_17603728",
+      "trip_id": "4_17707741",
       "direction_id": "0",
       "headsign": "8 Maja",
       "service_id": "4",
@@ -14076,7 +14076,7 @@
       ]
     },
     {
-      "trip_id": "4_17603729",
+      "trip_id": "4_17707742",
       "direction_id": "1",
       "headsign": "SWOJCZYCE",
       "service_id": "4",
@@ -14147,7 +14147,7 @@
       ]
     },
     {
-      "trip_id": "4_17603730",
+      "trip_id": "4_17707743",
       "direction_id": "0",
       "headsign": "8 Maja",
       "service_id": "4",
@@ -14218,7 +14218,7 @@
       ]
     },
     {
-      "trip_id": "4_17603731",
+      "trip_id": "4_17707744",
       "direction_id": "1",
       "headsign": "SWOJCZYCE",
       "service_id": "4",
@@ -14289,7 +14289,7 @@
       ]
     },
     {
-      "trip_id": "4_17603732",
+      "trip_id": "4_17707745",
       "direction_id": "0",
       "headsign": "8 Maja",
       "service_id": "4",
@@ -14360,7 +14360,7 @@
       ]
     },
     {
-      "trip_id": "4_17603733",
+      "trip_id": "4_17707746",
       "direction_id": "1",
       "headsign": "SWOJCZYCE",
       "service_id": "4",
@@ -14431,7 +14431,7 @@
       ]
     },
     {
-      "trip_id": "4_17603734",
+      "trip_id": "4_17707747",
       "direction_id": "0",
       "headsign": "8 Maja",
       "service_id": "4",
@@ -14502,7 +14502,7 @@
       ]
     },
     {
-      "trip_id": "4_17603735",
+      "trip_id": "4_17707748",
       "direction_id": "1",
       "headsign": "SWOJCZYCE",
       "service_id": "4",
@@ -14573,7 +14573,7 @@
       ]
     },
     {
-      "trip_id": "4_17603736",
+      "trip_id": "4_17707749",
       "direction_id": "0",
       "headsign": "8 Maja",
       "service_id": "4",
@@ -14644,7 +14644,7 @@
       ]
     },
     {
-      "trip_id": "4_17603737",
+      "trip_id": "4_17707750",
       "direction_id": "1",
       "headsign": "SWOJCZYCE",
       "service_id": "4",
@@ -14715,7 +14715,7 @@
       ]
     },
     {
-      "trip_id": "4_17603738",
+      "trip_id": "4_17707751",
       "direction_id": "0",
       "headsign": "8 Maja",
       "service_id": "4",
@@ -14786,7 +14786,7 @@
       ]
     },
     {
-      "trip_id": "4_17603739",
+      "trip_id": "4_17707752",
       "direction_id": "1",
       "headsign": "SWOJCZYCE",
       "service_id": "4",
@@ -14857,7 +14857,7 @@
       ]
     },
     {
-      "trip_id": "4_17603740",
+      "trip_id": "4_17707753",
       "direction_id": "0",
       "headsign": "8 Maja",
       "service_id": "4",
@@ -14928,7 +14928,7 @@
       ]
     },
     {
-      "trip_id": "4_17603741",
+      "trip_id": "4_17707754",
       "direction_id": "1",
       "headsign": "SWOJCZYCE",
       "service_id": "4",
@@ -14999,7 +14999,7 @@
       ]
     },
     {
-      "trip_id": "4_17603742",
+      "trip_id": "4_17707755",
       "direction_id": "0",
       "headsign": "Zajezdnia TYSKA",
       "service_id": "4",
@@ -15223,7 +15223,7 @@
       ]
     },
     {
-      "trip_id": "4_17603743",
+      "trip_id": "4_17707756",
       "direction_id": "1",
       "headsign": "SWOJCZYCE",
       "service_id": "4",
@@ -15402,7 +15402,7 @@
       ]
     },
     {
-      "trip_id": "4_17603744",
+      "trip_id": "4_17707757",
       "direction_id": "0",
       "headsign": "8 Maja",
       "service_id": "4",
@@ -15473,7 +15473,7 @@
       ]
     },
     {
-      "trip_id": "4_17603745",
+      "trip_id": "4_17707758",
       "direction_id": "1",
       "headsign": "SWOJCZYCE",
       "service_id": "4",
@@ -15544,7 +15544,7 @@
       ]
     },
     {
-      "trip_id": "4_17603746",
+      "trip_id": "4_17707759",
       "direction_id": "0",
       "headsign": "8 Maja",
       "service_id": "4",
@@ -15615,7 +15615,7 @@
       ]
     },
     {
-      "trip_id": "4_17603747",
+      "trip_id": "4_17707760",
       "direction_id": "1",
       "headsign": "SWOJCZYCE",
       "service_id": "4",
@@ -15686,7 +15686,7 @@
       ]
     },
     {
-      "trip_id": "4_17603748",
+      "trip_id": "4_17707761",
       "direction_id": "0",
       "headsign": "8 Maja",
       "service_id": "4",
@@ -15757,7 +15757,7 @@
       ]
     },
     {
-      "trip_id": "4_17603749",
+      "trip_id": "4_17707762",
       "direction_id": "1",
       "headsign": "SWOJCZYCE",
       "service_id": "4",
@@ -15828,7 +15828,7 @@
       ]
     },
     {
-      "trip_id": "4_17603750",
+      "trip_id": "4_17707763",
       "direction_id": "0",
       "headsign": "8 Maja",
       "service_id": "4",
@@ -15899,7 +15899,7 @@
       ]
     },
     {
-      "trip_id": "4_17603751",
+      "trip_id": "4_17707764",
       "direction_id": "1",
       "headsign": "SWOJCZYCE",
       "service_id": "4",
@@ -15970,7 +15970,7 @@
       ]
     },
     {
-      "trip_id": "4_17603752",
+      "trip_id": "4_17707765",
       "direction_id": "0",
       "headsign": "8 Maja",
       "service_id": "4",
@@ -16041,7 +16041,7 @@
       ]
     },
     {
-      "trip_id": "4_17603753",
+      "trip_id": "4_17707766",
       "direction_id": "1",
       "headsign": "SWOJCZYCE",
       "service_id": "4",
@@ -16112,7 +16112,7 @@
       ]
     },
     {
-      "trip_id": "4_17603754",
+      "trip_id": "4_17707767",
       "direction_id": "0",
       "headsign": "8 Maja",
       "service_id": "4",
@@ -16183,7 +16183,7 @@
       ]
     },
     {
-      "trip_id": "4_17603755",
+      "trip_id": "4_17707768",
       "direction_id": "1",
       "headsign": "SWOJCZYCE",
       "service_id": "4",
@@ -16254,7 +16254,7 @@
       ]
     },
     {
-      "trip_id": "4_17603756",
+      "trip_id": "4_17707769",
       "direction_id": "0",
       "headsign": "8 Maja",
       "service_id": "4",
@@ -16325,7 +16325,7 @@
       ]
     },
     {
-      "trip_id": "4_17603757",
+      "trip_id": "4_17707770",
       "direction_id": "1",
       "headsign": "SWOJCZYCE",
       "service_id": "4",
@@ -16396,7 +16396,7 @@
       ]
     },
     {
-      "trip_id": "4_17603758",
+      "trip_id": "4_17707771",
       "direction_id": "0",
       "headsign": "8 Maja",
       "service_id": "4",
@@ -16467,7 +16467,7 @@
       ]
     },
     {
-      "trip_id": "4_17603759",
+      "trip_id": "4_17707772",
       "direction_id": "1",
       "headsign": "SWOJCZYCE",
       "service_id": "4",
@@ -16538,7 +16538,7 @@
       ]
     },
     {
-      "trip_id": "4_17603760",
+      "trip_id": "4_17707773",
       "direction_id": "0",
       "headsign": "8 Maja",
       "service_id": "4",
@@ -16609,7 +16609,7 @@
       ]
     },
     {
-      "trip_id": "4_17603761",
+      "trip_id": "4_17707774",
       "direction_id": "1",
       "headsign": "SWOJCZYCE",
       "service_id": "4",
@@ -16680,7 +16680,7 @@
       ]
     },
     {
-      "trip_id": "4_17603762",
+      "trip_id": "4_17707775",
       "direction_id": "0",
       "headsign": "8 Maja",
       "service_id": "4",
@@ -16751,7 +16751,7 @@
       ]
     },
     {
-      "trip_id": "4_17603763",
+      "trip_id": "4_17707776",
       "direction_id": "1",
       "headsign": "SWOJCZYCE",
       "service_id": "4",
@@ -16822,7 +16822,7 @@
       ]
     },
     {
-      "trip_id": "4_17603764",
+      "trip_id": "4_17707777",
       "direction_id": "0",
       "headsign": "8 Maja",
       "service_id": "4",
@@ -16893,7 +16893,7 @@
       ]
     },
     {
-      "trip_id": "4_17603765",
+      "trip_id": "4_17707778",
       "direction_id": "1",
       "headsign": "SWOJCZYCE",
       "service_id": "4",
@@ -16964,7 +16964,7 @@
       ]
     },
     {
-      "trip_id": "4_17603766",
+      "trip_id": "4_17707779",
       "direction_id": "0",
       "headsign": "8 Maja",
       "service_id": "4",
@@ -17035,7 +17035,7 @@
       ]
     },
     {
-      "trip_id": "4_17603767",
+      "trip_id": "4_17707780",
       "direction_id": "1",
       "headsign": "SWOJCZYCE",
       "service_id": "4",
@@ -17106,7 +17106,7 @@
       ]
     },
     {
-      "trip_id": "4_17603768",
+      "trip_id": "4_17707781",
       "direction_id": "0",
       "headsign": "8 Maja",
       "service_id": "4",
@@ -17177,7 +17177,7 @@
       ]
     },
     {
-      "trip_id": "4_17603769",
+      "trip_id": "4_17707782",
       "direction_id": "1",
       "headsign": "SWOJCZYCE",
       "service_id": "4",
@@ -17248,7 +17248,7 @@
       ]
     },
     {
-      "trip_id": "4_17603770",
+      "trip_id": "4_17707783",
       "direction_id": "0",
       "headsign": "8 Maja",
       "service_id": "4",
@@ -17319,7 +17319,7 @@
       ]
     },
     {
-      "trip_id": "4_17603771",
+      "trip_id": "4_17707784",
       "direction_id": "1",
       "headsign": "SWOJCZYCE",
       "service_id": "4",
@@ -17390,7 +17390,7 @@
       ]
     },
     {
-      "trip_id": "4_17603772",
+      "trip_id": "4_17707785",
       "direction_id": "0",
       "headsign": "8 Maja",
       "service_id": "4",
@@ -17461,7 +17461,7 @@
       ]
     },
     {
-      "trip_id": "4_17603773",
+      "trip_id": "4_17707786",
       "direction_id": "1",
       "headsign": "SWOJCZYCE",
       "service_id": "4",
@@ -17532,7 +17532,7 @@
       ]
     },
     {
-      "trip_id": "4_17603774",
+      "trip_id": "4_17707787",
       "direction_id": "0",
       "headsign": "8 Maja",
       "service_id": "4",
@@ -17603,7 +17603,7 @@
       ]
     },
     {
-      "trip_id": "4_17603775",
+      "trip_id": "4_17707788",
       "direction_id": "1",
       "headsign": "SWOJCZYCE",
       "service_id": "4",
@@ -17674,7 +17674,7 @@
       ]
     },
     {
-      "trip_id": "4_17603776",
+      "trip_id": "4_17707789",
       "direction_id": "0",
       "headsign": "8 Maja",
       "service_id": "4",
@@ -17745,7 +17745,7 @@
       ]
     },
     {
-      "trip_id": "4_17603777",
+      "trip_id": "4_17707790",
       "direction_id": "1",
       "headsign": "SWOJCZYCE",
       "service_id": "4",
@@ -17816,7 +17816,7 @@
       ]
     },
     {
-      "trip_id": "4_17603778",
+      "trip_id": "4_17707791",
       "direction_id": "0",
       "headsign": "Zajezdnia TYSKA",
       "service_id": "4",
@@ -18040,7 +18040,7 @@
       ]
     },
     {
-      "trip_id": "6_17610226",
+      "trip_id": "6_17714239",
       "direction_id": "1",
       "headsign": "SWOJCZYCE",
       "service_id": "6",
@@ -18219,7 +18219,7 @@
       ]
     },
     {
-      "trip_id": "6_17610227",
+      "trip_id": "6_17714240",
       "direction_id": "0",
       "headsign": "8 Maja",
       "service_id": "6",
@@ -18290,7 +18290,7 @@
       ]
     },
     {
-      "trip_id": "6_17610228",
+      "trip_id": "6_17714241",
       "direction_id": "1",
       "headsign": "SWOJCZYCE",
       "service_id": "6",
@@ -18361,7 +18361,7 @@
       ]
     },
     {
-      "trip_id": "6_17610229",
+      "trip_id": "6_17714242",
       "direction_id": "0",
       "headsign": "Stadion Olimpijski",
       "service_id": "6",
@@ -18468,7 +18468,7 @@
       ]
     },
     {
-      "trip_id": "6_17610230",
+      "trip_id": "6_17714243",
       "direction_id": "1",
       "headsign": "SWOJCZYCE",
       "service_id": "6",
@@ -18548,7 +18548,7 @@
       ]
     },
     {
-      "trip_id": "6_17610231",
+      "trip_id": "6_17714244",
       "direction_id": "0",
       "headsign": "Stadion Olimpijski",
       "service_id": "6",
@@ -18655,7 +18655,7 @@
       ]
     },
     {
-      "trip_id": "6_17610232",
+      "trip_id": "6_17714245",
       "direction_id": "1",
       "headsign": "SWOJCZYCE",
       "service_id": "6",
@@ -18735,7 +18735,7 @@
       ]
     },
     {
-      "trip_id": "6_17610233",
+      "trip_id": "6_17714246",
       "direction_id": "0",
       "headsign": "Stadion Olimpijski",
       "service_id": "6",
@@ -18842,7 +18842,7 @@
       ]
     },
     {
-      "trip_id": "6_17610234",
+      "trip_id": "6_17714247",
       "direction_id": "1",
       "headsign": "SWOJCZYCE",
       "service_id": "6",
@@ -18922,7 +18922,7 @@
       ]
     },
     {
-      "trip_id": "6_17610235",
+      "trip_id": "6_17714248",
       "direction_id": "0",
       "headsign": "Stadion Olimpijski",
       "service_id": "6",
@@ -19029,7 +19029,7 @@
       ]
     },
     {
-      "trip_id": "6_17610236",
+      "trip_id": "6_17714249",
       "direction_id": "1",
       "headsign": "SWOJCZYCE",
       "service_id": "6",
@@ -19109,7 +19109,7 @@
       ]
     },
     {
-      "trip_id": "6_17610237",
+      "trip_id": "6_17714250",
       "direction_id": "0",
       "headsign": "8 Maja",
       "service_id": "6",
@@ -19180,7 +19180,7 @@
       ]
     },
     {
-      "trip_id": "6_17610238",
+      "trip_id": "6_17714251",
       "direction_id": "1",
       "headsign": "SWOJCZYCE",
       "service_id": "6",
@@ -19251,7 +19251,7 @@
       ]
     },
     {
-      "trip_id": "6_17610239",
+      "trip_id": "6_17714252",
       "direction_id": "0",
       "headsign": "8 Maja",
       "service_id": "6",
@@ -19322,7 +19322,7 @@
       ]
     },
     {
-      "trip_id": "6_17610240",
+      "trip_id": "6_17714253",
       "direction_id": "1",
       "headsign": "SWOJCZYCE",
       "service_id": "6",
@@ -19393,7 +19393,7 @@
       ]
     },
     {
-      "trip_id": "6_17610241",
+      "trip_id": "6_17714254",
       "direction_id": "0",
       "headsign": "8 Maja",
       "service_id": "6",
@@ -19464,7 +19464,7 @@
       ]
     },
     {
-      "trip_id": "6_17610242",
+      "trip_id": "6_17714255",
       "direction_id": "1",
       "headsign": "SWOJCZYCE",
       "service_id": "6",
@@ -19535,7 +19535,7 @@
       ]
     },
     {
-      "trip_id": "6_17610243",
+      "trip_id": "6_17714256",
       "direction_id": "0",
       "headsign": "8 Maja",
       "service_id": "6",
@@ -19606,7 +19606,7 @@
       ]
     },
     {
-      "trip_id": "6_17610244",
+      "trip_id": "6_17714257",
       "direction_id": "1",
       "headsign": "SWOJCZYCE",
       "service_id": "6",
@@ -19677,7 +19677,7 @@
       ]
     },
     {
-      "trip_id": "6_17610245",
+      "trip_id": "6_17714258",
       "direction_id": "0",
       "headsign": "8 Maja",
       "service_id": "6",
@@ -19748,7 +19748,7 @@
       ]
     },
     {
-      "trip_id": "6_17610246",
+      "trip_id": "6_17714259",
       "direction_id": "1",
       "headsign": "SWOJCZYCE",
       "service_id": "6",
@@ -19819,7 +19819,7 @@
       ]
     },
     {
-      "trip_id": "6_17610247",
+      "trip_id": "6_17714260",
       "direction_id": "0",
       "headsign": "Stadion Olimpijski",
       "service_id": "6",
@@ -19899,7 +19899,7 @@
       ]
     },
     {
-      "trip_id": "6_17610248",
+      "trip_id": "6_17714261",
       "direction_id": "1",
       "headsign": "SWOJCZYCE",
       "service_id": "6",
@@ -19997,7 +19997,7 @@
       ]
     },
     {
-      "trip_id": "6_17610249",
+      "trip_id": "6_17714262",
       "direction_id": "0",
       "headsign": "Stadion Olimpijski",
       "service_id": "6",
@@ -20077,7 +20077,7 @@
       ]
     },
     {
-      "trip_id": "6_17610250",
+      "trip_id": "6_17714263",
       "direction_id": "1",
       "headsign": "SWOJCZYCE",
       "service_id": "6",
@@ -20175,7 +20175,7 @@
       ]
     },
     {
-      "trip_id": "6_17610251",
+      "trip_id": "6_17714264",
       "direction_id": "0",
       "headsign": "Stadion Olimpijski",
       "service_id": "6",
@@ -20255,7 +20255,7 @@
       ]
     },
     {
-      "trip_id": "6_17610252",
+      "trip_id": "6_17714265",
       "direction_id": "1",
       "headsign": "SWOJCZYCE",
       "service_id": "6",
@@ -20353,7 +20353,7 @@
       ]
     },
     {
-      "trip_id": "6_17610253",
+      "trip_id": "6_17714266",
       "direction_id": "0",
       "headsign": "Stadion Olimpijski",
       "service_id": "6",
@@ -20433,7 +20433,7 @@
       ]
     },
     {
-      "trip_id": "6_17610254",
+      "trip_id": "6_17714267",
       "direction_id": "1",
       "headsign": "SWOJCZYCE",
       "service_id": "6",
@@ -20531,7 +20531,7 @@
       ]
     },
     {
-      "trip_id": "6_17610255",
+      "trip_id": "6_17714268",
       "direction_id": "0",
       "headsign": "8 Maja",
       "service_id": "6",
@@ -20602,7 +20602,7 @@
       ]
     },
     {
-      "trip_id": "6_17610256",
+      "trip_id": "6_17714269",
       "direction_id": "1",
       "headsign": "SWOJCZYCE",
       "service_id": "6",
@@ -20673,7 +20673,7 @@
       ]
     },
     {
-      "trip_id": "6_17610257",
+      "trip_id": "6_17714270",
       "direction_id": "0",
       "headsign": "8 Maja",
       "service_id": "6",
@@ -20744,7 +20744,7 @@
       ]
     },
     {
-      "trip_id": "6_17610258",
+      "trip_id": "6_17714271",
       "direction_id": "1",
       "headsign": "SWOJCZYCE",
       "service_id": "6",
@@ -20815,7 +20815,7 @@
       ]
     },
     {
-      "trip_id": "6_17610259",
+      "trip_id": "6_17714272",
       "direction_id": "0",
       "headsign": "8 Maja",
       "service_id": "6",
@@ -20886,7 +20886,7 @@
       ]
     },
     {
-      "trip_id": "6_17610260",
+      "trip_id": "6_17714273",
       "direction_id": "1",
       "headsign": "SWOJCZYCE",
       "service_id": "6",
@@ -20957,7 +20957,7 @@
       ]
     },
     {
-      "trip_id": "6_17610261",
+      "trip_id": "6_17714274",
       "direction_id": "0",
       "headsign": "8 Maja",
       "service_id": "6",
@@ -21028,7 +21028,7 @@
       ]
     },
     {
-      "trip_id": "6_17610262",
+      "trip_id": "6_17714275",
       "direction_id": "1",
       "headsign": "SWOJCZYCE",
       "service_id": "6",
@@ -21099,7 +21099,7 @@
       ]
     },
     {
-      "trip_id": "6_17610263",
+      "trip_id": "6_17714276",
       "direction_id": "0",
       "headsign": "Zajezdnia TYSKA",
       "service_id": "6",
@@ -21323,7 +21323,7 @@
       ]
     },
     {
-      "trip_id": "6_17610264",
+      "trip_id": "6_17714277",
       "direction_id": "1",
       "headsign": "SWOJCZYCE",
       "service_id": "6",
@@ -21502,7 +21502,7 @@
       ]
     },
     {
-      "trip_id": "6_17610265",
+      "trip_id": "6_17714278",
       "direction_id": "0",
       "headsign": "8 Maja",
       "service_id": "6",
@@ -21573,7 +21573,7 @@
       ]
     },
     {
-      "trip_id": "6_17610266",
+      "trip_id": "6_17714279",
       "direction_id": "1",
       "headsign": "SWOJCZYCE",
       "service_id": "6",
@@ -21644,7 +21644,7 @@
       ]
     },
     {
-      "trip_id": "6_17610267",
+      "trip_id": "6_17714280",
       "direction_id": "0",
       "headsign": "8 Maja",
       "service_id": "6",
@@ -21715,7 +21715,7 @@
       ]
     },
     {
-      "trip_id": "6_17610268",
+      "trip_id": "6_17714281",
       "direction_id": "1",
       "headsign": "SWOJCZYCE",
       "service_id": "6",
@@ -21786,7 +21786,7 @@
       ]
     },
     {
-      "trip_id": "6_17610269",
+      "trip_id": "6_17714282",
       "direction_id": "0",
       "headsign": "Stadion Olimpijski",
       "service_id": "6",
@@ -21893,7 +21893,7 @@
       ]
     },
     {
-      "trip_id": "6_17610270",
+      "trip_id": "6_17714283",
       "direction_id": "1",
       "headsign": "SWOJCZYCE",
       "service_id": "6",
@@ -21973,7 +21973,7 @@
       ]
     },
     {
-      "trip_id": "6_17610271",
+      "trip_id": "6_17714284",
       "direction_id": "0",
       "headsign": "Stadion Olimpijski",
       "service_id": "6",
@@ -22080,7 +22080,7 @@
       ]
     },
     {
-      "trip_id": "6_17610272",
+      "trip_id": "6_17714285",
       "direction_id": "1",
       "headsign": "SWOJCZYCE",
       "service_id": "6",
@@ -22160,7 +22160,7 @@
       ]
     },
     {
-      "trip_id": "6_17610273",
+      "trip_id": "6_17714286",
       "direction_id": "0",
       "headsign": "Stadion Olimpijski",
       "service_id": "6",
@@ -22267,7 +22267,7 @@
       ]
     },
     {
-      "trip_id": "6_17610274",
+      "trip_id": "6_17714287",
       "direction_id": "1",
       "headsign": "SWOJCZYCE",
       "service_id": "6",
@@ -22347,7 +22347,7 @@
       ]
     },
     {
-      "trip_id": "6_17610275",
+      "trip_id": "6_17714288",
       "direction_id": "0",
       "headsign": "Stadion Olimpijski",
       "service_id": "6",
@@ -22454,7 +22454,7 @@
       ]
     },
     {
-      "trip_id": "6_17610276",
+      "trip_id": "6_17714289",
       "direction_id": "1",
       "headsign": "SWOJCZYCE",
       "service_id": "6",
@@ -22534,7 +22534,7 @@
       ]
     },
     {
-      "trip_id": "6_17610277",
+      "trip_id": "6_17714290",
       "direction_id": "0",
       "headsign": "8 Maja",
       "service_id": "6",
@@ -22605,7 +22605,7 @@
       ]
     },
     {
-      "trip_id": "6_17610278",
+      "trip_id": "6_17714291",
       "direction_id": "1",
       "headsign": "SWOJCZYCE",
       "service_id": "6",
@@ -22676,7 +22676,7 @@
       ]
     },
     {
-      "trip_id": "6_17610279",
+      "trip_id": "6_17714292",
       "direction_id": "0",
       "headsign": "8 Maja",
       "service_id": "6",
@@ -22747,7 +22747,7 @@
       ]
     },
     {
-      "trip_id": "6_17610280",
+      "trip_id": "6_17714293",
       "direction_id": "1",
       "headsign": "SWOJCZYCE",
       "service_id": "6",
@@ -22818,7 +22818,7 @@
       ]
     },
     {
-      "trip_id": "6_17610281",
+      "trip_id": "6_17714294",
       "direction_id": "0",
       "headsign": "8 Maja",
       "service_id": "6",
@@ -22889,7 +22889,7 @@
       ]
     },
     {
-      "trip_id": "6_17610282",
+      "trip_id": "6_17714295",
       "direction_id": "1",
       "headsign": "SWOJCZYCE",
       "service_id": "6",
@@ -22960,7 +22960,7 @@
       ]
     },
     {
-      "trip_id": "6_17610283",
+      "trip_id": "6_17714296",
       "direction_id": "0",
       "headsign": "8 Maja",
       "service_id": "6",
@@ -23031,7 +23031,7 @@
       ]
     },
     {
-      "trip_id": "6_17610284",
+      "trip_id": "6_17714297",
       "direction_id": "1",
       "headsign": "SWOJCZYCE",
       "service_id": "6",
@@ -23102,7 +23102,7 @@
       ]
     },
     {
-      "trip_id": "6_17610285",
+      "trip_id": "6_17714298",
       "direction_id": "0",
       "headsign": "8 Maja",
       "service_id": "6",
@@ -23173,7 +23173,7 @@
       ]
     },
     {
-      "trip_id": "6_17610286",
+      "trip_id": "6_17714299",
       "direction_id": "1",
       "headsign": "SWOJCZYCE",
       "service_id": "6",
@@ -23244,7 +23244,7 @@
       ]
     },
     {
-      "trip_id": "6_17610287",
+      "trip_id": "6_17714300",
       "direction_id": "0",
       "headsign": "Stadion Olimpijski",
       "service_id": "6",
@@ -23324,7 +23324,7 @@
       ]
     },
     {
-      "trip_id": "6_17610288",
+      "trip_id": "6_17714301",
       "direction_id": "1",
       "headsign": "SWOJCZYCE",
       "service_id": "6",
@@ -23422,7 +23422,7 @@
       ]
     },
     {
-      "trip_id": "6_17610289",
+      "trip_id": "6_17714302",
       "direction_id": "0",
       "headsign": "Stadion Olimpijski",
       "service_id": "6",
@@ -23502,7 +23502,7 @@
       ]
     },
     {
-      "trip_id": "6_17610290",
+      "trip_id": "6_17714303",
       "direction_id": "1",
       "headsign": "SWOJCZYCE",
       "service_id": "6",
@@ -23600,7 +23600,7 @@
       ]
     },
     {
-      "trip_id": "6_17610291",
+      "trip_id": "6_17714304",
       "direction_id": "0",
       "headsign": "Stadion Olimpijski",
       "service_id": "6",
@@ -23680,7 +23680,7 @@
       ]
     },
     {
-      "trip_id": "6_17610292",
+      "trip_id": "6_17714305",
       "direction_id": "1",
       "headsign": "SWOJCZYCE",
       "service_id": "6",
@@ -23778,7 +23778,7 @@
       ]
     },
     {
-      "trip_id": "6_17610293",
+      "trip_id": "6_17714306",
       "direction_id": "0",
       "headsign": "8 Maja",
       "service_id": "6",
@@ -23849,7 +23849,7 @@
       ]
     },
     {
-      "trip_id": "6_17610294",
+      "trip_id": "6_17714307",
       "direction_id": "1",
       "headsign": "SWOJCZYCE",
       "service_id": "6",
@@ -23920,7 +23920,7 @@
       ]
     },
     {
-      "trip_id": "6_17610295",
+      "trip_id": "6_17714308",
       "direction_id": "0",
       "headsign": "8 Maja",
       "service_id": "6",
@@ -23991,7 +23991,7 @@
       ]
     },
     {
-      "trip_id": "6_17610296",
+      "trip_id": "6_17714309",
       "direction_id": "1",
       "headsign": "SWOJCZYCE",
       "service_id": "6",
@@ -24062,7 +24062,7 @@
       ]
     },
     {
-      "trip_id": "6_17610297",
+      "trip_id": "6_17714310",
       "direction_id": "0",
       "headsign": "8 Maja",
       "service_id": "6",
@@ -24133,7 +24133,7 @@
       ]
     },
     {
-      "trip_id": "6_17610298",
+      "trip_id": "6_17714311",
       "direction_id": "1",
       "headsign": "SWOJCZYCE",
       "service_id": "6",
@@ -24204,7 +24204,7 @@
       ]
     },
     {
-      "trip_id": "6_17610299",
+      "trip_id": "6_17714312",
       "direction_id": "0",
       "headsign": "8 Maja",
       "service_id": "6",
@@ -24275,7 +24275,7 @@
       ]
     },
     {
-      "trip_id": "6_17610300",
+      "trip_id": "6_17714313",
       "direction_id": "1",
       "headsign": "SWOJCZYCE",
       "service_id": "6",
@@ -24346,7 +24346,7 @@
       ]
     },
     {
-      "trip_id": "6_17610301",
+      "trip_id": "6_17714314",
       "direction_id": "0",
       "headsign": "8 Maja",
       "service_id": "6",
@@ -24417,7 +24417,7 @@
       ]
     },
     {
-      "trip_id": "6_17610302",
+      "trip_id": "6_17714315",
       "direction_id": "1",
       "headsign": "SWOJCZYCE",
       "service_id": "6",
@@ -24488,7 +24488,7 @@
       ]
     },
     {
-      "trip_id": "6_17610303",
+      "trip_id": "6_17714316",
       "direction_id": "0",
       "headsign": "8 Maja",
       "service_id": "6",
@@ -24559,7 +24559,7 @@
       ]
     },
     {
-      "trip_id": "6_17610304",
+      "trip_id": "6_17714317",
       "direction_id": "1",
       "headsign": "SWOJCZYCE",
       "service_id": "6",
@@ -24630,7 +24630,7 @@
       ]
     },
     {
-      "trip_id": "6_17610305",
+      "trip_id": "6_17714318",
       "direction_id": "0",
       "headsign": "8 Maja",
       "service_id": "6",
@@ -24701,7 +24701,7 @@
       ]
     },
     {
-      "trip_id": "6_17610306",
+      "trip_id": "6_17714319",
       "direction_id": "1",
       "headsign": "SWOJCZYCE",
       "service_id": "6",
@@ -24772,7 +24772,7 @@
       ]
     },
     {
-      "trip_id": "6_17610307",
+      "trip_id": "6_17714320",
       "direction_id": "0",
       "headsign": "8 Maja",
       "service_id": "6",
@@ -24843,7 +24843,7 @@
       ]
     },
     {
-      "trip_id": "6_17610308",
+      "trip_id": "6_17714321",
       "direction_id": "1",
       "headsign": "SWOJCZYCE",
       "service_id": "6",
@@ -24914,7 +24914,7 @@
       ]
     },
     {
-      "trip_id": "6_17610309",
+      "trip_id": "6_17714322",
       "direction_id": "0",
       "headsign": "8 Maja",
       "service_id": "6",
@@ -24985,7 +24985,7 @@
       ]
     },
     {
-      "trip_id": "6_17610310",
+      "trip_id": "6_17714323",
       "direction_id": "1",
       "headsign": "SWOJCZYCE",
       "service_id": "6",
@@ -25056,7 +25056,7 @@
       ]
     },
     {
-      "trip_id": "6_17610311",
+      "trip_id": "6_17714324",
       "direction_id": "0",
       "headsign": "8 Maja",
       "service_id": "6",
@@ -25127,7 +25127,7 @@
       ]
     },
     {
-      "trip_id": "6_17610312",
+      "trip_id": "6_17714325",
       "direction_id": "1",
       "headsign": "SWOJCZYCE",
       "service_id": "6",
@@ -25198,7 +25198,7 @@
       ]
     },
     {
-      "trip_id": "6_17610313",
+      "trip_id": "6_17714326",
       "direction_id": "0",
       "headsign": "Zajezdnia TYSKA",
       "service_id": "6",
@@ -25422,7 +25422,7 @@
       ]
     },
     {
-      "trip_id": "6_17610314",
+      "trip_id": "6_17714327",
       "direction_id": "1",
       "headsign": "SWOJCZYCE",
       "service_id": "6",
@@ -25601,7 +25601,7 @@
       ]
     },
     {
-      "trip_id": "6_17610315",
+      "trip_id": "6_17714328",
       "direction_id": "0",
       "headsign": "8 Maja",
       "service_id": "6",
@@ -25672,7 +25672,7 @@
       ]
     },
     {
-      "trip_id": "6_17610316",
+      "trip_id": "6_17714329",
       "direction_id": "1",
       "headsign": "SWOJCZYCE",
       "service_id": "6",
@@ -25743,7 +25743,7 @@
       ]
     },
     {
-      "trip_id": "6_17610317",
+      "trip_id": "6_17714330",
       "direction_id": "0",
       "headsign": "8 Maja",
       "service_id": "6",
@@ -25814,7 +25814,7 @@
       ]
     },
     {
-      "trip_id": "6_17610318",
+      "trip_id": "6_17714331",
       "direction_id": "1",
       "headsign": "SWOJCZYCE",
       "service_id": "6",
@@ -25885,7 +25885,7 @@
       ]
     },
     {
-      "trip_id": "6_17610319",
+      "trip_id": "6_17714332",
       "direction_id": "0",
       "headsign": "Stadion Olimpijski",
       "service_id": "6",
@@ -25992,7 +25992,7 @@
       ]
     },
     {
-      "trip_id": "6_17610320",
+      "trip_id": "6_17714333",
       "direction_id": "1",
       "headsign": "SWOJCZYCE",
       "service_id": "6",
@@ -26072,7 +26072,7 @@
       ]
     },
     {
-      "trip_id": "6_17610321",
+      "trip_id": "6_17714334",
       "direction_id": "0",
       "headsign": "Stadion Olimpijski",
       "service_id": "6",
@@ -26179,7 +26179,7 @@
       ]
     },
     {
-      "trip_id": "6_17610322",
+      "trip_id": "6_17714335",
       "direction_id": "1",
       "headsign": "SWOJCZYCE",
       "service_id": "6",
@@ -26259,7 +26259,7 @@
       ]
     },
     {
-      "trip_id": "6_17610323",
+      "trip_id": "6_17714336",
       "direction_id": "0",
       "headsign": "Stadion Olimpijski",
       "service_id": "6",
@@ -26366,7 +26366,7 @@
       ]
     },
     {
-      "trip_id": "6_17610324",
+      "trip_id": "6_17714337",
       "direction_id": "1",
       "headsign": "SWOJCZYCE",
       "service_id": "6",
@@ -26446,7 +26446,7 @@
       ]
     },
     {
-      "trip_id": "6_17610325",
+      "trip_id": "6_17714338",
       "direction_id": "0",
       "headsign": "8 Maja",
       "service_id": "6",
@@ -26517,7 +26517,7 @@
       ]
     },
     {
-      "trip_id": "6_17610326",
+      "trip_id": "6_17714339",
       "direction_id": "1",
       "headsign": "SWOJCZYCE",
       "service_id": "6",
@@ -26588,7 +26588,7 @@
       ]
     },
     {
-      "trip_id": "6_17610327",
+      "trip_id": "6_17714340",
       "direction_id": "0",
       "headsign": "8 Maja",
       "service_id": "6",
@@ -26659,7 +26659,7 @@
       ]
     },
     {
-      "trip_id": "6_17610328",
+      "trip_id": "6_17714341",
       "direction_id": "1",
       "headsign": "SWOJCZYCE",
       "service_id": "6",
@@ -26730,7 +26730,7 @@
       ]
     },
     {
-      "trip_id": "6_17610329",
+      "trip_id": "6_17714342",
       "direction_id": "0",
       "headsign": "8 Maja",
       "service_id": "6",
@@ -26801,7 +26801,7 @@
       ]
     },
     {
-      "trip_id": "6_17610330",
+      "trip_id": "6_17714343",
       "direction_id": "1",
       "headsign": "SWOJCZYCE",
       "service_id": "6",
@@ -26872,7 +26872,7 @@
       ]
     },
     {
-      "trip_id": "6_17610331",
+      "trip_id": "6_17714344",
       "direction_id": "0",
       "headsign": "8 Maja",
       "service_id": "6",
@@ -26943,7 +26943,7 @@
       ]
     },
     {
-      "trip_id": "6_17610332",
+      "trip_id": "6_17714345",
       "direction_id": "1",
       "headsign": "SWOJCZYCE",
       "service_id": "6",
@@ -27014,7 +27014,7 @@
       ]
     },
     {
-      "trip_id": "6_17610333",
+      "trip_id": "6_17714346",
       "direction_id": "0",
       "headsign": "8 Maja",
       "service_id": "6",
@@ -27085,7 +27085,7 @@
       ]
     },
     {
-      "trip_id": "6_17610334",
+      "trip_id": "6_17714347",
       "direction_id": "1",
       "headsign": "SWOJCZYCE",
       "service_id": "6",
@@ -27156,7 +27156,7 @@
       ]
     },
     {
-      "trip_id": "6_17610335",
+      "trip_id": "6_17714348",
       "direction_id": "0",
       "headsign": "8 Maja",
       "service_id": "6",
@@ -27227,7 +27227,7 @@
       ]
     },
     {
-      "trip_id": "6_17610336",
+      "trip_id": "6_17714349",
       "direction_id": "1",
       "headsign": "SWOJCZYCE",
       "service_id": "6",
@@ -27298,7 +27298,7 @@
       ]
     },
     {
-      "trip_id": "6_17610337",
+      "trip_id": "6_17714350",
       "direction_id": "0",
       "headsign": "Stadion Olimpijski",
       "service_id": "6",
@@ -27378,7 +27378,7 @@
       ]
     },
     {
-      "trip_id": "6_17610338",
+      "trip_id": "6_17714351",
       "direction_id": "1",
       "headsign": "SWOJCZYCE",
       "service_id": "6",
@@ -27476,7 +27476,7 @@
       ]
     },
     {
-      "trip_id": "6_17610339",
+      "trip_id": "6_17714352",
       "direction_id": "0",
       "headsign": "Stadion Olimpijski",
       "service_id": "6",
@@ -27556,7 +27556,7 @@
       ]
     },
     {
-      "trip_id": "6_17610340",
+      "trip_id": "6_17714353",
       "direction_id": "1",
       "headsign": "SWOJCZYCE",
       "service_id": "6",
@@ -27654,7 +27654,7 @@
       ]
     },
     {
-      "trip_id": "6_17610341",
+      "trip_id": "6_17714354",
       "direction_id": "0",
       "headsign": "Stadion Olimpijski",
       "service_id": "6",
@@ -27734,7 +27734,7 @@
       ]
     },
     {
-      "trip_id": "6_17610342",
+      "trip_id": "6_17714355",
       "direction_id": "1",
       "headsign": "SWOJCZYCE",
       "service_id": "6",
@@ -27832,7 +27832,7 @@
       ]
     },
     {
-      "trip_id": "6_17610343",
+      "trip_id": "6_17714356",
       "direction_id": "0",
       "headsign": "8 Maja",
       "service_id": "6",
@@ -27903,7 +27903,7 @@
       ]
     },
     {
-      "trip_id": "6_17610344",
+      "trip_id": "6_17714357",
       "direction_id": "1",
       "headsign": "SWOJCZYCE",
       "service_id": "6",
@@ -27974,7 +27974,7 @@
       ]
     },
     {
-      "trip_id": "6_17610345",
+      "trip_id": "6_17714358",
       "direction_id": "0",
       "headsign": "8 Maja",
       "service_id": "6",
@@ -28045,7 +28045,7 @@
       ]
     },
     {
-      "trip_id": "6_17610346",
+      "trip_id": "6_17714359",
       "direction_id": "1",
       "headsign": "SWOJCZYCE",
       "service_id": "6",
@@ -28116,7 +28116,7 @@
       ]
     },
     {
-      "trip_id": "6_17610347",
+      "trip_id": "6_17714360",
       "direction_id": "0",
       "headsign": "8 Maja",
       "service_id": "6",
@@ -28187,7 +28187,7 @@
       ]
     },
     {
-      "trip_id": "6_17610348",
+      "trip_id": "6_17714361",
       "direction_id": "1",
       "headsign": "SWOJCZYCE",
       "service_id": "6",
@@ -28258,7 +28258,7 @@
       ]
     },
     {
-      "trip_id": "6_17610349",
+      "trip_id": "6_17714362",
       "direction_id": "0",
       "headsign": "8 Maja",
       "service_id": "6",
@@ -28329,7 +28329,7 @@
       ]
     },
     {
-      "trip_id": "6_17610350",
+      "trip_id": "6_17714363",
       "direction_id": "1",
       "headsign": "SWOJCZYCE",
       "service_id": "6",
@@ -28400,7 +28400,7 @@
       ]
     },
     {
-      "trip_id": "6_17610351",
+      "trip_id": "6_17714364",
       "direction_id": "0",
       "headsign": "Zajezdnia TYSKA",
       "service_id": "6",
@@ -28624,7 +28624,7 @@
       ]
     },
     {
-      "trip_id": "6_17610352",
+      "trip_id": "6_17714365",
       "direction_id": "1",
       "headsign": "SWOJCZYCE",
       "service_id": "6",
@@ -28803,7 +28803,7 @@
       ]
     },
     {
-      "trip_id": "6_17610353",
+      "trip_id": "6_17714366",
       "direction_id": "0",
       "headsign": "Stadion Olimpijski",
       "service_id": "6",
@@ -28910,7 +28910,7 @@
       ]
     },
     {
-      "trip_id": "6_17610354",
+      "trip_id": "6_17714367",
       "direction_id": "1",
       "headsign": "SWOJCZYCE",
       "service_id": "6",
@@ -28990,7 +28990,7 @@
       ]
     },
     {
-      "trip_id": "6_17610355",
+      "trip_id": "6_17714368",
       "direction_id": "0",
       "headsign": "Stadion Olimpijski",
       "service_id": "6",
@@ -29097,7 +29097,7 @@
       ]
     },
     {
-      "trip_id": "6_17610356",
+      "trip_id": "6_17714369",
       "direction_id": "1",
       "headsign": "SWOJCZYCE",
       "service_id": "6",
@@ -29177,7 +29177,7 @@
       ]
     },
     {
-      "trip_id": "6_17610357",
+      "trip_id": "6_17714370",
       "direction_id": "0",
       "headsign": "Stadion Olimpijski",
       "service_id": "6",
@@ -29284,7 +29284,7 @@
       ]
     },
     {
-      "trip_id": "6_17610358",
+      "trip_id": "6_17714371",
       "direction_id": "1",
       "headsign": "SWOJCZYCE",
       "service_id": "6",
@@ -29364,7 +29364,7 @@
       ]
     },
     {
-      "trip_id": "6_17610359",
+      "trip_id": "6_17714372",
       "direction_id": "0",
       "headsign": "Stadion Olimpijski",
       "service_id": "6",
@@ -29471,7 +29471,7 @@
       ]
     },
     {
-      "trip_id": "6_17610360",
+      "trip_id": "6_17714373",
       "direction_id": "1",
       "headsign": "SWOJCZYCE",
       "service_id": "6",
@@ -29551,7 +29551,7 @@
       ]
     },
     {
-      "trip_id": "6_17610361",
+      "trip_id": "6_17714374",
       "direction_id": "0",
       "headsign": "8 Maja",
       "service_id": "6",
@@ -29622,7 +29622,7 @@
       ]
     },
     {
-      "trip_id": "6_17610362",
+      "trip_id": "6_17714375",
       "direction_id": "1",
       "headsign": "SWOJCZYCE",
       "service_id": "6",
@@ -29693,7 +29693,7 @@
       ]
     },
     {
-      "trip_id": "6_17610363",
+      "trip_id": "6_17714376",
       "direction_id": "0",
       "headsign": "8 Maja",
       "service_id": "6",
@@ -29764,7 +29764,7 @@
       ]
     },
     {
-      "trip_id": "6_17610364",
+      "trip_id": "6_17714377",
       "direction_id": "1",
       "headsign": "SWOJCZYCE",
       "service_id": "6",
@@ -29835,7 +29835,7 @@
       ]
     },
     {
-      "trip_id": "6_17610365",
+      "trip_id": "6_17714378",
       "direction_id": "0",
       "headsign": "8 Maja",
       "service_id": "6",
@@ -29906,7 +29906,7 @@
       ]
     },
     {
-      "trip_id": "6_17610366",
+      "trip_id": "6_17714379",
       "direction_id": "1",
       "headsign": "SWOJCZYCE",
       "service_id": "6",
@@ -29977,7 +29977,7 @@
       ]
     },
     {
-      "trip_id": "6_17610367",
+      "trip_id": "6_17714380",
       "direction_id": "0",
       "headsign": "8 Maja",
       "service_id": "6",
@@ -30048,7 +30048,7 @@
       ]
     },
     {
-      "trip_id": "6_17610368",
+      "trip_id": "6_17714381",
       "direction_id": "1",
       "headsign": "SWOJCZYCE",
       "service_id": "6",
@@ -30119,7 +30119,7 @@
       ]
     },
     {
-      "trip_id": "6_17610369",
+      "trip_id": "6_17714382",
       "direction_id": "0",
       "headsign": "8 Maja",
       "service_id": "6",
@@ -30190,7 +30190,7 @@
       ]
     },
     {
-      "trip_id": "6_17610370",
+      "trip_id": "6_17714383",
       "direction_id": "1",
       "headsign": "SWOJCZYCE",
       "service_id": "6",
@@ -30261,7 +30261,7 @@
       ]
     },
     {
-      "trip_id": "6_17610371",
+      "trip_id": "6_17714384",
       "direction_id": "0",
       "headsign": "Stadion Olimpijski",
       "service_id": "6",
@@ -30341,7 +30341,7 @@
       ]
     },
     {
-      "trip_id": "6_17610372",
+      "trip_id": "6_17714385",
       "direction_id": "1",
       "headsign": "SWOJCZYCE",
       "service_id": "6",
@@ -30439,7 +30439,7 @@
       ]
     },
     {
-      "trip_id": "6_17610373",
+      "trip_id": "6_17714386",
       "direction_id": "0",
       "headsign": "Stadion Olimpijski",
       "service_id": "6",
@@ -30519,7 +30519,7 @@
       ]
     },
     {
-      "trip_id": "6_17610374",
+      "trip_id": "6_17714387",
       "direction_id": "1",
       "headsign": "SWOJCZYCE",
       "service_id": "6",
@@ -30617,7 +30617,7 @@
       ]
     },
     {
-      "trip_id": "6_17610375",
+      "trip_id": "6_17714388",
       "direction_id": "0",
       "headsign": "Stadion Olimpijski",
       "service_id": "6",
@@ -30697,7 +30697,7 @@
       ]
     },
     {
-      "trip_id": "6_17610376",
+      "trip_id": "6_17714389",
       "direction_id": "1",
       "headsign": "SWOJCZYCE",
       "service_id": "6",
@@ -30795,7 +30795,7 @@
       ]
     },
     {
-      "trip_id": "6_17610377",
+      "trip_id": "6_17714390",
       "direction_id": "0",
       "headsign": "8 Maja",
       "service_id": "6",
@@ -30866,7 +30866,7 @@
       ]
     },
     {
-      "trip_id": "6_17610378",
+      "trip_id": "6_17714391",
       "direction_id": "1",
       "headsign": "SWOJCZYCE",
       "service_id": "6",
@@ -30937,7 +30937,7 @@
       ]
     },
     {
-      "trip_id": "6_17610379",
+      "trip_id": "6_17714392",
       "direction_id": "0",
       "headsign": "8 Maja",
       "service_id": "6",
@@ -31008,7 +31008,7 @@
       ]
     },
     {
-      "trip_id": "6_17610380",
+      "trip_id": "6_17714393",
       "direction_id": "1",
       "headsign": "SWOJCZYCE",
       "service_id": "6",
@@ -31079,7 +31079,7 @@
       ]
     },
     {
-      "trip_id": "6_17610381",
+      "trip_id": "6_17714394",
       "direction_id": "0",
       "headsign": "8 Maja",
       "service_id": "6",
@@ -31150,7 +31150,7 @@
       ]
     },
     {
-      "trip_id": "6_17610382",
+      "trip_id": "6_17714395",
       "direction_id": "1",
       "headsign": "SWOJCZYCE",
       "service_id": "6",
@@ -31221,7 +31221,7 @@
       ]
     },
     {
-      "trip_id": "6_17610383",
+      "trip_id": "6_17714396",
       "direction_id": "0",
       "headsign": "8 Maja",
       "service_id": "6",
@@ -31292,7 +31292,7 @@
       ]
     },
     {
-      "trip_id": "6_17610384",
+      "trip_id": "6_17714397",
       "direction_id": "1",
       "headsign": "SWOJCZYCE",
       "service_id": "6",
@@ -31363,7 +31363,7 @@
       ]
     },
     {
-      "trip_id": "6_17610385",
+      "trip_id": "6_17714398",
       "direction_id": "0",
       "headsign": "8 Maja",
       "service_id": "6",
@@ -31434,7 +31434,7 @@
       ]
     },
     {
-      "trip_id": "6_17610386",
+      "trip_id": "6_17714399",
       "direction_id": "1",
       "headsign": "SWOJCZYCE",
       "service_id": "6",
@@ -31505,7 +31505,7 @@
       ]
     },
     {
-      "trip_id": "6_17610387",
+      "trip_id": "6_17714400",
       "direction_id": "0",
       "headsign": "8 Maja",
       "service_id": "6",
@@ -31576,7 +31576,7 @@
       ]
     },
     {
-      "trip_id": "6_17610388",
+      "trip_id": "6_17714401",
       "direction_id": "1",
       "headsign": "SWOJCZYCE",
       "service_id": "6",
@@ -31647,7 +31647,7 @@
       ]
     },
     {
-      "trip_id": "6_17610389",
+      "trip_id": "6_17714402",
       "direction_id": "0",
       "headsign": "8 Maja",
       "service_id": "6",
@@ -31718,7 +31718,7 @@
       ]
     },
     {
-      "trip_id": "6_17610390",
+      "trip_id": "6_17714403",
       "direction_id": "1",
       "headsign": "SWOJCZYCE",
       "service_id": "6",
@@ -31789,7 +31789,7 @@
       ]
     },
     {
-      "trip_id": "6_17610391",
+      "trip_id": "6_17714404",
       "direction_id": "0",
       "headsign": "8 Maja",
       "service_id": "6",
@@ -31860,7 +31860,7 @@
       ]
     },
     {
-      "trip_id": "6_17610392",
+      "trip_id": "6_17714405",
       "direction_id": "1",
       "headsign": "SWOJCZYCE",
       "service_id": "6",
@@ -31931,7 +31931,7 @@
       ]
     },
     {
-      "trip_id": "6_17610393",
+      "trip_id": "6_17714406",
       "direction_id": "0",
       "headsign": "8 Maja",
       "service_id": "6",
@@ -32002,7 +32002,7 @@
       ]
     },
     {
-      "trip_id": "6_17610394",
+      "trip_id": "6_17714407",
       "direction_id": "1",
       "headsign": "SWOJCZYCE",
       "service_id": "6",
@@ -32073,7 +32073,7 @@
       ]
     },
     {
-      "trip_id": "6_17610395",
+      "trip_id": "6_17714408",
       "direction_id": "0",
       "headsign": "8 Maja",
       "service_id": "6",
@@ -32144,7 +32144,7 @@
       ]
     },
     {
-      "trip_id": "6_17610396",
+      "trip_id": "6_17714409",
       "direction_id": "1",
       "headsign": "SWOJCZYCE",
       "service_id": "6",
@@ -32215,7 +32215,7 @@
       ]
     },
     {
-      "trip_id": "6_17610397",
+      "trip_id": "6_17714410",
       "direction_id": "0",
       "headsign": "Zajezdnia TYSKA",
       "service_id": "6",
@@ -32439,7 +32439,7 @@
       ]
     },
     {
-      "trip_id": "6_17610398",
+      "trip_id": "6_17714411",
       "direction_id": "1",
       "headsign": "SWOJCZYCE",
       "service_id": "6",
@@ -32618,7 +32618,7 @@
       ]
     },
     {
-      "trip_id": "6_17610399",
+      "trip_id": "6_17714412",
       "direction_id": "0",
       "headsign": "8 Maja",
       "service_id": "6",
@@ -32689,7 +32689,7 @@
       ]
     },
     {
-      "trip_id": "6_17610400",
+      "trip_id": "6_17714413",
       "direction_id": "1",
       "headsign": "SWOJCZYCE",
       "service_id": "6",
@@ -32760,7 +32760,7 @@
       ]
     },
     {
-      "trip_id": "6_17610401",
+      "trip_id": "6_17714414",
       "direction_id": "0",
       "headsign": "8 Maja",
       "service_id": "6",
@@ -32831,7 +32831,7 @@
       ]
     },
     {
-      "trip_id": "6_17610402",
+      "trip_id": "6_17714415",
       "direction_id": "1",
       "headsign": "SWOJCZYCE",
       "service_id": "6",
@@ -32902,7 +32902,7 @@
       ]
     },
     {
-      "trip_id": "6_17610403",
+      "trip_id": "6_17714416",
       "direction_id": "0",
       "headsign": "Stadion Olimpijski",
       "service_id": "6",
@@ -33009,7 +33009,7 @@
       ]
     },
     {
-      "trip_id": "6_17610404",
+      "trip_id": "6_17714417",
       "direction_id": "1",
       "headsign": "SWOJCZYCE",
       "service_id": "6",
@@ -33089,7 +33089,7 @@
       ]
     },
     {
-      "trip_id": "6_17610405",
+      "trip_id": "6_17714418",
       "direction_id": "0",
       "headsign": "Stadion Olimpijski",
       "service_id": "6",
@@ -33196,7 +33196,7 @@
       ]
     },
     {
-      "trip_id": "6_17610406",
+      "trip_id": "6_17714419",
       "direction_id": "1",
       "headsign": "SWOJCZYCE",
       "service_id": "6",
@@ -33276,7 +33276,7 @@
       ]
     },
     {
-      "trip_id": "6_17610407",
+      "trip_id": "6_17714420",
       "direction_id": "0",
       "headsign": "Stadion Olimpijski",
       "service_id": "6",
@@ -33383,7 +33383,7 @@
       ]
     },
     {
-      "trip_id": "6_17610408",
+      "trip_id": "6_17714421",
       "direction_id": "1",
       "headsign": "SWOJCZYCE",
       "service_id": "6",
@@ -33463,7 +33463,7 @@
       ]
     },
     {
-      "trip_id": "6_17610409",
+      "trip_id": "6_17714422",
       "direction_id": "0",
       "headsign": "Stadion Olimpijski",
       "service_id": "6",
@@ -33570,7 +33570,7 @@
       ]
     },
     {
-      "trip_id": "6_17610410",
+      "trip_id": "6_17714423",
       "direction_id": "1",
       "headsign": "SWOJCZYCE",
       "service_id": "6",
@@ -33650,7 +33650,7 @@
       ]
     },
     {
-      "trip_id": "6_17610411",
+      "trip_id": "6_17714424",
       "direction_id": "0",
       "headsign": "8 Maja",
       "service_id": "6",
@@ -33721,7 +33721,7 @@
       ]
     },
     {
-      "trip_id": "6_17610412",
+      "trip_id": "6_17714425",
       "direction_id": "1",
       "headsign": "SWOJCZYCE",
       "service_id": "6",
@@ -33792,7 +33792,7 @@
       ]
     },
     {
-      "trip_id": "6_17610413",
+      "trip_id": "6_17714426",
       "direction_id": "0",
       "headsign": "8 Maja",
       "service_id": "6",
@@ -33863,7 +33863,7 @@
       ]
     },
     {
-      "trip_id": "6_17610414",
+      "trip_id": "6_17714427",
       "direction_id": "1",
       "headsign": "SWOJCZYCE",
       "service_id": "6",
@@ -33934,7 +33934,7 @@
       ]
     },
     {
-      "trip_id": "6_17610415",
+      "trip_id": "6_17714428",
       "direction_id": "0",
       "headsign": "8 Maja",
       "service_id": "6",
@@ -34005,7 +34005,7 @@
       ]
     },
     {
-      "trip_id": "6_17610416",
+      "trip_id": "6_17714429",
       "direction_id": "1",
       "headsign": "SWOJCZYCE",
       "service_id": "6",
@@ -34076,7 +34076,7 @@
       ]
     },
     {
-      "trip_id": "6_17610417",
+      "trip_id": "6_17714430",
       "direction_id": "0",
       "headsign": "8 Maja",
       "service_id": "6",
@@ -34147,7 +34147,7 @@
       ]
     },
     {
-      "trip_id": "6_17610418",
+      "trip_id": "6_17714431",
       "direction_id": "1",
       "headsign": "SWOJCZYCE",
       "service_id": "6",
@@ -34218,7 +34218,7 @@
       ]
     },
     {
-      "trip_id": "6_17610419",
+      "trip_id": "6_17714432",
       "direction_id": "0",
       "headsign": "8 Maja",
       "service_id": "6",
@@ -34289,7 +34289,7 @@
       ]
     },
     {
-      "trip_id": "6_17610420",
+      "trip_id": "6_17714433",
       "direction_id": "1",
       "headsign": "SWOJCZYCE",
       "service_id": "6",
@@ -34360,7 +34360,7 @@
       ]
     },
     {
-      "trip_id": "6_17610421",
+      "trip_id": "6_17714434",
       "direction_id": "0",
       "headsign": "Stadion Olimpijski",
       "service_id": "6",
@@ -34440,7 +34440,7 @@
       ]
     },
     {
-      "trip_id": "6_17610422",
+      "trip_id": "6_17714435",
       "direction_id": "1",
       "headsign": "SWOJCZYCE",
       "service_id": "6",
@@ -34538,7 +34538,7 @@
       ]
     },
     {
-      "trip_id": "6_17610423",
+      "trip_id": "6_17714436",
       "direction_id": "0",
       "headsign": "Stadion Olimpijski",
       "service_id": "6",
@@ -34618,7 +34618,7 @@
       ]
     },
     {
-      "trip_id": "6_17610424",
+      "trip_id": "6_17714437",
       "direction_id": "1",
       "headsign": "SWOJCZYCE",
       "service_id": "6",
@@ -34716,7 +34716,7 @@
       ]
     },
     {
-      "trip_id": "6_17610425",
+      "trip_id": "6_17714438",
       "direction_id": "0",
       "headsign": "Stadion Olimpijski",
       "service_id": "6",
@@ -34796,7 +34796,7 @@
       ]
     },
     {
-      "trip_id": "6_17610426",
+      "trip_id": "6_17714439",
       "direction_id": "1",
       "headsign": "SWOJCZYCE",
       "service_id": "6",
@@ -34894,7 +34894,7 @@
       ]
     },
     {
-      "trip_id": "6_17610427",
+      "trip_id": "6_17714440",
       "direction_id": "0",
       "headsign": "Stadion Olimpijski",
       "service_id": "6",
@@ -34974,7 +34974,7 @@
       ]
     },
     {
-      "trip_id": "6_17610428",
+      "trip_id": "6_17714441",
       "direction_id": "1",
       "headsign": "SWOJCZYCE",
       "service_id": "6",
@@ -35072,7 +35072,7 @@
       ]
     },
     {
-      "trip_id": "6_17610429",
+      "trip_id": "6_17714442",
       "direction_id": "0",
       "headsign": "8 Maja",
       "service_id": "6",
@@ -35143,7 +35143,7 @@
       ]
     },
     {
-      "trip_id": "6_17610430",
+      "trip_id": "6_17714443",
       "direction_id": "1",
       "headsign": "SWOJCZYCE",
       "service_id": "6",
@@ -35214,7 +35214,7 @@
       ]
     },
     {
-      "trip_id": "6_17610431",
+      "trip_id": "6_17714444",
       "direction_id": "0",
       "headsign": "8 Maja",
       "service_id": "6",
@@ -35285,7 +35285,7 @@
       ]
     },
     {
-      "trip_id": "6_17610432",
+      "trip_id": "6_17714445",
       "direction_id": "1",
       "headsign": "SWOJCZYCE",
       "service_id": "6",
@@ -35356,7 +35356,7 @@
       ]
     },
     {
-      "trip_id": "6_17610433",
+      "trip_id": "6_17714446",
       "direction_id": "0",
       "headsign": "8 Maja",
       "service_id": "6",
@@ -35427,7 +35427,7 @@
       ]
     },
     {
-      "trip_id": "6_17610434",
+      "trip_id": "6_17714447",
       "direction_id": "1",
       "headsign": "SWOJCZYCE",
       "service_id": "6",
@@ -35498,7 +35498,7 @@
       ]
     },
     {
-      "trip_id": "6_17610435",
+      "trip_id": "6_17714448",
       "direction_id": "0",
       "headsign": "8 Maja",
       "service_id": "6",
@@ -35569,7 +35569,7 @@
       ]
     },
     {
-      "trip_id": "6_17610436",
+      "trip_id": "6_17714449",
       "direction_id": "1",
       "headsign": "SWOJCZYCE",
       "service_id": "6",
@@ -35640,7 +35640,7 @@
       ]
     },
     {
-      "trip_id": "6_17610437",
+      "trip_id": "6_17714450",
       "direction_id": "0",
       "headsign": "Zajezdnia TYSKA",
       "service_id": "6",
@@ -35864,7 +35864,7 @@
       ]
     },
     {
-      "trip_id": "8_17617055",
+      "trip_id": "8_17721068",
       "direction_id": "1",
       "headsign": "SWOJCZYCE",
       "service_id": "8",
@@ -36043,7 +36043,7 @@
       ]
     },
     {
-      "trip_id": "8_17617056",
+      "trip_id": "8_17721069",
       "direction_id": "0",
       "headsign": "8 Maja",
       "service_id": "8",
@@ -36114,7 +36114,7 @@
       ]
     },
     {
-      "trip_id": "8_17617057",
+      "trip_id": "8_17721070",
       "direction_id": "1",
       "headsign": "SWOJCZYCE",
       "service_id": "8",
@@ -36185,7 +36185,7 @@
       ]
     },
     {
-      "trip_id": "8_17617058",
+      "trip_id": "8_17721071",
       "direction_id": "0",
       "headsign": "Stadion Olimpijski",
       "service_id": "8",
@@ -36292,7 +36292,7 @@
       ]
     },
     {
-      "trip_id": "8_17617059",
+      "trip_id": "8_17721072",
       "direction_id": "1",
       "headsign": "SWOJCZYCE",
       "service_id": "8",
@@ -36372,7 +36372,7 @@
       ]
     },
     {
-      "trip_id": "8_17617060",
+      "trip_id": "8_17721073",
       "direction_id": "0",
       "headsign": "Stadion Olimpijski",
       "service_id": "8",
@@ -36479,7 +36479,7 @@
       ]
     },
     {
-      "trip_id": "8_17617061",
+      "trip_id": "8_17721074",
       "direction_id": "1",
       "headsign": "SWOJCZYCE",
       "service_id": "8",
@@ -36559,7 +36559,7 @@
       ]
     },
     {
-      "trip_id": "8_17617062",
+      "trip_id": "8_17721075",
       "direction_id": "0",
       "headsign": "Stadion Olimpijski",
       "service_id": "8",
@@ -36666,7 +36666,7 @@
       ]
     },
     {
-      "trip_id": "8_17617063",
+      "trip_id": "8_17721076",
       "direction_id": "1",
       "headsign": "SWOJCZYCE",
       "service_id": "8",
@@ -36746,7 +36746,7 @@
       ]
     },
     {
-      "trip_id": "8_17617064",
+      "trip_id": "8_17721077",
       "direction_id": "0",
       "headsign": "Stadion Olimpijski",
       "service_id": "8",
@@ -36853,7 +36853,7 @@
       ]
     },
     {
-      "trip_id": "8_17617065",
+      "trip_id": "8_17721078",
       "direction_id": "1",
       "headsign": "SWOJCZYCE",
       "service_id": "8",
@@ -36933,7 +36933,7 @@
       ]
     },
     {
-      "trip_id": "8_17617066",
+      "trip_id": "8_17721079",
       "direction_id": "0",
       "headsign": "8 Maja",
       "service_id": "8",
@@ -37004,7 +37004,7 @@
       ]
     },
     {
-      "trip_id": "8_17617067",
+      "trip_id": "8_17721080",
       "direction_id": "1",
       "headsign": "SWOJCZYCE",
       "service_id": "8",
@@ -37075,7 +37075,7 @@
       ]
     },
     {
-      "trip_id": "8_17617068",
+      "trip_id": "8_17721081",
       "direction_id": "0",
       "headsign": "8 Maja",
       "service_id": "8",
@@ -37146,7 +37146,7 @@
       ]
     },
     {
-      "trip_id": "8_17617069",
+      "trip_id": "8_17721082",
       "direction_id": "1",
       "headsign": "SWOJCZYCE",
       "service_id": "8",
@@ -37217,7 +37217,7 @@
       ]
     },
     {
-      "trip_id": "8_17617070",
+      "trip_id": "8_17721083",
       "direction_id": "0",
       "headsign": "8 Maja",
       "service_id": "8",
@@ -37288,7 +37288,7 @@
       ]
     },
     {
-      "trip_id": "8_17617071",
+      "trip_id": "8_17721084",
       "direction_id": "1",
       "headsign": "SWOJCZYCE",
       "service_id": "8",
@@ -37359,7 +37359,7 @@
       ]
     },
     {
-      "trip_id": "8_17617072",
+      "trip_id": "8_17721085",
       "direction_id": "0",
       "headsign": "8 Maja",
       "service_id": "8",
@@ -37430,7 +37430,7 @@
       ]
     },
     {
-      "trip_id": "8_17617073",
+      "trip_id": "8_17721086",
       "direction_id": "1",
       "headsign": "SWOJCZYCE",
       "service_id": "8",
@@ -37501,7 +37501,7 @@
       ]
     },
     {
-      "trip_id": "8_17617074",
+      "trip_id": "8_17721087",
       "direction_id": "0",
       "headsign": "8 Maja",
       "service_id": "8",
@@ -37572,7 +37572,7 @@
       ]
     },
     {
-      "trip_id": "8_17617075",
+      "trip_id": "8_17721088",
       "direction_id": "1",
       "headsign": "SWOJCZYCE",
       "service_id": "8",
@@ -37643,7 +37643,7 @@
       ]
     },
     {
-      "trip_id": "8_17617076",
+      "trip_id": "8_17721089",
       "direction_id": "0",
       "headsign": "Stadion Olimpijski",
       "service_id": "8",
@@ -37723,7 +37723,7 @@
       ]
     },
     {
-      "trip_id": "8_17617077",
+      "trip_id": "8_17721090",
       "direction_id": "1",
       "headsign": "SWOJCZYCE",
       "service_id": "8",
@@ -37821,7 +37821,7 @@
       ]
     },
     {
-      "trip_id": "8_17617078",
+      "trip_id": "8_17721091",
       "direction_id": "0",
       "headsign": "Stadion Olimpijski",
       "service_id": "8",
@@ -37901,7 +37901,7 @@
       ]
     },
     {
-      "trip_id": "8_17617079",
+      "trip_id": "8_17721092",
       "direction_id": "1",
       "headsign": "SWOJCZYCE",
       "service_id": "8",
@@ -37999,7 +37999,7 @@
       ]
     },
     {
-      "trip_id": "8_17617080",
+      "trip_id": "8_17721093",
       "direction_id": "0",
       "headsign": "Stadion Olimpijski",
       "service_id": "8",
@@ -38079,7 +38079,7 @@
       ]
     },
     {
-      "trip_id": "8_17617081",
+      "trip_id": "8_17721094",
       "direction_id": "1",
       "headsign": "SWOJCZYCE",
       "service_id": "8",
@@ -38177,7 +38177,7 @@
       ]
     },
     {
-      "trip_id": "8_17617082",
+      "trip_id": "8_17721095",
       "direction_id": "0",
       "headsign": "Stadion Olimpijski",
       "service_id": "8",
@@ -38257,7 +38257,7 @@
       ]
     },
     {
-      "trip_id": "8_17617083",
+      "trip_id": "8_17721096",
       "direction_id": "1",
       "headsign": "SWOJCZYCE",
       "service_id": "8",
@@ -38355,7 +38355,7 @@
       ]
     },
     {
-      "trip_id": "8_17617084",
+      "trip_id": "8_17721097",
       "direction_id": "0",
       "headsign": "8 Maja",
       "service_id": "8",
@@ -38426,7 +38426,7 @@
       ]
     },
     {
-      "trip_id": "8_17617085",
+      "trip_id": "8_17721098",
       "direction_id": "1",
       "headsign": "SWOJCZYCE",
       "service_id": "8",
@@ -38497,7 +38497,7 @@
       ]
     },
     {
-      "trip_id": "8_17617086",
+      "trip_id": "8_17721099",
       "direction_id": "0",
       "headsign": "8 Maja",
       "service_id": "8",
@@ -38568,7 +38568,7 @@
       ]
     },
     {
-      "trip_id": "8_17617087",
+      "trip_id": "8_17721100",
       "direction_id": "1",
       "headsign": "SWOJCZYCE",
       "service_id": "8",
@@ -38639,7 +38639,7 @@
       ]
     },
     {
-      "trip_id": "8_17617088",
+      "trip_id": "8_17721101",
       "direction_id": "0",
       "headsign": "8 Maja",
       "service_id": "8",
@@ -38710,7 +38710,7 @@
       ]
     },
     {
-      "trip_id": "8_17617089",
+      "trip_id": "8_17721102",
       "direction_id": "1",
       "headsign": "SWOJCZYCE",
       "service_id": "8",
@@ -38781,7 +38781,7 @@
       ]
     },
     {
-      "trip_id": "8_17617090",
+      "trip_id": "8_17721103",
       "direction_id": "0",
       "headsign": "8 Maja",
       "service_id": "8",
@@ -38852,7 +38852,7 @@
       ]
     },
     {
-      "trip_id": "8_17617091",
+      "trip_id": "8_17721104",
       "direction_id": "1",
       "headsign": "SWOJCZYCE",
       "service_id": "8",
@@ -38923,7 +38923,7 @@
       ]
     },
     {
-      "trip_id": "8_17617092",
+      "trip_id": "8_17721105",
       "direction_id": "0",
       "headsign": "Zajezdnia TYSKA",
       "service_id": "8",
@@ -39147,7 +39147,7 @@
       ]
     },
     {
-      "trip_id": "8_17617093",
+      "trip_id": "8_17721106",
       "direction_id": "1",
       "headsign": "SWOJCZYCE",
       "service_id": "8",
@@ -39326,7 +39326,7 @@
       ]
     },
     {
-      "trip_id": "8_17617094",
+      "trip_id": "8_17721107",
       "direction_id": "0",
       "headsign": "8 Maja",
       "service_id": "8",
@@ -39397,7 +39397,7 @@
       ]
     },
     {
-      "trip_id": "8_17617095",
+      "trip_id": "8_17721108",
       "direction_id": "1",
       "headsign": "SWOJCZYCE",
       "service_id": "8",
@@ -39468,7 +39468,7 @@
       ]
     },
     {
-      "trip_id": "8_17617096",
+      "trip_id": "8_17721109",
       "direction_id": "0",
       "headsign": "8 Maja",
       "service_id": "8",
@@ -39539,7 +39539,7 @@
       ]
     },
     {
-      "trip_id": "8_17617097",
+      "trip_id": "8_17721110",
       "direction_id": "1",
       "headsign": "SWOJCZYCE",
       "service_id": "8",
@@ -39610,7 +39610,7 @@
       ]
     },
     {
-      "trip_id": "8_17617098",
+      "trip_id": "8_17721111",
       "direction_id": "0",
       "headsign": "Stadion Olimpijski",
       "service_id": "8",
@@ -39717,7 +39717,7 @@
       ]
     },
     {
-      "trip_id": "8_17617099",
+      "trip_id": "8_17721112",
       "direction_id": "1",
       "headsign": "SWOJCZYCE",
       "service_id": "8",
@@ -39797,7 +39797,7 @@
       ]
     },
     {
-      "trip_id": "8_17617100",
+      "trip_id": "8_17721113",
       "direction_id": "0",
       "headsign": "Stadion Olimpijski",
       "service_id": "8",
@@ -39904,7 +39904,7 @@
       ]
     },
     {
-      "trip_id": "8_17617101",
+      "trip_id": "8_17721114",
       "direction_id": "1",
       "headsign": "SWOJCZYCE",
       "service_id": "8",
@@ -39984,7 +39984,7 @@
       ]
     },
     {
-      "trip_id": "8_17617102",
+      "trip_id": "8_17721115",
       "direction_id": "0",
       "headsign": "Stadion Olimpijski",
       "service_id": "8",
@@ -40091,7 +40091,7 @@
       ]
     },
     {
-      "trip_id": "8_17617103",
+      "trip_id": "8_17721116",
       "direction_id": "1",
       "headsign": "SWOJCZYCE",
       "service_id": "8",
@@ -40171,7 +40171,7 @@
       ]
     },
     {
-      "trip_id": "8_17617104",
+      "trip_id": "8_17721117",
       "direction_id": "0",
       "headsign": "Stadion Olimpijski",
       "service_id": "8",
@@ -40278,7 +40278,7 @@
       ]
     },
     {
-      "trip_id": "8_17617105",
+      "trip_id": "8_17721118",
       "direction_id": "1",
       "headsign": "SWOJCZYCE",
       "service_id": "8",
@@ -40358,7 +40358,7 @@
       ]
     },
     {
-      "trip_id": "8_17617106",
+      "trip_id": "8_17721119",
       "direction_id": "0",
       "headsign": "8 Maja",
       "service_id": "8",
@@ -40429,7 +40429,7 @@
       ]
     },
     {
-      "trip_id": "8_17617107",
+      "trip_id": "8_17721120",
       "direction_id": "1",
       "headsign": "SWOJCZYCE",
       "service_id": "8",
@@ -40500,7 +40500,7 @@
       ]
     },
     {
-      "trip_id": "8_17617108",
+      "trip_id": "8_17721121",
       "direction_id": "0",
       "headsign": "8 Maja",
       "service_id": "8",
@@ -40571,7 +40571,7 @@
       ]
     },
     {
-      "trip_id": "8_17617109",
+      "trip_id": "8_17721122",
       "direction_id": "1",
       "headsign": "SWOJCZYCE",
       "service_id": "8",
@@ -40642,7 +40642,7 @@
       ]
     },
     {
-      "trip_id": "8_17617110",
+      "trip_id": "8_17721123",
       "direction_id": "0",
       "headsign": "8 Maja",
       "service_id": "8",
@@ -40713,7 +40713,7 @@
       ]
     },
     {
-      "trip_id": "8_17617111",
+      "trip_id": "8_17721124",
       "direction_id": "1",
       "headsign": "SWOJCZYCE",
       "service_id": "8",
@@ -40784,7 +40784,7 @@
       ]
     },
     {
-      "trip_id": "8_17617112",
+      "trip_id": "8_17721125",
       "direction_id": "0",
       "headsign": "8 Maja",
       "service_id": "8",
@@ -40855,7 +40855,7 @@
       ]
     },
     {
-      "trip_id": "8_17617113",
+      "trip_id": "8_17721126",
       "direction_id": "1",
       "headsign": "SWOJCZYCE",
       "service_id": "8",
@@ -40926,7 +40926,7 @@
       ]
     },
     {
-      "trip_id": "8_17617114",
+      "trip_id": "8_17721127",
       "direction_id": "0",
       "headsign": "8 Maja",
       "service_id": "8",
@@ -40997,7 +40997,7 @@
       ]
     },
     {
-      "trip_id": "8_17617115",
+      "trip_id": "8_17721128",
       "direction_id": "1",
       "headsign": "SWOJCZYCE",
       "service_id": "8",
@@ -41068,7 +41068,7 @@
       ]
     },
     {
-      "trip_id": "8_17617116",
+      "trip_id": "8_17721129",
       "direction_id": "0",
       "headsign": "Stadion Olimpijski",
       "service_id": "8",
@@ -41148,7 +41148,7 @@
       ]
     },
     {
-      "trip_id": "8_17617117",
+      "trip_id": "8_17721130",
       "direction_id": "1",
       "headsign": "SWOJCZYCE",
       "service_id": "8",
@@ -41246,7 +41246,7 @@
       ]
     },
     {
-      "trip_id": "8_17617118",
+      "trip_id": "8_17721131",
       "direction_id": "0",
       "headsign": "Stadion Olimpijski",
       "service_id": "8",
@@ -41326,7 +41326,7 @@
       ]
     },
     {
-      "trip_id": "8_17617119",
+      "trip_id": "8_17721132",
       "direction_id": "1",
       "headsign": "SWOJCZYCE",
       "service_id": "8",
@@ -41424,7 +41424,7 @@
       ]
     },
     {
-      "trip_id": "8_17617120",
+      "trip_id": "8_17721133",
       "direction_id": "0",
       "headsign": "Stadion Olimpijski",
       "service_id": "8",
@@ -41504,7 +41504,7 @@
       ]
     },
     {
-      "trip_id": "8_17617121",
+      "trip_id": "8_17721134",
       "direction_id": "1",
       "headsign": "SWOJCZYCE",
       "service_id": "8",
@@ -41602,7 +41602,7 @@
       ]
     },
     {
-      "trip_id": "8_17617122",
+      "trip_id": "8_17721135",
       "direction_id": "0",
       "headsign": "8 Maja",
       "service_id": "8",
@@ -41673,7 +41673,7 @@
       ]
     },
     {
-      "trip_id": "8_17617123",
+      "trip_id": "8_17721136",
       "direction_id": "1",
       "headsign": "SWOJCZYCE",
       "service_id": "8",
@@ -41744,7 +41744,7 @@
       ]
     },
     {
-      "trip_id": "8_17617124",
+      "trip_id": "8_17721137",
       "direction_id": "0",
       "headsign": "8 Maja",
       "service_id": "8",
@@ -41815,7 +41815,7 @@
       ]
     },
     {
-      "trip_id": "8_17617125",
+      "trip_id": "8_17721138",
       "direction_id": "1",
       "headsign": "SWOJCZYCE",
       "service_id": "8",
@@ -41886,7 +41886,7 @@
       ]
     },
     {
-      "trip_id": "8_17617126",
+      "trip_id": "8_17721139",
       "direction_id": "0",
       "headsign": "8 Maja",
       "service_id": "8",
@@ -41957,7 +41957,7 @@
       ]
     },
     {
-      "trip_id": "8_17617127",
+      "trip_id": "8_17721140",
       "direction_id": "1",
       "headsign": "SWOJCZYCE",
       "service_id": "8",
@@ -42028,7 +42028,7 @@
       ]
     },
     {
-      "trip_id": "8_17617128",
+      "trip_id": "8_17721141",
       "direction_id": "0",
       "headsign": "8 Maja",
       "service_id": "8",
@@ -42099,7 +42099,7 @@
       ]
     },
     {
-      "trip_id": "8_17617129",
+      "trip_id": "8_17721142",
       "direction_id": "1",
       "headsign": "SWOJCZYCE",
       "service_id": "8",
@@ -42170,7 +42170,7 @@
       ]
     },
     {
-      "trip_id": "8_17617130",
+      "trip_id": "8_17721143",
       "direction_id": "0",
       "headsign": "8 Maja",
       "service_id": "8",
@@ -42241,7 +42241,7 @@
       ]
     },
     {
-      "trip_id": "8_17617131",
+      "trip_id": "8_17721144",
       "direction_id": "1",
       "headsign": "SWOJCZYCE",
       "service_id": "8",
@@ -42312,7 +42312,7 @@
       ]
     },
     {
-      "trip_id": "8_17617132",
+      "trip_id": "8_17721145",
       "direction_id": "0",
       "headsign": "8 Maja",
       "service_id": "8",
@@ -42383,7 +42383,7 @@
       ]
     },
     {
-      "trip_id": "8_17617133",
+      "trip_id": "8_17721146",
       "direction_id": "1",
       "headsign": "SWOJCZYCE",
       "service_id": "8",
@@ -42454,7 +42454,7 @@
       ]
     },
     {
-      "trip_id": "8_17617134",
+      "trip_id": "8_17721147",
       "direction_id": "0",
       "headsign": "8 Maja",
       "service_id": "8",
@@ -42525,7 +42525,7 @@
       ]
     },
     {
-      "trip_id": "8_17617135",
+      "trip_id": "8_17721148",
       "direction_id": "1",
       "headsign": "SWOJCZYCE",
       "service_id": "8",
@@ -42596,7 +42596,7 @@
       ]
     },
     {
-      "trip_id": "8_17617136",
+      "trip_id": "8_17721149",
       "direction_id": "0",
       "headsign": "8 Maja",
       "service_id": "8",
@@ -42667,7 +42667,7 @@
       ]
     },
     {
-      "trip_id": "8_17617137",
+      "trip_id": "8_17721150",
       "direction_id": "1",
       "headsign": "SWOJCZYCE",
       "service_id": "8",
@@ -42738,7 +42738,7 @@
       ]
     },
     {
-      "trip_id": "8_17617138",
+      "trip_id": "8_17721151",
       "direction_id": "0",
       "headsign": "8 Maja",
       "service_id": "8",
@@ -42809,7 +42809,7 @@
       ]
     },
     {
-      "trip_id": "8_17617139",
+      "trip_id": "8_17721152",
       "direction_id": "1",
       "headsign": "SWOJCZYCE",
       "service_id": "8",
@@ -42880,7 +42880,7 @@
       ]
     },
     {
-      "trip_id": "8_17617140",
+      "trip_id": "8_17721153",
       "direction_id": "0",
       "headsign": "8 Maja",
       "service_id": "8",
@@ -42951,7 +42951,7 @@
       ]
     },
     {
-      "trip_id": "8_17617141",
+      "trip_id": "8_17721154",
       "direction_id": "1",
       "headsign": "SWOJCZYCE",
       "service_id": "8",
@@ -43022,7 +43022,7 @@
       ]
     },
     {
-      "trip_id": "8_17617142",
+      "trip_id": "8_17721155",
       "direction_id": "0",
       "headsign": "Zajezdnia TYSKA",
       "service_id": "8",
@@ -43246,7 +43246,7 @@
       ]
     },
     {
-      "trip_id": "8_17617143",
+      "trip_id": "8_17721156",
       "direction_id": "1",
       "headsign": "SWOJCZYCE",
       "service_id": "8",
@@ -43425,7 +43425,7 @@
       ]
     },
     {
-      "trip_id": "8_17617144",
+      "trip_id": "8_17721157",
       "direction_id": "0",
       "headsign": "8 Maja",
       "service_id": "8",
@@ -43496,7 +43496,7 @@
       ]
     },
     {
-      "trip_id": "8_17617145",
+      "trip_id": "8_17721158",
       "direction_id": "1",
       "headsign": "SWOJCZYCE",
       "service_id": "8",
@@ -43567,7 +43567,7 @@
       ]
     },
     {
-      "trip_id": "8_17617146",
+      "trip_id": "8_17721159",
       "direction_id": "0",
       "headsign": "8 Maja",
       "service_id": "8",
@@ -43638,7 +43638,7 @@
       ]
     },
     {
-      "trip_id": "8_17617147",
+      "trip_id": "8_17721160",
       "direction_id": "1",
       "headsign": "SWOJCZYCE",
       "service_id": "8",
@@ -43709,7 +43709,7 @@
       ]
     },
     {
-      "trip_id": "8_17617148",
+      "trip_id": "8_17721161",
       "direction_id": "0",
       "headsign": "Stadion Olimpijski",
       "service_id": "8",
@@ -43816,7 +43816,7 @@
       ]
     },
     {
-      "trip_id": "8_17617149",
+      "trip_id": "8_17721162",
       "direction_id": "1",
       "headsign": "SWOJCZYCE",
       "service_id": "8",
@@ -43896,7 +43896,7 @@
       ]
     },
     {
-      "trip_id": "8_17617150",
+      "trip_id": "8_17721163",
       "direction_id": "0",
       "headsign": "Stadion Olimpijski",
       "service_id": "8",
@@ -44003,7 +44003,7 @@
       ]
     },
     {
-      "trip_id": "8_17617151",
+      "trip_id": "8_17721164",
       "direction_id": "1",
       "headsign": "SWOJCZYCE",
       "service_id": "8",
@@ -44083,7 +44083,7 @@
       ]
     },
     {
-      "trip_id": "8_17617152",
+      "trip_id": "8_17721165",
       "direction_id": "0",
       "headsign": "Stadion Olimpijski",
       "service_id": "8",
@@ -44190,7 +44190,7 @@
       ]
     },
     {
-      "trip_id": "8_17617153",
+      "trip_id": "8_17721166",
       "direction_id": "1",
       "headsign": "SWOJCZYCE",
       "service_id": "8",
@@ -44270,7 +44270,7 @@
       ]
     },
     {
-      "trip_id": "8_17617154",
+      "trip_id": "8_17721167",
       "direction_id": "0",
       "headsign": "8 Maja",
       "service_id": "8",
@@ -44341,7 +44341,7 @@
       ]
     },
     {
-      "trip_id": "8_17617155",
+      "trip_id": "8_17721168",
       "direction_id": "1",
       "headsign": "SWOJCZYCE",
       "service_id": "8",
@@ -44412,7 +44412,7 @@
       ]
     },
     {
-      "trip_id": "8_17617156",
+      "trip_id": "8_17721169",
       "direction_id": "0",
       "headsign": "8 Maja",
       "service_id": "8",
@@ -44483,7 +44483,7 @@
       ]
     },
     {
-      "trip_id": "8_17617157",
+      "trip_id": "8_17721170",
       "direction_id": "1",
       "headsign": "SWOJCZYCE",
       "service_id": "8",
@@ -44554,7 +44554,7 @@
       ]
     },
     {
-      "trip_id": "8_17617158",
+      "trip_id": "8_17721171",
       "direction_id": "0",
       "headsign": "8 Maja",
       "service_id": "8",
@@ -44625,7 +44625,7 @@
       ]
     },
     {
-      "trip_id": "8_17617159",
+      "trip_id": "8_17721172",
       "direction_id": "1",
       "headsign": "SWOJCZYCE",
       "service_id": "8",
@@ -44696,7 +44696,7 @@
       ]
     },
     {
-      "trip_id": "8_17617160",
+      "trip_id": "8_17721173",
       "direction_id": "0",
       "headsign": "8 Maja",
       "service_id": "8",
@@ -44767,7 +44767,7 @@
       ]
     },
     {
-      "trip_id": "8_17617161",
+      "trip_id": "8_17721174",
       "direction_id": "1",
       "headsign": "SWOJCZYCE",
       "service_id": "8",
@@ -44838,7 +44838,7 @@
       ]
     },
     {
-      "trip_id": "8_17617162",
+      "trip_id": "8_17721175",
       "direction_id": "0",
       "headsign": "8 Maja",
       "service_id": "8",
@@ -44909,7 +44909,7 @@
       ]
     },
     {
-      "trip_id": "8_17617163",
+      "trip_id": "8_17721176",
       "direction_id": "1",
       "headsign": "SWOJCZYCE",
       "service_id": "8",
@@ -44980,7 +44980,7 @@
       ]
     },
     {
-      "trip_id": "8_17617164",
+      "trip_id": "8_17721177",
       "direction_id": "0",
       "headsign": "8 Maja",
       "service_id": "8",
@@ -45051,7 +45051,7 @@
       ]
     },
     {
-      "trip_id": "8_17617165",
+      "trip_id": "8_17721178",
       "direction_id": "1",
       "headsign": "SWOJCZYCE",
       "service_id": "8",
@@ -45122,7 +45122,7 @@
       ]
     },
     {
-      "trip_id": "8_17617166",
+      "trip_id": "8_17721179",
       "direction_id": "0",
       "headsign": "Stadion Olimpijski",
       "service_id": "8",
@@ -45202,7 +45202,7 @@
       ]
     },
     {
-      "trip_id": "8_17617167",
+      "trip_id": "8_17721180",
       "direction_id": "1",
       "headsign": "SWOJCZYCE",
       "service_id": "8",
@@ -45300,7 +45300,7 @@
       ]
     },
     {
-      "trip_id": "8_17617168",
+      "trip_id": "8_17721181",
       "direction_id": "0",
       "headsign": "Stadion Olimpijski",
       "service_id": "8",
@@ -45380,7 +45380,7 @@
       ]
     },
     {
-      "trip_id": "8_17617169",
+      "trip_id": "8_17721182",
       "direction_id": "1",
       "headsign": "SWOJCZYCE",
       "service_id": "8",
@@ -45478,7 +45478,7 @@
       ]
     },
     {
-      "trip_id": "8_17617170",
+      "trip_id": "8_17721183",
       "direction_id": "0",
       "headsign": "Stadion Olimpijski",
       "service_id": "8",
@@ -45558,7 +45558,7 @@
       ]
     },
     {
-      "trip_id": "8_17617171",
+      "trip_id": "8_17721184",
       "direction_id": "1",
       "headsign": "SWOJCZYCE",
       "service_id": "8",
@@ -45656,7 +45656,7 @@
       ]
     },
     {
-      "trip_id": "8_17617172",
+      "trip_id": "8_17721185",
       "direction_id": "0",
       "headsign": "8 Maja",
       "service_id": "8",
@@ -45727,7 +45727,7 @@
       ]
     },
     {
-      "trip_id": "8_17617173",
+      "trip_id": "8_17721186",
       "direction_id": "1",
       "headsign": "SWOJCZYCE",
       "service_id": "8",
@@ -45798,7 +45798,7 @@
       ]
     },
     {
-      "trip_id": "8_17617174",
+      "trip_id": "8_17721187",
       "direction_id": "0",
       "headsign": "8 Maja",
       "service_id": "8",
@@ -45869,7 +45869,7 @@
       ]
     },
     {
-      "trip_id": "8_17617175",
+      "trip_id": "8_17721188",
       "direction_id": "1",
       "headsign": "SWOJCZYCE",
       "service_id": "8",
@@ -45940,7 +45940,7 @@
       ]
     },
     {
-      "trip_id": "8_17617176",
+      "trip_id": "8_17721189",
       "direction_id": "0",
       "headsign": "8 Maja",
       "service_id": "8",
@@ -46011,7 +46011,7 @@
       ]
     },
     {
-      "trip_id": "8_17617177",
+      "trip_id": "8_17721190",
       "direction_id": "1",
       "headsign": "SWOJCZYCE",
       "service_id": "8",
@@ -46082,7 +46082,7 @@
       ]
     },
     {
-      "trip_id": "8_17617178",
+      "trip_id": "8_17721191",
       "direction_id": "0",
       "headsign": "8 Maja",
       "service_id": "8",
@@ -46153,7 +46153,7 @@
       ]
     },
     {
-      "trip_id": "8_17617179",
+      "trip_id": "8_17721192",
       "direction_id": "1",
       "headsign": "SWOJCZYCE",
       "service_id": "8",
@@ -46224,7 +46224,7 @@
       ]
     },
     {
-      "trip_id": "8_17617180",
+      "trip_id": "8_17721193",
       "direction_id": "0",
       "headsign": "Zajezdnia TYSKA",
       "service_id": "8",
@@ -46448,7 +46448,7 @@
       ]
     },
     {
-      "trip_id": "8_17617181",
+      "trip_id": "8_17721194",
       "direction_id": "1",
       "headsign": "SWOJCZYCE",
       "service_id": "8",
@@ -46627,7 +46627,7 @@
       ]
     },
     {
-      "trip_id": "8_17617182",
+      "trip_id": "8_17721195",
       "direction_id": "0",
       "headsign": "Stadion Olimpijski",
       "service_id": "8",
@@ -46734,7 +46734,7 @@
       ]
     },
     {
-      "trip_id": "8_17617183",
+      "trip_id": "8_17721196",
       "direction_id": "1",
       "headsign": "SWOJCZYCE",
       "service_id": "8",
@@ -46814,7 +46814,7 @@
       ]
     },
     {
-      "trip_id": "8_17617184",
+      "trip_id": "8_17721197",
       "direction_id": "0",
       "headsign": "Stadion Olimpijski",
       "service_id": "8",
@@ -46921,7 +46921,7 @@
       ]
     },
     {
-      "trip_id": "8_17617185",
+      "trip_id": "8_17721198",
       "direction_id": "1",
       "headsign": "SWOJCZYCE",
       "service_id": "8",
@@ -47001,7 +47001,7 @@
       ]
     },
     {
-      "trip_id": "8_17617186",
+      "trip_id": "8_17721199",
       "direction_id": "0",
       "headsign": "Stadion Olimpijski",
       "service_id": "8",
@@ -47108,7 +47108,7 @@
       ]
     },
     {
-      "trip_id": "8_17617187",
+      "trip_id": "8_17721200",
       "direction_id": "1",
       "headsign": "SWOJCZYCE",
       "service_id": "8",
@@ -47188,7 +47188,7 @@
       ]
     },
     {
-      "trip_id": "8_17617188",
+      "trip_id": "8_17721201",
       "direction_id": "0",
       "headsign": "Stadion Olimpijski",
       "service_id": "8",
@@ -47295,7 +47295,7 @@
       ]
     },
     {
-      "trip_id": "8_17617189",
+      "trip_id": "8_17721202",
       "direction_id": "1",
       "headsign": "SWOJCZYCE",
       "service_id": "8",
@@ -47375,7 +47375,7 @@
       ]
     },
     {
-      "trip_id": "8_17617190",
+      "trip_id": "8_17721203",
       "direction_id": "0",
       "headsign": "8 Maja",
       "service_id": "8",
@@ -47446,7 +47446,7 @@
       ]
     },
     {
-      "trip_id": "8_17617191",
+      "trip_id": "8_17721204",
       "direction_id": "1",
       "headsign": "SWOJCZYCE",
       "service_id": "8",
@@ -47517,7 +47517,7 @@
       ]
     },
     {
-      "trip_id": "8_17617192",
+      "trip_id": "8_17721205",
       "direction_id": "0",
       "headsign": "8 Maja",
       "service_id": "8",
@@ -47588,7 +47588,7 @@
       ]
     },
     {
-      "trip_id": "8_17617193",
+      "trip_id": "8_17721206",
       "direction_id": "1",
       "headsign": "SWOJCZYCE",
       "service_id": "8",
@@ -47659,7 +47659,7 @@
       ]
     },
     {
-      "trip_id": "8_17617194",
+      "trip_id": "8_17721207",
       "direction_id": "0",
       "headsign": "8 Maja",
       "service_id": "8",
@@ -47730,7 +47730,7 @@
       ]
     },
     {
-      "trip_id": "8_17617195",
+      "trip_id": "8_17721208",
       "direction_id": "1",
       "headsign": "SWOJCZYCE",
       "service_id": "8",
@@ -47801,7 +47801,7 @@
       ]
     },
     {
-      "trip_id": "8_17617196",
+      "trip_id": "8_17721209",
       "direction_id": "0",
       "headsign": "8 Maja",
       "service_id": "8",
@@ -47872,7 +47872,7 @@
       ]
     },
     {
-      "trip_id": "8_17617197",
+      "trip_id": "8_17721210",
       "direction_id": "1",
       "headsign": "SWOJCZYCE",
       "service_id": "8",
@@ -47943,7 +47943,7 @@
       ]
     },
     {
-      "trip_id": "8_17617198",
+      "trip_id": "8_17721211",
       "direction_id": "0",
       "headsign": "8 Maja",
       "service_id": "8",
@@ -48014,7 +48014,7 @@
       ]
     },
     {
-      "trip_id": "8_17617199",
+      "trip_id": "8_17721212",
       "direction_id": "1",
       "headsign": "SWOJCZYCE",
       "service_id": "8",
@@ -48085,7 +48085,7 @@
       ]
     },
     {
-      "trip_id": "8_17617200",
+      "trip_id": "8_17721213",
       "direction_id": "0",
       "headsign": "Stadion Olimpijski",
       "service_id": "8",
@@ -48165,7 +48165,7 @@
       ]
     },
     {
-      "trip_id": "8_17617201",
+      "trip_id": "8_17721214",
       "direction_id": "1",
       "headsign": "SWOJCZYCE",
       "service_id": "8",
@@ -48263,7 +48263,7 @@
       ]
     },
     {
-      "trip_id": "8_17617202",
+      "trip_id": "8_17721215",
       "direction_id": "0",
       "headsign": "Stadion Olimpijski",
       "service_id": "8",
@@ -48343,7 +48343,7 @@
       ]
     },
     {
-      "trip_id": "8_17617203",
+      "trip_id": "8_17721216",
       "direction_id": "1",
       "headsign": "SWOJCZYCE",
       "service_id": "8",
@@ -48441,7 +48441,7 @@
       ]
     },
     {
-      "trip_id": "8_17617204",
+      "trip_id": "8_17721217",
       "direction_id": "0",
       "headsign": "Stadion Olimpijski",
       "service_id": "8",
@@ -48521,7 +48521,7 @@
       ]
     },
     {
-      "trip_id": "8_17617205",
+      "trip_id": "8_17721218",
       "direction_id": "1",
       "headsign": "SWOJCZYCE",
       "service_id": "8",
@@ -48619,7 +48619,7 @@
       ]
     },
     {
-      "trip_id": "8_17617206",
+      "trip_id": "8_17721219",
       "direction_id": "0",
       "headsign": "8 Maja",
       "service_id": "8",
@@ -48690,7 +48690,7 @@
       ]
     },
     {
-      "trip_id": "8_17617207",
+      "trip_id": "8_17721220",
       "direction_id": "1",
       "headsign": "SWOJCZYCE",
       "service_id": "8",
@@ -48761,7 +48761,7 @@
       ]
     },
     {
-      "trip_id": "8_17617208",
+      "trip_id": "8_17721221",
       "direction_id": "0",
       "headsign": "8 Maja",
       "service_id": "8",
@@ -48832,7 +48832,7 @@
       ]
     },
     {
-      "trip_id": "8_17617209",
+      "trip_id": "8_17721222",
       "direction_id": "1",
       "headsign": "SWOJCZYCE",
       "service_id": "8",
@@ -48903,7 +48903,7 @@
       ]
     },
     {
-      "trip_id": "8_17617210",
+      "trip_id": "8_17721223",
       "direction_id": "0",
       "headsign": "8 Maja",
       "service_id": "8",
@@ -48974,7 +48974,7 @@
       ]
     },
     {
-      "trip_id": "8_17617211",
+      "trip_id": "8_17721224",
       "direction_id": "1",
       "headsign": "SWOJCZYCE",
       "service_id": "8",
@@ -49045,7 +49045,7 @@
       ]
     },
     {
-      "trip_id": "8_17617212",
+      "trip_id": "8_17721225",
       "direction_id": "0",
       "headsign": "8 Maja",
       "service_id": "8",
@@ -49116,7 +49116,7 @@
       ]
     },
     {
-      "trip_id": "8_17617213",
+      "trip_id": "8_17721226",
       "direction_id": "1",
       "headsign": "SWOJCZYCE",
       "service_id": "8",
@@ -49187,7 +49187,7 @@
       ]
     },
     {
-      "trip_id": "8_17617214",
+      "trip_id": "8_17721227",
       "direction_id": "0",
       "headsign": "8 Maja",
       "service_id": "8",
@@ -49258,7 +49258,7 @@
       ]
     },
     {
-      "trip_id": "8_17617215",
+      "trip_id": "8_17721228",
       "direction_id": "1",
       "headsign": "SWOJCZYCE",
       "service_id": "8",
@@ -49329,7 +49329,7 @@
       ]
     },
     {
-      "trip_id": "8_17617216",
+      "trip_id": "8_17721229",
       "direction_id": "0",
       "headsign": "8 Maja",
       "service_id": "8",
@@ -49400,7 +49400,7 @@
       ]
     },
     {
-      "trip_id": "8_17617217",
+      "trip_id": "8_17721230",
       "direction_id": "1",
       "headsign": "SWOJCZYCE",
       "service_id": "8",
@@ -49471,7 +49471,7 @@
       ]
     },
     {
-      "trip_id": "8_17617218",
+      "trip_id": "8_17721231",
       "direction_id": "0",
       "headsign": "8 Maja",
       "service_id": "8",
@@ -49542,7 +49542,7 @@
       ]
     },
     {
-      "trip_id": "8_17617219",
+      "trip_id": "8_17721232",
       "direction_id": "1",
       "headsign": "SWOJCZYCE",
       "service_id": "8",
@@ -49613,7 +49613,7 @@
       ]
     },
     {
-      "trip_id": "8_17617220",
+      "trip_id": "8_17721233",
       "direction_id": "0",
       "headsign": "8 Maja",
       "service_id": "8",
@@ -49684,7 +49684,7 @@
       ]
     },
     {
-      "trip_id": "8_17617221",
+      "trip_id": "8_17721234",
       "direction_id": "1",
       "headsign": "SWOJCZYCE",
       "service_id": "8",
@@ -49755,7 +49755,7 @@
       ]
     },
     {
-      "trip_id": "8_17617222",
+      "trip_id": "8_17721235",
       "direction_id": "0",
       "headsign": "8 Maja",
       "service_id": "8",
@@ -49826,7 +49826,7 @@
       ]
     },
     {
-      "trip_id": "8_17617223",
+      "trip_id": "8_17721236",
       "direction_id": "1",
       "headsign": "SWOJCZYCE",
       "service_id": "8",
@@ -49897,7 +49897,7 @@
       ]
     },
     {
-      "trip_id": "8_17617224",
+      "trip_id": "8_17721237",
       "direction_id": "0",
       "headsign": "8 Maja",
       "service_id": "8",
@@ -49968,7 +49968,7 @@
       ]
     },
     {
-      "trip_id": "8_17617225",
+      "trip_id": "8_17721238",
       "direction_id": "1",
       "headsign": "SWOJCZYCE",
       "service_id": "8",
@@ -50039,7 +50039,7 @@
       ]
     },
     {
-      "trip_id": "8_17617226",
+      "trip_id": "8_17721239",
       "direction_id": "0",
       "headsign": "Zajezdnia TYSKA",
       "service_id": "8",
@@ -50263,7 +50263,7 @@
       ]
     },
     {
-      "trip_id": "8_17617227",
+      "trip_id": "8_17721240",
       "direction_id": "1",
       "headsign": "SWOJCZYCE",
       "service_id": "8",
@@ -50442,7 +50442,7 @@
       ]
     },
     {
-      "trip_id": "8_17617228",
+      "trip_id": "8_17721241",
       "direction_id": "0",
       "headsign": "8 Maja",
       "service_id": "8",
@@ -50513,7 +50513,7 @@
       ]
     },
     {
-      "trip_id": "8_17617229",
+      "trip_id": "8_17721242",
       "direction_id": "1",
       "headsign": "SWOJCZYCE",
       "service_id": "8",
@@ -50584,7 +50584,7 @@
       ]
     },
     {
-      "trip_id": "8_17617230",
+      "trip_id": "8_17721243",
       "direction_id": "0",
       "headsign": "8 Maja",
       "service_id": "8",
@@ -50655,7 +50655,7 @@
       ]
     },
     {
-      "trip_id": "8_17617231",
+      "trip_id": "8_17721244",
       "direction_id": "1",
       "headsign": "SWOJCZYCE",
       "service_id": "8",
@@ -50726,7 +50726,7 @@
       ]
     },
     {
-      "trip_id": "8_17617232",
+      "trip_id": "8_17721245",
       "direction_id": "0",
       "headsign": "Stadion Olimpijski",
       "service_id": "8",
@@ -50833,7 +50833,7 @@
       ]
     },
     {
-      "trip_id": "8_17617233",
+      "trip_id": "8_17721246",
       "direction_id": "1",
       "headsign": "SWOJCZYCE",
       "service_id": "8",
@@ -50913,7 +50913,7 @@
       ]
     },
     {
-      "trip_id": "8_17617234",
+      "trip_id": "8_17721247",
       "direction_id": "0",
       "headsign": "Stadion Olimpijski",
       "service_id": "8",
@@ -51020,7 +51020,7 @@
       ]
     },
     {
-      "trip_id": "8_17617235",
+      "trip_id": "8_17721248",
       "direction_id": "1",
       "headsign": "SWOJCZYCE",
       "service_id": "8",
@@ -51100,7 +51100,7 @@
       ]
     },
     {
-      "trip_id": "8_17617236",
+      "trip_id": "8_17721249",
       "direction_id": "0",
       "headsign": "Stadion Olimpijski",
       "service_id": "8",
@@ -51207,7 +51207,7 @@
       ]
     },
     {
-      "trip_id": "8_17617237",
+      "trip_id": "8_17721250",
       "direction_id": "1",
       "headsign": "SWOJCZYCE",
       "service_id": "8",
@@ -51287,7 +51287,7 @@
       ]
     },
     {
-      "trip_id": "8_17617238",
+      "trip_id": "8_17721251",
       "direction_id": "0",
       "headsign": "Stadion Olimpijski",
       "service_id": "8",
@@ -51394,7 +51394,7 @@
       ]
     },
     {
-      "trip_id": "8_17617239",
+      "trip_id": "8_17721252",
       "direction_id": "1",
       "headsign": "SWOJCZYCE",
       "service_id": "8",
@@ -51474,7 +51474,7 @@
       ]
     },
     {
-      "trip_id": "8_17617240",
+      "trip_id": "8_17721253",
       "direction_id": "0",
       "headsign": "8 Maja",
       "service_id": "8",
@@ -51545,7 +51545,7 @@
       ]
     },
     {
-      "trip_id": "8_17617241",
+      "trip_id": "8_17721254",
       "direction_id": "1",
       "headsign": "SWOJCZYCE",
       "service_id": "8",
@@ -51616,7 +51616,7 @@
       ]
     },
     {
-      "trip_id": "8_17617242",
+      "trip_id": "8_17721255",
       "direction_id": "0",
       "headsign": "8 Maja",
       "service_id": "8",
@@ -51687,7 +51687,7 @@
       ]
     },
     {
-      "trip_id": "8_17617243",
+      "trip_id": "8_17721256",
       "direction_id": "1",
       "headsign": "SWOJCZYCE",
       "service_id": "8",
@@ -51758,7 +51758,7 @@
       ]
     },
     {
-      "trip_id": "8_17617244",
+      "trip_id": "8_17721257",
       "direction_id": "0",
       "headsign": "8 Maja",
       "service_id": "8",
@@ -51829,7 +51829,7 @@
       ]
     },
     {
-      "trip_id": "8_17617245",
+      "trip_id": "8_17721258",
       "direction_id": "1",
       "headsign": "SWOJCZYCE",
       "service_id": "8",
@@ -51900,7 +51900,7 @@
       ]
     },
     {
-      "trip_id": "8_17617246",
+      "trip_id": "8_17721259",
       "direction_id": "0",
       "headsign": "8 Maja",
       "service_id": "8",
@@ -51971,7 +51971,7 @@
       ]
     },
     {
-      "trip_id": "8_17617247",
+      "trip_id": "8_17721260",
       "direction_id": "1",
       "headsign": "SWOJCZYCE",
       "service_id": "8",
@@ -52042,7 +52042,7 @@
       ]
     },
     {
-      "trip_id": "8_17617248",
+      "trip_id": "8_17721261",
       "direction_id": "0",
       "headsign": "8 Maja",
       "service_id": "8",
@@ -52113,7 +52113,7 @@
       ]
     },
     {
-      "trip_id": "8_17617249",
+      "trip_id": "8_17721262",
       "direction_id": "1",
       "headsign": "SWOJCZYCE",
       "service_id": "8",
@@ -52184,7 +52184,7 @@
       ]
     },
     {
-      "trip_id": "8_17617250",
+      "trip_id": "8_17721263",
       "direction_id": "0",
       "headsign": "Stadion Olimpijski",
       "service_id": "8",
@@ -52264,7 +52264,7 @@
       ]
     },
     {
-      "trip_id": "8_17617251",
+      "trip_id": "8_17721264",
       "direction_id": "1",
       "headsign": "SWOJCZYCE",
       "service_id": "8",
@@ -52362,7 +52362,7 @@
       ]
     },
     {
-      "trip_id": "8_17617252",
+      "trip_id": "8_17721265",
       "direction_id": "0",
       "headsign": "Stadion Olimpijski",
       "service_id": "8",
@@ -52442,7 +52442,7 @@
       ]
     },
     {
-      "trip_id": "8_17617253",
+      "trip_id": "8_17721266",
       "direction_id": "1",
       "headsign": "SWOJCZYCE",
       "service_id": "8",
@@ -52540,7 +52540,7 @@
       ]
     },
     {
-      "trip_id": "8_17617254",
+      "trip_id": "8_17721267",
       "direction_id": "0",
       "headsign": "Stadion Olimpijski",
       "service_id": "8",
@@ -52620,7 +52620,7 @@
       ]
     },
     {
-      "trip_id": "8_17617255",
+      "trip_id": "8_17721268",
       "direction_id": "1",
       "headsign": "SWOJCZYCE",
       "service_id": "8",
@@ -52718,7 +52718,7 @@
       ]
     },
     {
-      "trip_id": "8_17617256",
+      "trip_id": "8_17721269",
       "direction_id": "0",
       "headsign": "Stadion Olimpijski",
       "service_id": "8",
@@ -52798,7 +52798,7 @@
       ]
     },
     {
-      "trip_id": "8_17617257",
+      "trip_id": "8_17721270",
       "direction_id": "1",
       "headsign": "SWOJCZYCE",
       "service_id": "8",
@@ -52896,7 +52896,7 @@
       ]
     },
     {
-      "trip_id": "8_17617258",
+      "trip_id": "8_17721271",
       "direction_id": "0",
       "headsign": "8 Maja",
       "service_id": "8",
@@ -52967,7 +52967,7 @@
       ]
     },
     {
-      "trip_id": "8_17617259",
+      "trip_id": "8_17721272",
       "direction_id": "1",
       "headsign": "SWOJCZYCE",
       "service_id": "8",
@@ -53038,7 +53038,7 @@
       ]
     },
     {
-      "trip_id": "8_17617260",
+      "trip_id": "8_17721273",
       "direction_id": "0",
       "headsign": "8 Maja",
       "service_id": "8",
@@ -53109,7 +53109,7 @@
       ]
     },
     {
-      "trip_id": "8_17617261",
+      "trip_id": "8_17721274",
       "direction_id": "1",
       "headsign": "SWOJCZYCE",
       "service_id": "8",
@@ -53180,7 +53180,7 @@
       ]
     },
     {
-      "trip_id": "8_17617262",
+      "trip_id": "8_17721275",
       "direction_id": "0",
       "headsign": "8 Maja",
       "service_id": "8",
@@ -53251,7 +53251,7 @@
       ]
     },
     {
-      "trip_id": "8_17617263",
+      "trip_id": "8_17721276",
       "direction_id": "1",
       "headsign": "SWOJCZYCE",
       "service_id": "8",
@@ -53322,7 +53322,7 @@
       ]
     },
     {
-      "trip_id": "8_17617264",
+      "trip_id": "8_17721277",
       "direction_id": "0",
       "headsign": "8 Maja",
       "service_id": "8",
@@ -53393,7 +53393,7 @@
       ]
     },
     {
-      "trip_id": "8_17617265",
+      "trip_id": "8_17721278",
       "direction_id": "1",
       "headsign": "SWOJCZYCE",
       "service_id": "8",
@@ -53464,7 +53464,7 @@
       ]
     },
     {
-      "trip_id": "8_17617266",
+      "trip_id": "8_17721279",
       "direction_id": "0",
       "headsign": "Zajezdnia TYSKA",
       "service_id": "8",

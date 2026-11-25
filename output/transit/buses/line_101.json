@@ -2,7 +2,7 @@
   "line": "101",
   "trips": [
     {
-      "trip_id": "3_17595307",
+      "trip_id": "3_17699320",
       "direction_id": "0",
       "headsign": "Kwiska",
       "service_id": "3",
@@ -73,7 +73,7 @@
       ]
     },
     {
-      "trip_id": "3_17595308",
+      "trip_id": "3_17699321",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "3",
@@ -288,7 +288,7 @@
       ]
     },
     {
-      "trip_id": "3_17595309",
+      "trip_id": "3_17699322",
       "direction_id": "0",
       "headsign": "Kwiska",
       "service_id": "3",
@@ -548,7 +548,7 @@
       ]
     },
     {
-      "trip_id": "3_17595310",
+      "trip_id": "3_17699323",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "3",
@@ -763,7 +763,7 @@
       ]
     },
     {
-      "trip_id": "3_17595311",
+      "trip_id": "3_17699324",
       "direction_id": "0",
       "headsign": "Kwiska",
       "service_id": "3",
@@ -1023,7 +1023,7 @@
       ]
     },
     {
-      "trip_id": "3_17595312",
+      "trip_id": "3_17699325",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "3",
@@ -1238,7 +1238,7 @@
       ]
     },
     {
-      "trip_id": "3_17595313",
+      "trip_id": "3_17699326",
       "direction_id": "0",
       "headsign": "Kwiska",
       "service_id": "3",
@@ -1498,7 +1498,7 @@
       ]
     },
     {
-      "trip_id": "3_17595314",
+      "trip_id": "3_17699327",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "3",
@@ -1713,7 +1713,7 @@
       ]
     },
     {
-      "trip_id": "3_17595315",
+      "trip_id": "3_17699328",
       "direction_id": "0",
       "headsign": "Kwiska",
       "service_id": "3",
@@ -1973,7 +1973,7 @@
       ]
     },
     {
-      "trip_id": "3_17595316",
+      "trip_id": "3_17699329",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "3",
@@ -2188,7 +2188,7 @@
       ]
     },
     {
-      "trip_id": "3_17595317",
+      "trip_id": "3_17699330",
       "direction_id": "0",
       "headsign": "Kwiska",
       "service_id": "3",
@@ -2448,7 +2448,7 @@
       ]
     },
     {
-      "trip_id": "3_17595318",
+      "trip_id": "3_17699331",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "3",
@@ -2663,7 +2663,7 @@
       ]
     },
     {
-      "trip_id": "3_17595319",
+      "trip_id": "3_17699332",
       "direction_id": "0",
       "headsign": "Kwiska",
       "service_id": "3",
@@ -2923,7 +2923,7 @@
       ]
     },
     {
-      "trip_id": "3_17595320",
+      "trip_id": "3_17699333",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "3",
@@ -3138,7 +3138,7 @@
       ]
     },
     {
-      "trip_id": "3_17595321",
+      "trip_id": "3_17699334",
       "direction_id": "0",
       "headsign": "Kwiska",
       "service_id": "3",
@@ -3398,7 +3398,7 @@
       ]
     },
     {
-      "trip_id": "3_17595322",
+      "trip_id": "3_17699335",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "3",
@@ -3613,7 +3613,7 @@
       ]
     },
     {
-      "trip_id": "3_17595323",
+      "trip_id": "3_17699336",
       "direction_id": "0",
       "headsign": "Kwiska",
       "service_id": "3",
@@ -3873,7 +3873,7 @@
       ]
     },
     {
-      "trip_id": "3_17595324",
+      "trip_id": "3_17699337",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "3",
@@ -4088,7 +4088,7 @@
       ]
     },
     {
-      "trip_id": "3_17595325",
+      "trip_id": "3_17699338",
       "direction_id": "0",
       "headsign": "Kwiska",
       "service_id": "3",
@@ -4348,7 +4348,7 @@
       ]
     },
     {
-      "trip_id": "3_17595326",
+      "trip_id": "3_17699339",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "3",
@@ -4563,7 +4563,7 @@
       ]
     },
     {
-      "trip_id": "3_17595327",
+      "trip_id": "3_17699340",
       "direction_id": "0",
       "headsign": "Kwiska",
       "service_id": "3",
@@ -4823,7 +4823,7 @@
       ]
     },
     {
-      "trip_id": "3_17595328",
+      "trip_id": "3_17699341",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "3",
@@ -5038,7 +5038,7 @@
       ]
     },
     {
-      "trip_id": "3_17595329",
+      "trip_id": "3_17699342",
       "direction_id": "0",
       "headsign": "Kwiska",
       "service_id": "3",
@@ -5298,7 +5298,7 @@
       ]
     },
     {
-      "trip_id": "3_17595330",
+      "trip_id": "3_17699343",
       "direction_id": "1",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "3",
@@ -5360,7 +5360,7 @@
       ]
     },
     {
-      "trip_id": "3_17595331",
+      "trip_id": "3_17699344",
       "direction_id": "0",
       "headsign": "Kwiska",
       "service_id": "3",
@@ -5431,7 +5431,7 @@
       ]
     },
     {
-      "trip_id": "3_17595332",
+      "trip_id": "3_17699345",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "3",
@@ -5646,7 +5646,7 @@
       ]
     },
     {
-      "trip_id": "3_17595333",
+      "trip_id": "3_17699346",
       "direction_id": "0",
       "headsign": "Kwiska",
       "service_id": "3",
@@ -5906,7 +5906,7 @@
       ]
     },
     {
-      "trip_id": "3_17595334",
+      "trip_id": "3_17699347",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "3",
@@ -6121,7 +6121,7 @@
       ]
     },
     {
-      "trip_id": "3_17595335",
+      "trip_id": "3_17699348",
       "direction_id": "0",
       "headsign": "Kwiska",
       "service_id": "3",
@@ -6381,7 +6381,7 @@
       ]
     },
     {
-      "trip_id": "3_17595336",
+      "trip_id": "3_17699349",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "3",
@@ -6596,7 +6596,7 @@
       ]
     },
     {
-      "trip_id": "3_17595337",
+      "trip_id": "3_17699350",
       "direction_id": "0",
       "headsign": "Kwiska",
       "service_id": "3",
@@ -6856,7 +6856,7 @@
       ]
     },
     {
-      "trip_id": "3_17595338",
+      "trip_id": "3_17699351",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "3",
@@ -7071,7 +7071,7 @@
       ]
     },
     {
-      "trip_id": "3_17595339",
+      "trip_id": "3_17699352",
       "direction_id": "0",
       "headsign": "Kwiska",
       "service_id": "3",
@@ -7331,7 +7331,7 @@
       ]
     },
     {
-      "trip_id": "3_17595340",
+      "trip_id": "3_17699353",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "3",
@@ -7546,7 +7546,7 @@
       ]
     },
     {
-      "trip_id": "3_17595341",
+      "trip_id": "3_17699354",
       "direction_id": "0",
       "headsign": "Kwiska",
       "service_id": "3",
@@ -7806,7 +7806,7 @@
       ]
     },
     {
-      "trip_id": "3_17595342",
+      "trip_id": "3_17699355",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "3",
@@ -8021,7 +8021,7 @@
       ]
     },
     {
-      "trip_id": "3_17595343",
+      "trip_id": "3_17699356",
       "direction_id": "0",
       "headsign": "Kwiska",
       "service_id": "3",
@@ -8281,7 +8281,7 @@
       ]
     },
     {
-      "trip_id": "3_17595344",
+      "trip_id": "3_17699357",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "3",
@@ -8496,7 +8496,7 @@
       ]
     },
     {
-      "trip_id": "3_17595345",
+      "trip_id": "3_17699358",
       "direction_id": "0",
       "headsign": "Kwiska",
       "service_id": "3",
@@ -8756,7 +8756,7 @@
       ]
     },
     {
-      "trip_id": "3_17595346",
+      "trip_id": "3_17699359",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "3",
@@ -8971,7 +8971,7 @@
       ]
     },
     {
-      "trip_id": "3_17595347",
+      "trip_id": "3_17699360",
       "direction_id": "0",
       "headsign": "Kwiska",
       "service_id": "3",
@@ -9231,7 +9231,7 @@
       ]
     },
     {
-      "trip_id": "3_17595348",
+      "trip_id": "3_17699361",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "3",
@@ -9446,7 +9446,7 @@
       ]
     },
     {
-      "trip_id": "3_17595349",
+      "trip_id": "3_17699362",
       "direction_id": "0",
       "headsign": "Kwiska",
       "service_id": "3",
@@ -9706,7 +9706,7 @@
       ]
     },
     {
-      "trip_id": "3_17595350",
+      "trip_id": "3_17699363",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "3",
@@ -9921,7 +9921,7 @@
       ]
     },
     {
-      "trip_id": "3_17595351",
+      "trip_id": "3_17699364",
       "direction_id": "0",
       "headsign": "Kwiska",
       "service_id": "3",
@@ -10181,7 +10181,7 @@
       ]
     },
     {
-      "trip_id": "3_17595352",
+      "trip_id": "3_17699365",
       "direction_id": "1",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "3",
@@ -10243,7 +10243,7 @@
       ]
     },
     {
-      "trip_id": "3_17595353",
+      "trip_id": "3_17699366",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "3",
@@ -10494,7 +10494,7 @@
       ]
     },
     {
-      "trip_id": "3_17595354",
+      "trip_id": "3_17699367",
       "direction_id": "0",
       "headsign": "Kwiska",
       "service_id": "3",
@@ -10754,7 +10754,7 @@
       ]
     },
     {
-      "trip_id": "3_17595355",
+      "trip_id": "3_17699368",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "3",
@@ -10969,7 +10969,7 @@
       ]
     },
     {
-      "trip_id": "3_17595356",
+      "trip_id": "3_17699369",
       "direction_id": "0",
       "headsign": "Kwiska",
       "service_id": "3",
@@ -11229,7 +11229,7 @@
       ]
     },
     {
-      "trip_id": "3_17595357",
+      "trip_id": "3_17699370",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "3",
@@ -11444,7 +11444,7 @@
       ]
     },
     {
-      "trip_id": "3_17595358",
+      "trip_id": "3_17699371",
       "direction_id": "0",
       "headsign": "Kwiska",
       "service_id": "3",
@@ -11704,7 +11704,7 @@
       ]
     },
     {
-      "trip_id": "3_17595359",
+      "trip_id": "3_17699372",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "3",
@@ -11919,7 +11919,7 @@
       ]
     },
     {
-      "trip_id": "3_17595360",
+      "trip_id": "3_17699373",
       "direction_id": "0",
       "headsign": "Kwiska",
       "service_id": "3",
@@ -12179,7 +12179,7 @@
       ]
     },
     {
-      "trip_id": "3_17595361",
+      "trip_id": "3_17699374",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "3",
@@ -12394,7 +12394,7 @@
       ]
     },
     {
-      "trip_id": "3_17595362",
+      "trip_id": "3_17699375",
       "direction_id": "0",
       "headsign": "Kwiska",
       "service_id": "3",
@@ -12654,7 +12654,7 @@
       ]
     },
     {
-      "trip_id": "3_17595363",
+      "trip_id": "3_17699376",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "3",
@@ -12869,7 +12869,7 @@
       ]
     },
     {
-      "trip_id": "3_17595364",
+      "trip_id": "3_17699377",
       "direction_id": "0",
       "headsign": "Kwiska",
       "service_id": "3",
@@ -13129,7 +13129,7 @@
       ]
     },
     {
-      "trip_id": "3_17595365",
+      "trip_id": "3_17699378",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "3",
@@ -13344,7 +13344,7 @@
       ]
     },
     {
-      "trip_id": "3_17595366",
+      "trip_id": "3_17699379",
       "direction_id": "0",
       "headsign": "Kwiska",
       "service_id": "3",
@@ -13604,7 +13604,7 @@
       ]
     },
     {
-      "trip_id": "3_17595367",
+      "trip_id": "3_17699380",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "3",
@@ -13819,7 +13819,7 @@
       ]
     },
     {
-      "trip_id": "3_17595368",
+      "trip_id": "3_17699381",
       "direction_id": "0",
       "headsign": "Kwiska",
       "service_id": "3",
@@ -14079,7 +14079,7 @@
       ]
     },
     {
-      "trip_id": "3_17595369",
+      "trip_id": "3_17699382",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "3",
@@ -14294,7 +14294,7 @@
       ]
     },
     {
-      "trip_id": "3_17595370",
+      "trip_id": "3_17699383",
       "direction_id": "0",
       "headsign": "Kwiska",
       "service_id": "3",
@@ -14554,7 +14554,7 @@
       ]
     },
     {
-      "trip_id": "3_17595371",
+      "trip_id": "3_17699384",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "3",
@@ -14769,7 +14769,7 @@
       ]
     },
     {
-      "trip_id": "3_17595372",
+      "trip_id": "3_17699385",
       "direction_id": "0",
       "headsign": "Kwiska",
       "service_id": "3",
@@ -15029,7 +15029,7 @@
       ]
     },
     {
-      "trip_id": "3_17595373",
+      "trip_id": "3_17699386",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "3",
@@ -15244,7 +15244,7 @@
       ]
     },
     {
-      "trip_id": "3_17595374",
+      "trip_id": "3_17699387",
       "direction_id": "0",
       "headsign": "Kwiska",
       "service_id": "3",
@@ -15504,7 +15504,7 @@
       ]
     },
     {
-      "trip_id": "3_17595375",
+      "trip_id": "3_17699388",
       "direction_id": "1",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "3",
@@ -15566,7 +15566,7 @@
       ]
     },
     {
-      "trip_id": "3_17595400",
+      "trip_id": "3_17699413",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "3",
@@ -15781,7 +15781,7 @@
       ]
     },
     {
-      "trip_id": "3_17595401",
+      "trip_id": "3_17699414",
       "direction_id": "0",
       "headsign": "Kwiska",
       "service_id": "3",
@@ -16041,7 +16041,7 @@
       ]
     },
     {
-      "trip_id": "3_17595402",
+      "trip_id": "3_17699415",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "3",
@@ -16256,7 +16256,7 @@
       ]
     },
     {
-      "trip_id": "3_17595403",
+      "trip_id": "3_17699416",
       "direction_id": "0",
       "headsign": "Kwiska",
       "service_id": "3",
@@ -16516,7 +16516,7 @@
       ]
     },
     {
-      "trip_id": "3_17595404",
+      "trip_id": "3_17699417",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "3",
@@ -16731,7 +16731,7 @@
       ]
     },
     {
-      "trip_id": "3_17595405",
+      "trip_id": "3_17699418",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "3",
@@ -17018,7 +17018,7 @@
       ]
     },
     {
-      "trip_id": "3_17595442",
+      "trip_id": "3_17699455",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "3",
@@ -17233,7 +17233,7 @@
       ]
     },
     {
-      "trip_id": "3_17595443",
+      "trip_id": "3_17699456",
       "direction_id": "0",
       "headsign": "Kwiska",
       "service_id": "3",
@@ -17493,7 +17493,7 @@
       ]
     },
     {
-      "trip_id": "3_17595444",
+      "trip_id": "3_17699457",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "3",
@@ -17708,7 +17708,7 @@
       ]
     },
     {
-      "trip_id": "3_17595445",
+      "trip_id": "3_17699458",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "3",
@@ -17995,7 +17995,7 @@
       ]
     },
     {
-      "trip_id": "3_17595504",
+      "trip_id": "3_17699517",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "3",
@@ -18210,7 +18210,7 @@
       ]
     },
     {
-      "trip_id": "3_17595505",
+      "trip_id": "3_17699518",
       "direction_id": "0",
       "headsign": "Kwiska",
       "service_id": "3",
@@ -18470,7 +18470,7 @@
       ]
     },
     {
-      "trip_id": "3_17595506",
+      "trip_id": "3_17699519",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "3",
@@ -18685,7 +18685,7 @@
       ]
     },
     {
-      "trip_id": "3_17595507",
+      "trip_id": "3_17699520",
       "direction_id": "0",
       "headsign": "Kwiska",
       "service_id": "3",
@@ -18945,7 +18945,7 @@
       ]
     },
     {
-      "trip_id": "3_17595508",
+      "trip_id": "3_17699521",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "3",
@@ -19160,7 +19160,7 @@
       ]
     },
     {
-      "trip_id": "3_17595509",
+      "trip_id": "3_17699522",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "3",
@@ -19447,7 +19447,7 @@
       ]
     },
     {
-      "trip_id": "4_17599866",
+      "trip_id": "4_17703879",
       "direction_id": "0",
       "headsign": "Kwiska",
       "service_id": "4",
@@ -19518,7 +19518,7 @@
       ]
     },
     {
-      "trip_id": "4_17599867",
+      "trip_id": "4_17703880",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "4",
@@ -19733,7 +19733,7 @@
       ]
     },
     {
-      "trip_id": "4_17599868",
+      "trip_id": "4_17703881",
       "direction_id": "0",
       "headsign": "Kwiska",
       "service_id": "4",
@@ -19993,7 +19993,7 @@
       ]
     },
     {
-      "trip_id": "4_17599869",
+      "trip_id": "4_17703882",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "4",
@@ -20208,7 +20208,7 @@
       ]
     },
     {
-      "trip_id": "4_17599870",
+      "trip_id": "4_17703883",
       "direction_id": "0",
       "headsign": "Kwiska",
       "service_id": "4",
@@ -20468,7 +20468,7 @@
       ]
     },
     {
-      "trip_id": "4_17599871",
+      "trip_id": "4_17703884",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "4",
@@ -20683,7 +20683,7 @@
       ]
     },
     {
-      "trip_id": "4_17599872",
+      "trip_id": "4_17703885",
       "direction_id": "0",
       "headsign": "Kwiska",
       "service_id": "4",
@@ -20943,7 +20943,7 @@
       ]
     },
     {
-      "trip_id": "4_17599873",
+      "trip_id": "4_17703886",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "4",
@@ -21158,7 +21158,7 @@
       ]
     },
     {
-      "trip_id": "4_17599874",
+      "trip_id": "4_17703887",
       "direction_id": "0",
       "headsign": "Kwiska",
       "service_id": "4",
@@ -21418,7 +21418,7 @@
       ]
     },
     {
-      "trip_id": "4_17599875",
+      "trip_id": "4_17703888",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "4",
@@ -21633,7 +21633,7 @@
       ]
     },
     {
-      "trip_id": "4_17599876",
+      "trip_id": "4_17703889",
       "direction_id": "0",
       "headsign": "Kwiska",
       "service_id": "4",
@@ -21893,7 +21893,7 @@
       ]
     },
     {
-      "trip_id": "4_17599877",
+      "trip_id": "4_17703890",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "4",
@@ -22108,7 +22108,7 @@
       ]
     },
     {
-      "trip_id": "4_17599878",
+      "trip_id": "4_17703891",
       "direction_id": "0",
       "headsign": "Kwiska",
       "service_id": "4",
@@ -22368,7 +22368,7 @@
       ]
     },
     {
-      "trip_id": "4_17599879",
+      "trip_id": "4_17703892",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "4",
@@ -22583,7 +22583,7 @@
       ]
     },
     {
-      "trip_id": "4_17599880",
+      "trip_id": "4_17703893",
       "direction_id": "0",
       "headsign": "Kwiska",
       "service_id": "4",
@@ -22843,7 +22843,7 @@
       ]
     },
     {
-      "trip_id": "4_17599881",
+      "trip_id": "4_17703894",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "4",
@@ -23058,7 +23058,7 @@
       ]
     },
     {
-      "trip_id": "4_17599882",
+      "trip_id": "4_17703895",
       "direction_id": "0",
       "headsign": "Kwiska",
       "service_id": "4",
@@ -23318,7 +23318,7 @@
       ]
     },
     {
-      "trip_id": "4_17599883",
+      "trip_id": "4_17703896",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "4",
@@ -23533,7 +23533,7 @@
       ]
     },
     {
-      "trip_id": "4_17599884",
+      "trip_id": "4_17703897",
       "direction_id": "0",
       "headsign": "Kwiska",
       "service_id": "4",
@@ -23793,7 +23793,7 @@
       ]
     },
     {
-      "trip_id": "4_17599885",
+      "trip_id": "4_17703898",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "4",
@@ -24008,7 +24008,7 @@
       ]
     },
     {
-      "trip_id": "4_17599886",
+      "trip_id": "4_17703899",
       "direction_id": "0",
       "headsign": "Kwiska",
       "service_id": "4",
@@ -24268,7 +24268,7 @@
       ]
     },
     {
-      "trip_id": "4_17599887",
+      "trip_id": "4_17703900",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "4",
@@ -24483,7 +24483,7 @@
       ]
     },
     {
-      "trip_id": "4_17599888",
+      "trip_id": "4_17703901",
       "direction_id": "0",
       "headsign": "Kwiska",
       "service_id": "4",
@@ -24743,7 +24743,7 @@
       ]
     },
     {
-      "trip_id": "4_17599889",
+      "trip_id": "4_17703902",
       "direction_id": "1",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "4",
@@ -24805,7 +24805,7 @@
       ]
     },
     {
-      "trip_id": "4_17599890",
+      "trip_id": "4_17703903",
       "direction_id": "0",
       "headsign": "Kwiska",
       "service_id": "4",
@@ -24876,7 +24876,7 @@
       ]
     },
     {
-      "trip_id": "4_17599891",
+      "trip_id": "4_17703904",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "4",
@@ -25091,7 +25091,7 @@
       ]
     },
     {
-      "trip_id": "4_17599892",
+      "trip_id": "4_17703905",
       "direction_id": "0",
       "headsign": "Kwiska",
       "service_id": "4",
@@ -25351,7 +25351,7 @@
       ]
     },
     {
-      "trip_id": "4_17599893",
+      "trip_id": "4_17703906",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "4",
@@ -25566,7 +25566,7 @@
       ]
     },
     {
-      "trip_id": "4_17599894",
+      "trip_id": "4_17703907",
       "direction_id": "0",
       "headsign": "Kwiska",
       "service_id": "4",
@@ -25826,7 +25826,7 @@
       ]
     },
     {
-      "trip_id": "4_17599895",
+      "trip_id": "4_17703908",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "4",
@@ -26041,7 +26041,7 @@
       ]
     },
     {
-      "trip_id": "4_17599896",
+      "trip_id": "4_17703909",
       "direction_id": "0",
       "headsign": "Kwiska",
       "service_id": "4",
@@ -26301,7 +26301,7 @@
       ]
     },
     {
-      "trip_id": "4_17599897",
+      "trip_id": "4_17703910",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "4",
@@ -26516,7 +26516,7 @@
       ]
     },
     {
-      "trip_id": "4_17599898",
+      "trip_id": "4_17703911",
       "direction_id": "0",
       "headsign": "Kwiska",
       "service_id": "4",
@@ -26776,7 +26776,7 @@
       ]
     },
     {
-      "trip_id": "4_17599899",
+      "trip_id": "4_17703912",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "4",
@@ -26991,7 +26991,7 @@
       ]
     },
     {
-      "trip_id": "4_17599900",
+      "trip_id": "4_17703913",
       "direction_id": "0",
       "headsign": "Kwiska",
       "service_id": "4",
@@ -27251,7 +27251,7 @@
       ]
     },
     {
-      "trip_id": "4_17599901",
+      "trip_id": "4_17703914",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "4",
@@ -27466,7 +27466,7 @@
       ]
     },
     {
-      "trip_id": "4_17599902",
+      "trip_id": "4_17703915",
       "direction_id": "0",
       "headsign": "Kwiska",
       "service_id": "4",
@@ -27726,7 +27726,7 @@
       ]
     },
     {
-      "trip_id": "4_17599903",
+      "trip_id": "4_17703916",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "4",
@@ -27941,7 +27941,7 @@
       ]
     },
     {
-      "trip_id": "4_17599904",
+      "trip_id": "4_17703917",
       "direction_id": "0",
       "headsign": "Kwiska",
       "service_id": "4",
@@ -28201,7 +28201,7 @@
       ]
     },
     {
-      "trip_id": "4_17599905",
+      "trip_id": "4_17703918",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "4",
@@ -28416,7 +28416,7 @@
       ]
     },
     {
-      "trip_id": "4_17599906",
+      "trip_id": "4_17703919",
       "direction_id": "0",
       "headsign": "Kwiska",
       "service_id": "4",
@@ -28676,7 +28676,7 @@
       ]
     },
     {
-      "trip_id": "4_17599907",
+      "trip_id": "4_17703920",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "4",
@@ -28891,7 +28891,7 @@
       ]
     },
     {
-      "trip_id": "4_17599908",
+      "trip_id": "4_17703921",
       "direction_id": "0",
       "headsign": "Kwiska",
       "service_id": "4",
@@ -29151,7 +29151,7 @@
       ]
     },
     {
-      "trip_id": "4_17599909",
+      "trip_id": "4_17703922",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "4",
@@ -29366,7 +29366,7 @@
       ]
     },
     {
-      "trip_id": "4_17599910",
+      "trip_id": "4_17703923",
       "direction_id": "0",
       "headsign": "Kwiska",
       "service_id": "4",
@@ -29626,7 +29626,7 @@
       ]
     },
     {
-      "trip_id": "4_17599911",
+      "trip_id": "4_17703924",
       "direction_id": "1",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "4",
@@ -29688,7 +29688,7 @@
       ]
     },
     {
-      "trip_id": "4_17599912",
+      "trip_id": "4_17703925",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "4",
@@ -29939,7 +29939,7 @@
       ]
     },
     {
-      "trip_id": "4_17599913",
+      "trip_id": "4_17703926",
       "direction_id": "0",
       "headsign": "Kwiska",
       "service_id": "4",
@@ -30199,7 +30199,7 @@
       ]
     },
     {
-      "trip_id": "4_17599914",
+      "trip_id": "4_17703927",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "4",
@@ -30414,7 +30414,7 @@
       ]
     },
     {
-      "trip_id": "4_17599915",
+      "trip_id": "4_17703928",
       "direction_id": "0",
       "headsign": "Kwiska",
       "service_id": "4",
@@ -30674,7 +30674,7 @@
       ]
     },
     {
-      "trip_id": "4_17599916",
+      "trip_id": "4_17703929",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "4",
@@ -30889,7 +30889,7 @@
       ]
     },
     {
-      "trip_id": "4_17599917",
+      "trip_id": "4_17703930",
       "direction_id": "0",
       "headsign": "Kwiska",
       "service_id": "4",
@@ -31149,7 +31149,7 @@
       ]
     },
     {
-      "trip_id": "4_17599918",
+      "trip_id": "4_17703931",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "4",
@@ -31364,7 +31364,7 @@
       ]
     },
     {
-      "trip_id": "4_17599919",
+      "trip_id": "4_17703932",
       "direction_id": "0",
       "headsign": "Kwiska",
       "service_id": "4",
@@ -31624,7 +31624,7 @@
       ]
     },
     {
-      "trip_id": "4_17599920",
+      "trip_id": "4_17703933",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "4",
@@ -31839,7 +31839,7 @@
       ]
     },
     {
-      "trip_id": "4_17599921",
+      "trip_id": "4_17703934",
       "direction_id": "0",
       "headsign": "Kwiska",
       "service_id": "4",
@@ -32099,7 +32099,7 @@
       ]
     },
     {
-      "trip_id": "4_17599922",
+      "trip_id": "4_17703935",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "4",
@@ -32314,7 +32314,7 @@
       ]
     },
     {
-      "trip_id": "4_17599923",
+      "trip_id": "4_17703936",
       "direction_id": "0",
       "headsign": "Kwiska",
       "service_id": "4",
@@ -32574,7 +32574,7 @@
       ]
     },
     {
-      "trip_id": "4_17599924",
+      "trip_id": "4_17703937",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "4",
@@ -32789,7 +32789,7 @@
       ]
     },
     {
-      "trip_id": "4_17599925",
+      "trip_id": "4_17703938",
       "direction_id": "0",
       "headsign": "Kwiska",
       "service_id": "4",
@@ -33049,7 +33049,7 @@
       ]
     },
     {
-      "trip_id": "4_17599926",
+      "trip_id": "4_17703939",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "4",
@@ -33264,7 +33264,7 @@
       ]
     },
     {
-      "trip_id": "4_17599927",
+      "trip_id": "4_17703940",
       "direction_id": "0",
       "headsign": "Kwiska",
       "service_id": "4",
@@ -33524,7 +33524,7 @@
       ]
     },
     {
-      "trip_id": "4_17599928",
+      "trip_id": "4_17703941",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "4",
@@ -33739,7 +33739,7 @@
       ]
     },
     {
-      "trip_id": "4_17599929",
+      "trip_id": "4_17703942",
       "direction_id": "0",
       "headsign": "Kwiska",
       "service_id": "4",
@@ -33999,7 +33999,7 @@
       ]
     },
     {
-      "trip_id": "4_17599930",
+      "trip_id": "4_17703943",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "4",
@@ -34214,7 +34214,7 @@
       ]
     },
     {
-      "trip_id": "4_17599931",
+      "trip_id": "4_17703944",
       "direction_id": "0",
       "headsign": "Kwiska",
       "service_id": "4",
@@ -34474,7 +34474,7 @@
       ]
     },
     {
-      "trip_id": "4_17599932",
+      "trip_id": "4_17703945",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "4",
@@ -34689,7 +34689,7 @@
       ]
     },
     {
-      "trip_id": "4_17599933",
+      "trip_id": "4_17703946",
       "direction_id": "0",
       "headsign": "Kwiska",
       "service_id": "4",
@@ -34949,7 +34949,7 @@
       ]
     },
     {
-      "trip_id": "4_17599934",
+      "trip_id": "4_17703947",
       "direction_id": "1",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "4",
@@ -35011,7 +35011,7 @@
       ]
     },
     {
-      "trip_id": "4_17599959",
+      "trip_id": "4_17703972",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "4",
@@ -35226,7 +35226,7 @@
       ]
     },
     {
-      "trip_id": "4_17599960",
+      "trip_id": "4_17703973",
       "direction_id": "0",
       "headsign": "Kwiska",
       "service_id": "4",
@@ -35486,7 +35486,7 @@
       ]
     },
     {
-      "trip_id": "4_17599961",
+      "trip_id": "4_17703974",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "4",
@@ -35701,7 +35701,7 @@
       ]
     },
     {
-      "trip_id": "4_17599962",
+      "trip_id": "4_17703975",
       "direction_id": "0",
       "headsign": "Kwiska",
       "service_id": "4",
@@ -35961,7 +35961,7 @@
       ]
     },
     {
-      "trip_id": "4_17599963",
+      "trip_id": "4_17703976",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "4",
@@ -36176,7 +36176,7 @@
       ]
     },
     {
-      "trip_id": "4_17599964",
+      "trip_id": "4_17703977",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "4",
@@ -36463,7 +36463,7 @@
       ]
     },
     {
-      "trip_id": "4_17600001",
+      "trip_id": "4_17704014",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "4",
@@ -36678,7 +36678,7 @@
       ]
     },
     {
-      "trip_id": "4_17600002",
+      "trip_id": "4_17704015",
       "direction_id": "0",
       "headsign": "Kwiska",
       "service_id": "4",
@@ -36938,7 +36938,7 @@
       ]
     },
     {
-      "trip_id": "4_17600003",
+      "trip_id": "4_17704016",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "4",
@@ -37153,7 +37153,7 @@
       ]
     },
     {
-      "trip_id": "4_17600004",
+      "trip_id": "4_17704017",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "4",
@@ -37440,7 +37440,7 @@
       ]
     },
     {
-      "trip_id": "4_17600063",
+      "trip_id": "4_17704076",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "4",
@@ -37655,7 +37655,7 @@
       ]
     },
     {
-      "trip_id": "4_17600064",
+      "trip_id": "4_17704077",
       "direction_id": "0",
       "headsign": "Kwiska",
       "service_id": "4",
@@ -37915,7 +37915,7 @@
       ]
     },
     {
-      "trip_id": "4_17600065",
+      "trip_id": "4_17704078",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "4",
@@ -38130,7 +38130,7 @@
       ]
     },
     {
-      "trip_id": "4_17600066",
+      "trip_id": "4_17704079",
       "direction_id": "0",
       "headsign": "Kwiska",
       "service_id": "4",
@@ -38390,7 +38390,7 @@
       ]
     },
     {
-      "trip_id": "4_17600067",
+      "trip_id": "4_17704080",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "4",
@@ -38605,7 +38605,7 @@
       ]
     },
     {
-      "trip_id": "4_17600068",
+      "trip_id": "4_17704081",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "4",
@@ -38892,7 +38892,7 @@
       ]
     },
     {
-      "trip_id": "6_17604291",
+      "trip_id": "6_17708304",
       "direction_id": "0",
       "headsign": "Kwiska",
       "service_id": "6",
@@ -38963,7 +38963,7 @@
       ]
     },
     {
-      "trip_id": "6_17604292",
+      "trip_id": "6_17708305",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "6",
@@ -39178,7 +39178,7 @@
       ]
     },
     {
-      "trip_id": "6_17604293",
+      "trip_id": "6_17708306",
       "direction_id": "0",
       "headsign": "Kwiska",
       "service_id": "6",
@@ -39438,7 +39438,7 @@
       ]
     },
     {
-      "trip_id": "6_17604294",
+      "trip_id": "6_17708307",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "6",
@@ -39653,7 +39653,7 @@
       ]
     },
     {
-      "trip_id": "6_17604295",
+      "trip_id": "6_17708308",
       "direction_id": "0",
       "headsign": "Kwiska",
       "service_id": "6",
@@ -39913,7 +39913,7 @@
       ]
     },
     {
-      "trip_id": "6_17604296",
+      "trip_id": "6_17708309",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "6",
@@ -40128,7 +40128,7 @@
       ]
     },
     {
-      "trip_id": "6_17604297",
+      "trip_id": "6_17708310",
       "direction_id": "0",
       "headsign": "Kwiska",
       "service_id": "6",
@@ -40388,7 +40388,7 @@
       ]
     },
     {
-      "trip_id": "6_17604298",
+      "trip_id": "6_17708311",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "6",
@@ -40603,7 +40603,7 @@
       ]
     },
     {
-      "trip_id": "6_17604299",
+      "trip_id": "6_17708312",
       "direction_id": "0",
       "headsign": "Kwiska",
       "service_id": "6",
@@ -40863,7 +40863,7 @@
       ]
     },
     {
-      "trip_id": "6_17604300",
+      "trip_id": "6_17708313",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "6",
@@ -41078,7 +41078,7 @@
       ]
     },
     {
-      "trip_id": "6_17604301",
+      "trip_id": "6_17708314",
       "direction_id": "0",
       "headsign": "Kwiska",
       "service_id": "6",
@@ -41338,7 +41338,7 @@
       ]
     },
     {
-      "trip_id": "6_17604302",
+      "trip_id": "6_17708315",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "6",
@@ -41553,7 +41553,7 @@
       ]
     },
     {
-      "trip_id": "6_17604303",
+      "trip_id": "6_17708316",
       "direction_id": "0",
       "headsign": "Kwiska",
       "service_id": "6",
@@ -41813,7 +41813,7 @@
       ]
     },
     {
-      "trip_id": "6_17604304",
+      "trip_id": "6_17708317",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "6",
@@ -42028,7 +42028,7 @@
       ]
     },
     {
-      "trip_id": "6_17604305",
+      "trip_id": "6_17708318",
       "direction_id": "0",
       "headsign": "Kwiska",
       "service_id": "6",
@@ -42288,7 +42288,7 @@
       ]
     },
     {
-      "trip_id": "6_17604306",
+      "trip_id": "6_17708319",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "6",
@@ -42503,7 +42503,7 @@
       ]
     },
     {
-      "trip_id": "6_17604307",
+      "trip_id": "6_17708320",
       "direction_id": "0",
       "headsign": "Kwiska",
       "service_id": "6",
@@ -42763,7 +42763,7 @@
       ]
     },
     {
-      "trip_id": "6_17604308",
+      "trip_id": "6_17708321",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "6",
@@ -42978,7 +42978,7 @@
       ]
     },
     {
-      "trip_id": "6_17604309",
+      "trip_id": "6_17708322",
       "direction_id": "0",
       "headsign": "Kwiska",
       "service_id": "6",
@@ -43238,7 +43238,7 @@
       ]
     },
     {
-      "trip_id": "6_17604310",
+      "trip_id": "6_17708323",
       "direction_id": "1",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "6",
@@ -43300,7 +43300,7 @@
       ]
     },
     {
-      "trip_id": "6_17604311",
+      "trip_id": "6_17708324",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "6",
@@ -43551,7 +43551,7 @@
       ]
     },
     {
-      "trip_id": "6_17604312",
+      "trip_id": "6_17708325",
       "direction_id": "0",
       "headsign": "Kwiska",
       "service_id": "6",
@@ -43811,7 +43811,7 @@
       ]
     },
     {
-      "trip_id": "6_17604313",
+      "trip_id": "6_17708326",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "6",
@@ -44026,7 +44026,7 @@
       ]
     },
     {
-      "trip_id": "6_17604314",
+      "trip_id": "6_17708327",
       "direction_id": "0",
       "headsign": "Kwiska",
       "service_id": "6",
@@ -44286,7 +44286,7 @@
       ]
     },
     {
-      "trip_id": "6_17604315",
+      "trip_id": "6_17708328",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "6",
@@ -44501,7 +44501,7 @@
       ]
     },
     {
-      "trip_id": "6_17604316",
+      "trip_id": "6_17708329",
       "direction_id": "0",
       "headsign": "Kwiska",
       "service_id": "6",
@@ -44761,7 +44761,7 @@
       ]
     },
     {
-      "trip_id": "6_17604317",
+      "trip_id": "6_17708330",
       "direction_id": "1",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "6",
@@ -44823,7 +44823,7 @@
       ]
     },
     {
-      "trip_id": "6_17604318",
+      "trip_id": "6_17708331",
       "direction_id": "0",
       "headsign": "Kwiska",
       "service_id": "6",
@@ -44894,7 +44894,7 @@
       ]
     },
     {
-      "trip_id": "6_17604319",
+      "trip_id": "6_17708332",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "6",
@@ -45109,7 +45109,7 @@
       ]
     },
     {
-      "trip_id": "6_17604320",
+      "trip_id": "6_17708333",
       "direction_id": "0",
       "headsign": "Kwiska",
       "service_id": "6",
@@ -45369,7 +45369,7 @@
       ]
     },
     {
-      "trip_id": "6_17604321",
+      "trip_id": "6_17708334",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "6",
@@ -45584,7 +45584,7 @@
       ]
     },
     {
-      "trip_id": "6_17604322",
+      "trip_id": "6_17708335",
       "direction_id": "0",
       "headsign": "Kwiska",
       "service_id": "6",
@@ -45844,7 +45844,7 @@
       ]
     },
     {
-      "trip_id": "6_17604323",
+      "trip_id": "6_17708336",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "6",
@@ -46059,7 +46059,7 @@
       ]
     },
     {
-      "trip_id": "6_17604324",
+      "trip_id": "6_17708337",
       "direction_id": "0",
       "headsign": "Kwiska",
       "service_id": "6",
@@ -46319,7 +46319,7 @@
       ]
     },
     {
-      "trip_id": "6_17604325",
+      "trip_id": "6_17708338",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "6",
@@ -46534,7 +46534,7 @@
       ]
     },
     {
-      "trip_id": "6_17604326",
+      "trip_id": "6_17708339",
       "direction_id": "0",
       "headsign": "Kwiska",
       "service_id": "6",
@@ -46794,7 +46794,7 @@
       ]
     },
     {
-      "trip_id": "6_17604327",
+      "trip_id": "6_17708340",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "6",
@@ -47009,7 +47009,7 @@
       ]
     },
     {
-      "trip_id": "6_17604328",
+      "trip_id": "6_17708341",
       "direction_id": "0",
       "headsign": "Kwiska",
       "service_id": "6",
@@ -47269,7 +47269,7 @@
       ]
     },
     {
-      "trip_id": "6_17604329",
+      "trip_id": "6_17708342",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "6",
@@ -47484,7 +47484,7 @@
       ]
     },
     {
-      "trip_id": "6_17604330",
+      "trip_id": "6_17708343",
       "direction_id": "0",
       "headsign": "Kwiska",
       "service_id": "6",
@@ -47744,7 +47744,7 @@
       ]
     },
     {
-      "trip_id": "6_17604331",
+      "trip_id": "6_17708344",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "6",
@@ -47959,7 +47959,7 @@
       ]
     },
     {
-      "trip_id": "6_17604332",
+      "trip_id": "6_17708345",
       "direction_id": "0",
       "headsign": "Kwiska",
       "service_id": "6",
@@ -48219,7 +48219,7 @@
       ]
     },
     {
-      "trip_id": "6_17604333",
+      "trip_id": "6_17708346",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "6",
@@ -48434,7 +48434,7 @@
       ]
     },
     {
-      "trip_id": "6_17604334",
+      "trip_id": "6_17708347",
       "direction_id": "0",
       "headsign": "Kwiska",
       "service_id": "6",
@@ -48694,7 +48694,7 @@
       ]
     },
     {
-      "trip_id": "6_17604335",
+      "trip_id": "6_17708348",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "6",
@@ -48909,7 +48909,7 @@
       ]
     },
     {
-      "trip_id": "6_17604336",
+      "trip_id": "6_17708349",
       "direction_id": "0",
       "headsign": "Kwiska",
       "service_id": "6",
@@ -49169,7 +49169,7 @@
       ]
     },
     {
-      "trip_id": "6_17604337",
+      "trip_id": "6_17708350",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "6",
@@ -49384,7 +49384,7 @@
       ]
     },
     {
-      "trip_id": "6_17604338",
+      "trip_id": "6_17708351",
       "direction_id": "0",
       "headsign": "Kwiska",
       "service_id": "6",
@@ -49644,7 +49644,7 @@
       ]
     },
     {
-      "trip_id": "6_17604339",
+      "trip_id": "6_17708352",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "6",
@@ -49859,7 +49859,7 @@
       ]
     },
     {
-      "trip_id": "6_17604340",
+      "trip_id": "6_17708353",
       "direction_id": "0",
       "headsign": "Kwiska",
       "service_id": "6",
@@ -50119,7 +50119,7 @@
       ]
     },
     {
-      "trip_id": "6_17604341",
+      "trip_id": "6_17708354",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "6",
@@ -50334,7 +50334,7 @@
       ]
     },
     {
-      "trip_id": "6_17604342",
+      "trip_id": "6_17708355",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "6",
@@ -50621,7 +50621,7 @@
       ]
     },
     {
-      "trip_id": "6_17604343",
+      "trip_id": "6_17708356",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "6",
@@ -50872,7 +50872,7 @@
       ]
     },
     {
-      "trip_id": "6_17604344",
+      "trip_id": "6_17708357",
       "direction_id": "0",
       "headsign": "Kwiska",
       "service_id": "6",
@@ -51132,7 +51132,7 @@
       ]
     },
     {
-      "trip_id": "6_17604345",
+      "trip_id": "6_17708358",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "6",
@@ -51347,7 +51347,7 @@
       ]
     },
     {
-      "trip_id": "6_17604346",
+      "trip_id": "6_17708359",
       "direction_id": "0",
       "headsign": "Kwiska",
       "service_id": "6",
@@ -51607,7 +51607,7 @@
       ]
     },
     {
-      "trip_id": "6_17604347",
+      "trip_id": "6_17708360",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "6",
@@ -51822,7 +51822,7 @@
       ]
     },
     {
-      "trip_id": "6_17604348",
+      "trip_id": "6_17708361",
       "direction_id": "0",
       "headsign": "Kwiska",
       "service_id": "6",
@@ -52082,7 +52082,7 @@
       ]
     },
     {
-      "trip_id": "6_17604349",
+      "trip_id": "6_17708362",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "6",
@@ -52297,7 +52297,7 @@
       ]
     },
     {
-      "trip_id": "6_17604350",
+      "trip_id": "6_17708363",
       "direction_id": "0",
       "headsign": "Kwiska",
       "service_id": "6",
@@ -52557,7 +52557,7 @@
       ]
     },
     {
-      "trip_id": "6_17604351",
+      "trip_id": "6_17708364",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "6",
@@ -52772,7 +52772,7 @@
       ]
     },
     {
-      "trip_id": "6_17604352",
+      "trip_id": "6_17708365",
       "direction_id": "0",
       "headsign": "Kwiska",
       "service_id": "6",
@@ -53032,7 +53032,7 @@
       ]
     },
     {
-      "trip_id": "6_17604353",
+      "trip_id": "6_17708366",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "6",
@@ -53247,7 +53247,7 @@
       ]
     },
     {
-      "trip_id": "6_17604354",
+      "trip_id": "6_17708367",
       "direction_id": "0",
       "headsign": "Kwiska",
       "service_id": "6",
@@ -53507,7 +53507,7 @@
       ]
     },
     {
-      "trip_id": "6_17604355",
+      "trip_id": "6_17708368",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "6",
@@ -53722,7 +53722,7 @@
       ]
     },
     {
-      "trip_id": "6_17604356",
+      "trip_id": "6_17708369",
       "direction_id": "0",
       "headsign": "Kwiska",
       "service_id": "6",
@@ -53982,7 +53982,7 @@
       ]
     },
     {
-      "trip_id": "6_17604357",
+      "trip_id": "6_17708370",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "6",
@@ -54197,7 +54197,7 @@
       ]
     },
     {
-      "trip_id": "6_17604358",
+      "trip_id": "6_17708371",
       "direction_id": "0",
       "headsign": "Kwiska",
       "service_id": "6",
@@ -54457,7 +54457,7 @@
       ]
     },
     {
-      "trip_id": "6_17604359",
+      "trip_id": "6_17708372",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "6",
@@ -54672,7 +54672,7 @@
       ]
     },
     {
-      "trip_id": "6_17604360",
+      "trip_id": "6_17708373",
       "direction_id": "0",
       "headsign": "Kwiska",
       "service_id": "6",
@@ -54932,7 +54932,7 @@
       ]
     },
     {
-      "trip_id": "6_17604361",
+      "trip_id": "6_17708374",
       "direction_id": "1",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "6",
@@ -54994,7 +54994,7 @@
       ]
     },
     {
-      "trip_id": "6_17604362",
+      "trip_id": "6_17708375",
       "direction_id": "0",
       "headsign": "Kwiska",
       "service_id": "6",
@@ -55065,7 +55065,7 @@
       ]
     },
     {
-      "trip_id": "6_17604363",
+      "trip_id": "6_17708376",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "6",
@@ -55280,7 +55280,7 @@
       ]
     },
     {
-      "trip_id": "6_17604364",
+      "trip_id": "6_17708377",
       "direction_id": "0",
       "headsign": "Kwiska",
       "service_id": "6",
@@ -55540,7 +55540,7 @@
       ]
     },
     {
-      "trip_id": "6_17604365",
+      "trip_id": "6_17708378",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "6",
@@ -55755,7 +55755,7 @@
       ]
     },
     {
-      "trip_id": "6_17604366",
+      "trip_id": "6_17708379",
       "direction_id": "0",
       "headsign": "Kwiska",
       "service_id": "6",
@@ -56015,7 +56015,7 @@
       ]
     },
     {
-      "trip_id": "6_17604367",
+      "trip_id": "6_17708380",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "6",
@@ -56230,7 +56230,7 @@
       ]
     },
     {
-      "trip_id": "6_17604368",
+      "trip_id": "6_17708381",
       "direction_id": "0",
       "headsign": "Kwiska",
       "service_id": "6",
@@ -56490,7 +56490,7 @@
       ]
     },
     {
-      "trip_id": "6_17604369",
+      "trip_id": "6_17708382",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "6",
@@ -56705,7 +56705,7 @@
       ]
     },
     {
-      "trip_id": "6_17604370",
+      "trip_id": "6_17708383",
       "direction_id": "0",
       "headsign": "Kwiska",
       "service_id": "6",
@@ -56965,7 +56965,7 @@
       ]
     },
     {
-      "trip_id": "6_17604371",
+      "trip_id": "6_17708384",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "6",
@@ -57180,7 +57180,7 @@
       ]
     },
     {
-      "trip_id": "6_17604372",
+      "trip_id": "6_17708385",
       "direction_id": "0",
       "headsign": "Kwiska",
       "service_id": "6",
@@ -57440,7 +57440,7 @@
       ]
     },
     {
-      "trip_id": "6_17604373",
+      "trip_id": "6_17708386",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "6",
@@ -57655,7 +57655,7 @@
       ]
     },
     {
-      "trip_id": "6_17604374",
+      "trip_id": "6_17708387",
       "direction_id": "0",
       "headsign": "Kwiska",
       "service_id": "6",
@@ -57915,7 +57915,7 @@
       ]
     },
     {
-      "trip_id": "6_17604375",
+      "trip_id": "6_17708388",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "6",
@@ -58130,7 +58130,7 @@
       ]
     },
     {
-      "trip_id": "6_17604376",
+      "trip_id": "6_17708389",
       "direction_id": "0",
       "headsign": "Kwiska",
       "service_id": "6",
@@ -58390,7 +58390,7 @@
       ]
     },
     {
-      "trip_id": "6_17604377",
+      "trip_id": "6_17708390",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "6",
@@ -58605,7 +58605,7 @@
       ]
     },
     {
-      "trip_id": "6_17604378",
+      "trip_id": "6_17708391",
       "direction_id": "0",
       "headsign": "Kwiska",
       "service_id": "6",
@@ -58865,7 +58865,7 @@
       ]
     },
     {
-      "trip_id": "6_17604379",
+      "trip_id": "6_17708392",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "6",
@@ -59080,7 +59080,7 @@
       ]
     },
     {
-      "trip_id": "6_17604380",
+      "trip_id": "6_17708393",
       "direction_id": "0",
       "headsign": "Kwiska",
       "service_id": "6",
@@ -59340,7 +59340,7 @@
       ]
     },
     {
-      "trip_id": "6_17604381",
+      "trip_id": "6_17708394",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "6",
@@ -59555,7 +59555,7 @@
       ]
     },
     {
-      "trip_id": "6_17604382",
+      "trip_id": "6_17708395",
       "direction_id": "0",
       "headsign": "Kwiska",
       "service_id": "6",
@@ -59815,7 +59815,7 @@
       ]
     },
     {
-      "trip_id": "6_17604383",
+      "trip_id": "6_17708396",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "6",
@@ -60030,7 +60030,7 @@
       ]
     },
     {
-      "trip_id": "6_17604384",
+      "trip_id": "6_17708397",
       "direction_id": "0",
       "headsign": "Kwiska",
       "service_id": "6",
@@ -60290,7 +60290,7 @@
       ]
     },
     {
-      "trip_id": "6_17604385",
+      "trip_id": "6_17708398",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "6",
@@ -60505,7 +60505,7 @@
       ]
     },
     {
-      "trip_id": "6_17604386",
+      "trip_id": "6_17708399",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "6",
@@ -60792,7 +60792,7 @@
       ]
     },
     {
-      "trip_id": "6_17604387",
+      "trip_id": "6_17708400",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "6",
@@ -61043,7 +61043,7 @@
       ]
     },
     {
-      "trip_id": "6_17604388",
+      "trip_id": "6_17708401",
       "direction_id": "0",
       "headsign": "Kwiska",
       "service_id": "6",
@@ -61303,7 +61303,7 @@
       ]
     },
     {
-      "trip_id": "6_17604389",
+      "trip_id": "6_17708402",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "6",
@@ -61518,7 +61518,7 @@
       ]
     },
     {
-      "trip_id": "6_17604390",
+      "trip_id": "6_17708403",
       "direction_id": "0",
       "headsign": "Kwiska",
       "service_id": "6",
@@ -61778,7 +61778,7 @@
       ]
     },
     {
-      "trip_id": "6_17604391",
+      "trip_id": "6_17708404",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "6",
@@ -61993,7 +61993,7 @@
       ]
     },
     {
-      "trip_id": "6_17604392",
+      "trip_id": "6_17708405",
       "direction_id": "0",
       "headsign": "Kwiska",
       "service_id": "6",
@@ -62253,7 +62253,7 @@
       ]
     },
     {
-      "trip_id": "6_17604393",
+      "trip_id": "6_17708406",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "6",
@@ -62468,7 +62468,7 @@
       ]
     },
     {
-      "trip_id": "6_17604394",
+      "trip_id": "6_17708407",
       "direction_id": "0",
       "headsign": "Kwiska",
       "service_id": "6",
@@ -62728,7 +62728,7 @@
       ]
     },
     {
-      "trip_id": "6_17604395",
+      "trip_id": "6_17708408",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "6",
@@ -62943,7 +62943,7 @@
       ]
     },
     {
-      "trip_id": "6_17604396",
+      "trip_id": "6_17708409",
       "direction_id": "0",
       "headsign": "Kwiska",
       "service_id": "6",
@@ -63203,7 +63203,7 @@
       ]
     },
     {
-      "trip_id": "6_17604397",
+      "trip_id": "6_17708410",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "6",
@@ -63418,7 +63418,7 @@
       ]
     },
     {
-      "trip_id": "6_17604398",
+      "trip_id": "6_17708411",
       "direction_id": "0",
       "headsign": "Kwiska",
       "service_id": "6",
@@ -63678,7 +63678,7 @@
       ]
     },
     {
-      "trip_id": "6_17604399",
+      "trip_id": "6_17708412",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "6",
@@ -63893,7 +63893,7 @@
       ]
     },
     {
-      "trip_id": "6_17604400",
+      "trip_id": "6_17708413",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "6",
@@ -64180,7 +64180,7 @@
       ]
     },
     {
-      "trip_id": "6_17604401",
+      "trip_id": "6_17708414",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "6",
@@ -64431,7 +64431,7 @@
       ]
     },
     {
-      "trip_id": "6_17604402",
+      "trip_id": "6_17708415",
       "direction_id": "0",
       "headsign": "Kwiska",
       "service_id": "6",
@@ -64691,7 +64691,7 @@
       ]
     },
     {
-      "trip_id": "6_17604403",
+      "trip_id": "6_17708416",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "6",
@@ -64906,7 +64906,7 @@
       ]
     },
     {
-      "trip_id": "6_17604404",
+      "trip_id": "6_17708417",
       "direction_id": "0",
       "headsign": "Kwiska",
       "service_id": "6",
@@ -65166,7 +65166,7 @@
       ]
     },
     {
-      "trip_id": "6_17604405",
+      "trip_id": "6_17708418",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "6",
@@ -65381,7 +65381,7 @@
       ]
     },
     {
-      "trip_id": "6_17604406",
+      "trip_id": "6_17708419",
       "direction_id": "0",
       "headsign": "Kwiska",
       "service_id": "6",
@@ -65641,7 +65641,7 @@
       ]
     },
     {
-      "trip_id": "6_17604407",
+      "trip_id": "6_17708420",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "6",
@@ -65856,7 +65856,7 @@
       ]
     },
     {
-      "trip_id": "6_17604408",
+      "trip_id": "6_17708421",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "6",
@@ -66143,7 +66143,7 @@
       ]
     },
     {
-      "trip_id": "8_17611117",
+      "trip_id": "8_17715130",
       "direction_id": "0",
       "headsign": "Kwiska",
       "service_id": "8",
@@ -66214,7 +66214,7 @@
       ]
     },
     {
-      "trip_id": "8_17611118",
+      "trip_id": "8_17715131",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "8",
@@ -66429,7 +66429,7 @@
       ]
     },
     {
-      "trip_id": "8_17611119",
+      "trip_id": "8_17715132",
       "direction_id": "0",
       "headsign": "Kwiska",
       "service_id": "8",
@@ -66689,7 +66689,7 @@
       ]
     },
     {
-      "trip_id": "8_17611120",
+      "trip_id": "8_17715133",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "8",
@@ -66904,7 +66904,7 @@
       ]
     },
     {
-      "trip_id": "8_17611121",
+      "trip_id": "8_17715134",
       "direction_id": "0",
       "headsign": "Kwiska",
       "service_id": "8",
@@ -67164,7 +67164,7 @@
       ]
     },
     {
-      "trip_id": "8_17611122",
+      "trip_id": "8_17715135",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "8",
@@ -67379,7 +67379,7 @@
       ]
     },
     {
-      "trip_id": "8_17611123",
+      "trip_id": "8_17715136",
       "direction_id": "0",
       "headsign": "Kwiska",
       "service_id": "8",
@@ -67639,7 +67639,7 @@
       ]
     },
     {
-      "trip_id": "8_17611124",
+      "trip_id": "8_17715137",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "8",
@@ -67854,7 +67854,7 @@
       ]
     },
     {
-      "trip_id": "8_17611125",
+      "trip_id": "8_17715138",
       "direction_id": "0",
       "headsign": "Kwiska",
       "service_id": "8",
@@ -68114,7 +68114,7 @@
       ]
     },
     {
-      "trip_id": "8_17611126",
+      "trip_id": "8_17715139",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "8",
@@ -68329,7 +68329,7 @@
       ]
     },
     {
-      "trip_id": "8_17611127",
+      "trip_id": "8_17715140",
       "direction_id": "0",
       "headsign": "Kwiska",
       "service_id": "8",
@@ -68589,7 +68589,7 @@
       ]
     },
     {
-      "trip_id": "8_17611128",
+      "trip_id": "8_17715141",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "8",
@@ -68804,7 +68804,7 @@
       ]
     },
     {
-      "trip_id": "8_17611129",
+      "trip_id": "8_17715142",
       "direction_id": "0",
       "headsign": "Kwiska",
       "service_id": "8",
@@ -69064,7 +69064,7 @@
       ]
     },
     {
-      "trip_id": "8_17611130",
+      "trip_id": "8_17715143",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "8",
@@ -69279,7 +69279,7 @@
       ]
     },
     {
-      "trip_id": "8_17611131",
+      "trip_id": "8_17715144",
       "direction_id": "0",
       "headsign": "Kwiska",
       "service_id": "8",
@@ -69539,7 +69539,7 @@
       ]
     },
     {
-      "trip_id": "8_17611132",
+      "trip_id": "8_17715145",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "8",
@@ -69754,7 +69754,7 @@
       ]
     },
     {
-      "trip_id": "8_17611133",
+      "trip_id": "8_17715146",
       "direction_id": "0",
       "headsign": "Kwiska",
       "service_id": "8",
@@ -70014,7 +70014,7 @@
       ]
     },
     {
-      "trip_id": "8_17611134",
+      "trip_id": "8_17715147",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "8",
@@ -70229,7 +70229,7 @@
       ]
     },
     {
-      "trip_id": "8_17611135",
+      "trip_id": "8_17715148",
       "direction_id": "0",
       "headsign": "Kwiska",
       "service_id": "8",
@@ -70489,7 +70489,7 @@
       ]
     },
     {
-      "trip_id": "8_17611136",
+      "trip_id": "8_17715149",
       "direction_id": "1",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "8",
@@ -70551,7 +70551,7 @@
       ]
     },
     {
-      "trip_id": "8_17611137",
+      "trip_id": "8_17715150",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "8",
@@ -70802,7 +70802,7 @@
       ]
     },
     {
-      "trip_id": "8_17611138",
+      "trip_id": "8_17715151",
       "direction_id": "0",
       "headsign": "Kwiska",
       "service_id": "8",
@@ -71062,7 +71062,7 @@
       ]
     },
     {
-      "trip_id": "8_17611139",
+      "trip_id": "8_17715152",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "8",
@@ -71277,7 +71277,7 @@
       ]
     },
     {
-      "trip_id": "8_17611140",
+      "trip_id": "8_17715153",
       "direction_id": "0",
       "headsign": "Kwiska",
       "service_id": "8",
@@ -71537,7 +71537,7 @@
       ]
     },
     {
-      "trip_id": "8_17611141",
+      "trip_id": "8_17715154",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "8",
@@ -71752,7 +71752,7 @@
       ]
     },
     {
-      "trip_id": "8_17611142",
+      "trip_id": "8_17715155",
       "direction_id": "0",
       "headsign": "Kwiska",
       "service_id": "8",
@@ -72012,7 +72012,7 @@
       ]
     },
     {
-      "trip_id": "8_17611143",
+      "trip_id": "8_17715156",
       "direction_id": "1",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "8",
@@ -72074,7 +72074,7 @@
       ]
     },
     {
-      "trip_id": "8_17611144",
+      "trip_id": "8_17715157",
       "direction_id": "0",
       "headsign": "Kwiska",
       "service_id": "8",
@@ -72145,7 +72145,7 @@
       ]
     },
     {
-      "trip_id": "8_17611145",
+      "trip_id": "8_17715158",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "8",
@@ -72360,7 +72360,7 @@
       ]
     },
     {
-      "trip_id": "8_17611146",
+      "trip_id": "8_17715159",
       "direction_id": "0",
       "headsign": "Kwiska",
       "service_id": "8",
@@ -72620,7 +72620,7 @@
       ]
     },
     {
-      "trip_id": "8_17611147",
+      "trip_id": "8_17715160",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "8",
@@ -72835,7 +72835,7 @@
       ]
     },
     {
-      "trip_id": "8_17611148",
+      "trip_id": "8_17715161",
       "direction_id": "0",
       "headsign": "Kwiska",
       "service_id": "8",
@@ -73095,7 +73095,7 @@
       ]
     },
     {
-      "trip_id": "8_17611149",
+      "trip_id": "8_17715162",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "8",
@@ -73310,7 +73310,7 @@
       ]
     },
     {
-      "trip_id": "8_17611150",
+      "trip_id": "8_17715163",
       "direction_id": "0",
       "headsign": "Kwiska",
       "service_id": "8",
@@ -73570,7 +73570,7 @@
       ]
     },
     {
-      "trip_id": "8_17611151",
+      "trip_id": "8_17715164",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "8",
@@ -73785,7 +73785,7 @@
       ]
     },
     {
-      "trip_id": "8_17611152",
+      "trip_id": "8_17715165",
       "direction_id": "0",
       "headsign": "Kwiska",
       "service_id": "8",
@@ -74045,7 +74045,7 @@
       ]
     },
     {
-      "trip_id": "8_17611153",
+      "trip_id": "8_17715166",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "8",
@@ -74260,7 +74260,7 @@
       ]
     },
     {
-      "trip_id": "8_17611154",
+      "trip_id": "8_17715167",
       "direction_id": "0",
       "headsign": "Kwiska",
       "service_id": "8",
@@ -74520,7 +74520,7 @@
       ]
     },
     {
-      "trip_id": "8_17611155",
+      "trip_id": "8_17715168",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "8",
@@ -74735,7 +74735,7 @@
       ]
     },
     {
-      "trip_id": "8_17611156",
+      "trip_id": "8_17715169",
       "direction_id": "0",
       "headsign": "Kwiska",
       "service_id": "8",
@@ -74995,7 +74995,7 @@
       ]
     },
     {
-      "trip_id": "8_17611157",
+      "trip_id": "8_17715170",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "8",
@@ -75210,7 +75210,7 @@
       ]
     },
     {
-      "trip_id": "8_17611158",
+      "trip_id": "8_17715171",
       "direction_id": "0",
       "headsign": "Kwiska",
       "service_id": "8",
@@ -75470,7 +75470,7 @@
       ]
     },
     {
-      "trip_id": "8_17611159",
+      "trip_id": "8_17715172",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "8",
@@ -75685,7 +75685,7 @@
       ]
     },
     {
-      "trip_id": "8_17611160",
+      "trip_id": "8_17715173",
       "direction_id": "0",
       "headsign": "Kwiska",
       "service_id": "8",
@@ -75945,7 +75945,7 @@
       ]
     },
     {
-      "trip_id": "8_17611161",
+      "trip_id": "8_17715174",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "8",
@@ -76160,7 +76160,7 @@
       ]
     },
     {
-      "trip_id": "8_17611162",
+      "trip_id": "8_17715175",
       "direction_id": "0",
       "headsign": "Kwiska",
       "service_id": "8",
@@ -76420,7 +76420,7 @@
       ]
     },
     {
-      "trip_id": "8_17611163",
+      "trip_id": "8_17715176",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "8",
@@ -76635,7 +76635,7 @@
       ]
     },
     {
-      "trip_id": "8_17611164",
+      "trip_id": "8_17715177",
       "direction_id": "0",
       "headsign": "Kwiska",
       "service_id": "8",
@@ -76895,7 +76895,7 @@
       ]
     },
     {
-      "trip_id": "8_17611165",
+      "trip_id": "8_17715178",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "8",
@@ -77110,7 +77110,7 @@
       ]
     },
     {
-      "trip_id": "8_17611166",
+      "trip_id": "8_17715179",
       "direction_id": "0",
       "headsign": "Kwiska",
       "service_id": "8",
@@ -77370,7 +77370,7 @@
       ]
     },
     {
-      "trip_id": "8_17611167",
+      "trip_id": "8_17715180",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "8",
@@ -77585,7 +77585,7 @@
       ]
     },
     {
-      "trip_id": "8_17611168",
+      "trip_id": "8_17715181",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "8",
@@ -77872,7 +77872,7 @@
       ]
     },
     {
-      "trip_id": "8_17611169",
+      "trip_id": "8_17715182",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "8",
@@ -78123,7 +78123,7 @@
       ]
     },
     {
-      "trip_id": "8_17611170",
+      "trip_id": "8_17715183",
       "direction_id": "0",
       "headsign": "Kwiska",
       "service_id": "8",
@@ -78383,7 +78383,7 @@
       ]
     },
     {
-      "trip_id": "8_17611171",
+      "trip_id": "8_17715184",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "8",
@@ -78598,7 +78598,7 @@
       ]
     },
     {
-      "trip_id": "8_17611172",
+      "trip_id": "8_17715185",
       "direction_id": "0",
       "headsign": "Kwiska",
       "service_id": "8",
@@ -78858,7 +78858,7 @@
       ]
     },
     {
-      "trip_id": "8_17611173",
+      "trip_id": "8_17715186",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "8",
@@ -79073,7 +79073,7 @@
       ]
     },
     {
-      "trip_id": "8_17611174",
+      "trip_id": "8_17715187",
       "direction_id": "0",
       "headsign": "Kwiska",
       "service_id": "8",
@@ -79333,7 +79333,7 @@
       ]
     },
     {
-      "trip_id": "8_17611175",
+      "trip_id": "8_17715188",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "8",
@@ -79548,7 +79548,7 @@
       ]
     },
     {
-      "trip_id": "8_17611176",
+      "trip_id": "8_17715189",
       "direction_id": "0",
       "headsign": "Kwiska",
       "service_id": "8",
@@ -79808,7 +79808,7 @@
       ]
     },
     {
-      "trip_id": "8_17611177",
+      "trip_id": "8_17715190",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "8",
@@ -80023,7 +80023,7 @@
       ]
     },
     {
-      "trip_id": "8_17611178",
+      "trip_id": "8_17715191",
       "direction_id": "0",
       "headsign": "Kwiska",
       "service_id": "8",
@@ -80283,7 +80283,7 @@
       ]
     },
     {
-      "trip_id": "8_17611179",
+      "trip_id": "8_17715192",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "8",
@@ -80498,7 +80498,7 @@
       ]
     },
     {
-      "trip_id": "8_17611180",
+      "trip_id": "8_17715193",
       "direction_id": "0",
       "headsign": "Kwiska",
       "service_id": "8",
@@ -80758,7 +80758,7 @@
       ]
     },
     {
-      "trip_id": "8_17611181",
+      "trip_id": "8_17715194",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "8",
@@ -80973,7 +80973,7 @@
       ]
     },
     {
-      "trip_id": "8_17611182",
+      "trip_id": "8_17715195",
       "direction_id": "0",
       "headsign": "Kwiska",
       "service_id": "8",
@@ -81233,7 +81233,7 @@
       ]
     },
     {
-      "trip_id": "8_17611183",
+      "trip_id": "8_17715196",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "8",
@@ -81448,7 +81448,7 @@
       ]
     },
     {
-      "trip_id": "8_17611184",
+      "trip_id": "8_17715197",
       "direction_id": "0",
       "headsign": "Kwiska",
       "service_id": "8",
@@ -81708,7 +81708,7 @@
       ]
     },
     {
-      "trip_id": "8_17611185",
+      "trip_id": "8_17715198",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "8",
@@ -81923,7 +81923,7 @@
       ]
     },
     {
-      "trip_id": "8_17611186",
+      "trip_id": "8_17715199",
       "direction_id": "0",
       "headsign": "Kwiska",
       "service_id": "8",
@@ -82183,7 +82183,7 @@
       ]
     },
     {
-      "trip_id": "8_17611187",
+      "trip_id": "8_17715200",
       "direction_id": "1",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "8",
@@ -82245,7 +82245,7 @@
       ]
     },
     {
-      "trip_id": "8_17611188",
+      "trip_id": "8_17715201",
       "direction_id": "0",
       "headsign": "Kwiska",
       "service_id": "8",
@@ -82316,7 +82316,7 @@
       ]
     },
     {
-      "trip_id": "8_17611189",
+      "trip_id": "8_17715202",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "8",
@@ -82531,7 +82531,7 @@
       ]
     },
     {
-      "trip_id": "8_17611190",
+      "trip_id": "8_17715203",
       "direction_id": "0",
       "headsign": "Kwiska",
       "service_id": "8",
@@ -82791,7 +82791,7 @@
       ]
     },
     {
-      "trip_id": "8_17611191",
+      "trip_id": "8_17715204",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "8",
@@ -83006,7 +83006,7 @@
       ]
     },
     {
-      "trip_id": "8_17611192",
+      "trip_id": "8_17715205",
       "direction_id": "0",
       "headsign": "Kwiska",
       "service_id": "8",
@@ -83266,7 +83266,7 @@
       ]
     },
     {
-      "trip_id": "8_17611193",
+      "trip_id": "8_17715206",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "8",
@@ -83481,7 +83481,7 @@
       ]
     },
     {
-      "trip_id": "8_17611194",
+      "trip_id": "8_17715207",
       "direction_id": "0",
       "headsign": "Kwiska",
       "service_id": "8",
@@ -83741,7 +83741,7 @@
       ]
     },
     {
-      "trip_id": "8_17611195",
+      "trip_id": "8_17715208",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "8",
@@ -83956,7 +83956,7 @@
       ]
     },
     {
-      "trip_id": "8_17611196",
+      "trip_id": "8_17715209",
       "direction_id": "0",
       "headsign": "Kwiska",
       "service_id": "8",
@@ -84216,7 +84216,7 @@
       ]
     },
     {
-      "trip_id": "8_17611197",
+      "trip_id": "8_17715210",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "8",
@@ -84431,7 +84431,7 @@
       ]
     },
     {
-      "trip_id": "8_17611198",
+      "trip_id": "8_17715211",
       "direction_id": "0",
       "headsign": "Kwiska",
       "service_id": "8",
@@ -84691,7 +84691,7 @@
       ]
     },
     {
-      "trip_id": "8_17611199",
+      "trip_id": "8_17715212",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "8",
@@ -84906,7 +84906,7 @@
       ]
     },
     {
-      "trip_id": "8_17611200",
+      "trip_id": "8_17715213",
       "direction_id": "0",
       "headsign": "Kwiska",
       "service_id": "8",
@@ -85166,7 +85166,7 @@
       ]
     },
     {
-      "trip_id": "8_17611201",
+      "trip_id": "8_17715214",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "8",
@@ -85381,7 +85381,7 @@
       ]
     },
     {
-      "trip_id": "8_17611202",
+      "trip_id": "8_17715215",
       "direction_id": "0",
       "headsign": "Kwiska",
       "service_id": "8",
@@ -85641,7 +85641,7 @@
       ]
     },
     {
-      "trip_id": "8_17611203",
+      "trip_id": "8_17715216",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "8",
@@ -85856,7 +85856,7 @@
       ]
     },
     {
-      "trip_id": "8_17611204",
+      "trip_id": "8_17715217",
       "direction_id": "0",
       "headsign": "Kwiska",
       "service_id": "8",
@@ -86116,7 +86116,7 @@
       ]
     },
     {
-      "trip_id": "8_17611205",
+      "trip_id": "8_17715218",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "8",
@@ -86331,7 +86331,7 @@
       ]
     },
     {
-      "trip_id": "8_17611206",
+      "trip_id": "8_17715219",
       "direction_id": "0",
       "headsign": "Kwiska",
       "service_id": "8",
@@ -86591,7 +86591,7 @@
       ]
     },
     {
-      "trip_id": "8_17611207",
+      "trip_id": "8_17715220",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "8",
@@ -86806,7 +86806,7 @@
       ]
     },
     {
-      "trip_id": "8_17611208",
+      "trip_id": "8_17715221",
       "direction_id": "0",
       "headsign": "Kwiska",
       "service_id": "8",
@@ -87066,7 +87066,7 @@
       ]
     },
     {
-      "trip_id": "8_17611209",
+      "trip_id": "8_17715222",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "8",
@@ -87281,7 +87281,7 @@
       ]
     },
     {
-      "trip_id": "8_17611210",
+      "trip_id": "8_17715223",
       "direction_id": "0",
       "headsign": "Kwiska",
       "service_id": "8",
@@ -87541,7 +87541,7 @@
       ]
     },
     {
-      "trip_id": "8_17611211",
+      "trip_id": "8_17715224",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "8",
@@ -87756,7 +87756,7 @@
       ]
     },
     {
-      "trip_id": "8_17611212",
+      "trip_id": "8_17715225",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "8",
@@ -88043,7 +88043,7 @@
       ]
     },
     {
-      "trip_id": "8_17611213",
+      "trip_id": "8_17715226",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "8",
@@ -88294,7 +88294,7 @@
       ]
     },
     {
-      "trip_id": "8_17611214",
+      "trip_id": "8_17715227",
       "direction_id": "0",
       "headsign": "Kwiska",
       "service_id": "8",
@@ -88554,7 +88554,7 @@
       ]
     },
     {
-      "trip_id": "8_17611215",
+      "trip_id": "8_17715228",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "8",
@@ -88769,7 +88769,7 @@
       ]
     },
     {
-      "trip_id": "8_17611216",
+      "trip_id": "8_17715229",
       "direction_id": "0",
       "headsign": "Kwiska",
       "service_id": "8",
@@ -89029,7 +89029,7 @@
       ]
     },
     {
-      "trip_id": "8_17611217",
+      "trip_id": "8_17715230",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "8",
@@ -89244,7 +89244,7 @@
       ]
     },
     {
-      "trip_id": "8_17611218",
+      "trip_id": "8_17715231",
       "direction_id": "0",
       "headsign": "Kwiska",
       "service_id": "8",
@@ -89504,7 +89504,7 @@
       ]
     },
     {
-      "trip_id": "8_17611219",
+      "trip_id": "8_17715232",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "8",
@@ -89719,7 +89719,7 @@
       ]
     },
     {
-      "trip_id": "8_17611220",
+      "trip_id": "8_17715233",
       "direction_id": "0",
       "headsign": "Kwiska",
       "service_id": "8",
@@ -89979,7 +89979,7 @@
       ]
     },
     {
-      "trip_id": "8_17611221",
+      "trip_id": "8_17715234",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "8",
@@ -90194,7 +90194,7 @@
       ]
     },
     {
-      "trip_id": "8_17611222",
+      "trip_id": "8_17715235",
       "direction_id": "0",
       "headsign": "Kwiska",
       "service_id": "8",
@@ -90454,7 +90454,7 @@
       ]
     },
     {
-      "trip_id": "8_17611223",
+      "trip_id": "8_17715236",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "8",
@@ -90669,7 +90669,7 @@
       ]
     },
     {
-      "trip_id": "8_17611224",
+      "trip_id": "8_17715237",
       "direction_id": "0",
       "headsign": "Kwiska",
       "service_id": "8",
@@ -90929,7 +90929,7 @@
       ]
     },
     {
-      "trip_id": "8_17611225",
+      "trip_id": "8_17715238",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "8",
@@ -91144,7 +91144,7 @@
       ]
     },
     {
-      "trip_id": "8_17611226",
+      "trip_id": "8_17715239",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "8",
@@ -91431,7 +91431,7 @@
       ]
     },
     {
-      "trip_id": "8_17611227",
+      "trip_id": "8_17715240",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "8",
@@ -91682,7 +91682,7 @@
       ]
     },
     {
-      "trip_id": "8_17611228",
+      "trip_id": "8_17715241",
       "direction_id": "0",
       "headsign": "Kwiska",
       "service_id": "8",
@@ -91942,7 +91942,7 @@
       ]
     },
     {
-      "trip_id": "8_17611229",
+      "trip_id": "8_17715242",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "8",
@@ -92157,7 +92157,7 @@
       ]
     },
     {
-      "trip_id": "8_17611230",
+      "trip_id": "8_17715243",
       "direction_id": "0",
       "headsign": "Kwiska",
       "service_id": "8",
@@ -92417,7 +92417,7 @@
       ]
     },
     {
-      "trip_id": "8_17611231",
+      "trip_id": "8_17715244",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "8",
@@ -92632,7 +92632,7 @@
       ]
     },
     {
-      "trip_id": "8_17611232",
+      "trip_id": "8_17715245",
       "direction_id": "0",
       "headsign": "Kwiska",
       "service_id": "8",
@@ -92892,7 +92892,7 @@
       ]
     },
     {
-      "trip_id": "8_17611233",
+      "trip_id": "8_17715246",
       "direction_id": "1",
       "headsign": "LEŚNICA",
       "service_id": "8",
@@ -93107,7 +93107,7 @@
       ]
     },
     {
-      "trip_id": "8_17611234",
+      "trip_id": "8_17715247",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "8",

@@ -2,7 +2,7 @@
   "line": "206",
   "trips": [
     {
-      "trip_id": "3_17598872",
+      "trip_id": "3_17702885",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "3",
@@ -226,7 +226,7 @@
       ]
     },
     {
-      "trip_id": "3_17598873",
+      "trip_id": "3_17702886",
       "direction_id": "0",
       "headsign": "DWORZEC AUTOBUSOWY",
       "service_id": "3",
@@ -459,7 +459,7 @@
       ]
     },
     {
-      "trip_id": "3_17598874",
+      "trip_id": "3_17702887",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "3",
@@ -683,7 +683,7 @@
       ]
     },
     {
-      "trip_id": "3_17598875",
+      "trip_id": "3_17702888",
       "direction_id": "0",
       "headsign": "PETRUSEWICZA",
       "service_id": "3",
@@ -925,7 +925,7 @@
       ]
     },
     {
-      "trip_id": "3_17598881",
+      "trip_id": "3_17702894",
       "direction_id": "0",
       "headsign": "DWORZEC AUTOBUSOWY",
       "service_id": "3",
@@ -1158,7 +1158,7 @@
       ]
     },
     {
-      "trip_id": "3_17598882",
+      "trip_id": "3_17702895",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "3",
@@ -1382,7 +1382,7 @@
       ]
     },
     {
-      "trip_id": "3_17598883",
+      "trip_id": "3_17702896",
       "direction_id": "0",
       "headsign": "DWORZEC AUTOBUSOWY",
       "service_id": "3",
@@ -1615,7 +1615,7 @@
       ]
     },
     {
-      "trip_id": "3_17598884",
+      "trip_id": "3_17702897",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "3",
@@ -1839,7 +1839,7 @@
       ]
     },
     {
-      "trip_id": "3_17598885",
+      "trip_id": "3_17702898",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "3",
@@ -2045,7 +2045,7 @@
       ]
     },
     {
-      "trip_id": "3_17598889",
+      "trip_id": "3_17702902",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "3",
@@ -2215,7 +2215,7 @@
       ]
     },
     {
-      "trip_id": "3_17598890",
+      "trip_id": "3_17702903",
       "direction_id": "0",
       "headsign": "DWORZEC AUTOBUSOWY",
       "service_id": "3",
@@ -2448,7 +2448,7 @@
       ]
     },
     {
-      "trip_id": "3_17598891",
+      "trip_id": "3_17702904",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "3",
@@ -2672,7 +2672,7 @@
       ]
     },
     {
-      "trip_id": "3_17598892",
+      "trip_id": "3_17702905",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "3",
@@ -2878,7 +2878,7 @@
       ]
     },
     {
-      "trip_id": "3_17598957",
+      "trip_id": "3_17702970",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "3",
@@ -3111,7 +3111,7 @@
       ]
     },
     {
-      "trip_id": "3_17598958",
+      "trip_id": "3_17702971",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "3",
@@ -3317,7 +3317,7 @@
       ]
     },
     {
-      "trip_id": "3_17599111",
+      "trip_id": "3_17703124",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "3",
@@ -3550,7 +3550,7 @@
       ]
     },
     {
-      "trip_id": "3_17599112",
+      "trip_id": "3_17703125",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "3",
@@ -3756,7 +3756,7 @@
       ]
     },
     {
-      "trip_id": "4_17603284",
+      "trip_id": "4_17707297",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "4",
@@ -3980,7 +3980,7 @@
       ]
     },
     {
-      "trip_id": "4_17603285",
+      "trip_id": "4_17707298",
       "direction_id": "0",
       "headsign": "DWORZEC AUTOBUSOWY",
       "service_id": "4",
@@ -4213,7 +4213,7 @@
       ]
     },
     {
-      "trip_id": "4_17603286",
+      "trip_id": "4_17707299",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "4",
@@ -4437,7 +4437,7 @@
       ]
     },
     {
-      "trip_id": "4_17603287",
+      "trip_id": "4_17707300",
       "direction_id": "0",
       "headsign": "PETRUSEWICZA",
       "service_id": "4",
@@ -4679,7 +4679,7 @@
       ]
     },
     {
-      "trip_id": "4_17603293",
+      "trip_id": "4_17707306",
       "direction_id": "0",
       "headsign": "DWORZEC AUTOBUSOWY",
       "service_id": "4",
@@ -4912,7 +4912,7 @@
       ]
     },
     {
-      "trip_id": "4_17603294",
+      "trip_id": "4_17707307",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "4",
@@ -5136,7 +5136,7 @@
       ]
     },
     {
-      "trip_id": "4_17603295",
+      "trip_id": "4_17707308",
       "direction_id": "0",
       "headsign": "DWORZEC AUTOBUSOWY",
       "service_id": "4",
@@ -5369,7 +5369,7 @@
       ]
     },
     {
-      "trip_id": "4_17603296",
+      "trip_id": "4_17707309",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "4",
@@ -5593,7 +5593,7 @@
       ]
     },
     {
-      "trip_id": "4_17603297",
+      "trip_id": "4_17707310",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "4",
@@ -5799,7 +5799,7 @@
       ]
     },
     {
-      "trip_id": "4_17603301",
+      "trip_id": "4_17707314",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "4",
@@ -5969,7 +5969,7 @@
       ]
     },
     {
-      "trip_id": "4_17603302",
+      "trip_id": "4_17707315",
       "direction_id": "0",
       "headsign": "DWORZEC AUTOBUSOWY",
       "service_id": "4",
@@ -6202,7 +6202,7 @@
       ]
     },
     {
-      "trip_id": "4_17603303",
+      "trip_id": "4_17707316",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "4",
@@ -6426,7 +6426,7 @@
       ]
     },
     {
-      "trip_id": "4_17603304",
+      "trip_id": "4_17707317",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "4",
@@ -6632,7 +6632,7 @@
       ]
     },
     {
-      "trip_id": "4_17603369",
+      "trip_id": "4_17707382",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "4",
@@ -6865,7 +6865,7 @@
       ]
     },
     {
-      "trip_id": "4_17603370",
+      "trip_id": "4_17707383",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "4",
@@ -7071,7 +7071,7 @@
       ]
     },
     {
-      "trip_id": "4_17603520",
+      "trip_id": "4_17707533",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "4",
@@ -7304,7 +7304,7 @@
       ]
     },
     {
-      "trip_id": "4_17603521",
+      "trip_id": "4_17707534",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "4",
@@ -7510,7 +7510,7 @@
       ]
     },
     {
-      "trip_id": "6_17609483",
+      "trip_id": "6_17713496",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "6",
@@ -7734,7 +7734,7 @@
       ]
     },
     {
-      "trip_id": "6_17609484",
+      "trip_id": "6_17713497",
       "direction_id": "0",
       "headsign": "DWORZEC AUTOBUSOWY",
       "service_id": "6",
@@ -7967,7 +7967,7 @@
       ]
     },
     {
-      "trip_id": "6_17609485",
+      "trip_id": "6_17713498",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "6",
@@ -8191,7 +8191,7 @@
       ]
     },
     {
-      "trip_id": "6_17609486",
+      "trip_id": "6_17713499",
       "direction_id": "0",
       "headsign": "PETRUSEWICZA",
       "service_id": "6",
@@ -8433,7 +8433,7 @@
       ]
     },
     {
-      "trip_id": "6_17609492",
+      "trip_id": "6_17713505",
       "direction_id": "0",
       "headsign": "DWORZEC AUTOBUSOWY",
       "service_id": "6",
@@ -8666,7 +8666,7 @@
       ]
     },
     {
-      "trip_id": "6_17609493",
+      "trip_id": "6_17713506",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "6",
@@ -8890,7 +8890,7 @@
       ]
     },
     {
-      "trip_id": "6_17609494",
+      "trip_id": "6_17713507",
       "direction_id": "0",
       "headsign": "DWORZEC AUTOBUSOWY",
       "service_id": "6",
@@ -9123,7 +9123,7 @@
       ]
     },
     {
-      "trip_id": "6_17609495",
+      "trip_id": "6_17713508",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "6",
@@ -9347,7 +9347,7 @@
       ]
     },
     {
-      "trip_id": "6_17609496",
+      "trip_id": "6_17713509",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "6",
@@ -9553,7 +9553,7 @@
       ]
     },
     {
-      "trip_id": "6_17609500",
+      "trip_id": "6_17713513",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "6",
@@ -9723,7 +9723,7 @@
       ]
     },
     {
-      "trip_id": "6_17609501",
+      "trip_id": "6_17713514",
       "direction_id": "0",
       "headsign": "DWORZEC AUTOBUSOWY",
       "service_id": "6",
@@ -9956,7 +9956,7 @@
       ]
     },
     {
-      "trip_id": "6_17609502",
+      "trip_id": "6_17713515",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "6",
@@ -10180,7 +10180,7 @@
       ]
     },
     {
-      "trip_id": "6_17609503",
+      "trip_id": "6_17713516",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "6",
@@ -10386,7 +10386,7 @@
       ]
     },
     {
-      "trip_id": "6_17609568",
+      "trip_id": "6_17713581",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "6",
@@ -10619,7 +10619,7 @@
       ]
     },
     {
-      "trip_id": "6_17609569",
+      "trip_id": "6_17713582",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "6",
@@ -10825,7 +10825,7 @@
       ]
     },
     {
-      "trip_id": "6_17609712",
+      "trip_id": "6_17713725",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "6",
@@ -11058,7 +11058,7 @@
       ]
     },
     {
-      "trip_id": "6_17609713",
+      "trip_id": "6_17713726",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "6",
@@ -11264,7 +11264,7 @@
       ]
     },
     {
-      "trip_id": "8_17616309",
+      "trip_id": "8_17720322",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "8",
@@ -11488,7 +11488,7 @@
       ]
     },
     {
-      "trip_id": "8_17616310",
+      "trip_id": "8_17720323",
       "direction_id": "0",
       "headsign": "DWORZEC AUTOBUSOWY",
       "service_id": "8",
@@ -11721,7 +11721,7 @@
       ]
     },
     {
-      "trip_id": "8_17616311",
+      "trip_id": "8_17720324",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "8",
@@ -11945,7 +11945,7 @@
       ]
     },
     {
-      "trip_id": "8_17616312",
+      "trip_id": "8_17720325",
       "direction_id": "0",
       "headsign": "PETRUSEWICZA",
       "service_id": "8",
@@ -12187,7 +12187,7 @@
       ]
     },
     {
-      "trip_id": "8_17616318",
+      "trip_id": "8_17720331",
       "direction_id": "0",
       "headsign": "DWORZEC AUTOBUSOWY",
       "service_id": "8",
@@ -12420,7 +12420,7 @@
       ]
     },
     {
-      "trip_id": "8_17616319",
+      "trip_id": "8_17720332",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "8",
@@ -12644,7 +12644,7 @@
       ]
     },
     {
-      "trip_id": "8_17616320",
+      "trip_id": "8_17720333",
       "direction_id": "0",
       "headsign": "DWORZEC AUTOBUSOWY",
       "service_id": "8",
@@ -12877,7 +12877,7 @@
       ]
     },
     {
-      "trip_id": "8_17616321",
+      "trip_id": "8_17720334",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "8",
@@ -13101,7 +13101,7 @@
       ]
     },
     {
-      "trip_id": "8_17616322",
+      "trip_id": "8_17720335",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "8",
@@ -13307,7 +13307,7 @@
       ]
     },
     {
-      "trip_id": "8_17616326",
+      "trip_id": "8_17720339",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "8",
@@ -13477,7 +13477,7 @@
       ]
     },
     {
-      "trip_id": "8_17616327",
+      "trip_id": "8_17720340",
       "direction_id": "0",
       "headsign": "DWORZEC AUTOBUSOWY",
       "service_id": "8",
@@ -13710,7 +13710,7 @@
       ]
     },
     {
-      "trip_id": "8_17616328",
+      "trip_id": "8_17720341",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "8",
@@ -13934,7 +13934,7 @@
       ]
     },
     {
-      "trip_id": "8_17616329",
+      "trip_id": "8_17720342",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "8",
@@ -14140,7 +14140,7 @@
       ]
     },
     {
-      "trip_id": "8_17616394",
+      "trip_id": "8_17720407",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "8",
@@ -14373,7 +14373,7 @@
       ]
     },
     {
-      "trip_id": "8_17616395",
+      "trip_id": "8_17720408",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "8",
@@ -14579,7 +14579,7 @@
       ]
     },
     {
-      "trip_id": "8_17616538",
+      "trip_id": "8_17720551",
       "direction_id": "1",
       "headsign": "PORT LOTNICZY",
       "service_id": "8",
@@ -14812,7 +14812,7 @@
       ]
     },
     {
-      "trip_id": "8_17616539",
+      "trip_id": "8_17720552",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "8",

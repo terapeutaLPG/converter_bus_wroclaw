@@ -2,7 +2,7 @@
   "line": "905",
   "trips": [
     {
-      "trip_id": "3_17617947",
+      "trip_id": "3_17636622",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "3",
@@ -262,7 +262,7 @@
       ]
     },
     {
-      "trip_id": "3_17617948",
+      "trip_id": "3_17636623",
       "direction_id": "1",
       "headsign": "Szewce - Kościół",
       "service_id": "3",
@@ -495,7 +495,7 @@
       ]
     },
     {
-      "trip_id": "3_17617949",
+      "trip_id": "3_17636624",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "3",
@@ -755,7 +755,7 @@
       ]
     },
     {
-      "trip_id": "3_17617950",
+      "trip_id": "3_17636625",
       "direction_id": "1",
       "headsign": "Szewce - Kościół",
       "service_id": "3",
@@ -988,7 +988,7 @@
       ]
     },
     {
-      "trip_id": "3_17617951",
+      "trip_id": "3_17636626",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "3",
@@ -1248,7 +1248,7 @@
       ]
     },
     {
-      "trip_id": "3_17617952",
+      "trip_id": "3_17636627",
       "direction_id": "1",
       "headsign": "Szewce - Kościół",
       "service_id": "3",
@@ -1481,7 +1481,7 @@
       ]
     },
     {
-      "trip_id": "3_17617953",
+      "trip_id": "3_17636628",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "3",
@@ -1741,7 +1741,7 @@
       ]
     },
     {
-      "trip_id": "3_17617954",
+      "trip_id": "3_17636629",
       "direction_id": "1",
       "headsign": "Szewce - Kościół",
       "service_id": "3",
@@ -1974,7 +1974,7 @@
       ]
     },
     {
-      "trip_id": "3_17617955",
+      "trip_id": "3_17636630",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "3",
@@ -2234,7 +2234,7 @@
       ]
     },
     {
-      "trip_id": "3_17617956",
+      "trip_id": "3_17636631",
       "direction_id": "1",
       "headsign": "Szewce - Kościół",
       "service_id": "3",
@@ -2467,7 +2467,7 @@
       ]
     },
     {
-      "trip_id": "3_17617957",
+      "trip_id": "3_17636632",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "3",
@@ -2727,7 +2727,7 @@
       ]
     },
     {
-      "trip_id": "3_17617958",
+      "trip_id": "3_17636633",
       "direction_id": "1",
       "headsign": "Szewce - Kościół",
       "service_id": "3",
@@ -2960,7 +2960,7 @@
       ]
     },
     {
-      "trip_id": "3_17617959",
+      "trip_id": "3_17636634",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "3",
@@ -3220,7 +3220,7 @@
       ]
     },
     {
-      "trip_id": "3_17617960",
+      "trip_id": "3_17636635",
       "direction_id": "1",
       "headsign": "Szewce - Kościół",
       "service_id": "3",
@@ -3453,7 +3453,7 @@
       ]
     },
     {
-      "trip_id": "3_17617961",
+      "trip_id": "3_17636636",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "3",
@@ -3713,7 +3713,7 @@
       ]
     },
     {
-      "trip_id": "3_17617962",
+      "trip_id": "3_17636637",
       "direction_id": "1",
       "headsign": "Szewce - Kościół",
       "service_id": "3",
@@ -3946,7 +3946,7 @@
       ]
     },
     {
-      "trip_id": "3_17617963",
+      "trip_id": "3_17636638",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "3",
@@ -4206,7 +4206,7 @@
       ]
     },
     {
-      "trip_id": "3_17617964",
+      "trip_id": "3_17636639",
       "direction_id": "1",
       "headsign": "Szewce - Kościół",
       "service_id": "3",
@@ -4439,7 +4439,7 @@
       ]
     },
     {
-      "trip_id": "3_17617965",
+      "trip_id": "3_17636640",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "3",
@@ -4699,7 +4699,7 @@
       ]
     },
     {
-      "trip_id": "3_17617966",
+      "trip_id": "3_17636641",
       "direction_id": "1",
       "headsign": "Szewce - Kościół",
       "service_id": "3",
@@ -4932,7 +4932,7 @@
       ]
     },
     {
-      "trip_id": "3_17618060",
+      "trip_id": "3_17636735",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "3",
@@ -5192,7 +5192,7 @@
       ]
     },
     {
-      "trip_id": "3_17618061",
+      "trip_id": "3_17636736",
       "direction_id": "1",
       "headsign": "Szewce - Kościół",
       "service_id": "3",
@@ -5425,7 +5425,7 @@
       ]
     },
     {
-      "trip_id": "3_17618062",
+      "trip_id": "3_17636737",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "3",
@@ -5685,7 +5685,7 @@
       ]
     },
     {
-      "trip_id": "4_17618593",
+      "trip_id": "4_17637268",
       "direction_id": "1",
       "headsign": "Szewce - Kościół",
       "service_id": "4",
@@ -5918,7 +5918,7 @@
       ]
     },
     {
-      "trip_id": "4_17618594",
+      "trip_id": "4_17637269",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "4",
@@ -6178,7 +6178,7 @@
       ]
     },
     {
-      "trip_id": "4_17618614",
+      "trip_id": "4_17637289",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "4",
@@ -6438,7 +6438,7 @@
       ]
     },
     {
-      "trip_id": "4_17618615",
+      "trip_id": "4_17637290",
       "direction_id": "1",
       "headsign": "Szewce - Kościół",
       "service_id": "4",
@@ -6671,7 +6671,7 @@
       ]
     },
     {
-      "trip_id": "4_17618616",
+      "trip_id": "4_17637291",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "4",
@@ -6931,7 +6931,7 @@
       ]
     },
     {
-      "trip_id": "4_17618617",
+      "trip_id": "4_17637292",
       "direction_id": "1",
       "headsign": "Szewce - Kościół",
       "service_id": "4",
@@ -7164,7 +7164,7 @@
       ]
     },
     {
-      "trip_id": "4_17618618",
+      "trip_id": "4_17637293",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "4",
@@ -7424,7 +7424,7 @@
       ]
     },
     {
-      "trip_id": "4_17618619",
+      "trip_id": "4_17637294",
       "direction_id": "1",
       "headsign": "Szewce - Kościół",
       "service_id": "4",
@@ -7657,7 +7657,7 @@
       ]
     },
     {
-      "trip_id": "4_17618620",
+      "trip_id": "4_17637295",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "4",
@@ -7917,7 +7917,7 @@
       ]
     },
     {
-      "trip_id": "4_17618621",
+      "trip_id": "4_17637296",
       "direction_id": "1",
       "headsign": "Szewce - Kościół",
       "service_id": "4",
@@ -8150,7 +8150,7 @@
       ]
     },
     {
-      "trip_id": "4_17618622",
+      "trip_id": "4_17637297",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "4",
@@ -8410,7 +8410,7 @@
       ]
     },
     {
-      "trip_id": "4_17618623",
+      "trip_id": "4_17637298",
       "direction_id": "1",
       "headsign": "Szewce - Kościół",
       "service_id": "4",
@@ -8643,7 +8643,7 @@
       ]
     },
     {
-      "trip_id": "4_17618624",
+      "trip_id": "4_17637299",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "4",
@@ -8903,7 +8903,7 @@
       ]
     },
     {
-      "trip_id": "4_17618625",
+      "trip_id": "4_17637300",
       "direction_id": "1",
       "headsign": "Szewce - Kościół",
       "service_id": "4",
@@ -9136,7 +9136,7 @@
       ]
     },
     {
-      "trip_id": "4_17618626",
+      "trip_id": "4_17637301",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "4",
@@ -9396,7 +9396,7 @@
       ]
     },
     {
-      "trip_id": "4_17618627",
+      "trip_id": "4_17637302",
       "direction_id": "1",
       "headsign": "Szewce - Kościół",
       "service_id": "4",
@@ -9629,7 +9629,7 @@
       ]
     },
     {
-      "trip_id": "4_17618628",
+      "trip_id": "4_17637303",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "4",
@@ -9889,7 +9889,7 @@
       ]
     },
     {
-      "trip_id": "4_17618629",
+      "trip_id": "4_17637304",
       "direction_id": "1",
       "headsign": "Szewce - Kościół",
       "service_id": "4",
@@ -10122,7 +10122,7 @@
       ]
     },
     {
-      "trip_id": "4_17618630",
+      "trip_id": "4_17637305",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "4",
@@ -10382,7 +10382,7 @@
       ]
     },
     {
-      "trip_id": "4_17618631",
+      "trip_id": "4_17637306",
       "direction_id": "1",
       "headsign": "Szewce - Kościół",
       "service_id": "4",
@@ -10615,7 +10615,7 @@
       ]
     },
     {
-      "trip_id": "6_17619110",
+      "trip_id": "6_17637785",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "6",
@@ -10911,7 +10911,7 @@
       ]
     },
     {
-      "trip_id": "6_17619111",
+      "trip_id": "6_17637786",
       "direction_id": "1",
       "headsign": "Ozorowice",
       "service_id": "6",
@@ -11180,7 +11180,7 @@
       ]
     },
     {
-      "trip_id": "6_17619112",
+      "trip_id": "6_17637787",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "6",
@@ -11476,7 +11476,7 @@
       ]
     },
     {
-      "trip_id": "6_17619116",
+      "trip_id": "6_17637791",
       "direction_id": "1",
       "headsign": "Szewce - Kościół",
       "service_id": "6",
@@ -11709,7 +11709,7 @@
       ]
     },
     {
-      "trip_id": "6_17619117",
+      "trip_id": "6_17637792",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "6",
@@ -11969,7 +11969,7 @@
       ]
     },
     {
-      "trip_id": "6_17619118",
+      "trip_id": "6_17637793",
       "direction_id": "1",
       "headsign": "Szewce - Kościół",
       "service_id": "6",
@@ -12202,7 +12202,7 @@
       ]
     },
     {
-      "trip_id": "6_17619119",
+      "trip_id": "6_17637794",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "6",
@@ -12462,7 +12462,7 @@
       ]
     },
     {
-      "trip_id": "6_17619120",
+      "trip_id": "6_17637795",
       "direction_id": "1",
       "headsign": "Szewce - Kościół",
       "service_id": "6",
@@ -12695,7 +12695,7 @@
       ]
     },
     {
-      "trip_id": "6_17619121",
+      "trip_id": "6_17637796",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "6",
@@ -12955,7 +12955,7 @@
       ]
     },
     {
-      "trip_id": "6_17619122",
+      "trip_id": "6_17637797",
       "direction_id": "1",
       "headsign": "Ozorowice",
       "service_id": "6",
@@ -13224,7 +13224,7 @@
       ]
     },
     {
-      "trip_id": "6_17619123",
+      "trip_id": "6_17637798",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "6",
@@ -13520,7 +13520,7 @@
       ]
     },
     {
-      "trip_id": "6_17619124",
+      "trip_id": "6_17637799",
       "direction_id": "1",
       "headsign": "Szewce - Kościół",
       "service_id": "6",
@@ -13753,7 +13753,7 @@
       ]
     },
     {
-      "trip_id": "6_17619125",
+      "trip_id": "6_17637800",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "6",
@@ -14013,7 +14013,7 @@
       ]
     },
     {
-      "trip_id": "6_17619126",
+      "trip_id": "6_17637801",
       "direction_id": "0",
       "headsign": "DWORZEC NADODRZE",
       "service_id": "6",
@@ -14273,7 +14273,7 @@
       ]
     },
     {
-      "trip_id": "6_17619392",
+      "trip_id": "6_17638067",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "6",
@@ -14569,7 +14569,7 @@
       ]
     },
     {
-      "trip_id": "6_17619393",
+      "trip_id": "6_17638068",
       "direction_id": "1",
       "headsign": "Ozorowice",
       "service_id": "6",
@@ -14838,7 +14838,7 @@
       ]
     },
     {
-      "trip_id": "6_17619394",
+      "trip_id": "6_17638069",
       "direction_id": "0",
       "headsign": "DWORZEC NADODRZE",
       "service_id": "6",
@@ -15098,7 +15098,7 @@
       ]
     },
     {
-      "trip_id": "6_17619422",
+      "trip_id": "6_17638097",
       "direction_id": "1",
       "headsign": "Ozorowice",
       "service_id": "6",
@@ -15367,7 +15367,7 @@
       ]
     },
     {
-      "trip_id": "6_17619423",
+      "trip_id": "6_17638098",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "6",
@@ -15663,7 +15663,7 @@
       ]
     },
     {
-      "trip_id": "6_17619424",
+      "trip_id": "6_17638099",
       "direction_id": "1",
       "headsign": "Szewce - Kościół",
       "service_id": "6",
@@ -15896,7 +15896,7 @@
       ]
     },
     {
-      "trip_id": "6_17619425",
+      "trip_id": "6_17638100",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "6",
@@ -16156,7 +16156,7 @@
       ]
     },
     {
-      "trip_id": "6_17619426",
+      "trip_id": "6_17638101",
       "direction_id": "1",
       "headsign": "Ozorowice",
       "service_id": "6",
@@ -16425,7 +16425,7 @@
       ]
     },
     {
-      "trip_id": "6_17619427",
+      "trip_id": "6_17638102",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "6",
@@ -16721,7 +16721,7 @@
       ]
     },
     {
-      "trip_id": "6_17619428",
+      "trip_id": "6_17638103",
       "direction_id": "1",
       "headsign": "Ozorowice",
       "service_id": "6",
@@ -16990,7 +16990,7 @@
       ]
     },
     {
-      "trip_id": "6_17619429",
+      "trip_id": "6_17638104",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "6",
@@ -17286,7 +17286,7 @@
       ]
     },
     {
-      "trip_id": "6_17619430",
+      "trip_id": "6_17638105",
       "direction_id": "1",
       "headsign": "Szewce - Kościół",
       "service_id": "6",
@@ -17519,7 +17519,7 @@
       ]
     },
     {
-      "trip_id": "6_17619431",
+      "trip_id": "6_17638106",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "6",
@@ -17779,7 +17779,7 @@
       ]
     },
     {
-      "trip_id": "6_17619436",
+      "trip_id": "6_17638111",
       "direction_id": "1",
       "headsign": "Szewce - Kościół",
       "service_id": "6",
@@ -18012,7 +18012,7 @@
       ]
     },
     {
-      "trip_id": "6_17619631",
+      "trip_id": "6_17638306",
       "direction_id": "1",
       "headsign": "Szewce - Kościół",
       "service_id": "6",
@@ -18245,7 +18245,7 @@
       ]
     },
     {
-      "trip_id": "6_17619632",
+      "trip_id": "6_17638307",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "6",
@@ -18505,7 +18505,7 @@
       ]
     },
     {
-      "trip_id": "8_17620156",
+      "trip_id": "8_17638831",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "8",
@@ -18801,7 +18801,7 @@
       ]
     },
     {
-      "trip_id": "8_17620157",
+      "trip_id": "8_17638832",
       "direction_id": "1",
       "headsign": "Ozorowice",
       "service_id": "8",
@@ -19070,7 +19070,7 @@
       ]
     },
     {
-      "trip_id": "8_17620158",
+      "trip_id": "8_17638833",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "8",
@@ -19366,7 +19366,7 @@
       ]
     },
     {
-      "trip_id": "8_17620162",
+      "trip_id": "8_17638837",
       "direction_id": "1",
       "headsign": "Szewce - Kościół",
       "service_id": "8",
@@ -19599,7 +19599,7 @@
       ]
     },
     {
-      "trip_id": "8_17620163",
+      "trip_id": "8_17638838",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "8",
@@ -19859,7 +19859,7 @@
       ]
     },
     {
-      "trip_id": "8_17620164",
+      "trip_id": "8_17638839",
       "direction_id": "1",
       "headsign": "Szewce - Kościół",
       "service_id": "8",
@@ -20092,7 +20092,7 @@
       ]
     },
     {
-      "trip_id": "8_17620165",
+      "trip_id": "8_17638840",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "8",
@@ -20352,7 +20352,7 @@
       ]
     },
     {
-      "trip_id": "8_17620166",
+      "trip_id": "8_17638841",
       "direction_id": "1",
       "headsign": "Szewce - Kościół",
       "service_id": "8",
@@ -20585,7 +20585,7 @@
       ]
     },
     {
-      "trip_id": "8_17620167",
+      "trip_id": "8_17638842",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "8",
@@ -20845,7 +20845,7 @@
       ]
     },
     {
-      "trip_id": "8_17620168",
+      "trip_id": "8_17638843",
       "direction_id": "1",
       "headsign": "Ozorowice",
       "service_id": "8",
@@ -21114,7 +21114,7 @@
       ]
     },
     {
-      "trip_id": "8_17620169",
+      "trip_id": "8_17638844",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "8",
@@ -21410,7 +21410,7 @@
       ]
     },
     {
-      "trip_id": "8_17620170",
+      "trip_id": "8_17638845",
       "direction_id": "1",
       "headsign": "Szewce - Kościół",
       "service_id": "8",
@@ -21643,7 +21643,7 @@
       ]
     },
     {
-      "trip_id": "8_17620171",
+      "trip_id": "8_17638846",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "8",
@@ -21903,7 +21903,7 @@
       ]
     },
     {
-      "trip_id": "8_17620172",
+      "trip_id": "8_17638847",
       "direction_id": "0",
       "headsign": "DWORZEC NADODRZE",
       "service_id": "8",
@@ -22163,7 +22163,7 @@
       ]
     },
     {
-      "trip_id": "8_17620438",
+      "trip_id": "8_17639113",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "8",
@@ -22459,7 +22459,7 @@
       ]
     },
     {
-      "trip_id": "8_17620439",
+      "trip_id": "8_17639114",
       "direction_id": "1",
       "headsign": "Ozorowice",
       "service_id": "8",
@@ -22728,7 +22728,7 @@
       ]
     },
     {
-      "trip_id": "8_17620440",
+      "trip_id": "8_17639115",
       "direction_id": "0",
       "headsign": "DWORZEC NADODRZE",
       "service_id": "8",
@@ -22988,7 +22988,7 @@
       ]
     },
     {
-      "trip_id": "8_17620468",
+      "trip_id": "8_17639143",
       "direction_id": "1",
       "headsign": "Ozorowice",
       "service_id": "8",
@@ -23257,7 +23257,7 @@
       ]
     },
     {
-      "trip_id": "8_17620469",
+      "trip_id": "8_17639144",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "8",
@@ -23553,7 +23553,7 @@
       ]
     },
     {
-      "trip_id": "8_17620470",
+      "trip_id": "8_17639145",
       "direction_id": "1",
       "headsign": "Szewce - Kościół",
       "service_id": "8",
@@ -23786,7 +23786,7 @@
       ]
     },
     {
-      "trip_id": "8_17620471",
+      "trip_id": "8_17639146",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "8",
@@ -24046,7 +24046,7 @@
       ]
     },
     {
-      "trip_id": "8_17620472",
+      "trip_id": "8_17639147",
       "direction_id": "1",
       "headsign": "Ozorowice",
       "service_id": "8",
@@ -24315,7 +24315,7 @@
       ]
     },
     {
-      "trip_id": "8_17620473",
+      "trip_id": "8_17639148",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "8",
@@ -24611,7 +24611,7 @@
       ]
     },
     {
-      "trip_id": "8_17620474",
+      "trip_id": "8_17639149",
       "direction_id": "1",
       "headsign": "Ozorowice",
       "service_id": "8",
@@ -24880,7 +24880,7 @@
       ]
     },
     {
-      "trip_id": "8_17620475",
+      "trip_id": "8_17639150",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "8",
@@ -25176,7 +25176,7 @@
       ]
     },
     {
-      "trip_id": "8_17620476",
+      "trip_id": "8_17639151",
       "direction_id": "1",
       "headsign": "Szewce - Kościół",
       "service_id": "8",
@@ -25409,7 +25409,7 @@
       ]
     },
     {
-      "trip_id": "8_17620477",
+      "trip_id": "8_17639152",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "8",
@@ -25669,7 +25669,7 @@
       ]
     },
     {
-      "trip_id": "8_17620482",
+      "trip_id": "8_17639157",
       "direction_id": "1",
       "headsign": "Szewce - Kościół",
       "service_id": "8",
@@ -25902,7 +25902,7 @@
       ]
     },
     {
-      "trip_id": "8_17620677",
+      "trip_id": "8_17639352",
       "direction_id": "1",
       "headsign": "Szewce - Kościół",
       "service_id": "8",
@@ -26135,7 +26135,7 @@
       ]
     },
     {
-      "trip_id": "8_17620678",
+      "trip_id": "8_17639353",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "8",

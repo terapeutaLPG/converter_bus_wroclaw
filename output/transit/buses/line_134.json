@@ -2,7 +2,7 @@
   "line": "134",
   "trips": [
     {
-      "trip_id": "3_17597688",
+      "trip_id": "3_17701701",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "3",
@@ -343,7 +343,7 @@
       ]
     },
     {
-      "trip_id": "3_17597689",
+      "trip_id": "3_17701702",
       "direction_id": "0",
       "headsign": "KSIĘŻE WIELKIE",
       "service_id": "3",
@@ -684,7 +684,7 @@
       ]
     },
     {
-      "trip_id": "3_17597690",
+      "trip_id": "3_17701703",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "3",
@@ -1025,7 +1025,7 @@
       ]
     },
     {
-      "trip_id": "3_17597692",
+      "trip_id": "3_17701705",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "3",
@@ -1366,7 +1366,7 @@
       ]
     },
     {
-      "trip_id": "3_17597693",
+      "trip_id": "3_17701706",
       "direction_id": "0",
       "headsign": "KSIĘŻE WIELKIE",
       "service_id": "3",
@@ -1707,7 +1707,7 @@
       ]
     },
     {
-      "trip_id": "3_17597694",
+      "trip_id": "3_17701707",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "3",
@@ -2048,7 +2048,7 @@
       ]
     },
     {
-      "trip_id": "3_17597695",
+      "trip_id": "3_17701708",
       "direction_id": "0",
       "headsign": "KSIĘŻE WIELKIE",
       "service_id": "3",
@@ -2389,7 +2389,7 @@
       ]
     },
     {
-      "trip_id": "3_17597698",
+      "trip_id": "3_17701711",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "3",
@@ -2730,7 +2730,7 @@
       ]
     },
     {
-      "trip_id": "3_17597699",
+      "trip_id": "3_17701712",
       "direction_id": "0",
       "headsign": "KSIĘŻE WIELKIE",
       "service_id": "3",
@@ -3071,7 +3071,7 @@
       ]
     },
     {
-      "trip_id": "3_17597702",
+      "trip_id": "3_17701715",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "3",
@@ -3412,7 +3412,7 @@
       ]
     },
     {
-      "trip_id": "3_17597703",
+      "trip_id": "3_17701716",
       "direction_id": "0",
       "headsign": "KSIĘŻE WIELKIE",
       "service_id": "3",
@@ -3753,7 +3753,7 @@
       ]
     },
     {
-      "trip_id": "3_17597707",
+      "trip_id": "3_17701720",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "3",
@@ -4094,7 +4094,7 @@
       ]
     },
     {
-      "trip_id": "3_17597708",
+      "trip_id": "3_17701721",
       "direction_id": "0",
       "headsign": "KSIĘŻE WIELKIE",
       "service_id": "3",
@@ -4435,7 +4435,7 @@
       ]
     },
     {
-      "trip_id": "3_17597712",
+      "trip_id": "3_17701725",
       "direction_id": "0",
       "headsign": "KSIĘŻE WIELKIE",
       "service_id": "3",
@@ -4776,7 +4776,7 @@
       ]
     },
     {
-      "trip_id": "3_17597715",
+      "trip_id": "3_17701728",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "3",
@@ -5117,7 +5117,7 @@
       ]
     },
     {
-      "trip_id": "3_17597716",
+      "trip_id": "3_17701729",
       "direction_id": "0",
       "headsign": "KSIĘŻE WIELKIE",
       "service_id": "3",
@@ -5458,7 +5458,7 @@
       ]
     },
     {
-      "trip_id": "3_17597719",
+      "trip_id": "3_17701732",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "3",
@@ -5799,7 +5799,7 @@
       ]
     },
     {
-      "trip_id": "3_17597720",
+      "trip_id": "3_17701733",
       "direction_id": "0",
       "headsign": "KSIĘŻE WIELKIE",
       "service_id": "3",
@@ -6140,7 +6140,7 @@
       ]
     },
     {
-      "trip_id": "3_17597723",
+      "trip_id": "3_17701736",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "3",
@@ -6481,7 +6481,7 @@
       ]
     },
     {
-      "trip_id": "3_17597724",
+      "trip_id": "3_17701737",
       "direction_id": "0",
       "headsign": "KSIĘŻE WIELKIE",
       "service_id": "3",
@@ -6822,7 +6822,7 @@
       ]
     },
     {
-      "trip_id": "3_17597725",
+      "trip_id": "3_17701738",
       "direction_id": "1",
       "headsign": "FAT",
       "service_id": "3",
@@ -7064,7 +7064,7 @@
       ]
     },
     {
-      "trip_id": "3_17597728",
+      "trip_id": "3_17701741",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "3",
@@ -7405,7 +7405,7 @@
       ]
     },
     {
-      "trip_id": "3_17597729",
+      "trip_id": "3_17701742",
       "direction_id": "0",
       "headsign": "KSIĘŻE WIELKIE",
       "service_id": "3",
@@ -7746,7 +7746,7 @@
       ]
     },
     {
-      "trip_id": "3_17597734",
+      "trip_id": "3_17701747",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "3",
@@ -8087,7 +8087,7 @@
       ]
     },
     {
-      "trip_id": "3_17597735",
+      "trip_id": "3_17701748",
       "direction_id": "0",
       "headsign": "KSIĘŻE WIELKIE",
       "service_id": "3",
@@ -8428,7 +8428,7 @@
       ]
     },
     {
-      "trip_id": "3_17597738",
+      "trip_id": "3_17701751",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "3",
@@ -8769,7 +8769,7 @@
       ]
     },
     {
-      "trip_id": "3_17597739",
+      "trip_id": "3_17701752",
       "direction_id": "0",
       "headsign": "KSIĘŻE WIELKIE",
       "service_id": "3",
@@ -9110,7 +9110,7 @@
       ]
     },
     {
-      "trip_id": "3_17597742",
+      "trip_id": "3_17701755",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "3",
@@ -9451,7 +9451,7 @@
       ]
     },
     {
-      "trip_id": "3_17597743",
+      "trip_id": "3_17701756",
       "direction_id": "0",
       "headsign": "KSIĘŻE WIELKIE",
       "service_id": "3",
@@ -9792,7 +9792,7 @@
       ]
     },
     {
-      "trip_id": "3_17597745",
+      "trip_id": "3_17701758",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "3",
@@ -10133,7 +10133,7 @@
       ]
     },
     {
-      "trip_id": "3_17597747",
+      "trip_id": "3_17701760",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "3",
@@ -10474,7 +10474,7 @@
       ]
     },
     {
-      "trip_id": "3_17597748",
+      "trip_id": "3_17701761",
       "direction_id": "0",
       "headsign": "KSIĘŻE WIELKIE",
       "service_id": "3",
@@ -10815,7 +10815,7 @@
       ]
     },
     {
-      "trip_id": "3_17597749",
+      "trip_id": "3_17701762",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "3",
@@ -11156,7 +11156,7 @@
       ]
     },
     {
-      "trip_id": "3_17597750",
+      "trip_id": "3_17701763",
       "direction_id": "0",
       "headsign": "KSIĘŻE WIELKIE",
       "service_id": "3",
@@ -11497,7 +11497,7 @@
       ]
     },
     {
-      "trip_id": "3_17597753",
+      "trip_id": "3_17701766",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "3",
@@ -11838,7 +11838,7 @@
       ]
     },
     {
-      "trip_id": "3_17597754",
+      "trip_id": "3_17701767",
       "direction_id": "0",
       "headsign": "KSIĘŻE WIELKIE",
       "service_id": "3",
@@ -12179,7 +12179,7 @@
       ]
     },
     {
-      "trip_id": "3_17597757",
+      "trip_id": "3_17701770",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "3",
@@ -12520,7 +12520,7 @@
       ]
     },
     {
-      "trip_id": "3_17597758",
+      "trip_id": "3_17701771",
       "direction_id": "0",
       "headsign": "KSIĘŻE WIELKIE",
       "service_id": "3",
@@ -12861,7 +12861,7 @@
       ]
     },
     {
-      "trip_id": "3_17597762",
+      "trip_id": "3_17701775",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "3",
@@ -13202,7 +13202,7 @@
       ]
     },
     {
-      "trip_id": "3_17597763",
+      "trip_id": "3_17701776",
       "direction_id": "0",
       "headsign": "KSIĘŻE WIELKIE",
       "service_id": "3",
@@ -13543,7 +13543,7 @@
       ]
     },
     {
-      "trip_id": "3_17597768",
+      "trip_id": "3_17701781",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "3",
@@ -13884,7 +13884,7 @@
       ]
     },
     {
-      "trip_id": "3_17597769",
+      "trip_id": "3_17701782",
       "direction_id": "0",
       "headsign": "KSIĘŻE WIELKIE",
       "service_id": "3",
@@ -14225,7 +14225,7 @@
       ]
     },
     {
-      "trip_id": "3_17597772",
+      "trip_id": "3_17701785",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "3",
@@ -14566,7 +14566,7 @@
       ]
     },
     {
-      "trip_id": "3_17597773",
+      "trip_id": "3_17701786",
       "direction_id": "0",
       "headsign": "KSIĘŻE WIELKIE",
       "service_id": "3",
@@ -14907,7 +14907,7 @@
       ]
     },
     {
-      "trip_id": "3_17597776",
+      "trip_id": "3_17701789",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "3",
@@ -15248,7 +15248,7 @@
       ]
     },
     {
-      "trip_id": "3_17597777",
+      "trip_id": "3_17701790",
       "direction_id": "0",
       "headsign": "KSIĘŻE WIELKIE",
       "service_id": "3",
@@ -15589,7 +15589,7 @@
       ]
     },
     {
-      "trip_id": "3_17597778",
+      "trip_id": "3_17701791",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "3",
@@ -15930,7 +15930,7 @@
       ]
     },
     {
-      "trip_id": "3_17597779",
+      "trip_id": "3_17701792",
       "direction_id": "0",
       "headsign": "KSIĘŻE WIELKIE",
       "service_id": "3",
@@ -16271,7 +16271,7 @@
       ]
     },
     {
-      "trip_id": "3_17597781",
+      "trip_id": "3_17701794",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "3",
@@ -16612,7 +16612,7 @@
       ]
     },
     {
-      "trip_id": "3_17597782",
+      "trip_id": "3_17701795",
       "direction_id": "0",
       "headsign": "KSIĘŻE WIELKIE",
       "service_id": "3",
@@ -16953,7 +16953,7 @@
       ]
     },
     {
-      "trip_id": "3_17597783",
+      "trip_id": "3_17701796",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "3",
@@ -17294,7 +17294,7 @@
       ]
     },
     {
-      "trip_id": "3_17597784",
+      "trip_id": "3_17701797",
       "direction_id": "0",
       "headsign": "KSIĘŻE WIELKIE",
       "service_id": "3",
@@ -17635,7 +17635,7 @@
       ]
     },
     {
-      "trip_id": "3_17597785",
+      "trip_id": "3_17701798",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "3",
@@ -17976,7 +17976,7 @@
       ]
     },
     {
-      "trip_id": "3_17597786",
+      "trip_id": "3_17701799",
       "direction_id": "0",
       "headsign": "KSIĘŻE WIELKIE",
       "service_id": "3",
@@ -18317,7 +18317,7 @@
       ]
     },
     {
-      "trip_id": "3_17597789",
+      "trip_id": "3_17701802",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "3",
@@ -18658,7 +18658,7 @@
       ]
     },
     {
-      "trip_id": "3_17597790",
+      "trip_id": "3_17701803",
       "direction_id": "0",
       "headsign": "KSIĘŻE WIELKIE",
       "service_id": "3",
@@ -18999,7 +18999,7 @@
       ]
     },
     {
-      "trip_id": "3_17597793",
+      "trip_id": "3_17701806",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "3",
@@ -19340,7 +19340,7 @@
       ]
     },
     {
-      "trip_id": "3_17597794",
+      "trip_id": "3_17701807",
       "direction_id": "0",
       "headsign": "KSIĘŻE WIELKIE",
       "service_id": "3",
@@ -19681,7 +19681,7 @@
       ]
     },
     {
-      "trip_id": "3_17597796",
+      "trip_id": "3_17701809",
       "direction_id": "0",
       "headsign": "KSIĘŻE WIELKIE",
       "service_id": "3",
@@ -20022,7 +20022,7 @@
       ]
     },
     {
-      "trip_id": "3_17597798",
+      "trip_id": "3_17701811",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "3",
@@ -20363,7 +20363,7 @@
       ]
     },
     {
-      "trip_id": "3_17597799",
+      "trip_id": "3_17701812",
       "direction_id": "0",
       "headsign": "KSIĘŻE WIELKIE",
       "service_id": "3",
@@ -20704,7 +20704,7 @@
       ]
     },
     {
-      "trip_id": "3_17597800",
+      "trip_id": "3_17701813",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "3",
@@ -21045,7 +21045,7 @@
       ]
     },
     {
-      "trip_id": "3_17597801",
+      "trip_id": "3_17701814",
       "direction_id": "0",
       "headsign": "KSIĘŻE WIELKIE",
       "service_id": "3",
@@ -21386,7 +21386,7 @@
       ]
     },
     {
-      "trip_id": "3_17597804",
+      "trip_id": "3_17701817",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "3",
@@ -21727,7 +21727,7 @@
       ]
     },
     {
-      "trip_id": "3_17597805",
+      "trip_id": "3_17701818",
       "direction_id": "0",
       "headsign": "KSIĘŻE WIELKIE",
       "service_id": "3",
@@ -22068,7 +22068,7 @@
       ]
     },
     {
-      "trip_id": "3_17597808",
+      "trip_id": "3_17701821",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "3",
@@ -22409,7 +22409,7 @@
       ]
     },
     {
-      "trip_id": "3_17597809",
+      "trip_id": "3_17701822",
       "direction_id": "0",
       "headsign": "KSIĘŻE WIELKIE",
       "service_id": "3",
@@ -22750,7 +22750,7 @@
       ]
     },
     {
-      "trip_id": "3_17597813",
+      "trip_id": "3_17701826",
       "direction_id": "0",
       "headsign": "KSIĘŻE WIELKIE",
       "service_id": "3",
@@ -23091,7 +23091,7 @@
       ]
     },
     {
-      "trip_id": "3_17597819",
+      "trip_id": "3_17701832",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "3",
@@ -23432,7 +23432,7 @@
       ]
     },
     {
-      "trip_id": "3_17597820",
+      "trip_id": "3_17701833",
       "direction_id": "0",
       "headsign": "KSIĘŻE WIELKIE",
       "service_id": "3",
@@ -23773,7 +23773,7 @@
       ]
     },
     {
-      "trip_id": "3_17597823",
+      "trip_id": "3_17701836",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "3",
@@ -24114,7 +24114,7 @@
       ]
     },
     {
-      "trip_id": "3_17597824",
+      "trip_id": "3_17701837",
       "direction_id": "0",
       "headsign": "KSIĘŻE WIELKIE",
       "service_id": "3",
@@ -24455,7 +24455,7 @@
       ]
     },
     {
-      "trip_id": "3_17597827",
+      "trip_id": "3_17701840",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "3",
@@ -24796,7 +24796,7 @@
       ]
     },
     {
-      "trip_id": "3_17597828",
+      "trip_id": "3_17701841",
       "direction_id": "0",
       "headsign": "KSIĘŻE WIELKIE",
       "service_id": "3",
@@ -25137,7 +25137,7 @@
       ]
     },
     {
-      "trip_id": "3_17597830",
+      "trip_id": "3_17701843",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "3",
@@ -25478,7 +25478,7 @@
       ]
     },
     {
-      "trip_id": "3_17597832",
+      "trip_id": "3_17701845",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "3",
@@ -25819,7 +25819,7 @@
       ]
     },
     {
-      "trip_id": "3_17597833",
+      "trip_id": "3_17701846",
       "direction_id": "0",
       "headsign": "KSIĘŻE WIELKIE",
       "service_id": "3",
@@ -26160,7 +26160,7 @@
       ]
     },
     {
-      "trip_id": "3_17597836",
+      "trip_id": "3_17701849",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "3",
@@ -26501,7 +26501,7 @@
       ]
     },
     {
-      "trip_id": "3_17597837",
+      "trip_id": "3_17701850",
       "direction_id": "0",
       "headsign": "KSIĘŻE WIELKIE",
       "service_id": "3",
@@ -26842,7 +26842,7 @@
       ]
     },
     {
-      "trip_id": "3_17597840",
+      "trip_id": "3_17701853",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "3",
@@ -27183,7 +27183,7 @@
       ]
     },
     {
-      "trip_id": "3_17597841",
+      "trip_id": "3_17701854",
       "direction_id": "0",
       "headsign": "KSIĘŻE WIELKIE",
       "service_id": "3",
@@ -27524,7 +27524,7 @@
       ]
     },
     {
-      "trip_id": "3_17598919",
+      "trip_id": "3_17702932",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "3",
@@ -27865,7 +27865,7 @@
       ]
     },
     {
-      "trip_id": "3_17598959",
+      "trip_id": "3_17702972",
       "direction_id": "0",
       "headsign": "KSIĘŻE WIELKIE",
       "service_id": "3",
@@ -28197,7 +28197,7 @@
       ]
     },
     {
-      "trip_id": "3_17598960",
+      "trip_id": "3_17702973",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "3",
@@ -28538,7 +28538,7 @@
       ]
     },
     {
-      "trip_id": "3_17599156",
+      "trip_id": "3_17703169",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "3",
@@ -28681,7 +28681,7 @@
       ]
     },
     {
-      "trip_id": "3_17599157",
+      "trip_id": "3_17703170",
       "direction_id": "0",
       "headsign": "KSIĘŻE WIELKIE",
       "service_id": "3",
@@ -29022,7 +29022,7 @@
       ]
     },
     {
-      "trip_id": "3_17599158",
+      "trip_id": "3_17703171",
       "direction_id": "1",
       "headsign": "FAT",
       "service_id": "3",
@@ -29264,7 +29264,7 @@
       ]
     },
     {
-      "trip_id": "4_17602140",
+      "trip_id": "4_17706153",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "4",
@@ -29605,7 +29605,7 @@
       ]
     },
     {
-      "trip_id": "4_17602141",
+      "trip_id": "4_17706154",
       "direction_id": "0",
       "headsign": "KSIĘŻE WIELKIE",
       "service_id": "4",
@@ -29946,7 +29946,7 @@
       ]
     },
     {
-      "trip_id": "4_17602142",
+      "trip_id": "4_17706155",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "4",
@@ -30287,7 +30287,7 @@
       ]
     },
     {
-      "trip_id": "4_17602143",
+      "trip_id": "4_17706156",
       "direction_id": "0",
       "headsign": "KSIĘŻE WIELKIE",
       "service_id": "4",
@@ -30628,7 +30628,7 @@
       ]
     },
     {
-      "trip_id": "4_17602144",
+      "trip_id": "4_17706157",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "4",
@@ -30969,7 +30969,7 @@
       ]
     },
     {
-      "trip_id": "4_17602145",
+      "trip_id": "4_17706158",
       "direction_id": "0",
       "headsign": "KSIĘŻE WIELKIE",
       "service_id": "4",
@@ -31310,7 +31310,7 @@
       ]
     },
     {
-      "trip_id": "4_17602148",
+      "trip_id": "4_17706161",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "4",
@@ -31651,7 +31651,7 @@
       ]
     },
     {
-      "trip_id": "4_17602149",
+      "trip_id": "4_17706162",
       "direction_id": "0",
       "headsign": "KSIĘŻE WIELKIE",
       "service_id": "4",
@@ -31992,7 +31992,7 @@
       ]
     },
     {
-      "trip_id": "4_17602152",
+      "trip_id": "4_17706165",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "4",
@@ -32333,7 +32333,7 @@
       ]
     },
     {
-      "trip_id": "4_17602153",
+      "trip_id": "4_17706166",
       "direction_id": "0",
       "headsign": "KSIĘŻE WIELKIE",
       "service_id": "4",
@@ -32674,7 +32674,7 @@
       ]
     },
     {
-      "trip_id": "4_17602156",
+      "trip_id": "4_17706169",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "4",
@@ -33015,7 +33015,7 @@
       ]
     },
     {
-      "trip_id": "4_17602157",
+      "trip_id": "4_17706170",
       "direction_id": "0",
       "headsign": "KSIĘŻE WIELKIE",
       "service_id": "4",
@@ -33356,7 +33356,7 @@
       ]
     },
     {
-      "trip_id": "4_17602158",
+      "trip_id": "4_17706171",
       "direction_id": "1",
       "headsign": "FAT",
       "service_id": "4",
@@ -33598,7 +33598,7 @@
       ]
     },
     {
-      "trip_id": "4_17602161",
+      "trip_id": "4_17706174",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "4",
@@ -33939,7 +33939,7 @@
       ]
     },
     {
-      "trip_id": "4_17602162",
+      "trip_id": "4_17706175",
       "direction_id": "0",
       "headsign": "KSIĘŻE WIELKIE",
       "service_id": "4",
@@ -34280,7 +34280,7 @@
       ]
     },
     {
-      "trip_id": "4_17602163",
+      "trip_id": "4_17706176",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "4",
@@ -34621,7 +34621,7 @@
       ]
     },
     {
-      "trip_id": "4_17602164",
+      "trip_id": "4_17706177",
       "direction_id": "0",
       "headsign": "KSIĘŻE WIELKIE",
       "service_id": "4",
@@ -34962,7 +34962,7 @@
       ]
     },
     {
-      "trip_id": "4_17602165",
+      "trip_id": "4_17706178",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "4",
@@ -35303,7 +35303,7 @@
       ]
     },
     {
-      "trip_id": "4_17602166",
+      "trip_id": "4_17706179",
       "direction_id": "0",
       "headsign": "KSIĘŻE WIELKIE",
       "service_id": "4",
@@ -35644,7 +35644,7 @@
       ]
     },
     {
-      "trip_id": "4_17602169",
+      "trip_id": "4_17706182",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "4",
@@ -35985,7 +35985,7 @@
       ]
     },
     {
-      "trip_id": "4_17602170",
+      "trip_id": "4_17706183",
       "direction_id": "0",
       "headsign": "KSIĘŻE WIELKIE",
       "service_id": "4",
@@ -36326,7 +36326,7 @@
       ]
     },
     {
-      "trip_id": "4_17602173",
+      "trip_id": "4_17706186",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "4",
@@ -36667,7 +36667,7 @@
       ]
     },
     {
-      "trip_id": "4_17602174",
+      "trip_id": "4_17706187",
       "direction_id": "0",
       "headsign": "KSIĘŻE WIELKIE",
       "service_id": "4",
@@ -37008,7 +37008,7 @@
       ]
     },
     {
-      "trip_id": "4_17602178",
+      "trip_id": "4_17706191",
       "direction_id": "0",
       "headsign": "KSIĘŻE WIELKIE",
       "service_id": "4",
@@ -37349,7 +37349,7 @@
       ]
     },
     {
-      "trip_id": "4_17602180",
+      "trip_id": "4_17706193",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "4",
@@ -37690,7 +37690,7 @@
       ]
     },
     {
-      "trip_id": "4_17602181",
+      "trip_id": "4_17706194",
       "direction_id": "0",
       "headsign": "KSIĘŻE WIELKIE",
       "service_id": "4",
@@ -38031,7 +38031,7 @@
       ]
     },
     {
-      "trip_id": "4_17602182",
+      "trip_id": "4_17706195",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "4",
@@ -38372,7 +38372,7 @@
       ]
     },
     {
-      "trip_id": "4_17602183",
+      "trip_id": "4_17706196",
       "direction_id": "0",
       "headsign": "KSIĘŻE WIELKIE",
       "service_id": "4",
@@ -38713,7 +38713,7 @@
       ]
     },
     {
-      "trip_id": "4_17602184",
+      "trip_id": "4_17706197",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "4",
@@ -39054,7 +39054,7 @@
       ]
     },
     {
-      "trip_id": "4_17602185",
+      "trip_id": "4_17706198",
       "direction_id": "0",
       "headsign": "KSIĘŻE WIELKIE",
       "service_id": "4",
@@ -39395,7 +39395,7 @@
       ]
     },
     {
-      "trip_id": "4_17602188",
+      "trip_id": "4_17706201",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "4",
@@ -39736,7 +39736,7 @@
       ]
     },
     {
-      "trip_id": "4_17602189",
+      "trip_id": "4_17706202",
       "direction_id": "0",
       "headsign": "KSIĘŻE WIELKIE",
       "service_id": "4",
@@ -40077,7 +40077,7 @@
       ]
     },
     {
-      "trip_id": "4_17602192",
+      "trip_id": "4_17706205",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "4",
@@ -40418,7 +40418,7 @@
       ]
     },
     {
-      "trip_id": "4_17602193",
+      "trip_id": "4_17706206",
       "direction_id": "0",
       "headsign": "KSIĘŻE WIELKIE",
       "service_id": "4",
@@ -40759,7 +40759,7 @@
       ]
     },
     {
-      "trip_id": "4_17602197",
+      "trip_id": "4_17706210",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "4",
@@ -41100,7 +41100,7 @@
       ]
     },
     {
-      "trip_id": "4_17602198",
+      "trip_id": "4_17706211",
       "direction_id": "0",
       "headsign": "KSIĘŻE WIELKIE",
       "service_id": "4",
@@ -41441,7 +41441,7 @@
       ]
     },
     {
-      "trip_id": "4_17602199",
+      "trip_id": "4_17706212",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "4",
@@ -41782,7 +41782,7 @@
       ]
     },
     {
-      "trip_id": "4_17602200",
+      "trip_id": "4_17706213",
       "direction_id": "0",
       "headsign": "KSIĘŻE WIELKIE",
       "service_id": "4",
@@ -42123,7 +42123,7 @@
       ]
     },
     {
-      "trip_id": "4_17602203",
+      "trip_id": "4_17706216",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "4",
@@ -42464,7 +42464,7 @@
       ]
     },
     {
-      "trip_id": "4_17602204",
+      "trip_id": "4_17706217",
       "direction_id": "0",
       "headsign": "KSIĘŻE WIELKIE",
       "service_id": "4",
@@ -42805,7 +42805,7 @@
       ]
     },
     {
-      "trip_id": "4_17602207",
+      "trip_id": "4_17706220",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "4",
@@ -43146,7 +43146,7 @@
       ]
     },
     {
-      "trip_id": "4_17602208",
+      "trip_id": "4_17706221",
       "direction_id": "0",
       "headsign": "KSIĘŻE WIELKIE",
       "service_id": "4",
@@ -43487,7 +43487,7 @@
       ]
     },
     {
-      "trip_id": "4_17602211",
+      "trip_id": "4_17706224",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "4",
@@ -43828,7 +43828,7 @@
       ]
     },
     {
-      "trip_id": "4_17602212",
+      "trip_id": "4_17706225",
       "direction_id": "0",
       "headsign": "KSIĘŻE WIELKIE",
       "service_id": "4",
@@ -44169,7 +44169,7 @@
       ]
     },
     {
-      "trip_id": "4_17602214",
+      "trip_id": "4_17706227",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "4",
@@ -44510,7 +44510,7 @@
       ]
     },
     {
-      "trip_id": "4_17602215",
+      "trip_id": "4_17706228",
       "direction_id": "0",
       "headsign": "KSIĘŻE WIELKIE",
       "service_id": "4",
@@ -44851,7 +44851,7 @@
       ]
     },
     {
-      "trip_id": "4_17602216",
+      "trip_id": "4_17706229",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "4",
@@ -45192,7 +45192,7 @@
       ]
     },
     {
-      "trip_id": "4_17602217",
+      "trip_id": "4_17706230",
       "direction_id": "0",
       "headsign": "KSIĘŻE WIELKIE",
       "service_id": "4",
@@ -45533,7 +45533,7 @@
       ]
     },
     {
-      "trip_id": "4_17602220",
+      "trip_id": "4_17706233",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "4",
@@ -45874,7 +45874,7 @@
       ]
     },
     {
-      "trip_id": "4_17602221",
+      "trip_id": "4_17706234",
       "direction_id": "0",
       "headsign": "KSIĘŻE WIELKIE",
       "service_id": "4",
@@ -46215,7 +46215,7 @@
       ]
     },
     {
-      "trip_id": "4_17602224",
+      "trip_id": "4_17706237",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "4",
@@ -46556,7 +46556,7 @@
       ]
     },
     {
-      "trip_id": "4_17602225",
+      "trip_id": "4_17706238",
       "direction_id": "0",
       "headsign": "KSIĘŻE WIELKIE",
       "service_id": "4",
@@ -46897,7 +46897,7 @@
       ]
     },
     {
-      "trip_id": "4_17602229",
+      "trip_id": "4_17706242",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "4",
@@ -47238,7 +47238,7 @@
       ]
     },
     {
-      "trip_id": "4_17602231",
+      "trip_id": "4_17706244",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "4",
@@ -47579,7 +47579,7 @@
       ]
     },
     {
-      "trip_id": "4_17602232",
+      "trip_id": "4_17706245",
       "direction_id": "0",
       "headsign": "KSIĘŻE WIELKIE",
       "service_id": "4",
@@ -47920,7 +47920,7 @@
       ]
     },
     {
-      "trip_id": "4_17602235",
+      "trip_id": "4_17706248",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "4",
@@ -48261,7 +48261,7 @@
       ]
     },
     {
-      "trip_id": "4_17602236",
+      "trip_id": "4_17706249",
       "direction_id": "0",
       "headsign": "KSIĘŻE WIELKIE",
       "service_id": "4",
@@ -48602,7 +48602,7 @@
       ]
     },
     {
-      "trip_id": "4_17602239",
+      "trip_id": "4_17706252",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "4",
@@ -48943,7 +48943,7 @@
       ]
     },
     {
-      "trip_id": "4_17602240",
+      "trip_id": "4_17706253",
       "direction_id": "0",
       "headsign": "KSIĘŻE WIELKIE",
       "service_id": "4",
@@ -49284,7 +49284,7 @@
       ]
     },
     {
-      "trip_id": "4_17602244",
+      "trip_id": "4_17706257",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "4",
@@ -49625,7 +49625,7 @@
       ]
     },
     {
-      "trip_id": "4_17602245",
+      "trip_id": "4_17706258",
       "direction_id": "0",
       "headsign": "KSIĘŻE WIELKIE",
       "service_id": "4",
@@ -49966,7 +49966,7 @@
       ]
     },
     {
-      "trip_id": "4_17602248",
+      "trip_id": "4_17706261",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "4",
@@ -50307,7 +50307,7 @@
       ]
     },
     {
-      "trip_id": "4_17602249",
+      "trip_id": "4_17706262",
       "direction_id": "0",
       "headsign": "KSIĘŻE WIELKIE",
       "service_id": "4",
@@ -50648,7 +50648,7 @@
       ]
     },
     {
-      "trip_id": "4_17602252",
+      "trip_id": "4_17706265",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "4",
@@ -50989,7 +50989,7 @@
       ]
     },
     {
-      "trip_id": "4_17602253",
+      "trip_id": "4_17706266",
       "direction_id": "0",
       "headsign": "KSIĘŻE WIELKIE",
       "service_id": "4",
@@ -51330,7 +51330,7 @@
       ]
     },
     {
-      "trip_id": "4_17602257",
+      "trip_id": "4_17706270",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "4",
@@ -51671,7 +51671,7 @@
       ]
     },
     {
-      "trip_id": "4_17602258",
+      "trip_id": "4_17706271",
       "direction_id": "0",
       "headsign": "KSIĘŻE WIELKIE",
       "service_id": "4",
@@ -52012,7 +52012,7 @@
       ]
     },
     {
-      "trip_id": "4_17602261",
+      "trip_id": "4_17706274",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "4",
@@ -52353,7 +52353,7 @@
       ]
     },
     {
-      "trip_id": "4_17602262",
+      "trip_id": "4_17706275",
       "direction_id": "0",
       "headsign": "KSIĘŻE WIELKIE",
       "service_id": "4",
@@ -52694,7 +52694,7 @@
       ]
     },
     {
-      "trip_id": "4_17602265",
+      "trip_id": "4_17706278",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "4",
@@ -53035,7 +53035,7 @@
       ]
     },
     {
-      "trip_id": "4_17602266",
+      "trip_id": "4_17706279",
       "direction_id": "0",
       "headsign": "KSIĘŻE WIELKIE",
       "service_id": "4",
@@ -53376,7 +53376,7 @@
       ]
     },
     {
-      "trip_id": "4_17602267",
+      "trip_id": "4_17706280",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "4",
@@ -53717,7 +53717,7 @@
       ]
     },
     {
-      "trip_id": "4_17602268",
+      "trip_id": "4_17706281",
       "direction_id": "0",
       "headsign": "KSIĘŻE WIELKIE",
       "service_id": "4",
@@ -54058,7 +54058,7 @@
       ]
     },
     {
-      "trip_id": "4_17602270",
+      "trip_id": "4_17706283",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "4",
@@ -54399,7 +54399,7 @@
       ]
     },
     {
-      "trip_id": "4_17602271",
+      "trip_id": "4_17706284",
       "direction_id": "0",
       "headsign": "KSIĘŻE WIELKIE",
       "service_id": "4",
@@ -54740,7 +54740,7 @@
       ]
     },
     {
-      "trip_id": "4_17602274",
+      "trip_id": "4_17706287",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "4",
@@ -55081,7 +55081,7 @@
       ]
     },
     {
-      "trip_id": "4_17602275",
+      "trip_id": "4_17706288",
       "direction_id": "0",
       "headsign": "KSIĘŻE WIELKIE",
       "service_id": "4",
@@ -55422,7 +55422,7 @@
       ]
     },
     {
-      "trip_id": "4_17602278",
+      "trip_id": "4_17706291",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "4",
@@ -55763,7 +55763,7 @@
       ]
     },
     {
-      "trip_id": "4_17602279",
+      "trip_id": "4_17706292",
       "direction_id": "0",
       "headsign": "KSIĘŻE WIELKIE",
       "service_id": "4",
@@ -56104,7 +56104,7 @@
       ]
     },
     {
-      "trip_id": "4_17602281",
+      "trip_id": "4_17706294",
       "direction_id": "0",
       "headsign": "KSIĘŻE WIELKIE",
       "service_id": "4",
@@ -56445,7 +56445,7 @@
       ]
     },
     {
-      "trip_id": "4_17603331",
+      "trip_id": "4_17707344",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "4",
@@ -56786,7 +56786,7 @@
       ]
     },
     {
-      "trip_id": "4_17603371",
+      "trip_id": "4_17707384",
       "direction_id": "0",
       "headsign": "KSIĘŻE WIELKIE",
       "service_id": "4",
@@ -57118,7 +57118,7 @@
       ]
     },
     {
-      "trip_id": "4_17603372",
+      "trip_id": "4_17707385",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "4",
@@ -57459,7 +57459,7 @@
       ]
     },
     {
-      "trip_id": "4_17603564",
+      "trip_id": "4_17707577",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "4",
@@ -57602,7 +57602,7 @@
       ]
     },
     {
-      "trip_id": "4_17603565",
+      "trip_id": "4_17707578",
       "direction_id": "0",
       "headsign": "KSIĘŻE WIELKIE",
       "service_id": "4",
@@ -57943,7 +57943,7 @@
       ]
     },
     {
-      "trip_id": "4_17603566",
+      "trip_id": "4_17707579",
       "direction_id": "1",
       "headsign": "FAT",
       "service_id": "4",
@@ -58185,7 +58185,7 @@
       ]
     },
     {
-      "trip_id": "6_17607691",
+      "trip_id": "6_17711704",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "6",
@@ -58526,7 +58526,7 @@
       ]
     },
     {
-      "trip_id": "6_17607692",
+      "trip_id": "6_17711705",
       "direction_id": "0",
       "headsign": "KSIĘŻE WIELKIE",
       "service_id": "6",
@@ -58867,7 +58867,7 @@
       ]
     },
     {
-      "trip_id": "6_17607693",
+      "trip_id": "6_17711706",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "6",
@@ -59208,7 +59208,7 @@
       ]
     },
     {
-      "trip_id": "6_17607696",
+      "trip_id": "6_17711709",
       "direction_id": "0",
       "headsign": "KSIĘŻE WIELKIE",
       "service_id": "6",
@@ -59549,7 +59549,7 @@
       ]
     },
     {
-      "trip_id": "6_17607698",
+      "trip_id": "6_17711711",
       "direction_id": "0",
       "headsign": "KSIĘŻE WIELKIE",
       "service_id": "6",
@@ -59890,7 +59890,7 @@
       ]
     },
     {
-      "trip_id": "6_17607701",
+      "trip_id": "6_17711714",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "6",
@@ -60231,7 +60231,7 @@
       ]
     },
     {
-      "trip_id": "6_17607702",
+      "trip_id": "6_17711715",
       "direction_id": "0",
       "headsign": "KSIĘŻE WIELKIE",
       "service_id": "6",
@@ -60572,7 +60572,7 @@
       ]
     },
     {
-      "trip_id": "6_17607703",
+      "trip_id": "6_17711716",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "6",
@@ -60913,7 +60913,7 @@
       ]
     },
     {
-      "trip_id": "6_17607706",
+      "trip_id": "6_17711719",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "6",
@@ -61254,7 +61254,7 @@
       ]
     },
     {
-      "trip_id": "6_17607707",
+      "trip_id": "6_17711720",
       "direction_id": "0",
       "headsign": "KSIĘŻE WIELKIE",
       "service_id": "6",
@@ -61595,7 +61595,7 @@
       ]
     },
     {
-      "trip_id": "6_17607708",
+      "trip_id": "6_17711721",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "6",
@@ -61936,7 +61936,7 @@
       ]
     },
     {
-      "trip_id": "6_17607711",
+      "trip_id": "6_17711724",
       "direction_id": "0",
       "headsign": "KSIĘŻE WIELKIE",
       "service_id": "6",
@@ -62277,7 +62277,7 @@
       ]
     },
     {
-      "trip_id": "6_17607713",
+      "trip_id": "6_17711726",
       "direction_id": "0",
       "headsign": "KSIĘŻE WIELKIE",
       "service_id": "6",
@@ -62618,7 +62618,7 @@
       ]
     },
     {
-      "trip_id": "6_17607716",
+      "trip_id": "6_17711729",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "6",
@@ -62959,7 +62959,7 @@
       ]
     },
     {
-      "trip_id": "6_17607717",
+      "trip_id": "6_17711730",
       "direction_id": "0",
       "headsign": "KSIĘŻE WIELKIE",
       "service_id": "6",
@@ -63300,7 +63300,7 @@
       ]
     },
     {
-      "trip_id": "6_17607718",
+      "trip_id": "6_17711731",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "6",
@@ -63641,7 +63641,7 @@
       ]
     },
     {
-      "trip_id": "6_17607719",
+      "trip_id": "6_17711732",
       "direction_id": "0",
       "headsign": "KSIĘŻE WIELKIE",
       "service_id": "6",
@@ -63982,7 +63982,7 @@
       ]
     },
     {
-      "trip_id": "6_17607721",
+      "trip_id": "6_17711734",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "6",
@@ -64323,7 +64323,7 @@
       ]
     },
     {
-      "trip_id": "6_17607722",
+      "trip_id": "6_17711735",
       "direction_id": "0",
       "headsign": "KSIĘŻE WIELKIE",
       "service_id": "6",
@@ -64664,7 +64664,7 @@
       ]
     },
     {
-      "trip_id": "6_17607724",
+      "trip_id": "6_17711737",
       "direction_id": "0",
       "headsign": "KSIĘŻE WIELKIE",
       "service_id": "6",
@@ -65005,7 +65005,7 @@
       ]
     },
     {
-      "trip_id": "6_17607725",
+      "trip_id": "6_17711738",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "6",
@@ -65346,7 +65346,7 @@
       ]
     },
     {
-      "trip_id": "6_17607727",
+      "trip_id": "6_17711740",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "6",
@@ -65687,7 +65687,7 @@
       ]
     },
     {
-      "trip_id": "6_17607729",
+      "trip_id": "6_17711742",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "6",
@@ -66028,7 +66028,7 @@
       ]
     },
     {
-      "trip_id": "6_17607730",
+      "trip_id": "6_17711743",
       "direction_id": "0",
       "headsign": "KSIĘŻE WIELKIE",
       "service_id": "6",
@@ -66369,7 +66369,7 @@
       ]
     },
     {
-      "trip_id": "6_17607738",
+      "trip_id": "6_17711751",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "6",
@@ -66710,7 +66710,7 @@
       ]
     },
     {
-      "trip_id": "6_17607739",
+      "trip_id": "6_17711752",
       "direction_id": "0",
       "headsign": "KSIĘŻE WIELKIE",
       "service_id": "6",
@@ -67051,7 +67051,7 @@
       ]
     },
     {
-      "trip_id": "6_17607740",
+      "trip_id": "6_17711753",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "6",
@@ -67392,7 +67392,7 @@
       ]
     },
     {
-      "trip_id": "6_17607741",
+      "trip_id": "6_17711754",
       "direction_id": "0",
       "headsign": "KSIĘŻE WIELKIE",
       "service_id": "6",
@@ -67733,7 +67733,7 @@
       ]
     },
     {
-      "trip_id": "6_17607742",
+      "trip_id": "6_17711755",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "6",
@@ -68074,7 +68074,7 @@
       ]
     },
     {
-      "trip_id": "6_17607743",
+      "trip_id": "6_17711756",
       "direction_id": "0",
       "headsign": "KSIĘŻE WIELKIE",
       "service_id": "6",
@@ -68415,7 +68415,7 @@
       ]
     },
     {
-      "trip_id": "6_17607748",
+      "trip_id": "6_17711761",
       "direction_id": "0",
       "headsign": "KSIĘŻE WIELKIE",
       "service_id": "6",
@@ -68684,7 +68684,7 @@
       ]
     },
     {
-      "trip_id": "6_17607750",
+      "trip_id": "6_17711763",
       "direction_id": "0",
       "headsign": "KSIĘŻE WIELKIE",
       "service_id": "6",
@@ -69025,7 +69025,7 @@
       ]
     },
     {
-      "trip_id": "6_17607754",
+      "trip_id": "6_17711767",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "6",
@@ -69366,7 +69366,7 @@
       ]
     },
     {
-      "trip_id": "6_17607757",
+      "trip_id": "6_17711770",
       "direction_id": "0",
       "headsign": "KSIĘŻE WIELKIE",
       "service_id": "6",
@@ -69707,7 +69707,7 @@
       ]
     },
     {
-      "trip_id": "6_17607759",
+      "trip_id": "6_17711772",
       "direction_id": "0",
       "headsign": "KSIĘŻE WIELKIE",
       "service_id": "6",
@@ -70048,7 +70048,7 @@
       ]
     },
     {
-      "trip_id": "6_17607760",
+      "trip_id": "6_17711773",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "6",
@@ -70389,7 +70389,7 @@
       ]
     },
     {
-      "trip_id": "6_17607761",
+      "trip_id": "6_17711774",
       "direction_id": "0",
       "headsign": "KSIĘŻE WIELKIE",
       "service_id": "6",
@@ -70730,7 +70730,7 @@
       ]
     },
     {
-      "trip_id": "6_17607767",
+      "trip_id": "6_17711780",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "6",
@@ -71071,7 +71071,7 @@
       ]
     },
     {
-      "trip_id": "6_17607768",
+      "trip_id": "6_17711781",
       "direction_id": "0",
       "headsign": "KSIĘŻE WIELKIE",
       "service_id": "6",
@@ -71412,7 +71412,7 @@
       ]
     },
     {
-      "trip_id": "6_17607770",
+      "trip_id": "6_17711783",
       "direction_id": "0",
       "headsign": "KSIĘŻE WIELKIE",
       "service_id": "6",
@@ -71753,7 +71753,7 @@
       ]
     },
     {
-      "trip_id": "6_17607771",
+      "trip_id": "6_17711784",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "6",
@@ -72094,7 +72094,7 @@
       ]
     },
     {
-      "trip_id": "6_17607773",
+      "trip_id": "6_17711786",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "6",
@@ -72435,7 +72435,7 @@
       ]
     },
     {
-      "trip_id": "6_17607778",
+      "trip_id": "6_17711791",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "6",
@@ -72776,7 +72776,7 @@
       ]
     },
     {
-      "trip_id": "6_17607779",
+      "trip_id": "6_17711792",
       "direction_id": "0",
       "headsign": "KSIĘŻE WIELKIE",
       "service_id": "6",
@@ -73117,7 +73117,7 @@
       ]
     },
     {
-      "trip_id": "6_17607780",
+      "trip_id": "6_17711793",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "6",
@@ -73458,7 +73458,7 @@
       ]
     },
     {
-      "trip_id": "6_17607782",
+      "trip_id": "6_17711795",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "6",
@@ -73799,7 +73799,7 @@
       ]
     },
     {
-      "trip_id": "6_17607785",
+      "trip_id": "6_17711798",
       "direction_id": "0",
       "headsign": "KSIĘŻE WIELKIE",
       "service_id": "6",
@@ -74140,7 +74140,7 @@
       ]
     },
     {
-      "trip_id": "6_17607787",
+      "trip_id": "6_17711800",
       "direction_id": "0",
       "headsign": "KSIĘŻE WIELKIE",
       "service_id": "6",
@@ -74481,7 +74481,7 @@
       ]
     },
     {
-      "trip_id": "6_17607788",
+      "trip_id": "6_17711801",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "6",
@@ -74822,7 +74822,7 @@
       ]
     },
     {
-      "trip_id": "6_17607789",
+      "trip_id": "6_17711802",
       "direction_id": "0",
       "headsign": "KSIĘŻE WIELKIE",
       "service_id": "6",
@@ -75163,7 +75163,7 @@
       ]
     },
     {
-      "trip_id": "6_17607790",
+      "trip_id": "6_17711803",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "6",
@@ -75504,7 +75504,7 @@
       ]
     },
     {
-      "trip_id": "6_17607791",
+      "trip_id": "6_17711804",
       "direction_id": "0",
       "headsign": "KSIĘŻE WIELKIE",
       "service_id": "6",
@@ -75845,7 +75845,7 @@
       ]
     },
     {
-      "trip_id": "6_17607792",
+      "trip_id": "6_17711805",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "6",
@@ -76186,7 +76186,7 @@
       ]
     },
     {
-      "trip_id": "6_17607793",
+      "trip_id": "6_17711806",
       "direction_id": "0",
       "headsign": "KSIĘŻE WIELKIE",
       "service_id": "6",
@@ -76527,7 +76527,7 @@
       ]
     },
     {
-      "trip_id": "6_17607796",
+      "trip_id": "6_17711809",
       "direction_id": "0",
       "headsign": "KSIĘŻE WIELKIE",
       "service_id": "6",
@@ -76868,7 +76868,7 @@
       ]
     },
     {
-      "trip_id": "6_17607797",
+      "trip_id": "6_17711810",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "6",
@@ -77209,7 +77209,7 @@
       ]
     },
     {
-      "trip_id": "6_17607799",
+      "trip_id": "6_17711812",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "6",
@@ -77550,7 +77550,7 @@
       ]
     },
     {
-      "trip_id": "6_17607801",
+      "trip_id": "6_17711814",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "6",
@@ -77891,7 +77891,7 @@
       ]
     },
     {
-      "trip_id": "6_17607802",
+      "trip_id": "6_17711815",
       "direction_id": "0",
       "headsign": "KSIĘŻE WIELKIE",
       "service_id": "6",
@@ -78232,7 +78232,7 @@
       ]
     },
     {
-      "trip_id": "6_17607808",
+      "trip_id": "6_17711821",
       "direction_id": "0",
       "headsign": "KSIĘŻE WIELKIE",
       "service_id": "6",
@@ -78573,7 +78573,7 @@
       ]
     },
     {
-      "trip_id": "6_17607811",
+      "trip_id": "6_17711824",
       "direction_id": "0",
       "headsign": "KSIĘŻE WIELKIE",
       "service_id": "6",
@@ -78914,7 +78914,7 @@
       ]
     },
     {
-      "trip_id": "6_17607812",
+      "trip_id": "6_17711825",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "6",
@@ -79255,7 +79255,7 @@
       ]
     },
     {
-      "trip_id": "6_17607814",
+      "trip_id": "6_17711827",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "6",
@@ -79596,7 +79596,7 @@
       ]
     },
     {
-      "trip_id": "6_17607816",
+      "trip_id": "6_17711829",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "6",
@@ -79937,7 +79937,7 @@
       ]
     },
     {
-      "trip_id": "6_17607817",
+      "trip_id": "6_17711830",
       "direction_id": "0",
       "headsign": "KSIĘŻE WIELKIE",
       "service_id": "6",
@@ -80278,7 +80278,7 @@
       ]
     },
     {
-      "trip_id": "6_17607821",
+      "trip_id": "6_17711834",
       "direction_id": "0",
       "headsign": "KSIĘŻE WIELKIE",
       "service_id": "6",
@@ -80619,7 +80619,7 @@
       ]
     },
     {
-      "trip_id": "6_17607822",
+      "trip_id": "6_17711835",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "6",
@@ -80960,7 +80960,7 @@
       ]
     },
     {
-      "trip_id": "6_17607823",
+      "trip_id": "6_17711836",
       "direction_id": "0",
       "headsign": "KSIĘŻE WIELKIE",
       "service_id": "6",
@@ -81301,7 +81301,7 @@
       ]
     },
     {
-      "trip_id": "6_17607824",
+      "trip_id": "6_17711837",
       "direction_id": "1",
       "headsign": "FAT",
       "service_id": "6",
@@ -81543,7 +81543,7 @@
       ]
     },
     {
-      "trip_id": "6_17607828",
+      "trip_id": "6_17711841",
       "direction_id": "0",
       "headsign": "KSIĘŻE WIELKIE",
       "service_id": "6",
@@ -81884,7 +81884,7 @@
       ]
     },
     {
-      "trip_id": "6_17607829",
+      "trip_id": "6_17711842",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "6",
@@ -82225,7 +82225,7 @@
       ]
     },
     {
-      "trip_id": "6_17607831",
+      "trip_id": "6_17711844",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "6",
@@ -82566,7 +82566,7 @@
       ]
     },
     {
-      "trip_id": "6_17607833",
+      "trip_id": "6_17711846",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "6",
@@ -82907,7 +82907,7 @@
       ]
     },
     {
-      "trip_id": "6_17607834",
+      "trip_id": "6_17711847",
       "direction_id": "0",
       "headsign": "KSIĘŻE WIELKIE",
       "service_id": "6",
@@ -83248,7 +83248,7 @@
       ]
     },
     {
-      "trip_id": "6_17607840",
+      "trip_id": "6_17711853",
       "direction_id": "0",
       "headsign": "KSIĘŻE WIELKIE",
       "service_id": "6",
@@ -83589,7 +83589,7 @@
       ]
     },
     {
-      "trip_id": "6_17607842",
+      "trip_id": "6_17711855",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "6",
@@ -83930,7 +83930,7 @@
       ]
     },
     {
-      "trip_id": "6_17607845",
+      "trip_id": "6_17711858",
       "direction_id": "0",
       "headsign": "KSIĘŻE WIELKIE",
       "service_id": "6",
@@ -84271,7 +84271,7 @@
       ]
     },
     {
-      "trip_id": "6_17607847",
+      "trip_id": "6_17711860",
       "direction_id": "0",
       "headsign": "KSIĘŻE WIELKIE",
       "service_id": "6",
@@ -84612,7 +84612,7 @@
       ]
     },
     {
-      "trip_id": "6_17607850",
+      "trip_id": "6_17711863",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "6",
@@ -84953,7 +84953,7 @@
       ]
     },
     {
-      "trip_id": "6_17607851",
+      "trip_id": "6_17711864",
       "direction_id": "0",
       "headsign": "KSIĘŻE WIELKIE",
       "service_id": "6",
@@ -85294,7 +85294,7 @@
       ]
     },
     {
-      "trip_id": "6_17607852",
+      "trip_id": "6_17711865",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "6",
@@ -85635,7 +85635,7 @@
       ]
     },
     {
-      "trip_id": "6_17607853",
+      "trip_id": "6_17711866",
       "direction_id": "0",
       "headsign": "KSIĘŻE WIELKIE",
       "service_id": "6",
@@ -85976,7 +85976,7 @@
       ]
     },
     {
-      "trip_id": "6_17609530",
+      "trip_id": "6_17713543",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "6",
@@ -86317,7 +86317,7 @@
       ]
     },
     {
-      "trip_id": "6_17609570",
+      "trip_id": "6_17713583",
       "direction_id": "0",
       "headsign": "KSIĘŻE WIELKIE",
       "service_id": "6",
@@ -86649,7 +86649,7 @@
       ]
     },
     {
-      "trip_id": "6_17609571",
+      "trip_id": "6_17713584",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "6",
@@ -86990,7 +86990,7 @@
       ]
     },
     {
-      "trip_id": "6_17609754",
+      "trip_id": "6_17713767",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "6",
@@ -87133,7 +87133,7 @@
       ]
     },
     {
-      "trip_id": "6_17609755",
+      "trip_id": "6_17713768",
       "direction_id": "0",
       "headsign": "KSIĘŻE WIELKIE",
       "service_id": "6",
@@ -87474,7 +87474,7 @@
       ]
     },
     {
-      "trip_id": "6_17609756",
+      "trip_id": "6_17713769",
       "direction_id": "1",
       "headsign": "FAT",
       "service_id": "6",
@@ -87716,7 +87716,7 @@
       ]
     },
     {
-      "trip_id": "8_17614517",
+      "trip_id": "8_17718530",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "8",
@@ -88057,7 +88057,7 @@
       ]
     },
     {
-      "trip_id": "8_17614518",
+      "trip_id": "8_17718531",
       "direction_id": "0",
       "headsign": "KSIĘŻE WIELKIE",
       "service_id": "8",
@@ -88398,7 +88398,7 @@
       ]
     },
     {
-      "trip_id": "8_17614519",
+      "trip_id": "8_17718532",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "8",
@@ -88739,7 +88739,7 @@
       ]
     },
     {
-      "trip_id": "8_17614522",
+      "trip_id": "8_17718535",
       "direction_id": "0",
       "headsign": "KSIĘŻE WIELKIE",
       "service_id": "8",
@@ -89080,7 +89080,7 @@
       ]
     },
     {
-      "trip_id": "8_17614524",
+      "trip_id": "8_17718537",
       "direction_id": "0",
       "headsign": "KSIĘŻE WIELKIE",
       "service_id": "8",
@@ -89421,7 +89421,7 @@
       ]
     },
     {
-      "trip_id": "8_17614527",
+      "trip_id": "8_17718540",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "8",
@@ -89762,7 +89762,7 @@
       ]
     },
     {
-      "trip_id": "8_17614528",
+      "trip_id": "8_17718541",
       "direction_id": "0",
       "headsign": "KSIĘŻE WIELKIE",
       "service_id": "8",
@@ -90103,7 +90103,7 @@
       ]
     },
     {
-      "trip_id": "8_17614529",
+      "trip_id": "8_17718542",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "8",
@@ -90444,7 +90444,7 @@
       ]
     },
     {
-      "trip_id": "8_17614532",
+      "trip_id": "8_17718545",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "8",
@@ -90785,7 +90785,7 @@
       ]
     },
     {
-      "trip_id": "8_17614533",
+      "trip_id": "8_17718546",
       "direction_id": "0",
       "headsign": "KSIĘŻE WIELKIE",
       "service_id": "8",
@@ -91126,7 +91126,7 @@
       ]
     },
     {
-      "trip_id": "8_17614534",
+      "trip_id": "8_17718547",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "8",
@@ -91467,7 +91467,7 @@
       ]
     },
     {
-      "trip_id": "8_17614537",
+      "trip_id": "8_17718550",
       "direction_id": "0",
       "headsign": "KSIĘŻE WIELKIE",
       "service_id": "8",
@@ -91808,7 +91808,7 @@
       ]
     },
     {
-      "trip_id": "8_17614539",
+      "trip_id": "8_17718552",
       "direction_id": "0",
       "headsign": "KSIĘŻE WIELKIE",
       "service_id": "8",
@@ -92149,7 +92149,7 @@
       ]
     },
     {
-      "trip_id": "8_17614542",
+      "trip_id": "8_17718555",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "8",
@@ -92490,7 +92490,7 @@
       ]
     },
     {
-      "trip_id": "8_17614543",
+      "trip_id": "8_17718556",
       "direction_id": "0",
       "headsign": "KSIĘŻE WIELKIE",
       "service_id": "8",
@@ -92831,7 +92831,7 @@
       ]
     },
     {
-      "trip_id": "8_17614544",
+      "trip_id": "8_17718557",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "8",
@@ -93172,7 +93172,7 @@
       ]
     },
     {
-      "trip_id": "8_17614545",
+      "trip_id": "8_17718558",
       "direction_id": "0",
       "headsign": "KSIĘŻE WIELKIE",
       "service_id": "8",
@@ -93513,7 +93513,7 @@
       ]
     },
     {
-      "trip_id": "8_17614547",
+      "trip_id": "8_17718560",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "8",
@@ -93854,7 +93854,7 @@
       ]
     },
     {
-      "trip_id": "8_17614548",
+      "trip_id": "8_17718561",
       "direction_id": "0",
       "headsign": "KSIĘŻE WIELKIE",
       "service_id": "8",
@@ -94195,7 +94195,7 @@
       ]
     },
     {
-      "trip_id": "8_17614550",
+      "trip_id": "8_17718563",
       "direction_id": "0",
       "headsign": "KSIĘŻE WIELKIE",
       "service_id": "8",
@@ -94536,7 +94536,7 @@
       ]
     },
     {
-      "trip_id": "8_17614551",
+      "trip_id": "8_17718564",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "8",
@@ -94877,7 +94877,7 @@
       ]
     },
     {
-      "trip_id": "8_17614553",
+      "trip_id": "8_17718566",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "8",
@@ -95218,7 +95218,7 @@
       ]
     },
     {
-      "trip_id": "8_17614555",
+      "trip_id": "8_17718568",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "8",
@@ -95559,7 +95559,7 @@
       ]
     },
     {
-      "trip_id": "8_17614556",
+      "trip_id": "8_17718569",
       "direction_id": "0",
       "headsign": "KSIĘŻE WIELKIE",
       "service_id": "8",
@@ -95900,7 +95900,7 @@
       ]
     },
     {
-      "trip_id": "8_17614564",
+      "trip_id": "8_17718577",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "8",
@@ -96241,7 +96241,7 @@
       ]
     },
     {
-      "trip_id": "8_17614565",
+      "trip_id": "8_17718578",
       "direction_id": "0",
       "headsign": "KSIĘŻE WIELKIE",
       "service_id": "8",
@@ -96582,7 +96582,7 @@
       ]
     },
     {
-      "trip_id": "8_17614566",
+      "trip_id": "8_17718579",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "8",
@@ -96923,7 +96923,7 @@
       ]
     },
     {
-      "trip_id": "8_17614567",
+      "trip_id": "8_17718580",
       "direction_id": "0",
       "headsign": "KSIĘŻE WIELKIE",
       "service_id": "8",
@@ -97264,7 +97264,7 @@
       ]
     },
     {
-      "trip_id": "8_17614568",
+      "trip_id": "8_17718581",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "8",
@@ -97605,7 +97605,7 @@
       ]
     },
     {
-      "trip_id": "8_17614569",
+      "trip_id": "8_17718582",
       "direction_id": "0",
       "headsign": "KSIĘŻE WIELKIE",
       "service_id": "8",
@@ -97946,7 +97946,7 @@
       ]
     },
     {
-      "trip_id": "8_17614574",
+      "trip_id": "8_17718587",
       "direction_id": "0",
       "headsign": "KSIĘŻE WIELKIE",
       "service_id": "8",
@@ -98215,7 +98215,7 @@
       ]
     },
     {
-      "trip_id": "8_17614576",
+      "trip_id": "8_17718589",
       "direction_id": "0",
       "headsign": "KSIĘŻE WIELKIE",
       "service_id": "8",
@@ -98556,7 +98556,7 @@
       ]
     },
     {
-      "trip_id": "8_17614580",
+      "trip_id": "8_17718593",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "8",
@@ -98897,7 +98897,7 @@
       ]
     },
     {
-      "trip_id": "8_17614583",
+      "trip_id": "8_17718596",
       "direction_id": "0",
       "headsign": "KSIĘŻE WIELKIE",
       "service_id": "8",
@@ -99238,7 +99238,7 @@
       ]
     },
     {
-      "trip_id": "8_17614585",
+      "trip_id": "8_17718598",
       "direction_id": "0",
       "headsign": "KSIĘŻE WIELKIE",
       "service_id": "8",
@@ -99579,7 +99579,7 @@
       ]
     },
     {
-      "trip_id": "8_17614586",
+      "trip_id": "8_17718599",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "8",
@@ -99920,7 +99920,7 @@
       ]
     },
     {
-      "trip_id": "8_17614587",
+      "trip_id": "8_17718600",
       "direction_id": "0",
       "headsign": "KSIĘŻE WIELKIE",
       "service_id": "8",
@@ -100261,7 +100261,7 @@
       ]
     },
     {
-      "trip_id": "8_17614593",
+      "trip_id": "8_17718606",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "8",
@@ -100602,7 +100602,7 @@
       ]
     },
     {
-      "trip_id": "8_17614594",
+      "trip_id": "8_17718607",
       "direction_id": "0",
       "headsign": "KSIĘŻE WIELKIE",
       "service_id": "8",
@@ -100943,7 +100943,7 @@
       ]
     },
     {
-      "trip_id": "8_17614596",
+      "trip_id": "8_17718609",
       "direction_id": "0",
       "headsign": "KSIĘŻE WIELKIE",
       "service_id": "8",
@@ -101284,7 +101284,7 @@
       ]
     },
     {
-      "trip_id": "8_17614597",
+      "trip_id": "8_17718610",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "8",
@@ -101625,7 +101625,7 @@
       ]
     },
     {
-      "trip_id": "8_17614599",
+      "trip_id": "8_17718612",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "8",
@@ -101966,7 +101966,7 @@
       ]
     },
     {
-      "trip_id": "8_17614604",
+      "trip_id": "8_17718617",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "8",
@@ -102307,7 +102307,7 @@
       ]
     },
     {
-      "trip_id": "8_17614605",
+      "trip_id": "8_17718618",
       "direction_id": "0",
       "headsign": "KSIĘŻE WIELKIE",
       "service_id": "8",
@@ -102648,7 +102648,7 @@
       ]
     },
     {
-      "trip_id": "8_17614606",
+      "trip_id": "8_17718619",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "8",
@@ -102989,7 +102989,7 @@
       ]
     },
     {
-      "trip_id": "8_17614608",
+      "trip_id": "8_17718621",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "8",
@@ -103330,7 +103330,7 @@
       ]
     },
     {
-      "trip_id": "8_17614611",
+      "trip_id": "8_17718624",
       "direction_id": "0",
       "headsign": "KSIĘŻE WIELKIE",
       "service_id": "8",
@@ -103671,7 +103671,7 @@
       ]
     },
     {
-      "trip_id": "8_17614613",
+      "trip_id": "8_17718626",
       "direction_id": "0",
       "headsign": "KSIĘŻE WIELKIE",
       "service_id": "8",
@@ -104012,7 +104012,7 @@
       ]
     },
     {
-      "trip_id": "8_17614614",
+      "trip_id": "8_17718627",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "8",
@@ -104353,7 +104353,7 @@
       ]
     },
     {
-      "trip_id": "8_17614615",
+      "trip_id": "8_17718628",
       "direction_id": "0",
       "headsign": "KSIĘŻE WIELKIE",
       "service_id": "8",
@@ -104694,7 +104694,7 @@
       ]
     },
     {
-      "trip_id": "8_17614616",
+      "trip_id": "8_17718629",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "8",
@@ -105035,7 +105035,7 @@
       ]
     },
     {
-      "trip_id": "8_17614617",
+      "trip_id": "8_17718630",
       "direction_id": "0",
       "headsign": "KSIĘŻE WIELKIE",
       "service_id": "8",
@@ -105376,7 +105376,7 @@
       ]
     },
     {
-      "trip_id": "8_17614618",
+      "trip_id": "8_17718631",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "8",
@@ -105717,7 +105717,7 @@
       ]
     },
     {
-      "trip_id": "8_17614619",
+      "trip_id": "8_17718632",
       "direction_id": "0",
       "headsign": "KSIĘŻE WIELKIE",
       "service_id": "8",
@@ -106058,7 +106058,7 @@
       ]
     },
     {
-      "trip_id": "8_17614622",
+      "trip_id": "8_17718635",
       "direction_id": "0",
       "headsign": "KSIĘŻE WIELKIE",
       "service_id": "8",
@@ -106399,7 +106399,7 @@
       ]
     },
     {
-      "trip_id": "8_17614623",
+      "trip_id": "8_17718636",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "8",
@@ -106740,7 +106740,7 @@
       ]
     },
     {
-      "trip_id": "8_17614625",
+      "trip_id": "8_17718638",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "8",
@@ -107081,7 +107081,7 @@
       ]
     },
     {
-      "trip_id": "8_17614627",
+      "trip_id": "8_17718640",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "8",
@@ -107422,7 +107422,7 @@
       ]
     },
     {
-      "trip_id": "8_17614628",
+      "trip_id": "8_17718641",
       "direction_id": "0",
       "headsign": "KSIĘŻE WIELKIE",
       "service_id": "8",
@@ -107763,7 +107763,7 @@
       ]
     },
     {
-      "trip_id": "8_17614634",
+      "trip_id": "8_17718647",
       "direction_id": "0",
       "headsign": "KSIĘŻE WIELKIE",
       "service_id": "8",
@@ -108104,7 +108104,7 @@
       ]
     },
     {
-      "trip_id": "8_17614637",
+      "trip_id": "8_17718650",
       "direction_id": "0",
       "headsign": "KSIĘŻE WIELKIE",
       "service_id": "8",
@@ -108445,7 +108445,7 @@
       ]
     },
     {
-      "trip_id": "8_17614638",
+      "trip_id": "8_17718651",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "8",
@@ -108786,7 +108786,7 @@
       ]
     },
     {
-      "trip_id": "8_17614640",
+      "trip_id": "8_17718653",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "8",
@@ -109127,7 +109127,7 @@
       ]
     },
     {
-      "trip_id": "8_17614642",
+      "trip_id": "8_17718655",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "8",
@@ -109468,7 +109468,7 @@
       ]
     },
     {
-      "trip_id": "8_17614643",
+      "trip_id": "8_17718656",
       "direction_id": "0",
       "headsign": "KSIĘŻE WIELKIE",
       "service_id": "8",
@@ -109809,7 +109809,7 @@
       ]
     },
     {
-      "trip_id": "8_17614647",
+      "trip_id": "8_17718660",
       "direction_id": "0",
       "headsign": "KSIĘŻE WIELKIE",
       "service_id": "8",
@@ -110150,7 +110150,7 @@
       ]
     },
     {
-      "trip_id": "8_17614648",
+      "trip_id": "8_17718661",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "8",
@@ -110491,7 +110491,7 @@
       ]
     },
     {
-      "trip_id": "8_17614649",
+      "trip_id": "8_17718662",
       "direction_id": "0",
       "headsign": "KSIĘŻE WIELKIE",
       "service_id": "8",
@@ -110832,7 +110832,7 @@
       ]
     },
     {
-      "trip_id": "8_17614650",
+      "trip_id": "8_17718663",
       "direction_id": "1",
       "headsign": "FAT",
       "service_id": "8",
@@ -111074,7 +111074,7 @@
       ]
     },
     {
-      "trip_id": "8_17614654",
+      "trip_id": "8_17718667",
       "direction_id": "0",
       "headsign": "KSIĘŻE WIELKIE",
       "service_id": "8",
@@ -111415,7 +111415,7 @@
       ]
     },
     {
-      "trip_id": "8_17614655",
+      "trip_id": "8_17718668",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "8",
@@ -111756,7 +111756,7 @@
       ]
     },
     {
-      "trip_id": "8_17614657",
+      "trip_id": "8_17718670",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "8",
@@ -112097,7 +112097,7 @@
       ]
     },
     {
-      "trip_id": "8_17614659",
+      "trip_id": "8_17718672",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "8",
@@ -112438,7 +112438,7 @@
       ]
     },
     {
-      "trip_id": "8_17614660",
+      "trip_id": "8_17718673",
       "direction_id": "0",
       "headsign": "KSIĘŻE WIELKIE",
       "service_id": "8",
@@ -112779,7 +112779,7 @@
       ]
     },
     {
-      "trip_id": "8_17614666",
+      "trip_id": "8_17718679",
       "direction_id": "0",
       "headsign": "KSIĘŻE WIELKIE",
       "service_id": "8",
@@ -113120,7 +113120,7 @@
       ]
     },
     {
-      "trip_id": "8_17614668",
+      "trip_id": "8_17718681",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "8",
@@ -113461,7 +113461,7 @@
       ]
     },
     {
-      "trip_id": "8_17614671",
+      "trip_id": "8_17718684",
       "direction_id": "0",
       "headsign": "KSIĘŻE WIELKIE",
       "service_id": "8",
@@ -113802,7 +113802,7 @@
       ]
     },
     {
-      "trip_id": "8_17614673",
+      "trip_id": "8_17718686",
       "direction_id": "0",
       "headsign": "KSIĘŻE WIELKIE",
       "service_id": "8",
@@ -114143,7 +114143,7 @@
       ]
     },
     {
-      "trip_id": "8_17614676",
+      "trip_id": "8_17718689",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "8",
@@ -114484,7 +114484,7 @@
       ]
     },
     {
-      "trip_id": "8_17614677",
+      "trip_id": "8_17718690",
       "direction_id": "0",
       "headsign": "KSIĘŻE WIELKIE",
       "service_id": "8",
@@ -114825,7 +114825,7 @@
       ]
     },
     {
-      "trip_id": "8_17614678",
+      "trip_id": "8_17718691",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "8",
@@ -115166,7 +115166,7 @@
       ]
     },
     {
-      "trip_id": "8_17614679",
+      "trip_id": "8_17718692",
       "direction_id": "0",
       "headsign": "KSIĘŻE WIELKIE",
       "service_id": "8",
@@ -115507,7 +115507,7 @@
       ]
     },
     {
-      "trip_id": "8_17616356",
+      "trip_id": "8_17720369",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "8",
@@ -115848,7 +115848,7 @@
       ]
     },
     {
-      "trip_id": "8_17616396",
+      "trip_id": "8_17720409",
       "direction_id": "0",
       "headsign": "KSIĘŻE WIELKIE",
       "service_id": "8",
@@ -116180,7 +116180,7 @@
       ]
     },
     {
-      "trip_id": "8_17616397",
+      "trip_id": "8_17720410",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "8",
@@ -116521,7 +116521,7 @@
       ]
     },
     {
-      "trip_id": "8_17616584",
+      "trip_id": "8_17720597",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "8",
@@ -116664,7 +116664,7 @@
       ]
     },
     {
-      "trip_id": "8_17616585",
+      "trip_id": "8_17720598",
       "direction_id": "0",
       "headsign": "KSIĘŻE WIELKIE",
       "service_id": "8",
@@ -117005,7 +117005,7 @@
       ]
     },
     {
-      "trip_id": "8_17616586",
+      "trip_id": "8_17720599",
       "direction_id": "1",
       "headsign": "FAT",
       "service_id": "8",

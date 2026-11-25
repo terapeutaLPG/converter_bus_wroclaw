@@ -2,7 +2,7 @@
   "line": "955",
   "trips": [
     {
-      "trip_id": "3_17618194",
+      "trip_id": "3_17636874",
       "direction_id": "1",
       "headsign": "Ratowice - pętla",
       "service_id": "3",
@@ -325,7 +325,7 @@
       ]
     },
     {
-      "trip_id": "3_17618195",
+      "trip_id": "3_17636875",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "3",
@@ -648,7 +648,7 @@
       ]
     },
     {
-      "trip_id": "3_17618202",
+      "trip_id": "3_17636882",
       "direction_id": "1",
       "headsign": "Ratowice - pętla",
       "service_id": "3",
@@ -971,7 +971,7 @@
       ]
     },
     {
-      "trip_id": "3_17618210",
+      "trip_id": "3_17636890",
       "direction_id": "1",
       "headsign": "Ratowice - pętla",
       "service_id": "3",
@@ -1294,7 +1294,7 @@
       ]
     },
     {
-      "trip_id": "3_17618211",
+      "trip_id": "3_17636891",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "3",
@@ -1617,7 +1617,7 @@
       ]
     },
     {
-      "trip_id": "3_17618214",
+      "trip_id": "3_17636894",
       "direction_id": "1",
       "headsign": "Ratowice - pętla",
       "service_id": "3",
@@ -1940,7 +1940,7 @@
       ]
     },
     {
-      "trip_id": "3_17618215",
+      "trip_id": "3_17636895",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "3",
@@ -2263,7 +2263,7 @@
       ]
     },
     {
-      "trip_id": "3_17618216",
+      "trip_id": "3_17636896",
       "direction_id": "1",
       "headsign": "Ratowice - pętla",
       "service_id": "3",
@@ -2586,7 +2586,7 @@
       ]
     },
     {
-      "trip_id": "3_17618217",
+      "trip_id": "3_17636897",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "3",
@@ -2909,7 +2909,7 @@
       ]
     },
     {
-      "trip_id": "3_17618219",
+      "trip_id": "3_17636899",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "3",
@@ -3232,7 +3232,7 @@
       ]
     },
     {
-      "trip_id": "3_17618220",
+      "trip_id": "3_17636900",
       "direction_id": "1",
       "headsign": "Ratowice - pętla",
       "service_id": "3",
@@ -3555,7 +3555,7 @@
       ]
     },
     {
-      "trip_id": "3_17618221",
+      "trip_id": "3_17636901",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "3",
@@ -3878,7 +3878,7 @@
       ]
     },
     {
-      "trip_id": "3_17618222",
+      "trip_id": "3_17636902",
       "direction_id": "1",
       "headsign": "Ratowice - pętla",
       "service_id": "3",
@@ -4201,7 +4201,7 @@
       ]
     },
     {
-      "trip_id": "3_17618223",
+      "trip_id": "3_17636903",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "3",
@@ -4524,7 +4524,7 @@
       ]
     },
     {
-      "trip_id": "3_17618224",
+      "trip_id": "3_17636904",
       "direction_id": "1",
       "headsign": "Ratowice - pętla",
       "service_id": "3",
@@ -4847,7 +4847,7 @@
       ]
     },
     {
-      "trip_id": "3_17618225",
+      "trip_id": "3_17636905",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "3",
@@ -5170,7 +5170,7 @@
       ]
     },
     {
-      "trip_id": "3_17618228",
+      "trip_id": "3_17636908",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "3",
@@ -5493,7 +5493,7 @@
       ]
     },
     {
-      "trip_id": "3_17618478",
+      "trip_id": "3_17637153",
       "direction_id": "1",
       "headsign": "Ratowice - pętla",
       "service_id": "3",
@@ -5816,7 +5816,7 @@
       ]
     },
     {
-      "trip_id": "3_17618479",
+      "trip_id": "3_17637154",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "3",
@@ -6139,7 +6139,7 @@
       ]
     },
     {
-      "trip_id": "4_17618902",
+      "trip_id": "4_17637577",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "4",
@@ -6462,7 +6462,7 @@
       ]
     },
     {
-      "trip_id": "4_17618921",
+      "trip_id": "4_17637596",
       "direction_id": "1",
       "headsign": "Ratowice - pętla",
       "service_id": "4",
@@ -6785,7 +6785,7 @@
       ]
     },
     {
-      "trip_id": "4_17618922",
+      "trip_id": "4_17637597",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "4",
@@ -7108,7 +7108,7 @@
       ]
     },
     {
-      "trip_id": "4_17618925",
+      "trip_id": "4_17637600",
       "direction_id": "1",
       "headsign": "Ratowice - pętla",
       "service_id": "4",
@@ -7431,7 +7431,7 @@
       ]
     },
     {
-      "trip_id": "4_17618926",
+      "trip_id": "4_17637601",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "4",
@@ -7754,7 +7754,7 @@
       ]
     },
     {
-      "trip_id": "4_17618927",
+      "trip_id": "4_17637602",
       "direction_id": "1",
       "headsign": "Ratowice - pętla",
       "service_id": "4",
@@ -8077,7 +8077,7 @@
       ]
     },
     {
-      "trip_id": "4_17618928",
+      "trip_id": "4_17637603",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "4",
@@ -8400,7 +8400,7 @@
       ]
     },
     {
-      "trip_id": "4_17618933",
+      "trip_id": "4_17637608",
       "direction_id": "1",
       "headsign": "Ratowice - pętla",
       "service_id": "4",
@@ -8723,7 +8723,7 @@
       ]
     },
     {
-      "trip_id": "4_17618934",
+      "trip_id": "4_17637609",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "4",
@@ -9046,7 +9046,7 @@
       ]
     },
     {
-      "trip_id": "4_17618937",
+      "trip_id": "4_17637612",
       "direction_id": "1",
       "headsign": "Ratowice - pętla",
       "service_id": "4",
@@ -9369,7 +9369,7 @@
       ]
     },
     {
-      "trip_id": "4_17618938",
+      "trip_id": "4_17637613",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "4",
@@ -9692,7 +9692,7 @@
       ]
     },
     {
-      "trip_id": "4_17618939",
+      "trip_id": "4_17637614",
       "direction_id": "1",
       "headsign": "Ratowice - pętla",
       "service_id": "4",
@@ -10015,7 +10015,7 @@
       ]
     },
     {
-      "trip_id": "4_17618940",
+      "trip_id": "4_17637615",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "4",
@@ -10338,7 +10338,7 @@
       ]
     },
     {
-      "trip_id": "4_17618941",
+      "trip_id": "4_17637616",
       "direction_id": "1",
       "headsign": "Ratowice - pętla",
       "service_id": "4",
@@ -10661,7 +10661,7 @@
       ]
     },
     {
-      "trip_id": "4_17618942",
+      "trip_id": "4_17637617",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "4",
@@ -10984,7 +10984,7 @@
       ]
     },
     {
-      "trip_id": "4_17618945",
+      "trip_id": "4_17637620",
       "direction_id": "1",
       "headsign": "Ratowice - pętla",
       "service_id": "4",
@@ -11307,7 +11307,7 @@
       ]
     },
     {
-      "trip_id": "4_17618946",
+      "trip_id": "4_17637621",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "4",
@@ -11630,7 +11630,7 @@
       ]
     },
     {
-      "trip_id": "4_17618953",
+      "trip_id": "4_17637628",
       "direction_id": "1",
       "headsign": "Ratowice - pętla",
       "service_id": "4",
@@ -11953,7 +11953,7 @@
       ]
     },
     {
-      "trip_id": "4_17619037",
+      "trip_id": "4_17637712",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "4",
@@ -12276,7 +12276,7 @@
       ]
     },
     {
-      "trip_id": "6_17619483",
+      "trip_id": "6_17638158",
       "direction_id": "1",
       "headsign": "Ratowice - pętla",
       "service_id": "6",
@@ -12599,7 +12599,7 @@
       ]
     },
     {
-      "trip_id": "6_17619484",
+      "trip_id": "6_17638159",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "6",
@@ -12922,7 +12922,7 @@
       ]
     },
     {
-      "trip_id": "6_17619516",
+      "trip_id": "6_17638191",
       "direction_id": "1",
       "headsign": "Ratowice - pętla",
       "service_id": "6",
@@ -13245,7 +13245,7 @@
       ]
     },
     {
-      "trip_id": "6_17619517",
+      "trip_id": "6_17638192",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "6",
@@ -13568,7 +13568,7 @@
       ]
     },
     {
-      "trip_id": "6_17619518",
+      "trip_id": "6_17638193",
       "direction_id": "1",
       "headsign": "Ratowice - pętla",
       "service_id": "6",
@@ -13918,7 +13918,7 @@
       ]
     },
     {
-      "trip_id": "6_17619519",
+      "trip_id": "6_17638194",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "6",
@@ -14268,7 +14268,7 @@
       ]
     },
     {
-      "trip_id": "6_17619520",
+      "trip_id": "6_17638195",
       "direction_id": "1",
       "headsign": "Ratowice - pętla",
       "service_id": "6",
@@ -14591,7 +14591,7 @@
       ]
     },
     {
-      "trip_id": "6_17619521",
+      "trip_id": "6_17638196",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "6",
@@ -14941,7 +14941,7 @@
       ]
     },
     {
-      "trip_id": "6_17619540",
+      "trip_id": "6_17638215",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "6",
@@ -15264,7 +15264,7 @@
       ]
     },
     {
-      "trip_id": "6_17619541",
+      "trip_id": "6_17638216",
       "direction_id": "1",
       "headsign": "Ratowice - pętla",
       "service_id": "6",
@@ -15587,7 +15587,7 @@
       ]
     },
     {
-      "trip_id": "6_17619542",
+      "trip_id": "6_17638217",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "6",
@@ -15910,7 +15910,7 @@
       ]
     },
     {
-      "trip_id": "6_17619543",
+      "trip_id": "6_17638218",
       "direction_id": "1",
       "headsign": "Ratowice - pętla",
       "service_id": "6",
@@ -16233,7 +16233,7 @@
       ]
     },
     {
-      "trip_id": "6_17619544",
+      "trip_id": "6_17638219",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "6",
@@ -16583,7 +16583,7 @@
       ]
     },
     {
-      "trip_id": "6_17619545",
+      "trip_id": "6_17638220",
       "direction_id": "1",
       "headsign": "Ratowice - pętla",
       "service_id": "6",
@@ -16933,7 +16933,7 @@
       ]
     },
     {
-      "trip_id": "6_17619546",
+      "trip_id": "6_17638221",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "6",
@@ -17283,7 +17283,7 @@
       ]
     },
     {
-      "trip_id": "6_17619547",
+      "trip_id": "6_17638222",
       "direction_id": "1",
       "headsign": "Ratowice - pętla",
       "service_id": "6",
@@ -17606,7 +17606,7 @@
       ]
     },
     {
-      "trip_id": "6_17619548",
+      "trip_id": "6_17638223",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "6",
@@ -17956,7 +17956,7 @@
       ]
     },
     {
-      "trip_id": "6_17619555",
+      "trip_id": "6_17638230",
       "direction_id": "1",
       "headsign": "Ratowice - pętla",
       "service_id": "6",
@@ -18279,7 +18279,7 @@
       ]
     },
     {
-      "trip_id": "6_17619556",
+      "trip_id": "6_17638231",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "6",
@@ -18602,7 +18602,7 @@
       ]
     },
     {
-      "trip_id": "6_17619557",
+      "trip_id": "6_17638232",
       "direction_id": "1",
       "headsign": "Ratowice - pętla",
       "service_id": "6",
@@ -18925,7 +18925,7 @@
       ]
     },
     {
-      "trip_id": "6_17619558",
+      "trip_id": "6_17638233",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "6",
@@ -19067,188 +19067,215 @@
         },
         {
           "stop_sequence": 15,
-          "stop_id": "4918",
-          "stop_name": "Kamieniec Wrocławski - Łany",
-          "arrival_time": "06:36:00",
-          "departure_time": "06:36:00",
-          "lat": 51.08102099,
-          "lon": 17.17008927
+          "stop_id": "4968",
+          "stop_name": "Kamieniec Wrocławski - szkoła",
+          "arrival_time": "06:35:00",
+          "departure_time": "06:35:00",
+          "lat": 51.07773614,
+          "lon": 17.17307468
         },
         {
           "stop_sequence": 16,
+          "stop_id": "4942",
+          "stop_name": "Dobrzykowice - przejazd",
+          "arrival_time": "06:38:00",
+          "departure_time": "06:38:00",
+          "lat": 51.087242,
+          "lon": 17.182781
+        },
+        {
+          "stop_sequence": 17,
+          "stop_id": "4966",
+          "stop_name": "Dobrzykowice - Sukcesu",
+          "arrival_time": "06:39:00",
+          "departure_time": "06:39:00",
+          "lat": 51.08950292,
+          "lon": 17.18538291
+        },
+        {
+          "stop_sequence": 18,
+          "stop_id": "4919",
+          "stop_name": "Dobrzykowice - Boczna",
+          "arrival_time": "06:41:00",
+          "departure_time": "06:41:00",
+          "lat": 51.09352198,
+          "lon": 17.18959113
+        },
+        {
+          "stop_sequence": 19,
           "stop_id": "2745",
           "stop_name": "Wojnów",
-          "arrival_time": "06:42:00",
-          "departure_time": "06:42:00",
+          "arrival_time": "06:47:00",
+          "departure_time": "06:47:00",
           "lat": 51.09712203,
           "lon": 17.16404547
         },
         {
-          "stop_sequence": 17,
+          "stop_sequence": 20,
           "stop_id": "587",
           "stop_name": "Strumykowa",
-          "arrival_time": "06:44:00",
-          "departure_time": "06:44:00",
+          "arrival_time": "06:49:00",
+          "departure_time": "06:49:00",
           "lat": 51.10140931,
           "lon": 17.15771109
         },
         {
-          "stop_sequence": 18,
+          "stop_sequence": 21,
           "stop_id": "585",
           "stop_name": "Smocza",
-          "arrival_time": "06:45:00",
-          "departure_time": "06:45:00",
+          "arrival_time": "06:50:00",
+          "departure_time": "06:50:00",
           "lat": 51.10335599,
           "lon": 17.15474216
         },
         {
-          "stop_sequence": 19,
+          "stop_sequence": 22,
           "stop_id": "1212",
           "stop_name": "Kmieca",
-          "arrival_time": "06:47:00",
-          "departure_time": "06:47:00",
+          "arrival_time": "06:52:00",
+          "departure_time": "06:52:00",
           "lat": 51.1052327,
           "lon": 17.14574034
         },
         {
-          "stop_sequence": 20,
+          "stop_sequence": 23,
           "stop_id": "582",
           "stop_name": "Zagrodnicza",
-          "arrival_time": "06:48:00",
-          "departure_time": "06:48:00",
+          "arrival_time": "06:53:00",
+          "departure_time": "06:53:00",
           "lat": 51.10673046,
           "lon": 17.14323522
         },
         {
-          "stop_sequence": 21,
+          "stop_sequence": 24,
           "stop_id": "1213",
           "stop_name": "Niedziałkowskiego",
-          "arrival_time": "06:50:00",
-          "departure_time": "06:50:00",
+          "arrival_time": "06:55:00",
+          "departure_time": "06:55:00",
           "lat": 51.109811,
           "lon": 17.137981
         },
         {
-          "stop_sequence": 22,
+          "stop_sequence": 25,
           "stop_id": "939",
           "stop_name": "Mikołowska",
-          "arrival_time": "06:51:00",
-          "departure_time": "06:51:00",
+          "arrival_time": "06:56:00",
+          "departure_time": "06:56:00",
           "lat": 51.11116927,
           "lon": 17.13678381
         },
         {
-          "stop_sequence": 23,
+          "stop_sequence": 26,
           "stop_id": "5761",
           "stop_name": "Swojczyce (Miłoszycka)",
-          "arrival_time": "06:53:00",
-          "departure_time": "06:53:00",
+          "arrival_time": "06:58:00",
+          "departure_time": "06:58:00",
           "lat": 51.11510664,
           "lon": 17.12973529
         },
         {
-          "stop_sequence": 24,
+          "stop_sequence": 27,
           "stop_id": "579",
           "stop_name": "Miłoszycka",
-          "arrival_time": "06:54:00",
-          "departure_time": "06:54:00",
+          "arrival_time": "06:59:00",
+          "departure_time": "06:59:00",
           "lat": 51.11694191,
           "lon": 17.1262475
         },
         {
-          "stop_sequence": 25,
+          "stop_sequence": 28,
           "stop_id": "3549",
           "stop_name": "Gospodarska",
-          "arrival_time": "06:55:00",
-          "departure_time": "06:55:00",
+          "arrival_time": "07:00:00",
+          "departure_time": "07:00:00",
           "lat": 51.11833848,
           "lon": 17.12393055
         },
         {
-          "stop_sequence": 26,
+          "stop_sequence": 29,
           "stop_id": "596",
           "stop_name": "Ceglana",
-          "arrival_time": "06:56:00",
-          "departure_time": "06:56:00",
+          "arrival_time": "07:01:00",
+          "departure_time": "07:01:00",
           "lat": 51.12114108,
           "lon": 17.12104006
         },
         {
-          "stop_sequence": 27,
+          "stop_sequence": 30,
           "stop_id": "572",
           "stop_name": "Monopolowa",
-          "arrival_time": "06:59:00",
-          "departure_time": "06:59:00",
+          "arrival_time": "07:04:00",
+          "departure_time": "07:04:00",
           "lat": 51.11550412,
           "lon": 17.11198745
         },
         {
-          "stop_sequence": 28,
+          "stop_sequence": 31,
           "stop_id": "575",
           "stop_name": "SĘPOLNO",
-          "arrival_time": "07:01:00",
-          "departure_time": "07:01:00",
+          "arrival_time": "07:06:00",
+          "departure_time": "07:06:00",
           "lat": 51.11377011,
           "lon": 17.10379057
         },
         {
-          "stop_sequence": 29,
+          "stop_sequence": 32,
           "stop_id": "3462",
           "stop_name": "Godebskiego (AWF Wrocław)",
-          "arrival_time": "07:02:00",
-          "departure_time": "07:02:00",
+          "arrival_time": "07:07:00",
+          "departure_time": "07:07:00",
           "lat": 51.1137886,
           "lon": 17.09648132
         },
         {
-          "stop_sequence": 30,
+          "stop_sequence": 33,
           "stop_id": "4915",
           "stop_name": "8 Maja",
-          "arrival_time": "07:03:00",
-          "departure_time": "07:03:00",
+          "arrival_time": "07:08:00",
+          "departure_time": "07:08:00",
           "lat": 51.1135437,
           "lon": 17.091098
         },
         {
-          "stop_sequence": 31,
+          "stop_sequence": 34,
           "stop_id": "552",
           "stop_name": "Park Szczytnicki",
-          "arrival_time": "07:04:00",
-          "departure_time": "07:04:00",
+          "arrival_time": "07:09:00",
+          "departure_time": "07:09:00",
           "lat": 51.11140177,
           "lon": 17.08217029
         },
         {
-          "stop_sequence": 32,
+          "stop_sequence": 35,
           "stop_id": "1180",
           "stop_name": "Mickiewicza",
-          "arrival_time": "07:05:00",
-          "departure_time": "07:05:00",
+          "arrival_time": "07:10:00",
+          "departure_time": "07:10:00",
           "lat": 51.10927179,
           "lon": 17.07474936
         },
         {
-          "stop_sequence": 33,
+          "stop_sequence": 36,
           "stop_id": "4760",
           "stop_name": "Kliniki - Politechnika Wrocławska",
-          "arrival_time": "07:07:00",
-          "departure_time": "07:07:00",
+          "arrival_time": "07:12:00",
+          "departure_time": "07:12:00",
           "lat": 51.10971261,
           "lon": 17.06511141
         },
         {
-          "stop_sequence": 34,
+          "stop_sequence": 37,
           "stop_id": "5425",
           "stop_name": "PL. GRUNWALDZKI",
-          "arrival_time": "07:10:00",
-          "departure_time": "07:10:00",
+          "arrival_time": "07:15:00",
+          "departure_time": "07:15:00",
           "lat": 51.11195744,
           "lon": 17.06254965
         }
       ]
     },
     {
-      "trip_id": "6_17619559",
+      "trip_id": "6_17638234",
       "direction_id": "1",
       "headsign": "Ratowice - pętla",
       "service_id": "6",
@@ -19571,7 +19598,7 @@
       ]
     },
     {
-      "trip_id": "6_17619560",
+      "trip_id": "6_17638235",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "6",
@@ -19894,7 +19921,7 @@
       ]
     },
     {
-      "trip_id": "6_17619563",
+      "trip_id": "6_17638238",
       "direction_id": "1",
       "headsign": "Ratowice - pętla",
       "service_id": "6",
@@ -20217,7 +20244,7 @@
       ]
     },
     {
-      "trip_id": "6_17619564",
+      "trip_id": "6_17638239",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "6",
@@ -20540,7 +20567,7 @@
       ]
     },
     {
-      "trip_id": "6_17619565",
+      "trip_id": "6_17638240",
       "direction_id": "1",
       "headsign": "Ratowice - pętla",
       "service_id": "6",
@@ -20890,7 +20917,7 @@
       ]
     },
     {
-      "trip_id": "6_17619566",
+      "trip_id": "6_17638241",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "6",
@@ -21213,7 +21240,7 @@
       ]
     },
     {
-      "trip_id": "6_17619567",
+      "trip_id": "6_17638242",
       "direction_id": "1",
       "headsign": "Ratowice - pętla",
       "service_id": "6",
@@ -21536,7 +21563,7 @@
       ]
     },
     {
-      "trip_id": "6_17619568",
+      "trip_id": "6_17638243",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "6",
@@ -21859,7 +21886,7 @@
       ]
     },
     {
-      "trip_id": "6_17620001",
+      "trip_id": "6_17638676",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "6",
@@ -22182,7 +22209,7 @@
       ]
     },
     {
-      "trip_id": "6_17620002",
+      "trip_id": "6_17638677",
       "direction_id": "1",
       "headsign": "Ratowice - pętla",
       "service_id": "6",
@@ -22505,7 +22532,7 @@
       ]
     },
     {
-      "trip_id": "6_17620003",
+      "trip_id": "6_17638678",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "6",
@@ -22828,7 +22855,7 @@
       ]
     },
     {
-      "trip_id": "6_17620004",
+      "trip_id": "6_17638679",
       "direction_id": "1",
       "headsign": "Ratowice - pętla",
       "service_id": "6",
@@ -23178,7 +23205,7 @@
       ]
     },
     {
-      "trip_id": "6_17620005",
+      "trip_id": "6_17638680",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "6",
@@ -23528,7 +23555,7 @@
       ]
     },
     {
-      "trip_id": "6_17620012",
+      "trip_id": "6_17638687",
       "direction_id": "1",
       "headsign": "Ratowice - pętla",
       "service_id": "6",
@@ -23878,7 +23905,7 @@
       ]
     },
     {
-      "trip_id": "6_17620013",
+      "trip_id": "6_17638688",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "6",
@@ -24201,7 +24228,7 @@
       ]
     },
     {
-      "trip_id": "6_17620042",
+      "trip_id": "6_17638717",
       "direction_id": "1",
       "headsign": "Ratowice - pętla",
       "service_id": "6",
@@ -24551,7 +24578,7 @@
       ]
     },
     {
-      "trip_id": "8_17620529",
+      "trip_id": "8_17639204",
       "direction_id": "1",
       "headsign": "Ratowice - pętla",
       "service_id": "8",
@@ -24874,7 +24901,7 @@
       ]
     },
     {
-      "trip_id": "8_17620530",
+      "trip_id": "8_17639205",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "8",
@@ -25197,7 +25224,7 @@
       ]
     },
     {
-      "trip_id": "8_17620562",
+      "trip_id": "8_17639237",
       "direction_id": "1",
       "headsign": "Ratowice - pętla",
       "service_id": "8",
@@ -25520,7 +25547,7 @@
       ]
     },
     {
-      "trip_id": "8_17620563",
+      "trip_id": "8_17639238",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "8",
@@ -25843,7 +25870,7 @@
       ]
     },
     {
-      "trip_id": "8_17620564",
+      "trip_id": "8_17639239",
       "direction_id": "1",
       "headsign": "Ratowice - pętla",
       "service_id": "8",
@@ -26193,7 +26220,7 @@
       ]
     },
     {
-      "trip_id": "8_17620565",
+      "trip_id": "8_17639240",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "8",
@@ -26543,7 +26570,7 @@
       ]
     },
     {
-      "trip_id": "8_17620566",
+      "trip_id": "8_17639241",
       "direction_id": "1",
       "headsign": "Ratowice - pętla",
       "service_id": "8",
@@ -26866,7 +26893,7 @@
       ]
     },
     {
-      "trip_id": "8_17620567",
+      "trip_id": "8_17639242",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "8",
@@ -27216,7 +27243,7 @@
       ]
     },
     {
-      "trip_id": "8_17620586",
+      "trip_id": "8_17639261",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "8",
@@ -27539,7 +27566,7 @@
       ]
     },
     {
-      "trip_id": "8_17620587",
+      "trip_id": "8_17639262",
       "direction_id": "1",
       "headsign": "Ratowice - pętla",
       "service_id": "8",
@@ -27862,7 +27889,7 @@
       ]
     },
     {
-      "trip_id": "8_17620588",
+      "trip_id": "8_17639263",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "8",
@@ -28185,7 +28212,7 @@
       ]
     },
     {
-      "trip_id": "8_17620589",
+      "trip_id": "8_17639264",
       "direction_id": "1",
       "headsign": "Ratowice - pętla",
       "service_id": "8",
@@ -28508,7 +28535,7 @@
       ]
     },
     {
-      "trip_id": "8_17620590",
+      "trip_id": "8_17639265",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "8",
@@ -28858,7 +28885,7 @@
       ]
     },
     {
-      "trip_id": "8_17620591",
+      "trip_id": "8_17639266",
       "direction_id": "1",
       "headsign": "Ratowice - pętla",
       "service_id": "8",
@@ -29208,7 +29235,7 @@
       ]
     },
     {
-      "trip_id": "8_17620592",
+      "trip_id": "8_17639267",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "8",
@@ -29558,7 +29585,7 @@
       ]
     },
     {
-      "trip_id": "8_17620593",
+      "trip_id": "8_17639268",
       "direction_id": "1",
       "headsign": "Ratowice - pętla",
       "service_id": "8",
@@ -29881,7 +29908,7 @@
       ]
     },
     {
-      "trip_id": "8_17620594",
+      "trip_id": "8_17639269",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "8",
@@ -30231,7 +30258,7 @@
       ]
     },
     {
-      "trip_id": "8_17620601",
+      "trip_id": "8_17639276",
       "direction_id": "1",
       "headsign": "Ratowice - pętla",
       "service_id": "8",
@@ -30554,7 +30581,7 @@
       ]
     },
     {
-      "trip_id": "8_17620602",
+      "trip_id": "8_17639277",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "8",
@@ -30877,7 +30904,7 @@
       ]
     },
     {
-      "trip_id": "8_17620603",
+      "trip_id": "8_17639278",
       "direction_id": "1",
       "headsign": "Ratowice - pętla",
       "service_id": "8",
@@ -31200,7 +31227,7 @@
       ]
     },
     {
-      "trip_id": "8_17620604",
+      "trip_id": "8_17639279",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "8",
@@ -31342,188 +31369,215 @@
         },
         {
           "stop_sequence": 15,
-          "stop_id": "4918",
-          "stop_name": "Kamieniec Wrocławski - Łany",
-          "arrival_time": "06:36:00",
-          "departure_time": "06:36:00",
-          "lat": 51.08102099,
-          "lon": 17.17008927
+          "stop_id": "4968",
+          "stop_name": "Kamieniec Wrocławski - szkoła",
+          "arrival_time": "06:35:00",
+          "departure_time": "06:35:00",
+          "lat": 51.07773614,
+          "lon": 17.17307468
         },
         {
           "stop_sequence": 16,
+          "stop_id": "4942",
+          "stop_name": "Dobrzykowice - przejazd",
+          "arrival_time": "06:38:00",
+          "departure_time": "06:38:00",
+          "lat": 51.087242,
+          "lon": 17.182781
+        },
+        {
+          "stop_sequence": 17,
+          "stop_id": "4966",
+          "stop_name": "Dobrzykowice - Sukcesu",
+          "arrival_time": "06:39:00",
+          "departure_time": "06:39:00",
+          "lat": 51.08950292,
+          "lon": 17.18538291
+        },
+        {
+          "stop_sequence": 18,
+          "stop_id": "4919",
+          "stop_name": "Dobrzykowice - Boczna",
+          "arrival_time": "06:41:00",
+          "departure_time": "06:41:00",
+          "lat": 51.09352198,
+          "lon": 17.18959113
+        },
+        {
+          "stop_sequence": 19,
           "stop_id": "2745",
           "stop_name": "Wojnów",
-          "arrival_time": "06:42:00",
-          "departure_time": "06:42:00",
+          "arrival_time": "06:47:00",
+          "departure_time": "06:47:00",
           "lat": 51.09712203,
           "lon": 17.16404547
         },
         {
-          "stop_sequence": 17,
+          "stop_sequence": 20,
           "stop_id": "587",
           "stop_name": "Strumykowa",
-          "arrival_time": "06:44:00",
-          "departure_time": "06:44:00",
+          "arrival_time": "06:49:00",
+          "departure_time": "06:49:00",
           "lat": 51.10140931,
           "lon": 17.15771109
         },
         {
-          "stop_sequence": 18,
+          "stop_sequence": 21,
           "stop_id": "585",
           "stop_name": "Smocza",
-          "arrival_time": "06:45:00",
-          "departure_time": "06:45:00",
+          "arrival_time": "06:50:00",
+          "departure_time": "06:50:00",
           "lat": 51.10335599,
           "lon": 17.15474216
         },
         {
-          "stop_sequence": 19,
+          "stop_sequence": 22,
           "stop_id": "1212",
           "stop_name": "Kmieca",
-          "arrival_time": "06:47:00",
-          "departure_time": "06:47:00",
+          "arrival_time": "06:52:00",
+          "departure_time": "06:52:00",
           "lat": 51.1052327,
           "lon": 17.14574034
         },
         {
-          "stop_sequence": 20,
+          "stop_sequence": 23,
           "stop_id": "582",
           "stop_name": "Zagrodnicza",
-          "arrival_time": "06:48:00",
-          "departure_time": "06:48:00",
+          "arrival_time": "06:53:00",
+          "departure_time": "06:53:00",
           "lat": 51.10673046,
           "lon": 17.14323522
         },
         {
-          "stop_sequence": 21,
+          "stop_sequence": 24,
           "stop_id": "1213",
           "stop_name": "Niedziałkowskiego",
-          "arrival_time": "06:50:00",
-          "departure_time": "06:50:00",
+          "arrival_time": "06:55:00",
+          "departure_time": "06:55:00",
           "lat": 51.109811,
           "lon": 17.137981
         },
         {
-          "stop_sequence": 22,
+          "stop_sequence": 25,
           "stop_id": "939",
           "stop_name": "Mikołowska",
-          "arrival_time": "06:51:00",
-          "departure_time": "06:51:00",
+          "arrival_time": "06:56:00",
+          "departure_time": "06:56:00",
           "lat": 51.11116927,
           "lon": 17.13678381
         },
         {
-          "stop_sequence": 23,
+          "stop_sequence": 26,
           "stop_id": "5761",
           "stop_name": "Swojczyce (Miłoszycka)",
-          "arrival_time": "06:53:00",
-          "departure_time": "06:53:00",
+          "arrival_time": "06:58:00",
+          "departure_time": "06:58:00",
           "lat": 51.11510664,
           "lon": 17.12973529
         },
         {
-          "stop_sequence": 24,
+          "stop_sequence": 27,
           "stop_id": "579",
           "stop_name": "Miłoszycka",
-          "arrival_time": "06:54:00",
-          "departure_time": "06:54:00",
+          "arrival_time": "06:59:00",
+          "departure_time": "06:59:00",
           "lat": 51.11694191,
           "lon": 17.1262475
         },
         {
-          "stop_sequence": 25,
+          "stop_sequence": 28,
           "stop_id": "3549",
           "stop_name": "Gospodarska",
-          "arrival_time": "06:55:00",
-          "departure_time": "06:55:00",
+          "arrival_time": "07:00:00",
+          "departure_time": "07:00:00",
           "lat": 51.11833848,
           "lon": 17.12393055
         },
         {
-          "stop_sequence": 26,
+          "stop_sequence": 29,
           "stop_id": "596",
           "stop_name": "Ceglana",
-          "arrival_time": "06:56:00",
-          "departure_time": "06:56:00",
+          "arrival_time": "07:01:00",
+          "departure_time": "07:01:00",
           "lat": 51.12114108,
           "lon": 17.12104006
         },
         {
-          "stop_sequence": 27,
+          "stop_sequence": 30,
           "stop_id": "572",
           "stop_name": "Monopolowa",
-          "arrival_time": "06:59:00",
-          "departure_time": "06:59:00",
+          "arrival_time": "07:04:00",
+          "departure_time": "07:04:00",
           "lat": 51.11550412,
           "lon": 17.11198745
         },
         {
-          "stop_sequence": 28,
+          "stop_sequence": 31,
           "stop_id": "575",
           "stop_name": "SĘPOLNO",
-          "arrival_time": "07:01:00",
-          "departure_time": "07:01:00",
+          "arrival_time": "07:06:00",
+          "departure_time": "07:06:00",
           "lat": 51.11377011,
           "lon": 17.10379057
         },
         {
-          "stop_sequence": 29,
+          "stop_sequence": 32,
           "stop_id": "3462",
           "stop_name": "Godebskiego (AWF Wrocław)",
-          "arrival_time": "07:02:00",
-          "departure_time": "07:02:00",
+          "arrival_time": "07:07:00",
+          "departure_time": "07:07:00",
           "lat": 51.1137886,
           "lon": 17.09648132
         },
         {
-          "stop_sequence": 30,
+          "stop_sequence": 33,
           "stop_id": "4915",
           "stop_name": "8 Maja",
-          "arrival_time": "07:03:00",
-          "departure_time": "07:03:00",
+          "arrival_time": "07:08:00",
+          "departure_time": "07:08:00",
           "lat": 51.1135437,
           "lon": 17.091098
         },
         {
-          "stop_sequence": 31,
+          "stop_sequence": 34,
           "stop_id": "552",
           "stop_name": "Park Szczytnicki",
-          "arrival_time": "07:04:00",
-          "departure_time": "07:04:00",
+          "arrival_time": "07:09:00",
+          "departure_time": "07:09:00",
           "lat": 51.11140177,
           "lon": 17.08217029
         },
         {
-          "stop_sequence": 32,
+          "stop_sequence": 35,
           "stop_id": "1180",
           "stop_name": "Mickiewicza",
-          "arrival_time": "07:05:00",
-          "departure_time": "07:05:00",
+          "arrival_time": "07:10:00",
+          "departure_time": "07:10:00",
           "lat": 51.10927179,
           "lon": 17.07474936
         },
         {
-          "stop_sequence": 33,
+          "stop_sequence": 36,
           "stop_id": "4760",
           "stop_name": "Kliniki - Politechnika Wrocławska",
-          "arrival_time": "07:07:00",
-          "departure_time": "07:07:00",
+          "arrival_time": "07:12:00",
+          "departure_time": "07:12:00",
           "lat": 51.10971261,
           "lon": 17.06511141
         },
         {
-          "stop_sequence": 34,
+          "stop_sequence": 37,
           "stop_id": "5425",
           "stop_name": "PL. GRUNWALDZKI",
-          "arrival_time": "07:10:00",
-          "departure_time": "07:10:00",
+          "arrival_time": "07:15:00",
+          "departure_time": "07:15:00",
           "lat": 51.11195744,
           "lon": 17.06254965
         }
       ]
     },
     {
-      "trip_id": "8_17620605",
+      "trip_id": "8_17639280",
       "direction_id": "1",
       "headsign": "Ratowice - pętla",
       "service_id": "8",
@@ -31846,7 +31900,7 @@
       ]
     },
     {
-      "trip_id": "8_17620606",
+      "trip_id": "8_17639281",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "8",
@@ -32169,7 +32223,7 @@
       ]
     },
     {
-      "trip_id": "8_17620609",
+      "trip_id": "8_17639284",
       "direction_id": "1",
       "headsign": "Ratowice - pętla",
       "service_id": "8",
@@ -32492,7 +32546,7 @@
       ]
     },
     {
-      "trip_id": "8_17620610",
+      "trip_id": "8_17639285",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "8",
@@ -32815,7 +32869,7 @@
       ]
     },
     {
-      "trip_id": "8_17620611",
+      "trip_id": "8_17639286",
       "direction_id": "1",
       "headsign": "Ratowice - pętla",
       "service_id": "8",
@@ -33165,7 +33219,7 @@
       ]
     },
     {
-      "trip_id": "8_17620612",
+      "trip_id": "8_17639287",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "8",
@@ -33488,7 +33542,7 @@
       ]
     },
     {
-      "trip_id": "8_17620613",
+      "trip_id": "8_17639288",
       "direction_id": "1",
       "headsign": "Ratowice - pętla",
       "service_id": "8",
@@ -33811,7 +33865,7 @@
       ]
     },
     {
-      "trip_id": "8_17620614",
+      "trip_id": "8_17639289",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "8",
@@ -34134,7 +34188,7 @@
       ]
     },
     {
-      "trip_id": "8_17621047",
+      "trip_id": "8_17639722",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "8",
@@ -34457,7 +34511,7 @@
       ]
     },
     {
-      "trip_id": "8_17621048",
+      "trip_id": "8_17639723",
       "direction_id": "1",
       "headsign": "Ratowice - pętla",
       "service_id": "8",
@@ -34780,7 +34834,7 @@
       ]
     },
     {
-      "trip_id": "8_17621049",
+      "trip_id": "8_17639724",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "8",
@@ -35103,7 +35157,7 @@
       ]
     },
     {
-      "trip_id": "8_17621050",
+      "trip_id": "8_17639725",
       "direction_id": "1",
       "headsign": "Ratowice - pętla",
       "service_id": "8",
@@ -35453,7 +35507,7 @@
       ]
     },
     {
-      "trip_id": "8_17621051",
+      "trip_id": "8_17639726",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "8",
@@ -35803,7 +35857,7 @@
       ]
     },
     {
-      "trip_id": "8_17621058",
+      "trip_id": "8_17639733",
       "direction_id": "1",
       "headsign": "Ratowice - pętla",
       "service_id": "8",
@@ -36153,7 +36207,7 @@
       ]
     },
     {
-      "trip_id": "8_17621059",
+      "trip_id": "8_17639734",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "8",
@@ -36476,7 +36530,7 @@
       ]
     },
     {
-      "trip_id": "8_17621088",
+      "trip_id": "8_17639763",
       "direction_id": "1",
       "headsign": "Ratowice - pętla",
       "service_id": "8",

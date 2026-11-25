@@ -2,7 +2,7 @@
   "line": "128",
   "trips": [
     {
-      "trip_id": "3_17597215",
+      "trip_id": "3_17701228",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "3",
@@ -253,7 +253,7 @@
       ]
     },
     {
-      "trip_id": "3_17597216",
+      "trip_id": "3_17701229",
       "direction_id": "0",
       "headsign": "ZAKRZÓW",
       "service_id": "3",
@@ -612,7 +612,7 @@
       ]
     },
     {
-      "trip_id": "3_17597217",
+      "trip_id": "3_17701230",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "3",
@@ -980,7 +980,7 @@
       ]
     },
     {
-      "trip_id": "3_17597218",
+      "trip_id": "3_17701231",
       "direction_id": "0",
       "headsign": "ZAKRZÓW",
       "service_id": "3",
@@ -1339,7 +1339,7 @@
       ]
     },
     {
-      "trip_id": "3_17597219",
+      "trip_id": "3_17701232",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "3",
@@ -1707,7 +1707,7 @@
       ]
     },
     {
-      "trip_id": "3_17597220",
+      "trip_id": "3_17701233",
       "direction_id": "0",
       "headsign": "ZAKRZÓW",
       "service_id": "3",
@@ -2066,7 +2066,7 @@
       ]
     },
     {
-      "trip_id": "3_17597221",
+      "trip_id": "3_17701234",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "3",
@@ -2434,7 +2434,7 @@
       ]
     },
     {
-      "trip_id": "3_17597222",
+      "trip_id": "3_17701235",
       "direction_id": "0",
       "headsign": "ZAKRZÓW",
       "service_id": "3",
@@ -2793,7 +2793,7 @@
       ]
     },
     {
-      "trip_id": "3_17597223",
+      "trip_id": "3_17701236",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "3",
@@ -3161,7 +3161,7 @@
       ]
     },
     {
-      "trip_id": "3_17597224",
+      "trip_id": "3_17701237",
       "direction_id": "0",
       "headsign": "ZAKRZÓW",
       "service_id": "3",
@@ -3520,7 +3520,7 @@
       ]
     },
     {
-      "trip_id": "3_17597225",
+      "trip_id": "3_17701238",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "3",
@@ -3888,7 +3888,7 @@
       ]
     },
     {
-      "trip_id": "3_17597226",
+      "trip_id": "3_17701239",
       "direction_id": "0",
       "headsign": "ZAKRZÓW",
       "service_id": "3",
@@ -4247,7 +4247,7 @@
       ]
     },
     {
-      "trip_id": "3_17597227",
+      "trip_id": "3_17701240",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "3",
@@ -4615,7 +4615,7 @@
       ]
     },
     {
-      "trip_id": "3_17597228",
+      "trip_id": "3_17701241",
       "direction_id": "0",
       "headsign": "ZAKRZÓW",
       "service_id": "3",
@@ -4974,7 +4974,7 @@
       ]
     },
     {
-      "trip_id": "3_17597229",
+      "trip_id": "3_17701242",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "3",
@@ -5342,7 +5342,7 @@
       ]
     },
     {
-      "trip_id": "3_17597230",
+      "trip_id": "3_17701243",
       "direction_id": "0",
       "headsign": "ZAKRZÓW",
       "service_id": "3",
@@ -5701,7 +5701,7 @@
       ]
     },
     {
-      "trip_id": "3_17597231",
+      "trip_id": "3_17701244",
       "direction_id": "1",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "3",
@@ -5925,7 +5925,7 @@
       ]
     },
     {
-      "trip_id": "3_17597232",
+      "trip_id": "3_17701245",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "3",
@@ -6176,7 +6176,7 @@
       ]
     },
     {
-      "trip_id": "3_17597233",
+      "trip_id": "3_17701246",
       "direction_id": "0",
       "headsign": "ZAKRZÓW",
       "service_id": "3",
@@ -6535,7 +6535,7 @@
       ]
     },
     {
-      "trip_id": "3_17597234",
+      "trip_id": "3_17701247",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "3",
@@ -6903,7 +6903,7 @@
       ]
     },
     {
-      "trip_id": "3_17597235",
+      "trip_id": "3_17701248",
       "direction_id": "0",
       "headsign": "ZAKRZÓW",
       "service_id": "3",
@@ -7262,7 +7262,7 @@
       ]
     },
     {
-      "trip_id": "3_17597236",
+      "trip_id": "3_17701249",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "3",
@@ -7630,7 +7630,7 @@
       ]
     },
     {
-      "trip_id": "3_17597237",
+      "trip_id": "3_17701250",
       "direction_id": "0",
       "headsign": "ZAKRZÓW",
       "service_id": "3",
@@ -7989,7 +7989,7 @@
       ]
     },
     {
-      "trip_id": "3_17597238",
+      "trip_id": "3_17701251",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "3",
@@ -8357,7 +8357,7 @@
       ]
     },
     {
-      "trip_id": "3_17597239",
+      "trip_id": "3_17701252",
       "direction_id": "0",
       "headsign": "ZAKRZÓW",
       "service_id": "3",
@@ -8716,7 +8716,7 @@
       ]
     },
     {
-      "trip_id": "3_17597240",
+      "trip_id": "3_17701253",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "3",
@@ -9084,7 +9084,7 @@
       ]
     },
     {
-      "trip_id": "3_17597241",
+      "trip_id": "3_17701254",
       "direction_id": "0",
       "headsign": "ZAKRZÓW",
       "service_id": "3",
@@ -9443,7 +9443,7 @@
       ]
     },
     {
-      "trip_id": "3_17597242",
+      "trip_id": "3_17701255",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "3",
@@ -9811,7 +9811,7 @@
       ]
     },
     {
-      "trip_id": "3_17597243",
+      "trip_id": "3_17701256",
       "direction_id": "0",
       "headsign": "ZAKRZÓW",
       "service_id": "3",
@@ -10170,7 +10170,7 @@
       ]
     },
     {
-      "trip_id": "3_17597244",
+      "trip_id": "3_17701257",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "3",
@@ -10538,7 +10538,7 @@
       ]
     },
     {
-      "trip_id": "3_17597245",
+      "trip_id": "3_17701258",
       "direction_id": "0",
       "headsign": "ZAKRZÓW",
       "service_id": "3",
@@ -10897,7 +10897,7 @@
       ]
     },
     {
-      "trip_id": "3_17597246",
+      "trip_id": "3_17701259",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "3",
@@ -11265,7 +11265,7 @@
       ]
     },
     {
-      "trip_id": "3_17597247",
+      "trip_id": "3_17701260",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "3",
@@ -11435,7 +11435,7 @@
       ]
     },
     {
-      "trip_id": "3_17597248",
+      "trip_id": "3_17701261",
       "direction_id": "0",
       "headsign": "ZAKRZÓW",
       "service_id": "3",
@@ -11641,7 +11641,7 @@
       ]
     },
     {
-      "trip_id": "3_17597249",
+      "trip_id": "3_17701262",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "3",
@@ -12009,7 +12009,7 @@
       ]
     },
     {
-      "trip_id": "3_17597250",
+      "trip_id": "3_17701263",
       "direction_id": "0",
       "headsign": "ZAKRZÓW",
       "service_id": "3",
@@ -12368,7 +12368,7 @@
       ]
     },
     {
-      "trip_id": "3_17597251",
+      "trip_id": "3_17701264",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "3",
@@ -12736,7 +12736,7 @@
       ]
     },
     {
-      "trip_id": "3_17597252",
+      "trip_id": "3_17701265",
       "direction_id": "0",
       "headsign": "ZAKRZÓW",
       "service_id": "3",
@@ -13095,7 +13095,7 @@
       ]
     },
     {
-      "trip_id": "3_17597253",
+      "trip_id": "3_17701266",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "3",
@@ -13463,7 +13463,7 @@
       ]
     },
     {
-      "trip_id": "3_17597254",
+      "trip_id": "3_17701267",
       "direction_id": "0",
       "headsign": "ZAKRZÓW",
       "service_id": "3",
@@ -13822,7 +13822,7 @@
       ]
     },
     {
-      "trip_id": "3_17597255",
+      "trip_id": "3_17701268",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "3",
@@ -14190,7 +14190,7 @@
       ]
     },
     {
-      "trip_id": "3_17597256",
+      "trip_id": "3_17701269",
       "direction_id": "0",
       "headsign": "ZAKRZÓW",
       "service_id": "3",
@@ -14549,7 +14549,7 @@
       ]
     },
     {
-      "trip_id": "3_17597257",
+      "trip_id": "3_17701270",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "3",
@@ -14917,7 +14917,7 @@
       ]
     },
     {
-      "trip_id": "3_17597258",
+      "trip_id": "3_17701271",
       "direction_id": "0",
       "headsign": "ZAKRZÓW",
       "service_id": "3",
@@ -15276,7 +15276,7 @@
       ]
     },
     {
-      "trip_id": "3_17597259",
+      "trip_id": "3_17701272",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "3",
@@ -15644,7 +15644,7 @@
       ]
     },
     {
-      "trip_id": "3_17597260",
+      "trip_id": "3_17701273",
       "direction_id": "0",
       "headsign": "ZAKRZÓW",
       "service_id": "3",
@@ -16003,7 +16003,7 @@
       ]
     },
     {
-      "trip_id": "3_17597261",
+      "trip_id": "3_17701274",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "3",
@@ -16371,7 +16371,7 @@
       ]
     },
     {
-      "trip_id": "3_17597262",
+      "trip_id": "3_17701275",
       "direction_id": "0",
       "headsign": "ZAKRZÓW",
       "service_id": "3",
@@ -16730,7 +16730,7 @@
       ]
     },
     {
-      "trip_id": "3_17597263",
+      "trip_id": "3_17701276",
       "direction_id": "1",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "3",
@@ -16954,7 +16954,7 @@
       ]
     },
     {
-      "trip_id": "3_17597264",
+      "trip_id": "3_17701277",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "3",
@@ -17205,7 +17205,7 @@
       ]
     },
     {
-      "trip_id": "3_17597265",
+      "trip_id": "3_17701278",
       "direction_id": "0",
       "headsign": "ZAKRZÓW",
       "service_id": "3",
@@ -17564,7 +17564,7 @@
       ]
     },
     {
-      "trip_id": "3_17597266",
+      "trip_id": "3_17701279",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "3",
@@ -17932,7 +17932,7 @@
       ]
     },
     {
-      "trip_id": "3_17597267",
+      "trip_id": "3_17701280",
       "direction_id": "0",
       "headsign": "ZAKRZÓW",
       "service_id": "3",
@@ -18291,7 +18291,7 @@
       ]
     },
     {
-      "trip_id": "3_17597268",
+      "trip_id": "3_17701281",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "3",
@@ -18659,7 +18659,7 @@
       ]
     },
     {
-      "trip_id": "3_17597269",
+      "trip_id": "3_17701282",
       "direction_id": "0",
       "headsign": "ZAKRZÓW",
       "service_id": "3",
@@ -19018,7 +19018,7 @@
       ]
     },
     {
-      "trip_id": "3_17597270",
+      "trip_id": "3_17701283",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "3",
@@ -19386,7 +19386,7 @@
       ]
     },
     {
-      "trip_id": "3_17597271",
+      "trip_id": "3_17701284",
       "direction_id": "0",
       "headsign": "ZAKRZÓW",
       "service_id": "3",
@@ -19745,7 +19745,7 @@
       ]
     },
     {
-      "trip_id": "3_17597272",
+      "trip_id": "3_17701285",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "3",
@@ -20113,7 +20113,7 @@
       ]
     },
     {
-      "trip_id": "3_17597273",
+      "trip_id": "3_17701286",
       "direction_id": "0",
       "headsign": "ZAKRZÓW",
       "service_id": "3",
@@ -20472,7 +20472,7 @@
       ]
     },
     {
-      "trip_id": "3_17597274",
+      "trip_id": "3_17701287",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "3",
@@ -20840,7 +20840,7 @@
       ]
     },
     {
-      "trip_id": "3_17597275",
+      "trip_id": "3_17701288",
       "direction_id": "0",
       "headsign": "ZAKRZÓW",
       "service_id": "3",
@@ -21199,7 +21199,7 @@
       ]
     },
     {
-      "trip_id": "3_17597276",
+      "trip_id": "3_17701289",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "3",
@@ -21567,7 +21567,7 @@
       ]
     },
     {
-      "trip_id": "3_17597277",
+      "trip_id": "3_17701290",
       "direction_id": "0",
       "headsign": "ZAKRZÓW",
       "service_id": "3",
@@ -21926,7 +21926,7 @@
       ]
     },
     {
-      "trip_id": "3_17597278",
+      "trip_id": "3_17701291",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "3",
@@ -22294,7 +22294,7 @@
       ]
     },
     {
-      "trip_id": "3_17597279",
+      "trip_id": "3_17701292",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "3",
@@ -22464,7 +22464,7 @@
       ]
     },
     {
-      "trip_id": "3_17597280",
+      "trip_id": "3_17701293",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "3",
@@ -22715,7 +22715,7 @@
       ]
     },
     {
-      "trip_id": "3_17597281",
+      "trip_id": "3_17701294",
       "direction_id": "0",
       "headsign": "ZAKRZÓW",
       "service_id": "3",
@@ -23074,7 +23074,7 @@
       ]
     },
     {
-      "trip_id": "3_17597282",
+      "trip_id": "3_17701295",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "3",
@@ -23442,7 +23442,7 @@
       ]
     },
     {
-      "trip_id": "3_17597283",
+      "trip_id": "3_17701296",
       "direction_id": "0",
       "headsign": "ZAKRZÓW",
       "service_id": "3",
@@ -23801,7 +23801,7 @@
       ]
     },
     {
-      "trip_id": "3_17597284",
+      "trip_id": "3_17701297",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "3",
@@ -24169,7 +24169,7 @@
       ]
     },
     {
-      "trip_id": "3_17597285",
+      "trip_id": "3_17701298",
       "direction_id": "0",
       "headsign": "ZAKRZÓW",
       "service_id": "3",
@@ -24528,7 +24528,7 @@
       ]
     },
     {
-      "trip_id": "3_17597286",
+      "trip_id": "3_17701299",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "3",
@@ -24896,7 +24896,7 @@
       ]
     },
     {
-      "trip_id": "3_17597287",
+      "trip_id": "3_17701300",
       "direction_id": "0",
       "headsign": "ZAKRZÓW",
       "service_id": "3",
@@ -25255,7 +25255,7 @@
       ]
     },
     {
-      "trip_id": "3_17597288",
+      "trip_id": "3_17701301",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "3",
@@ -25623,7 +25623,7 @@
       ]
     },
     {
-      "trip_id": "3_17597289",
+      "trip_id": "3_17701302",
       "direction_id": "0",
       "headsign": "ZAKRZÓW",
       "service_id": "3",
@@ -25982,7 +25982,7 @@
       ]
     },
     {
-      "trip_id": "3_17597290",
+      "trip_id": "3_17701303",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "3",
@@ -26350,7 +26350,7 @@
       ]
     },
     {
-      "trip_id": "3_17597291",
+      "trip_id": "3_17701304",
       "direction_id": "0",
       "headsign": "ZAKRZÓW",
       "service_id": "3",
@@ -26709,7 +26709,7 @@
       ]
     },
     {
-      "trip_id": "3_17597292",
+      "trip_id": "3_17701305",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "3",
@@ -27077,7 +27077,7 @@
       ]
     },
     {
-      "trip_id": "3_17597293",
+      "trip_id": "3_17701306",
       "direction_id": "0",
       "headsign": "ZAKRZÓW",
       "service_id": "3",
@@ -27436,7 +27436,7 @@
       ]
     },
     {
-      "trip_id": "3_17597294",
+      "trip_id": "3_17701307",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "3",
@@ -27804,7 +27804,7 @@
       ]
     },
     {
-      "trip_id": "3_17597295",
+      "trip_id": "3_17701308",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "3",
@@ -27974,7 +27974,7 @@
       ]
     },
     {
-      "trip_id": "3_17599489",
+      "trip_id": "3_17703502",
       "direction_id": "0",
       "headsign": "ZAKRZÓW",
       "service_id": "3",
@@ -28018,7 +28018,7 @@
       ]
     },
     {
-      "trip_id": "3_17599490",
+      "trip_id": "3_17703503",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "3",
@@ -28386,7 +28386,7 @@
       ]
     },
     {
-      "trip_id": "3_17599491",
+      "trip_id": "3_17703504",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "3",
@@ -28556,7 +28556,7 @@
       ]
     },
     {
-      "trip_id": "4_17601686",
+      "trip_id": "4_17705699",
       "direction_id": "0",
       "headsign": "ZAKRZÓW",
       "service_id": "4",
@@ -28762,7 +28762,7 @@
       ]
     },
     {
-      "trip_id": "4_17601687",
+      "trip_id": "4_17705700",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "4",
@@ -29130,7 +29130,7 @@
       ]
     },
     {
-      "trip_id": "4_17601688",
+      "trip_id": "4_17705701",
       "direction_id": "0",
       "headsign": "ZAKRZÓW",
       "service_id": "4",
@@ -29489,7 +29489,7 @@
       ]
     },
     {
-      "trip_id": "4_17601689",
+      "trip_id": "4_17705702",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "4",
@@ -29857,7 +29857,7 @@
       ]
     },
     {
-      "trip_id": "4_17601690",
+      "trip_id": "4_17705703",
       "direction_id": "0",
       "headsign": "ZAKRZÓW",
       "service_id": "4",
@@ -30216,7 +30216,7 @@
       ]
     },
     {
-      "trip_id": "4_17601691",
+      "trip_id": "4_17705704",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "4",
@@ -30584,7 +30584,7 @@
       ]
     },
     {
-      "trip_id": "4_17601692",
+      "trip_id": "4_17705705",
       "direction_id": "0",
       "headsign": "ZAKRZÓW",
       "service_id": "4",
@@ -30943,7 +30943,7 @@
       ]
     },
     {
-      "trip_id": "4_17601693",
+      "trip_id": "4_17705706",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "4",
@@ -31311,7 +31311,7 @@
       ]
     },
     {
-      "trip_id": "4_17601694",
+      "trip_id": "4_17705707",
       "direction_id": "0",
       "headsign": "ZAKRZÓW",
       "service_id": "4",
@@ -31670,7 +31670,7 @@
       ]
     },
     {
-      "trip_id": "4_17601695",
+      "trip_id": "4_17705708",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "4",
@@ -32038,7 +32038,7 @@
       ]
     },
     {
-      "trip_id": "4_17601696",
+      "trip_id": "4_17705709",
       "direction_id": "0",
       "headsign": "ZAKRZÓW",
       "service_id": "4",
@@ -32397,7 +32397,7 @@
       ]
     },
     {
-      "trip_id": "4_17601697",
+      "trip_id": "4_17705710",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "4",
@@ -32765,7 +32765,7 @@
       ]
     },
     {
-      "trip_id": "4_17601698",
+      "trip_id": "4_17705711",
       "direction_id": "0",
       "headsign": "ZAKRZÓW",
       "service_id": "4",
@@ -33124,7 +33124,7 @@
       ]
     },
     {
-      "trip_id": "4_17601699",
+      "trip_id": "4_17705712",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "4",
@@ -33492,7 +33492,7 @@
       ]
     },
     {
-      "trip_id": "4_17601700",
+      "trip_id": "4_17705713",
       "direction_id": "0",
       "headsign": "ZAKRZÓW",
       "service_id": "4",
@@ -33851,7 +33851,7 @@
       ]
     },
     {
-      "trip_id": "4_17601701",
+      "trip_id": "4_17705714",
       "direction_id": "1",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "4",
@@ -34075,7 +34075,7 @@
       ]
     },
     {
-      "trip_id": "4_17601702",
+      "trip_id": "4_17705715",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "4",
@@ -34326,7 +34326,7 @@
       ]
     },
     {
-      "trip_id": "4_17601703",
+      "trip_id": "4_17705716",
       "direction_id": "0",
       "headsign": "ZAKRZÓW",
       "service_id": "4",
@@ -34685,7 +34685,7 @@
       ]
     },
     {
-      "trip_id": "4_17601704",
+      "trip_id": "4_17705717",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "4",
@@ -35053,7 +35053,7 @@
       ]
     },
     {
-      "trip_id": "4_17601705",
+      "trip_id": "4_17705718",
       "direction_id": "0",
       "headsign": "ZAKRZÓW",
       "service_id": "4",
@@ -35412,7 +35412,7 @@
       ]
     },
     {
-      "trip_id": "4_17601706",
+      "trip_id": "4_17705719",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "4",
@@ -35780,7 +35780,7 @@
       ]
     },
     {
-      "trip_id": "4_17601707",
+      "trip_id": "4_17705720",
       "direction_id": "0",
       "headsign": "ZAKRZÓW",
       "service_id": "4",
@@ -36139,7 +36139,7 @@
       ]
     },
     {
-      "trip_id": "4_17601708",
+      "trip_id": "4_17705721",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "4",
@@ -36507,7 +36507,7 @@
       ]
     },
     {
-      "trip_id": "4_17601709",
+      "trip_id": "4_17705722",
       "direction_id": "0",
       "headsign": "ZAKRZÓW",
       "service_id": "4",
@@ -36866,7 +36866,7 @@
       ]
     },
     {
-      "trip_id": "4_17601710",
+      "trip_id": "4_17705723",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "4",
@@ -37234,7 +37234,7 @@
       ]
     },
     {
-      "trip_id": "4_17601711",
+      "trip_id": "4_17705724",
       "direction_id": "0",
       "headsign": "ZAKRZÓW",
       "service_id": "4",
@@ -37593,7 +37593,7 @@
       ]
     },
     {
-      "trip_id": "4_17601712",
+      "trip_id": "4_17705725",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "4",
@@ -37961,7 +37961,7 @@
       ]
     },
     {
-      "trip_id": "4_17601713",
+      "trip_id": "4_17705726",
       "direction_id": "0",
       "headsign": "ZAKRZÓW",
       "service_id": "4",
@@ -38320,7 +38320,7 @@
       ]
     },
     {
-      "trip_id": "4_17601714",
+      "trip_id": "4_17705727",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "4",
@@ -38688,7 +38688,7 @@
       ]
     },
     {
-      "trip_id": "4_17601715",
+      "trip_id": "4_17705728",
       "direction_id": "0",
       "headsign": "ZAKRZÓW",
       "service_id": "4",
@@ -39047,7 +39047,7 @@
       ]
     },
     {
-      "trip_id": "4_17601716",
+      "trip_id": "4_17705729",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "4",
@@ -39415,7 +39415,7 @@
       ]
     },
     {
-      "trip_id": "4_17601717",
+      "trip_id": "4_17705730",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "4",
@@ -39585,7 +39585,7 @@
       ]
     },
     {
-      "trip_id": "4_17601718",
+      "trip_id": "4_17705731",
       "direction_id": "0",
       "headsign": "ZAKRZÓW",
       "service_id": "4",
@@ -39791,7 +39791,7 @@
       ]
     },
     {
-      "trip_id": "4_17601719",
+      "trip_id": "4_17705732",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "4",
@@ -40159,7 +40159,7 @@
       ]
     },
     {
-      "trip_id": "4_17601720",
+      "trip_id": "4_17705733",
       "direction_id": "0",
       "headsign": "ZAKRZÓW",
       "service_id": "4",
@@ -40518,7 +40518,7 @@
       ]
     },
     {
-      "trip_id": "4_17601721",
+      "trip_id": "4_17705734",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "4",
@@ -40886,7 +40886,7 @@
       ]
     },
     {
-      "trip_id": "4_17601722",
+      "trip_id": "4_17705735",
       "direction_id": "0",
       "headsign": "ZAKRZÓW",
       "service_id": "4",
@@ -41245,7 +41245,7 @@
       ]
     },
     {
-      "trip_id": "4_17601723",
+      "trip_id": "4_17705736",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "4",
@@ -41613,7 +41613,7 @@
       ]
     },
     {
-      "trip_id": "4_17601724",
+      "trip_id": "4_17705737",
       "direction_id": "0",
       "headsign": "ZAKRZÓW",
       "service_id": "4",
@@ -41972,7 +41972,7 @@
       ]
     },
     {
-      "trip_id": "4_17601725",
+      "trip_id": "4_17705738",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "4",
@@ -42340,7 +42340,7 @@
       ]
     },
     {
-      "trip_id": "4_17601726",
+      "trip_id": "4_17705739",
       "direction_id": "0",
       "headsign": "ZAKRZÓW",
       "service_id": "4",
@@ -42699,7 +42699,7 @@
       ]
     },
     {
-      "trip_id": "4_17601727",
+      "trip_id": "4_17705740",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "4",
@@ -43067,7 +43067,7 @@
       ]
     },
     {
-      "trip_id": "4_17601728",
+      "trip_id": "4_17705741",
       "direction_id": "0",
       "headsign": "ZAKRZÓW",
       "service_id": "4",
@@ -43426,7 +43426,7 @@
       ]
     },
     {
-      "trip_id": "4_17601729",
+      "trip_id": "4_17705742",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "4",
@@ -43794,7 +43794,7 @@
       ]
     },
     {
-      "trip_id": "4_17601730",
+      "trip_id": "4_17705743",
       "direction_id": "0",
       "headsign": "ZAKRZÓW",
       "service_id": "4",
@@ -44153,7 +44153,7 @@
       ]
     },
     {
-      "trip_id": "4_17601731",
+      "trip_id": "4_17705744",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "4",
@@ -44521,7 +44521,7 @@
       ]
     },
     {
-      "trip_id": "4_17601732",
+      "trip_id": "4_17705745",
       "direction_id": "0",
       "headsign": "ZAKRZÓW",
       "service_id": "4",
@@ -44880,7 +44880,7 @@
       ]
     },
     {
-      "trip_id": "4_17601733",
+      "trip_id": "4_17705746",
       "direction_id": "1",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "4",
@@ -45104,7 +45104,7 @@
       ]
     },
     {
-      "trip_id": "4_17601734",
+      "trip_id": "4_17705747",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "4",
@@ -45355,7 +45355,7 @@
       ]
     },
     {
-      "trip_id": "4_17601735",
+      "trip_id": "4_17705748",
       "direction_id": "0",
       "headsign": "ZAKRZÓW",
       "service_id": "4",
@@ -45714,7 +45714,7 @@
       ]
     },
     {
-      "trip_id": "4_17601736",
+      "trip_id": "4_17705749",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "4",
@@ -46082,7 +46082,7 @@
       ]
     },
     {
-      "trip_id": "4_17601737",
+      "trip_id": "4_17705750",
       "direction_id": "0",
       "headsign": "ZAKRZÓW",
       "service_id": "4",
@@ -46441,7 +46441,7 @@
       ]
     },
     {
-      "trip_id": "4_17601738",
+      "trip_id": "4_17705751",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "4",
@@ -46809,7 +46809,7 @@
       ]
     },
     {
-      "trip_id": "4_17601739",
+      "trip_id": "4_17705752",
       "direction_id": "0",
       "headsign": "ZAKRZÓW",
       "service_id": "4",
@@ -47168,7 +47168,7 @@
       ]
     },
     {
-      "trip_id": "4_17601740",
+      "trip_id": "4_17705753",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "4",
@@ -47536,7 +47536,7 @@
       ]
     },
     {
-      "trip_id": "4_17601741",
+      "trip_id": "4_17705754",
       "direction_id": "0",
       "headsign": "ZAKRZÓW",
       "service_id": "4",
@@ -47895,7 +47895,7 @@
       ]
     },
     {
-      "trip_id": "4_17601742",
+      "trip_id": "4_17705755",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "4",
@@ -48263,7 +48263,7 @@
       ]
     },
     {
-      "trip_id": "4_17601743",
+      "trip_id": "4_17705756",
       "direction_id": "0",
       "headsign": "ZAKRZÓW",
       "service_id": "4",
@@ -48622,7 +48622,7 @@
       ]
     },
     {
-      "trip_id": "4_17601744",
+      "trip_id": "4_17705757",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "4",
@@ -48990,7 +48990,7 @@
       ]
     },
     {
-      "trip_id": "4_17601745",
+      "trip_id": "4_17705758",
       "direction_id": "0",
       "headsign": "ZAKRZÓW",
       "service_id": "4",
@@ -49349,7 +49349,7 @@
       ]
     },
     {
-      "trip_id": "4_17601746",
+      "trip_id": "4_17705759",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "4",
@@ -49717,7 +49717,7 @@
       ]
     },
     {
-      "trip_id": "4_17601747",
+      "trip_id": "4_17705760",
       "direction_id": "0",
       "headsign": "ZAKRZÓW",
       "service_id": "4",
@@ -50076,7 +50076,7 @@
       ]
     },
     {
-      "trip_id": "4_17601748",
+      "trip_id": "4_17705761",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "4",
@@ -50444,7 +50444,7 @@
       ]
     },
     {
-      "trip_id": "4_17601749",
+      "trip_id": "4_17705762",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "4",
@@ -50614,7 +50614,7 @@
       ]
     },
     {
-      "trip_id": "4_17601750",
+      "trip_id": "4_17705763",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "4",
@@ -50865,7 +50865,7 @@
       ]
     },
     {
-      "trip_id": "4_17601751",
+      "trip_id": "4_17705764",
       "direction_id": "0",
       "headsign": "ZAKRZÓW",
       "service_id": "4",
@@ -51224,7 +51224,7 @@
       ]
     },
     {
-      "trip_id": "4_17601752",
+      "trip_id": "4_17705765",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "4",
@@ -51592,7 +51592,7 @@
       ]
     },
     {
-      "trip_id": "4_17601753",
+      "trip_id": "4_17705766",
       "direction_id": "0",
       "headsign": "ZAKRZÓW",
       "service_id": "4",
@@ -51951,7 +51951,7 @@
       ]
     },
     {
-      "trip_id": "4_17601754",
+      "trip_id": "4_17705767",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "4",
@@ -52319,7 +52319,7 @@
       ]
     },
     {
-      "trip_id": "4_17601755",
+      "trip_id": "4_17705768",
       "direction_id": "0",
       "headsign": "ZAKRZÓW",
       "service_id": "4",
@@ -52678,7 +52678,7 @@
       ]
     },
     {
-      "trip_id": "4_17601756",
+      "trip_id": "4_17705769",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "4",
@@ -53046,7 +53046,7 @@
       ]
     },
     {
-      "trip_id": "4_17601757",
+      "trip_id": "4_17705770",
       "direction_id": "0",
       "headsign": "ZAKRZÓW",
       "service_id": "4",
@@ -53405,7 +53405,7 @@
       ]
     },
     {
-      "trip_id": "4_17601758",
+      "trip_id": "4_17705771",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "4",
@@ -53773,7 +53773,7 @@
       ]
     },
     {
-      "trip_id": "4_17601759",
+      "trip_id": "4_17705772",
       "direction_id": "0",
       "headsign": "ZAKRZÓW",
       "service_id": "4",
@@ -54132,7 +54132,7 @@
       ]
     },
     {
-      "trip_id": "4_17601760",
+      "trip_id": "4_17705773",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "4",
@@ -54500,7 +54500,7 @@
       ]
     },
     {
-      "trip_id": "4_17601761",
+      "trip_id": "4_17705774",
       "direction_id": "0",
       "headsign": "ZAKRZÓW",
       "service_id": "4",
@@ -54859,7 +54859,7 @@
       ]
     },
     {
-      "trip_id": "4_17601762",
+      "trip_id": "4_17705775",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "4",
@@ -55227,7 +55227,7 @@
       ]
     },
     {
-      "trip_id": "4_17601763",
+      "trip_id": "4_17705776",
       "direction_id": "0",
       "headsign": "ZAKRZÓW",
       "service_id": "4",
@@ -55586,7 +55586,7 @@
       ]
     },
     {
-      "trip_id": "4_17601764",
+      "trip_id": "4_17705777",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "4",
@@ -55954,7 +55954,7 @@
       ]
     },
     {
-      "trip_id": "4_17601765",
+      "trip_id": "4_17705778",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "4",
@@ -56124,7 +56124,7 @@
       ]
     },
     {
-      "trip_id": "4_17603898",
+      "trip_id": "4_17707911",
       "direction_id": "0",
       "headsign": "ZAKRZÓW",
       "service_id": "4",
@@ -56168,7 +56168,7 @@
       ]
     },
     {
-      "trip_id": "4_17603899",
+      "trip_id": "4_17707912",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "4",
@@ -56536,7 +56536,7 @@
       ]
     },
     {
-      "trip_id": "4_17603900",
+      "trip_id": "4_17707913",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "4",
@@ -56706,7 +56706,7 @@
       ]
     },
     {
-      "trip_id": "6_17606938",
+      "trip_id": "6_17710951",
       "direction_id": "0",
       "headsign": "ZAKRZÓW",
       "service_id": "6",
@@ -56912,7 +56912,7 @@
       ]
     },
     {
-      "trip_id": "6_17606939",
+      "trip_id": "6_17710952",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "6",
@@ -57280,7 +57280,7 @@
       ]
     },
     {
-      "trip_id": "6_17606940",
+      "trip_id": "6_17710953",
       "direction_id": "0",
       "headsign": "ZAKRZÓW",
       "service_id": "6",
@@ -57639,7 +57639,7 @@
       ]
     },
     {
-      "trip_id": "6_17606941",
+      "trip_id": "6_17710954",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "6",
@@ -58007,7 +58007,7 @@
       ]
     },
     {
-      "trip_id": "6_17606942",
+      "trip_id": "6_17710955",
       "direction_id": "0",
       "headsign": "ZAKRZÓW",
       "service_id": "6",
@@ -58366,7 +58366,7 @@
       ]
     },
     {
-      "trip_id": "6_17606943",
+      "trip_id": "6_17710956",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "6",
@@ -58734,7 +58734,7 @@
       ]
     },
     {
-      "trip_id": "6_17606944",
+      "trip_id": "6_17710957",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "6",
@@ -58985,7 +58985,7 @@
       ]
     },
     {
-      "trip_id": "6_17606945",
+      "trip_id": "6_17710958",
       "direction_id": "0",
       "headsign": "ZAKRZÓW",
       "service_id": "6",
@@ -59191,7 +59191,7 @@
       ]
     },
     {
-      "trip_id": "6_17606946",
+      "trip_id": "6_17710959",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "6",
@@ -59559,7 +59559,7 @@
       ]
     },
     {
-      "trip_id": "6_17606947",
+      "trip_id": "6_17710960",
       "direction_id": "0",
       "headsign": "ZAKRZÓW",
       "service_id": "6",
@@ -59918,7 +59918,7 @@
       ]
     },
     {
-      "trip_id": "6_17606948",
+      "trip_id": "6_17710961",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "6",
@@ -60286,7 +60286,7 @@
       ]
     },
     {
-      "trip_id": "6_17606949",
+      "trip_id": "6_17710962",
       "direction_id": "0",
       "headsign": "ZAKRZÓW",
       "service_id": "6",
@@ -60645,7 +60645,7 @@
       ]
     },
     {
-      "trip_id": "6_17606950",
+      "trip_id": "6_17710963",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "6",
@@ -61013,7 +61013,7 @@
       ]
     },
     {
-      "trip_id": "6_17606951",
+      "trip_id": "6_17710964",
       "direction_id": "0",
       "headsign": "ZAKRZÓW",
       "service_id": "6",
@@ -61372,7 +61372,7 @@
       ]
     },
     {
-      "trip_id": "6_17606952",
+      "trip_id": "6_17710965",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "6",
@@ -61740,7 +61740,7 @@
       ]
     },
     {
-      "trip_id": "6_17606953",
+      "trip_id": "6_17710966",
       "direction_id": "0",
       "headsign": "ZAKRZÓW",
       "service_id": "6",
@@ -62099,7 +62099,7 @@
       ]
     },
     {
-      "trip_id": "6_17606954",
+      "trip_id": "6_17710967",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "6",
@@ -62467,7 +62467,7 @@
       ]
     },
     {
-      "trip_id": "6_17606955",
+      "trip_id": "6_17710968",
       "direction_id": "0",
       "headsign": "ZAKRZÓW",
       "service_id": "6",
@@ -62826,7 +62826,7 @@
       ]
     },
     {
-      "trip_id": "6_17606956",
+      "trip_id": "6_17710969",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "6",
@@ -63194,7 +63194,7 @@
       ]
     },
     {
-      "trip_id": "6_17606957",
+      "trip_id": "6_17710970",
       "direction_id": "0",
       "headsign": "ZAKRZÓW",
       "service_id": "6",
@@ -63553,7 +63553,7 @@
       ]
     },
     {
-      "trip_id": "6_17606958",
+      "trip_id": "6_17710971",
       "direction_id": "1",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "6",
@@ -63777,7 +63777,7 @@
       ]
     },
     {
-      "trip_id": "6_17606959",
+      "trip_id": "6_17710972",
       "direction_id": "0",
       "headsign": "ZAKRZÓW",
       "service_id": "6",
@@ -64010,7 +64010,7 @@
       ]
     },
     {
-      "trip_id": "6_17606960",
+      "trip_id": "6_17710973",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "6",
@@ -64378,7 +64378,7 @@
       ]
     },
     {
-      "trip_id": "6_17606961",
+      "trip_id": "6_17710974",
       "direction_id": "0",
       "headsign": "ZAKRZÓW",
       "service_id": "6",
@@ -64737,7 +64737,7 @@
       ]
     },
     {
-      "trip_id": "6_17606962",
+      "trip_id": "6_17710975",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "6",
@@ -65105,7 +65105,7 @@
       ]
     },
     {
-      "trip_id": "6_17606963",
+      "trip_id": "6_17710976",
       "direction_id": "0",
       "headsign": "ZAKRZÓW",
       "service_id": "6",
@@ -65464,7 +65464,7 @@
       ]
     },
     {
-      "trip_id": "6_17606964",
+      "trip_id": "6_17710977",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "6",
@@ -65832,7 +65832,7 @@
       ]
     },
     {
-      "trip_id": "6_17606965",
+      "trip_id": "6_17710978",
       "direction_id": "0",
       "headsign": "ZAKRZÓW",
       "service_id": "6",
@@ -66191,7 +66191,7 @@
       ]
     },
     {
-      "trip_id": "6_17606966",
+      "trip_id": "6_17710979",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "6",
@@ -66559,7 +66559,7 @@
       ]
     },
     {
-      "trip_id": "6_17606967",
+      "trip_id": "6_17710980",
       "direction_id": "0",
       "headsign": "ZAKRZÓW",
       "service_id": "6",
@@ -66918,7 +66918,7 @@
       ]
     },
     {
-      "trip_id": "6_17606968",
+      "trip_id": "6_17710981",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "6",
@@ -67286,7 +67286,7 @@
       ]
     },
     {
-      "trip_id": "6_17606969",
+      "trip_id": "6_17710982",
       "direction_id": "0",
       "headsign": "ZAKRZÓW",
       "service_id": "6",
@@ -67645,7 +67645,7 @@
       ]
     },
     {
-      "trip_id": "6_17606970",
+      "trip_id": "6_17710983",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "6",
@@ -68013,7 +68013,7 @@
       ]
     },
     {
-      "trip_id": "6_17606971",
+      "trip_id": "6_17710984",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "6",
@@ -68354,7 +68354,7 @@
       ]
     },
     {
-      "trip_id": "6_17606972",
+      "trip_id": "6_17710985",
       "direction_id": "0",
       "headsign": "ZAKRZÓW",
       "service_id": "6",
@@ -68587,7 +68587,7 @@
       ]
     },
     {
-      "trip_id": "6_17606973",
+      "trip_id": "6_17710986",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "6",
@@ -68955,7 +68955,7 @@
       ]
     },
     {
-      "trip_id": "6_17606974",
+      "trip_id": "6_17710987",
       "direction_id": "0",
       "headsign": "ZAKRZÓW",
       "service_id": "6",
@@ -69314,7 +69314,7 @@
       ]
     },
     {
-      "trip_id": "6_17606975",
+      "trip_id": "6_17710988",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "6",
@@ -69682,7 +69682,7 @@
       ]
     },
     {
-      "trip_id": "6_17606976",
+      "trip_id": "6_17710989",
       "direction_id": "0",
       "headsign": "ZAKRZÓW",
       "service_id": "6",
@@ -70041,7 +70041,7 @@
       ]
     },
     {
-      "trip_id": "6_17606977",
+      "trip_id": "6_17710990",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "6",
@@ -70409,7 +70409,7 @@
       ]
     },
     {
-      "trip_id": "6_17606978",
+      "trip_id": "6_17710991",
       "direction_id": "0",
       "headsign": "ZAKRZÓW",
       "service_id": "6",
@@ -70768,7 +70768,7 @@
       ]
     },
     {
-      "trip_id": "6_17606979",
+      "trip_id": "6_17710992",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "6",
@@ -71136,7 +71136,7 @@
       ]
     },
     {
-      "trip_id": "6_17606980",
+      "trip_id": "6_17710993",
       "direction_id": "0",
       "headsign": "ZAKRZÓW",
       "service_id": "6",
@@ -71495,7 +71495,7 @@
       ]
     },
     {
-      "trip_id": "6_17606981",
+      "trip_id": "6_17710994",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "6",
@@ -71863,7 +71863,7 @@
       ]
     },
     {
-      "trip_id": "6_17606982",
+      "trip_id": "6_17710995",
       "direction_id": "0",
       "headsign": "ZAKRZÓW",
       "service_id": "6",
@@ -72222,7 +72222,7 @@
       ]
     },
     {
-      "trip_id": "6_17606983",
+      "trip_id": "6_17710996",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "6",
@@ -72590,7 +72590,7 @@
       ]
     },
     {
-      "trip_id": "6_17606984",
+      "trip_id": "6_17710997",
       "direction_id": "0",
       "headsign": "ZAKRZÓW",
       "service_id": "6",
@@ -72949,7 +72949,7 @@
       ]
     },
     {
-      "trip_id": "6_17606985",
+      "trip_id": "6_17710998",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "6",
@@ -73317,7 +73317,7 @@
       ]
     },
     {
-      "trip_id": "6_17606986",
+      "trip_id": "6_17710999",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "6",
@@ -73487,7 +73487,7 @@
       ]
     },
     {
-      "trip_id": "6_17606987",
+      "trip_id": "6_17711000",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "6",
@@ -73738,7 +73738,7 @@
       ]
     },
     {
-      "trip_id": "6_17606988",
+      "trip_id": "6_17711001",
       "direction_id": "0",
       "headsign": "ZAKRZÓW",
       "service_id": "6",
@@ -74097,7 +74097,7 @@
       ]
     },
     {
-      "trip_id": "6_17606989",
+      "trip_id": "6_17711002",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "6",
@@ -74465,7 +74465,7 @@
       ]
     },
     {
-      "trip_id": "6_17606990",
+      "trip_id": "6_17711003",
       "direction_id": "0",
       "headsign": "ZAKRZÓW",
       "service_id": "6",
@@ -74824,7 +74824,7 @@
       ]
     },
     {
-      "trip_id": "6_17606991",
+      "trip_id": "6_17711004",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "6",
@@ -75192,7 +75192,7 @@
       ]
     },
     {
-      "trip_id": "6_17606992",
+      "trip_id": "6_17711005",
       "direction_id": "0",
       "headsign": "ZAKRZÓW",
       "service_id": "6",
@@ -75551,7 +75551,7 @@
       ]
     },
     {
-      "trip_id": "6_17606993",
+      "trip_id": "6_17711006",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "6",
@@ -75919,7 +75919,7 @@
       ]
     },
     {
-      "trip_id": "6_17606994",
+      "trip_id": "6_17711007",
       "direction_id": "0",
       "headsign": "ZAKRZÓW",
       "service_id": "6",
@@ -76278,7 +76278,7 @@
       ]
     },
     {
-      "trip_id": "6_17606995",
+      "trip_id": "6_17711008",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "6",
@@ -76646,7 +76646,7 @@
       ]
     },
     {
-      "trip_id": "6_17606996",
+      "trip_id": "6_17711009",
       "direction_id": "0",
       "headsign": "ZAKRZÓW",
       "service_id": "6",
@@ -77005,7 +77005,7 @@
       ]
     },
     {
-      "trip_id": "6_17606997",
+      "trip_id": "6_17711010",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "6",
@@ -77373,7 +77373,7 @@
       ]
     },
     {
-      "trip_id": "6_17606998",
+      "trip_id": "6_17711011",
       "direction_id": "0",
       "headsign": "ZAKRZÓW",
       "service_id": "6",
@@ -77732,7 +77732,7 @@
       ]
     },
     {
-      "trip_id": "6_17606999",
+      "trip_id": "6_17711012",
       "direction_id": "1",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "6",
@@ -77956,7 +77956,7 @@
       ]
     },
     {
-      "trip_id": "6_17607000",
+      "trip_id": "6_17711013",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "6",
@@ -78207,7 +78207,7 @@
       ]
     },
     {
-      "trip_id": "6_17607001",
+      "trip_id": "6_17711014",
       "direction_id": "0",
       "headsign": "ZAKRZÓW",
       "service_id": "6",
@@ -78566,7 +78566,7 @@
       ]
     },
     {
-      "trip_id": "6_17607002",
+      "trip_id": "6_17711015",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "6",
@@ -78934,7 +78934,7 @@
       ]
     },
     {
-      "trip_id": "6_17607003",
+      "trip_id": "6_17711016",
       "direction_id": "0",
       "headsign": "ZAKRZÓW",
       "service_id": "6",
@@ -79293,7 +79293,7 @@
       ]
     },
     {
-      "trip_id": "6_17607004",
+      "trip_id": "6_17711017",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "6",
@@ -79661,7 +79661,7 @@
       ]
     },
     {
-      "trip_id": "6_17607005",
+      "trip_id": "6_17711018",
       "direction_id": "0",
       "headsign": "ZAKRZÓW",
       "service_id": "6",
@@ -80020,7 +80020,7 @@
       ]
     },
     {
-      "trip_id": "6_17607006",
+      "trip_id": "6_17711019",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "6",
@@ -80388,7 +80388,7 @@
       ]
     },
     {
-      "trip_id": "6_17607007",
+      "trip_id": "6_17711020",
       "direction_id": "0",
       "headsign": "ZAKRZÓW",
       "service_id": "6",
@@ -80747,7 +80747,7 @@
       ]
     },
     {
-      "trip_id": "6_17607008",
+      "trip_id": "6_17711021",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "6",
@@ -81115,7 +81115,7 @@
       ]
     },
     {
-      "trip_id": "6_17607009",
+      "trip_id": "6_17711022",
       "direction_id": "0",
       "headsign": "ZAKRZÓW",
       "service_id": "6",
@@ -81474,7 +81474,7 @@
       ]
     },
     {
-      "trip_id": "6_17607010",
+      "trip_id": "6_17711023",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "6",
@@ -81842,7 +81842,7 @@
       ]
     },
     {
-      "trip_id": "6_17607011",
+      "trip_id": "6_17711024",
       "direction_id": "0",
       "headsign": "ZAKRZÓW",
       "service_id": "6",
@@ -82201,7 +82201,7 @@
       ]
     },
     {
-      "trip_id": "6_17607012",
+      "trip_id": "6_17711025",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "6",
@@ -82569,7 +82569,7 @@
       ]
     },
     {
-      "trip_id": "6_17607013",
+      "trip_id": "6_17711026",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "6",
@@ -82820,7 +82820,7 @@
       ]
     },
     {
-      "trip_id": "6_17607014",
+      "trip_id": "6_17711027",
       "direction_id": "0",
       "headsign": "ZAKRZÓW",
       "service_id": "6",
@@ -83026,7 +83026,7 @@
       ]
     },
     {
-      "trip_id": "6_17607015",
+      "trip_id": "6_17711028",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "6",
@@ -83394,7 +83394,7 @@
       ]
     },
     {
-      "trip_id": "6_17607016",
+      "trip_id": "6_17711029",
       "direction_id": "0",
       "headsign": "ZAKRZÓW",
       "service_id": "6",
@@ -83753,7 +83753,7 @@
       ]
     },
     {
-      "trip_id": "6_17607017",
+      "trip_id": "6_17711030",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "6",
@@ -84121,7 +84121,7 @@
       ]
     },
     {
-      "trip_id": "6_17607018",
+      "trip_id": "6_17711031",
       "direction_id": "0",
       "headsign": "ZAKRZÓW",
       "service_id": "6",
@@ -84480,7 +84480,7 @@
       ]
     },
     {
-      "trip_id": "6_17607019",
+      "trip_id": "6_17711032",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "6",
@@ -84848,7 +84848,7 @@
       ]
     },
     {
-      "trip_id": "6_17607020",
+      "trip_id": "6_17711033",
       "direction_id": "0",
       "headsign": "ZAKRZÓW",
       "service_id": "6",
@@ -85207,7 +85207,7 @@
       ]
     },
     {
-      "trip_id": "6_17607021",
+      "trip_id": "6_17711034",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "6",
@@ -85575,7 +85575,7 @@
       ]
     },
     {
-      "trip_id": "6_17607022",
+      "trip_id": "6_17711035",
       "direction_id": "0",
       "headsign": "ZAKRZÓW",
       "service_id": "6",
@@ -85934,7 +85934,7 @@
       ]
     },
     {
-      "trip_id": "6_17607023",
+      "trip_id": "6_17711036",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "6",
@@ -86302,7 +86302,7 @@
       ]
     },
     {
-      "trip_id": "6_17607024",
+      "trip_id": "6_17711037",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "6",
@@ -86553,7 +86553,7 @@
       ]
     },
     {
-      "trip_id": "6_17607025",
+      "trip_id": "6_17711038",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "6",
@@ -86804,7 +86804,7 @@
       ]
     },
     {
-      "trip_id": "6_17607026",
+      "trip_id": "6_17711039",
       "direction_id": "0",
       "headsign": "ZAKRZÓW",
       "service_id": "6",
@@ -87163,7 +87163,7 @@
       ]
     },
     {
-      "trip_id": "6_17607027",
+      "trip_id": "6_17711040",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "6",
@@ -87531,7 +87531,7 @@
       ]
     },
     {
-      "trip_id": "6_17607028",
+      "trip_id": "6_17711041",
       "direction_id": "0",
       "headsign": "ZAKRZÓW",
       "service_id": "6",
@@ -87890,7 +87890,7 @@
       ]
     },
     {
-      "trip_id": "6_17607029",
+      "trip_id": "6_17711042",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "6",
@@ -88258,7 +88258,7 @@
       ]
     },
     {
-      "trip_id": "6_17607030",
+      "trip_id": "6_17711043",
       "direction_id": "0",
       "headsign": "ZAKRZÓW",
       "service_id": "6",
@@ -88617,7 +88617,7 @@
       ]
     },
     {
-      "trip_id": "6_17607031",
+      "trip_id": "6_17711044",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "6",
@@ -88985,7 +88985,7 @@
       ]
     },
     {
-      "trip_id": "6_17607032",
+      "trip_id": "6_17711045",
       "direction_id": "0",
       "headsign": "ZAKRZÓW",
       "service_id": "6",
@@ -89344,7 +89344,7 @@
       ]
     },
     {
-      "trip_id": "6_17607033",
+      "trip_id": "6_17711046",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "6",
@@ -89712,7 +89712,7 @@
       ]
     },
     {
-      "trip_id": "6_17607034",
+      "trip_id": "6_17711047",
       "direction_id": "0",
       "headsign": "ZAKRZÓW",
       "service_id": "6",
@@ -90071,7 +90071,7 @@
       ]
     },
     {
-      "trip_id": "6_17607035",
+      "trip_id": "6_17711048",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "6",
@@ -90439,7 +90439,7 @@
       ]
     },
     {
-      "trip_id": "6_17607036",
+      "trip_id": "6_17711049",
       "direction_id": "0",
       "headsign": "ZAKRZÓW",
       "service_id": "6",
@@ -90798,7 +90798,7 @@
       ]
     },
     {
-      "trip_id": "6_17607037",
+      "trip_id": "6_17711050",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "6",
@@ -91166,7 +91166,7 @@
       ]
     },
     {
-      "trip_id": "6_17607038",
+      "trip_id": "6_17711051",
       "direction_id": "0",
       "headsign": "ZAKRZÓW",
       "service_id": "6",
@@ -91525,7 +91525,7 @@
       ]
     },
     {
-      "trip_id": "6_17607039",
+      "trip_id": "6_17711052",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "6",
@@ -91893,7 +91893,7 @@
       ]
     },
     {
-      "trip_id": "6_17607040",
+      "trip_id": "6_17711053",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "6",
@@ -92063,7 +92063,7 @@
       ]
     },
     {
-      "trip_id": "6_17607041",
+      "trip_id": "6_17711054",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "6",
@@ -92314,7 +92314,7 @@
       ]
     },
     {
-      "trip_id": "6_17607042",
+      "trip_id": "6_17711055",
       "direction_id": "0",
       "headsign": "ZAKRZÓW",
       "service_id": "6",
@@ -92673,7 +92673,7 @@
       ]
     },
     {
-      "trip_id": "6_17607043",
+      "trip_id": "6_17711056",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "6",
@@ -93041,7 +93041,7 @@
       ]
     },
     {
-      "trip_id": "6_17607044",
+      "trip_id": "6_17711057",
       "direction_id": "0",
       "headsign": "ZAKRZÓW",
       "service_id": "6",
@@ -93400,7 +93400,7 @@
       ]
     },
     {
-      "trip_id": "6_17607045",
+      "trip_id": "6_17711058",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "6",
@@ -93768,7 +93768,7 @@
       ]
     },
     {
-      "trip_id": "6_17607046",
+      "trip_id": "6_17711059",
       "direction_id": "0",
       "headsign": "ZAKRZÓW",
       "service_id": "6",
@@ -94127,7 +94127,7 @@
       ]
     },
     {
-      "trip_id": "6_17607047",
+      "trip_id": "6_17711060",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "6",
@@ -94495,7 +94495,7 @@
       ]
     },
     {
-      "trip_id": "6_17607048",
+      "trip_id": "6_17711061",
       "direction_id": "0",
       "headsign": "ZAKRZÓW",
       "service_id": "6",
@@ -94854,7 +94854,7 @@
       ]
     },
     {
-      "trip_id": "6_17607049",
+      "trip_id": "6_17711062",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "6",
@@ -95222,7 +95222,7 @@
       ]
     },
     {
-      "trip_id": "6_17607050",
+      "trip_id": "6_17711063",
       "direction_id": "0",
       "headsign": "ZAKRZÓW",
       "service_id": "6",
@@ -95581,7 +95581,7 @@
       ]
     },
     {
-      "trip_id": "6_17607051",
+      "trip_id": "6_17711064",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "6",
@@ -95949,7 +95949,7 @@
       ]
     },
     {
-      "trip_id": "6_17607052",
+      "trip_id": "6_17711065",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "6",
@@ -96290,7 +96290,7 @@
       ]
     },
     {
-      "trip_id": "6_17607053",
+      "trip_id": "6_17711066",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "6",
@@ -96541,7 +96541,7 @@
       ]
     },
     {
-      "trip_id": "6_17607054",
+      "trip_id": "6_17711067",
       "direction_id": "0",
       "headsign": "ZAKRZÓW",
       "service_id": "6",
@@ -96900,7 +96900,7 @@
       ]
     },
     {
-      "trip_id": "6_17607055",
+      "trip_id": "6_17711068",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "6",
@@ -97268,7 +97268,7 @@
       ]
     },
     {
-      "trip_id": "6_17607056",
+      "trip_id": "6_17711069",
       "direction_id": "0",
       "headsign": "ZAKRZÓW",
       "service_id": "6",
@@ -97627,7 +97627,7 @@
       ]
     },
     {
-      "trip_id": "6_17607057",
+      "trip_id": "6_17711070",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "6",
@@ -97995,7 +97995,7 @@
       ]
     },
     {
-      "trip_id": "6_17607058",
+      "trip_id": "6_17711071",
       "direction_id": "0",
       "headsign": "ZAKRZÓW",
       "service_id": "6",
@@ -98354,7 +98354,7 @@
       ]
     },
     {
-      "trip_id": "6_17607059",
+      "trip_id": "6_17711072",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "6",
@@ -98722,7 +98722,7 @@
       ]
     },
     {
-      "trip_id": "6_17607060",
+      "trip_id": "6_17711073",
       "direction_id": "0",
       "headsign": "ZAKRZÓW",
       "service_id": "6",
@@ -99081,7 +99081,7 @@
       ]
     },
     {
-      "trip_id": "6_17607061",
+      "trip_id": "6_17711074",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "6",
@@ -99449,7 +99449,7 @@
       ]
     },
     {
-      "trip_id": "6_17607062",
+      "trip_id": "6_17711075",
       "direction_id": "0",
       "headsign": "ZAKRZÓW",
       "service_id": "6",
@@ -99808,7 +99808,7 @@
       ]
     },
     {
-      "trip_id": "6_17607063",
+      "trip_id": "6_17711076",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "6",
@@ -100176,7 +100176,7 @@
       ]
     },
     {
-      "trip_id": "6_17607064",
+      "trip_id": "6_17711077",
       "direction_id": "0",
       "headsign": "ZAKRZÓW",
       "service_id": "6",
@@ -100535,7 +100535,7 @@
       ]
     },
     {
-      "trip_id": "6_17607065",
+      "trip_id": "6_17711078",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "6",
@@ -100903,7 +100903,7 @@
       ]
     },
     {
-      "trip_id": "6_17607066",
+      "trip_id": "6_17711079",
       "direction_id": "0",
       "headsign": "ZAKRZÓW",
       "service_id": "6",
@@ -101262,7 +101262,7 @@
       ]
     },
     {
-      "trip_id": "6_17607067",
+      "trip_id": "6_17711080",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "6",
@@ -101630,7 +101630,7 @@
       ]
     },
     {
-      "trip_id": "6_17607068",
+      "trip_id": "6_17711081",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "6",
@@ -101800,7 +101800,7 @@
       ]
     },
     {
-      "trip_id": "6_17607069",
+      "trip_id": "6_17711082",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "6",
@@ -102051,7 +102051,7 @@
       ]
     },
     {
-      "trip_id": "6_17607070",
+      "trip_id": "6_17711083",
       "direction_id": "0",
       "headsign": "ZAKRZÓW",
       "service_id": "6",
@@ -102410,7 +102410,7 @@
       ]
     },
     {
-      "trip_id": "6_17607071",
+      "trip_id": "6_17711084",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "6",
@@ -102778,7 +102778,7 @@
       ]
     },
     {
-      "trip_id": "6_17607072",
+      "trip_id": "6_17711085",
       "direction_id": "0",
       "headsign": "ZAKRZÓW",
       "service_id": "6",
@@ -103137,7 +103137,7 @@
       ]
     },
     {
-      "trip_id": "6_17607073",
+      "trip_id": "6_17711086",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "6",
@@ -103505,7 +103505,7 @@
       ]
     },
     {
-      "trip_id": "6_17607074",
+      "trip_id": "6_17711087",
       "direction_id": "0",
       "headsign": "ZAKRZÓW",
       "service_id": "6",
@@ -103864,7 +103864,7 @@
       ]
     },
     {
-      "trip_id": "6_17607075",
+      "trip_id": "6_17711088",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "6",
@@ -104232,7 +104232,7 @@
       ]
     },
     {
-      "trip_id": "6_17607076",
+      "trip_id": "6_17711089",
       "direction_id": "0",
       "headsign": "ZAKRZÓW",
       "service_id": "6",
@@ -104591,7 +104591,7 @@
       ]
     },
     {
-      "trip_id": "6_17607077",
+      "trip_id": "6_17711090",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "6",
@@ -104959,7 +104959,7 @@
       ]
     },
     {
-      "trip_id": "6_17607078",
+      "trip_id": "6_17711091",
       "direction_id": "0",
       "headsign": "ZAKRZÓW",
       "service_id": "6",
@@ -105318,7 +105318,7 @@
       ]
     },
     {
-      "trip_id": "6_17607079",
+      "trip_id": "6_17711092",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "6",
@@ -105686,7 +105686,7 @@
       ]
     },
     {
-      "trip_id": "6_17607080",
+      "trip_id": "6_17711093",
       "direction_id": "0",
       "headsign": "ZAKRZÓW",
       "service_id": "6",
@@ -106045,7 +106045,7 @@
       ]
     },
     {
-      "trip_id": "6_17607081",
+      "trip_id": "6_17711094",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "6",
@@ -106413,7 +106413,7 @@
       ]
     },
     {
-      "trip_id": "6_17607082",
+      "trip_id": "6_17711095",
       "direction_id": "0",
       "headsign": "ZAKRZÓW",
       "service_id": "6",
@@ -106772,7 +106772,7 @@
       ]
     },
     {
-      "trip_id": "6_17607083",
+      "trip_id": "6_17711096",
       "direction_id": "1",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "6",
@@ -106996,7 +106996,7 @@
       ]
     },
     {
-      "trip_id": "6_17607084",
+      "trip_id": "6_17711097",
       "direction_id": "0",
       "headsign": "ZAKRZÓW",
       "service_id": "6",
@@ -107202,7 +107202,7 @@
       ]
     },
     {
-      "trip_id": "6_17607085",
+      "trip_id": "6_17711098",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "6",
@@ -107570,7 +107570,7 @@
       ]
     },
     {
-      "trip_id": "6_17607086",
+      "trip_id": "6_17711099",
       "direction_id": "0",
       "headsign": "ZAKRZÓW",
       "service_id": "6",
@@ -107929,7 +107929,7 @@
       ]
     },
     {
-      "trip_id": "6_17607087",
+      "trip_id": "6_17711100",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "6",
@@ -108297,7 +108297,7 @@
       ]
     },
     {
-      "trip_id": "6_17607088",
+      "trip_id": "6_17711101",
       "direction_id": "0",
       "headsign": "ZAKRZÓW",
       "service_id": "6",
@@ -108656,7 +108656,7 @@
       ]
     },
     {
-      "trip_id": "6_17607089",
+      "trip_id": "6_17711102",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "6",
@@ -109024,7 +109024,7 @@
       ]
     },
     {
-      "trip_id": "6_17607090",
+      "trip_id": "6_17711103",
       "direction_id": "0",
       "headsign": "ZAKRZÓW",
       "service_id": "6",
@@ -109383,7 +109383,7 @@
       ]
     },
     {
-      "trip_id": "6_17607091",
+      "trip_id": "6_17711104",
       "direction_id": "1",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "6",
@@ -109607,7 +109607,7 @@
       ]
     },
     {
-      "trip_id": "6_17610219",
+      "trip_id": "6_17714232",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "6",
@@ -109714,7 +109714,7 @@
       ]
     },
     {
-      "trip_id": "6_17610220",
+      "trip_id": "6_17714233",
       "direction_id": "0",
       "headsign": "ZAKRZÓW",
       "service_id": "6",
@@ -110073,7 +110073,7 @@
       ]
     },
     {
-      "trip_id": "6_17610221",
+      "trip_id": "6_17714234",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "6",
@@ -110441,7 +110441,7 @@
       ]
     },
     {
-      "trip_id": "6_17610222",
+      "trip_id": "6_17714235",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "6",
@@ -110692,7 +110692,7 @@
       ]
     },
     {
-      "trip_id": "8_17613764",
+      "trip_id": "8_17717777",
       "direction_id": "0",
       "headsign": "ZAKRZÓW",
       "service_id": "8",
@@ -110898,7 +110898,7 @@
       ]
     },
     {
-      "trip_id": "8_17613765",
+      "trip_id": "8_17717778",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "8",
@@ -111266,7 +111266,7 @@
       ]
     },
     {
-      "trip_id": "8_17613766",
+      "trip_id": "8_17717779",
       "direction_id": "0",
       "headsign": "ZAKRZÓW",
       "service_id": "8",
@@ -111625,7 +111625,7 @@
       ]
     },
     {
-      "trip_id": "8_17613767",
+      "trip_id": "8_17717780",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "8",
@@ -111993,7 +111993,7 @@
       ]
     },
     {
-      "trip_id": "8_17613768",
+      "trip_id": "8_17717781",
       "direction_id": "0",
       "headsign": "ZAKRZÓW",
       "service_id": "8",
@@ -112352,7 +112352,7 @@
       ]
     },
     {
-      "trip_id": "8_17613769",
+      "trip_id": "8_17717782",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "8",
@@ -112720,7 +112720,7 @@
       ]
     },
     {
-      "trip_id": "8_17613770",
+      "trip_id": "8_17717783",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "8",
@@ -112971,7 +112971,7 @@
       ]
     },
     {
-      "trip_id": "8_17613771",
+      "trip_id": "8_17717784",
       "direction_id": "0",
       "headsign": "ZAKRZÓW",
       "service_id": "8",
@@ -113177,7 +113177,7 @@
       ]
     },
     {
-      "trip_id": "8_17613772",
+      "trip_id": "8_17717785",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "8",
@@ -113545,7 +113545,7 @@
       ]
     },
     {
-      "trip_id": "8_17613773",
+      "trip_id": "8_17717786",
       "direction_id": "0",
       "headsign": "ZAKRZÓW",
       "service_id": "8",
@@ -113904,7 +113904,7 @@
       ]
     },
     {
-      "trip_id": "8_17613774",
+      "trip_id": "8_17717787",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "8",
@@ -114272,7 +114272,7 @@
       ]
     },
     {
-      "trip_id": "8_17613775",
+      "trip_id": "8_17717788",
       "direction_id": "0",
       "headsign": "ZAKRZÓW",
       "service_id": "8",
@@ -114631,7 +114631,7 @@
       ]
     },
     {
-      "trip_id": "8_17613776",
+      "trip_id": "8_17717789",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "8",
@@ -114999,7 +114999,7 @@
       ]
     },
     {
-      "trip_id": "8_17613777",
+      "trip_id": "8_17717790",
       "direction_id": "0",
       "headsign": "ZAKRZÓW",
       "service_id": "8",
@@ -115358,7 +115358,7 @@
       ]
     },
     {
-      "trip_id": "8_17613778",
+      "trip_id": "8_17717791",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "8",
@@ -115726,7 +115726,7 @@
       ]
     },
     {
-      "trip_id": "8_17613779",
+      "trip_id": "8_17717792",
       "direction_id": "0",
       "headsign": "ZAKRZÓW",
       "service_id": "8",
@@ -116085,7 +116085,7 @@
       ]
     },
     {
-      "trip_id": "8_17613780",
+      "trip_id": "8_17717793",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "8",
@@ -116453,7 +116453,7 @@
       ]
     },
     {
-      "trip_id": "8_17613781",
+      "trip_id": "8_17717794",
       "direction_id": "0",
       "headsign": "ZAKRZÓW",
       "service_id": "8",
@@ -116812,7 +116812,7 @@
       ]
     },
     {
-      "trip_id": "8_17613782",
+      "trip_id": "8_17717795",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "8",
@@ -117180,7 +117180,7 @@
       ]
     },
     {
-      "trip_id": "8_17613783",
+      "trip_id": "8_17717796",
       "direction_id": "0",
       "headsign": "ZAKRZÓW",
       "service_id": "8",
@@ -117539,7 +117539,7 @@
       ]
     },
     {
-      "trip_id": "8_17613784",
+      "trip_id": "8_17717797",
       "direction_id": "1",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "8",
@@ -117763,7 +117763,7 @@
       ]
     },
     {
-      "trip_id": "8_17613785",
+      "trip_id": "8_17717798",
       "direction_id": "0",
       "headsign": "ZAKRZÓW",
       "service_id": "8",
@@ -117996,7 +117996,7 @@
       ]
     },
     {
-      "trip_id": "8_17613786",
+      "trip_id": "8_17717799",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "8",
@@ -118364,7 +118364,7 @@
       ]
     },
     {
-      "trip_id": "8_17613787",
+      "trip_id": "8_17717800",
       "direction_id": "0",
       "headsign": "ZAKRZÓW",
       "service_id": "8",
@@ -118723,7 +118723,7 @@
       ]
     },
     {
-      "trip_id": "8_17613788",
+      "trip_id": "8_17717801",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "8",
@@ -119091,7 +119091,7 @@
       ]
     },
     {
-      "trip_id": "8_17613789",
+      "trip_id": "8_17717802",
       "direction_id": "0",
       "headsign": "ZAKRZÓW",
       "service_id": "8",
@@ -119450,7 +119450,7 @@
       ]
     },
     {
-      "trip_id": "8_17613790",
+      "trip_id": "8_17717803",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "8",
@@ -119818,7 +119818,7 @@
       ]
     },
     {
-      "trip_id": "8_17613791",
+      "trip_id": "8_17717804",
       "direction_id": "0",
       "headsign": "ZAKRZÓW",
       "service_id": "8",
@@ -120177,7 +120177,7 @@
       ]
     },
     {
-      "trip_id": "8_17613792",
+      "trip_id": "8_17717805",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "8",
@@ -120545,7 +120545,7 @@
       ]
     },
     {
-      "trip_id": "8_17613793",
+      "trip_id": "8_17717806",
       "direction_id": "0",
       "headsign": "ZAKRZÓW",
       "service_id": "8",
@@ -120904,7 +120904,7 @@
       ]
     },
     {
-      "trip_id": "8_17613794",
+      "trip_id": "8_17717807",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "8",
@@ -121272,7 +121272,7 @@
       ]
     },
     {
-      "trip_id": "8_17613795",
+      "trip_id": "8_17717808",
       "direction_id": "0",
       "headsign": "ZAKRZÓW",
       "service_id": "8",
@@ -121631,7 +121631,7 @@
       ]
     },
     {
-      "trip_id": "8_17613796",
+      "trip_id": "8_17717809",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "8",
@@ -121999,7 +121999,7 @@
       ]
     },
     {
-      "trip_id": "8_17613797",
+      "trip_id": "8_17717810",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "8",
@@ -122340,7 +122340,7 @@
       ]
     },
     {
-      "trip_id": "8_17613798",
+      "trip_id": "8_17717811",
       "direction_id": "0",
       "headsign": "ZAKRZÓW",
       "service_id": "8",
@@ -122573,7 +122573,7 @@
       ]
     },
     {
-      "trip_id": "8_17613799",
+      "trip_id": "8_17717812",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "8",
@@ -122941,7 +122941,7 @@
       ]
     },
     {
-      "trip_id": "8_17613800",
+      "trip_id": "8_17717813",
       "direction_id": "0",
       "headsign": "ZAKRZÓW",
       "service_id": "8",
@@ -123300,7 +123300,7 @@
       ]
     },
     {
-      "trip_id": "8_17613801",
+      "trip_id": "8_17717814",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "8",
@@ -123668,7 +123668,7 @@
       ]
     },
     {
-      "trip_id": "8_17613802",
+      "trip_id": "8_17717815",
       "direction_id": "0",
       "headsign": "ZAKRZÓW",
       "service_id": "8",
@@ -124027,7 +124027,7 @@
       ]
     },
     {
-      "trip_id": "8_17613803",
+      "trip_id": "8_17717816",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "8",
@@ -124395,7 +124395,7 @@
       ]
     },
     {
-      "trip_id": "8_17613804",
+      "trip_id": "8_17717817",
       "direction_id": "0",
       "headsign": "ZAKRZÓW",
       "service_id": "8",
@@ -124754,7 +124754,7 @@
       ]
     },
     {
-      "trip_id": "8_17613805",
+      "trip_id": "8_17717818",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "8",
@@ -125122,7 +125122,7 @@
       ]
     },
     {
-      "trip_id": "8_17613806",
+      "trip_id": "8_17717819",
       "direction_id": "0",
       "headsign": "ZAKRZÓW",
       "service_id": "8",
@@ -125481,7 +125481,7 @@
       ]
     },
     {
-      "trip_id": "8_17613807",
+      "trip_id": "8_17717820",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "8",
@@ -125849,7 +125849,7 @@
       ]
     },
     {
-      "trip_id": "8_17613808",
+      "trip_id": "8_17717821",
       "direction_id": "0",
       "headsign": "ZAKRZÓW",
       "service_id": "8",
@@ -126208,7 +126208,7 @@
       ]
     },
     {
-      "trip_id": "8_17613809",
+      "trip_id": "8_17717822",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "8",
@@ -126576,7 +126576,7 @@
       ]
     },
     {
-      "trip_id": "8_17613810",
+      "trip_id": "8_17717823",
       "direction_id": "0",
       "headsign": "ZAKRZÓW",
       "service_id": "8",
@@ -126935,7 +126935,7 @@
       ]
     },
     {
-      "trip_id": "8_17613811",
+      "trip_id": "8_17717824",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "8",
@@ -127303,7 +127303,7 @@
       ]
     },
     {
-      "trip_id": "8_17613812",
+      "trip_id": "8_17717825",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "8",
@@ -127473,7 +127473,7 @@
       ]
     },
     {
-      "trip_id": "8_17613813",
+      "trip_id": "8_17717826",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "8",
@@ -127724,7 +127724,7 @@
       ]
     },
     {
-      "trip_id": "8_17613814",
+      "trip_id": "8_17717827",
       "direction_id": "0",
       "headsign": "ZAKRZÓW",
       "service_id": "8",
@@ -128083,7 +128083,7 @@
       ]
     },
     {
-      "trip_id": "8_17613815",
+      "trip_id": "8_17717828",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "8",
@@ -128451,7 +128451,7 @@
       ]
     },
     {
-      "trip_id": "8_17613816",
+      "trip_id": "8_17717829",
       "direction_id": "0",
       "headsign": "ZAKRZÓW",
       "service_id": "8",
@@ -128810,7 +128810,7 @@
       ]
     },
     {
-      "trip_id": "8_17613817",
+      "trip_id": "8_17717830",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "8",
@@ -129178,7 +129178,7 @@
       ]
     },
     {
-      "trip_id": "8_17613818",
+      "trip_id": "8_17717831",
       "direction_id": "0",
       "headsign": "ZAKRZÓW",
       "service_id": "8",
@@ -129537,7 +129537,7 @@
       ]
     },
     {
-      "trip_id": "8_17613819",
+      "trip_id": "8_17717832",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "8",
@@ -129905,7 +129905,7 @@
       ]
     },
     {
-      "trip_id": "8_17613820",
+      "trip_id": "8_17717833",
       "direction_id": "0",
       "headsign": "ZAKRZÓW",
       "service_id": "8",
@@ -130264,7 +130264,7 @@
       ]
     },
     {
-      "trip_id": "8_17613821",
+      "trip_id": "8_17717834",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "8",
@@ -130632,7 +130632,7 @@
       ]
     },
     {
-      "trip_id": "8_17613822",
+      "trip_id": "8_17717835",
       "direction_id": "0",
       "headsign": "ZAKRZÓW",
       "service_id": "8",
@@ -130991,7 +130991,7 @@
       ]
     },
     {
-      "trip_id": "8_17613823",
+      "trip_id": "8_17717836",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "8",
@@ -131359,7 +131359,7 @@
       ]
     },
     {
-      "trip_id": "8_17613824",
+      "trip_id": "8_17717837",
       "direction_id": "0",
       "headsign": "ZAKRZÓW",
       "service_id": "8",
@@ -131718,7 +131718,7 @@
       ]
     },
     {
-      "trip_id": "8_17613825",
+      "trip_id": "8_17717838",
       "direction_id": "1",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "8",
@@ -131942,7 +131942,7 @@
       ]
     },
     {
-      "trip_id": "8_17613826",
+      "trip_id": "8_17717839",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "8",
@@ -132193,7 +132193,7 @@
       ]
     },
     {
-      "trip_id": "8_17613827",
+      "trip_id": "8_17717840",
       "direction_id": "0",
       "headsign": "ZAKRZÓW",
       "service_id": "8",
@@ -132552,7 +132552,7 @@
       ]
     },
     {
-      "trip_id": "8_17613828",
+      "trip_id": "8_17717841",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "8",
@@ -132920,7 +132920,7 @@
       ]
     },
     {
-      "trip_id": "8_17613829",
+      "trip_id": "8_17717842",
       "direction_id": "0",
       "headsign": "ZAKRZÓW",
       "service_id": "8",
@@ -133279,7 +133279,7 @@
       ]
     },
     {
-      "trip_id": "8_17613830",
+      "trip_id": "8_17717843",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "8",
@@ -133647,7 +133647,7 @@
       ]
     },
     {
-      "trip_id": "8_17613831",
+      "trip_id": "8_17717844",
       "direction_id": "0",
       "headsign": "ZAKRZÓW",
       "service_id": "8",
@@ -134006,7 +134006,7 @@
       ]
     },
     {
-      "trip_id": "8_17613832",
+      "trip_id": "8_17717845",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "8",
@@ -134374,7 +134374,7 @@
       ]
     },
     {
-      "trip_id": "8_17613833",
+      "trip_id": "8_17717846",
       "direction_id": "0",
       "headsign": "ZAKRZÓW",
       "service_id": "8",
@@ -134733,7 +134733,7 @@
       ]
     },
     {
-      "trip_id": "8_17613834",
+      "trip_id": "8_17717847",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "8",
@@ -135101,7 +135101,7 @@
       ]
     },
     {
-      "trip_id": "8_17613835",
+      "trip_id": "8_17717848",
       "direction_id": "0",
       "headsign": "ZAKRZÓW",
       "service_id": "8",
@@ -135460,7 +135460,7 @@
       ]
     },
     {
-      "trip_id": "8_17613836",
+      "trip_id": "8_17717849",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "8",
@@ -135828,7 +135828,7 @@
       ]
     },
     {
-      "trip_id": "8_17613837",
+      "trip_id": "8_17717850",
       "direction_id": "0",
       "headsign": "ZAKRZÓW",
       "service_id": "8",
@@ -136187,7 +136187,7 @@
       ]
     },
     {
-      "trip_id": "8_17613838",
+      "trip_id": "8_17717851",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "8",
@@ -136555,7 +136555,7 @@
       ]
     },
     {
-      "trip_id": "8_17613839",
+      "trip_id": "8_17717852",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "8",
@@ -136806,7 +136806,7 @@
       ]
     },
     {
-      "trip_id": "8_17613840",
+      "trip_id": "8_17717853",
       "direction_id": "0",
       "headsign": "ZAKRZÓW",
       "service_id": "8",
@@ -137012,7 +137012,7 @@
       ]
     },
     {
-      "trip_id": "8_17613841",
+      "trip_id": "8_17717854",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "8",
@@ -137380,7 +137380,7 @@
       ]
     },
     {
-      "trip_id": "8_17613842",
+      "trip_id": "8_17717855",
       "direction_id": "0",
       "headsign": "ZAKRZÓW",
       "service_id": "8",
@@ -137739,7 +137739,7 @@
       ]
     },
     {
-      "trip_id": "8_17613843",
+      "trip_id": "8_17717856",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "8",
@@ -138107,7 +138107,7 @@
       ]
     },
     {
-      "trip_id": "8_17613844",
+      "trip_id": "8_17717857",
       "direction_id": "0",
       "headsign": "ZAKRZÓW",
       "service_id": "8",
@@ -138466,7 +138466,7 @@
       ]
     },
     {
-      "trip_id": "8_17613845",
+      "trip_id": "8_17717858",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "8",
@@ -138834,7 +138834,7 @@
       ]
     },
     {
-      "trip_id": "8_17613846",
+      "trip_id": "8_17717859",
       "direction_id": "0",
       "headsign": "ZAKRZÓW",
       "service_id": "8",
@@ -139193,7 +139193,7 @@
       ]
     },
     {
-      "trip_id": "8_17613847",
+      "trip_id": "8_17717860",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "8",
@@ -139561,7 +139561,7 @@
       ]
     },
     {
-      "trip_id": "8_17613848",
+      "trip_id": "8_17717861",
       "direction_id": "0",
       "headsign": "ZAKRZÓW",
       "service_id": "8",
@@ -139920,7 +139920,7 @@
       ]
     },
     {
-      "trip_id": "8_17613849",
+      "trip_id": "8_17717862",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "8",
@@ -140288,7 +140288,7 @@
       ]
     },
     {
-      "trip_id": "8_17613850",
+      "trip_id": "8_17717863",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "8",
@@ -140539,7 +140539,7 @@
       ]
     },
     {
-      "trip_id": "8_17613851",
+      "trip_id": "8_17717864",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "8",
@@ -140790,7 +140790,7 @@
       ]
     },
     {
-      "trip_id": "8_17613852",
+      "trip_id": "8_17717865",
       "direction_id": "0",
       "headsign": "ZAKRZÓW",
       "service_id": "8",
@@ -141149,7 +141149,7 @@
       ]
     },
     {
-      "trip_id": "8_17613853",
+      "trip_id": "8_17717866",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "8",
@@ -141517,7 +141517,7 @@
       ]
     },
     {
-      "trip_id": "8_17613854",
+      "trip_id": "8_17717867",
       "direction_id": "0",
       "headsign": "ZAKRZÓW",
       "service_id": "8",
@@ -141876,7 +141876,7 @@
       ]
     },
     {
-      "trip_id": "8_17613855",
+      "trip_id": "8_17717868",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "8",
@@ -142244,7 +142244,7 @@
       ]
     },
     {
-      "trip_id": "8_17613856",
+      "trip_id": "8_17717869",
       "direction_id": "0",
       "headsign": "ZAKRZÓW",
       "service_id": "8",
@@ -142603,7 +142603,7 @@
       ]
     },
     {
-      "trip_id": "8_17613857",
+      "trip_id": "8_17717870",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "8",
@@ -142971,7 +142971,7 @@
       ]
     },
     {
-      "trip_id": "8_17613858",
+      "trip_id": "8_17717871",
       "direction_id": "0",
       "headsign": "ZAKRZÓW",
       "service_id": "8",
@@ -143330,7 +143330,7 @@
       ]
     },
     {
-      "trip_id": "8_17613859",
+      "trip_id": "8_17717872",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "8",
@@ -143698,7 +143698,7 @@
       ]
     },
     {
-      "trip_id": "8_17613860",
+      "trip_id": "8_17717873",
       "direction_id": "0",
       "headsign": "ZAKRZÓW",
       "service_id": "8",
@@ -144057,7 +144057,7 @@
       ]
     },
     {
-      "trip_id": "8_17613861",
+      "trip_id": "8_17717874",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "8",
@@ -144425,7 +144425,7 @@
       ]
     },
     {
-      "trip_id": "8_17613862",
+      "trip_id": "8_17717875",
       "direction_id": "0",
       "headsign": "ZAKRZÓW",
       "service_id": "8",
@@ -144784,7 +144784,7 @@
       ]
     },
     {
-      "trip_id": "8_17613863",
+      "trip_id": "8_17717876",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "8",
@@ -145152,7 +145152,7 @@
       ]
     },
     {
-      "trip_id": "8_17613864",
+      "trip_id": "8_17717877",
       "direction_id": "0",
       "headsign": "ZAKRZÓW",
       "service_id": "8",
@@ -145511,7 +145511,7 @@
       ]
     },
     {
-      "trip_id": "8_17613865",
+      "trip_id": "8_17717878",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "8",
@@ -145879,7 +145879,7 @@
       ]
     },
     {
-      "trip_id": "8_17613866",
+      "trip_id": "8_17717879",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "8",
@@ -146049,7 +146049,7 @@
       ]
     },
     {
-      "trip_id": "8_17613867",
+      "trip_id": "8_17717880",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "8",
@@ -146300,7 +146300,7 @@
       ]
     },
     {
-      "trip_id": "8_17613868",
+      "trip_id": "8_17717881",
       "direction_id": "0",
       "headsign": "ZAKRZÓW",
       "service_id": "8",
@@ -146659,7 +146659,7 @@
       ]
     },
     {
-      "trip_id": "8_17613869",
+      "trip_id": "8_17717882",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "8",
@@ -147027,7 +147027,7 @@
       ]
     },
     {
-      "trip_id": "8_17613870",
+      "trip_id": "8_17717883",
       "direction_id": "0",
       "headsign": "ZAKRZÓW",
       "service_id": "8",
@@ -147386,7 +147386,7 @@
       ]
     },
     {
-      "trip_id": "8_17613871",
+      "trip_id": "8_17717884",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "8",
@@ -147754,7 +147754,7 @@
       ]
     },
     {
-      "trip_id": "8_17613872",
+      "trip_id": "8_17717885",
       "direction_id": "0",
       "headsign": "ZAKRZÓW",
       "service_id": "8",
@@ -148113,7 +148113,7 @@
       ]
     },
     {
-      "trip_id": "8_17613873",
+      "trip_id": "8_17717886",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "8",
@@ -148481,7 +148481,7 @@
       ]
     },
     {
-      "trip_id": "8_17613874",
+      "trip_id": "8_17717887",
       "direction_id": "0",
       "headsign": "ZAKRZÓW",
       "service_id": "8",
@@ -148840,7 +148840,7 @@
       ]
     },
     {
-      "trip_id": "8_17613875",
+      "trip_id": "8_17717888",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "8",
@@ -149208,7 +149208,7 @@
       ]
     },
     {
-      "trip_id": "8_17613876",
+      "trip_id": "8_17717889",
       "direction_id": "0",
       "headsign": "ZAKRZÓW",
       "service_id": "8",
@@ -149567,7 +149567,7 @@
       ]
     },
     {
-      "trip_id": "8_17613877",
+      "trip_id": "8_17717890",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "8",
@@ -149935,7 +149935,7 @@
       ]
     },
     {
-      "trip_id": "8_17613878",
+      "trip_id": "8_17717891",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "8",
@@ -150276,7 +150276,7 @@
       ]
     },
     {
-      "trip_id": "8_17613879",
+      "trip_id": "8_17717892",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "8",
@@ -150527,7 +150527,7 @@
       ]
     },
     {
-      "trip_id": "8_17613880",
+      "trip_id": "8_17717893",
       "direction_id": "0",
       "headsign": "ZAKRZÓW",
       "service_id": "8",
@@ -150886,7 +150886,7 @@
       ]
     },
     {
-      "trip_id": "8_17613881",
+      "trip_id": "8_17717894",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "8",
@@ -151254,7 +151254,7 @@
       ]
     },
     {
-      "trip_id": "8_17613882",
+      "trip_id": "8_17717895",
       "direction_id": "0",
       "headsign": "ZAKRZÓW",
       "service_id": "8",
@@ -151613,7 +151613,7 @@
       ]
     },
     {
-      "trip_id": "8_17613883",
+      "trip_id": "8_17717896",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "8",
@@ -151981,7 +151981,7 @@
       ]
     },
     {
-      "trip_id": "8_17613884",
+      "trip_id": "8_17717897",
       "direction_id": "0",
       "headsign": "ZAKRZÓW",
       "service_id": "8",
@@ -152340,7 +152340,7 @@
       ]
     },
     {
-      "trip_id": "8_17613885",
+      "trip_id": "8_17717898",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "8",
@@ -152708,7 +152708,7 @@
       ]
     },
     {
-      "trip_id": "8_17613886",
+      "trip_id": "8_17717899",
       "direction_id": "0",
       "headsign": "ZAKRZÓW",
       "service_id": "8",
@@ -153067,7 +153067,7 @@
       ]
     },
     {
-      "trip_id": "8_17613887",
+      "trip_id": "8_17717900",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "8",
@@ -153435,7 +153435,7 @@
       ]
     },
     {
-      "trip_id": "8_17613888",
+      "trip_id": "8_17717901",
       "direction_id": "0",
       "headsign": "ZAKRZÓW",
       "service_id": "8",
@@ -153794,7 +153794,7 @@
       ]
     },
     {
-      "trip_id": "8_17613889",
+      "trip_id": "8_17717902",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "8",
@@ -154162,7 +154162,7 @@
       ]
     },
     {
-      "trip_id": "8_17613890",
+      "trip_id": "8_17717903",
       "direction_id": "0",
       "headsign": "ZAKRZÓW",
       "service_id": "8",
@@ -154521,7 +154521,7 @@
       ]
     },
     {
-      "trip_id": "8_17613891",
+      "trip_id": "8_17717904",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "8",
@@ -154889,7 +154889,7 @@
       ]
     },
     {
-      "trip_id": "8_17613892",
+      "trip_id": "8_17717905",
       "direction_id": "0",
       "headsign": "ZAKRZÓW",
       "service_id": "8",
@@ -155248,7 +155248,7 @@
       ]
     },
     {
-      "trip_id": "8_17613893",
+      "trip_id": "8_17717906",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "8",
@@ -155616,7 +155616,7 @@
       ]
     },
     {
-      "trip_id": "8_17613894",
+      "trip_id": "8_17717907",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "8",
@@ -155786,7 +155786,7 @@
       ]
     },
     {
-      "trip_id": "8_17613895",
+      "trip_id": "8_17717908",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "8",
@@ -156037,7 +156037,7 @@
       ]
     },
     {
-      "trip_id": "8_17613896",
+      "trip_id": "8_17717909",
       "direction_id": "0",
       "headsign": "ZAKRZÓW",
       "service_id": "8",
@@ -156396,7 +156396,7 @@
       ]
     },
     {
-      "trip_id": "8_17613897",
+      "trip_id": "8_17717910",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "8",
@@ -156764,7 +156764,7 @@
       ]
     },
     {
-      "trip_id": "8_17613898",
+      "trip_id": "8_17717911",
       "direction_id": "0",
       "headsign": "ZAKRZÓW",
       "service_id": "8",
@@ -157123,7 +157123,7 @@
       ]
     },
     {
-      "trip_id": "8_17613899",
+      "trip_id": "8_17717912",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "8",
@@ -157491,7 +157491,7 @@
       ]
     },
     {
-      "trip_id": "8_17613900",
+      "trip_id": "8_17717913",
       "direction_id": "0",
       "headsign": "ZAKRZÓW",
       "service_id": "8",
@@ -157850,7 +157850,7 @@
       ]
     },
     {
-      "trip_id": "8_17613901",
+      "trip_id": "8_17717914",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "8",
@@ -158218,7 +158218,7 @@
       ]
     },
     {
-      "trip_id": "8_17613902",
+      "trip_id": "8_17717915",
       "direction_id": "0",
       "headsign": "ZAKRZÓW",
       "service_id": "8",
@@ -158577,7 +158577,7 @@
       ]
     },
     {
-      "trip_id": "8_17613903",
+      "trip_id": "8_17717916",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "8",
@@ -158945,7 +158945,7 @@
       ]
     },
     {
-      "trip_id": "8_17613904",
+      "trip_id": "8_17717917",
       "direction_id": "0",
       "headsign": "ZAKRZÓW",
       "service_id": "8",
@@ -159304,7 +159304,7 @@
       ]
     },
     {
-      "trip_id": "8_17613905",
+      "trip_id": "8_17717918",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "8",
@@ -159672,7 +159672,7 @@
       ]
     },
     {
-      "trip_id": "8_17613906",
+      "trip_id": "8_17717919",
       "direction_id": "0",
       "headsign": "ZAKRZÓW",
       "service_id": "8",
@@ -160031,7 +160031,7 @@
       ]
     },
     {
-      "trip_id": "8_17613907",
+      "trip_id": "8_17717920",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "8",
@@ -160399,7 +160399,7 @@
       ]
     },
     {
-      "trip_id": "8_17613908",
+      "trip_id": "8_17717921",
       "direction_id": "0",
       "headsign": "ZAKRZÓW",
       "service_id": "8",
@@ -160758,7 +160758,7 @@
       ]
     },
     {
-      "trip_id": "8_17613909",
+      "trip_id": "8_17717922",
       "direction_id": "1",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "8",
@@ -160982,7 +160982,7 @@
       ]
     },
     {
-      "trip_id": "8_17613910",
+      "trip_id": "8_17717923",
       "direction_id": "0",
       "headsign": "ZAKRZÓW",
       "service_id": "8",
@@ -161188,7 +161188,7 @@
       ]
     },
     {
-      "trip_id": "8_17613911",
+      "trip_id": "8_17717924",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "8",
@@ -161556,7 +161556,7 @@
       ]
     },
     {
-      "trip_id": "8_17613912",
+      "trip_id": "8_17717925",
       "direction_id": "0",
       "headsign": "ZAKRZÓW",
       "service_id": "8",
@@ -161915,7 +161915,7 @@
       ]
     },
     {
-      "trip_id": "8_17613913",
+      "trip_id": "8_17717926",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "8",
@@ -162283,7 +162283,7 @@
       ]
     },
     {
-      "trip_id": "8_17613914",
+      "trip_id": "8_17717927",
       "direction_id": "0",
       "headsign": "ZAKRZÓW",
       "service_id": "8",
@@ -162642,7 +162642,7 @@
       ]
     },
     {
-      "trip_id": "8_17613915",
+      "trip_id": "8_17717928",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "8",
@@ -163010,7 +163010,7 @@
       ]
     },
     {
-      "trip_id": "8_17613916",
+      "trip_id": "8_17717929",
       "direction_id": "0",
       "headsign": "ZAKRZÓW",
       "service_id": "8",
@@ -163369,7 +163369,7 @@
       ]
     },
     {
-      "trip_id": "8_17613917",
+      "trip_id": "8_17717930",
       "direction_id": "1",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "8",
@@ -163593,7 +163593,7 @@
       ]
     },
     {
-      "trip_id": "8_17617048",
+      "trip_id": "8_17721061",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "8",
@@ -163700,7 +163700,7 @@
       ]
     },
     {
-      "trip_id": "8_17617049",
+      "trip_id": "8_17721062",
       "direction_id": "0",
       "headsign": "ZAKRZÓW",
       "service_id": "8",
@@ -164059,7 +164059,7 @@
       ]
     },
     {
-      "trip_id": "8_17617050",
+      "trip_id": "8_17721063",
       "direction_id": "1",
       "headsign": "Wrocław Nowy Dwór (P+R)",
       "service_id": "8",
@@ -164427,7 +164427,7 @@
       ]
     },
     {
-      "trip_id": "8_17617051",
+      "trip_id": "8_17721064",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "8",

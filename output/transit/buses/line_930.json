@@ -2,7 +2,7 @@
   "line": "930",
   "trips": [
     {
-      "trip_id": "3_17618116",
+      "trip_id": "3_17636791",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "3",
@@ -154,7 +154,7 @@
       ]
     },
     {
-      "trip_id": "3_17618117",
+      "trip_id": "3_17636792",
       "direction_id": "1",
       "headsign": "KRZYŻANOWICE",
       "service_id": "3",
@@ -315,7 +315,7 @@
       ]
     },
     {
-      "trip_id": "3_17618118",
+      "trip_id": "3_17636793",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "3",
@@ -467,7 +467,7 @@
       ]
     },
     {
-      "trip_id": "3_17618119",
+      "trip_id": "3_17636794",
       "direction_id": "1",
       "headsign": "KRZYŻANOWICE",
       "service_id": "3",
@@ -628,7 +628,7 @@
       ]
     },
     {
-      "trip_id": "3_17618120",
+      "trip_id": "3_17636795",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "3",
@@ -780,7 +780,7 @@
       ]
     },
     {
-      "trip_id": "3_17618121",
+      "trip_id": "3_17636796",
       "direction_id": "1",
       "headsign": "KRZYŻANOWICE",
       "service_id": "3",
@@ -941,7 +941,7 @@
       ]
     },
     {
-      "trip_id": "3_17618122",
+      "trip_id": "3_17636797",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "3",
@@ -1093,7 +1093,7 @@
       ]
     },
     {
-      "trip_id": "3_17618123",
+      "trip_id": "3_17636798",
       "direction_id": "1",
       "headsign": "KRZYŻANOWICE",
       "service_id": "3",
@@ -1254,7 +1254,7 @@
       ]
     },
     {
-      "trip_id": "3_17618124",
+      "trip_id": "3_17636799",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "3",
@@ -1406,7 +1406,7 @@
       ]
     },
     {
-      "trip_id": "3_17618125",
+      "trip_id": "3_17636800",
       "direction_id": "1",
       "headsign": "KRZYŻANOWICE",
       "service_id": "3",
@@ -1567,7 +1567,7 @@
       ]
     },
     {
-      "trip_id": "3_17618126",
+      "trip_id": "3_17636801",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "3",
@@ -1719,7 +1719,7 @@
       ]
     },
     {
-      "trip_id": "3_17618127",
+      "trip_id": "3_17636802",
       "direction_id": "1",
       "headsign": "KRZYŻANOWICE",
       "service_id": "3",
@@ -1880,7 +1880,7 @@
       ]
     },
     {
-      "trip_id": "3_17618128",
+      "trip_id": "3_17636803",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "3",
@@ -2032,7 +2032,7 @@
       ]
     },
     {
-      "trip_id": "3_17618129",
+      "trip_id": "3_17636804",
       "direction_id": "1",
       "headsign": "KRZYŻANOWICE",
       "service_id": "3",
@@ -2193,7 +2193,7 @@
       ]
     },
     {
-      "trip_id": "3_17618130",
+      "trip_id": "3_17636805",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "3",
@@ -2345,7 +2345,7 @@
       ]
     },
     {
-      "trip_id": "3_17618131",
+      "trip_id": "3_17636806",
       "direction_id": "1",
       "headsign": "KRZYŻANOWICE",
       "service_id": "3",
@@ -2506,7 +2506,7 @@
       ]
     },
     {
-      "trip_id": "3_17618132",
+      "trip_id": "3_17636807",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "3",
@@ -2658,7 +2658,7 @@
       ]
     },
     {
-      "trip_id": "3_17618133",
+      "trip_id": "3_17636808",
       "direction_id": "1",
       "headsign": "KRZYŻANOWICE",
       "service_id": "3",
@@ -2819,7 +2819,7 @@
       ]
     },
     {
-      "trip_id": "3_17618134",
+      "trip_id": "3_17636809",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "3",
@@ -2971,7 +2971,7 @@
       ]
     },
     {
-      "trip_id": "3_17618135",
+      "trip_id": "3_17636810",
       "direction_id": "1",
       "headsign": "KRZYŻANOWICE",
       "service_id": "3",
@@ -3132,7 +3132,7 @@
       ]
     },
     {
-      "trip_id": "3_17618136",
+      "trip_id": "3_17636811",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "3",
@@ -3284,7 +3284,7 @@
       ]
     },
     {
-      "trip_id": "3_17618137",
+      "trip_id": "3_17636812",
       "direction_id": "1",
       "headsign": "KRZYŻANOWICE",
       "service_id": "3",
@@ -3445,7 +3445,7 @@
       ]
     },
     {
-      "trip_id": "3_17618138",
+      "trip_id": "3_17636813",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "3",
@@ -3597,7 +3597,7 @@
       ]
     },
     {
-      "trip_id": "3_17618139",
+      "trip_id": "3_17636814",
       "direction_id": "1",
       "headsign": "KRZYŻANOWICE",
       "service_id": "3",
@@ -3758,7 +3758,7 @@
       ]
     },
     {
-      "trip_id": "3_17618140",
+      "trip_id": "3_17636815",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "3",
@@ -3910,7 +3910,7 @@
       ]
     },
     {
-      "trip_id": "3_17618141",
+      "trip_id": "3_17636816",
       "direction_id": "1",
       "headsign": "KRZYŻANOWICE",
       "service_id": "3",
@@ -4071,7 +4071,7 @@
       ]
     },
     {
-      "trip_id": "4_17618761",
+      "trip_id": "4_17637436",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "4",
@@ -4223,7 +4223,7 @@
       ]
     },
     {
-      "trip_id": "4_17618762",
+      "trip_id": "4_17637437",
       "direction_id": "1",
       "headsign": "KRZYŻANOWICE",
       "service_id": "4",
@@ -4384,7 +4384,7 @@
       ]
     },
     {
-      "trip_id": "4_17618763",
+      "trip_id": "4_17637438",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "4",
@@ -4536,7 +4536,7 @@
       ]
     },
     {
-      "trip_id": "4_17618764",
+      "trip_id": "4_17637439",
       "direction_id": "1",
       "headsign": "KRZYŻANOWICE",
       "service_id": "4",
@@ -4697,7 +4697,7 @@
       ]
     },
     {
-      "trip_id": "4_17618765",
+      "trip_id": "4_17637440",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "4",
@@ -4849,7 +4849,7 @@
       ]
     },
     {
-      "trip_id": "4_17618766",
+      "trip_id": "4_17637441",
       "direction_id": "1",
       "headsign": "KRZYŻANOWICE",
       "service_id": "4",
@@ -5010,7 +5010,7 @@
       ]
     },
     {
-      "trip_id": "4_17618767",
+      "trip_id": "4_17637442",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "4",
@@ -5162,7 +5162,7 @@
       ]
     },
     {
-      "trip_id": "4_17618768",
+      "trip_id": "4_17637443",
       "direction_id": "1",
       "headsign": "KRZYŻANOWICE",
       "service_id": "4",
@@ -5323,7 +5323,7 @@
       ]
     },
     {
-      "trip_id": "4_17618769",
+      "trip_id": "4_17637444",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "4",
@@ -5475,7 +5475,7 @@
       ]
     },
     {
-      "trip_id": "4_17618770",
+      "trip_id": "4_17637445",
       "direction_id": "1",
       "headsign": "KRZYŻANOWICE",
       "service_id": "4",
@@ -5636,7 +5636,7 @@
       ]
     },
     {
-      "trip_id": "4_17618771",
+      "trip_id": "4_17637446",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "4",
@@ -5788,7 +5788,7 @@
       ]
     },
     {
-      "trip_id": "4_17618772",
+      "trip_id": "4_17637447",
       "direction_id": "1",
       "headsign": "KRZYŻANOWICE",
       "service_id": "4",
@@ -5949,7 +5949,7 @@
       ]
     },
     {
-      "trip_id": "4_17618773",
+      "trip_id": "4_17637448",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "4",
@@ -6101,7 +6101,7 @@
       ]
     },
     {
-      "trip_id": "4_17618774",
+      "trip_id": "4_17637449",
       "direction_id": "1",
       "headsign": "KRZYŻANOWICE",
       "service_id": "4",
@@ -6262,7 +6262,7 @@
       ]
     },
     {
-      "trip_id": "4_17618775",
+      "trip_id": "4_17637450",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "4",
@@ -6414,7 +6414,7 @@
       ]
     },
     {
-      "trip_id": "4_17618776",
+      "trip_id": "4_17637451",
       "direction_id": "1",
       "headsign": "KRZYŻANOWICE",
       "service_id": "4",
@@ -6575,7 +6575,7 @@
       ]
     },
     {
-      "trip_id": "4_17618777",
+      "trip_id": "4_17637452",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "4",
@@ -6727,7 +6727,7 @@
       ]
     },
     {
-      "trip_id": "4_17618778",
+      "trip_id": "4_17637453",
       "direction_id": "1",
       "headsign": "KRZYŻANOWICE",
       "service_id": "4",
@@ -6888,7 +6888,7 @@
       ]
     },
     {
-      "trip_id": "4_17618779",
+      "trip_id": "4_17637454",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "4",
@@ -7040,7 +7040,7 @@
       ]
     },
     {
-      "trip_id": "4_17618780",
+      "trip_id": "4_17637455",
       "direction_id": "1",
       "headsign": "KRZYŻANOWICE",
       "service_id": "4",
@@ -7201,7 +7201,7 @@
       ]
     },
     {
-      "trip_id": "4_17618781",
+      "trip_id": "4_17637456",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "4",
@@ -7353,7 +7353,7 @@
       ]
     },
     {
-      "trip_id": "4_17618782",
+      "trip_id": "4_17637457",
       "direction_id": "1",
       "headsign": "KRZYŻANOWICE",
       "service_id": "4",
@@ -7514,7 +7514,7 @@
       ]
     },
     {
-      "trip_id": "4_17618783",
+      "trip_id": "4_17637458",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "4",
@@ -7666,7 +7666,7 @@
       ]
     },
     {
-      "trip_id": "4_17618784",
+      "trip_id": "4_17637459",
       "direction_id": "1",
       "headsign": "KRZYŻANOWICE",
       "service_id": "4",
@@ -7827,7 +7827,7 @@
       ]
     },
     {
-      "trip_id": "4_17618785",
+      "trip_id": "4_17637460",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "4",
@@ -7979,7 +7979,7 @@
       ]
     },
     {
-      "trip_id": "4_17618786",
+      "trip_id": "4_17637461",
       "direction_id": "1",
       "headsign": "KRZYŻANOWICE",
       "service_id": "4",
@@ -8140,7 +8140,7 @@
       ]
     },
     {
-      "trip_id": "6_17619113",
+      "trip_id": "6_17637788",
       "direction_id": "0",
       "headsign": "SZYMANÓW - pętla",
       "service_id": "6",
@@ -8238,7 +8238,7 @@
       ]
     },
     {
-      "trip_id": "6_17619114",
+      "trip_id": "6_17637789",
       "direction_id": "1",
       "headsign": "KRZYŻANOWICE",
       "service_id": "6",
@@ -8336,7 +8336,7 @@
       ]
     },
     {
-      "trip_id": "6_17619115",
+      "trip_id": "6_17637790",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "6",
@@ -8488,7 +8488,7 @@
       ]
     },
     {
-      "trip_id": "6_17619175",
+      "trip_id": "6_17637850",
       "direction_id": "1",
       "headsign": "KRZYŻANOWICE",
       "service_id": "6",
@@ -8586,7 +8586,7 @@
       ]
     },
     {
-      "trip_id": "6_17619176",
+      "trip_id": "6_17637851",
       "direction_id": "0",
       "headsign": "SZYMANÓW - pętla",
       "service_id": "6",
@@ -8684,7 +8684,7 @@
       ]
     },
     {
-      "trip_id": "6_17619419",
+      "trip_id": "6_17638094",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "6",
@@ -8836,7 +8836,7 @@
       ]
     },
     {
-      "trip_id": "6_17619432",
+      "trip_id": "6_17638107",
       "direction_id": "1",
       "headsign": "KRZYŻANOWICE",
       "service_id": "6",
@@ -8997,7 +8997,7 @@
       ]
     },
     {
-      "trip_id": "6_17619433",
+      "trip_id": "6_17638108",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "6",
@@ -9149,7 +9149,7 @@
       ]
     },
     {
-      "trip_id": "6_17619434",
+      "trip_id": "6_17638109",
       "direction_id": "1",
       "headsign": "KRZYŻANOWICE",
       "service_id": "6",
@@ -9310,7 +9310,7 @@
       ]
     },
     {
-      "trip_id": "6_17619435",
+      "trip_id": "6_17638110",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "6",
@@ -9462,7 +9462,7 @@
       ]
     },
     {
-      "trip_id": "6_17619486",
+      "trip_id": "6_17638161",
       "direction_id": "1",
       "headsign": "Godzieszowa - transformator",
       "service_id": "6",
@@ -9704,7 +9704,7 @@
       ]
     },
     {
-      "trip_id": "6_17619487",
+      "trip_id": "6_17638162",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "6",
@@ -9937,7 +9937,7 @@
       ]
     },
     {
-      "trip_id": "6_17619488",
+      "trip_id": "6_17638163",
       "direction_id": "1",
       "headsign": "KRZYŻANOWICE",
       "service_id": "6",
@@ -10098,7 +10098,7 @@
       ]
     },
     {
-      "trip_id": "6_17619489",
+      "trip_id": "6_17638164",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "6",
@@ -10250,7 +10250,7 @@
       ]
     },
     {
-      "trip_id": "6_17619490",
+      "trip_id": "6_17638165",
       "direction_id": "1",
       "headsign": "SZYMANÓW - pętla",
       "service_id": "6",
@@ -10492,7 +10492,7 @@
       ]
     },
     {
-      "trip_id": "6_17619491",
+      "trip_id": "6_17638166",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "6",
@@ -10725,7 +10725,7 @@
       ]
     },
     {
-      "trip_id": "6_17619492",
+      "trip_id": "6_17638167",
       "direction_id": "1",
       "headsign": "Godzieszowa - transformator",
       "service_id": "6",
@@ -10967,7 +10967,7 @@
       ]
     },
     {
-      "trip_id": "6_17619493",
+      "trip_id": "6_17638168",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "6",
@@ -11200,7 +11200,7 @@
       ]
     },
     {
-      "trip_id": "6_17619494",
+      "trip_id": "6_17638169",
       "direction_id": "1",
       "headsign": "KRZYŻANOWICE",
       "service_id": "6",
@@ -11361,7 +11361,7 @@
       ]
     },
     {
-      "trip_id": "6_17619495",
+      "trip_id": "6_17638170",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "6",
@@ -11513,7 +11513,7 @@
       ]
     },
     {
-      "trip_id": "6_17619496",
+      "trip_id": "6_17638171",
       "direction_id": "1",
       "headsign": "KRZYŻANOWICE",
       "service_id": "6",
@@ -11674,7 +11674,7 @@
       ]
     },
     {
-      "trip_id": "6_17619497",
+      "trip_id": "6_17638172",
       "direction_id": "0",
       "headsign": "SZYMANÓW - pętla",
       "service_id": "6",
@@ -11772,7 +11772,7 @@
       ]
     },
     {
-      "trip_id": "6_17619498",
+      "trip_id": "6_17638173",
       "direction_id": "1",
       "headsign": "KRZYŻANOWICE",
       "service_id": "6",
@@ -11870,7 +11870,7 @@
       ]
     },
     {
-      "trip_id": "6_17619499",
+      "trip_id": "6_17638174",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "6",
@@ -12022,7 +12022,7 @@
       ]
     },
     {
-      "trip_id": "6_17619500",
+      "trip_id": "6_17638175",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "6",
@@ -12255,7 +12255,7 @@
       ]
     },
     {
-      "trip_id": "6_17619501",
+      "trip_id": "6_17638176",
       "direction_id": "1",
       "headsign": "Godzieszowa - transformator",
       "service_id": "6",
@@ -12497,7 +12497,7 @@
       ]
     },
     {
-      "trip_id": "6_17619502",
+      "trip_id": "6_17638177",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "6",
@@ -12730,7 +12730,7 @@
       ]
     },
     {
-      "trip_id": "6_17619503",
+      "trip_id": "6_17638178",
       "direction_id": "1",
       "headsign": "KRZYŻANOWICE",
       "service_id": "6",
@@ -12891,7 +12891,7 @@
       ]
     },
     {
-      "trip_id": "6_17619504",
+      "trip_id": "6_17638179",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "6",
@@ -13043,7 +13043,7 @@
       ]
     },
     {
-      "trip_id": "6_17619505",
+      "trip_id": "6_17638180",
       "direction_id": "1",
       "headsign": "KRZYŻANOWICE",
       "service_id": "6",
@@ -13204,7 +13204,7 @@
       ]
     },
     {
-      "trip_id": "6_17619506",
+      "trip_id": "6_17638181",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "6",
@@ -13356,7 +13356,7 @@
       ]
     },
     {
-      "trip_id": "6_17619584",
+      "trip_id": "6_17638259",
       "direction_id": "1",
       "headsign": "SZYMANÓW - pętla",
       "service_id": "6",
@@ -13598,7 +13598,7 @@
       ]
     },
     {
-      "trip_id": "6_17619585",
+      "trip_id": "6_17638260",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "6",
@@ -13831,7 +13831,7 @@
       ]
     },
     {
-      "trip_id": "6_17619627",
+      "trip_id": "6_17638302",
       "direction_id": "1",
       "headsign": "KRZYŻANOWICE",
       "service_id": "6",
@@ -13992,7 +13992,7 @@
       ]
     },
     {
-      "trip_id": "6_17619628",
+      "trip_id": "6_17638303",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "6",
@@ -14144,7 +14144,7 @@
       ]
     },
     {
-      "trip_id": "6_17619629",
+      "trip_id": "6_17638304",
       "direction_id": "1",
       "headsign": "KRZYŻANOWICE",
       "service_id": "6",
@@ -14305,7 +14305,7 @@
       ]
     },
     {
-      "trip_id": "6_17619630",
+      "trip_id": "6_17638305",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "6",
@@ -14457,7 +14457,7 @@
       ]
     },
     {
-      "trip_id": "6_17619633",
+      "trip_id": "6_17638308",
       "direction_id": "1",
       "headsign": "KRZYŻANOWICE",
       "service_id": "6",
@@ -14618,7 +14618,7 @@
       ]
     },
     {
-      "trip_id": "6_17619634",
+      "trip_id": "6_17638309",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "6",
@@ -14770,7 +14770,7 @@
       ]
     },
     {
-      "trip_id": "6_17619635",
+      "trip_id": "6_17638310",
       "direction_id": "1",
       "headsign": "KRZYŻANOWICE",
       "service_id": "6",
@@ -14931,7 +14931,7 @@
       ]
     },
     {
-      "trip_id": "6_17619698",
+      "trip_id": "6_17638373",
       "direction_id": "1",
       "headsign": "Godzieszowa - transformator",
       "service_id": "6",
@@ -15173,7 +15173,7 @@
       ]
     },
     {
-      "trip_id": "6_17619728",
+      "trip_id": "6_17638403",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "6",
@@ -15406,7 +15406,7 @@
       ]
     },
     {
-      "trip_id": "6_17619729",
+      "trip_id": "6_17638404",
       "direction_id": "1",
       "headsign": "Godzieszowa - transformator",
       "service_id": "6",
@@ -15648,7 +15648,7 @@
       ]
     },
     {
-      "trip_id": "6_17619730",
+      "trip_id": "6_17638405",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "6",
@@ -15881,7 +15881,7 @@
       ]
     },
     {
-      "trip_id": "6_17619731",
+      "trip_id": "6_17638406",
       "direction_id": "1",
       "headsign": "SZYMANÓW - pętla",
       "service_id": "6",
@@ -16123,7 +16123,7 @@
       ]
     },
     {
-      "trip_id": "6_17619732",
+      "trip_id": "6_17638407",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "6",
@@ -16356,7 +16356,7 @@
       ]
     },
     {
-      "trip_id": "6_17619733",
+      "trip_id": "6_17638408",
       "direction_id": "1",
       "headsign": "Godzieszowa - transformator",
       "service_id": "6",
@@ -16598,7 +16598,7 @@
       ]
     },
     {
-      "trip_id": "6_17620077",
+      "trip_id": "6_17638752",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "6",
@@ -16831,7 +16831,7 @@
       ]
     },
     {
-      "trip_id": "6_17620078",
+      "trip_id": "6_17638753",
       "direction_id": "1",
       "headsign": "KRZYŻANOWICE",
       "service_id": "6",
@@ -16992,7 +16992,7 @@
       ]
     },
     {
-      "trip_id": "6_17620079",
+      "trip_id": "6_17638754",
       "direction_id": "0",
       "headsign": "SZYMANÓW - pętla",
       "service_id": "6",
@@ -17090,7 +17090,7 @@
       ]
     },
     {
-      "trip_id": "6_17620080",
+      "trip_id": "6_17638755",
       "direction_id": "1",
       "headsign": "KRZYŻANOWICE",
       "service_id": "6",
@@ -17188,7 +17188,7 @@
       ]
     },
     {
-      "trip_id": "6_17620081",
+      "trip_id": "6_17638756",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "6",
@@ -17340,7 +17340,7 @@
       ]
     },
     {
-      "trip_id": "6_17620082",
+      "trip_id": "6_17638757",
       "direction_id": "1",
       "headsign": "KRZYŻANOWICE",
       "service_id": "6",
@@ -17501,7 +17501,7 @@
       ]
     },
     {
-      "trip_id": "6_17620083",
+      "trip_id": "6_17638758",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "6",
@@ -17653,7 +17653,7 @@
       ]
     },
     {
-      "trip_id": "6_17620084",
+      "trip_id": "6_17638759",
       "direction_id": "1",
       "headsign": "KRZYŻANOWICE",
       "service_id": "6",
@@ -17814,7 +17814,7 @@
       ]
     },
     {
-      "trip_id": "6_17620085",
+      "trip_id": "6_17638760",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "6",
@@ -17966,7 +17966,7 @@
       ]
     },
     {
-      "trip_id": "6_17620086",
+      "trip_id": "6_17638761",
       "direction_id": "1",
       "headsign": "KRZYŻANOWICE",
       "service_id": "6",
@@ -18127,7 +18127,7 @@
       ]
     },
     {
-      "trip_id": "6_17620087",
+      "trip_id": "6_17638762",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "6",
@@ -18279,7 +18279,7 @@
       ]
     },
     {
-      "trip_id": "6_17620088",
+      "trip_id": "6_17638763",
       "direction_id": "1",
       "headsign": "SZYMANÓW - pętla",
       "service_id": "6",
@@ -18521,7 +18521,7 @@
       ]
     },
     {
-      "trip_id": "6_17620089",
+      "trip_id": "6_17638764",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "6",
@@ -18754,7 +18754,7 @@
       ]
     },
     {
-      "trip_id": "6_17620090",
+      "trip_id": "6_17638765",
       "direction_id": "1",
       "headsign": "Godzieszowa - transformator",
       "service_id": "6",
@@ -18996,7 +18996,7 @@
       ]
     },
     {
-      "trip_id": "6_17620091",
+      "trip_id": "6_17638766",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "6",
@@ -19229,7 +19229,7 @@
       ]
     },
     {
-      "trip_id": "6_17620124",
+      "trip_id": "6_17638799",
       "direction_id": "1",
       "headsign": "Godzieszowa - transformator",
       "service_id": "6",
@@ -19471,7 +19471,7 @@
       ]
     },
     {
-      "trip_id": "6_17620125",
+      "trip_id": "6_17638800",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "6",
@@ -19704,7 +19704,7 @@
       ]
     },
     {
-      "trip_id": "6_17620130",
+      "trip_id": "6_17638805",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "6",
@@ -19937,7 +19937,7 @@
       ]
     },
     {
-      "trip_id": "8_17620159",
+      "trip_id": "8_17638834",
       "direction_id": "0",
       "headsign": "SZYMANÓW - pętla",
       "service_id": "8",
@@ -20035,7 +20035,7 @@
       ]
     },
     {
-      "trip_id": "8_17620160",
+      "trip_id": "8_17638835",
       "direction_id": "1",
       "headsign": "KRZYŻANOWICE",
       "service_id": "8",
@@ -20133,7 +20133,7 @@
       ]
     },
     {
-      "trip_id": "8_17620161",
+      "trip_id": "8_17638836",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "8",
@@ -20285,7 +20285,7 @@
       ]
     },
     {
-      "trip_id": "8_17620221",
+      "trip_id": "8_17638896",
       "direction_id": "1",
       "headsign": "KRZYŻANOWICE",
       "service_id": "8",
@@ -20383,7 +20383,7 @@
       ]
     },
     {
-      "trip_id": "8_17620222",
+      "trip_id": "8_17638897",
       "direction_id": "0",
       "headsign": "SZYMANÓW - pętla",
       "service_id": "8",
@@ -20481,7 +20481,7 @@
       ]
     },
     {
-      "trip_id": "8_17620465",
+      "trip_id": "8_17639140",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "8",
@@ -20633,7 +20633,7 @@
       ]
     },
     {
-      "trip_id": "8_17620478",
+      "trip_id": "8_17639153",
       "direction_id": "1",
       "headsign": "KRZYŻANOWICE",
       "service_id": "8",
@@ -20794,7 +20794,7 @@
       ]
     },
     {
-      "trip_id": "8_17620479",
+      "trip_id": "8_17639154",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "8",
@@ -20946,7 +20946,7 @@
       ]
     },
     {
-      "trip_id": "8_17620480",
+      "trip_id": "8_17639155",
       "direction_id": "1",
       "headsign": "KRZYŻANOWICE",
       "service_id": "8",
@@ -21107,7 +21107,7 @@
       ]
     },
     {
-      "trip_id": "8_17620481",
+      "trip_id": "8_17639156",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "8",
@@ -21259,7 +21259,7 @@
       ]
     },
     {
-      "trip_id": "8_17620532",
+      "trip_id": "8_17639207",
       "direction_id": "1",
       "headsign": "Godzieszowa - transformator",
       "service_id": "8",
@@ -21501,7 +21501,7 @@
       ]
     },
     {
-      "trip_id": "8_17620533",
+      "trip_id": "8_17639208",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "8",
@@ -21734,7 +21734,7 @@
       ]
     },
     {
-      "trip_id": "8_17620534",
+      "trip_id": "8_17639209",
       "direction_id": "1",
       "headsign": "KRZYŻANOWICE",
       "service_id": "8",
@@ -21895,7 +21895,7 @@
       ]
     },
     {
-      "trip_id": "8_17620535",
+      "trip_id": "8_17639210",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "8",
@@ -22047,7 +22047,7 @@
       ]
     },
     {
-      "trip_id": "8_17620536",
+      "trip_id": "8_17639211",
       "direction_id": "1",
       "headsign": "SZYMANÓW - pętla",
       "service_id": "8",
@@ -22289,7 +22289,7 @@
       ]
     },
     {
-      "trip_id": "8_17620537",
+      "trip_id": "8_17639212",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "8",
@@ -22522,7 +22522,7 @@
       ]
     },
     {
-      "trip_id": "8_17620538",
+      "trip_id": "8_17639213",
       "direction_id": "1",
       "headsign": "Godzieszowa - transformator",
       "service_id": "8",
@@ -22764,7 +22764,7 @@
       ]
     },
     {
-      "trip_id": "8_17620539",
+      "trip_id": "8_17639214",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "8",
@@ -22997,7 +22997,7 @@
       ]
     },
     {
-      "trip_id": "8_17620540",
+      "trip_id": "8_17639215",
       "direction_id": "1",
       "headsign": "KRZYŻANOWICE",
       "service_id": "8",
@@ -23158,7 +23158,7 @@
       ]
     },
     {
-      "trip_id": "8_17620541",
+      "trip_id": "8_17639216",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "8",
@@ -23310,7 +23310,7 @@
       ]
     },
     {
-      "trip_id": "8_17620542",
+      "trip_id": "8_17639217",
       "direction_id": "1",
       "headsign": "KRZYŻANOWICE",
       "service_id": "8",
@@ -23471,7 +23471,7 @@
       ]
     },
     {
-      "trip_id": "8_17620543",
+      "trip_id": "8_17639218",
       "direction_id": "0",
       "headsign": "SZYMANÓW - pętla",
       "service_id": "8",
@@ -23569,7 +23569,7 @@
       ]
     },
     {
-      "trip_id": "8_17620544",
+      "trip_id": "8_17639219",
       "direction_id": "1",
       "headsign": "KRZYŻANOWICE",
       "service_id": "8",
@@ -23667,7 +23667,7 @@
       ]
     },
     {
-      "trip_id": "8_17620545",
+      "trip_id": "8_17639220",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "8",
@@ -23819,7 +23819,7 @@
       ]
     },
     {
-      "trip_id": "8_17620546",
+      "trip_id": "8_17639221",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "8",
@@ -24052,7 +24052,7 @@
       ]
     },
     {
-      "trip_id": "8_17620547",
+      "trip_id": "8_17639222",
       "direction_id": "1",
       "headsign": "Godzieszowa - transformator",
       "service_id": "8",
@@ -24294,7 +24294,7 @@
       ]
     },
     {
-      "trip_id": "8_17620548",
+      "trip_id": "8_17639223",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "8",
@@ -24527,7 +24527,7 @@
       ]
     },
     {
-      "trip_id": "8_17620549",
+      "trip_id": "8_17639224",
       "direction_id": "1",
       "headsign": "KRZYŻANOWICE",
       "service_id": "8",
@@ -24688,7 +24688,7 @@
       ]
     },
     {
-      "trip_id": "8_17620550",
+      "trip_id": "8_17639225",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "8",
@@ -24840,7 +24840,7 @@
       ]
     },
     {
-      "trip_id": "8_17620551",
+      "trip_id": "8_17639226",
       "direction_id": "1",
       "headsign": "KRZYŻANOWICE",
       "service_id": "8",
@@ -25001,7 +25001,7 @@
       ]
     },
     {
-      "trip_id": "8_17620552",
+      "trip_id": "8_17639227",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "8",
@@ -25153,7 +25153,7 @@
       ]
     },
     {
-      "trip_id": "8_17620630",
+      "trip_id": "8_17639305",
       "direction_id": "1",
       "headsign": "SZYMANÓW - pętla",
       "service_id": "8",
@@ -25395,7 +25395,7 @@
       ]
     },
     {
-      "trip_id": "8_17620631",
+      "trip_id": "8_17639306",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "8",
@@ -25628,7 +25628,7 @@
       ]
     },
     {
-      "trip_id": "8_17620673",
+      "trip_id": "8_17639348",
       "direction_id": "1",
       "headsign": "KRZYŻANOWICE",
       "service_id": "8",
@@ -25789,7 +25789,7 @@
       ]
     },
     {
-      "trip_id": "8_17620674",
+      "trip_id": "8_17639349",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "8",
@@ -25941,7 +25941,7 @@
       ]
     },
     {
-      "trip_id": "8_17620675",
+      "trip_id": "8_17639350",
       "direction_id": "1",
       "headsign": "KRZYŻANOWICE",
       "service_id": "8",
@@ -26102,7 +26102,7 @@
       ]
     },
     {
-      "trip_id": "8_17620676",
+      "trip_id": "8_17639351",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "8",
@@ -26254,7 +26254,7 @@
       ]
     },
     {
-      "trip_id": "8_17620679",
+      "trip_id": "8_17639354",
       "direction_id": "1",
       "headsign": "KRZYŻANOWICE",
       "service_id": "8",
@@ -26415,7 +26415,7 @@
       ]
     },
     {
-      "trip_id": "8_17620680",
+      "trip_id": "8_17639355",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "8",
@@ -26567,7 +26567,7 @@
       ]
     },
     {
-      "trip_id": "8_17620681",
+      "trip_id": "8_17639356",
       "direction_id": "1",
       "headsign": "KRZYŻANOWICE",
       "service_id": "8",
@@ -26728,7 +26728,7 @@
       ]
     },
     {
-      "trip_id": "8_17620744",
+      "trip_id": "8_17639419",
       "direction_id": "1",
       "headsign": "Godzieszowa - transformator",
       "service_id": "8",
@@ -26970,7 +26970,7 @@
       ]
     },
     {
-      "trip_id": "8_17620774",
+      "trip_id": "8_17639449",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "8",
@@ -27203,7 +27203,7 @@
       ]
     },
     {
-      "trip_id": "8_17620775",
+      "trip_id": "8_17639450",
       "direction_id": "1",
       "headsign": "Godzieszowa - transformator",
       "service_id": "8",
@@ -27445,7 +27445,7 @@
       ]
     },
     {
-      "trip_id": "8_17620776",
+      "trip_id": "8_17639451",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "8",
@@ -27678,7 +27678,7 @@
       ]
     },
     {
-      "trip_id": "8_17620777",
+      "trip_id": "8_17639452",
       "direction_id": "1",
       "headsign": "SZYMANÓW - pętla",
       "service_id": "8",
@@ -27920,7 +27920,7 @@
       ]
     },
     {
-      "trip_id": "8_17620778",
+      "trip_id": "8_17639453",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "8",
@@ -28153,7 +28153,7 @@
       ]
     },
     {
-      "trip_id": "8_17620779",
+      "trip_id": "8_17639454",
       "direction_id": "1",
       "headsign": "Godzieszowa - transformator",
       "service_id": "8",
@@ -28395,7 +28395,7 @@
       ]
     },
     {
-      "trip_id": "8_17621123",
+      "trip_id": "8_17639798",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "8",
@@ -28628,7 +28628,7 @@
       ]
     },
     {
-      "trip_id": "8_17621124",
+      "trip_id": "8_17639799",
       "direction_id": "1",
       "headsign": "KRZYŻANOWICE",
       "service_id": "8",
@@ -28789,7 +28789,7 @@
       ]
     },
     {
-      "trip_id": "8_17621125",
+      "trip_id": "8_17639800",
       "direction_id": "0",
       "headsign": "SZYMANÓW - pętla",
       "service_id": "8",
@@ -28887,7 +28887,7 @@
       ]
     },
     {
-      "trip_id": "8_17621126",
+      "trip_id": "8_17639801",
       "direction_id": "1",
       "headsign": "KRZYŻANOWICE",
       "service_id": "8",
@@ -28985,7 +28985,7 @@
       ]
     },
     {
-      "trip_id": "8_17621127",
+      "trip_id": "8_17639802",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "8",
@@ -29137,7 +29137,7 @@
       ]
     },
     {
-      "trip_id": "8_17621128",
+      "trip_id": "8_17639803",
       "direction_id": "1",
       "headsign": "KRZYŻANOWICE",
       "service_id": "8",
@@ -29298,7 +29298,7 @@
       ]
     },
     {
-      "trip_id": "8_17621129",
+      "trip_id": "8_17639804",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "8",
@@ -29450,7 +29450,7 @@
       ]
     },
     {
-      "trip_id": "8_17621130",
+      "trip_id": "8_17639805",
       "direction_id": "1",
       "headsign": "KRZYŻANOWICE",
       "service_id": "8",
@@ -29611,7 +29611,7 @@
       ]
     },
     {
-      "trip_id": "8_17621131",
+      "trip_id": "8_17639806",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "8",
@@ -29763,7 +29763,7 @@
       ]
     },
     {
-      "trip_id": "8_17621132",
+      "trip_id": "8_17639807",
       "direction_id": "1",
       "headsign": "KRZYŻANOWICE",
       "service_id": "8",
@@ -29924,7 +29924,7 @@
       ]
     },
     {
-      "trip_id": "8_17621133",
+      "trip_id": "8_17639808",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "8",
@@ -30076,7 +30076,7 @@
       ]
     },
     {
-      "trip_id": "8_17621134",
+      "trip_id": "8_17639809",
       "direction_id": "1",
       "headsign": "SZYMANÓW - pętla",
       "service_id": "8",
@@ -30318,7 +30318,7 @@
       ]
     },
     {
-      "trip_id": "8_17621135",
+      "trip_id": "8_17639810",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "8",
@@ -30551,7 +30551,7 @@
       ]
     },
     {
-      "trip_id": "8_17621136",
+      "trip_id": "8_17639811",
       "direction_id": "1",
       "headsign": "Godzieszowa - transformator",
       "service_id": "8",
@@ -30793,7 +30793,7 @@
       ]
     },
     {
-      "trip_id": "8_17621137",
+      "trip_id": "8_17639812",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "8",
@@ -31026,7 +31026,7 @@
       ]
     },
     {
-      "trip_id": "8_17621170",
+      "trip_id": "8_17639845",
       "direction_id": "1",
       "headsign": "Godzieszowa - transformator",
       "service_id": "8",
@@ -31268,7 +31268,7 @@
       ]
     },
     {
-      "trip_id": "8_17621171",
+      "trip_id": "8_17639846",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "8",
@@ -31501,7 +31501,7 @@
       ]
     },
     {
-      "trip_id": "8_17621176",
+      "trip_id": "8_17639851",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "8",

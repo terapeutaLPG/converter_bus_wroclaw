@@ -2,7 +2,7 @@
   "line": "315",
   "trips": [
     {
-      "trip_id": "6_17610013",
+      "trip_id": "6_17714026",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "6",
@@ -154,7 +154,7 @@
       ]
     },
     {
-      "trip_id": "6_17610014",
+      "trip_id": "6_17714027",
       "direction_id": "1",
       "headsign": "SWOJCZYCE",
       "service_id": "6",
@@ -288,7 +288,7 @@
       ]
     },
     {
-      "trip_id": "6_17610015",
+      "trip_id": "6_17714028",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "6",
@@ -431,7 +431,7 @@
       ]
     },
     {
-      "trip_id": "6_17610016",
+      "trip_id": "6_17714029",
       "direction_id": "1",
       "headsign": "SWOJCZYCE",
       "service_id": "6",
@@ -565,7 +565,7 @@
       ]
     },
     {
-      "trip_id": "6_17610017",
+      "trip_id": "6_17714030",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "6",
@@ -708,7 +708,7 @@
       ]
     },
     {
-      "trip_id": "6_17610018",
+      "trip_id": "6_17714031",
       "direction_id": "1",
       "headsign": "SWOJCZYCE",
       "service_id": "6",
@@ -842,7 +842,7 @@
       ]
     },
     {
-      "trip_id": "6_17610019",
+      "trip_id": "6_17714032",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "6",
@@ -985,7 +985,7 @@
       ]
     },
     {
-      "trip_id": "6_17610020",
+      "trip_id": "6_17714033",
       "direction_id": "1",
       "headsign": "SWOJCZYCE",
       "service_id": "6",
@@ -1128,7 +1128,7 @@
       ]
     },
     {
-      "trip_id": "6_17610021",
+      "trip_id": "6_17714034",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "6",
@@ -1271,7 +1271,7 @@
       ]
     },
     {
-      "trip_id": "6_17610022",
+      "trip_id": "6_17714035",
       "direction_id": "1",
       "headsign": "SWOJCZYCE",
       "service_id": "6",
@@ -1405,7 +1405,7 @@
       ]
     },
     {
-      "trip_id": "6_17610023",
+      "trip_id": "6_17714036",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "6",
@@ -1674,7 +1674,7 @@
       ]
     },
     {
-      "trip_id": "6_17610024",
+      "trip_id": "6_17714037",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "6",
@@ -1826,7 +1826,7 @@
       ]
     },
     {
-      "trip_id": "6_17610025",
+      "trip_id": "6_17714038",
       "direction_id": "1",
       "headsign": "SWOJCZYCE",
       "service_id": "6",
@@ -1960,7 +1960,7 @@
       ]
     },
     {
-      "trip_id": "6_17610026",
+      "trip_id": "6_17714039",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "6",
@@ -2103,7 +2103,7 @@
       ]
     },
     {
-      "trip_id": "6_17610027",
+      "trip_id": "6_17714040",
       "direction_id": "1",
       "headsign": "SWOJCZYCE",
       "service_id": "6",
@@ -2237,7 +2237,7 @@
       ]
     },
     {
-      "trip_id": "6_17610028",
+      "trip_id": "6_17714041",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "6",
@@ -2380,7 +2380,7 @@
       ]
     },
     {
-      "trip_id": "6_17610029",
+      "trip_id": "6_17714042",
       "direction_id": "1",
       "headsign": "SWOJCZYCE",
       "service_id": "6",
@@ -2514,7 +2514,7 @@
       ]
     },
     {
-      "trip_id": "6_17610030",
+      "trip_id": "6_17714043",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "6",
@@ -2657,7 +2657,7 @@
       ]
     },
     {
-      "trip_id": "6_17610031",
+      "trip_id": "6_17714044",
       "direction_id": "1",
       "headsign": "SWOJCZYCE",
       "service_id": "6",
@@ -2791,7 +2791,7 @@
       ]
     },
     {
-      "trip_id": "6_17610032",
+      "trip_id": "6_17714045",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "6",
@@ -2934,7 +2934,7 @@
       ]
     },
     {
-      "trip_id": "6_17610033",
+      "trip_id": "6_17714046",
       "direction_id": "1",
       "headsign": "SWOJCZYCE",
       "service_id": "6",
@@ -3077,7 +3077,7 @@
       ]
     },
     {
-      "trip_id": "6_17610034",
+      "trip_id": "6_17714047",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "6",
@@ -3220,7 +3220,7 @@
       ]
     },
     {
-      "trip_id": "6_17610035",
+      "trip_id": "6_17714048",
       "direction_id": "1",
       "headsign": "SWOJCZYCE",
       "service_id": "6",
@@ -3363,7 +3363,7 @@
       ]
     },
     {
-      "trip_id": "6_17610036",
+      "trip_id": "6_17714049",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "6",
@@ -3506,7 +3506,7 @@
       ]
     },
     {
-      "trip_id": "6_17610037",
+      "trip_id": "6_17714050",
       "direction_id": "1",
       "headsign": "SWOJCZYCE",
       "service_id": "6",
@@ -3640,7 +3640,7 @@
       ]
     },
     {
-      "trip_id": "6_17610038",
+      "trip_id": "6_17714051",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "6",
@@ -3783,7 +3783,7 @@
       ]
     },
     {
-      "trip_id": "6_17610039",
+      "trip_id": "6_17714052",
       "direction_id": "1",
       "headsign": "SWOJCZYCE",
       "service_id": "6",
@@ -3917,7 +3917,7 @@
       ]
     },
     {
-      "trip_id": "6_17610040",
+      "trip_id": "6_17714053",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "6",
@@ -4060,7 +4060,7 @@
       ]
     },
     {
-      "trip_id": "6_17610041",
+      "trip_id": "6_17714054",
       "direction_id": "1",
       "headsign": "SWOJCZYCE",
       "service_id": "6",
@@ -4203,7 +4203,7 @@
       ]
     },
     {
-      "trip_id": "6_17610042",
+      "trip_id": "6_17714055",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "6",
@@ -4346,7 +4346,7 @@
       ]
     },
     {
-      "trip_id": "6_17610043",
+      "trip_id": "6_17714056",
       "direction_id": "1",
       "headsign": "SWOJCZYCE",
       "service_id": "6",
@@ -4489,7 +4489,7 @@
       ]
     },
     {
-      "trip_id": "6_17610044",
+      "trip_id": "6_17714057",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "6",
@@ -4632,7 +4632,7 @@
       ]
     },
     {
-      "trip_id": "6_17610045",
+      "trip_id": "6_17714058",
       "direction_id": "1",
       "headsign": "SWOJCZYCE",
       "service_id": "6",
@@ -4775,7 +4775,7 @@
       ]
     },
     {
-      "trip_id": "6_17610046",
+      "trip_id": "6_17714059",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "6",
@@ -5044,7 +5044,7 @@
       ]
     },
     {
-      "trip_id": "6_17610047",
+      "trip_id": "6_17714060",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "6",
@@ -5196,7 +5196,7 @@
       ]
     },
     {
-      "trip_id": "6_17610048",
+      "trip_id": "6_17714061",
       "direction_id": "1",
       "headsign": "SWOJCZYCE",
       "service_id": "6",
@@ -5330,7 +5330,7 @@
       ]
     },
     {
-      "trip_id": "6_17610049",
+      "trip_id": "6_17714062",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "6",
@@ -5473,7 +5473,7 @@
       ]
     },
     {
-      "trip_id": "6_17610050",
+      "trip_id": "6_17714063",
       "direction_id": "1",
       "headsign": "SWOJCZYCE",
       "service_id": "6",
@@ -5616,7 +5616,7 @@
       ]
     },
     {
-      "trip_id": "6_17610051",
+      "trip_id": "6_17714064",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "6",
@@ -5768,7 +5768,7 @@
       ]
     },
     {
-      "trip_id": "6_17610052",
+      "trip_id": "6_17714065",
       "direction_id": "1",
       "headsign": "SWOJCZYCE",
       "service_id": "6",
@@ -5911,7 +5911,7 @@
       ]
     },
     {
-      "trip_id": "6_17610053",
+      "trip_id": "6_17714066",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "6",
@@ -6054,7 +6054,7 @@
       ]
     },
     {
-      "trip_id": "6_17610054",
+      "trip_id": "6_17714067",
       "direction_id": "1",
       "headsign": "SWOJCZYCE",
       "service_id": "6",
@@ -6197,7 +6197,7 @@
       ]
     },
     {
-      "trip_id": "6_17610055",
+      "trip_id": "6_17714068",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "6",
@@ -6466,7 +6466,7 @@
       ]
     },
     {
-      "trip_id": "6_17610056",
+      "trip_id": "6_17714069",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "6",
@@ -6618,7 +6618,7 @@
       ]
     },
     {
-      "trip_id": "6_17610057",
+      "trip_id": "6_17714070",
       "direction_id": "1",
       "headsign": "SWOJCZYCE",
       "service_id": "6",
@@ -6752,7 +6752,7 @@
       ]
     },
     {
-      "trip_id": "6_17610058",
+      "trip_id": "6_17714071",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "6",
@@ -6895,7 +6895,7 @@
       ]
     },
     {
-      "trip_id": "6_17610059",
+      "trip_id": "6_17714072",
       "direction_id": "1",
       "headsign": "SWOJCZYCE",
       "service_id": "6",
@@ -7038,7 +7038,7 @@
       ]
     },
     {
-      "trip_id": "6_17610060",
+      "trip_id": "6_17714073",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "6",
@@ -7181,7 +7181,7 @@
       ]
     },
     {
-      "trip_id": "6_17610061",
+      "trip_id": "6_17714074",
       "direction_id": "1",
       "headsign": "SWOJCZYCE",
       "service_id": "6",
@@ -7324,7 +7324,7 @@
       ]
     },
     {
-      "trip_id": "6_17610062",
+      "trip_id": "6_17714075",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "6",
@@ -7593,7 +7593,7 @@
       ]
     },
     {
-      "trip_id": "8_17616842",
+      "trip_id": "8_17720855",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "8",
@@ -7745,7 +7745,7 @@
       ]
     },
     {
-      "trip_id": "8_17616843",
+      "trip_id": "8_17720856",
       "direction_id": "1",
       "headsign": "SWOJCZYCE",
       "service_id": "8",
@@ -7879,7 +7879,7 @@
       ]
     },
     {
-      "trip_id": "8_17616844",
+      "trip_id": "8_17720857",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "8",
@@ -8022,7 +8022,7 @@
       ]
     },
     {
-      "trip_id": "8_17616845",
+      "trip_id": "8_17720858",
       "direction_id": "1",
       "headsign": "SWOJCZYCE",
       "service_id": "8",
@@ -8156,7 +8156,7 @@
       ]
     },
     {
-      "trip_id": "8_17616846",
+      "trip_id": "8_17720859",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "8",
@@ -8299,7 +8299,7 @@
       ]
     },
     {
-      "trip_id": "8_17616847",
+      "trip_id": "8_17720860",
       "direction_id": "1",
       "headsign": "SWOJCZYCE",
       "service_id": "8",
@@ -8433,7 +8433,7 @@
       ]
     },
     {
-      "trip_id": "8_17616848",
+      "trip_id": "8_17720861",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "8",
@@ -8576,7 +8576,7 @@
       ]
     },
     {
-      "trip_id": "8_17616849",
+      "trip_id": "8_17720862",
       "direction_id": "1",
       "headsign": "SWOJCZYCE",
       "service_id": "8",
@@ -8719,7 +8719,7 @@
       ]
     },
     {
-      "trip_id": "8_17616850",
+      "trip_id": "8_17720863",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "8",
@@ -8862,7 +8862,7 @@
       ]
     },
     {
-      "trip_id": "8_17616851",
+      "trip_id": "8_17720864",
       "direction_id": "1",
       "headsign": "SWOJCZYCE",
       "service_id": "8",
@@ -8996,7 +8996,7 @@
       ]
     },
     {
-      "trip_id": "8_17616852",
+      "trip_id": "8_17720865",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "8",
@@ -9265,7 +9265,7 @@
       ]
     },
     {
-      "trip_id": "8_17616853",
+      "trip_id": "8_17720866",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "8",
@@ -9417,7 +9417,7 @@
       ]
     },
     {
-      "trip_id": "8_17616854",
+      "trip_id": "8_17720867",
       "direction_id": "1",
       "headsign": "SWOJCZYCE",
       "service_id": "8",
@@ -9551,7 +9551,7 @@
       ]
     },
     {
-      "trip_id": "8_17616855",
+      "trip_id": "8_17720868",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "8",
@@ -9694,7 +9694,7 @@
       ]
     },
     {
-      "trip_id": "8_17616856",
+      "trip_id": "8_17720869",
       "direction_id": "1",
       "headsign": "SWOJCZYCE",
       "service_id": "8",
@@ -9828,7 +9828,7 @@
       ]
     },
     {
-      "trip_id": "8_17616857",
+      "trip_id": "8_17720870",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "8",
@@ -9971,7 +9971,7 @@
       ]
     },
     {
-      "trip_id": "8_17616858",
+      "trip_id": "8_17720871",
       "direction_id": "1",
       "headsign": "SWOJCZYCE",
       "service_id": "8",
@@ -10105,7 +10105,7 @@
       ]
     },
     {
-      "trip_id": "8_17616859",
+      "trip_id": "8_17720872",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "8",
@@ -10248,7 +10248,7 @@
       ]
     },
     {
-      "trip_id": "8_17616860",
+      "trip_id": "8_17720873",
       "direction_id": "1",
       "headsign": "SWOJCZYCE",
       "service_id": "8",
@@ -10382,7 +10382,7 @@
       ]
     },
     {
-      "trip_id": "8_17616861",
+      "trip_id": "8_17720874",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "8",
@@ -10525,7 +10525,7 @@
       ]
     },
     {
-      "trip_id": "8_17616862",
+      "trip_id": "8_17720875",
       "direction_id": "1",
       "headsign": "SWOJCZYCE",
       "service_id": "8",
@@ -10668,7 +10668,7 @@
       ]
     },
     {
-      "trip_id": "8_17616863",
+      "trip_id": "8_17720876",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "8",
@@ -10811,7 +10811,7 @@
       ]
     },
     {
-      "trip_id": "8_17616864",
+      "trip_id": "8_17720877",
       "direction_id": "1",
       "headsign": "SWOJCZYCE",
       "service_id": "8",
@@ -10954,7 +10954,7 @@
       ]
     },
     {
-      "trip_id": "8_17616865",
+      "trip_id": "8_17720878",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "8",
@@ -11097,7 +11097,7 @@
       ]
     },
     {
-      "trip_id": "8_17616866",
+      "trip_id": "8_17720879",
       "direction_id": "1",
       "headsign": "SWOJCZYCE",
       "service_id": "8",
@@ -11231,7 +11231,7 @@
       ]
     },
     {
-      "trip_id": "8_17616867",
+      "trip_id": "8_17720880",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "8",
@@ -11374,7 +11374,7 @@
       ]
     },
     {
-      "trip_id": "8_17616868",
+      "trip_id": "8_17720881",
       "direction_id": "1",
       "headsign": "SWOJCZYCE",
       "service_id": "8",
@@ -11508,7 +11508,7 @@
       ]
     },
     {
-      "trip_id": "8_17616869",
+      "trip_id": "8_17720882",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "8",
@@ -11651,7 +11651,7 @@
       ]
     },
     {
-      "trip_id": "8_17616870",
+      "trip_id": "8_17720883",
       "direction_id": "1",
       "headsign": "SWOJCZYCE",
       "service_id": "8",
@@ -11794,7 +11794,7 @@
       ]
     },
     {
-      "trip_id": "8_17616871",
+      "trip_id": "8_17720884",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "8",
@@ -11937,7 +11937,7 @@
       ]
     },
     {
-      "trip_id": "8_17616872",
+      "trip_id": "8_17720885",
       "direction_id": "1",
       "headsign": "SWOJCZYCE",
       "service_id": "8",
@@ -12080,7 +12080,7 @@
       ]
     },
     {
-      "trip_id": "8_17616873",
+      "trip_id": "8_17720886",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "8",
@@ -12223,7 +12223,7 @@
       ]
     },
     {
-      "trip_id": "8_17616874",
+      "trip_id": "8_17720887",
       "direction_id": "1",
       "headsign": "SWOJCZYCE",
       "service_id": "8",
@@ -12366,7 +12366,7 @@
       ]
     },
     {
-      "trip_id": "8_17616875",
+      "trip_id": "8_17720888",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "8",
@@ -12635,7 +12635,7 @@
       ]
     },
     {
-      "trip_id": "8_17616876",
+      "trip_id": "8_17720889",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "8",
@@ -12787,7 +12787,7 @@
       ]
     },
     {
-      "trip_id": "8_17616877",
+      "trip_id": "8_17720890",
       "direction_id": "1",
       "headsign": "SWOJCZYCE",
       "service_id": "8",
@@ -12921,7 +12921,7 @@
       ]
     },
     {
-      "trip_id": "8_17616878",
+      "trip_id": "8_17720891",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "8",
@@ -13064,7 +13064,7 @@
       ]
     },
     {
-      "trip_id": "8_17616879",
+      "trip_id": "8_17720892",
       "direction_id": "1",
       "headsign": "SWOJCZYCE",
       "service_id": "8",
@@ -13207,7 +13207,7 @@
       ]
     },
     {
-      "trip_id": "8_17616880",
+      "trip_id": "8_17720893",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "8",
@@ -13359,7 +13359,7 @@
       ]
     },
     {
-      "trip_id": "8_17616881",
+      "trip_id": "8_17720894",
       "direction_id": "1",
       "headsign": "SWOJCZYCE",
       "service_id": "8",
@@ -13502,7 +13502,7 @@
       ]
     },
     {
-      "trip_id": "8_17616882",
+      "trip_id": "8_17720895",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "8",
@@ -13645,7 +13645,7 @@
       ]
     },
     {
-      "trip_id": "8_17616883",
+      "trip_id": "8_17720896",
       "direction_id": "1",
       "headsign": "SWOJCZYCE",
       "service_id": "8",
@@ -13788,7 +13788,7 @@
       ]
     },
     {
-      "trip_id": "8_17616884",
+      "trip_id": "8_17720897",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "8",
@@ -14057,7 +14057,7 @@
       ]
     },
     {
-      "trip_id": "8_17616885",
+      "trip_id": "8_17720898",
       "direction_id": "0",
       "headsign": "PL. GRUNWALDZKI",
       "service_id": "8",
@@ -14209,7 +14209,7 @@
       ]
     },
     {
-      "trip_id": "8_17616886",
+      "trip_id": "8_17720899",
       "direction_id": "1",
       "headsign": "SWOJCZYCE",
       "service_id": "8",
@@ -14343,7 +14343,7 @@
       ]
     },
     {
-      "trip_id": "8_17616887",
+      "trip_id": "8_17720900",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "8",
@@ -14486,7 +14486,7 @@
       ]
     },
     {
-      "trip_id": "8_17616888",
+      "trip_id": "8_17720901",
       "direction_id": "1",
       "headsign": "SWOJCZYCE",
       "service_id": "8",
@@ -14629,7 +14629,7 @@
       ]
     },
     {
-      "trip_id": "8_17616889",
+      "trip_id": "8_17720902",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "8",
@@ -14772,7 +14772,7 @@
       ]
     },
     {
-      "trip_id": "8_17616890",
+      "trip_id": "8_17720903",
       "direction_id": "1",
       "headsign": "SWOJCZYCE",
       "service_id": "8",
@@ -14915,7 +14915,7 @@
       ]
     },
     {
-      "trip_id": "8_17616891",
+      "trip_id": "8_17720904",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "8",

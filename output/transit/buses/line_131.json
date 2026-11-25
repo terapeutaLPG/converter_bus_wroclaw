@@ -2,7 +2,7 @@
   "line": "131",
   "trips": [
     {
-      "trip_id": "3_17597456",
+      "trip_id": "3_17701469",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "3",
@@ -154,7 +154,7 @@
       ]
     },
     {
-      "trip_id": "3_17597457",
+      "trip_id": "3_17701470",
       "direction_id": "1",
       "headsign": "LITEWSKA",
       "service_id": "3",
@@ -324,7 +324,7 @@
       ]
     },
     {
-      "trip_id": "3_17597458",
+      "trip_id": "3_17701471",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "3",
@@ -476,7 +476,7 @@
       ]
     },
     {
-      "trip_id": "3_17597459",
+      "trip_id": "3_17701472",
       "direction_id": "1",
       "headsign": "LITEWSKA",
       "service_id": "3",
@@ -646,7 +646,7 @@
       ]
     },
     {
-      "trip_id": "3_17597460",
+      "trip_id": "3_17701473",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "3",
@@ -798,7 +798,7 @@
       ]
     },
     {
-      "trip_id": "3_17597461",
+      "trip_id": "3_17701474",
       "direction_id": "1",
       "headsign": "LITEWSKA",
       "service_id": "3",
@@ -968,7 +968,7 @@
       ]
     },
     {
-      "trip_id": "3_17597462",
+      "trip_id": "3_17701475",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "3",
@@ -1120,7 +1120,7 @@
       ]
     },
     {
-      "trip_id": "3_17597463",
+      "trip_id": "3_17701476",
       "direction_id": "1",
       "headsign": "LITEWSKA",
       "service_id": "3",
@@ -1290,7 +1290,7 @@
       ]
     },
     {
-      "trip_id": "3_17597464",
+      "trip_id": "3_17701477",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "3",
@@ -1442,7 +1442,7 @@
       ]
     },
     {
-      "trip_id": "3_17597465",
+      "trip_id": "3_17701478",
       "direction_id": "1",
       "headsign": "LITEWSKA",
       "service_id": "3",
@@ -1612,7 +1612,7 @@
       ]
     },
     {
-      "trip_id": "3_17597466",
+      "trip_id": "3_17701479",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "3",
@@ -1764,7 +1764,7 @@
       ]
     },
     {
-      "trip_id": "3_17597467",
+      "trip_id": "3_17701480",
       "direction_id": "1",
       "headsign": "LITEWSKA",
       "service_id": "3",
@@ -1934,7 +1934,7 @@
       ]
     },
     {
-      "trip_id": "3_17597468",
+      "trip_id": "3_17701481",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "3",
@@ -2086,7 +2086,7 @@
       ]
     },
     {
-      "trip_id": "3_17597469",
+      "trip_id": "3_17701482",
       "direction_id": "1",
       "headsign": "LITEWSKA",
       "service_id": "3",
@@ -2256,7 +2256,7 @@
       ]
     },
     {
-      "trip_id": "3_17597470",
+      "trip_id": "3_17701483",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "3",
@@ -2408,7 +2408,7 @@
       ]
     },
     {
-      "trip_id": "3_17597471",
+      "trip_id": "3_17701484",
       "direction_id": "1",
       "headsign": "LITEWSKA",
       "service_id": "3",
@@ -2578,7 +2578,7 @@
       ]
     },
     {
-      "trip_id": "3_17597472",
+      "trip_id": "3_17701485",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "3",
@@ -2730,7 +2730,7 @@
       ]
     },
     {
-      "trip_id": "3_17597473",
+      "trip_id": "3_17701486",
       "direction_id": "1",
       "headsign": "LITEWSKA",
       "service_id": "3",
@@ -2900,7 +2900,7 @@
       ]
     },
     {
-      "trip_id": "3_17597474",
+      "trip_id": "3_17701487",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "3",
@@ -3052,7 +3052,7 @@
       ]
     },
     {
-      "trip_id": "3_17597475",
+      "trip_id": "3_17701488",
       "direction_id": "1",
       "headsign": "LITEWSKA",
       "service_id": "3",
@@ -3222,7 +3222,7 @@
       ]
     },
     {
-      "trip_id": "3_17597476",
+      "trip_id": "3_17701489",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "3",
@@ -3374,7 +3374,7 @@
       ]
     },
     {
-      "trip_id": "3_17597477",
+      "trip_id": "3_17701490",
       "direction_id": "1",
       "headsign": "LITEWSKA",
       "service_id": "3",
@@ -3544,7 +3544,7 @@
       ]
     },
     {
-      "trip_id": "3_17597478",
+      "trip_id": "3_17701491",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "3",
@@ -3696,7 +3696,7 @@
       ]
     },
     {
-      "trip_id": "3_17597479",
+      "trip_id": "3_17701492",
       "direction_id": "1",
       "headsign": "LITEWSKA",
       "service_id": "3",
@@ -3866,7 +3866,7 @@
       ]
     },
     {
-      "trip_id": "3_17597480",
+      "trip_id": "3_17701493",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "3",
@@ -4018,7 +4018,7 @@
       ]
     },
     {
-      "trip_id": "3_17597481",
+      "trip_id": "3_17701494",
       "direction_id": "1",
       "headsign": "LITEWSKA",
       "service_id": "3",
@@ -4188,7 +4188,7 @@
       ]
     },
     {
-      "trip_id": "3_17597482",
+      "trip_id": "3_17701495",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "3",
@@ -4340,7 +4340,7 @@
       ]
     },
     {
-      "trip_id": "3_17597483",
+      "trip_id": "3_17701496",
       "direction_id": "1",
       "headsign": "LITEWSKA",
       "service_id": "3",
@@ -4510,7 +4510,7 @@
       ]
     },
     {
-      "trip_id": "3_17597484",
+      "trip_id": "3_17701497",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "3",
@@ -4662,7 +4662,7 @@
       ]
     },
     {
-      "trip_id": "3_17597485",
+      "trip_id": "3_17701498",
       "direction_id": "1",
       "headsign": "LITEWSKA",
       "service_id": "3",
@@ -4832,7 +4832,7 @@
       ]
     },
     {
-      "trip_id": "3_17597486",
+      "trip_id": "3_17701499",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "3",
@@ -4984,7 +4984,7 @@
       ]
     },
     {
-      "trip_id": "3_17597487",
+      "trip_id": "3_17701500",
       "direction_id": "1",
       "headsign": "LITEWSKA",
       "service_id": "3",
@@ -5154,7 +5154,7 @@
       ]
     },
     {
-      "trip_id": "3_17597488",
+      "trip_id": "3_17701501",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "3",
@@ -5306,7 +5306,7 @@
       ]
     },
     {
-      "trip_id": "3_17597489",
+      "trip_id": "3_17701502",
       "direction_id": "1",
       "headsign": "LITEWSKA",
       "service_id": "3",
@@ -5476,7 +5476,7 @@
       ]
     },
     {
-      "trip_id": "3_17597490",
+      "trip_id": "3_17701503",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "3",
@@ -5628,7 +5628,7 @@
       ]
     },
     {
-      "trip_id": "3_17597491",
+      "trip_id": "3_17701504",
       "direction_id": "1",
       "headsign": "LITEWSKA",
       "service_id": "3",
@@ -5798,7 +5798,7 @@
       ]
     },
     {
-      "trip_id": "3_17597492",
+      "trip_id": "3_17701505",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "3",
@@ -5950,7 +5950,7 @@
       ]
     },
     {
-      "trip_id": "3_17597493",
+      "trip_id": "3_17701506",
       "direction_id": "1",
       "headsign": "LITEWSKA",
       "service_id": "3",
@@ -6120,7 +6120,7 @@
       ]
     },
     {
-      "trip_id": "3_17597494",
+      "trip_id": "3_17701507",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "3",
@@ -6272,7 +6272,7 @@
       ]
     },
     {
-      "trip_id": "3_17597495",
+      "trip_id": "3_17701508",
       "direction_id": "1",
       "headsign": "LITEWSKA",
       "service_id": "3",
@@ -6442,7 +6442,7 @@
       ]
     },
     {
-      "trip_id": "3_17597496",
+      "trip_id": "3_17701509",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "3",
@@ -6594,7 +6594,7 @@
       ]
     },
     {
-      "trip_id": "3_17597497",
+      "trip_id": "3_17701510",
       "direction_id": "1",
       "headsign": "LITEWSKA",
       "service_id": "3",
@@ -6764,7 +6764,7 @@
       ]
     },
     {
-      "trip_id": "3_17597498",
+      "trip_id": "3_17701511",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "3",
@@ -6916,7 +6916,7 @@
       ]
     },
     {
-      "trip_id": "3_17597499",
+      "trip_id": "3_17701512",
       "direction_id": "1",
       "headsign": "LITEWSKA",
       "service_id": "3",
@@ -7086,7 +7086,7 @@
       ]
     },
     {
-      "trip_id": "3_17597500",
+      "trip_id": "3_17701513",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "3",
@@ -7238,7 +7238,7 @@
       ]
     },
     {
-      "trip_id": "3_17597501",
+      "trip_id": "3_17701514",
       "direction_id": "1",
       "headsign": "LITEWSKA",
       "service_id": "3",
@@ -7408,7 +7408,7 @@
       ]
     },
     {
-      "trip_id": "3_17597502",
+      "trip_id": "3_17701515",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "3",
@@ -7560,7 +7560,7 @@
       ]
     },
     {
-      "trip_id": "3_17597503",
+      "trip_id": "3_17701516",
       "direction_id": "1",
       "headsign": "LITEWSKA",
       "service_id": "3",
@@ -7730,7 +7730,7 @@
       ]
     },
     {
-      "trip_id": "3_17597504",
+      "trip_id": "3_17701517",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "3",
@@ -7855,7 +7855,7 @@
       ]
     },
     {
-      "trip_id": "3_17597505",
+      "trip_id": "3_17701518",
       "direction_id": "1",
       "headsign": "LITEWSKA",
       "service_id": "3",
@@ -8025,7 +8025,7 @@
       ]
     },
     {
-      "trip_id": "3_17597506",
+      "trip_id": "3_17701519",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "3",
@@ -8177,7 +8177,7 @@
       ]
     },
     {
-      "trip_id": "3_17597507",
+      "trip_id": "3_17701520",
       "direction_id": "1",
       "headsign": "LITEWSKA",
       "service_id": "3",
@@ -8347,7 +8347,7 @@
       ]
     },
     {
-      "trip_id": "3_17597508",
+      "trip_id": "3_17701521",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "3",
@@ -8499,7 +8499,7 @@
       ]
     },
     {
-      "trip_id": "3_17597509",
+      "trip_id": "3_17701522",
       "direction_id": "1",
       "headsign": "LITEWSKA",
       "service_id": "3",
@@ -8669,7 +8669,7 @@
       ]
     },
     {
-      "trip_id": "3_17597510",
+      "trip_id": "3_17701523",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "3",
@@ -8821,7 +8821,7 @@
       ]
     },
     {
-      "trip_id": "3_17597511",
+      "trip_id": "3_17701524",
       "direction_id": "1",
       "headsign": "LITEWSKA",
       "service_id": "3",
@@ -8991,7 +8991,7 @@
       ]
     },
     {
-      "trip_id": "3_17597512",
+      "trip_id": "3_17701525",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "3",
@@ -9143,7 +9143,7 @@
       ]
     },
     {
-      "trip_id": "3_17597513",
+      "trip_id": "3_17701526",
       "direction_id": "1",
       "headsign": "LITEWSKA",
       "service_id": "3",
@@ -9313,7 +9313,7 @@
       ]
     },
     {
-      "trip_id": "3_17597514",
+      "trip_id": "3_17701527",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "3",
@@ -9465,7 +9465,7 @@
       ]
     },
     {
-      "trip_id": "3_17597515",
+      "trip_id": "3_17701528",
       "direction_id": "1",
       "headsign": "LITEWSKA",
       "service_id": "3",
@@ -9635,7 +9635,7 @@
       ]
     },
     {
-      "trip_id": "3_17597516",
+      "trip_id": "3_17701529",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "3",
@@ -9787,7 +9787,7 @@
       ]
     },
     {
-      "trip_id": "3_17597517",
+      "trip_id": "3_17701530",
       "direction_id": "1",
       "headsign": "LITEWSKA",
       "service_id": "3",
@@ -9957,7 +9957,7 @@
       ]
     },
     {
-      "trip_id": "3_17597518",
+      "trip_id": "3_17701531",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "3",
@@ -10109,7 +10109,7 @@
       ]
     },
     {
-      "trip_id": "3_17597519",
+      "trip_id": "3_17701532",
       "direction_id": "1",
       "headsign": "LITEWSKA",
       "service_id": "3",
@@ -10279,7 +10279,7 @@
       ]
     },
     {
-      "trip_id": "3_17597520",
+      "trip_id": "3_17701533",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "3",
@@ -10431,7 +10431,7 @@
       ]
     },
     {
-      "trip_id": "3_17597521",
+      "trip_id": "3_17701534",
       "direction_id": "1",
       "headsign": "LITEWSKA",
       "service_id": "3",
@@ -10601,7 +10601,7 @@
       ]
     },
     {
-      "trip_id": "3_17597522",
+      "trip_id": "3_17701535",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "3",
@@ -10753,7 +10753,7 @@
       ]
     },
     {
-      "trip_id": "3_17597523",
+      "trip_id": "3_17701536",
       "direction_id": "1",
       "headsign": "LITEWSKA",
       "service_id": "3",
@@ -10923,7 +10923,7 @@
       ]
     },
     {
-      "trip_id": "3_17597524",
+      "trip_id": "3_17701537",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "3",
@@ -11075,7 +11075,7 @@
       ]
     },
     {
-      "trip_id": "3_17597525",
+      "trip_id": "3_17701538",
       "direction_id": "1",
       "headsign": "LITEWSKA",
       "service_id": "3",
@@ -11245,7 +11245,7 @@
       ]
     },
     {
-      "trip_id": "3_17597526",
+      "trip_id": "3_17701539",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "3",
@@ -11397,7 +11397,7 @@
       ]
     },
     {
-      "trip_id": "3_17597527",
+      "trip_id": "3_17701540",
       "direction_id": "1",
       "headsign": "LITEWSKA",
       "service_id": "3",
@@ -11567,7 +11567,7 @@
       ]
     },
     {
-      "trip_id": "3_17597528",
+      "trip_id": "3_17701541",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "3",
@@ -11719,7 +11719,7 @@
       ]
     },
     {
-      "trip_id": "3_17597529",
+      "trip_id": "3_17701542",
       "direction_id": "1",
       "headsign": "LITEWSKA",
       "service_id": "3",
@@ -11889,7 +11889,7 @@
       ]
     },
     {
-      "trip_id": "4_17601924",
+      "trip_id": "4_17705937",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "4",
@@ -12041,7 +12041,7 @@
       ]
     },
     {
-      "trip_id": "4_17601925",
+      "trip_id": "4_17705938",
       "direction_id": "1",
       "headsign": "LITEWSKA",
       "service_id": "4",
@@ -12211,7 +12211,7 @@
       ]
     },
     {
-      "trip_id": "4_17601926",
+      "trip_id": "4_17705939",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "4",
@@ -12363,7 +12363,7 @@
       ]
     },
     {
-      "trip_id": "4_17601927",
+      "trip_id": "4_17705940",
       "direction_id": "1",
       "headsign": "LITEWSKA",
       "service_id": "4",
@@ -12533,7 +12533,7 @@
       ]
     },
     {
-      "trip_id": "4_17601928",
+      "trip_id": "4_17705941",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "4",
@@ -12685,7 +12685,7 @@
       ]
     },
     {
-      "trip_id": "4_17601929",
+      "trip_id": "4_17705942",
       "direction_id": "1",
       "headsign": "LITEWSKA",
       "service_id": "4",
@@ -12855,7 +12855,7 @@
       ]
     },
     {
-      "trip_id": "4_17601930",
+      "trip_id": "4_17705943",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "4",
@@ -13007,7 +13007,7 @@
       ]
     },
     {
-      "trip_id": "4_17601931",
+      "trip_id": "4_17705944",
       "direction_id": "1",
       "headsign": "LITEWSKA",
       "service_id": "4",
@@ -13177,7 +13177,7 @@
       ]
     },
     {
-      "trip_id": "4_17601932",
+      "trip_id": "4_17705945",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "4",
@@ -13329,7 +13329,7 @@
       ]
     },
     {
-      "trip_id": "4_17601933",
+      "trip_id": "4_17705946",
       "direction_id": "1",
       "headsign": "LITEWSKA",
       "service_id": "4",
@@ -13499,7 +13499,7 @@
       ]
     },
     {
-      "trip_id": "4_17601934",
+      "trip_id": "4_17705947",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "4",
@@ -13651,7 +13651,7 @@
       ]
     },
     {
-      "trip_id": "4_17601935",
+      "trip_id": "4_17705948",
       "direction_id": "1",
       "headsign": "LITEWSKA",
       "service_id": "4",
@@ -13821,7 +13821,7 @@
       ]
     },
     {
-      "trip_id": "4_17601936",
+      "trip_id": "4_17705949",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "4",
@@ -13973,7 +13973,7 @@
       ]
     },
     {
-      "trip_id": "4_17601937",
+      "trip_id": "4_17705950",
       "direction_id": "1",
       "headsign": "LITEWSKA",
       "service_id": "4",
@@ -14143,7 +14143,7 @@
       ]
     },
     {
-      "trip_id": "4_17601938",
+      "trip_id": "4_17705951",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "4",
@@ -14295,7 +14295,7 @@
       ]
     },
     {
-      "trip_id": "4_17601939",
+      "trip_id": "4_17705952",
       "direction_id": "1",
       "headsign": "LITEWSKA",
       "service_id": "4",
@@ -14465,7 +14465,7 @@
       ]
     },
     {
-      "trip_id": "4_17601940",
+      "trip_id": "4_17705953",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "4",
@@ -14617,7 +14617,7 @@
       ]
     },
     {
-      "trip_id": "4_17601941",
+      "trip_id": "4_17705954",
       "direction_id": "1",
       "headsign": "LITEWSKA",
       "service_id": "4",
@@ -14787,7 +14787,7 @@
       ]
     },
     {
-      "trip_id": "4_17601942",
+      "trip_id": "4_17705955",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "4",
@@ -14939,7 +14939,7 @@
       ]
     },
     {
-      "trip_id": "4_17601943",
+      "trip_id": "4_17705956",
       "direction_id": "1",
       "headsign": "LITEWSKA",
       "service_id": "4",
@@ -15109,7 +15109,7 @@
       ]
     },
     {
-      "trip_id": "4_17601944",
+      "trip_id": "4_17705957",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "4",
@@ -15261,7 +15261,7 @@
       ]
     },
     {
-      "trip_id": "4_17601945",
+      "trip_id": "4_17705958",
       "direction_id": "1",
       "headsign": "LITEWSKA",
       "service_id": "4",
@@ -15431,7 +15431,7 @@
       ]
     },
     {
-      "trip_id": "4_17601946",
+      "trip_id": "4_17705959",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "4",
@@ -15583,7 +15583,7 @@
       ]
     },
     {
-      "trip_id": "4_17601947",
+      "trip_id": "4_17705960",
       "direction_id": "1",
       "headsign": "LITEWSKA",
       "service_id": "4",
@@ -15753,7 +15753,7 @@
       ]
     },
     {
-      "trip_id": "4_17601948",
+      "trip_id": "4_17705961",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "4",
@@ -15905,7 +15905,7 @@
       ]
     },
     {
-      "trip_id": "4_17601949",
+      "trip_id": "4_17705962",
       "direction_id": "1",
       "headsign": "LITEWSKA",
       "service_id": "4",
@@ -16075,7 +16075,7 @@
       ]
     },
     {
-      "trip_id": "4_17601950",
+      "trip_id": "4_17705963",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "4",
@@ -16227,7 +16227,7 @@
       ]
     },
     {
-      "trip_id": "4_17601951",
+      "trip_id": "4_17705964",
       "direction_id": "1",
       "headsign": "LITEWSKA",
       "service_id": "4",
@@ -16397,7 +16397,7 @@
       ]
     },
     {
-      "trip_id": "4_17601952",
+      "trip_id": "4_17705965",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "4",
@@ -16549,7 +16549,7 @@
       ]
     },
     {
-      "trip_id": "4_17601953",
+      "trip_id": "4_17705966",
       "direction_id": "1",
       "headsign": "LITEWSKA",
       "service_id": "4",
@@ -16719,7 +16719,7 @@
       ]
     },
     {
-      "trip_id": "4_17601954",
+      "trip_id": "4_17705967",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "4",
@@ -16871,7 +16871,7 @@
       ]
     },
     {
-      "trip_id": "4_17601955",
+      "trip_id": "4_17705968",
       "direction_id": "1",
       "headsign": "LITEWSKA",
       "service_id": "4",
@@ -17041,7 +17041,7 @@
       ]
     },
     {
-      "trip_id": "4_17601956",
+      "trip_id": "4_17705969",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "4",
@@ -17193,7 +17193,7 @@
       ]
     },
     {
-      "trip_id": "4_17601957",
+      "trip_id": "4_17705970",
       "direction_id": "1",
       "headsign": "LITEWSKA",
       "service_id": "4",
@@ -17363,7 +17363,7 @@
       ]
     },
     {
-      "trip_id": "4_17601958",
+      "trip_id": "4_17705971",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "4",
@@ -17515,7 +17515,7 @@
       ]
     },
     {
-      "trip_id": "4_17601959",
+      "trip_id": "4_17705972",
       "direction_id": "1",
       "headsign": "LITEWSKA",
       "service_id": "4",
@@ -17685,7 +17685,7 @@
       ]
     },
     {
-      "trip_id": "4_17601960",
+      "trip_id": "4_17705973",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "4",
@@ -17837,7 +17837,7 @@
       ]
     },
     {
-      "trip_id": "4_17601961",
+      "trip_id": "4_17705974",
       "direction_id": "1",
       "headsign": "LITEWSKA",
       "service_id": "4",
@@ -18007,7 +18007,7 @@
       ]
     },
     {
-      "trip_id": "4_17601962",
+      "trip_id": "4_17705975",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "4",
@@ -18159,7 +18159,7 @@
       ]
     },
     {
-      "trip_id": "4_17601963",
+      "trip_id": "4_17705976",
       "direction_id": "1",
       "headsign": "LITEWSKA",
       "service_id": "4",
@@ -18329,7 +18329,7 @@
       ]
     },
     {
-      "trip_id": "4_17601964",
+      "trip_id": "4_17705977",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "4",
@@ -18481,7 +18481,7 @@
       ]
     },
     {
-      "trip_id": "4_17601965",
+      "trip_id": "4_17705978",
       "direction_id": "1",
       "headsign": "LITEWSKA",
       "service_id": "4",
@@ -18651,7 +18651,7 @@
       ]
     },
     {
-      "trip_id": "4_17601966",
+      "trip_id": "4_17705979",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "4",
@@ -18803,7 +18803,7 @@
       ]
     },
     {
-      "trip_id": "4_17601967",
+      "trip_id": "4_17705980",
       "direction_id": "1",
       "headsign": "LITEWSKA",
       "service_id": "4",
@@ -18973,7 +18973,7 @@
       ]
     },
     {
-      "trip_id": "4_17601968",
+      "trip_id": "4_17705981",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "4",
@@ -19125,7 +19125,7 @@
       ]
     },
     {
-      "trip_id": "4_17601969",
+      "trip_id": "4_17705982",
       "direction_id": "1",
       "headsign": "LITEWSKA",
       "service_id": "4",
@@ -19295,7 +19295,7 @@
       ]
     },
     {
-      "trip_id": "4_17601970",
+      "trip_id": "4_17705983",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "4",
@@ -19447,7 +19447,7 @@
       ]
     },
     {
-      "trip_id": "4_17601971",
+      "trip_id": "4_17705984",
       "direction_id": "1",
       "headsign": "LITEWSKA",
       "service_id": "4",
@@ -19617,7 +19617,7 @@
       ]
     },
     {
-      "trip_id": "4_17601972",
+      "trip_id": "4_17705985",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "4",
@@ -19742,7 +19742,7 @@
       ]
     },
     {
-      "trip_id": "4_17601973",
+      "trip_id": "4_17705986",
       "direction_id": "1",
       "headsign": "LITEWSKA",
       "service_id": "4",
@@ -19912,7 +19912,7 @@
       ]
     },
     {
-      "trip_id": "4_17601974",
+      "trip_id": "4_17705987",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "4",
@@ -20064,7 +20064,7 @@
       ]
     },
     {
-      "trip_id": "4_17601975",
+      "trip_id": "4_17705988",
       "direction_id": "1",
       "headsign": "LITEWSKA",
       "service_id": "4",
@@ -20234,7 +20234,7 @@
       ]
     },
     {
-      "trip_id": "4_17601976",
+      "trip_id": "4_17705989",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "4",
@@ -20386,7 +20386,7 @@
       ]
     },
     {
-      "trip_id": "4_17601977",
+      "trip_id": "4_17705990",
       "direction_id": "1",
       "headsign": "LITEWSKA",
       "service_id": "4",
@@ -20556,7 +20556,7 @@
       ]
     },
     {
-      "trip_id": "4_17601978",
+      "trip_id": "4_17705991",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "4",
@@ -20708,7 +20708,7 @@
       ]
     },
     {
-      "trip_id": "4_17601979",
+      "trip_id": "4_17705992",
       "direction_id": "1",
       "headsign": "LITEWSKA",
       "service_id": "4",
@@ -20878,7 +20878,7 @@
       ]
     },
     {
-      "trip_id": "4_17601980",
+      "trip_id": "4_17705993",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "4",
@@ -21030,7 +21030,7 @@
       ]
     },
     {
-      "trip_id": "4_17601981",
+      "trip_id": "4_17705994",
       "direction_id": "1",
       "headsign": "LITEWSKA",
       "service_id": "4",
@@ -21200,7 +21200,7 @@
       ]
     },
     {
-      "trip_id": "4_17601982",
+      "trip_id": "4_17705995",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "4",
@@ -21352,7 +21352,7 @@
       ]
     },
     {
-      "trip_id": "4_17601983",
+      "trip_id": "4_17705996",
       "direction_id": "1",
       "headsign": "LITEWSKA",
       "service_id": "4",
@@ -21522,7 +21522,7 @@
       ]
     },
     {
-      "trip_id": "4_17601984",
+      "trip_id": "4_17705997",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "4",
@@ -21674,7 +21674,7 @@
       ]
     },
     {
-      "trip_id": "4_17601985",
+      "trip_id": "4_17705998",
       "direction_id": "1",
       "headsign": "LITEWSKA",
       "service_id": "4",
@@ -21844,7 +21844,7 @@
       ]
     },
     {
-      "trip_id": "4_17601986",
+      "trip_id": "4_17705999",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "4",
@@ -21996,7 +21996,7 @@
       ]
     },
     {
-      "trip_id": "4_17601987",
+      "trip_id": "4_17706000",
       "direction_id": "1",
       "headsign": "LITEWSKA",
       "service_id": "4",
@@ -22166,7 +22166,7 @@
       ]
     },
     {
-      "trip_id": "4_17601988",
+      "trip_id": "4_17706001",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "4",
@@ -22318,7 +22318,7 @@
       ]
     },
     {
-      "trip_id": "4_17601989",
+      "trip_id": "4_17706002",
       "direction_id": "1",
       "headsign": "LITEWSKA",
       "service_id": "4",
@@ -22488,7 +22488,7 @@
       ]
     },
     {
-      "trip_id": "4_17601990",
+      "trip_id": "4_17706003",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "4",
@@ -22640,7 +22640,7 @@
       ]
     },
     {
-      "trip_id": "4_17601991",
+      "trip_id": "4_17706004",
       "direction_id": "1",
       "headsign": "LITEWSKA",
       "service_id": "4",
@@ -22810,7 +22810,7 @@
       ]
     },
     {
-      "trip_id": "4_17601992",
+      "trip_id": "4_17706005",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "4",
@@ -22962,7 +22962,7 @@
       ]
     },
     {
-      "trip_id": "4_17601993",
+      "trip_id": "4_17706006",
       "direction_id": "1",
       "headsign": "LITEWSKA",
       "service_id": "4",
@@ -23132,7 +23132,7 @@
       ]
     },
     {
-      "trip_id": "4_17601994",
+      "trip_id": "4_17706007",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "4",
@@ -23284,7 +23284,7 @@
       ]
     },
     {
-      "trip_id": "4_17601995",
+      "trip_id": "4_17706008",
       "direction_id": "1",
       "headsign": "LITEWSKA",
       "service_id": "4",
@@ -23454,7 +23454,7 @@
       ]
     },
     {
-      "trip_id": "4_17601996",
+      "trip_id": "4_17706009",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "4",
@@ -23606,7 +23606,7 @@
       ]
     },
     {
-      "trip_id": "4_17601997",
+      "trip_id": "4_17706010",
       "direction_id": "1",
       "headsign": "LITEWSKA",
       "service_id": "4",
@@ -23776,7 +23776,7 @@
       ]
     },
     {
-      "trip_id": "6_17607306",
+      "trip_id": "6_17711319",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "6",
@@ -23928,7 +23928,7 @@
       ]
     },
     {
-      "trip_id": "6_17607307",
+      "trip_id": "6_17711320",
       "direction_id": "1",
       "headsign": "LITEWSKA",
       "service_id": "6",
@@ -24098,7 +24098,7 @@
       ]
     },
     {
-      "trip_id": "6_17607308",
+      "trip_id": "6_17711321",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "6",
@@ -24250,7 +24250,7 @@
       ]
     },
     {
-      "trip_id": "6_17607309",
+      "trip_id": "6_17711322",
       "direction_id": "1",
       "headsign": "LITEWSKA",
       "service_id": "6",
@@ -24420,7 +24420,7 @@
       ]
     },
     {
-      "trip_id": "6_17607310",
+      "trip_id": "6_17711323",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "6",
@@ -24572,7 +24572,7 @@
       ]
     },
     {
-      "trip_id": "6_17607311",
+      "trip_id": "6_17711324",
       "direction_id": "1",
       "headsign": "Psie Pole (Rondo Lotników Polskich)",
       "service_id": "6",
@@ -24679,7 +24679,7 @@
       ]
     },
     {
-      "trip_id": "6_17607312",
+      "trip_id": "6_17711325",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "6",
@@ -24831,7 +24831,7 @@
       ]
     },
     {
-      "trip_id": "6_17607313",
+      "trip_id": "6_17711326",
       "direction_id": "1",
       "headsign": "LITEWSKA",
       "service_id": "6",
@@ -25001,7 +25001,7 @@
       ]
     },
     {
-      "trip_id": "6_17607314",
+      "trip_id": "6_17711327",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "6",
@@ -25153,7 +25153,7 @@
       ]
     },
     {
-      "trip_id": "6_17607315",
+      "trip_id": "6_17711328",
       "direction_id": "1",
       "headsign": "LITEWSKA",
       "service_id": "6",
@@ -25323,7 +25323,7 @@
       ]
     },
     {
-      "trip_id": "6_17607316",
+      "trip_id": "6_17711329",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "6",
@@ -25475,7 +25475,7 @@
       ]
     },
     {
-      "trip_id": "6_17607317",
+      "trip_id": "6_17711330",
       "direction_id": "1",
       "headsign": "LITEWSKA",
       "service_id": "6",
@@ -25645,7 +25645,7 @@
       ]
     },
     {
-      "trip_id": "6_17607318",
+      "trip_id": "6_17711331",
       "direction_id": "1",
       "headsign": "LITEWSKA",
       "service_id": "6",
@@ -25815,7 +25815,7 @@
       ]
     },
     {
-      "trip_id": "6_17607319",
+      "trip_id": "6_17711332",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "6",
@@ -25967,7 +25967,7 @@
       ]
     },
     {
-      "trip_id": "6_17607320",
+      "trip_id": "6_17711333",
       "direction_id": "1",
       "headsign": "LITEWSKA",
       "service_id": "6",
@@ -26137,7 +26137,7 @@
       ]
     },
     {
-      "trip_id": "6_17607321",
+      "trip_id": "6_17711334",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "6",
@@ -26289,7 +26289,7 @@
       ]
     },
     {
-      "trip_id": "6_17607322",
+      "trip_id": "6_17711335",
       "direction_id": "1",
       "headsign": "LITEWSKA",
       "service_id": "6",
@@ -26459,7 +26459,7 @@
       ]
     },
     {
-      "trip_id": "6_17607323",
+      "trip_id": "6_17711336",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "6",
@@ -26611,7 +26611,7 @@
       ]
     },
     {
-      "trip_id": "6_17607324",
+      "trip_id": "6_17711337",
       "direction_id": "1",
       "headsign": "LITEWSKA",
       "service_id": "6",
@@ -26781,7 +26781,7 @@
       ]
     },
     {
-      "trip_id": "6_17607325",
+      "trip_id": "6_17711338",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "6",
@@ -26933,7 +26933,7 @@
       ]
     },
     {
-      "trip_id": "6_17607326",
+      "trip_id": "6_17711339",
       "direction_id": "1",
       "headsign": "LITEWSKA",
       "service_id": "6",
@@ -27103,7 +27103,7 @@
       ]
     },
     {
-      "trip_id": "6_17607327",
+      "trip_id": "6_17711340",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "6",
@@ -27255,7 +27255,7 @@
       ]
     },
     {
-      "trip_id": "6_17607328",
+      "trip_id": "6_17711341",
       "direction_id": "1",
       "headsign": "LITEWSKA",
       "service_id": "6",
@@ -27425,7 +27425,7 @@
       ]
     },
     {
-      "trip_id": "6_17607329",
+      "trip_id": "6_17711342",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "6",
@@ -27577,7 +27577,7 @@
       ]
     },
     {
-      "trip_id": "6_17607330",
+      "trip_id": "6_17711343",
       "direction_id": "1",
       "headsign": "LITEWSKA",
       "service_id": "6",
@@ -27747,7 +27747,7 @@
       ]
     },
     {
-      "trip_id": "6_17607331",
+      "trip_id": "6_17711344",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "6",
@@ -27899,7 +27899,7 @@
       ]
     },
     {
-      "trip_id": "6_17607332",
+      "trip_id": "6_17711345",
       "direction_id": "1",
       "headsign": "LITEWSKA",
       "service_id": "6",
@@ -28069,7 +28069,7 @@
       ]
     },
     {
-      "trip_id": "6_17607333",
+      "trip_id": "6_17711346",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "6",
@@ -28221,7 +28221,7 @@
       ]
     },
     {
-      "trip_id": "6_17607334",
+      "trip_id": "6_17711347",
       "direction_id": "1",
       "headsign": "Żmudzka",
       "service_id": "6",
@@ -28364,7 +28364,7 @@
       ]
     },
     {
-      "trip_id": "6_17607335",
+      "trip_id": "6_17711348",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "6",
@@ -28516,7 +28516,7 @@
       ]
     },
     {
-      "trip_id": "6_17607336",
+      "trip_id": "6_17711349",
       "direction_id": "1",
       "headsign": "LITEWSKA",
       "service_id": "6",
@@ -28686,7 +28686,7 @@
       ]
     },
     {
-      "trip_id": "6_17607337",
+      "trip_id": "6_17711350",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "6",
@@ -28838,7 +28838,7 @@
       ]
     },
     {
-      "trip_id": "6_17607338",
+      "trip_id": "6_17711351",
       "direction_id": "1",
       "headsign": "LITEWSKA",
       "service_id": "6",
@@ -29008,7 +29008,7 @@
       ]
     },
     {
-      "trip_id": "6_17607339",
+      "trip_id": "6_17711352",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "6",
@@ -29160,7 +29160,7 @@
       ]
     },
     {
-      "trip_id": "6_17607340",
+      "trip_id": "6_17711353",
       "direction_id": "1",
       "headsign": "LITEWSKA",
       "service_id": "6",
@@ -29330,7 +29330,7 @@
       ]
     },
     {
-      "trip_id": "6_17607341",
+      "trip_id": "6_17711354",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "6",
@@ -29482,7 +29482,7 @@
       ]
     },
     {
-      "trip_id": "6_17607342",
+      "trip_id": "6_17711355",
       "direction_id": "1",
       "headsign": "LITEWSKA",
       "service_id": "6",
@@ -29652,7 +29652,7 @@
       ]
     },
     {
-      "trip_id": "6_17607343",
+      "trip_id": "6_17711356",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "6",
@@ -29804,7 +29804,7 @@
       ]
     },
     {
-      "trip_id": "6_17607344",
+      "trip_id": "6_17711357",
       "direction_id": "1",
       "headsign": "LITEWSKA",
       "service_id": "6",
@@ -29974,7 +29974,7 @@
       ]
     },
     {
-      "trip_id": "6_17607345",
+      "trip_id": "6_17711358",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "6",
@@ -30126,7 +30126,7 @@
       ]
     },
     {
-      "trip_id": "6_17607346",
+      "trip_id": "6_17711359",
       "direction_id": "1",
       "headsign": "LITEWSKA",
       "service_id": "6",
@@ -30296,7 +30296,7 @@
       ]
     },
     {
-      "trip_id": "6_17607347",
+      "trip_id": "6_17711360",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "6",
@@ -30448,7 +30448,7 @@
       ]
     },
     {
-      "trip_id": "6_17607348",
+      "trip_id": "6_17711361",
       "direction_id": "1",
       "headsign": "LITEWSKA",
       "service_id": "6",
@@ -30618,7 +30618,7 @@
       ]
     },
     {
-      "trip_id": "6_17607349",
+      "trip_id": "6_17711362",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "6",
@@ -30770,7 +30770,7 @@
       ]
     },
     {
-      "trip_id": "6_17607350",
+      "trip_id": "6_17711363",
       "direction_id": "1",
       "headsign": "LITEWSKA",
       "service_id": "6",
@@ -30940,7 +30940,7 @@
       ]
     },
     {
-      "trip_id": "6_17607351",
+      "trip_id": "6_17711364",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "6",
@@ -31092,7 +31092,7 @@
       ]
     },
     {
-      "trip_id": "6_17607352",
+      "trip_id": "6_17711365",
       "direction_id": "1",
       "headsign": "LITEWSKA",
       "service_id": "6",
@@ -31262,7 +31262,7 @@
       ]
     },
     {
-      "trip_id": "6_17607353",
+      "trip_id": "6_17711366",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "6",
@@ -31414,7 +31414,7 @@
       ]
     },
     {
-      "trip_id": "6_17607354",
+      "trip_id": "6_17711367",
       "direction_id": "1",
       "headsign": "LITEWSKA",
       "service_id": "6",
@@ -31584,7 +31584,7 @@
       ]
     },
     {
-      "trip_id": "6_17607355",
+      "trip_id": "6_17711368",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "6",
@@ -31736,7 +31736,7 @@
       ]
     },
     {
-      "trip_id": "6_17607356",
+      "trip_id": "6_17711369",
       "direction_id": "1",
       "headsign": "LITEWSKA",
       "service_id": "6",
@@ -31906,7 +31906,7 @@
       ]
     },
     {
-      "trip_id": "6_17607357",
+      "trip_id": "6_17711370",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "6",
@@ -32058,7 +32058,7 @@
       ]
     },
     {
-      "trip_id": "6_17607358",
+      "trip_id": "6_17711371",
       "direction_id": "1",
       "headsign": "LITEWSKA",
       "service_id": "6",
@@ -32228,7 +32228,7 @@
       ]
     },
     {
-      "trip_id": "6_17607359",
+      "trip_id": "6_17711372",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "6",
@@ -32380,7 +32380,7 @@
       ]
     },
     {
-      "trip_id": "6_17607360",
+      "trip_id": "6_17711373",
       "direction_id": "1",
       "headsign": "LITEWSKA",
       "service_id": "6",
@@ -32550,7 +32550,7 @@
       ]
     },
     {
-      "trip_id": "6_17607361",
+      "trip_id": "6_17711374",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "6",
@@ -32702,7 +32702,7 @@
       ]
     },
     {
-      "trip_id": "6_17607362",
+      "trip_id": "6_17711375",
       "direction_id": "1",
       "headsign": "LITEWSKA",
       "service_id": "6",
@@ -32872,7 +32872,7 @@
       ]
     },
     {
-      "trip_id": "6_17607363",
+      "trip_id": "6_17711376",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "6",
@@ -33024,7 +33024,7 @@
       ]
     },
     {
-      "trip_id": "6_17607364",
+      "trip_id": "6_17711377",
       "direction_id": "1",
       "headsign": "LITEWSKA",
       "service_id": "6",
@@ -33194,7 +33194,7 @@
       ]
     },
     {
-      "trip_id": "6_17607365",
+      "trip_id": "6_17711378",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "6",
@@ -33346,7 +33346,7 @@
       ]
     },
     {
-      "trip_id": "6_17607366",
+      "trip_id": "6_17711379",
       "direction_id": "1",
       "headsign": "LITEWSKA",
       "service_id": "6",
@@ -33516,7 +33516,7 @@
       ]
     },
     {
-      "trip_id": "6_17607367",
+      "trip_id": "6_17711380",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "6",
@@ -33668,7 +33668,7 @@
       ]
     },
     {
-      "trip_id": "6_17607368",
+      "trip_id": "6_17711381",
       "direction_id": "1",
       "headsign": "LITEWSKA",
       "service_id": "6",
@@ -33838,7 +33838,7 @@
       ]
     },
     {
-      "trip_id": "6_17607369",
+      "trip_id": "6_17711382",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "6",
@@ -33990,7 +33990,7 @@
       ]
     },
     {
-      "trip_id": "6_17607370",
+      "trip_id": "6_17711383",
       "direction_id": "1",
       "headsign": "LITEWSKA",
       "service_id": "6",
@@ -34160,7 +34160,7 @@
       ]
     },
     {
-      "trip_id": "6_17607371",
+      "trip_id": "6_17711384",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "6",
@@ -34285,7 +34285,7 @@
       ]
     },
     {
-      "trip_id": "6_17607372",
+      "trip_id": "6_17711385",
       "direction_id": "1",
       "headsign": "LITEWSKA",
       "service_id": "6",
@@ -34455,7 +34455,7 @@
       ]
     },
     {
-      "trip_id": "6_17607373",
+      "trip_id": "6_17711386",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "6",
@@ -34607,7 +34607,7 @@
       ]
     },
     {
-      "trip_id": "6_17607374",
+      "trip_id": "6_17711387",
       "direction_id": "1",
       "headsign": "LITEWSKA",
       "service_id": "6",
@@ -34777,7 +34777,7 @@
       ]
     },
     {
-      "trip_id": "6_17607375",
+      "trip_id": "6_17711388",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "6",
@@ -34929,7 +34929,7 @@
       ]
     },
     {
-      "trip_id": "6_17607376",
+      "trip_id": "6_17711389",
       "direction_id": "1",
       "headsign": "LITEWSKA",
       "service_id": "6",
@@ -35099,7 +35099,7 @@
       ]
     },
     {
-      "trip_id": "6_17607377",
+      "trip_id": "6_17711390",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "6",
@@ -35251,7 +35251,7 @@
       ]
     },
     {
-      "trip_id": "6_17607378",
+      "trip_id": "6_17711391",
       "direction_id": "1",
       "headsign": "LITEWSKA",
       "service_id": "6",
@@ -35421,7 +35421,7 @@
       ]
     },
     {
-      "trip_id": "6_17607379",
+      "trip_id": "6_17711392",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "6",
@@ -35573,7 +35573,7 @@
       ]
     },
     {
-      "trip_id": "6_17607380",
+      "trip_id": "6_17711393",
       "direction_id": "1",
       "headsign": "LITEWSKA",
       "service_id": "6",
@@ -35743,7 +35743,7 @@
       ]
     },
     {
-      "trip_id": "6_17607381",
+      "trip_id": "6_17711394",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "6",
@@ -35895,7 +35895,7 @@
       ]
     },
     {
-      "trip_id": "6_17607382",
+      "trip_id": "6_17711395",
       "direction_id": "1",
       "headsign": "LITEWSKA",
       "service_id": "6",
@@ -36065,7 +36065,7 @@
       ]
     },
     {
-      "trip_id": "6_17607383",
+      "trip_id": "6_17711396",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "6",
@@ -36217,7 +36217,7 @@
       ]
     },
     {
-      "trip_id": "6_17607384",
+      "trip_id": "6_17711397",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "6",
@@ -36342,7 +36342,7 @@
       ]
     },
     {
-      "trip_id": "6_17607385",
+      "trip_id": "6_17711398",
       "direction_id": "1",
       "headsign": "LITEWSKA",
       "service_id": "6",
@@ -36512,7 +36512,7 @@
       ]
     },
     {
-      "trip_id": "6_17607386",
+      "trip_id": "6_17711399",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "6",
@@ -36664,7 +36664,7 @@
       ]
     },
     {
-      "trip_id": "6_17607387",
+      "trip_id": "6_17711400",
       "direction_id": "1",
       "headsign": "LITEWSKA",
       "service_id": "6",
@@ -36834,7 +36834,7 @@
       ]
     },
     {
-      "trip_id": "6_17607388",
+      "trip_id": "6_17711401",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "6",
@@ -36986,7 +36986,7 @@
       ]
     },
     {
-      "trip_id": "6_17607389",
+      "trip_id": "6_17711402",
       "direction_id": "1",
       "headsign": "LITEWSKA",
       "service_id": "6",
@@ -37156,7 +37156,7 @@
       ]
     },
     {
-      "trip_id": "6_17607390",
+      "trip_id": "6_17711403",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "6",
@@ -37308,7 +37308,7 @@
       ]
     },
     {
-      "trip_id": "6_17607391",
+      "trip_id": "6_17711404",
       "direction_id": "1",
       "headsign": "LITEWSKA",
       "service_id": "6",
@@ -37478,7 +37478,7 @@
       ]
     },
     {
-      "trip_id": "6_17607392",
+      "trip_id": "6_17711405",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "6",
@@ -37630,7 +37630,7 @@
       ]
     },
     {
-      "trip_id": "6_17607393",
+      "trip_id": "6_17711406",
       "direction_id": "1",
       "headsign": "LITEWSKA",
       "service_id": "6",
@@ -37800,7 +37800,7 @@
       ]
     },
     {
-      "trip_id": "6_17607394",
+      "trip_id": "6_17711407",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "6",
@@ -37952,7 +37952,7 @@
       ]
     },
     {
-      "trip_id": "6_17607395",
+      "trip_id": "6_17711408",
       "direction_id": "1",
       "headsign": "LITEWSKA",
       "service_id": "6",
@@ -38122,7 +38122,7 @@
       ]
     },
     {
-      "trip_id": "6_17607396",
+      "trip_id": "6_17711409",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "6",
@@ -38274,7 +38274,7 @@
       ]
     },
     {
-      "trip_id": "6_17607397",
+      "trip_id": "6_17711410",
       "direction_id": "1",
       "headsign": "LITEWSKA",
       "service_id": "6",
@@ -38444,7 +38444,7 @@
       ]
     },
     {
-      "trip_id": "6_17607398",
+      "trip_id": "6_17711411",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "6",
@@ -38596,7 +38596,7 @@
       ]
     },
     {
-      "trip_id": "6_17607399",
+      "trip_id": "6_17711412",
       "direction_id": "1",
       "headsign": "LITEWSKA",
       "service_id": "6",
@@ -38766,7 +38766,7 @@
       ]
     },
     {
-      "trip_id": "6_17607400",
+      "trip_id": "6_17711413",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "6",
@@ -38918,7 +38918,7 @@
       ]
     },
     {
-      "trip_id": "6_17607401",
+      "trip_id": "6_17711414",
       "direction_id": "1",
       "headsign": "LITEWSKA",
       "service_id": "6",
@@ -39088,7 +39088,7 @@
       ]
     },
     {
-      "trip_id": "6_17607402",
+      "trip_id": "6_17711415",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "6",
@@ -39240,7 +39240,7 @@
       ]
     },
     {
-      "trip_id": "6_17607403",
+      "trip_id": "6_17711416",
       "direction_id": "1",
       "headsign": "LITEWSKA",
       "service_id": "6",
@@ -39410,7 +39410,7 @@
       ]
     },
     {
-      "trip_id": "6_17607404",
+      "trip_id": "6_17711417",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "6",
@@ -39562,7 +39562,7 @@
       ]
     },
     {
-      "trip_id": "6_17607405",
+      "trip_id": "6_17711418",
       "direction_id": "1",
       "headsign": "LITEWSKA",
       "service_id": "6",
@@ -39732,7 +39732,7 @@
       ]
     },
     {
-      "trip_id": "6_17607406",
+      "trip_id": "6_17711419",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "6",
@@ -39884,7 +39884,7 @@
       ]
     },
     {
-      "trip_id": "6_17607407",
+      "trip_id": "6_17711420",
       "direction_id": "1",
       "headsign": "LITEWSKA",
       "service_id": "6",
@@ -40054,7 +40054,7 @@
       ]
     },
     {
-      "trip_id": "6_17607408",
+      "trip_id": "6_17711421",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "6",
@@ -40206,7 +40206,7 @@
       ]
     },
     {
-      "trip_id": "6_17607409",
+      "trip_id": "6_17711422",
       "direction_id": "1",
       "headsign": "LITEWSKA",
       "service_id": "6",
@@ -40376,7 +40376,7 @@
       ]
     },
     {
-      "trip_id": "8_17614132",
+      "trip_id": "8_17718145",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "8",
@@ -40528,7 +40528,7 @@
       ]
     },
     {
-      "trip_id": "8_17614133",
+      "trip_id": "8_17718146",
       "direction_id": "1",
       "headsign": "LITEWSKA",
       "service_id": "8",
@@ -40698,7 +40698,7 @@
       ]
     },
     {
-      "trip_id": "8_17614134",
+      "trip_id": "8_17718147",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "8",
@@ -40850,7 +40850,7 @@
       ]
     },
     {
-      "trip_id": "8_17614135",
+      "trip_id": "8_17718148",
       "direction_id": "1",
       "headsign": "LITEWSKA",
       "service_id": "8",
@@ -41020,7 +41020,7 @@
       ]
     },
     {
-      "trip_id": "8_17614136",
+      "trip_id": "8_17718149",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "8",
@@ -41172,7 +41172,7 @@
       ]
     },
     {
-      "trip_id": "8_17614137",
+      "trip_id": "8_17718150",
       "direction_id": "1",
       "headsign": "Psie Pole (Rondo Lotników Polskich)",
       "service_id": "8",
@@ -41279,7 +41279,7 @@
       ]
     },
     {
-      "trip_id": "8_17614138",
+      "trip_id": "8_17718151",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "8",
@@ -41431,7 +41431,7 @@
       ]
     },
     {
-      "trip_id": "8_17614139",
+      "trip_id": "8_17718152",
       "direction_id": "1",
       "headsign": "LITEWSKA",
       "service_id": "8",
@@ -41601,7 +41601,7 @@
       ]
     },
     {
-      "trip_id": "8_17614140",
+      "trip_id": "8_17718153",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "8",
@@ -41753,7 +41753,7 @@
       ]
     },
     {
-      "trip_id": "8_17614141",
+      "trip_id": "8_17718154",
       "direction_id": "1",
       "headsign": "LITEWSKA",
       "service_id": "8",
@@ -41923,7 +41923,7 @@
       ]
     },
     {
-      "trip_id": "8_17614142",
+      "trip_id": "8_17718155",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "8",
@@ -42075,7 +42075,7 @@
       ]
     },
     {
-      "trip_id": "8_17614143",
+      "trip_id": "8_17718156",
       "direction_id": "1",
       "headsign": "LITEWSKA",
       "service_id": "8",
@@ -42245,7 +42245,7 @@
       ]
     },
     {
-      "trip_id": "8_17614144",
+      "trip_id": "8_17718157",
       "direction_id": "1",
       "headsign": "LITEWSKA",
       "service_id": "8",
@@ -42415,7 +42415,7 @@
       ]
     },
     {
-      "trip_id": "8_17614145",
+      "trip_id": "8_17718158",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "8",
@@ -42567,7 +42567,7 @@
       ]
     },
     {
-      "trip_id": "8_17614146",
+      "trip_id": "8_17718159",
       "direction_id": "1",
       "headsign": "LITEWSKA",
       "service_id": "8",
@@ -42737,7 +42737,7 @@
       ]
     },
     {
-      "trip_id": "8_17614147",
+      "trip_id": "8_17718160",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "8",
@@ -42889,7 +42889,7 @@
       ]
     },
     {
-      "trip_id": "8_17614148",
+      "trip_id": "8_17718161",
       "direction_id": "1",
       "headsign": "LITEWSKA",
       "service_id": "8",
@@ -43059,7 +43059,7 @@
       ]
     },
     {
-      "trip_id": "8_17614149",
+      "trip_id": "8_17718162",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "8",
@@ -43211,7 +43211,7 @@
       ]
     },
     {
-      "trip_id": "8_17614150",
+      "trip_id": "8_17718163",
       "direction_id": "1",
       "headsign": "LITEWSKA",
       "service_id": "8",
@@ -43381,7 +43381,7 @@
       ]
     },
     {
-      "trip_id": "8_17614151",
+      "trip_id": "8_17718164",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "8",
@@ -43533,7 +43533,7 @@
       ]
     },
     {
-      "trip_id": "8_17614152",
+      "trip_id": "8_17718165",
       "direction_id": "1",
       "headsign": "LITEWSKA",
       "service_id": "8",
@@ -43703,7 +43703,7 @@
       ]
     },
     {
-      "trip_id": "8_17614153",
+      "trip_id": "8_17718166",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "8",
@@ -43855,7 +43855,7 @@
       ]
     },
     {
-      "trip_id": "8_17614154",
+      "trip_id": "8_17718167",
       "direction_id": "1",
       "headsign": "LITEWSKA",
       "service_id": "8",
@@ -44025,7 +44025,7 @@
       ]
     },
     {
-      "trip_id": "8_17614155",
+      "trip_id": "8_17718168",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "8",
@@ -44177,7 +44177,7 @@
       ]
     },
     {
-      "trip_id": "8_17614156",
+      "trip_id": "8_17718169",
       "direction_id": "1",
       "headsign": "LITEWSKA",
       "service_id": "8",
@@ -44347,7 +44347,7 @@
       ]
     },
     {
-      "trip_id": "8_17614157",
+      "trip_id": "8_17718170",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "8",
@@ -44499,7 +44499,7 @@
       ]
     },
     {
-      "trip_id": "8_17614158",
+      "trip_id": "8_17718171",
       "direction_id": "1",
       "headsign": "LITEWSKA",
       "service_id": "8",
@@ -44669,7 +44669,7 @@
       ]
     },
     {
-      "trip_id": "8_17614159",
+      "trip_id": "8_17718172",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "8",
@@ -44821,7 +44821,7 @@
       ]
     },
     {
-      "trip_id": "8_17614160",
+      "trip_id": "8_17718173",
       "direction_id": "1",
       "headsign": "Żmudzka",
       "service_id": "8",
@@ -44964,7 +44964,7 @@
       ]
     },
     {
-      "trip_id": "8_17614161",
+      "trip_id": "8_17718174",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "8",
@@ -45116,7 +45116,7 @@
       ]
     },
     {
-      "trip_id": "8_17614162",
+      "trip_id": "8_17718175",
       "direction_id": "1",
       "headsign": "LITEWSKA",
       "service_id": "8",
@@ -45286,7 +45286,7 @@
       ]
     },
     {
-      "trip_id": "8_17614163",
+      "trip_id": "8_17718176",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "8",
@@ -45438,7 +45438,7 @@
       ]
     },
     {
-      "trip_id": "8_17614164",
+      "trip_id": "8_17718177",
       "direction_id": "1",
       "headsign": "LITEWSKA",
       "service_id": "8",
@@ -45608,7 +45608,7 @@
       ]
     },
     {
-      "trip_id": "8_17614165",
+      "trip_id": "8_17718178",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "8",
@@ -45760,7 +45760,7 @@
       ]
     },
     {
-      "trip_id": "8_17614166",
+      "trip_id": "8_17718179",
       "direction_id": "1",
       "headsign": "LITEWSKA",
       "service_id": "8",
@@ -45930,7 +45930,7 @@
       ]
     },
     {
-      "trip_id": "8_17614167",
+      "trip_id": "8_17718180",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "8",
@@ -46082,7 +46082,7 @@
       ]
     },
     {
-      "trip_id": "8_17614168",
+      "trip_id": "8_17718181",
       "direction_id": "1",
       "headsign": "LITEWSKA",
       "service_id": "8",
@@ -46252,7 +46252,7 @@
       ]
     },
     {
-      "trip_id": "8_17614169",
+      "trip_id": "8_17718182",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "8",
@@ -46404,7 +46404,7 @@
       ]
     },
     {
-      "trip_id": "8_17614170",
+      "trip_id": "8_17718183",
       "direction_id": "1",
       "headsign": "LITEWSKA",
       "service_id": "8",
@@ -46574,7 +46574,7 @@
       ]
     },
     {
-      "trip_id": "8_17614171",
+      "trip_id": "8_17718184",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "8",
@@ -46726,7 +46726,7 @@
       ]
     },
     {
-      "trip_id": "8_17614172",
+      "trip_id": "8_17718185",
       "direction_id": "1",
       "headsign": "LITEWSKA",
       "service_id": "8",
@@ -46896,7 +46896,7 @@
       ]
     },
     {
-      "trip_id": "8_17614173",
+      "trip_id": "8_17718186",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "8",
@@ -47048,7 +47048,7 @@
       ]
     },
     {
-      "trip_id": "8_17614174",
+      "trip_id": "8_17718187",
       "direction_id": "1",
       "headsign": "LITEWSKA",
       "service_id": "8",
@@ -47218,7 +47218,7 @@
       ]
     },
     {
-      "trip_id": "8_17614175",
+      "trip_id": "8_17718188",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "8",
@@ -47370,7 +47370,7 @@
       ]
     },
     {
-      "trip_id": "8_17614176",
+      "trip_id": "8_17718189",
       "direction_id": "1",
       "headsign": "LITEWSKA",
       "service_id": "8",
@@ -47540,7 +47540,7 @@
       ]
     },
     {
-      "trip_id": "8_17614177",
+      "trip_id": "8_17718190",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "8",
@@ -47692,7 +47692,7 @@
       ]
     },
     {
-      "trip_id": "8_17614178",
+      "trip_id": "8_17718191",
       "direction_id": "1",
       "headsign": "LITEWSKA",
       "service_id": "8",
@@ -47862,7 +47862,7 @@
       ]
     },
     {
-      "trip_id": "8_17614179",
+      "trip_id": "8_17718192",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "8",
@@ -48014,7 +48014,7 @@
       ]
     },
     {
-      "trip_id": "8_17614180",
+      "trip_id": "8_17718193",
       "direction_id": "1",
       "headsign": "LITEWSKA",
       "service_id": "8",
@@ -48184,7 +48184,7 @@
       ]
     },
     {
-      "trip_id": "8_17614181",
+      "trip_id": "8_17718194",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "8",
@@ -48336,7 +48336,7 @@
       ]
     },
     {
-      "trip_id": "8_17614182",
+      "trip_id": "8_17718195",
       "direction_id": "1",
       "headsign": "LITEWSKA",
       "service_id": "8",
@@ -48506,7 +48506,7 @@
       ]
     },
     {
-      "trip_id": "8_17614183",
+      "trip_id": "8_17718196",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "8",
@@ -48658,7 +48658,7 @@
       ]
     },
     {
-      "trip_id": "8_17614184",
+      "trip_id": "8_17718197",
       "direction_id": "1",
       "headsign": "LITEWSKA",
       "service_id": "8",
@@ -48828,7 +48828,7 @@
       ]
     },
     {
-      "trip_id": "8_17614185",
+      "trip_id": "8_17718198",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "8",
@@ -48980,7 +48980,7 @@
       ]
     },
     {
-      "trip_id": "8_17614186",
+      "trip_id": "8_17718199",
       "direction_id": "1",
       "headsign": "LITEWSKA",
       "service_id": "8",
@@ -49150,7 +49150,7 @@
       ]
     },
     {
-      "trip_id": "8_17614187",
+      "trip_id": "8_17718200",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "8",
@@ -49302,7 +49302,7 @@
       ]
     },
     {
-      "trip_id": "8_17614188",
+      "trip_id": "8_17718201",
       "direction_id": "1",
       "headsign": "LITEWSKA",
       "service_id": "8",
@@ -49472,7 +49472,7 @@
       ]
     },
     {
-      "trip_id": "8_17614189",
+      "trip_id": "8_17718202",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "8",
@@ -49624,7 +49624,7 @@
       ]
     },
     {
-      "trip_id": "8_17614190",
+      "trip_id": "8_17718203",
       "direction_id": "1",
       "headsign": "LITEWSKA",
       "service_id": "8",
@@ -49794,7 +49794,7 @@
       ]
     },
     {
-      "trip_id": "8_17614191",
+      "trip_id": "8_17718204",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "8",
@@ -49946,7 +49946,7 @@
       ]
     },
     {
-      "trip_id": "8_17614192",
+      "trip_id": "8_17718205",
       "direction_id": "1",
       "headsign": "LITEWSKA",
       "service_id": "8",
@@ -50116,7 +50116,7 @@
       ]
     },
     {
-      "trip_id": "8_17614193",
+      "trip_id": "8_17718206",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "8",
@@ -50268,7 +50268,7 @@
       ]
     },
     {
-      "trip_id": "8_17614194",
+      "trip_id": "8_17718207",
       "direction_id": "1",
       "headsign": "LITEWSKA",
       "service_id": "8",
@@ -50438,7 +50438,7 @@
       ]
     },
     {
-      "trip_id": "8_17614195",
+      "trip_id": "8_17718208",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "8",
@@ -50590,7 +50590,7 @@
       ]
     },
     {
-      "trip_id": "8_17614196",
+      "trip_id": "8_17718209",
       "direction_id": "1",
       "headsign": "LITEWSKA",
       "service_id": "8",
@@ -50760,7 +50760,7 @@
       ]
     },
     {
-      "trip_id": "8_17614197",
+      "trip_id": "8_17718210",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "8",
@@ -50885,7 +50885,7 @@
       ]
     },
     {
-      "trip_id": "8_17614198",
+      "trip_id": "8_17718211",
       "direction_id": "1",
       "headsign": "LITEWSKA",
       "service_id": "8",
@@ -51055,7 +51055,7 @@
       ]
     },
     {
-      "trip_id": "8_17614199",
+      "trip_id": "8_17718212",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "8",
@@ -51207,7 +51207,7 @@
       ]
     },
     {
-      "trip_id": "8_17614200",
+      "trip_id": "8_17718213",
       "direction_id": "1",
       "headsign": "LITEWSKA",
       "service_id": "8",
@@ -51377,7 +51377,7 @@
       ]
     },
     {
-      "trip_id": "8_17614201",
+      "trip_id": "8_17718214",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "8",
@@ -51529,7 +51529,7 @@
       ]
     },
     {
-      "trip_id": "8_17614202",
+      "trip_id": "8_17718215",
       "direction_id": "1",
       "headsign": "LITEWSKA",
       "service_id": "8",
@@ -51699,7 +51699,7 @@
       ]
     },
     {
-      "trip_id": "8_17614203",
+      "trip_id": "8_17718216",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "8",
@@ -51851,7 +51851,7 @@
       ]
     },
     {
-      "trip_id": "8_17614204",
+      "trip_id": "8_17718217",
       "direction_id": "1",
       "headsign": "LITEWSKA",
       "service_id": "8",
@@ -52021,7 +52021,7 @@
       ]
     },
     {
-      "trip_id": "8_17614205",
+      "trip_id": "8_17718218",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "8",
@@ -52173,7 +52173,7 @@
       ]
     },
     {
-      "trip_id": "8_17614206",
+      "trip_id": "8_17718219",
       "direction_id": "1",
       "headsign": "LITEWSKA",
       "service_id": "8",
@@ -52343,7 +52343,7 @@
       ]
     },
     {
-      "trip_id": "8_17614207",
+      "trip_id": "8_17718220",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "8",
@@ -52495,7 +52495,7 @@
       ]
     },
     {
-      "trip_id": "8_17614208",
+      "trip_id": "8_17718221",
       "direction_id": "1",
       "headsign": "LITEWSKA",
       "service_id": "8",
@@ -52665,7 +52665,7 @@
       ]
     },
     {
-      "trip_id": "8_17614209",
+      "trip_id": "8_17718222",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "8",
@@ -52817,7 +52817,7 @@
       ]
     },
     {
-      "trip_id": "8_17614210",
+      "trip_id": "8_17718223",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "8",
@@ -52942,7 +52942,7 @@
       ]
     },
     {
-      "trip_id": "8_17614211",
+      "trip_id": "8_17718224",
       "direction_id": "1",
       "headsign": "LITEWSKA",
       "service_id": "8",
@@ -53112,7 +53112,7 @@
       ]
     },
     {
-      "trip_id": "8_17614212",
+      "trip_id": "8_17718225",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "8",
@@ -53264,7 +53264,7 @@
       ]
     },
     {
-      "trip_id": "8_17614213",
+      "trip_id": "8_17718226",
       "direction_id": "1",
       "headsign": "LITEWSKA",
       "service_id": "8",
@@ -53434,7 +53434,7 @@
       ]
     },
     {
-      "trip_id": "8_17614214",
+      "trip_id": "8_17718227",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "8",
@@ -53586,7 +53586,7 @@
       ]
     },
     {
-      "trip_id": "8_17614215",
+      "trip_id": "8_17718228",
       "direction_id": "1",
       "headsign": "LITEWSKA",
       "service_id": "8",
@@ -53756,7 +53756,7 @@
       ]
     },
     {
-      "trip_id": "8_17614216",
+      "trip_id": "8_17718229",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "8",
@@ -53908,7 +53908,7 @@
       ]
     },
     {
-      "trip_id": "8_17614217",
+      "trip_id": "8_17718230",
       "direction_id": "1",
       "headsign": "LITEWSKA",
       "service_id": "8",
@@ -54078,7 +54078,7 @@
       ]
     },
     {
-      "trip_id": "8_17614218",
+      "trip_id": "8_17718231",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "8",
@@ -54230,7 +54230,7 @@
       ]
     },
     {
-      "trip_id": "8_17614219",
+      "trip_id": "8_17718232",
       "direction_id": "1",
       "headsign": "LITEWSKA",
       "service_id": "8",
@@ -54400,7 +54400,7 @@
       ]
     },
     {
-      "trip_id": "8_17614220",
+      "trip_id": "8_17718233",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "8",
@@ -54552,7 +54552,7 @@
       ]
     },
     {
-      "trip_id": "8_17614221",
+      "trip_id": "8_17718234",
       "direction_id": "1",
       "headsign": "LITEWSKA",
       "service_id": "8",
@@ -54722,7 +54722,7 @@
       ]
     },
     {
-      "trip_id": "8_17614222",
+      "trip_id": "8_17718235",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "8",
@@ -54874,7 +54874,7 @@
       ]
     },
     {
-      "trip_id": "8_17614223",
+      "trip_id": "8_17718236",
       "direction_id": "1",
       "headsign": "LITEWSKA",
       "service_id": "8",
@@ -55044,7 +55044,7 @@
       ]
     },
     {
-      "trip_id": "8_17614224",
+      "trip_id": "8_17718237",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "8",
@@ -55196,7 +55196,7 @@
       ]
     },
     {
-      "trip_id": "8_17614225",
+      "trip_id": "8_17718238",
       "direction_id": "1",
       "headsign": "LITEWSKA",
       "service_id": "8",
@@ -55366,7 +55366,7 @@
       ]
     },
     {
-      "trip_id": "8_17614226",
+      "trip_id": "8_17718239",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "8",
@@ -55518,7 +55518,7 @@
       ]
     },
     {
-      "trip_id": "8_17614227",
+      "trip_id": "8_17718240",
       "direction_id": "1",
       "headsign": "LITEWSKA",
       "service_id": "8",
@@ -55688,7 +55688,7 @@
       ]
     },
     {
-      "trip_id": "8_17614228",
+      "trip_id": "8_17718241",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "8",
@@ -55840,7 +55840,7 @@
       ]
     },
     {
-      "trip_id": "8_17614229",
+      "trip_id": "8_17718242",
       "direction_id": "1",
       "headsign": "LITEWSKA",
       "service_id": "8",
@@ -56010,7 +56010,7 @@
       ]
     },
     {
-      "trip_id": "8_17614230",
+      "trip_id": "8_17718243",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "8",
@@ -56162,7 +56162,7 @@
       ]
     },
     {
-      "trip_id": "8_17614231",
+      "trip_id": "8_17718244",
       "direction_id": "1",
       "headsign": "LITEWSKA",
       "service_id": "8",
@@ -56332,7 +56332,7 @@
       ]
     },
     {
-      "trip_id": "8_17614232",
+      "trip_id": "8_17718245",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "8",
@@ -56484,7 +56484,7 @@
       ]
     },
     {
-      "trip_id": "8_17614233",
+      "trip_id": "8_17718246",
       "direction_id": "1",
       "headsign": "LITEWSKA",
       "service_id": "8",
@@ -56654,7 +56654,7 @@
       ]
     },
     {
-      "trip_id": "8_17614234",
+      "trip_id": "8_17718247",
       "direction_id": "0",
       "headsign": "Reja",
       "service_id": "8",
@@ -56806,7 +56806,7 @@
       ]
     },
     {
-      "trip_id": "8_17614235",
+      "trip_id": "8_17718248",
       "direction_id": "1",
       "headsign": "LITEWSKA",
       "service_id": "8",

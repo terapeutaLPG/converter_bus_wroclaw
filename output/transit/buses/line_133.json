@@ -2,7 +2,7 @@
   "line": "133",
   "trips": [
     {
-      "trip_id": "3_17597606",
+      "trip_id": "3_17701619",
       "direction_id": "0",
       "headsign": "ROD Bielany",
       "service_id": "3",
@@ -307,7 +307,7 @@
       ]
     },
     {
-      "trip_id": "3_17597607",
+      "trip_id": "3_17701620",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "3",
@@ -612,7 +612,7 @@
       ]
     },
     {
-      "trip_id": "3_17597608",
+      "trip_id": "3_17701621",
       "direction_id": "0",
       "headsign": "C.H. Aleja Bielany",
       "service_id": "3",
@@ -926,7 +926,7 @@
       ]
     },
     {
-      "trip_id": "3_17597609",
+      "trip_id": "3_17701622",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "3",
@@ -1222,7 +1222,7 @@
       ]
     },
     {
-      "trip_id": "3_17597610",
+      "trip_id": "3_17701623",
       "direction_id": "0",
       "headsign": "AUCHAN",
       "service_id": "3",
@@ -1545,7 +1545,7 @@
       ]
     },
     {
-      "trip_id": "3_17597611",
+      "trip_id": "3_17701624",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "3",
@@ -1850,7 +1850,7 @@
       ]
     },
     {
-      "trip_id": "3_17597612",
+      "trip_id": "3_17701625",
       "direction_id": "0",
       "headsign": "C.H. Aleja Bielany",
       "service_id": "3",
@@ -2164,7 +2164,7 @@
       ]
     },
     {
-      "trip_id": "3_17597613",
+      "trip_id": "3_17701626",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "3",
@@ -2460,7 +2460,7 @@
       ]
     },
     {
-      "trip_id": "3_17597614",
+      "trip_id": "3_17701627",
       "direction_id": "0",
       "headsign": "AUCHAN",
       "service_id": "3",
@@ -2783,7 +2783,7 @@
       ]
     },
     {
-      "trip_id": "3_17597615",
+      "trip_id": "3_17701628",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "3",
@@ -3088,7 +3088,7 @@
       ]
     },
     {
-      "trip_id": "3_17597616",
+      "trip_id": "3_17701629",
       "direction_id": "0",
       "headsign": "C.H. Aleja Bielany",
       "service_id": "3",
@@ -3402,7 +3402,7 @@
       ]
     },
     {
-      "trip_id": "3_17597617",
+      "trip_id": "3_17701630",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "3",
@@ -3698,7 +3698,7 @@
       ]
     },
     {
-      "trip_id": "3_17597618",
+      "trip_id": "3_17701631",
       "direction_id": "0",
       "headsign": "C.H. Aleja Bielany",
       "service_id": "3",
@@ -4012,7 +4012,7 @@
       ]
     },
     {
-      "trip_id": "3_17597619",
+      "trip_id": "3_17701632",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "3",
@@ -4308,7 +4308,7 @@
       ]
     },
     {
-      "trip_id": "3_17597620",
+      "trip_id": "3_17701633",
       "direction_id": "0",
       "headsign": "Zajezdnia TYSKA",
       "service_id": "3",
@@ -4460,7 +4460,7 @@
       ]
     },
     {
-      "trip_id": "3_17597621",
+      "trip_id": "3_17701634",
       "direction_id": "0",
       "headsign": "ROD Bielany",
       "service_id": "3",
@@ -4765,7 +4765,7 @@
       ]
     },
     {
-      "trip_id": "3_17597622",
+      "trip_id": "3_17701635",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "3",
@@ -5070,7 +5070,7 @@
       ]
     },
     {
-      "trip_id": "3_17597623",
+      "trip_id": "3_17701636",
       "direction_id": "0",
       "headsign": "ROD Bielany",
       "service_id": "3",
@@ -5384,7 +5384,7 @@
       ]
     },
     {
-      "trip_id": "3_17597624",
+      "trip_id": "3_17701637",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "3",
@@ -5689,7 +5689,7 @@
       ]
     },
     {
-      "trip_id": "3_17597625",
+      "trip_id": "3_17701638",
       "direction_id": "0",
       "headsign": "AUCHAN",
       "service_id": "3",
@@ -6012,7 +6012,7 @@
       ]
     },
     {
-      "trip_id": "3_17597626",
+      "trip_id": "3_17701639",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "3",
@@ -6317,7 +6317,7 @@
       ]
     },
     {
-      "trip_id": "3_17597627",
+      "trip_id": "3_17701640",
       "direction_id": "0",
       "headsign": "C.H. Aleja Bielany",
       "service_id": "3",
@@ -6631,7 +6631,7 @@
       ]
     },
     {
-      "trip_id": "3_17597628",
+      "trip_id": "3_17701641",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "3",
@@ -6927,7 +6927,7 @@
       ]
     },
     {
-      "trip_id": "3_17597629",
+      "trip_id": "3_17701642",
       "direction_id": "0",
       "headsign": "AUCHAN",
       "service_id": "3",
@@ -7250,7 +7250,7 @@
       ]
     },
     {
-      "trip_id": "3_17597630",
+      "trip_id": "3_17701643",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "3",
@@ -7555,7 +7555,7 @@
       ]
     },
     {
-      "trip_id": "3_17597631",
+      "trip_id": "3_17701644",
       "direction_id": "0",
       "headsign": "C.H. Aleja Bielany",
       "service_id": "3",
@@ -7869,7 +7869,7 @@
       ]
     },
     {
-      "trip_id": "3_17597632",
+      "trip_id": "3_17701645",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "3",
@@ -8165,7 +8165,7 @@
       ]
     },
     {
-      "trip_id": "3_17597633",
+      "trip_id": "3_17701646",
       "direction_id": "0",
       "headsign": "AUCHAN",
       "service_id": "3",
@@ -8488,7 +8488,7 @@
       ]
     },
     {
-      "trip_id": "3_17597634",
+      "trip_id": "3_17701647",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "3",
@@ -8793,7 +8793,7 @@
       ]
     },
     {
-      "trip_id": "3_17597635",
+      "trip_id": "3_17701648",
       "direction_id": "0",
       "headsign": "ROD Bielany",
       "service_id": "3",
@@ -9107,7 +9107,7 @@
       ]
     },
     {
-      "trip_id": "3_17597636",
+      "trip_id": "3_17701649",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "3",
@@ -9412,7 +9412,7 @@
       ]
     },
     {
-      "trip_id": "3_17597637",
+      "trip_id": "3_17701650",
       "direction_id": "0",
       "headsign": "Zajezdnia TYSKA",
       "service_id": "3",
@@ -9564,7 +9564,7 @@
       ]
     },
     {
-      "trip_id": "3_17597638",
+      "trip_id": "3_17701651",
       "direction_id": "0",
       "headsign": "ROD Bielany",
       "service_id": "3",
@@ -9869,7 +9869,7 @@
       ]
     },
     {
-      "trip_id": "3_17597639",
+      "trip_id": "3_17701652",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "3",
@@ -10174,7 +10174,7 @@
       ]
     },
     {
-      "trip_id": "3_17597640",
+      "trip_id": "3_17701653",
       "direction_id": "0",
       "headsign": "ROD Bielany",
       "service_id": "3",
@@ -10488,7 +10488,7 @@
       ]
     },
     {
-      "trip_id": "3_17597641",
+      "trip_id": "3_17701654",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "3",
@@ -10793,7 +10793,7 @@
       ]
     },
     {
-      "trip_id": "3_17597642",
+      "trip_id": "3_17701655",
       "direction_id": "0",
       "headsign": "C.H. Aleja Bielany",
       "service_id": "3",
@@ -11107,7 +11107,7 @@
       ]
     },
     {
-      "trip_id": "3_17597643",
+      "trip_id": "3_17701656",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "3",
@@ -11403,7 +11403,7 @@
       ]
     },
     {
-      "trip_id": "3_17597644",
+      "trip_id": "3_17701657",
       "direction_id": "0",
       "headsign": "AUCHAN",
       "service_id": "3",
@@ -11726,7 +11726,7 @@
       ]
     },
     {
-      "trip_id": "3_17597645",
+      "trip_id": "3_17701658",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "3",
@@ -12031,7 +12031,7 @@
       ]
     },
     {
-      "trip_id": "3_17597646",
+      "trip_id": "3_17701659",
       "direction_id": "0",
       "headsign": "C.H. Aleja Bielany",
       "service_id": "3",
@@ -12345,7 +12345,7 @@
       ]
     },
     {
-      "trip_id": "3_17597647",
+      "trip_id": "3_17701660",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "3",
@@ -12641,7 +12641,7 @@
       ]
     },
     {
-      "trip_id": "3_17597648",
+      "trip_id": "3_17701661",
       "direction_id": "0",
       "headsign": "AUCHAN",
       "service_id": "3",
@@ -12964,7 +12964,7 @@
       ]
     },
     {
-      "trip_id": "3_17597649",
+      "trip_id": "3_17701662",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "3",
@@ -13269,7 +13269,7 @@
       ]
     },
     {
-      "trip_id": "3_17597650",
+      "trip_id": "3_17701663",
       "direction_id": "0",
       "headsign": "C.H. Aleja Bielany",
       "service_id": "3",
@@ -13583,7 +13583,7 @@
       ]
     },
     {
-      "trip_id": "3_17597651",
+      "trip_id": "3_17701664",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "3",
@@ -13879,7 +13879,7 @@
       ]
     },
     {
-      "trip_id": "3_17597652",
+      "trip_id": "3_17701665",
       "direction_id": "0",
       "headsign": "AUCHAN",
       "service_id": "3",
@@ -14202,7 +14202,7 @@
       ]
     },
     {
-      "trip_id": "3_17597653",
+      "trip_id": "3_17701666",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "3",
@@ -14507,7 +14507,7 @@
       ]
     },
     {
-      "trip_id": "3_17597654",
+      "trip_id": "3_17701667",
       "direction_id": "0",
       "headsign": "Zajezdnia TYSKA",
       "service_id": "3",
@@ -14659,7 +14659,7 @@
       ]
     },
     {
-      "trip_id": "3_17597655",
+      "trip_id": "3_17701668",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "3",
@@ -14820,7 +14820,7 @@
       ]
     },
     {
-      "trip_id": "3_17597656",
+      "trip_id": "3_17701669",
       "direction_id": "0",
       "headsign": "ROD Bielany",
       "service_id": "3",
@@ -15134,7 +15134,7 @@
       ]
     },
     {
-      "trip_id": "3_17597657",
+      "trip_id": "3_17701670",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "3",
@@ -15439,7 +15439,7 @@
       ]
     },
     {
-      "trip_id": "3_17597658",
+      "trip_id": "3_17701671",
       "direction_id": "0",
       "headsign": "AUCHAN",
       "service_id": "3",
@@ -15762,7 +15762,7 @@
       ]
     },
     {
-      "trip_id": "3_17597659",
+      "trip_id": "3_17701672",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "3",
@@ -16067,7 +16067,7 @@
       ]
     },
     {
-      "trip_id": "3_17597660",
+      "trip_id": "3_17701673",
       "direction_id": "0",
       "headsign": "C.H. Aleja Bielany",
       "service_id": "3",
@@ -16381,7 +16381,7 @@
       ]
     },
     {
-      "trip_id": "3_17597661",
+      "trip_id": "3_17701674",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "3",
@@ -16677,7 +16677,7 @@
       ]
     },
     {
-      "trip_id": "3_17597662",
+      "trip_id": "3_17701675",
       "direction_id": "0",
       "headsign": "AUCHAN",
       "service_id": "3",
@@ -17000,7 +17000,7 @@
       ]
     },
     {
-      "trip_id": "3_17597663",
+      "trip_id": "3_17701676",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "3",
@@ -17305,7 +17305,7 @@
       ]
     },
     {
-      "trip_id": "3_17597664",
+      "trip_id": "3_17701677",
       "direction_id": "0",
       "headsign": "C.H. Aleja Bielany",
       "service_id": "3",
@@ -17619,7 +17619,7 @@
       ]
     },
     {
-      "trip_id": "3_17597665",
+      "trip_id": "3_17701678",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "3",
@@ -17915,7 +17915,7 @@
       ]
     },
     {
-      "trip_id": "3_17597666",
+      "trip_id": "3_17701679",
       "direction_id": "0",
       "headsign": "AUCHAN",
       "service_id": "3",
@@ -18238,7 +18238,7 @@
       ]
     },
     {
-      "trip_id": "3_17597667",
+      "trip_id": "3_17701680",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "3",
@@ -18543,7 +18543,7 @@
       ]
     },
     {
-      "trip_id": "3_17597668",
+      "trip_id": "3_17701681",
       "direction_id": "0",
       "headsign": "C.H. Aleja Bielany",
       "service_id": "3",
@@ -18857,7 +18857,7 @@
       ]
     },
     {
-      "trip_id": "3_17597669",
+      "trip_id": "3_17701682",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "3",
@@ -19153,7 +19153,7 @@
       ]
     },
     {
-      "trip_id": "3_17597670",
+      "trip_id": "3_17701683",
       "direction_id": "0",
       "headsign": "Zajezdnia TYSKA",
       "service_id": "3",
@@ -19305,7 +19305,7 @@
       ]
     },
     {
-      "trip_id": "3_17597671",
+      "trip_id": "3_17701684",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "3",
@@ -19466,7 +19466,7 @@
       ]
     },
     {
-      "trip_id": "3_17597672",
+      "trip_id": "3_17701685",
       "direction_id": "0",
       "headsign": "C.H. Aleja Bielany",
       "service_id": "3",
@@ -19780,7 +19780,7 @@
       ]
     },
     {
-      "trip_id": "3_17597673",
+      "trip_id": "3_17701686",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "3",
@@ -20076,7 +20076,7 @@
       ]
     },
     {
-      "trip_id": "3_17597674",
+      "trip_id": "3_17701687",
       "direction_id": "0",
       "headsign": "C.H. Aleja Bielany",
       "service_id": "3",
@@ -20390,7 +20390,7 @@
       ]
     },
     {
-      "trip_id": "3_17597675",
+      "trip_id": "3_17701688",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "3",
@@ -20686,7 +20686,7 @@
       ]
     },
     {
-      "trip_id": "3_17597676",
+      "trip_id": "3_17701689",
       "direction_id": "0",
       "headsign": "AUCHAN",
       "service_id": "3",
@@ -21009,7 +21009,7 @@
       ]
     },
     {
-      "trip_id": "3_17597677",
+      "trip_id": "3_17701690",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "3",
@@ -21314,7 +21314,7 @@
       ]
     },
     {
-      "trip_id": "3_17597678",
+      "trip_id": "3_17701691",
       "direction_id": "0",
       "headsign": "C.H. Aleja Bielany",
       "service_id": "3",
@@ -21628,7 +21628,7 @@
       ]
     },
     {
-      "trip_id": "3_17597679",
+      "trip_id": "3_17701692",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "3",
@@ -21924,7 +21924,7 @@
       ]
     },
     {
-      "trip_id": "3_17597680",
+      "trip_id": "3_17701693",
       "direction_id": "0",
       "headsign": "AUCHAN",
       "service_id": "3",
@@ -22247,7 +22247,7 @@
       ]
     },
     {
-      "trip_id": "3_17597681",
+      "trip_id": "3_17701694",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "3",
@@ -22552,7 +22552,7 @@
       ]
     },
     {
-      "trip_id": "3_17597682",
+      "trip_id": "3_17701695",
       "direction_id": "0",
       "headsign": "C.H. Aleja Bielany",
       "service_id": "3",
@@ -22866,7 +22866,7 @@
       ]
     },
     {
-      "trip_id": "3_17597683",
+      "trip_id": "3_17701696",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "3",
@@ -23162,7 +23162,7 @@
       ]
     },
     {
-      "trip_id": "3_17597684",
+      "trip_id": "3_17701697",
       "direction_id": "0",
       "headsign": "AUCHAN",
       "service_id": "3",
@@ -23485,7 +23485,7 @@
       ]
     },
     {
-      "trip_id": "3_17597685",
+      "trip_id": "3_17701698",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "3",
@@ -23790,7 +23790,7 @@
       ]
     },
     {
-      "trip_id": "3_17597686",
+      "trip_id": "3_17701699",
       "direction_id": "0",
       "headsign": "ROD Bielany",
       "service_id": "3",
@@ -24104,7 +24104,7 @@
       ]
     },
     {
-      "trip_id": "3_17597687",
+      "trip_id": "3_17701700",
       "direction_id": "1",
       "headsign": "Zajezdnia TYSKA",
       "service_id": "3",
@@ -24409,7 +24409,7 @@
       ]
     },
     {
-      "trip_id": "3_17599018",
+      "trip_id": "3_17703031",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "3",
@@ -24570,7 +24570,7 @@
       ]
     },
     {
-      "trip_id": "3_17599019",
+      "trip_id": "3_17703032",
       "direction_id": "0",
       "headsign": "ROD Bielany",
       "service_id": "3",
@@ -24884,7 +24884,7 @@
       ]
     },
     {
-      "trip_id": "3_17599020",
+      "trip_id": "3_17703033",
       "direction_id": "1",
       "headsign": "PETRUSEWICZA",
       "service_id": "3",
@@ -25072,7 +25072,7 @@
       ]
     },
     {
-      "trip_id": "4_17602062",
+      "trip_id": "4_17706075",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "4",
@@ -25233,7 +25233,7 @@
       ]
     },
     {
-      "trip_id": "4_17602063",
+      "trip_id": "4_17706076",
       "direction_id": "0",
       "headsign": "ROD Bielany",
       "service_id": "4",
@@ -25547,7 +25547,7 @@
       ]
     },
     {
-      "trip_id": "4_17602064",
+      "trip_id": "4_17706077",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "4",
@@ -25852,7 +25852,7 @@
       ]
     },
     {
-      "trip_id": "4_17602065",
+      "trip_id": "4_17706078",
       "direction_id": "0",
       "headsign": "ROD Bielany",
       "service_id": "4",
@@ -26166,7 +26166,7 @@
       ]
     },
     {
-      "trip_id": "4_17602066",
+      "trip_id": "4_17706079",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "4",
@@ -26471,7 +26471,7 @@
       ]
     },
     {
-      "trip_id": "4_17602067",
+      "trip_id": "4_17706080",
       "direction_id": "0",
       "headsign": "ROD Bielany",
       "service_id": "4",
@@ -26785,7 +26785,7 @@
       ]
     },
     {
-      "trip_id": "4_17602068",
+      "trip_id": "4_17706081",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "4",
@@ -27090,7 +27090,7 @@
       ]
     },
     {
-      "trip_id": "4_17602069",
+      "trip_id": "4_17706082",
       "direction_id": "0",
       "headsign": "ROD Bielany",
       "service_id": "4",
@@ -27404,7 +27404,7 @@
       ]
     },
     {
-      "trip_id": "4_17602070",
+      "trip_id": "4_17706083",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "4",
@@ -27709,7 +27709,7 @@
       ]
     },
     {
-      "trip_id": "4_17602071",
+      "trip_id": "4_17706084",
       "direction_id": "0",
       "headsign": "ROD Bielany",
       "service_id": "4",
@@ -28023,7 +28023,7 @@
       ]
     },
     {
-      "trip_id": "4_17602072",
+      "trip_id": "4_17706085",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "4",
@@ -28328,7 +28328,7 @@
       ]
     },
     {
-      "trip_id": "4_17602073",
+      "trip_id": "4_17706086",
       "direction_id": "0",
       "headsign": "ROD Bielany",
       "service_id": "4",
@@ -28642,7 +28642,7 @@
       ]
     },
     {
-      "trip_id": "4_17602074",
+      "trip_id": "4_17706087",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "4",
@@ -28947,7 +28947,7 @@
       ]
     },
     {
-      "trip_id": "4_17602075",
+      "trip_id": "4_17706088",
       "direction_id": "0",
       "headsign": "ROD Bielany",
       "service_id": "4",
@@ -29261,7 +29261,7 @@
       ]
     },
     {
-      "trip_id": "4_17602076",
+      "trip_id": "4_17706089",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "4",
@@ -29566,7 +29566,7 @@
       ]
     },
     {
-      "trip_id": "4_17602077",
+      "trip_id": "4_17706090",
       "direction_id": "0",
       "headsign": "Zajezdnia TYSKA",
       "service_id": "4",
@@ -29718,7 +29718,7 @@
       ]
     },
     {
-      "trip_id": "4_17602078",
+      "trip_id": "4_17706091",
       "direction_id": "0",
       "headsign": "ROD Bielany",
       "service_id": "4",
@@ -30023,7 +30023,7 @@
       ]
     },
     {
-      "trip_id": "4_17602079",
+      "trip_id": "4_17706092",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "4",
@@ -30328,7 +30328,7 @@
       ]
     },
     {
-      "trip_id": "4_17602080",
+      "trip_id": "4_17706093",
       "direction_id": "0",
       "headsign": "ROD Bielany",
       "service_id": "4",
@@ -30642,7 +30642,7 @@
       ]
     },
     {
-      "trip_id": "4_17602081",
+      "trip_id": "4_17706094",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "4",
@@ -30947,7 +30947,7 @@
       ]
     },
     {
-      "trip_id": "4_17602082",
+      "trip_id": "4_17706095",
       "direction_id": "0",
       "headsign": "ROD Bielany",
       "service_id": "4",
@@ -31261,7 +31261,7 @@
       ]
     },
     {
-      "trip_id": "4_17602083",
+      "trip_id": "4_17706096",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "4",
@@ -31566,7 +31566,7 @@
       ]
     },
     {
-      "trip_id": "4_17602084",
+      "trip_id": "4_17706097",
       "direction_id": "0",
       "headsign": "ROD Bielany",
       "service_id": "4",
@@ -31880,7 +31880,7 @@
       ]
     },
     {
-      "trip_id": "4_17602085",
+      "trip_id": "4_17706098",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "4",
@@ -32185,7 +32185,7 @@
       ]
     },
     {
-      "trip_id": "4_17602086",
+      "trip_id": "4_17706099",
       "direction_id": "0",
       "headsign": "ROD Bielany",
       "service_id": "4",
@@ -32499,7 +32499,7 @@
       ]
     },
     {
-      "trip_id": "4_17602087",
+      "trip_id": "4_17706100",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "4",
@@ -32804,7 +32804,7 @@
       ]
     },
     {
-      "trip_id": "4_17602088",
+      "trip_id": "4_17706101",
       "direction_id": "0",
       "headsign": "ROD Bielany",
       "service_id": "4",
@@ -33118,7 +33118,7 @@
       ]
     },
     {
-      "trip_id": "4_17602089",
+      "trip_id": "4_17706102",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "4",
@@ -33423,7 +33423,7 @@
       ]
     },
     {
-      "trip_id": "4_17602090",
+      "trip_id": "4_17706103",
       "direction_id": "0",
       "headsign": "ROD Bielany",
       "service_id": "4",
@@ -33737,7 +33737,7 @@
       ]
     },
     {
-      "trip_id": "4_17602091",
+      "trip_id": "4_17706104",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "4",
@@ -34042,7 +34042,7 @@
       ]
     },
     {
-      "trip_id": "4_17602092",
+      "trip_id": "4_17706105",
       "direction_id": "0",
       "headsign": "Zajezdnia TYSKA",
       "service_id": "4",
@@ -34194,7 +34194,7 @@
       ]
     },
     {
-      "trip_id": "4_17602093",
+      "trip_id": "4_17706106",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "4",
@@ -34355,7 +34355,7 @@
       ]
     },
     {
-      "trip_id": "4_17602094",
+      "trip_id": "4_17706107",
       "direction_id": "0",
       "headsign": "ROD Bielany",
       "service_id": "4",
@@ -34669,7 +34669,7 @@
       ]
     },
     {
-      "trip_id": "4_17602095",
+      "trip_id": "4_17706108",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "4",
@@ -34974,7 +34974,7 @@
       ]
     },
     {
-      "trip_id": "4_17602096",
+      "trip_id": "4_17706109",
       "direction_id": "0",
       "headsign": "ROD Bielany",
       "service_id": "4",
@@ -35288,7 +35288,7 @@
       ]
     },
     {
-      "trip_id": "4_17602097",
+      "trip_id": "4_17706110",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "4",
@@ -35593,7 +35593,7 @@
       ]
     },
     {
-      "trip_id": "4_17602098",
+      "trip_id": "4_17706111",
       "direction_id": "0",
       "headsign": "ROD Bielany",
       "service_id": "4",
@@ -35907,7 +35907,7 @@
       ]
     },
     {
-      "trip_id": "4_17602099",
+      "trip_id": "4_17706112",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "4",
@@ -36212,7 +36212,7 @@
       ]
     },
     {
-      "trip_id": "4_17602100",
+      "trip_id": "4_17706113",
       "direction_id": "0",
       "headsign": "ROD Bielany",
       "service_id": "4",
@@ -36526,7 +36526,7 @@
       ]
     },
     {
-      "trip_id": "4_17602101",
+      "trip_id": "4_17706114",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "4",
@@ -36831,7 +36831,7 @@
       ]
     },
     {
-      "trip_id": "4_17602102",
+      "trip_id": "4_17706115",
       "direction_id": "0",
       "headsign": "ROD Bielany",
       "service_id": "4",
@@ -37145,7 +37145,7 @@
       ]
     },
     {
-      "trip_id": "4_17602103",
+      "trip_id": "4_17706116",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "4",
@@ -37450,7 +37450,7 @@
       ]
     },
     {
-      "trip_id": "4_17602104",
+      "trip_id": "4_17706117",
       "direction_id": "0",
       "headsign": "ROD Bielany",
       "service_id": "4",
@@ -37764,7 +37764,7 @@
       ]
     },
     {
-      "trip_id": "4_17602105",
+      "trip_id": "4_17706118",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "4",
@@ -38069,7 +38069,7 @@
       ]
     },
     {
-      "trip_id": "4_17602106",
+      "trip_id": "4_17706119",
       "direction_id": "0",
       "headsign": "ROD Bielany",
       "service_id": "4",
@@ -38383,7 +38383,7 @@
       ]
     },
     {
-      "trip_id": "4_17602107",
+      "trip_id": "4_17706120",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "4",
@@ -38688,7 +38688,7 @@
       ]
     },
     {
-      "trip_id": "4_17602108",
+      "trip_id": "4_17706121",
       "direction_id": "0",
       "headsign": "Zajezdnia TYSKA",
       "service_id": "4",
@@ -38840,7 +38840,7 @@
       ]
     },
     {
-      "trip_id": "4_17602109",
+      "trip_id": "4_17706122",
       "direction_id": "0",
       "headsign": "ROD Bielany",
       "service_id": "4",
@@ -39145,7 +39145,7 @@
       ]
     },
     {
-      "trip_id": "4_17602110",
+      "trip_id": "4_17706123",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "4",
@@ -39450,7 +39450,7 @@
       ]
     },
     {
-      "trip_id": "4_17602111",
+      "trip_id": "4_17706124",
       "direction_id": "0",
       "headsign": "ROD Bielany",
       "service_id": "4",
@@ -39764,7 +39764,7 @@
       ]
     },
     {
-      "trip_id": "4_17602112",
+      "trip_id": "4_17706125",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "4",
@@ -40069,7 +40069,7 @@
       ]
     },
     {
-      "trip_id": "4_17602113",
+      "trip_id": "4_17706126",
       "direction_id": "0",
       "headsign": "ROD Bielany",
       "service_id": "4",
@@ -40383,7 +40383,7 @@
       ]
     },
     {
-      "trip_id": "4_17602114",
+      "trip_id": "4_17706127",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "4",
@@ -40688,7 +40688,7 @@
       ]
     },
     {
-      "trip_id": "4_17602115",
+      "trip_id": "4_17706128",
       "direction_id": "0",
       "headsign": "ROD Bielany",
       "service_id": "4",
@@ -41002,7 +41002,7 @@
       ]
     },
     {
-      "trip_id": "4_17602116",
+      "trip_id": "4_17706129",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "4",
@@ -41307,7 +41307,7 @@
       ]
     },
     {
-      "trip_id": "4_17602117",
+      "trip_id": "4_17706130",
       "direction_id": "0",
       "headsign": "ROD Bielany",
       "service_id": "4",
@@ -41621,7 +41621,7 @@
       ]
     },
     {
-      "trip_id": "4_17602118",
+      "trip_id": "4_17706131",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "4",
@@ -41926,7 +41926,7 @@
       ]
     },
     {
-      "trip_id": "4_17602119",
+      "trip_id": "4_17706132",
       "direction_id": "0",
       "headsign": "ROD Bielany",
       "service_id": "4",
@@ -42240,7 +42240,7 @@
       ]
     },
     {
-      "trip_id": "4_17602120",
+      "trip_id": "4_17706133",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "4",
@@ -42545,7 +42545,7 @@
       ]
     },
     {
-      "trip_id": "4_17602121",
+      "trip_id": "4_17706134",
       "direction_id": "0",
       "headsign": "ROD Bielany",
       "service_id": "4",
@@ -42859,7 +42859,7 @@
       ]
     },
     {
-      "trip_id": "4_17602122",
+      "trip_id": "4_17706135",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "4",
@@ -43164,7 +43164,7 @@
       ]
     },
     {
-      "trip_id": "4_17602123",
+      "trip_id": "4_17706136",
       "direction_id": "0",
       "headsign": "ROD Bielany",
       "service_id": "4",
@@ -43478,7 +43478,7 @@
       ]
     },
     {
-      "trip_id": "4_17602124",
+      "trip_id": "4_17706137",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "4",
@@ -43783,7 +43783,7 @@
       ]
     },
     {
-      "trip_id": "4_17602125",
+      "trip_id": "4_17706138",
       "direction_id": "0",
       "headsign": "Zajezdnia TYSKA",
       "service_id": "4",
@@ -43935,7 +43935,7 @@
       ]
     },
     {
-      "trip_id": "4_17602126",
+      "trip_id": "4_17706139",
       "direction_id": "0",
       "headsign": "ROD Bielany",
       "service_id": "4",
@@ -44240,7 +44240,7 @@
       ]
     },
     {
-      "trip_id": "4_17602127",
+      "trip_id": "4_17706140",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "4",
@@ -44545,7 +44545,7 @@
       ]
     },
     {
-      "trip_id": "4_17602128",
+      "trip_id": "4_17706141",
       "direction_id": "0",
       "headsign": "ROD Bielany",
       "service_id": "4",
@@ -44859,7 +44859,7 @@
       ]
     },
     {
-      "trip_id": "4_17602129",
+      "trip_id": "4_17706142",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "4",
@@ -45164,7 +45164,7 @@
       ]
     },
     {
-      "trip_id": "4_17602130",
+      "trip_id": "4_17706143",
       "direction_id": "0",
       "headsign": "ROD Bielany",
       "service_id": "4",
@@ -45478,7 +45478,7 @@
       ]
     },
     {
-      "trip_id": "4_17602131",
+      "trip_id": "4_17706144",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "4",
@@ -45783,7 +45783,7 @@
       ]
     },
     {
-      "trip_id": "4_17602132",
+      "trip_id": "4_17706145",
       "direction_id": "0",
       "headsign": "ROD Bielany",
       "service_id": "4",
@@ -46097,7 +46097,7 @@
       ]
     },
     {
-      "trip_id": "4_17602133",
+      "trip_id": "4_17706146",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "4",
@@ -46402,7 +46402,7 @@
       ]
     },
     {
-      "trip_id": "4_17602134",
+      "trip_id": "4_17706147",
       "direction_id": "0",
       "headsign": "ROD Bielany",
       "service_id": "4",
@@ -46716,7 +46716,7 @@
       ]
     },
     {
-      "trip_id": "4_17602135",
+      "trip_id": "4_17706148",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "4",
@@ -47021,7 +47021,7 @@
       ]
     },
     {
-      "trip_id": "4_17602136",
+      "trip_id": "4_17706149",
       "direction_id": "0",
       "headsign": "ROD Bielany",
       "service_id": "4",
@@ -47335,7 +47335,7 @@
       ]
     },
     {
-      "trip_id": "4_17602137",
+      "trip_id": "4_17706150",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "4",
@@ -47640,7 +47640,7 @@
       ]
     },
     {
-      "trip_id": "4_17602138",
+      "trip_id": "4_17706151",
       "direction_id": "0",
       "headsign": "ROD Bielany",
       "service_id": "4",
@@ -47954,7 +47954,7 @@
       ]
     },
     {
-      "trip_id": "4_17602139",
+      "trip_id": "4_17706152",
       "direction_id": "1",
       "headsign": "Zajezdnia TYSKA",
       "service_id": "4",
@@ -48259,7 +48259,7 @@
       ]
     },
     {
-      "trip_id": "4_17603430",
+      "trip_id": "4_17707443",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "4",
@@ -48420,7 +48420,7 @@
       ]
     },
     {
-      "trip_id": "4_17603431",
+      "trip_id": "4_17707444",
       "direction_id": "0",
       "headsign": "ROD Bielany",
       "service_id": "4",
@@ -48734,7 +48734,7 @@
       ]
     },
     {
-      "trip_id": "4_17603432",
+      "trip_id": "4_17707445",
       "direction_id": "1",
       "headsign": "PETRUSEWICZA",
       "service_id": "4",
@@ -48922,7 +48922,7 @@
       ]
     },
     {
-      "trip_id": "6_17607559",
+      "trip_id": "6_17711572",
       "direction_id": "0",
       "headsign": "ROD Bielany",
       "service_id": "6",
@@ -49227,7 +49227,7 @@
       ]
     },
     {
-      "trip_id": "6_17607560",
+      "trip_id": "6_17711573",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "6",
@@ -49532,7 +49532,7 @@
       ]
     },
     {
-      "trip_id": "6_17607561",
+      "trip_id": "6_17711574",
       "direction_id": "0",
       "headsign": "ROD Bielany",
       "service_id": "6",
@@ -49846,7 +49846,7 @@
       ]
     },
     {
-      "trip_id": "6_17607562",
+      "trip_id": "6_17711575",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "6",
@@ -50151,7 +50151,7 @@
       ]
     },
     {
-      "trip_id": "6_17607563",
+      "trip_id": "6_17711576",
       "direction_id": "0",
       "headsign": "AUCHAN",
       "service_id": "6",
@@ -50474,7 +50474,7 @@
       ]
     },
     {
-      "trip_id": "6_17607564",
+      "trip_id": "6_17711577",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "6",
@@ -50779,7 +50779,7 @@
       ]
     },
     {
-      "trip_id": "6_17607565",
+      "trip_id": "6_17711578",
       "direction_id": "0",
       "headsign": "C.H. Aleja Bielany",
       "service_id": "6",
@@ -51093,7 +51093,7 @@
       ]
     },
     {
-      "trip_id": "6_17607566",
+      "trip_id": "6_17711579",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "6",
@@ -51389,7 +51389,7 @@
       ]
     },
     {
-      "trip_id": "6_17607567",
+      "trip_id": "6_17711580",
       "direction_id": "0",
       "headsign": "C.H. Aleja Bielany",
       "service_id": "6",
@@ -51703,7 +51703,7 @@
       ]
     },
     {
-      "trip_id": "6_17607568",
+      "trip_id": "6_17711581",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "6",
@@ -51999,7 +51999,7 @@
       ]
     },
     {
-      "trip_id": "6_17607569",
+      "trip_id": "6_17711582",
       "direction_id": "0",
       "headsign": "C.H. Aleja Bielany",
       "service_id": "6",
@@ -52313,7 +52313,7 @@
       ]
     },
     {
-      "trip_id": "6_17607570",
+      "trip_id": "6_17711583",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "6",
@@ -52609,7 +52609,7 @@
       ]
     },
     {
-      "trip_id": "6_17607571",
+      "trip_id": "6_17711584",
       "direction_id": "0",
       "headsign": "Zajezdnia TYSKA",
       "service_id": "6",
@@ -52761,7 +52761,7 @@
       ]
     },
     {
-      "trip_id": "6_17607572",
+      "trip_id": "6_17711585",
       "direction_id": "0",
       "headsign": "ROD Bielany",
       "service_id": "6",
@@ -53066,7 +53066,7 @@
       ]
     },
     {
-      "trip_id": "6_17607573",
+      "trip_id": "6_17711586",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "6",
@@ -53371,7 +53371,7 @@
       ]
     },
     {
-      "trip_id": "6_17607574",
+      "trip_id": "6_17711587",
       "direction_id": "0",
       "headsign": "C.H. Aleja Bielany",
       "service_id": "6",
@@ -53685,7 +53685,7 @@
       ]
     },
     {
-      "trip_id": "6_17607575",
+      "trip_id": "6_17711588",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "6",
@@ -53981,7 +53981,7 @@
       ]
     },
     {
-      "trip_id": "6_17607576",
+      "trip_id": "6_17711589",
       "direction_id": "0",
       "headsign": "C.H. Aleja Bielany",
       "service_id": "6",
@@ -54295,7 +54295,7 @@
       ]
     },
     {
-      "trip_id": "6_17607577",
+      "trip_id": "6_17711590",
       "direction_id": "1",
       "headsign": "Zajezdnia TYSKA",
       "service_id": "6",
@@ -54591,7 +54591,7 @@
       ]
     },
     {
-      "trip_id": "6_17607578",
+      "trip_id": "6_17711591",
       "direction_id": "0",
       "headsign": "ROD Bielany",
       "service_id": "6",
@@ -54896,7 +54896,7 @@
       ]
     },
     {
-      "trip_id": "6_17607579",
+      "trip_id": "6_17711592",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "6",
@@ -55201,7 +55201,7 @@
       ]
     },
     {
-      "trip_id": "6_17607580",
+      "trip_id": "6_17711593",
       "direction_id": "0",
       "headsign": "AUCHAN",
       "service_id": "6",
@@ -55524,7 +55524,7 @@
       ]
     },
     {
-      "trip_id": "6_17607581",
+      "trip_id": "6_17711594",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "6",
@@ -55829,7 +55829,7 @@
       ]
     },
     {
-      "trip_id": "6_17607582",
+      "trip_id": "6_17711595",
       "direction_id": "0",
       "headsign": "AUCHAN",
       "service_id": "6",
@@ -56152,7 +56152,7 @@
       ]
     },
     {
-      "trip_id": "6_17607583",
+      "trip_id": "6_17711596",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "6",
@@ -56457,7 +56457,7 @@
       ]
     },
     {
-      "trip_id": "6_17607584",
+      "trip_id": "6_17711597",
       "direction_id": "0",
       "headsign": "C.H. Aleja Bielany",
       "service_id": "6",
@@ -56771,7 +56771,7 @@
       ]
     },
     {
-      "trip_id": "6_17607585",
+      "trip_id": "6_17711598",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "6",
@@ -57067,7 +57067,7 @@
       ]
     },
     {
-      "trip_id": "6_17607586",
+      "trip_id": "6_17711599",
       "direction_id": "0",
       "headsign": "AUCHAN",
       "service_id": "6",
@@ -57390,7 +57390,7 @@
       ]
     },
     {
-      "trip_id": "6_17607587",
+      "trip_id": "6_17711600",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "6",
@@ -57695,7 +57695,7 @@
       ]
     },
     {
-      "trip_id": "6_17607588",
+      "trip_id": "6_17711601",
       "direction_id": "0",
       "headsign": "C.H. Aleja Bielany",
       "service_id": "6",
@@ -58009,7 +58009,7 @@
       ]
     },
     {
-      "trip_id": "6_17607589",
+      "trip_id": "6_17711602",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "6",
@@ -58305,7 +58305,7 @@
       ]
     },
     {
-      "trip_id": "6_17607590",
+      "trip_id": "6_17711603",
       "direction_id": "0",
       "headsign": "AUCHAN",
       "service_id": "6",
@@ -58628,7 +58628,7 @@
       ]
     },
     {
-      "trip_id": "6_17607591",
+      "trip_id": "6_17711604",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "6",
@@ -58933,7 +58933,7 @@
       ]
     },
     {
-      "trip_id": "6_17607592",
+      "trip_id": "6_17711605",
       "direction_id": "0",
       "headsign": "Zajezdnia TYSKA",
       "service_id": "6",
@@ -59085,7 +59085,7 @@
       ]
     },
     {
-      "trip_id": "6_17607593",
+      "trip_id": "6_17711606",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "6",
@@ -59246,7 +59246,7 @@
       ]
     },
     {
-      "trip_id": "6_17607594",
+      "trip_id": "6_17711607",
       "direction_id": "0",
       "headsign": "ROD Bielany",
       "service_id": "6",
@@ -59560,7 +59560,7 @@
       ]
     },
     {
-      "trip_id": "6_17607595",
+      "trip_id": "6_17711608",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "6",
@@ -59865,7 +59865,7 @@
       ]
     },
     {
-      "trip_id": "6_17607596",
+      "trip_id": "6_17711609",
       "direction_id": "0",
       "headsign": "C.H. Aleja Bielany",
       "service_id": "6",
@@ -60179,7 +60179,7 @@
       ]
     },
     {
-      "trip_id": "6_17607597",
+      "trip_id": "6_17711610",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "6",
@@ -60475,7 +60475,7 @@
       ]
     },
     {
-      "trip_id": "6_17607598",
+      "trip_id": "6_17711611",
       "direction_id": "0",
       "headsign": "Zajezdnia TYSKA",
       "service_id": "6",
@@ -60627,7 +60627,7 @@
       ]
     },
     {
-      "trip_id": "6_17607599",
+      "trip_id": "6_17711612",
       "direction_id": "0",
       "headsign": "ROD Bielany",
       "service_id": "6",
@@ -60932,7 +60932,7 @@
       ]
     },
     {
-      "trip_id": "6_17607600",
+      "trip_id": "6_17711613",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "6",
@@ -61237,7 +61237,7 @@
       ]
     },
     {
-      "trip_id": "6_17607601",
+      "trip_id": "6_17711614",
       "direction_id": "0",
       "headsign": "AUCHAN",
       "service_id": "6",
@@ -61560,7 +61560,7 @@
       ]
     },
     {
-      "trip_id": "6_17607602",
+      "trip_id": "6_17711615",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "6",
@@ -61865,7 +61865,7 @@
       ]
     },
     {
-      "trip_id": "6_17607603",
+      "trip_id": "6_17711616",
       "direction_id": "0",
       "headsign": "C.H. Aleja Bielany",
       "service_id": "6",
@@ -62179,7 +62179,7 @@
       ]
     },
     {
-      "trip_id": "6_17607604",
+      "trip_id": "6_17711617",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "6",
@@ -62475,7 +62475,7 @@
       ]
     },
     {
-      "trip_id": "6_17607605",
+      "trip_id": "6_17711618",
       "direction_id": "0",
       "headsign": "AUCHAN",
       "service_id": "6",
@@ -62798,7 +62798,7 @@
       ]
     },
     {
-      "trip_id": "6_17607606",
+      "trip_id": "6_17711619",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "6",
@@ -63103,7 +63103,7 @@
       ]
     },
     {
-      "trip_id": "6_17607607",
+      "trip_id": "6_17711620",
       "direction_id": "0",
       "headsign": "C.H. Aleja Bielany",
       "service_id": "6",
@@ -63417,7 +63417,7 @@
       ]
     },
     {
-      "trip_id": "6_17607608",
+      "trip_id": "6_17711621",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "6",
@@ -63713,7 +63713,7 @@
       ]
     },
     {
-      "trip_id": "6_17607609",
+      "trip_id": "6_17711622",
       "direction_id": "0",
       "headsign": "C.H. Aleja Bielany",
       "service_id": "6",
@@ -64027,7 +64027,7 @@
       ]
     },
     {
-      "trip_id": "6_17607610",
+      "trip_id": "6_17711623",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "6",
@@ -64323,7 +64323,7 @@
       ]
     },
     {
-      "trip_id": "6_17607611",
+      "trip_id": "6_17711624",
       "direction_id": "0",
       "headsign": "Zajezdnia TYSKA",
       "service_id": "6",
@@ -64475,7 +64475,7 @@
       ]
     },
     {
-      "trip_id": "6_17607612",
+      "trip_id": "6_17711625",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "6",
@@ -64636,7 +64636,7 @@
       ]
     },
     {
-      "trip_id": "6_17607613",
+      "trip_id": "6_17711626",
       "direction_id": "0",
       "headsign": "ROD Bielany",
       "service_id": "6",
@@ -64950,7 +64950,7 @@
       ]
     },
     {
-      "trip_id": "6_17607614",
+      "trip_id": "6_17711627",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "6",
@@ -65255,7 +65255,7 @@
       ]
     },
     {
-      "trip_id": "6_17607615",
+      "trip_id": "6_17711628",
       "direction_id": "0",
       "headsign": "C.H. Aleja Bielany",
       "service_id": "6",
@@ -65569,7 +65569,7 @@
       ]
     },
     {
-      "trip_id": "6_17607616",
+      "trip_id": "6_17711629",
       "direction_id": "1",
       "headsign": "Zajezdnia TYSKA",
       "service_id": "6",
@@ -65865,7 +65865,7 @@
       ]
     },
     {
-      "trip_id": "6_17607617",
+      "trip_id": "6_17711630",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "6",
@@ -66026,7 +66026,7 @@
       ]
     },
     {
-      "trip_id": "6_17607618",
+      "trip_id": "6_17711631",
       "direction_id": "0",
       "headsign": "ROD Bielany",
       "service_id": "6",
@@ -66340,7 +66340,7 @@
       ]
     },
     {
-      "trip_id": "6_17607619",
+      "trip_id": "6_17711632",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "6",
@@ -66645,7 +66645,7 @@
       ]
     },
     {
-      "trip_id": "6_17607620",
+      "trip_id": "6_17711633",
       "direction_id": "0",
       "headsign": "AUCHAN",
       "service_id": "6",
@@ -66968,7 +66968,7 @@
       ]
     },
     {
-      "trip_id": "6_17607621",
+      "trip_id": "6_17711634",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "6",
@@ -67273,7 +67273,7 @@
       ]
     },
     {
-      "trip_id": "6_17607622",
+      "trip_id": "6_17711635",
       "direction_id": "0",
       "headsign": "AUCHAN",
       "service_id": "6",
@@ -67596,7 +67596,7 @@
       ]
     },
     {
-      "trip_id": "6_17607623",
+      "trip_id": "6_17711636",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "6",
@@ -67901,7 +67901,7 @@
       ]
     },
     {
-      "trip_id": "6_17607624",
+      "trip_id": "6_17711637",
       "direction_id": "0",
       "headsign": "C.H. Aleja Bielany",
       "service_id": "6",
@@ -68215,7 +68215,7 @@
       ]
     },
     {
-      "trip_id": "6_17607625",
+      "trip_id": "6_17711638",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "6",
@@ -68511,7 +68511,7 @@
       ]
     },
     {
-      "trip_id": "6_17607626",
+      "trip_id": "6_17711639",
       "direction_id": "0",
       "headsign": "AUCHAN",
       "service_id": "6",
@@ -68834,7 +68834,7 @@
       ]
     },
     {
-      "trip_id": "6_17607627",
+      "trip_id": "6_17711640",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "6",
@@ -69139,7 +69139,7 @@
       ]
     },
     {
-      "trip_id": "6_17607628",
+      "trip_id": "6_17711641",
       "direction_id": "0",
       "headsign": "C.H. Aleja Bielany",
       "service_id": "6",
@@ -69453,7 +69453,7 @@
       ]
     },
     {
-      "trip_id": "6_17607629",
+      "trip_id": "6_17711642",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "6",
@@ -69749,7 +69749,7 @@
       ]
     },
     {
-      "trip_id": "6_17607630",
+      "trip_id": "6_17711643",
       "direction_id": "0",
       "headsign": "AUCHAN",
       "service_id": "6",
@@ -70072,7 +70072,7 @@
       ]
     },
     {
-      "trip_id": "6_17607631",
+      "trip_id": "6_17711644",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "6",
@@ -70377,7 +70377,7 @@
       ]
     },
     {
-      "trip_id": "6_17607632",
+      "trip_id": "6_17711645",
       "direction_id": "0",
       "headsign": "C.H. Aleja Bielany",
       "service_id": "6",
@@ -70691,7 +70691,7 @@
       ]
     },
     {
-      "trip_id": "6_17607633",
+      "trip_id": "6_17711646",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "6",
@@ -70987,7 +70987,7 @@
       ]
     },
     {
-      "trip_id": "6_17607634",
+      "trip_id": "6_17711647",
       "direction_id": "0",
       "headsign": "Zajezdnia TYSKA",
       "service_id": "6",
@@ -71139,7 +71139,7 @@
       ]
     },
     {
-      "trip_id": "6_17607635",
+      "trip_id": "6_17711648",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "6",
@@ -71300,7 +71300,7 @@
       ]
     },
     {
-      "trip_id": "6_17607636",
+      "trip_id": "6_17711649",
       "direction_id": "0",
       "headsign": "C.H. Aleja Bielany",
       "service_id": "6",
@@ -71614,7 +71614,7 @@
       ]
     },
     {
-      "trip_id": "6_17607637",
+      "trip_id": "6_17711650",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "6",
@@ -71910,7 +71910,7 @@
       ]
     },
     {
-      "trip_id": "6_17607638",
+      "trip_id": "6_17711651",
       "direction_id": "1",
       "headsign": "IWINY - rondo",
       "service_id": "6",
@@ -71954,7 +71954,7 @@
       ]
     },
     {
-      "trip_id": "6_17607639",
+      "trip_id": "6_17711652",
       "direction_id": "0",
       "headsign": "BROCHÓW",
       "service_id": "6",
@@ -72088,7 +72088,7 @@
       ]
     },
     {
-      "trip_id": "6_17607640",
+      "trip_id": "6_17711653",
       "direction_id": "0",
       "headsign": "C.H. Aleja Bielany",
       "service_id": "6",
@@ -72402,7 +72402,7 @@
       ]
     },
     {
-      "trip_id": "6_17607641",
+      "trip_id": "6_17711654",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "6",
@@ -72698,7 +72698,7 @@
       ]
     },
     {
-      "trip_id": "6_17607642",
+      "trip_id": "6_17711655",
       "direction_id": "0",
       "headsign": "C.H. Aleja Bielany",
       "service_id": "6",
@@ -73012,7 +73012,7 @@
       ]
     },
     {
-      "trip_id": "6_17607643",
+      "trip_id": "6_17711656",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "6",
@@ -73308,7 +73308,7 @@
       ]
     },
     {
-      "trip_id": "6_17607644",
+      "trip_id": "6_17711657",
       "direction_id": "0",
       "headsign": "AUCHAN",
       "service_id": "6",
@@ -73631,7 +73631,7 @@
       ]
     },
     {
-      "trip_id": "6_17607645",
+      "trip_id": "6_17711658",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "6",
@@ -73936,7 +73936,7 @@
       ]
     },
     {
-      "trip_id": "6_17607646",
+      "trip_id": "6_17711659",
       "direction_id": "0",
       "headsign": "C.H. Aleja Bielany",
       "service_id": "6",
@@ -74250,7 +74250,7 @@
       ]
     },
     {
-      "trip_id": "6_17607647",
+      "trip_id": "6_17711660",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "6",
@@ -74546,7 +74546,7 @@
       ]
     },
     {
-      "trip_id": "6_17607648",
+      "trip_id": "6_17711661",
       "direction_id": "0",
       "headsign": "AUCHAN",
       "service_id": "6",
@@ -74869,7 +74869,7 @@
       ]
     },
     {
-      "trip_id": "6_17607649",
+      "trip_id": "6_17711662",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "6",
@@ -75174,7 +75174,7 @@
       ]
     },
     {
-      "trip_id": "6_17607650",
+      "trip_id": "6_17711663",
       "direction_id": "0",
       "headsign": "C.H. Aleja Bielany",
       "service_id": "6",
@@ -75488,7 +75488,7 @@
       ]
     },
     {
-      "trip_id": "6_17607651",
+      "trip_id": "6_17711664",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "6",
@@ -75784,7 +75784,7 @@
       ]
     },
     {
-      "trip_id": "6_17607652",
+      "trip_id": "6_17711665",
       "direction_id": "0",
       "headsign": "Zajezdnia TYSKA",
       "service_id": "6",
@@ -75936,7 +75936,7 @@
       ]
     },
     {
-      "trip_id": "6_17607653",
+      "trip_id": "6_17711666",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "6",
@@ -76097,7 +76097,7 @@
       ]
     },
     {
-      "trip_id": "6_17607654",
+      "trip_id": "6_17711667",
       "direction_id": "0",
       "headsign": "AUCHAN",
       "service_id": "6",
@@ -76420,7 +76420,7 @@
       ]
     },
     {
-      "trip_id": "6_17607655",
+      "trip_id": "6_17711668",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "6",
@@ -76725,7 +76725,7 @@
       ]
     },
     {
-      "trip_id": "6_17607656",
+      "trip_id": "6_17711669",
       "direction_id": "0",
       "headsign": "AUCHAN",
       "service_id": "6",
@@ -77048,7 +77048,7 @@
       ]
     },
     {
-      "trip_id": "6_17607657",
+      "trip_id": "6_17711670",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "6",
@@ -77353,7 +77353,7 @@
       ]
     },
     {
-      "trip_id": "6_17607658",
+      "trip_id": "6_17711671",
       "direction_id": "0",
       "headsign": "AUCHAN",
       "service_id": "6",
@@ -77676,7 +77676,7 @@
       ]
     },
     {
-      "trip_id": "6_17607659",
+      "trip_id": "6_17711672",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "6",
@@ -77981,7 +77981,7 @@
       ]
     },
     {
-      "trip_id": "6_17607660",
+      "trip_id": "6_17711673",
       "direction_id": "0",
       "headsign": "ROD Bielany",
       "service_id": "6",
@@ -78295,7 +78295,7 @@
       ]
     },
     {
-      "trip_id": "6_17607661",
+      "trip_id": "6_17711674",
       "direction_id": "1",
       "headsign": "Zajezdnia TYSKA",
       "service_id": "6",
@@ -78600,7 +78600,7 @@
       ]
     },
     {
-      "trip_id": "6_17607662",
+      "trip_id": "6_17711675",
       "direction_id": "0",
       "headsign": "ROD Bielany",
       "service_id": "6",
@@ -78905,7 +78905,7 @@
       ]
     },
     {
-      "trip_id": "6_17607663",
+      "trip_id": "6_17711676",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "6",
@@ -79210,7 +79210,7 @@
       ]
     },
     {
-      "trip_id": "6_17607664",
+      "trip_id": "6_17711677",
       "direction_id": "0",
       "headsign": "AUCHAN",
       "service_id": "6",
@@ -79533,7 +79533,7 @@
       ]
     },
     {
-      "trip_id": "6_17607665",
+      "trip_id": "6_17711678",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "6",
@@ -79838,7 +79838,7 @@
       ]
     },
     {
-      "trip_id": "6_17607666",
+      "trip_id": "6_17711679",
       "direction_id": "0",
       "headsign": "Zajezdnia TYSKA",
       "service_id": "6",
@@ -79990,7 +79990,7 @@
       ]
     },
     {
-      "trip_id": "6_17607667",
+      "trip_id": "6_17711680",
       "direction_id": "1",
       "headsign": "Chińska",
       "service_id": "6",
@@ -80142,7 +80142,7 @@
       ]
     },
     {
-      "trip_id": "6_17607668",
+      "trip_id": "6_17711681",
       "direction_id": "1",
       "headsign": "IWINY - rondo",
       "service_id": "6",
@@ -80195,7 +80195,7 @@
       ]
     },
     {
-      "trip_id": "6_17607669",
+      "trip_id": "6_17711682",
       "direction_id": "0",
       "headsign": "BROCHÓW",
       "service_id": "6",
@@ -80329,7 +80329,7 @@
       ]
     },
     {
-      "trip_id": "6_17607670",
+      "trip_id": "6_17711683",
       "direction_id": "0",
       "headsign": "C.H. Aleja Bielany",
       "service_id": "6",
@@ -80643,7 +80643,7 @@
       ]
     },
     {
-      "trip_id": "6_17607671",
+      "trip_id": "6_17711684",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "6",
@@ -80939,7 +80939,7 @@
       ]
     },
     {
-      "trip_id": "6_17607672",
+      "trip_id": "6_17711685",
       "direction_id": "0",
       "headsign": "C.H. Aleja Bielany",
       "service_id": "6",
@@ -81253,7 +81253,7 @@
       ]
     },
     {
-      "trip_id": "6_17607673",
+      "trip_id": "6_17711686",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "6",
@@ -81549,7 +81549,7 @@
       ]
     },
     {
-      "trip_id": "6_17607674",
+      "trip_id": "6_17711687",
       "direction_id": "0",
       "headsign": "Zajezdnia TYSKA",
       "service_id": "6",
@@ -81701,7 +81701,7 @@
       ]
     },
     {
-      "trip_id": "6_17607675",
+      "trip_id": "6_17711688",
       "direction_id": "0",
       "headsign": "ROD Bielany",
       "service_id": "6",
@@ -82006,7 +82006,7 @@
       ]
     },
     {
-      "trip_id": "6_17607676",
+      "trip_id": "6_17711689",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "6",
@@ -82311,7 +82311,7 @@
       ]
     },
     {
-      "trip_id": "6_17607677",
+      "trip_id": "6_17711690",
       "direction_id": "0",
       "headsign": "C.H. Aleja Bielany",
       "service_id": "6",
@@ -82625,7 +82625,7 @@
       ]
     },
     {
-      "trip_id": "6_17607678",
+      "trip_id": "6_17711691",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "6",
@@ -82921,7 +82921,7 @@
       ]
     },
     {
-      "trip_id": "6_17607679",
+      "trip_id": "6_17711692",
       "direction_id": "0",
       "headsign": "AUCHAN",
       "service_id": "6",
@@ -83244,7 +83244,7 @@
       ]
     },
     {
-      "trip_id": "6_17607680",
+      "trip_id": "6_17711693",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "6",
@@ -83549,7 +83549,7 @@
       ]
     },
     {
-      "trip_id": "6_17607681",
+      "trip_id": "6_17711694",
       "direction_id": "0",
       "headsign": "Zajezdnia TYSKA",
       "service_id": "6",
@@ -83701,7 +83701,7 @@
       ]
     },
     {
-      "trip_id": "6_17607682",
+      "trip_id": "6_17711695",
       "direction_id": "0",
       "headsign": "ROD Bielany",
       "service_id": "6",
@@ -84006,7 +84006,7 @@
       ]
     },
     {
-      "trip_id": "6_17607683",
+      "trip_id": "6_17711696",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "6",
@@ -84311,7 +84311,7 @@
       ]
     },
     {
-      "trip_id": "6_17607684",
+      "trip_id": "6_17711697",
       "direction_id": "0",
       "headsign": "C.H. Aleja Bielany",
       "service_id": "6",
@@ -84625,7 +84625,7 @@
       ]
     },
     {
-      "trip_id": "6_17607685",
+      "trip_id": "6_17711698",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "6",
@@ -84921,7 +84921,7 @@
       ]
     },
     {
-      "trip_id": "6_17607686",
+      "trip_id": "6_17711699",
       "direction_id": "0",
       "headsign": "C.H. Aleja Bielany",
       "service_id": "6",
@@ -85235,7 +85235,7 @@
       ]
     },
     {
-      "trip_id": "6_17607687",
+      "trip_id": "6_17711700",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "6",
@@ -85531,7 +85531,7 @@
       ]
     },
     {
-      "trip_id": "6_17607688",
+      "trip_id": "6_17711701",
       "direction_id": "0",
       "headsign": "C.H. Aleja Bielany",
       "service_id": "6",
@@ -85845,7 +85845,7 @@
       ]
     },
     {
-      "trip_id": "6_17607689",
+      "trip_id": "6_17711702",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "6",
@@ -86141,7 +86141,7 @@
       ]
     },
     {
-      "trip_id": "6_17607690",
+      "trip_id": "6_17711703",
       "direction_id": "0",
       "headsign": "Zajezdnia TYSKA",
       "service_id": "6",
@@ -86293,7 +86293,7 @@
       ]
     },
     {
-      "trip_id": "6_17609629",
+      "trip_id": "6_17713642",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "6",
@@ -86454,7 +86454,7 @@
       ]
     },
     {
-      "trip_id": "6_17609630",
+      "trip_id": "6_17713643",
       "direction_id": "0",
       "headsign": "ROD Bielany",
       "service_id": "6",
@@ -86768,7 +86768,7 @@
       ]
     },
     {
-      "trip_id": "6_17609631",
+      "trip_id": "6_17713644",
       "direction_id": "1",
       "headsign": "PETRUSEWICZA",
       "service_id": "6",
@@ -86956,7 +86956,7 @@
       ]
     },
     {
-      "trip_id": "8_17614385",
+      "trip_id": "8_17718398",
       "direction_id": "0",
       "headsign": "ROD Bielany",
       "service_id": "8",
@@ -87261,7 +87261,7 @@
       ]
     },
     {
-      "trip_id": "8_17614386",
+      "trip_id": "8_17718399",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "8",
@@ -87566,7 +87566,7 @@
       ]
     },
     {
-      "trip_id": "8_17614387",
+      "trip_id": "8_17718400",
       "direction_id": "0",
       "headsign": "ROD Bielany",
       "service_id": "8",
@@ -87880,7 +87880,7 @@
       ]
     },
     {
-      "trip_id": "8_17614388",
+      "trip_id": "8_17718401",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "8",
@@ -88185,7 +88185,7 @@
       ]
     },
     {
-      "trip_id": "8_17614389",
+      "trip_id": "8_17718402",
       "direction_id": "0",
       "headsign": "AUCHAN",
       "service_id": "8",
@@ -88508,7 +88508,7 @@
       ]
     },
     {
-      "trip_id": "8_17614390",
+      "trip_id": "8_17718403",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "8",
@@ -88813,7 +88813,7 @@
       ]
     },
     {
-      "trip_id": "8_17614391",
+      "trip_id": "8_17718404",
       "direction_id": "0",
       "headsign": "C.H. Aleja Bielany",
       "service_id": "8",
@@ -89127,7 +89127,7 @@
       ]
     },
     {
-      "trip_id": "8_17614392",
+      "trip_id": "8_17718405",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "8",
@@ -89423,7 +89423,7 @@
       ]
     },
     {
-      "trip_id": "8_17614393",
+      "trip_id": "8_17718406",
       "direction_id": "0",
       "headsign": "C.H. Aleja Bielany",
       "service_id": "8",
@@ -89737,7 +89737,7 @@
       ]
     },
     {
-      "trip_id": "8_17614394",
+      "trip_id": "8_17718407",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "8",
@@ -90033,7 +90033,7 @@
       ]
     },
     {
-      "trip_id": "8_17614395",
+      "trip_id": "8_17718408",
       "direction_id": "0",
       "headsign": "C.H. Aleja Bielany",
       "service_id": "8",
@@ -90347,7 +90347,7 @@
       ]
     },
     {
-      "trip_id": "8_17614396",
+      "trip_id": "8_17718409",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "8",
@@ -90643,7 +90643,7 @@
       ]
     },
     {
-      "trip_id": "8_17614397",
+      "trip_id": "8_17718410",
       "direction_id": "0",
       "headsign": "Zajezdnia TYSKA",
       "service_id": "8",
@@ -90795,7 +90795,7 @@
       ]
     },
     {
-      "trip_id": "8_17614398",
+      "trip_id": "8_17718411",
       "direction_id": "0",
       "headsign": "ROD Bielany",
       "service_id": "8",
@@ -91100,7 +91100,7 @@
       ]
     },
     {
-      "trip_id": "8_17614399",
+      "trip_id": "8_17718412",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "8",
@@ -91405,7 +91405,7 @@
       ]
     },
     {
-      "trip_id": "8_17614400",
+      "trip_id": "8_17718413",
       "direction_id": "0",
       "headsign": "C.H. Aleja Bielany",
       "service_id": "8",
@@ -91719,7 +91719,7 @@
       ]
     },
     {
-      "trip_id": "8_17614401",
+      "trip_id": "8_17718414",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "8",
@@ -92015,7 +92015,7 @@
       ]
     },
     {
-      "trip_id": "8_17614402",
+      "trip_id": "8_17718415",
       "direction_id": "0",
       "headsign": "C.H. Aleja Bielany",
       "service_id": "8",
@@ -92329,7 +92329,7 @@
       ]
     },
     {
-      "trip_id": "8_17614403",
+      "trip_id": "8_17718416",
       "direction_id": "1",
       "headsign": "Zajezdnia TYSKA",
       "service_id": "8",
@@ -92625,7 +92625,7 @@
       ]
     },
     {
-      "trip_id": "8_17614404",
+      "trip_id": "8_17718417",
       "direction_id": "0",
       "headsign": "ROD Bielany",
       "service_id": "8",
@@ -92930,7 +92930,7 @@
       ]
     },
     {
-      "trip_id": "8_17614405",
+      "trip_id": "8_17718418",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "8",
@@ -93235,7 +93235,7 @@
       ]
     },
     {
-      "trip_id": "8_17614406",
+      "trip_id": "8_17718419",
       "direction_id": "0",
       "headsign": "AUCHAN",
       "service_id": "8",
@@ -93558,7 +93558,7 @@
       ]
     },
     {
-      "trip_id": "8_17614407",
+      "trip_id": "8_17718420",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "8",
@@ -93863,7 +93863,7 @@
       ]
     },
     {
-      "trip_id": "8_17614408",
+      "trip_id": "8_17718421",
       "direction_id": "0",
       "headsign": "AUCHAN",
       "service_id": "8",
@@ -94186,7 +94186,7 @@
       ]
     },
     {
-      "trip_id": "8_17614409",
+      "trip_id": "8_17718422",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "8",
@@ -94491,7 +94491,7 @@
       ]
     },
     {
-      "trip_id": "8_17614410",
+      "trip_id": "8_17718423",
       "direction_id": "0",
       "headsign": "C.H. Aleja Bielany",
       "service_id": "8",
@@ -94805,7 +94805,7 @@
       ]
     },
     {
-      "trip_id": "8_17614411",
+      "trip_id": "8_17718424",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "8",
@@ -95101,7 +95101,7 @@
       ]
     },
     {
-      "trip_id": "8_17614412",
+      "trip_id": "8_17718425",
       "direction_id": "0",
       "headsign": "AUCHAN",
       "service_id": "8",
@@ -95424,7 +95424,7 @@
       ]
     },
     {
-      "trip_id": "8_17614413",
+      "trip_id": "8_17718426",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "8",
@@ -95729,7 +95729,7 @@
       ]
     },
     {
-      "trip_id": "8_17614414",
+      "trip_id": "8_17718427",
       "direction_id": "0",
       "headsign": "C.H. Aleja Bielany",
       "service_id": "8",
@@ -96043,7 +96043,7 @@
       ]
     },
     {
-      "trip_id": "8_17614415",
+      "trip_id": "8_17718428",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "8",
@@ -96339,7 +96339,7 @@
       ]
     },
     {
-      "trip_id": "8_17614416",
+      "trip_id": "8_17718429",
       "direction_id": "0",
       "headsign": "AUCHAN",
       "service_id": "8",
@@ -96662,7 +96662,7 @@
       ]
     },
     {
-      "trip_id": "8_17614417",
+      "trip_id": "8_17718430",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "8",
@@ -96967,7 +96967,7 @@
       ]
     },
     {
-      "trip_id": "8_17614418",
+      "trip_id": "8_17718431",
       "direction_id": "0",
       "headsign": "Zajezdnia TYSKA",
       "service_id": "8",
@@ -97119,7 +97119,7 @@
       ]
     },
     {
-      "trip_id": "8_17614419",
+      "trip_id": "8_17718432",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "8",
@@ -97280,7 +97280,7 @@
       ]
     },
     {
-      "trip_id": "8_17614420",
+      "trip_id": "8_17718433",
       "direction_id": "0",
       "headsign": "ROD Bielany",
       "service_id": "8",
@@ -97594,7 +97594,7 @@
       ]
     },
     {
-      "trip_id": "8_17614421",
+      "trip_id": "8_17718434",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "8",
@@ -97899,7 +97899,7 @@
       ]
     },
     {
-      "trip_id": "8_17614422",
+      "trip_id": "8_17718435",
       "direction_id": "0",
       "headsign": "C.H. Aleja Bielany",
       "service_id": "8",
@@ -98213,7 +98213,7 @@
       ]
     },
     {
-      "trip_id": "8_17614423",
+      "trip_id": "8_17718436",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "8",
@@ -98509,7 +98509,7 @@
       ]
     },
     {
-      "trip_id": "8_17614424",
+      "trip_id": "8_17718437",
       "direction_id": "0",
       "headsign": "Zajezdnia TYSKA",
       "service_id": "8",
@@ -98661,7 +98661,7 @@
       ]
     },
     {
-      "trip_id": "8_17614425",
+      "trip_id": "8_17718438",
       "direction_id": "0",
       "headsign": "ROD Bielany",
       "service_id": "8",
@@ -98966,7 +98966,7 @@
       ]
     },
     {
-      "trip_id": "8_17614426",
+      "trip_id": "8_17718439",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "8",
@@ -99271,7 +99271,7 @@
       ]
     },
     {
-      "trip_id": "8_17614427",
+      "trip_id": "8_17718440",
       "direction_id": "0",
       "headsign": "AUCHAN",
       "service_id": "8",
@@ -99594,7 +99594,7 @@
       ]
     },
     {
-      "trip_id": "8_17614428",
+      "trip_id": "8_17718441",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "8",
@@ -99899,7 +99899,7 @@
       ]
     },
     {
-      "trip_id": "8_17614429",
+      "trip_id": "8_17718442",
       "direction_id": "0",
       "headsign": "C.H. Aleja Bielany",
       "service_id": "8",
@@ -100213,7 +100213,7 @@
       ]
     },
     {
-      "trip_id": "8_17614430",
+      "trip_id": "8_17718443",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "8",
@@ -100509,7 +100509,7 @@
       ]
     },
     {
-      "trip_id": "8_17614431",
+      "trip_id": "8_17718444",
       "direction_id": "0",
       "headsign": "AUCHAN",
       "service_id": "8",
@@ -100832,7 +100832,7 @@
       ]
     },
     {
-      "trip_id": "8_17614432",
+      "trip_id": "8_17718445",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "8",
@@ -101137,7 +101137,7 @@
       ]
     },
     {
-      "trip_id": "8_17614433",
+      "trip_id": "8_17718446",
       "direction_id": "0",
       "headsign": "C.H. Aleja Bielany",
       "service_id": "8",
@@ -101451,7 +101451,7 @@
       ]
     },
     {
-      "trip_id": "8_17614434",
+      "trip_id": "8_17718447",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "8",
@@ -101747,7 +101747,7 @@
       ]
     },
     {
-      "trip_id": "8_17614435",
+      "trip_id": "8_17718448",
       "direction_id": "0",
       "headsign": "C.H. Aleja Bielany",
       "service_id": "8",
@@ -102061,7 +102061,7 @@
       ]
     },
     {
-      "trip_id": "8_17614436",
+      "trip_id": "8_17718449",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "8",
@@ -102357,7 +102357,7 @@
       ]
     },
     {
-      "trip_id": "8_17614437",
+      "trip_id": "8_17718450",
       "direction_id": "0",
       "headsign": "Zajezdnia TYSKA",
       "service_id": "8",
@@ -102509,7 +102509,7 @@
       ]
     },
     {
-      "trip_id": "8_17614438",
+      "trip_id": "8_17718451",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "8",
@@ -102670,7 +102670,7 @@
       ]
     },
     {
-      "trip_id": "8_17614439",
+      "trip_id": "8_17718452",
       "direction_id": "0",
       "headsign": "ROD Bielany",
       "service_id": "8",
@@ -102984,7 +102984,7 @@
       ]
     },
     {
-      "trip_id": "8_17614440",
+      "trip_id": "8_17718453",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "8",
@@ -103289,7 +103289,7 @@
       ]
     },
     {
-      "trip_id": "8_17614441",
+      "trip_id": "8_17718454",
       "direction_id": "0",
       "headsign": "C.H. Aleja Bielany",
       "service_id": "8",
@@ -103603,7 +103603,7 @@
       ]
     },
     {
-      "trip_id": "8_17614442",
+      "trip_id": "8_17718455",
       "direction_id": "1",
       "headsign": "Zajezdnia TYSKA",
       "service_id": "8",
@@ -103899,7 +103899,7 @@
       ]
     },
     {
-      "trip_id": "8_17614443",
+      "trip_id": "8_17718456",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "8",
@@ -104060,7 +104060,7 @@
       ]
     },
     {
-      "trip_id": "8_17614444",
+      "trip_id": "8_17718457",
       "direction_id": "0",
       "headsign": "ROD Bielany",
       "service_id": "8",
@@ -104374,7 +104374,7 @@
       ]
     },
     {
-      "trip_id": "8_17614445",
+      "trip_id": "8_17718458",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "8",
@@ -104679,7 +104679,7 @@
       ]
     },
     {
-      "trip_id": "8_17614446",
+      "trip_id": "8_17718459",
       "direction_id": "0",
       "headsign": "AUCHAN",
       "service_id": "8",
@@ -105002,7 +105002,7 @@
       ]
     },
     {
-      "trip_id": "8_17614447",
+      "trip_id": "8_17718460",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "8",
@@ -105307,7 +105307,7 @@
       ]
     },
     {
-      "trip_id": "8_17614448",
+      "trip_id": "8_17718461",
       "direction_id": "0",
       "headsign": "AUCHAN",
       "service_id": "8",
@@ -105630,7 +105630,7 @@
       ]
     },
     {
-      "trip_id": "8_17614449",
+      "trip_id": "8_17718462",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "8",
@@ -105935,7 +105935,7 @@
       ]
     },
     {
-      "trip_id": "8_17614450",
+      "trip_id": "8_17718463",
       "direction_id": "0",
       "headsign": "C.H. Aleja Bielany",
       "service_id": "8",
@@ -106249,7 +106249,7 @@
       ]
     },
     {
-      "trip_id": "8_17614451",
+      "trip_id": "8_17718464",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "8",
@@ -106545,7 +106545,7 @@
       ]
     },
     {
-      "trip_id": "8_17614452",
+      "trip_id": "8_17718465",
       "direction_id": "0",
       "headsign": "AUCHAN",
       "service_id": "8",
@@ -106868,7 +106868,7 @@
       ]
     },
     {
-      "trip_id": "8_17614453",
+      "trip_id": "8_17718466",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "8",
@@ -107173,7 +107173,7 @@
       ]
     },
     {
-      "trip_id": "8_17614454",
+      "trip_id": "8_17718467",
       "direction_id": "0",
       "headsign": "C.H. Aleja Bielany",
       "service_id": "8",
@@ -107487,7 +107487,7 @@
       ]
     },
     {
-      "trip_id": "8_17614455",
+      "trip_id": "8_17718468",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "8",
@@ -107783,7 +107783,7 @@
       ]
     },
     {
-      "trip_id": "8_17614456",
+      "trip_id": "8_17718469",
       "direction_id": "0",
       "headsign": "AUCHAN",
       "service_id": "8",
@@ -108106,7 +108106,7 @@
       ]
     },
     {
-      "trip_id": "8_17614457",
+      "trip_id": "8_17718470",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "8",
@@ -108411,7 +108411,7 @@
       ]
     },
     {
-      "trip_id": "8_17614458",
+      "trip_id": "8_17718471",
       "direction_id": "0",
       "headsign": "C.H. Aleja Bielany",
       "service_id": "8",
@@ -108725,7 +108725,7 @@
       ]
     },
     {
-      "trip_id": "8_17614459",
+      "trip_id": "8_17718472",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "8",
@@ -109021,7 +109021,7 @@
       ]
     },
     {
-      "trip_id": "8_17614460",
+      "trip_id": "8_17718473",
       "direction_id": "0",
       "headsign": "Zajezdnia TYSKA",
       "service_id": "8",
@@ -109173,7 +109173,7 @@
       ]
     },
     {
-      "trip_id": "8_17614461",
+      "trip_id": "8_17718474",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "8",
@@ -109334,7 +109334,7 @@
       ]
     },
     {
-      "trip_id": "8_17614462",
+      "trip_id": "8_17718475",
       "direction_id": "0",
       "headsign": "C.H. Aleja Bielany",
       "service_id": "8",
@@ -109648,7 +109648,7 @@
       ]
     },
     {
-      "trip_id": "8_17614463",
+      "trip_id": "8_17718476",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "8",
@@ -109944,7 +109944,7 @@
       ]
     },
     {
-      "trip_id": "8_17614464",
+      "trip_id": "8_17718477",
       "direction_id": "1",
       "headsign": "IWINY - rondo",
       "service_id": "8",
@@ -109988,7 +109988,7 @@
       ]
     },
     {
-      "trip_id": "8_17614465",
+      "trip_id": "8_17718478",
       "direction_id": "0",
       "headsign": "BROCHÓW",
       "service_id": "8",
@@ -110122,7 +110122,7 @@
       ]
     },
     {
-      "trip_id": "8_17614466",
+      "trip_id": "8_17718479",
       "direction_id": "0",
       "headsign": "C.H. Aleja Bielany",
       "service_id": "8",
@@ -110436,7 +110436,7 @@
       ]
     },
     {
-      "trip_id": "8_17614467",
+      "trip_id": "8_17718480",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "8",
@@ -110732,7 +110732,7 @@
       ]
     },
     {
-      "trip_id": "8_17614468",
+      "trip_id": "8_17718481",
       "direction_id": "0",
       "headsign": "C.H. Aleja Bielany",
       "service_id": "8",
@@ -111046,7 +111046,7 @@
       ]
     },
     {
-      "trip_id": "8_17614469",
+      "trip_id": "8_17718482",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "8",
@@ -111342,7 +111342,7 @@
       ]
     },
     {
-      "trip_id": "8_17614470",
+      "trip_id": "8_17718483",
       "direction_id": "0",
       "headsign": "AUCHAN",
       "service_id": "8",
@@ -111665,7 +111665,7 @@
       ]
     },
     {
-      "trip_id": "8_17614471",
+      "trip_id": "8_17718484",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "8",
@@ -111970,7 +111970,7 @@
       ]
     },
     {
-      "trip_id": "8_17614472",
+      "trip_id": "8_17718485",
       "direction_id": "0",
       "headsign": "C.H. Aleja Bielany",
       "service_id": "8",
@@ -112284,7 +112284,7 @@
       ]
     },
     {
-      "trip_id": "8_17614473",
+      "trip_id": "8_17718486",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "8",
@@ -112580,7 +112580,7 @@
       ]
     },
     {
-      "trip_id": "8_17614474",
+      "trip_id": "8_17718487",
       "direction_id": "0",
       "headsign": "AUCHAN",
       "service_id": "8",
@@ -112903,7 +112903,7 @@
       ]
     },
     {
-      "trip_id": "8_17614475",
+      "trip_id": "8_17718488",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "8",
@@ -113208,7 +113208,7 @@
       ]
     },
     {
-      "trip_id": "8_17614476",
+      "trip_id": "8_17718489",
       "direction_id": "0",
       "headsign": "C.H. Aleja Bielany",
       "service_id": "8",
@@ -113522,7 +113522,7 @@
       ]
     },
     {
-      "trip_id": "8_17614477",
+      "trip_id": "8_17718490",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "8",
@@ -113818,7 +113818,7 @@
       ]
     },
     {
-      "trip_id": "8_17614478",
+      "trip_id": "8_17718491",
       "direction_id": "0",
       "headsign": "Zajezdnia TYSKA",
       "service_id": "8",
@@ -113970,7 +113970,7 @@
       ]
     },
     {
-      "trip_id": "8_17614479",
+      "trip_id": "8_17718492",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "8",
@@ -114131,7 +114131,7 @@
       ]
     },
     {
-      "trip_id": "8_17614480",
+      "trip_id": "8_17718493",
       "direction_id": "0",
       "headsign": "AUCHAN",
       "service_id": "8",
@@ -114454,7 +114454,7 @@
       ]
     },
     {
-      "trip_id": "8_17614481",
+      "trip_id": "8_17718494",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "8",
@@ -114759,7 +114759,7 @@
       ]
     },
     {
-      "trip_id": "8_17614482",
+      "trip_id": "8_17718495",
       "direction_id": "0",
       "headsign": "AUCHAN",
       "service_id": "8",
@@ -115082,7 +115082,7 @@
       ]
     },
     {
-      "trip_id": "8_17614483",
+      "trip_id": "8_17718496",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "8",
@@ -115387,7 +115387,7 @@
       ]
     },
     {
-      "trip_id": "8_17614484",
+      "trip_id": "8_17718497",
       "direction_id": "0",
       "headsign": "AUCHAN",
       "service_id": "8",
@@ -115710,7 +115710,7 @@
       ]
     },
     {
-      "trip_id": "8_17614485",
+      "trip_id": "8_17718498",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "8",
@@ -116015,7 +116015,7 @@
       ]
     },
     {
-      "trip_id": "8_17614486",
+      "trip_id": "8_17718499",
       "direction_id": "0",
       "headsign": "ROD Bielany",
       "service_id": "8",
@@ -116329,7 +116329,7 @@
       ]
     },
     {
-      "trip_id": "8_17614487",
+      "trip_id": "8_17718500",
       "direction_id": "1",
       "headsign": "Zajezdnia TYSKA",
       "service_id": "8",
@@ -116634,7 +116634,7 @@
       ]
     },
     {
-      "trip_id": "8_17614488",
+      "trip_id": "8_17718501",
       "direction_id": "0",
       "headsign": "ROD Bielany",
       "service_id": "8",
@@ -116939,7 +116939,7 @@
       ]
     },
     {
-      "trip_id": "8_17614489",
+      "trip_id": "8_17718502",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "8",
@@ -117244,7 +117244,7 @@
       ]
     },
     {
-      "trip_id": "8_17614490",
+      "trip_id": "8_17718503",
       "direction_id": "0",
       "headsign": "AUCHAN",
       "service_id": "8",
@@ -117567,7 +117567,7 @@
       ]
     },
     {
-      "trip_id": "8_17614491",
+      "trip_id": "8_17718504",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "8",
@@ -117872,7 +117872,7 @@
       ]
     },
     {
-      "trip_id": "8_17614492",
+      "trip_id": "8_17718505",
       "direction_id": "0",
       "headsign": "Zajezdnia TYSKA",
       "service_id": "8",
@@ -118024,7 +118024,7 @@
       ]
     },
     {
-      "trip_id": "8_17614493",
+      "trip_id": "8_17718506",
       "direction_id": "1",
       "headsign": "Chińska",
       "service_id": "8",
@@ -118176,7 +118176,7 @@
       ]
     },
     {
-      "trip_id": "8_17614494",
+      "trip_id": "8_17718507",
       "direction_id": "1",
       "headsign": "IWINY - rondo",
       "service_id": "8",
@@ -118229,7 +118229,7 @@
       ]
     },
     {
-      "trip_id": "8_17614495",
+      "trip_id": "8_17718508",
       "direction_id": "0",
       "headsign": "BROCHÓW",
       "service_id": "8",
@@ -118363,7 +118363,7 @@
       ]
     },
     {
-      "trip_id": "8_17614496",
+      "trip_id": "8_17718509",
       "direction_id": "0",
       "headsign": "C.H. Aleja Bielany",
       "service_id": "8",
@@ -118677,7 +118677,7 @@
       ]
     },
     {
-      "trip_id": "8_17614497",
+      "trip_id": "8_17718510",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "8",
@@ -118973,7 +118973,7 @@
       ]
     },
     {
-      "trip_id": "8_17614498",
+      "trip_id": "8_17718511",
       "direction_id": "0",
       "headsign": "C.H. Aleja Bielany",
       "service_id": "8",
@@ -119287,7 +119287,7 @@
       ]
     },
     {
-      "trip_id": "8_17614499",
+      "trip_id": "8_17718512",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "8",
@@ -119583,7 +119583,7 @@
       ]
     },
     {
-      "trip_id": "8_17614500",
+      "trip_id": "8_17718513",
       "direction_id": "0",
       "headsign": "Zajezdnia TYSKA",
       "service_id": "8",
@@ -119735,7 +119735,7 @@
       ]
     },
     {
-      "trip_id": "8_17614501",
+      "trip_id": "8_17718514",
       "direction_id": "0",
       "headsign": "ROD Bielany",
       "service_id": "8",
@@ -120040,7 +120040,7 @@
       ]
     },
     {
-      "trip_id": "8_17614502",
+      "trip_id": "8_17718515",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "8",
@@ -120345,7 +120345,7 @@
       ]
     },
     {
-      "trip_id": "8_17614503",
+      "trip_id": "8_17718516",
       "direction_id": "0",
       "headsign": "C.H. Aleja Bielany",
       "service_id": "8",
@@ -120659,7 +120659,7 @@
       ]
     },
     {
-      "trip_id": "8_17614504",
+      "trip_id": "8_17718517",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "8",
@@ -120955,7 +120955,7 @@
       ]
     },
     {
-      "trip_id": "8_17614505",
+      "trip_id": "8_17718518",
       "direction_id": "0",
       "headsign": "AUCHAN",
       "service_id": "8",
@@ -121278,7 +121278,7 @@
       ]
     },
     {
-      "trip_id": "8_17614506",
+      "trip_id": "8_17718519",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "8",
@@ -121583,7 +121583,7 @@
       ]
     },
     {
-      "trip_id": "8_17614507",
+      "trip_id": "8_17718520",
       "direction_id": "0",
       "headsign": "Zajezdnia TYSKA",
       "service_id": "8",
@@ -121735,7 +121735,7 @@
       ]
     },
     {
-      "trip_id": "8_17614508",
+      "trip_id": "8_17718521",
       "direction_id": "0",
       "headsign": "ROD Bielany",
       "service_id": "8",
@@ -122040,7 +122040,7 @@
       ]
     },
     {
-      "trip_id": "8_17614509",
+      "trip_id": "8_17718522",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "8",
@@ -122345,7 +122345,7 @@
       ]
     },
     {
-      "trip_id": "8_17614510",
+      "trip_id": "8_17718523",
       "direction_id": "0",
       "headsign": "C.H. Aleja Bielany",
       "service_id": "8",
@@ -122659,7 +122659,7 @@
       ]
     },
     {
-      "trip_id": "8_17614511",
+      "trip_id": "8_17718524",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "8",
@@ -122955,7 +122955,7 @@
       ]
     },
     {
-      "trip_id": "8_17614512",
+      "trip_id": "8_17718525",
       "direction_id": "0",
       "headsign": "C.H. Aleja Bielany",
       "service_id": "8",
@@ -123269,7 +123269,7 @@
       ]
     },
     {
-      "trip_id": "8_17614513",
+      "trip_id": "8_17718526",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "8",
@@ -123565,7 +123565,7 @@
       ]
     },
     {
-      "trip_id": "8_17614514",
+      "trip_id": "8_17718527",
       "direction_id": "0",
       "headsign": "C.H. Aleja Bielany",
       "service_id": "8",
@@ -123879,7 +123879,7 @@
       ]
     },
     {
-      "trip_id": "8_17614515",
+      "trip_id": "8_17718528",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "8",
@@ -124175,7 +124175,7 @@
       ]
     },
     {
-      "trip_id": "8_17614516",
+      "trip_id": "8_17718529",
       "direction_id": "0",
       "headsign": "Zajezdnia TYSKA",
       "service_id": "8",
@@ -124327,7 +124327,7 @@
       ]
     },
     {
-      "trip_id": "8_17616455",
+      "trip_id": "8_17720468",
       "direction_id": "1",
       "headsign": "BROCHÓW",
       "service_id": "8",
@@ -124488,7 +124488,7 @@
       ]
     },
     {
-      "trip_id": "8_17616456",
+      "trip_id": "8_17720469",
       "direction_id": "0",
       "headsign": "ROD Bielany",
       "service_id": "8",
@@ -124802,7 +124802,7 @@
       ]
     },
     {
-      "trip_id": "8_17616457",
+      "trip_id": "8_17720470",
       "direction_id": "1",
       "headsign": "PETRUSEWICZA",
       "service_id": "8",

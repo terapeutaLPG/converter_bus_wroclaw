@@ -2,7 +2,7 @@
   "line": "914",
   "trips": [
     {
-      "trip_id": "3_17617967",
+      "trip_id": "3_17636642",
       "direction_id": "0",
       "headsign": "GALERIA DOMINIKAŃSKA",
       "service_id": "3",
@@ -316,7 +316,7 @@
         {
           "stop_sequence": 34,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "05:24:00",
           "departure_time": "05:24:00",
           "lat": 51.10891574,
@@ -325,7 +325,7 @@
       ]
     },
     {
-      "trip_id": "3_17617970",
+      "trip_id": "3_17636645",
       "direction_id": "1",
       "headsign": "Pruszowice",
       "service_id": "3",
@@ -333,7 +333,7 @@
         {
           "stop_sequence": 0,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "08:13:00",
           "departure_time": "08:13:00",
           "lat": 51.10891574,
@@ -630,7 +630,7 @@
       ]
     },
     {
-      "trip_id": "3_17617971",
+      "trip_id": "3_17636646",
       "direction_id": "0",
       "headsign": "GALERIA DOMINIKAŃSKA",
       "service_id": "3",
@@ -944,7 +944,7 @@
         {
           "stop_sequence": 34,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "10:10:00",
           "departure_time": "10:10:00",
           "lat": 51.10891574,
@@ -953,7 +953,7 @@
       ]
     },
     {
-      "trip_id": "3_17617978",
+      "trip_id": "3_17636653",
       "direction_id": "1",
       "headsign": "Pruszowice",
       "service_id": "3",
@@ -961,7 +961,7 @@
         {
           "stop_sequence": 0,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "18:08:00",
           "departure_time": "18:08:00",
           "lat": 51.10891574,
@@ -1258,7 +1258,7 @@
       ]
     },
     {
-      "trip_id": "3_17617979",
+      "trip_id": "3_17636654",
       "direction_id": "0",
       "headsign": "GALERIA DOMINIKAŃSKA",
       "service_id": "3",
@@ -1572,7 +1572,7 @@
         {
           "stop_sequence": 34,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "20:04:00",
           "departure_time": "20:04:00",
           "lat": 51.10891574,
@@ -1581,7 +1581,7 @@
       ]
     },
     {
-      "trip_id": "3_17617982",
+      "trip_id": "3_17636657",
       "direction_id": "1",
       "headsign": "Pruszowice",
       "service_id": "3",
@@ -1589,7 +1589,7 @@
         {
           "stop_sequence": 0,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "22:57:00",
           "departure_time": "22:57:00",
           "lat": 51.10891574,
@@ -1886,7 +1886,7 @@
       ]
     },
     {
-      "trip_id": "3_17617986",
+      "trip_id": "3_17636661",
       "direction_id": "1",
       "headsign": "Pruszowice",
       "service_id": "3",
@@ -1894,7 +1894,7 @@
         {
           "stop_sequence": 0,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "09:08:00",
           "departure_time": "09:08:00",
           "lat": 51.10891574,
@@ -2191,7 +2191,7 @@
       ]
     },
     {
-      "trip_id": "3_17617987",
+      "trip_id": "3_17636662",
       "direction_id": "0",
       "headsign": "GALERIA DOMINIKAŃSKA",
       "service_id": "3",
@@ -2505,7 +2505,7 @@
         {
           "stop_sequence": 34,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "11:24:00",
           "departure_time": "11:24:00",
           "lat": 51.10891574,
@@ -2514,7 +2514,7 @@
       ]
     },
     {
-      "trip_id": "3_17617988",
+      "trip_id": "3_17636663",
       "direction_id": "1",
       "headsign": "Pruszowice",
       "service_id": "3",
@@ -2522,7 +2522,7 @@
         {
           "stop_sequence": 0,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "11:38:00",
           "departure_time": "11:38:00",
           "lat": 51.10891574,
@@ -2819,7 +2819,7 @@
       ]
     },
     {
-      "trip_id": "3_17617989",
+      "trip_id": "3_17636664",
       "direction_id": "0",
       "headsign": "GALERIA DOMINIKAŃSKA",
       "service_id": "3",
@@ -3133,7 +3133,7 @@
         {
           "stop_sequence": 34,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "13:54:00",
           "departure_time": "13:54:00",
           "lat": 51.10891574,
@@ -3142,7 +3142,7 @@
       ]
     },
     {
-      "trip_id": "3_17617990",
+      "trip_id": "3_17636665",
       "direction_id": "1",
       "headsign": "Pruszowice",
       "service_id": "3",
@@ -3150,7 +3150,7 @@
         {
           "stop_sequence": 0,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "14:08:00",
           "departure_time": "14:08:00",
           "lat": 51.10891574,
@@ -3447,7 +3447,7 @@
       ]
     },
     {
-      "trip_id": "3_17617991",
+      "trip_id": "3_17636666",
       "direction_id": "0",
       "headsign": "GALERIA DOMINIKAŃSKA",
       "service_id": "3",
@@ -3761,7 +3761,7 @@
         {
           "stop_sequence": 34,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "16:24:00",
           "departure_time": "16:24:00",
           "lat": 51.10891574,
@@ -3770,7 +3770,7 @@
       ]
     },
     {
-      "trip_id": "3_17617992",
+      "trip_id": "3_17636667",
       "direction_id": "1",
       "headsign": "Pruszowice",
       "service_id": "3",
@@ -3778,7 +3778,7 @@
         {
           "stop_sequence": 0,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "16:38:00",
           "departure_time": "16:38:00",
           "lat": 51.10891574,
@@ -4075,7 +4075,7 @@
       ]
     },
     {
-      "trip_id": "3_17617993",
+      "trip_id": "3_17636668",
       "direction_id": "0",
       "headsign": "GALERIA DOMINIKAŃSKA",
       "service_id": "3",
@@ -4389,7 +4389,7 @@
         {
           "stop_sequence": 34,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "18:24:00",
           "departure_time": "18:24:00",
           "lat": 51.10891574,
@@ -4398,7 +4398,7 @@
       ]
     },
     {
-      "trip_id": "3_17617996",
+      "trip_id": "3_17636671",
       "direction_id": "1",
       "headsign": "Pruszowice",
       "service_id": "3",
@@ -4406,7 +4406,7 @@
         {
           "stop_sequence": 0,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "21:05:00",
           "departure_time": "21:05:00",
           "lat": 51.10891574,
@@ -4703,7 +4703,7 @@
       ]
     },
     {
-      "trip_id": "3_17617997",
+      "trip_id": "3_17636672",
       "direction_id": "0",
       "headsign": "GALERIA DOMINIKAŃSKA",
       "service_id": "3",
@@ -5017,7 +5017,7 @@
         {
           "stop_sequence": 34,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "23:05:00",
           "departure_time": "23:05:00",
           "lat": 51.10891574,
@@ -5026,7 +5026,7 @@
       ]
     },
     {
-      "trip_id": "3_17618101",
+      "trip_id": "3_17636776",
       "direction_id": "1",
       "headsign": "Pruszowice",
       "service_id": "3",
@@ -5034,7 +5034,7 @@
         {
           "stop_sequence": 0,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "10:08:00",
           "departure_time": "10:08:00",
           "lat": 51.10891574,
@@ -5331,7 +5331,7 @@
       ]
     },
     {
-      "trip_id": "3_17618102",
+      "trip_id": "3_17636777",
       "direction_id": "0",
       "headsign": "GALERIA DOMINIKAŃSKA",
       "service_id": "3",
@@ -5645,7 +5645,7 @@
         {
           "stop_sequence": 34,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "12:24:00",
           "departure_time": "12:24:00",
           "lat": 51.10891574,
@@ -5654,7 +5654,7 @@
       ]
     },
     {
-      "trip_id": "3_17618103",
+      "trip_id": "3_17636778",
       "direction_id": "1",
       "headsign": "Pruszowice",
       "service_id": "3",
@@ -5662,7 +5662,7 @@
         {
           "stop_sequence": 0,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "12:38:00",
           "departure_time": "12:38:00",
           "lat": 51.10891574,
@@ -5959,7 +5959,7 @@
       ]
     },
     {
-      "trip_id": "3_17618104",
+      "trip_id": "3_17636779",
       "direction_id": "0",
       "headsign": "GALERIA DOMINIKAŃSKA",
       "service_id": "3",
@@ -6273,7 +6273,7 @@
         {
           "stop_sequence": 34,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "14:54:00",
           "departure_time": "14:54:00",
           "lat": 51.10891574,
@@ -6282,7 +6282,7 @@
       ]
     },
     {
-      "trip_id": "3_17618105",
+      "trip_id": "3_17636780",
       "direction_id": "1",
       "headsign": "Pruszowice",
       "service_id": "3",
@@ -6290,7 +6290,7 @@
         {
           "stop_sequence": 0,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "15:08:00",
           "departure_time": "15:08:00",
           "lat": 51.10891574,
@@ -6587,7 +6587,7 @@
       ]
     },
     {
-      "trip_id": "3_17618106",
+      "trip_id": "3_17636781",
       "direction_id": "0",
       "headsign": "GALERIA DOMINIKAŃSKA",
       "service_id": "3",
@@ -6901,7 +6901,7 @@
         {
           "stop_sequence": 34,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "17:24:00",
           "departure_time": "17:24:00",
           "lat": 51.10891574,
@@ -6910,7 +6910,7 @@
       ]
     },
     {
-      "trip_id": "3_17618114",
+      "trip_id": "3_17636789",
       "direction_id": "1",
       "headsign": "Pruszowice",
       "service_id": "3",
@@ -6918,7 +6918,7 @@
         {
           "stop_sequence": 0,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "19:08:00",
           "departure_time": "19:08:00",
           "lat": 51.10891574,
@@ -7215,7 +7215,7 @@
       ]
     },
     {
-      "trip_id": "3_17618115",
+      "trip_id": "3_17636790",
       "direction_id": "0",
       "headsign": "GALERIA DOMINIKAŃSKA",
       "service_id": "3",
@@ -7529,7 +7529,7 @@
         {
           "stop_sequence": 34,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "20:59:00",
           "departure_time": "20:59:00",
           "lat": 51.10891574,
@@ -7538,7 +7538,7 @@
       ]
     },
     {
-      "trip_id": "3_17618303",
+      "trip_id": "3_17636983",
       "direction_id": "1",
       "headsign": "Pruszowice",
       "service_id": "3",
@@ -7546,7 +7546,7 @@
         {
           "stop_sequence": 0,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "05:13:00",
           "departure_time": "05:13:00",
           "lat": 51.10891574,
@@ -7843,7 +7843,7 @@
       ]
     },
     {
-      "trip_id": "3_17618304",
+      "trip_id": "3_17636984",
       "direction_id": "0",
       "headsign": "GALERIA DOMINIKAŃSKA",
       "service_id": "3",
@@ -8157,7 +8157,7 @@
         {
           "stop_sequence": 34,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "06:55:00",
           "departure_time": "06:55:00",
           "lat": 51.10891574,
@@ -8166,7 +8166,7 @@
       ]
     },
     {
-      "trip_id": "3_17618305",
+      "trip_id": "3_17636985",
       "direction_id": "1",
       "headsign": "Pruszowice",
       "service_id": "3",
@@ -8174,7 +8174,7 @@
         {
           "stop_sequence": 0,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "07:13:00",
           "departure_time": "07:13:00",
           "lat": 51.10891574,
@@ -8471,7 +8471,7 @@
       ]
     },
     {
-      "trip_id": "3_17618306",
+      "trip_id": "3_17636986",
       "direction_id": "0",
       "headsign": "GALERIA DOMINIKAŃSKA",
       "service_id": "3",
@@ -8785,7 +8785,7 @@
         {
           "stop_sequence": 34,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "09:11:00",
           "departure_time": "09:11:00",
           "lat": 51.10891574,
@@ -8794,7 +8794,7 @@
       ]
     },
     {
-      "trip_id": "3_17618314",
+      "trip_id": "3_17636994",
       "direction_id": "1",
       "headsign": "Pruszowice",
       "service_id": "3",
@@ -8802,7 +8802,7 @@
         {
           "stop_sequence": 0,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "06:13:00",
           "departure_time": "06:13:00",
           "lat": 51.10891574,
@@ -9099,7 +9099,7 @@
       ]
     },
     {
-      "trip_id": "3_17618315",
+      "trip_id": "3_17636995",
       "direction_id": "0",
       "headsign": "GALERIA DOMINIKAŃSKA",
       "service_id": "3",
@@ -9413,7 +9413,7 @@
         {
           "stop_sequence": 34,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "08:10:00",
           "departure_time": "08:10:00",
           "lat": 51.10891574,
@@ -9422,7 +9422,7 @@
       ]
     },
     {
-      "trip_id": "3_17618331",
+      "trip_id": "3_17637011",
       "direction_id": "1",
       "headsign": "Pruszowice",
       "service_id": "3",
@@ -9430,7 +9430,7 @@
         {
           "stop_sequence": 0,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "20:08:00",
           "departure_time": "20:08:00",
           "lat": 51.10891574,
@@ -9727,7 +9727,7 @@
       ]
     },
     {
-      "trip_id": "3_17618332",
+      "trip_id": "3_17637012",
       "direction_id": "0",
       "headsign": "GALERIA DOMINIKAŃSKA",
       "service_id": "3",
@@ -10041,7 +10041,7 @@
         {
           "stop_sequence": 34,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "21:59:00",
           "departure_time": "21:59:00",
           "lat": 51.10891574,
@@ -10050,7 +10050,7 @@
       ]
     },
     {
-      "trip_id": "3_17618516",
+      "trip_id": "3_17637191",
       "direction_id": "0",
       "headsign": "GALERIA DOMINIKAŃSKA",
       "service_id": "3",
@@ -10364,7 +10364,7 @@
         {
           "stop_sequence": 34,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "10:54:00",
           "departure_time": "10:54:00",
           "lat": 51.10891574,
@@ -10373,7 +10373,7 @@
       ]
     },
     {
-      "trip_id": "3_17618517",
+      "trip_id": "3_17637192",
       "direction_id": "1",
       "headsign": "Pruszowice",
       "service_id": "3",
@@ -10381,7 +10381,7 @@
         {
           "stop_sequence": 0,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "11:08:00",
           "departure_time": "11:08:00",
           "lat": 51.10891574,
@@ -10678,7 +10678,7 @@
       ]
     },
     {
-      "trip_id": "3_17618518",
+      "trip_id": "3_17637193",
       "direction_id": "0",
       "headsign": "GALERIA DOMINIKAŃSKA",
       "service_id": "3",
@@ -10992,7 +10992,7 @@
         {
           "stop_sequence": 34,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "13:24:00",
           "departure_time": "13:24:00",
           "lat": 51.10891574,
@@ -11001,7 +11001,7 @@
       ]
     },
     {
-      "trip_id": "3_17618519",
+      "trip_id": "3_17637194",
       "direction_id": "1",
       "headsign": "Pruszowice",
       "service_id": "3",
@@ -11009,7 +11009,7 @@
         {
           "stop_sequence": 0,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "13:38:00",
           "departure_time": "13:38:00",
           "lat": 51.10891574,
@@ -11306,7 +11306,7 @@
       ]
     },
     {
-      "trip_id": "3_17618520",
+      "trip_id": "3_17637195",
       "direction_id": "0",
       "headsign": "GALERIA DOMINIKAŃSKA",
       "service_id": "3",
@@ -11620,7 +11620,7 @@
         {
           "stop_sequence": 34,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "15:54:00",
           "departure_time": "15:54:00",
           "lat": 51.10891574,
@@ -11629,7 +11629,7 @@
       ]
     },
     {
-      "trip_id": "3_17618521",
+      "trip_id": "3_17637196",
       "direction_id": "1",
       "headsign": "Pruszowice",
       "service_id": "3",
@@ -11637,7 +11637,7 @@
         {
           "stop_sequence": 0,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "16:08:00",
           "departure_time": "16:08:00",
           "lat": 51.10891574,
@@ -11934,7 +11934,7 @@
       ]
     },
     {
-      "trip_id": "3_17618522",
+      "trip_id": "3_17637197",
       "direction_id": "0",
       "headsign": "GALERIA DOMINIKAŃSKA",
       "service_id": "3",
@@ -12248,7 +12248,7 @@
         {
           "stop_sequence": 34,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "11:54:00",
           "departure_time": "11:54:00",
           "lat": 51.10891574,
@@ -12257,7 +12257,7 @@
       ]
     },
     {
-      "trip_id": "3_17618523",
+      "trip_id": "3_17637198",
       "direction_id": "1",
       "headsign": "Pruszowice",
       "service_id": "3",
@@ -12265,7 +12265,7 @@
         {
           "stop_sequence": 0,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "12:08:00",
           "departure_time": "12:08:00",
           "lat": 51.10891574,
@@ -12562,7 +12562,7 @@
       ]
     },
     {
-      "trip_id": "3_17618524",
+      "trip_id": "3_17637199",
       "direction_id": "0",
       "headsign": "GALERIA DOMINIKAŃSKA",
       "service_id": "3",
@@ -12876,7 +12876,7 @@
         {
           "stop_sequence": 34,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "14:24:00",
           "departure_time": "14:24:00",
           "lat": 51.10891574,
@@ -12885,7 +12885,7 @@
       ]
     },
     {
-      "trip_id": "3_17618525",
+      "trip_id": "3_17637200",
       "direction_id": "1",
       "headsign": "Pruszowice",
       "service_id": "3",
@@ -12893,7 +12893,7 @@
         {
           "stop_sequence": 0,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "14:38:00",
           "departure_time": "14:38:00",
           "lat": 51.10891574,
@@ -13190,7 +13190,7 @@
       ]
     },
     {
-      "trip_id": "3_17618526",
+      "trip_id": "3_17637201",
       "direction_id": "0",
       "headsign": "GALERIA DOMINIKAŃSKA",
       "service_id": "3",
@@ -13504,7 +13504,7 @@
         {
           "stop_sequence": 34,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "16:54:00",
           "departure_time": "16:54:00",
           "lat": 51.10891574,
@@ -13513,7 +13513,7 @@
       ]
     },
     {
-      "trip_id": "3_17618527",
+      "trip_id": "3_17637202",
       "direction_id": "1",
       "headsign": "Pruszowice",
       "service_id": "3",
@@ -13521,7 +13521,7 @@
         {
           "stop_sequence": 0,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "17:08:00",
           "departure_time": "17:08:00",
           "lat": 51.10891574,
@@ -13818,7 +13818,7 @@
       ]
     },
     {
-      "trip_id": "3_17618528",
+      "trip_id": "3_17637203",
       "direction_id": "0",
       "headsign": "GALERIA DOMINIKAŃSKA",
       "service_id": "3",
@@ -14132,7 +14132,7 @@
         {
           "stop_sequence": 34,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "19:09:00",
           "departure_time": "19:09:00",
           "lat": 51.10891574,
@@ -14141,7 +14141,7 @@
       ]
     },
     {
-      "trip_id": "3_17618531",
+      "trip_id": "3_17637206",
       "direction_id": "1",
       "headsign": "Pruszowice",
       "service_id": "3",
@@ -14149,7 +14149,7 @@
         {
           "stop_sequence": 0,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "21:57:00",
           "departure_time": "21:57:00",
           "lat": 51.10891574,
@@ -14446,7 +14446,7 @@
       ]
     },
     {
-      "trip_id": "3_17618532",
+      "trip_id": "3_17637207",
       "direction_id": "0",
       "headsign": "GALERIA DOMINIKAŃSKA",
       "service_id": "3",
@@ -14760,7 +14760,7 @@
         {
           "stop_sequence": 34,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "24:00:00",
           "departure_time": "24:00:00",
           "lat": 51.10891574,
@@ -14769,7 +14769,7 @@
       ]
     },
     {
-      "trip_id": "3_17618533",
+      "trip_id": "3_17637208",
       "direction_id": "0",
       "headsign": "GALERIA DOMINIKAŃSKA",
       "service_id": "3",
@@ -15083,7 +15083,7 @@
         {
           "stop_sequence": 34,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "12:54:00",
           "departure_time": "12:54:00",
           "lat": 51.10891574,
@@ -15092,7 +15092,7 @@
       ]
     },
     {
-      "trip_id": "3_17618534",
+      "trip_id": "3_17637209",
       "direction_id": "1",
       "headsign": "Pruszowice",
       "service_id": "3",
@@ -15100,7 +15100,7 @@
         {
           "stop_sequence": 0,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "13:08:00",
           "departure_time": "13:08:00",
           "lat": 51.10891574,
@@ -15397,7 +15397,7 @@
       ]
     },
     {
-      "trip_id": "3_17618535",
+      "trip_id": "3_17637210",
       "direction_id": "0",
       "headsign": "GALERIA DOMINIKAŃSKA",
       "service_id": "3",
@@ -15711,7 +15711,7 @@
         {
           "stop_sequence": 34,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "15:24:00",
           "departure_time": "15:24:00",
           "lat": 51.10891574,
@@ -15720,7 +15720,7 @@
       ]
     },
     {
-      "trip_id": "3_17618536",
+      "trip_id": "3_17637211",
       "direction_id": "1",
       "headsign": "Pruszowice",
       "service_id": "3",
@@ -15728,7 +15728,7 @@
         {
           "stop_sequence": 0,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "15:38:00",
           "departure_time": "15:38:00",
           "lat": 51.10891574,
@@ -16025,7 +16025,7 @@
       ]
     },
     {
-      "trip_id": "3_17618537",
+      "trip_id": "3_17637212",
       "direction_id": "0",
       "headsign": "GALERIA DOMINIKAŃSKA",
       "service_id": "3",
@@ -16339,7 +16339,7 @@
         {
           "stop_sequence": 34,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "17:54:00",
           "departure_time": "17:54:00",
           "lat": 51.10891574,
@@ -16348,7 +16348,7 @@
       ]
     },
     {
-      "trip_id": "4_17618635",
+      "trip_id": "4_17637310",
       "direction_id": "1",
       "headsign": "Pruszowice",
       "service_id": "4",
@@ -16356,7 +16356,7 @@
         {
           "stop_sequence": 0,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "09:08:00",
           "departure_time": "09:08:00",
           "lat": 51.10891574,
@@ -16653,7 +16653,7 @@
       ]
     },
     {
-      "trip_id": "4_17618636",
+      "trip_id": "4_17637311",
       "direction_id": "0",
       "headsign": "GALERIA DOMINIKAŃSKA",
       "service_id": "4",
@@ -16967,7 +16967,7 @@
         {
           "stop_sequence": 34,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "11:09:00",
           "departure_time": "11:09:00",
           "lat": 51.10891574,
@@ -16976,7 +16976,7 @@
       ]
     },
     {
-      "trip_id": "4_17618639",
+      "trip_id": "4_17637314",
       "direction_id": "1",
       "headsign": "Pruszowice",
       "service_id": "4",
@@ -16984,7 +16984,7 @@
         {
           "stop_sequence": 0,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "14:08:00",
           "departure_time": "14:08:00",
           "lat": 51.10891574,
@@ -17281,7 +17281,7 @@
       ]
     },
     {
-      "trip_id": "4_17618879",
+      "trip_id": "4_17637554",
       "direction_id": "0",
       "headsign": "GALERIA DOMINIKAŃSKA",
       "service_id": "4",
@@ -17595,7 +17595,7 @@
         {
           "stop_sequence": 34,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "16:09:00",
           "departure_time": "16:09:00",
           "lat": 51.10891574,
@@ -17604,7 +17604,7 @@
       ]
     },
     {
-      "trip_id": "4_17618882",
+      "trip_id": "4_17637557",
       "direction_id": "1",
       "headsign": "Pruszowice",
       "service_id": "4",
@@ -17612,7 +17612,7 @@
         {
           "stop_sequence": 0,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "19:08:00",
           "departure_time": "19:08:00",
           "lat": 51.10891574,
@@ -17909,7 +17909,7 @@
       ]
     },
     {
-      "trip_id": "4_17618883",
+      "trip_id": "4_17637558",
       "direction_id": "0",
       "headsign": "GALERIA DOMINIKAŃSKA",
       "service_id": "4",
@@ -18223,7 +18223,7 @@
         {
           "stop_sequence": 34,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "20:59:00",
           "departure_time": "20:59:00",
           "lat": 51.10891574,
@@ -18232,7 +18232,7 @@
       ]
     },
     {
-      "trip_id": "4_17618886",
+      "trip_id": "4_17637561",
       "direction_id": "1",
       "headsign": "Pruszowice",
       "service_id": "4",
@@ -18240,7 +18240,7 @@
         {
           "stop_sequence": 0,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "05:13:00",
           "departure_time": "05:13:00",
           "lat": 51.10891574,
@@ -18537,7 +18537,7 @@
       ]
     },
     {
-      "trip_id": "4_17618887",
+      "trip_id": "4_17637562",
       "direction_id": "0",
       "headsign": "GALERIA DOMINIKAŃSKA",
       "service_id": "4",
@@ -18851,7 +18851,7 @@
         {
           "stop_sequence": 34,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "06:55:00",
           "departure_time": "06:55:00",
           "lat": 51.10891574,
@@ -18860,7 +18860,7 @@
       ]
     },
     {
-      "trip_id": "4_17618888",
+      "trip_id": "4_17637563",
       "direction_id": "1",
       "headsign": "Pruszowice",
       "service_id": "4",
@@ -18868,7 +18868,7 @@
         {
           "stop_sequence": 0,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "07:13:00",
           "departure_time": "07:13:00",
           "lat": 51.10891574,
@@ -19165,7 +19165,7 @@
       ]
     },
     {
-      "trip_id": "4_17618889",
+      "trip_id": "4_17637564",
       "direction_id": "0",
       "headsign": "GALERIA DOMINIKAŃSKA",
       "service_id": "4",
@@ -19479,7 +19479,7 @@
         {
           "stop_sequence": 34,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "09:11:00",
           "departure_time": "09:11:00",
           "lat": 51.10891574,
@@ -19488,7 +19488,7 @@
       ]
     },
     {
-      "trip_id": "4_17618892",
+      "trip_id": "4_17637567",
       "direction_id": "1",
       "headsign": "Pruszowice",
       "service_id": "4",
@@ -19496,7 +19496,7 @@
         {
           "stop_sequence": 0,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "12:08:00",
           "departure_time": "12:08:00",
           "lat": 51.10891574,
@@ -19793,7 +19793,7 @@
       ]
     },
     {
-      "trip_id": "4_17618893",
+      "trip_id": "4_17637568",
       "direction_id": "0",
       "headsign": "GALERIA DOMINIKAŃSKA",
       "service_id": "4",
@@ -20107,7 +20107,7 @@
         {
           "stop_sequence": 34,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "14:09:00",
           "departure_time": "14:09:00",
           "lat": 51.10891574,
@@ -20116,7 +20116,7 @@
       ]
     },
     {
-      "trip_id": "4_17618896",
+      "trip_id": "4_17637571",
       "direction_id": "1",
       "headsign": "Pruszowice",
       "service_id": "4",
@@ -20124,7 +20124,7 @@
         {
           "stop_sequence": 0,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "17:08:00",
           "departure_time": "17:08:00",
           "lat": 51.10891574,
@@ -20421,7 +20421,7 @@
       ]
     },
     {
-      "trip_id": "4_17618897",
+      "trip_id": "4_17637572",
       "direction_id": "0",
       "headsign": "GALERIA DOMINIKAŃSKA",
       "service_id": "4",
@@ -20735,7 +20735,7 @@
         {
           "stop_sequence": 34,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "19:09:00",
           "departure_time": "19:09:00",
           "lat": 51.10891574,
@@ -20744,7 +20744,7 @@
       ]
     },
     {
-      "trip_id": "4_17618900",
+      "trip_id": "4_17637575",
       "direction_id": "1",
       "headsign": "Pruszowice",
       "service_id": "4",
@@ -20752,7 +20752,7 @@
         {
           "stop_sequence": 0,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "21:57:00",
           "departure_time": "21:57:00",
           "lat": 51.10891574,
@@ -21049,7 +21049,7 @@
       ]
     },
     {
-      "trip_id": "4_17618901",
+      "trip_id": "4_17637576",
       "direction_id": "0",
       "headsign": "GALERIA DOMINIKAŃSKA",
       "service_id": "4",
@@ -21363,7 +21363,7 @@
         {
           "stop_sequence": 34,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "24:00:00",
           "departure_time": "24:00:00",
           "lat": 51.10891574,
@@ -21372,7 +21372,7 @@
       ]
     },
     {
-      "trip_id": "4_17618905",
+      "trip_id": "4_17637580",
       "direction_id": "1",
       "headsign": "Pruszowice",
       "service_id": "4",
@@ -21380,7 +21380,7 @@
         {
           "stop_sequence": 0,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "10:08:00",
           "departure_time": "10:08:00",
           "lat": 51.10891574,
@@ -21677,7 +21677,7 @@
       ]
     },
     {
-      "trip_id": "4_17618906",
+      "trip_id": "4_17637581",
       "direction_id": "0",
       "headsign": "GALERIA DOMINIKAŃSKA",
       "service_id": "4",
@@ -21991,7 +21991,7 @@
         {
           "stop_sequence": 34,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "12:09:00",
           "departure_time": "12:09:00",
           "lat": 51.10891574,
@@ -22000,7 +22000,7 @@
       ]
     },
     {
-      "trip_id": "4_17618909",
+      "trip_id": "4_17637584",
       "direction_id": "1",
       "headsign": "Pruszowice",
       "service_id": "4",
@@ -22008,7 +22008,7 @@
         {
           "stop_sequence": 0,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "15:08:00",
           "departure_time": "15:08:00",
           "lat": 51.10891574,
@@ -22305,7 +22305,7 @@
       ]
     },
     {
-      "trip_id": "4_17618910",
+      "trip_id": "4_17637585",
       "direction_id": "0",
       "headsign": "GALERIA DOMINIKAŃSKA",
       "service_id": "4",
@@ -22619,7 +22619,7 @@
         {
           "stop_sequence": 34,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "17:09:00",
           "departure_time": "17:09:00",
           "lat": 51.10891574,
@@ -22628,7 +22628,7 @@
       ]
     },
     {
-      "trip_id": "4_17618913",
+      "trip_id": "4_17637588",
       "direction_id": "1",
       "headsign": "Pruszowice",
       "service_id": "4",
@@ -22636,7 +22636,7 @@
         {
           "stop_sequence": 0,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "20:08:00",
           "departure_time": "20:08:00",
           "lat": 51.10891574,
@@ -22933,7 +22933,7 @@
       ]
     },
     {
-      "trip_id": "4_17618914",
+      "trip_id": "4_17637589",
       "direction_id": "0",
       "headsign": "GALERIA DOMINIKAŃSKA",
       "service_id": "4",
@@ -23247,7 +23247,7 @@
         {
           "stop_sequence": 34,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "21:59:00",
           "departure_time": "21:59:00",
           "lat": 51.10891574,
@@ -23256,7 +23256,7 @@
       ]
     },
     {
-      "trip_id": "4_17619021",
+      "trip_id": "4_17637696",
       "direction_id": "0",
       "headsign": "GALERIA DOMINIKAŃSKA",
       "service_id": "4",
@@ -23570,7 +23570,7 @@
         {
           "stop_sequence": 34,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "05:24:00",
           "departure_time": "05:24:00",
           "lat": 51.10891574,
@@ -23579,7 +23579,7 @@
       ]
     },
     {
-      "trip_id": "4_17619024",
+      "trip_id": "4_17637699",
       "direction_id": "1",
       "headsign": "Pruszowice",
       "service_id": "4",
@@ -23587,7 +23587,7 @@
         {
           "stop_sequence": 0,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "08:13:00",
           "departure_time": "08:13:00",
           "lat": 51.10891574,
@@ -23884,7 +23884,7 @@
       ]
     },
     {
-      "trip_id": "4_17619025",
+      "trip_id": "4_17637700",
       "direction_id": "0",
       "headsign": "GALERIA DOMINIKAŃSKA",
       "service_id": "4",
@@ -24198,7 +24198,7 @@
         {
           "stop_sequence": 34,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "10:10:00",
           "departure_time": "10:10:00",
           "lat": 51.10891574,
@@ -24207,7 +24207,7 @@
       ]
     },
     {
-      "trip_id": "4_17619028",
+      "trip_id": "4_17637703",
       "direction_id": "1",
       "headsign": "Pruszowice",
       "service_id": "4",
@@ -24215,7 +24215,7 @@
         {
           "stop_sequence": 0,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "13:08:00",
           "departure_time": "13:08:00",
           "lat": 51.10891574,
@@ -24512,7 +24512,7 @@
       ]
     },
     {
-      "trip_id": "4_17619029",
+      "trip_id": "4_17637704",
       "direction_id": "0",
       "headsign": "GALERIA DOMINIKAŃSKA",
       "service_id": "4",
@@ -24826,7 +24826,7 @@
         {
           "stop_sequence": 34,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "15:09:00",
           "departure_time": "15:09:00",
           "lat": 51.10891574,
@@ -24835,7 +24835,7 @@
       ]
     },
     {
-      "trip_id": "4_17619032",
+      "trip_id": "4_17637707",
       "direction_id": "1",
       "headsign": "Pruszowice",
       "service_id": "4",
@@ -24843,7 +24843,7 @@
         {
           "stop_sequence": 0,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "18:08:00",
           "departure_time": "18:08:00",
           "lat": 51.10891574,
@@ -25140,7 +25140,7 @@
       ]
     },
     {
-      "trip_id": "4_17619033",
+      "trip_id": "4_17637708",
       "direction_id": "0",
       "headsign": "GALERIA DOMINIKAŃSKA",
       "service_id": "4",
@@ -25454,7 +25454,7 @@
         {
           "stop_sequence": 34,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "20:04:00",
           "departure_time": "20:04:00",
           "lat": 51.10891574,
@@ -25463,7 +25463,7 @@
       ]
     },
     {
-      "trip_id": "4_17619036",
+      "trip_id": "4_17637711",
       "direction_id": "1",
       "headsign": "Pruszowice",
       "service_id": "4",
@@ -25471,7 +25471,7 @@
         {
           "stop_sequence": 0,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "22:57:00",
           "departure_time": "22:57:00",
           "lat": 51.10891574,
@@ -25768,7 +25768,7 @@
       ]
     },
     {
-      "trip_id": "4_17619038",
+      "trip_id": "4_17637713",
       "direction_id": "1",
       "headsign": "Pruszowice",
       "service_id": "4",
@@ -25776,7 +25776,7 @@
         {
           "stop_sequence": 0,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "06:13:00",
           "departure_time": "06:13:00",
           "lat": 51.10891574,
@@ -26073,7 +26073,7 @@
       ]
     },
     {
-      "trip_id": "4_17619039",
+      "trip_id": "4_17637714",
       "direction_id": "0",
       "headsign": "GALERIA DOMINIKAŃSKA",
       "service_id": "4",
@@ -26387,7 +26387,7 @@
         {
           "stop_sequence": 34,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "08:10:00",
           "departure_time": "08:10:00",
           "lat": 51.10891574,
@@ -26396,7 +26396,7 @@
       ]
     },
     {
-      "trip_id": "4_17619042",
+      "trip_id": "4_17637717",
       "direction_id": "1",
       "headsign": "Pruszowice",
       "service_id": "4",
@@ -26404,7 +26404,7 @@
         {
           "stop_sequence": 0,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "11:08:00",
           "departure_time": "11:08:00",
           "lat": 51.10891574,
@@ -26701,7 +26701,7 @@
       ]
     },
     {
-      "trip_id": "4_17619043",
+      "trip_id": "4_17637718",
       "direction_id": "0",
       "headsign": "GALERIA DOMINIKAŃSKA",
       "service_id": "4",
@@ -27015,7 +27015,7 @@
         {
           "stop_sequence": 34,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "13:09:00",
           "departure_time": "13:09:00",
           "lat": 51.10891574,
@@ -27024,7 +27024,7 @@
       ]
     },
     {
-      "trip_id": "4_17619046",
+      "trip_id": "4_17637721",
       "direction_id": "1",
       "headsign": "Pruszowice",
       "service_id": "4",
@@ -27032,7 +27032,7 @@
         {
           "stop_sequence": 0,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "16:08:00",
           "departure_time": "16:08:00",
           "lat": 51.10891574,
@@ -27329,7 +27329,7 @@
       ]
     },
     {
-      "trip_id": "4_17619047",
+      "trip_id": "4_17637722",
       "direction_id": "0",
       "headsign": "GALERIA DOMINIKAŃSKA",
       "service_id": "4",
@@ -27643,7 +27643,7 @@
         {
           "stop_sequence": 34,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "18:09:00",
           "departure_time": "18:09:00",
           "lat": 51.10891574,
@@ -27652,7 +27652,7 @@
       ]
     },
     {
-      "trip_id": "4_17619050",
+      "trip_id": "4_17637725",
       "direction_id": "1",
       "headsign": "Pruszowice",
       "service_id": "4",
@@ -27660,7 +27660,7 @@
         {
           "stop_sequence": 0,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "21:05:00",
           "departure_time": "21:05:00",
           "lat": 51.10891574,
@@ -27957,7 +27957,7 @@
       ]
     },
     {
-      "trip_id": "4_17619051",
+      "trip_id": "4_17637726",
       "direction_id": "0",
       "headsign": "GALERIA DOMINIKAŃSKA",
       "service_id": "4",
@@ -28271,7 +28271,7 @@
         {
           "stop_sequence": 34,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "23:05:00",
           "departure_time": "23:05:00",
           "lat": 51.10891574,
@@ -28280,7 +28280,7 @@
       ]
     },
     {
-      "trip_id": "6_17619472",
+      "trip_id": "6_17638147",
       "direction_id": "1",
       "headsign": "Pruszowice",
       "service_id": "6",
@@ -28288,7 +28288,7 @@
         {
           "stop_sequence": 0,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "13:45:00",
           "departure_time": "13:45:00",
           "lat": 51.10891574,
@@ -28585,7 +28585,7 @@
       ]
     },
     {
-      "trip_id": "6_17619473",
+      "trip_id": "6_17638148",
       "direction_id": "0",
       "headsign": "GALERIA DOMINIKAŃSKA",
       "service_id": "6",
@@ -28899,7 +28899,7 @@
         {
           "stop_sequence": 34,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "16:07:00",
           "departure_time": "16:07:00",
           "lat": 51.10891574,
@@ -28908,7 +28908,7 @@
       ]
     },
     {
-      "trip_id": "6_17619590",
+      "trip_id": "6_17638265",
       "direction_id": "1",
       "headsign": "Pruszowice",
       "service_id": "6",
@@ -28916,7 +28916,7 @@
         {
           "stop_sequence": 0,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "12:10:00",
           "departure_time": "12:10:00",
           "lat": 51.10891574,
@@ -29213,7 +29213,7 @@
       ]
     },
     {
-      "trip_id": "6_17619591",
+      "trip_id": "6_17638266",
       "direction_id": "0",
       "headsign": "GALERIA DOMINIKAŃSKA",
       "service_id": "6",
@@ -29527,7 +29527,7 @@
         {
           "stop_sequence": 34,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "14:18:00",
           "departure_time": "14:18:00",
           "lat": 51.10891574,
@@ -29536,7 +29536,7 @@
       ]
     },
     {
-      "trip_id": "6_17619592",
+      "trip_id": "6_17638267",
       "direction_id": "1",
       "headsign": "Pruszowice",
       "service_id": "6",
@@ -29544,7 +29544,7 @@
         {
           "stop_sequence": 0,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "14:46:00",
           "departure_time": "14:46:00",
           "lat": 51.10891574,
@@ -29841,7 +29841,7 @@
       ]
     },
     {
-      "trip_id": "6_17619593",
+      "trip_id": "6_17638268",
       "direction_id": "0",
       "headsign": "GALERIA DOMINIKAŃSKA",
       "service_id": "6",
@@ -30155,7 +30155,7 @@
         {
           "stop_sequence": 34,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "17:05:00",
           "departure_time": "17:05:00",
           "lat": 51.10891574,
@@ -30164,7 +30164,7 @@
       ]
     },
     {
-      "trip_id": "6_17619596",
+      "trip_id": "6_17638271",
       "direction_id": "1",
       "headsign": "Pruszowice",
       "service_id": "6",
@@ -30172,7 +30172,7 @@
         {
           "stop_sequence": 0,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "20:15:00",
           "departure_time": "20:15:00",
           "lat": 51.10891574,
@@ -30469,7 +30469,7 @@
       ]
     },
     {
-      "trip_id": "6_17619597",
+      "trip_id": "6_17638272",
       "direction_id": "0",
       "headsign": "GALERIA DOMINIKAŃSKA",
       "service_id": "6",
@@ -30783,7 +30783,7 @@
         {
           "stop_sequence": 34,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "22:09:00",
           "departure_time": "22:09:00",
           "lat": 51.10891574,
@@ -30792,7 +30792,7 @@
       ]
     },
     {
-      "trip_id": "6_17619598",
+      "trip_id": "6_17638273",
       "direction_id": "1",
       "headsign": "Pruszowice",
       "service_id": "6",
@@ -30800,7 +30800,7 @@
         {
           "stop_sequence": 0,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "22:15:00",
           "departure_time": "22:15:00",
           "lat": 51.10891574,
@@ -31097,7 +31097,7 @@
       ]
     },
     {
-      "trip_id": "6_17619599",
+      "trip_id": "6_17638274",
       "direction_id": "0",
       "headsign": "GALERIA DOMINIKAŃSKA",
       "service_id": "6",
@@ -31411,7 +31411,7 @@
         {
           "stop_sequence": 34,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "24:04:00",
           "departure_time": "24:04:00",
           "lat": 51.10891574,
@@ -31420,7 +31420,7 @@
       ]
     },
     {
-      "trip_id": "6_17619601",
+      "trip_id": "6_17638276",
       "direction_id": "1",
       "headsign": "Pruszowice",
       "service_id": "6",
@@ -31428,7 +31428,7 @@
         {
           "stop_sequence": 0,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "05:00:00",
           "departure_time": "05:00:00",
           "lat": 51.10891574,
@@ -31725,7 +31725,7 @@
       ]
     },
     {
-      "trip_id": "6_17619602",
+      "trip_id": "6_17638277",
       "direction_id": "0",
       "headsign": "GALERIA DOMINIKAŃSKA",
       "service_id": "6",
@@ -32039,7 +32039,7 @@
         {
           "stop_sequence": 34,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "07:06:00",
           "departure_time": "07:06:00",
           "lat": 51.10891574,
@@ -32048,7 +32048,7 @@
       ]
     },
     {
-      "trip_id": "6_17619603",
+      "trip_id": "6_17638278",
       "direction_id": "1",
       "headsign": "Pruszowice",
       "service_id": "6",
@@ -32056,7 +32056,7 @@
         {
           "stop_sequence": 0,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "07:25:00",
           "departure_time": "07:25:00",
           "lat": 51.10891574,
@@ -32353,7 +32353,7 @@
       ]
     },
     {
-      "trip_id": "6_17619604",
+      "trip_id": "6_17638279",
       "direction_id": "0",
       "headsign": "GALERIA DOMINIKAŃSKA",
       "service_id": "6",
@@ -32667,7 +32667,7 @@
         {
           "stop_sequence": 34,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "09:33:00",
           "departure_time": "09:33:00",
           "lat": 51.10891574,
@@ -32676,7 +32676,7 @@
       ]
     },
     {
-      "trip_id": "6_17619636",
+      "trip_id": "6_17638311",
       "direction_id": "1",
       "headsign": "Pruszowice",
       "service_id": "6",
@@ -32927,7 +32927,7 @@
       ]
     },
     {
-      "trip_id": "6_17619637",
+      "trip_id": "6_17638312",
       "direction_id": "0",
       "headsign": "GALERIA DOMINIKAŃSKA",
       "service_id": "6",
@@ -33241,7 +33241,7 @@
         {
           "stop_sequence": 34,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "06:31:00",
           "departure_time": "06:31:00",
           "lat": 51.10891574,
@@ -33250,7 +33250,7 @@
       ]
     },
     {
-      "trip_id": "6_17619741",
+      "trip_id": "6_17638416",
       "direction_id": "1",
       "headsign": "Pruszowice",
       "service_id": "6",
@@ -33258,7 +33258,7 @@
         {
           "stop_sequence": 0,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "16:46:00",
           "departure_time": "16:46:00",
           "lat": 51.10891574,
@@ -33555,7 +33555,7 @@
       ]
     },
     {
-      "trip_id": "6_17619742",
+      "trip_id": "6_17638417",
       "direction_id": "0",
       "headsign": "GALERIA DOMINIKAŃSKA",
       "service_id": "6",
@@ -33869,7 +33869,7 @@
         {
           "stop_sequence": 34,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "19:03:00",
           "departure_time": "19:03:00",
           "lat": 51.10891574,
@@ -33878,7 +33878,7 @@
       ]
     },
     {
-      "trip_id": "6_17619743",
+      "trip_id": "6_17638418",
       "direction_id": "1",
       "headsign": "Pruszowice",
       "service_id": "6",
@@ -33886,7 +33886,7 @@
         {
           "stop_sequence": 0,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "19:15:00",
           "departure_time": "19:15:00",
           "lat": 51.10891574,
@@ -34183,7 +34183,7 @@
       ]
     },
     {
-      "trip_id": "6_17619744",
+      "trip_id": "6_17638419",
       "direction_id": "0",
       "headsign": "GALERIA DOMINIKAŃSKA",
       "service_id": "6",
@@ -34497,7 +34497,7 @@
         {
           "stop_sequence": 34,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "21:09:00",
           "departure_time": "21:09:00",
           "lat": 51.10891574,
@@ -34506,7 +34506,7 @@
       ]
     },
     {
-      "trip_id": "6_17619745",
+      "trip_id": "6_17638420",
       "direction_id": "0",
       "headsign": "GALERIA DOMINIKAŃSKA",
       "service_id": "6",
@@ -34820,7 +34820,7 @@
         {
           "stop_sequence": 34,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "05:44:00",
           "departure_time": "05:44:00",
           "lat": 51.10891574,
@@ -34829,7 +34829,7 @@
       ]
     },
     {
-      "trip_id": "6_17619746",
+      "trip_id": "6_17638421",
       "direction_id": "1",
       "headsign": "Pruszowice",
       "service_id": "6",
@@ -34837,7 +34837,7 @@
         {
           "stop_sequence": 0,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "05:57:00",
           "departure_time": "05:57:00",
           "lat": 51.10891574,
@@ -35134,7 +35134,7 @@
       ]
     },
     {
-      "trip_id": "6_17619747",
+      "trip_id": "6_17638422",
       "direction_id": "0",
       "headsign": "GALERIA DOMINIKAŃSKA",
       "service_id": "6",
@@ -35448,7 +35448,7 @@
         {
           "stop_sequence": 34,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "08:07:00",
           "departure_time": "08:07:00",
           "lat": 51.10891574,
@@ -35457,7 +35457,7 @@
       ]
     },
     {
-      "trip_id": "6_17619748",
+      "trip_id": "6_17638423",
       "direction_id": "1",
       "headsign": "Pruszowice",
       "service_id": "6",
@@ -35465,7 +35465,7 @@
         {
           "stop_sequence": 0,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "08:25:00",
           "departure_time": "08:25:00",
           "lat": 51.10891574,
@@ -35762,7 +35762,7 @@
       ]
     },
     {
-      "trip_id": "6_17619749",
+      "trip_id": "6_17638424",
       "direction_id": "0",
       "headsign": "GALERIA DOMINIKAŃSKA",
       "service_id": "6",
@@ -36076,7 +36076,7 @@
         {
           "stop_sequence": 34,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "10:18:00",
           "departure_time": "10:18:00",
           "lat": 51.10891574,
@@ -36085,7 +36085,7 @@
       ]
     },
     {
-      "trip_id": "6_17619752",
+      "trip_id": "6_17638427",
       "direction_id": "1",
       "headsign": "Pruszowice",
       "service_id": "6",
@@ -36093,7 +36093,7 @@
         {
           "stop_sequence": 0,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "13:10:00",
           "departure_time": "13:10:00",
           "lat": 51.10891574,
@@ -36390,7 +36390,7 @@
       ]
     },
     {
-      "trip_id": "6_17619753",
+      "trip_id": "6_17638428",
       "direction_id": "0",
       "headsign": "GALERIA DOMINIKAŃSKA",
       "service_id": "6",
@@ -36704,7 +36704,7 @@
         {
           "stop_sequence": 34,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "15:37:00",
           "departure_time": "15:37:00",
           "lat": 51.10891574,
@@ -36713,7 +36713,7 @@
       ]
     },
     {
-      "trip_id": "6_17619758",
+      "trip_id": "6_17638433",
       "direction_id": "1",
       "headsign": "Pruszowice",
       "service_id": "6",
@@ -36721,7 +36721,7 @@
         {
           "stop_sequence": 0,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "21:15:00",
           "departure_time": "21:15:00",
           "lat": 51.10891574,
@@ -37018,7 +37018,7 @@
       ]
     },
     {
-      "trip_id": "6_17619759",
+      "trip_id": "6_17638434",
       "direction_id": "0",
       "headsign": "GALERIA DOMINIKAŃSKA",
       "service_id": "6",
@@ -37332,7 +37332,7 @@
         {
           "stop_sequence": 34,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "23:08:00",
           "departure_time": "23:08:00",
           "lat": 51.10891574,
@@ -37341,7 +37341,7 @@
       ]
     },
     {
-      "trip_id": "6_17619760",
+      "trip_id": "6_17638435",
       "direction_id": "1",
       "headsign": "Pruszowice",
       "service_id": "6",
@@ -37349,7 +37349,7 @@
         {
           "stop_sequence": 0,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "23:15:00",
           "departure_time": "23:15:00",
           "lat": 51.10891574,
@@ -37646,7 +37646,7 @@
       ]
     },
     {
-      "trip_id": "6_17619762",
+      "trip_id": "6_17638437",
       "direction_id": "1",
       "headsign": "Pruszowice",
       "service_id": "6",
@@ -37654,7 +37654,7 @@
         {
           "stop_sequence": 0,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "06:27:00",
           "departure_time": "06:27:00",
           "lat": 51.10891574,
@@ -37951,7 +37951,7 @@
       ]
     },
     {
-      "trip_id": "6_17619763",
+      "trip_id": "6_17638438",
       "direction_id": "0",
       "headsign": "GALERIA DOMINIKAŃSKA",
       "service_id": "6",
@@ -38265,7 +38265,7 @@
         {
           "stop_sequence": 34,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "08:36:00",
           "departure_time": "08:36:00",
           "lat": 51.10891574,
@@ -38274,7 +38274,7 @@
       ]
     },
     {
-      "trip_id": "6_17619764",
+      "trip_id": "6_17638439",
       "direction_id": "1",
       "headsign": "Pruszowice",
       "service_id": "6",
@@ -38282,7 +38282,7 @@
         {
           "stop_sequence": 0,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "09:10:00",
           "departure_time": "09:10:00",
           "lat": 51.10891574,
@@ -38579,7 +38579,7 @@
       ]
     },
     {
-      "trip_id": "6_17619765",
+      "trip_id": "6_17638440",
       "direction_id": "0",
       "headsign": "GALERIA DOMINIKAŃSKA",
       "service_id": "6",
@@ -38893,7 +38893,7 @@
         {
           "stop_sequence": 34,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "11:18:00",
           "departure_time": "11:18:00",
           "lat": 51.10891574,
@@ -38902,7 +38902,7 @@
       ]
     },
     {
-      "trip_id": "6_17619768",
+      "trip_id": "6_17638443",
       "direction_id": "1",
       "headsign": "Pruszowice",
       "service_id": "6",
@@ -38910,7 +38910,7 @@
         {
           "stop_sequence": 0,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "14:15:00",
           "departure_time": "14:15:00",
           "lat": 51.10891574,
@@ -39207,7 +39207,7 @@
       ]
     },
     {
-      "trip_id": "6_17619769",
+      "trip_id": "6_17638444",
       "direction_id": "0",
       "headsign": "GALERIA DOMINIKAŃSKA",
       "service_id": "6",
@@ -39521,7 +39521,7 @@
         {
           "stop_sequence": 34,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "16:37:00",
           "departure_time": "16:37:00",
           "lat": 51.10891574,
@@ -39530,7 +39530,7 @@
       ]
     },
     {
-      "trip_id": "6_17619772",
+      "trip_id": "6_17638447",
       "direction_id": "1",
       "headsign": "Pruszowice",
       "service_id": "6",
@@ -39538,7 +39538,7 @@
         {
           "stop_sequence": 0,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "05:30:00",
           "departure_time": "05:30:00",
           "lat": 51.10891574,
@@ -39835,7 +39835,7 @@
       ]
     },
     {
-      "trip_id": "6_17619773",
+      "trip_id": "6_17638448",
       "direction_id": "0",
       "headsign": "GALERIA DOMINIKAŃSKA",
       "service_id": "6",
@@ -40149,7 +40149,7 @@
         {
           "stop_sequence": 34,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "07:37:00",
           "departure_time": "07:37:00",
           "lat": 51.10891574,
@@ -40158,7 +40158,7 @@
       ]
     },
     {
-      "trip_id": "6_17619774",
+      "trip_id": "6_17638449",
       "direction_id": "1",
       "headsign": "Pruszowice",
       "service_id": "6",
@@ -40166,7 +40166,7 @@
         {
           "stop_sequence": 0,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "07:55:00",
           "departure_time": "07:55:00",
           "lat": 51.10891574,
@@ -40463,7 +40463,7 @@
       ]
     },
     {
-      "trip_id": "6_17619775",
+      "trip_id": "6_17638450",
       "direction_id": "0",
       "headsign": "GALERIA DOMINIKAŃSKA",
       "service_id": "6",
@@ -40777,7 +40777,7 @@
         {
           "stop_sequence": 34,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "15:06:00",
           "departure_time": "15:06:00",
           "lat": 51.10891574,
@@ -40786,7 +40786,7 @@
       ]
     },
     {
-      "trip_id": "6_17619987",
+      "trip_id": "6_17638662",
       "direction_id": "1",
       "headsign": "Pruszowice",
       "service_id": "6",
@@ -40794,7 +40794,7 @@
         {
           "stop_sequence": 0,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "07:00:00",
           "departure_time": "07:00:00",
           "lat": 51.10891574,
@@ -41091,7 +41091,7 @@
       ]
     },
     {
-      "trip_id": "6_17619988",
+      "trip_id": "6_17638663",
       "direction_id": "0",
       "headsign": "GALERIA DOMINIKAŃSKA",
       "service_id": "6",
@@ -41405,7 +41405,7 @@
         {
           "stop_sequence": 34,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "09:04:00",
           "departure_time": "09:04:00",
           "lat": 51.10891574,
@@ -41414,7 +41414,7 @@
       ]
     },
     {
-      "trip_id": "6_17619999",
+      "trip_id": "6_17638674",
       "direction_id": "1",
       "headsign": "Pruszowice",
       "service_id": "6",
@@ -41422,7 +41422,7 @@
         {
           "stop_sequence": 0,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "16:16:00",
           "departure_time": "16:16:00",
           "lat": 51.10891574,
@@ -41719,7 +41719,7 @@
       ]
     },
     {
-      "trip_id": "6_17620000",
+      "trip_id": "6_17638675",
       "direction_id": "0",
       "headsign": "GALERIA DOMINIKAŃSKA",
       "service_id": "6",
@@ -42033,7 +42033,7 @@
         {
           "stop_sequence": 34,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "18:33:00",
           "departure_time": "18:33:00",
           "lat": 51.10891574,
@@ -42042,7 +42042,7 @@
       ]
     },
     {
-      "trip_id": "6_17620006",
+      "trip_id": "6_17638681",
       "direction_id": "1",
       "headsign": "Pruszowice",
       "service_id": "6",
@@ -42050,7 +42050,7 @@
         {
           "stop_sequence": 0,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "15:16:00",
           "departure_time": "15:16:00",
           "lat": 51.10891574,
@@ -42347,7 +42347,7 @@
       ]
     },
     {
-      "trip_id": "6_17620007",
+      "trip_id": "6_17638682",
       "direction_id": "0",
       "headsign": "GALERIA DOMINIKAŃSKA",
       "service_id": "6",
@@ -42661,7 +42661,7 @@
         {
           "stop_sequence": 34,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "17:35:00",
           "departure_time": "17:35:00",
           "lat": 51.10891574,
@@ -42670,7 +42670,7 @@
       ]
     },
     {
-      "trip_id": "6_17620015",
+      "trip_id": "6_17638690",
       "direction_id": "1",
       "headsign": "Pruszowice",
       "service_id": "6",
@@ -42678,7 +42678,7 @@
         {
           "stop_sequence": 0,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "15:46:00",
           "departure_time": "15:46:00",
           "lat": 51.10891574,
@@ -42975,7 +42975,7 @@
       ]
     },
     {
-      "trip_id": "6_17620016",
+      "trip_id": "6_17638691",
       "direction_id": "0",
       "headsign": "GALERIA DOMINIKAŃSKA",
       "service_id": "6",
@@ -43289,7 +43289,7 @@
         {
           "stop_sequence": 34,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "18:05:00",
           "departure_time": "18:05:00",
           "lat": 51.10891574,
@@ -43298,7 +43298,7 @@
       ]
     },
     {
-      "trip_id": "6_17620017",
+      "trip_id": "6_17638692",
       "direction_id": "1",
       "headsign": "Pruszowice",
       "service_id": "6",
@@ -43306,7 +43306,7 @@
         {
           "stop_sequence": 0,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "18:16:00",
           "departure_time": "18:16:00",
           "lat": 51.10891574,
@@ -43603,7 +43603,7 @@
       ]
     },
     {
-      "trip_id": "6_17620018",
+      "trip_id": "6_17638693",
       "direction_id": "0",
       "headsign": "GALERIA DOMINIKAŃSKA",
       "service_id": "6",
@@ -43917,7 +43917,7 @@
         {
           "stop_sequence": 34,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "20:17:00",
           "departure_time": "20:17:00",
           "lat": 51.10891574,
@@ -43926,7 +43926,7 @@
       ]
     },
     {
-      "trip_id": "6_17620026",
+      "trip_id": "6_17638701",
       "direction_id": "1",
       "headsign": "Pruszowice",
       "service_id": "6",
@@ -43934,7 +43934,7 @@
         {
           "stop_sequence": 0,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "11:10:00",
           "departure_time": "11:10:00",
           "lat": 51.10891574,
@@ -44231,7 +44231,7 @@
       ]
     },
     {
-      "trip_id": "6_17620027",
+      "trip_id": "6_17638702",
       "direction_id": "0",
       "headsign": "GALERIA DOMINIKAŃSKA",
       "service_id": "6",
@@ -44545,7 +44545,7 @@
         {
           "stop_sequence": 34,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "13:18:00",
           "departure_time": "13:18:00",
           "lat": 51.10891574,
@@ -44554,7 +44554,7 @@
       ]
     },
     {
-      "trip_id": "6_17620047",
+      "trip_id": "6_17638722",
       "direction_id": "1",
       "headsign": "Pruszowice",
       "service_id": "6",
@@ -44562,7 +44562,7 @@
         {
           "stop_sequence": 0,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "10:10:00",
           "departure_time": "10:10:00",
           "lat": 51.10891574,
@@ -44859,7 +44859,7 @@
       ]
     },
     {
-      "trip_id": "6_17620048",
+      "trip_id": "6_17638723",
       "direction_id": "0",
       "headsign": "GALERIA DOMINIKAŃSKA",
       "service_id": "6",
@@ -45173,7 +45173,7 @@
         {
           "stop_sequence": 34,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "12:18:00",
           "departure_time": "12:18:00",
           "lat": 51.10891574,
@@ -45182,7 +45182,7 @@
       ]
     },
     {
-      "trip_id": "6_17620053",
+      "trip_id": "6_17638728",
       "direction_id": "1",
       "headsign": "Pruszowice",
       "service_id": "6",
@@ -45190,7 +45190,7 @@
         {
           "stop_sequence": 0,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "17:46:00",
           "departure_time": "17:46:00",
           "lat": 51.10891574,
@@ -45487,7 +45487,7 @@
       ]
     },
     {
-      "trip_id": "6_17620105",
+      "trip_id": "6_17638780",
       "direction_id": "1",
       "headsign": "Pruszowice",
       "service_id": "6",
@@ -45495,7 +45495,7 @@
         {
           "stop_sequence": 0,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "17:16:00",
           "departure_time": "17:16:00",
           "lat": 51.10891574,
@@ -45792,7 +45792,7 @@
       ]
     },
     {
-      "trip_id": "6_17620106",
+      "trip_id": "6_17638781",
       "direction_id": "0",
       "headsign": "GALERIA DOMINIKAŃSKA",
       "service_id": "6",
@@ -46106,7 +46106,7 @@
         {
           "stop_sequence": 34,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "19:33:00",
           "departure_time": "19:33:00",
           "lat": 51.10891574,
@@ -46115,7 +46115,7 @@
       ]
     },
     {
-      "trip_id": "8_17620518",
+      "trip_id": "8_17639193",
       "direction_id": "1",
       "headsign": "Pruszowice",
       "service_id": "8",
@@ -46123,7 +46123,7 @@
         {
           "stop_sequence": 0,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "13:45:00",
           "departure_time": "13:45:00",
           "lat": 51.10891574,
@@ -46420,7 +46420,7 @@
       ]
     },
     {
-      "trip_id": "8_17620519",
+      "trip_id": "8_17639194",
       "direction_id": "0",
       "headsign": "GALERIA DOMINIKAŃSKA",
       "service_id": "8",
@@ -46734,7 +46734,7 @@
         {
           "stop_sequence": 34,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "16:07:00",
           "departure_time": "16:07:00",
           "lat": 51.10891574,
@@ -46743,7 +46743,7 @@
       ]
     },
     {
-      "trip_id": "8_17620636",
+      "trip_id": "8_17639311",
       "direction_id": "1",
       "headsign": "Pruszowice",
       "service_id": "8",
@@ -46751,7 +46751,7 @@
         {
           "stop_sequence": 0,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "12:10:00",
           "departure_time": "12:10:00",
           "lat": 51.10891574,
@@ -47048,7 +47048,7 @@
       ]
     },
     {
-      "trip_id": "8_17620637",
+      "trip_id": "8_17639312",
       "direction_id": "0",
       "headsign": "GALERIA DOMINIKAŃSKA",
       "service_id": "8",
@@ -47362,7 +47362,7 @@
         {
           "stop_sequence": 34,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "14:18:00",
           "departure_time": "14:18:00",
           "lat": 51.10891574,
@@ -47371,7 +47371,7 @@
       ]
     },
     {
-      "trip_id": "8_17620638",
+      "trip_id": "8_17639313",
       "direction_id": "1",
       "headsign": "Pruszowice",
       "service_id": "8",
@@ -47379,7 +47379,7 @@
         {
           "stop_sequence": 0,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "14:46:00",
           "departure_time": "14:46:00",
           "lat": 51.10891574,
@@ -47676,7 +47676,7 @@
       ]
     },
     {
-      "trip_id": "8_17620639",
+      "trip_id": "8_17639314",
       "direction_id": "0",
       "headsign": "GALERIA DOMINIKAŃSKA",
       "service_id": "8",
@@ -47990,7 +47990,7 @@
         {
           "stop_sequence": 34,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "17:05:00",
           "departure_time": "17:05:00",
           "lat": 51.10891574,
@@ -47999,7 +47999,7 @@
       ]
     },
     {
-      "trip_id": "8_17620642",
+      "trip_id": "8_17639317",
       "direction_id": "1",
       "headsign": "Pruszowice",
       "service_id": "8",
@@ -48007,7 +48007,7 @@
         {
           "stop_sequence": 0,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "20:15:00",
           "departure_time": "20:15:00",
           "lat": 51.10891574,
@@ -48304,7 +48304,7 @@
       ]
     },
     {
-      "trip_id": "8_17620643",
+      "trip_id": "8_17639318",
       "direction_id": "0",
       "headsign": "GALERIA DOMINIKAŃSKA",
       "service_id": "8",
@@ -48618,7 +48618,7 @@
         {
           "stop_sequence": 34,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "22:09:00",
           "departure_time": "22:09:00",
           "lat": 51.10891574,
@@ -48627,7 +48627,7 @@
       ]
     },
     {
-      "trip_id": "8_17620644",
+      "trip_id": "8_17639319",
       "direction_id": "1",
       "headsign": "Pruszowice",
       "service_id": "8",
@@ -48635,7 +48635,7 @@
         {
           "stop_sequence": 0,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "22:15:00",
           "departure_time": "22:15:00",
           "lat": 51.10891574,
@@ -48932,7 +48932,7 @@
       ]
     },
     {
-      "trip_id": "8_17620645",
+      "trip_id": "8_17639320",
       "direction_id": "0",
       "headsign": "GALERIA DOMINIKAŃSKA",
       "service_id": "8",
@@ -49246,7 +49246,7 @@
         {
           "stop_sequence": 34,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "24:04:00",
           "departure_time": "24:04:00",
           "lat": 51.10891574,
@@ -49255,7 +49255,7 @@
       ]
     },
     {
-      "trip_id": "8_17620647",
+      "trip_id": "8_17639322",
       "direction_id": "1",
       "headsign": "Pruszowice",
       "service_id": "8",
@@ -49263,7 +49263,7 @@
         {
           "stop_sequence": 0,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "05:00:00",
           "departure_time": "05:00:00",
           "lat": 51.10891574,
@@ -49560,7 +49560,7 @@
       ]
     },
     {
-      "trip_id": "8_17620648",
+      "trip_id": "8_17639323",
       "direction_id": "0",
       "headsign": "GALERIA DOMINIKAŃSKA",
       "service_id": "8",
@@ -49874,7 +49874,7 @@
         {
           "stop_sequence": 34,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "07:06:00",
           "departure_time": "07:06:00",
           "lat": 51.10891574,
@@ -49883,7 +49883,7 @@
       ]
     },
     {
-      "trip_id": "8_17620649",
+      "trip_id": "8_17639324",
       "direction_id": "1",
       "headsign": "Pruszowice",
       "service_id": "8",
@@ -49891,7 +49891,7 @@
         {
           "stop_sequence": 0,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "07:25:00",
           "departure_time": "07:25:00",
           "lat": 51.10891574,
@@ -50188,7 +50188,7 @@
       ]
     },
     {
-      "trip_id": "8_17620650",
+      "trip_id": "8_17639325",
       "direction_id": "0",
       "headsign": "GALERIA DOMINIKAŃSKA",
       "service_id": "8",
@@ -50502,7 +50502,7 @@
         {
           "stop_sequence": 34,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "09:33:00",
           "departure_time": "09:33:00",
           "lat": 51.10891574,
@@ -50511,7 +50511,7 @@
       ]
     },
     {
-      "trip_id": "8_17620682",
+      "trip_id": "8_17639357",
       "direction_id": "1",
       "headsign": "Pruszowice",
       "service_id": "8",
@@ -50762,7 +50762,7 @@
       ]
     },
     {
-      "trip_id": "8_17620683",
+      "trip_id": "8_17639358",
       "direction_id": "0",
       "headsign": "GALERIA DOMINIKAŃSKA",
       "service_id": "8",
@@ -51076,7 +51076,7 @@
         {
           "stop_sequence": 34,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "06:31:00",
           "departure_time": "06:31:00",
           "lat": 51.10891574,
@@ -51085,7 +51085,7 @@
       ]
     },
     {
-      "trip_id": "8_17620787",
+      "trip_id": "8_17639462",
       "direction_id": "1",
       "headsign": "Pruszowice",
       "service_id": "8",
@@ -51093,7 +51093,7 @@
         {
           "stop_sequence": 0,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "16:46:00",
           "departure_time": "16:46:00",
           "lat": 51.10891574,
@@ -51390,7 +51390,7 @@
       ]
     },
     {
-      "trip_id": "8_17620788",
+      "trip_id": "8_17639463",
       "direction_id": "0",
       "headsign": "GALERIA DOMINIKAŃSKA",
       "service_id": "8",
@@ -51704,7 +51704,7 @@
         {
           "stop_sequence": 34,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "19:03:00",
           "departure_time": "19:03:00",
           "lat": 51.10891574,
@@ -51713,7 +51713,7 @@
       ]
     },
     {
-      "trip_id": "8_17620789",
+      "trip_id": "8_17639464",
       "direction_id": "1",
       "headsign": "Pruszowice",
       "service_id": "8",
@@ -51721,7 +51721,7 @@
         {
           "stop_sequence": 0,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "19:15:00",
           "departure_time": "19:15:00",
           "lat": 51.10891574,
@@ -52018,7 +52018,7 @@
       ]
     },
     {
-      "trip_id": "8_17620790",
+      "trip_id": "8_17639465",
       "direction_id": "0",
       "headsign": "GALERIA DOMINIKAŃSKA",
       "service_id": "8",
@@ -52332,7 +52332,7 @@
         {
           "stop_sequence": 34,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "21:09:00",
           "departure_time": "21:09:00",
           "lat": 51.10891574,
@@ -52341,7 +52341,7 @@
       ]
     },
     {
-      "trip_id": "8_17620791",
+      "trip_id": "8_17639466",
       "direction_id": "0",
       "headsign": "GALERIA DOMINIKAŃSKA",
       "service_id": "8",
@@ -52655,7 +52655,7 @@
         {
           "stop_sequence": 34,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "05:44:00",
           "departure_time": "05:44:00",
           "lat": 51.10891574,
@@ -52664,7 +52664,7 @@
       ]
     },
     {
-      "trip_id": "8_17620792",
+      "trip_id": "8_17639467",
       "direction_id": "1",
       "headsign": "Pruszowice",
       "service_id": "8",
@@ -52672,7 +52672,7 @@
         {
           "stop_sequence": 0,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "05:57:00",
           "departure_time": "05:57:00",
           "lat": 51.10891574,
@@ -52969,7 +52969,7 @@
       ]
     },
     {
-      "trip_id": "8_17620793",
+      "trip_id": "8_17639468",
       "direction_id": "0",
       "headsign": "GALERIA DOMINIKAŃSKA",
       "service_id": "8",
@@ -53283,7 +53283,7 @@
         {
           "stop_sequence": 34,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "08:07:00",
           "departure_time": "08:07:00",
           "lat": 51.10891574,
@@ -53292,7 +53292,7 @@
       ]
     },
     {
-      "trip_id": "8_17620794",
+      "trip_id": "8_17639469",
       "direction_id": "1",
       "headsign": "Pruszowice",
       "service_id": "8",
@@ -53300,7 +53300,7 @@
         {
           "stop_sequence": 0,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "08:25:00",
           "departure_time": "08:25:00",
           "lat": 51.10891574,
@@ -53597,7 +53597,7 @@
       ]
     },
     {
-      "trip_id": "8_17620795",
+      "trip_id": "8_17639470",
       "direction_id": "0",
       "headsign": "GALERIA DOMINIKAŃSKA",
       "service_id": "8",
@@ -53911,7 +53911,7 @@
         {
           "stop_sequence": 34,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "10:18:00",
           "departure_time": "10:18:00",
           "lat": 51.10891574,
@@ -53920,7 +53920,7 @@
       ]
     },
     {
-      "trip_id": "8_17620798",
+      "trip_id": "8_17639473",
       "direction_id": "1",
       "headsign": "Pruszowice",
       "service_id": "8",
@@ -53928,7 +53928,7 @@
         {
           "stop_sequence": 0,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "13:10:00",
           "departure_time": "13:10:00",
           "lat": 51.10891574,
@@ -54225,7 +54225,7 @@
       ]
     },
     {
-      "trip_id": "8_17620799",
+      "trip_id": "8_17639474",
       "direction_id": "0",
       "headsign": "GALERIA DOMINIKAŃSKA",
       "service_id": "8",
@@ -54539,7 +54539,7 @@
         {
           "stop_sequence": 34,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "15:37:00",
           "departure_time": "15:37:00",
           "lat": 51.10891574,
@@ -54548,7 +54548,7 @@
       ]
     },
     {
-      "trip_id": "8_17620804",
+      "trip_id": "8_17639479",
       "direction_id": "1",
       "headsign": "Pruszowice",
       "service_id": "8",
@@ -54556,7 +54556,7 @@
         {
           "stop_sequence": 0,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "21:15:00",
           "departure_time": "21:15:00",
           "lat": 51.10891574,
@@ -54853,7 +54853,7 @@
       ]
     },
     {
-      "trip_id": "8_17620805",
+      "trip_id": "8_17639480",
       "direction_id": "0",
       "headsign": "GALERIA DOMINIKAŃSKA",
       "service_id": "8",
@@ -55167,7 +55167,7 @@
         {
           "stop_sequence": 34,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "23:08:00",
           "departure_time": "23:08:00",
           "lat": 51.10891574,
@@ -55176,7 +55176,7 @@
       ]
     },
     {
-      "trip_id": "8_17620806",
+      "trip_id": "8_17639481",
       "direction_id": "1",
       "headsign": "Pruszowice",
       "service_id": "8",
@@ -55184,7 +55184,7 @@
         {
           "stop_sequence": 0,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "23:15:00",
           "departure_time": "23:15:00",
           "lat": 51.10891574,
@@ -55481,7 +55481,7 @@
       ]
     },
     {
-      "trip_id": "8_17620808",
+      "trip_id": "8_17639483",
       "direction_id": "1",
       "headsign": "Pruszowice",
       "service_id": "8",
@@ -55489,7 +55489,7 @@
         {
           "stop_sequence": 0,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "06:27:00",
           "departure_time": "06:27:00",
           "lat": 51.10891574,
@@ -55786,7 +55786,7 @@
       ]
     },
     {
-      "trip_id": "8_17620809",
+      "trip_id": "8_17639484",
       "direction_id": "0",
       "headsign": "GALERIA DOMINIKAŃSKA",
       "service_id": "8",
@@ -56100,7 +56100,7 @@
         {
           "stop_sequence": 34,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "08:36:00",
           "departure_time": "08:36:00",
           "lat": 51.10891574,
@@ -56109,7 +56109,7 @@
       ]
     },
     {
-      "trip_id": "8_17620810",
+      "trip_id": "8_17639485",
       "direction_id": "1",
       "headsign": "Pruszowice",
       "service_id": "8",
@@ -56117,7 +56117,7 @@
         {
           "stop_sequence": 0,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "09:10:00",
           "departure_time": "09:10:00",
           "lat": 51.10891574,
@@ -56414,7 +56414,7 @@
       ]
     },
     {
-      "trip_id": "8_17620811",
+      "trip_id": "8_17639486",
       "direction_id": "0",
       "headsign": "GALERIA DOMINIKAŃSKA",
       "service_id": "8",
@@ -56728,7 +56728,7 @@
         {
           "stop_sequence": 34,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "11:18:00",
           "departure_time": "11:18:00",
           "lat": 51.10891574,
@@ -56737,7 +56737,7 @@
       ]
     },
     {
-      "trip_id": "8_17620814",
+      "trip_id": "8_17639489",
       "direction_id": "1",
       "headsign": "Pruszowice",
       "service_id": "8",
@@ -56745,7 +56745,7 @@
         {
           "stop_sequence": 0,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "14:15:00",
           "departure_time": "14:15:00",
           "lat": 51.10891574,
@@ -57042,7 +57042,7 @@
       ]
     },
     {
-      "trip_id": "8_17620815",
+      "trip_id": "8_17639490",
       "direction_id": "0",
       "headsign": "GALERIA DOMINIKAŃSKA",
       "service_id": "8",
@@ -57356,7 +57356,7 @@
         {
           "stop_sequence": 34,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "16:37:00",
           "departure_time": "16:37:00",
           "lat": 51.10891574,
@@ -57365,7 +57365,7 @@
       ]
     },
     {
-      "trip_id": "8_17620818",
+      "trip_id": "8_17639493",
       "direction_id": "1",
       "headsign": "Pruszowice",
       "service_id": "8",
@@ -57373,7 +57373,7 @@
         {
           "stop_sequence": 0,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "05:30:00",
           "departure_time": "05:30:00",
           "lat": 51.10891574,
@@ -57670,7 +57670,7 @@
       ]
     },
     {
-      "trip_id": "8_17620819",
+      "trip_id": "8_17639494",
       "direction_id": "0",
       "headsign": "GALERIA DOMINIKAŃSKA",
       "service_id": "8",
@@ -57984,7 +57984,7 @@
         {
           "stop_sequence": 34,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "07:37:00",
           "departure_time": "07:37:00",
           "lat": 51.10891574,
@@ -57993,7 +57993,7 @@
       ]
     },
     {
-      "trip_id": "8_17620820",
+      "trip_id": "8_17639495",
       "direction_id": "1",
       "headsign": "Pruszowice",
       "service_id": "8",
@@ -58001,7 +58001,7 @@
         {
           "stop_sequence": 0,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "07:55:00",
           "departure_time": "07:55:00",
           "lat": 51.10891574,
@@ -58298,7 +58298,7 @@
       ]
     },
     {
-      "trip_id": "8_17620821",
+      "trip_id": "8_17639496",
       "direction_id": "0",
       "headsign": "GALERIA DOMINIKAŃSKA",
       "service_id": "8",
@@ -58612,7 +58612,7 @@
         {
           "stop_sequence": 34,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "15:06:00",
           "departure_time": "15:06:00",
           "lat": 51.10891574,
@@ -58621,7 +58621,7 @@
       ]
     },
     {
-      "trip_id": "8_17621033",
+      "trip_id": "8_17639708",
       "direction_id": "1",
       "headsign": "Pruszowice",
       "service_id": "8",
@@ -58629,7 +58629,7 @@
         {
           "stop_sequence": 0,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "07:00:00",
           "departure_time": "07:00:00",
           "lat": 51.10891574,
@@ -58926,7 +58926,7 @@
       ]
     },
     {
-      "trip_id": "8_17621034",
+      "trip_id": "8_17639709",
       "direction_id": "0",
       "headsign": "GALERIA DOMINIKAŃSKA",
       "service_id": "8",
@@ -59240,7 +59240,7 @@
         {
           "stop_sequence": 34,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "09:04:00",
           "departure_time": "09:04:00",
           "lat": 51.10891574,
@@ -59249,7 +59249,7 @@
       ]
     },
     {
-      "trip_id": "8_17621045",
+      "trip_id": "8_17639720",
       "direction_id": "1",
       "headsign": "Pruszowice",
       "service_id": "8",
@@ -59257,7 +59257,7 @@
         {
           "stop_sequence": 0,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "16:16:00",
           "departure_time": "16:16:00",
           "lat": 51.10891574,
@@ -59554,7 +59554,7 @@
       ]
     },
     {
-      "trip_id": "8_17621046",
+      "trip_id": "8_17639721",
       "direction_id": "0",
       "headsign": "GALERIA DOMINIKAŃSKA",
       "service_id": "8",
@@ -59868,7 +59868,7 @@
         {
           "stop_sequence": 34,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "18:33:00",
           "departure_time": "18:33:00",
           "lat": 51.10891574,
@@ -59877,7 +59877,7 @@
       ]
     },
     {
-      "trip_id": "8_17621052",
+      "trip_id": "8_17639727",
       "direction_id": "1",
       "headsign": "Pruszowice",
       "service_id": "8",
@@ -59885,7 +59885,7 @@
         {
           "stop_sequence": 0,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "15:16:00",
           "departure_time": "15:16:00",
           "lat": 51.10891574,
@@ -60182,7 +60182,7 @@
       ]
     },
     {
-      "trip_id": "8_17621053",
+      "trip_id": "8_17639728",
       "direction_id": "0",
       "headsign": "GALERIA DOMINIKAŃSKA",
       "service_id": "8",
@@ -60496,7 +60496,7 @@
         {
           "stop_sequence": 34,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "17:35:00",
           "departure_time": "17:35:00",
           "lat": 51.10891574,
@@ -60505,7 +60505,7 @@
       ]
     },
     {
-      "trip_id": "8_17621061",
+      "trip_id": "8_17639736",
       "direction_id": "1",
       "headsign": "Pruszowice",
       "service_id": "8",
@@ -60513,7 +60513,7 @@
         {
           "stop_sequence": 0,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "15:46:00",
           "departure_time": "15:46:00",
           "lat": 51.10891574,
@@ -60810,7 +60810,7 @@
       ]
     },
     {
-      "trip_id": "8_17621062",
+      "trip_id": "8_17639737",
       "direction_id": "0",
       "headsign": "GALERIA DOMINIKAŃSKA",
       "service_id": "8",
@@ -61124,7 +61124,7 @@
         {
           "stop_sequence": 34,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "18:05:00",
           "departure_time": "18:05:00",
           "lat": 51.10891574,
@@ -61133,7 +61133,7 @@
       ]
     },
     {
-      "trip_id": "8_17621063",
+      "trip_id": "8_17639738",
       "direction_id": "1",
       "headsign": "Pruszowice",
       "service_id": "8",
@@ -61141,7 +61141,7 @@
         {
           "stop_sequence": 0,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "18:16:00",
           "departure_time": "18:16:00",
           "lat": 51.10891574,
@@ -61438,7 +61438,7 @@
       ]
     },
     {
-      "trip_id": "8_17621064",
+      "trip_id": "8_17639739",
       "direction_id": "0",
       "headsign": "GALERIA DOMINIKAŃSKA",
       "service_id": "8",
@@ -61752,7 +61752,7 @@
         {
           "stop_sequence": 34,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "20:17:00",
           "departure_time": "20:17:00",
           "lat": 51.10891574,
@@ -61761,7 +61761,7 @@
       ]
     },
     {
-      "trip_id": "8_17621072",
+      "trip_id": "8_17639747",
       "direction_id": "1",
       "headsign": "Pruszowice",
       "service_id": "8",
@@ -61769,7 +61769,7 @@
         {
           "stop_sequence": 0,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "11:10:00",
           "departure_time": "11:10:00",
           "lat": 51.10891574,
@@ -62066,7 +62066,7 @@
       ]
     },
     {
-      "trip_id": "8_17621073",
+      "trip_id": "8_17639748",
       "direction_id": "0",
       "headsign": "GALERIA DOMINIKAŃSKA",
       "service_id": "8",
@@ -62380,7 +62380,7 @@
         {
           "stop_sequence": 34,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "13:18:00",
           "departure_time": "13:18:00",
           "lat": 51.10891574,
@@ -62389,7 +62389,7 @@
       ]
     },
     {
-      "trip_id": "8_17621093",
+      "trip_id": "8_17639768",
       "direction_id": "1",
       "headsign": "Pruszowice",
       "service_id": "8",
@@ -62397,7 +62397,7 @@
         {
           "stop_sequence": 0,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "10:10:00",
           "departure_time": "10:10:00",
           "lat": 51.10891574,
@@ -62694,7 +62694,7 @@
       ]
     },
     {
-      "trip_id": "8_17621094",
+      "trip_id": "8_17639769",
       "direction_id": "0",
       "headsign": "GALERIA DOMINIKAŃSKA",
       "service_id": "8",
@@ -63008,7 +63008,7 @@
         {
           "stop_sequence": 34,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "12:18:00",
           "departure_time": "12:18:00",
           "lat": 51.10891574,
@@ -63017,7 +63017,7 @@
       ]
     },
     {
-      "trip_id": "8_17621099",
+      "trip_id": "8_17639774",
       "direction_id": "1",
       "headsign": "Pruszowice",
       "service_id": "8",
@@ -63025,7 +63025,7 @@
         {
           "stop_sequence": 0,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "17:46:00",
           "departure_time": "17:46:00",
           "lat": 51.10891574,
@@ -63322,7 +63322,7 @@
       ]
     },
     {
-      "trip_id": "8_17621151",
+      "trip_id": "8_17639826",
       "direction_id": "1",
       "headsign": "Pruszowice",
       "service_id": "8",
@@ -63330,7 +63330,7 @@
         {
           "stop_sequence": 0,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "17:16:00",
           "departure_time": "17:16:00",
           "lat": 51.10891574,
@@ -63627,7 +63627,7 @@
       ]
     },
     {
-      "trip_id": "8_17621152",
+      "trip_id": "8_17639827",
       "direction_id": "0",
       "headsign": "GALERIA DOMINIKAŃSKA",
       "service_id": "8",
@@ -63941,7 +63941,7 @@
         {
           "stop_sequence": 34,
           "stop_id": "5876",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 08",
           "arrival_time": "19:33:00",
           "departure_time": "19:33:00",
           "lat": 51.10891574,

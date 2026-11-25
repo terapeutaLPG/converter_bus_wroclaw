@@ -2,7 +2,7 @@
   "line": "908",
   "trips": [
     {
-      "trip_id": "3_17617908",
+      "trip_id": "3_17636583",
       "direction_id": "1",
       "headsign": "SZYMANÓW - pętla",
       "service_id": "3",
@@ -199,7 +199,7 @@
       ]
     },
     {
-      "trip_id": "3_17617909",
+      "trip_id": "3_17636584",
       "direction_id": "0",
       "headsign": "DWORZEC NADODRZE",
       "service_id": "3",
@@ -369,7 +369,7 @@
       ]
     },
     {
-      "trip_id": "3_17617918",
+      "trip_id": "3_17636593",
       "direction_id": "1",
       "headsign": "SZYMANÓW - pętla",
       "service_id": "3",
@@ -566,7 +566,7 @@
       ]
     },
     {
-      "trip_id": "3_17617919",
+      "trip_id": "3_17636594",
       "direction_id": "0",
       "headsign": "DWORZEC NADODRZE",
       "service_id": "3",
@@ -736,7 +736,7 @@
       ]
     },
     {
-      "trip_id": "3_17617922",
+      "trip_id": "3_17636597",
       "direction_id": "1",
       "headsign": "Kryniczno - Kościół",
       "service_id": "3",
@@ -906,7 +906,7 @@
       ]
     },
     {
-      "trip_id": "3_17617923",
+      "trip_id": "3_17636598",
       "direction_id": "0",
       "headsign": "DWORZEC NADODRZE",
       "service_id": "3",
@@ -1049,7 +1049,7 @@
       ]
     },
     {
-      "trip_id": "3_17617925",
+      "trip_id": "3_17636600",
       "direction_id": "1",
       "headsign": "Kryniczno - Kościół",
       "service_id": "3",
@@ -1219,7 +1219,7 @@
       ]
     },
     {
-      "trip_id": "3_17617926",
+      "trip_id": "3_17636601",
       "direction_id": "0",
       "headsign": "DWORZEC NADODRZE",
       "service_id": "3",
@@ -1362,7 +1362,7 @@
       ]
     },
     {
-      "trip_id": "3_17617927",
+      "trip_id": "3_17636602",
       "direction_id": "1",
       "headsign": "SZYMANÓW - pętla",
       "service_id": "3",
@@ -1559,7 +1559,7 @@
       ]
     },
     {
-      "trip_id": "3_17617928",
+      "trip_id": "3_17636603",
       "direction_id": "0",
       "headsign": "DWORZEC NADODRZE",
       "service_id": "3",
@@ -1729,7 +1729,7 @@
       ]
     },
     {
-      "trip_id": "3_17617929",
+      "trip_id": "3_17636604",
       "direction_id": "1",
       "headsign": "SZYMANÓW - pętla",
       "service_id": "3",
@@ -1926,7 +1926,7 @@
       ]
     },
     {
-      "trip_id": "3_17617930",
+      "trip_id": "3_17636605",
       "direction_id": "0",
       "headsign": "DWORZEC NADODRZE",
       "service_id": "3",
@@ -2096,7 +2096,7 @@
       ]
     },
     {
-      "trip_id": "3_17617933",
+      "trip_id": "3_17636608",
       "direction_id": "1",
       "headsign": "Kryniczno - Kościół",
       "service_id": "3",
@@ -2266,7 +2266,7 @@
       ]
     },
     {
-      "trip_id": "3_17617934",
+      "trip_id": "3_17636609",
       "direction_id": "0",
       "headsign": "DWORZEC NADODRZE",
       "service_id": "3",
@@ -2409,7 +2409,7 @@
       ]
     },
     {
-      "trip_id": "3_17618011",
+      "trip_id": "3_17636686",
       "direction_id": "0",
       "headsign": "DWORZEC NADODRZE",
       "service_id": "3",
@@ -2579,7 +2579,7 @@
       ]
     },
     {
-      "trip_id": "3_17618020",
+      "trip_id": "3_17636695",
       "direction_id": "1",
       "headsign": "SZYMANÓW - pętla",
       "service_id": "3",
@@ -2776,7 +2776,7 @@
       ]
     },
     {
-      "trip_id": "3_17618021",
+      "trip_id": "3_17636696",
       "direction_id": "0",
       "headsign": "DWORZEC NADODRZE",
       "service_id": "3",
@@ -2946,7 +2946,7 @@
       ]
     },
     {
-      "trip_id": "3_17618024",
+      "trip_id": "3_17636699",
       "direction_id": "1",
       "headsign": "Kryniczno - Kościół",
       "service_id": "3",
@@ -3116,7 +3116,7 @@
       ]
     },
     {
-      "trip_id": "3_17618025",
+      "trip_id": "3_17636700",
       "direction_id": "0",
       "headsign": "DWORZEC NADODRZE",
       "service_id": "3",
@@ -3259,7 +3259,7 @@
       ]
     },
     {
-      "trip_id": "3_17618028",
+      "trip_id": "3_17636703",
       "direction_id": "1",
       "headsign": "SZYMANÓW - pętla",
       "service_id": "3",
@@ -3456,7 +3456,7 @@
       ]
     },
     {
-      "trip_id": "3_17618029",
+      "trip_id": "3_17636704",
       "direction_id": "0",
       "headsign": "DWORZEC NADODRZE",
       "service_id": "3",
@@ -3626,7 +3626,7 @@
       ]
     },
     {
-      "trip_id": "3_17618032",
+      "trip_id": "3_17636707",
       "direction_id": "1",
       "headsign": "Kryniczno - Kościół",
       "service_id": "3",
@@ -3796,7 +3796,7 @@
       ]
     },
     {
-      "trip_id": "3_17618033",
+      "trip_id": "3_17636708",
       "direction_id": "0",
       "headsign": "DWORZEC NADODRZE",
       "service_id": "3",
@@ -3939,7 +3939,7 @@
       ]
     },
     {
-      "trip_id": "3_17618034",
+      "trip_id": "3_17636709",
       "direction_id": "1",
       "headsign": "SZYMANÓW - pętla",
       "service_id": "3",
@@ -4136,7 +4136,7 @@
       ]
     },
     {
-      "trip_id": "3_17618035",
+      "trip_id": "3_17636710",
       "direction_id": "0",
       "headsign": "DWORZEC NADODRZE",
       "service_id": "3",
@@ -4306,7 +4306,7 @@
       ]
     },
     {
-      "trip_id": "3_17618038",
+      "trip_id": "3_17636713",
       "direction_id": "1",
       "headsign": "SZYMANÓW - pętla",
       "service_id": "3",
@@ -4503,7 +4503,7 @@
       ]
     },
     {
-      "trip_id": "3_17618039",
+      "trip_id": "3_17636714",
       "direction_id": "0",
       "headsign": "DWORZEC NADODRZE",
       "service_id": "3",
@@ -4673,7 +4673,7 @@
       ]
     },
     {
-      "trip_id": "3_17618040",
+      "trip_id": "3_17636715",
       "direction_id": "1",
       "headsign": "Kryniczno - Kościół",
       "service_id": "3",
@@ -4843,7 +4843,7 @@
       ]
     },
     {
-      "trip_id": "3_17618041",
+      "trip_id": "3_17636716",
       "direction_id": "0",
       "headsign": "DWORZEC NADODRZE",
       "service_id": "3",
@@ -4986,7 +4986,7 @@
       ]
     },
     {
-      "trip_id": "3_17618046",
+      "trip_id": "3_17636721",
       "direction_id": "1",
       "headsign": "Kryniczno - Kościół",
       "service_id": "3",
@@ -5156,7 +5156,7 @@
       ]
     },
     {
-      "trip_id": "3_17618047",
+      "trip_id": "3_17636722",
       "direction_id": "0",
       "headsign": "DWORZEC NADODRZE",
       "service_id": "3",
@@ -5299,7 +5299,7 @@
       ]
     },
     {
-      "trip_id": "3_17618050",
+      "trip_id": "3_17636725",
       "direction_id": "1",
       "headsign": "SZYMANÓW - pętla",
       "service_id": "3",
@@ -5496,7 +5496,7 @@
       ]
     },
     {
-      "trip_id": "3_17618051",
+      "trip_id": "3_17636726",
       "direction_id": "0",
       "headsign": "DWORZEC NADODRZE",
       "service_id": "3",
@@ -5666,7 +5666,7 @@
       ]
     },
     {
-      "trip_id": "3_17618054",
+      "trip_id": "3_17636729",
       "direction_id": "1",
       "headsign": "Kryniczno - Kościół",
       "service_id": "3",
@@ -5836,7 +5836,7 @@
       ]
     },
     {
-      "trip_id": "3_17618055",
+      "trip_id": "3_17636730",
       "direction_id": "0",
       "headsign": "DWORZEC NADODRZE",
       "service_id": "3",
@@ -5979,7 +5979,7 @@
       ]
     },
     {
-      "trip_id": "3_17618058",
+      "trip_id": "3_17636733",
       "direction_id": "1",
       "headsign": "SZYMANÓW - pętla",
       "service_id": "3",
@@ -6176,7 +6176,7 @@
       ]
     },
     {
-      "trip_id": "3_17618059",
+      "trip_id": "3_17636734",
       "direction_id": "0",
       "headsign": "DWORZEC NADODRZE",
       "service_id": "3",
@@ -6346,7 +6346,7 @@
       ]
     },
     {
-      "trip_id": "3_17618077",
+      "trip_id": "3_17636752",
       "direction_id": "1",
       "headsign": "Kryniczno - Kościół",
       "service_id": "3",
@@ -6516,7 +6516,7 @@
       ]
     },
     {
-      "trip_id": "3_17618078",
+      "trip_id": "3_17636753",
       "direction_id": "0",
       "headsign": "DWORZEC NADODRZE",
       "service_id": "3",
@@ -6659,7 +6659,7 @@
       ]
     },
     {
-      "trip_id": "3_17618079",
+      "trip_id": "3_17636754",
       "direction_id": "1",
       "headsign": "SZYMANÓW - pętla",
       "service_id": "3",
@@ -6856,7 +6856,7 @@
       ]
     },
     {
-      "trip_id": "3_17618080",
+      "trip_id": "3_17636755",
       "direction_id": "0",
       "headsign": "DWORZEC NADODRZE",
       "service_id": "3",
@@ -7026,7 +7026,7 @@
       ]
     },
     {
-      "trip_id": "3_17618081",
+      "trip_id": "3_17636756",
       "direction_id": "1",
       "headsign": "SZYMANÓW - pętla",
       "service_id": "3",
@@ -7223,7 +7223,7 @@
       ]
     },
     {
-      "trip_id": "4_17618576",
+      "trip_id": "4_17637251",
       "direction_id": "1",
       "headsign": "SZYMANÓW - pętla",
       "service_id": "4",
@@ -7420,7 +7420,7 @@
       ]
     },
     {
-      "trip_id": "4_17618577",
+      "trip_id": "4_17637252",
       "direction_id": "0",
       "headsign": "DWORZEC NADODRZE",
       "service_id": "4",
@@ -7590,7 +7590,7 @@
       ]
     },
     {
-      "trip_id": "4_17618584",
+      "trip_id": "4_17637259",
       "direction_id": "1",
       "headsign": "Kryniczno - Kościół",
       "service_id": "4",
@@ -7760,7 +7760,7 @@
       ]
     },
     {
-      "trip_id": "4_17618585",
+      "trip_id": "4_17637260",
       "direction_id": "0",
       "headsign": "DWORZEC NADODRZE",
       "service_id": "4",
@@ -7903,7 +7903,7 @@
       ]
     },
     {
-      "trip_id": "4_17618588",
+      "trip_id": "4_17637263",
       "direction_id": "1",
       "headsign": "SZYMANÓW - pętla",
       "service_id": "4",
@@ -8100,7 +8100,7 @@
       ]
     },
     {
-      "trip_id": "4_17618589",
+      "trip_id": "4_17637264",
       "direction_id": "0",
       "headsign": "DWORZEC NADODRZE",
       "service_id": "4",
@@ -8270,7 +8270,7 @@
       ]
     },
     {
-      "trip_id": "4_17618590",
+      "trip_id": "4_17637265",
       "direction_id": "1",
       "headsign": "Kryniczno - Kościół",
       "service_id": "4",
@@ -8440,7 +8440,7 @@
       ]
     },
     {
-      "trip_id": "4_17618591",
+      "trip_id": "4_17637266",
       "direction_id": "0",
       "headsign": "DWORZEC NADODRZE",
       "service_id": "4",
@@ -8583,7 +8583,7 @@
       ]
     },
     {
-      "trip_id": "4_17618609",
+      "trip_id": "4_17637284",
       "direction_id": "1",
       "headsign": "Kryniczno - Kościół",
       "service_id": "4",
@@ -8753,7 +8753,7 @@
       ]
     },
     {
-      "trip_id": "4_17618610",
+      "trip_id": "4_17637285",
       "direction_id": "0",
       "headsign": "DWORZEC NADODRZE",
       "service_id": "4",
@@ -8896,7 +8896,7 @@
       ]
     },
     {
-      "trip_id": "4_17618611",
+      "trip_id": "4_17637286",
       "direction_id": "1",
       "headsign": "SZYMANÓW - pętla",
       "service_id": "4",
@@ -9093,7 +9093,7 @@
       ]
     },
     {
-      "trip_id": "4_17618612",
+      "trip_id": "4_17637287",
       "direction_id": "0",
       "headsign": "DWORZEC NADODRZE",
       "service_id": "4",
@@ -9263,7 +9263,7 @@
       ]
     },
     {
-      "trip_id": "4_17618613",
+      "trip_id": "4_17637288",
       "direction_id": "1",
       "headsign": "SZYMANÓW - pętla",
       "service_id": "4",
@@ -9460,7 +9460,7 @@
       ]
     },
     {
-      "trip_id": "4_17618640",
+      "trip_id": "4_17637315",
       "direction_id": "0",
       "headsign": "DWORZEC NADODRZE",
       "service_id": "4",
@@ -9630,7 +9630,7 @@
       ]
     },
     {
-      "trip_id": "4_17618643",
+      "trip_id": "4_17637318",
       "direction_id": "1",
       "headsign": "SZYMANÓW - pętla",
       "service_id": "4",
@@ -9827,7 +9827,7 @@
       ]
     },
     {
-      "trip_id": "4_17618644",
+      "trip_id": "4_17637319",
       "direction_id": "0",
       "headsign": "DWORZEC NADODRZE",
       "service_id": "4",
@@ -9997,7 +9997,7 @@
       ]
     },
     {
-      "trip_id": "4_17618647",
+      "trip_id": "4_17637322",
       "direction_id": "1",
       "headsign": "SZYMANÓW - pętla",
       "service_id": "4",
@@ -10194,7 +10194,7 @@
       ]
     },
     {
-      "trip_id": "4_17618648",
+      "trip_id": "4_17637323",
       "direction_id": "0",
       "headsign": "DWORZEC NADODRZE",
       "service_id": "4",
@@ -10364,7 +10364,7 @@
       ]
     },
     {
-      "trip_id": "4_17618651",
+      "trip_id": "4_17637326",
       "direction_id": "1",
       "headsign": "Kryniczno - Kościół",
       "service_id": "4",
@@ -10534,7 +10534,7 @@
       ]
     },
     {
-      "trip_id": "4_17618652",
+      "trip_id": "4_17637327",
       "direction_id": "0",
       "headsign": "DWORZEC NADODRZE",
       "service_id": "4",
@@ -10677,7 +10677,7 @@
       ]
     },
     {
-      "trip_id": "4_17618655",
+      "trip_id": "4_17637330",
       "direction_id": "1",
       "headsign": "SZYMANÓW - pętla",
       "service_id": "4",
@@ -10874,7 +10874,7 @@
       ]
     },
     {
-      "trip_id": "4_17618656",
+      "trip_id": "4_17637331",
       "direction_id": "0",
       "headsign": "DWORZEC NADODRZE",
       "service_id": "4",
@@ -11044,7 +11044,7 @@
       ]
     },
     {
-      "trip_id": "4_17618661",
+      "trip_id": "4_17637336",
       "direction_id": "1",
       "headsign": "Kryniczno - Kościół",
       "service_id": "4",
@@ -11214,7 +11214,7 @@
       ]
     },
     {
-      "trip_id": "4_17618662",
+      "trip_id": "4_17637337",
       "direction_id": "0",
       "headsign": "DWORZEC NADODRZE",
       "service_id": "4",
@@ -11357,7 +11357,7 @@
       ]
     },
     {
-      "trip_id": "4_17618663",
+      "trip_id": "4_17637338",
       "direction_id": "1",
       "headsign": "SZYMANÓW - pętla",
       "service_id": "4",
@@ -11554,7 +11554,7 @@
       ]
     },
     {
-      "trip_id": "4_17618664",
+      "trip_id": "4_17637339",
       "direction_id": "0",
       "headsign": "DWORZEC NADODRZE",
       "service_id": "4",
@@ -11724,7 +11724,7 @@
       ]
     },
     {
-      "trip_id": "4_17618666",
+      "trip_id": "4_17637341",
       "direction_id": "1",
       "headsign": "SZYMANÓW - pętla",
       "service_id": "4",
@@ -11921,7 +11921,7 @@
       ]
     },
     {
-      "trip_id": "4_17618667",
+      "trip_id": "4_17637342",
       "direction_id": "0",
       "headsign": "DWORZEC NADODRZE",
       "service_id": "4",
@@ -12091,7 +12091,7 @@
       ]
     },
     {
-      "trip_id": "4_17618668",
+      "trip_id": "4_17637343",
       "direction_id": "1",
       "headsign": "Kryniczno - Kościół",
       "service_id": "4",
@@ -12261,7 +12261,7 @@
       ]
     },
     {
-      "trip_id": "4_17618669",
+      "trip_id": "4_17637344",
       "direction_id": "0",
       "headsign": "DWORZEC NADODRZE",
       "service_id": "4",
@@ -12404,7 +12404,7 @@
       ]
     },
     {
-      "trip_id": "4_17618670",
+      "trip_id": "4_17637345",
       "direction_id": "1",
       "headsign": "Kryniczno - Kościół",
       "service_id": "4",
@@ -12574,7 +12574,7 @@
       ]
     },
     {
-      "trip_id": "4_17618671",
+      "trip_id": "4_17637346",
       "direction_id": "0",
       "headsign": "DWORZEC NADODRZE",
       "service_id": "4",
@@ -12717,7 +12717,7 @@
       ]
     },
     {
-      "trip_id": "4_17618674",
+      "trip_id": "4_17637349",
       "direction_id": "1",
       "headsign": "Kryniczno - Kościół",
       "service_id": "4",
@@ -12887,7 +12887,7 @@
       ]
     },
     {
-      "trip_id": "4_17618675",
+      "trip_id": "4_17637350",
       "direction_id": "0",
       "headsign": "DWORZEC NADODRZE",
       "service_id": "4",
@@ -13030,7 +13030,7 @@
       ]
     },
     {
-      "trip_id": "4_17618678",
+      "trip_id": "4_17637353",
       "direction_id": "1",
       "headsign": "SZYMANÓW - pętla",
       "service_id": "4",
@@ -13227,7 +13227,7 @@
       ]
     },
     {
-      "trip_id": "4_17618679",
+      "trip_id": "4_17637354",
       "direction_id": "0",
       "headsign": "DWORZEC NADODRZE",
       "service_id": "4",
@@ -13397,7 +13397,7 @@
       ]
     },
     {
-      "trip_id": "4_17618682",
+      "trip_id": "4_17637357",
       "direction_id": "1",
       "headsign": "Kryniczno - Kościół",
       "service_id": "4",
@@ -13567,7 +13567,7 @@
       ]
     },
     {
-      "trip_id": "4_17618683",
+      "trip_id": "4_17637358",
       "direction_id": "0",
       "headsign": "DWORZEC NADODRZE",
       "service_id": "4",
@@ -13710,7 +13710,7 @@
       ]
     },
     {
-      "trip_id": "4_17618686",
+      "trip_id": "4_17637361",
       "direction_id": "1",
       "headsign": "SZYMANÓW - pętla",
       "service_id": "4",
@@ -13907,7 +13907,7 @@
       ]
     },
     {
-      "trip_id": "4_17618687",
+      "trip_id": "4_17637362",
       "direction_id": "0",
       "headsign": "DWORZEC NADODRZE",
       "service_id": "4",
@@ -14077,7 +14077,7 @@
       ]
     },
     {
-      "trip_id": "4_17618694",
+      "trip_id": "4_17637369",
       "direction_id": "1",
       "headsign": "SZYMANÓW - pętla",
       "service_id": "4",
@@ -14274,7 +14274,7 @@
       ]
     },
     {
-      "trip_id": "4_17618695",
+      "trip_id": "4_17637370",
       "direction_id": "0",
       "headsign": "DWORZEC NADODRZE",
       "service_id": "4",
@@ -14444,7 +14444,7 @@
       ]
     },
     {
-      "trip_id": "6_17619127",
+      "trip_id": "6_17637802",
       "direction_id": "1",
       "headsign": "SZYMANÓW - pętla",
       "service_id": "6",
@@ -14641,7 +14641,7 @@
       ]
     },
     {
-      "trip_id": "6_17619128",
+      "trip_id": "6_17637803",
       "direction_id": "0",
       "headsign": "DWORZEC NADODRZE",
       "service_id": "6",
@@ -14811,7 +14811,7 @@
       ]
     },
     {
-      "trip_id": "6_17619129",
+      "trip_id": "6_17637804",
       "direction_id": "1",
       "headsign": "Kryniczno - Kościół",
       "service_id": "6",
@@ -14981,7 +14981,7 @@
       ]
     },
     {
-      "trip_id": "6_17619130",
+      "trip_id": "6_17637805",
       "direction_id": "0",
       "headsign": "DWORZEC NADODRZE",
       "service_id": "6",
@@ -15124,7 +15124,7 @@
       ]
     },
     {
-      "trip_id": "6_17619131",
+      "trip_id": "6_17637806",
       "direction_id": "1",
       "headsign": "SZYMANÓW - pętla",
       "service_id": "6",
@@ -15321,7 +15321,7 @@
       ]
     },
     {
-      "trip_id": "6_17619132",
+      "trip_id": "6_17637807",
       "direction_id": "0",
       "headsign": "DWORZEC NADODRZE",
       "service_id": "6",
@@ -15491,7 +15491,7 @@
       ]
     },
     {
-      "trip_id": "6_17619135",
+      "trip_id": "6_17637810",
       "direction_id": "1",
       "headsign": "Kryniczno - Kościół",
       "service_id": "6",
@@ -15661,7 +15661,7 @@
       ]
     },
     {
-      "trip_id": "6_17619136",
+      "trip_id": "6_17637811",
       "direction_id": "0",
       "headsign": "DWORZEC NADODRZE",
       "service_id": "6",
@@ -15804,7 +15804,7 @@
       ]
     },
     {
-      "trip_id": "6_17619149",
+      "trip_id": "6_17637824",
       "direction_id": "1",
       "headsign": "PSARY - Wolności",
       "service_id": "6",
@@ -15947,7 +15947,7 @@
       ]
     },
     {
-      "trip_id": "6_17619150",
+      "trip_id": "6_17637825",
       "direction_id": "0",
       "headsign": "DWORZEC NADODRZE",
       "service_id": "6",
@@ -16072,7 +16072,7 @@
       ]
     },
     {
-      "trip_id": "6_17619161",
+      "trip_id": "6_17637836",
       "direction_id": "1",
       "headsign": "Kryniczno - Kościół",
       "service_id": "6",
@@ -16242,7 +16242,7 @@
       ]
     },
     {
-      "trip_id": "6_17619162",
+      "trip_id": "6_17637837",
       "direction_id": "0",
       "headsign": "DWORZEC NADODRZE",
       "service_id": "6",
@@ -16385,7 +16385,7 @@
       ]
     },
     {
-      "trip_id": "6_17619165",
+      "trip_id": "6_17637840",
       "direction_id": "1",
       "headsign": "PSARY - Wolności",
       "service_id": "6",
@@ -16528,7 +16528,7 @@
       ]
     },
     {
-      "trip_id": "6_17619166",
+      "trip_id": "6_17637841",
       "direction_id": "0",
       "headsign": "DWORZEC NADODRZE",
       "service_id": "6",
@@ -16653,7 +16653,7 @@
       ]
     },
     {
-      "trip_id": "6_17619167",
+      "trip_id": "6_17637842",
       "direction_id": "1",
       "headsign": "PSARY - Wolności",
       "service_id": "6",
@@ -16796,7 +16796,7 @@
       ]
     },
     {
-      "trip_id": "6_17619168",
+      "trip_id": "6_17637843",
       "direction_id": "0",
       "headsign": "DWORZEC NADODRZE",
       "service_id": "6",
@@ -16921,7 +16921,7 @@
       ]
     },
     {
-      "trip_id": "6_17619169",
+      "trip_id": "6_17637844",
       "direction_id": "1",
       "headsign": "PSARY - Wolności",
       "service_id": "6",
@@ -17064,7 +17064,7 @@
       ]
     },
     {
-      "trip_id": "6_17619177",
+      "trip_id": "6_17637852",
       "direction_id": "0",
       "headsign": "DWORZEC NADODRZE",
       "service_id": "6",
@@ -17234,7 +17234,7 @@
       ]
     },
     {
-      "trip_id": "6_17619190",
+      "trip_id": "6_17637865",
       "direction_id": "1",
       "headsign": "SZYMANÓW - pętla",
       "service_id": "6",
@@ -17431,7 +17431,7 @@
       ]
     },
     {
-      "trip_id": "6_17619191",
+      "trip_id": "6_17637866",
       "direction_id": "0",
       "headsign": "DWORZEC NADODRZE",
       "service_id": "6",
@@ -17601,7 +17601,7 @@
       ]
     },
     {
-      "trip_id": "6_17619208",
+      "trip_id": "6_17637883",
       "direction_id": "1",
       "headsign": "SZYMANÓW - pętla",
       "service_id": "6",
@@ -17798,7 +17798,7 @@
       ]
     },
     {
-      "trip_id": "6_17619209",
+      "trip_id": "6_17637884",
       "direction_id": "0",
       "headsign": "DWORZEC NADODRZE",
       "service_id": "6",
@@ -17968,7 +17968,7 @@
       ]
     },
     {
-      "trip_id": "6_17619210",
+      "trip_id": "6_17637885",
       "direction_id": "1",
       "headsign": "SZYMANÓW - pętla",
       "service_id": "6",
@@ -18165,7 +18165,7 @@
       ]
     },
     {
-      "trip_id": "6_17619211",
+      "trip_id": "6_17637886",
       "direction_id": "0",
       "headsign": "DWORZEC NADODRZE",
       "service_id": "6",
@@ -18335,7 +18335,7 @@
       ]
     },
     {
-      "trip_id": "6_17619212",
+      "trip_id": "6_17637887",
       "direction_id": "1",
       "headsign": "SZYMANÓW - pętla",
       "service_id": "6",
@@ -18532,7 +18532,7 @@
       ]
     },
     {
-      "trip_id": "6_17619213",
+      "trip_id": "6_17637888",
       "direction_id": "0",
       "headsign": "DWORZEC NADODRZE",
       "service_id": "6",
@@ -18702,7 +18702,7 @@
       ]
     },
     {
-      "trip_id": "6_17619411",
+      "trip_id": "6_17638086",
       "direction_id": "1",
       "headsign": "SZYMANÓW - pętla",
       "service_id": "6",
@@ -18899,7 +18899,7 @@
       ]
     },
     {
-      "trip_id": "6_17619412",
+      "trip_id": "6_17638087",
       "direction_id": "0",
       "headsign": "DWORZEC NADODRZE",
       "service_id": "6",
@@ -19069,7 +19069,7 @@
       ]
     },
     {
-      "trip_id": "6_17619413",
+      "trip_id": "6_17638088",
       "direction_id": "1",
       "headsign": "SZYMANÓW - pętla",
       "service_id": "6",
@@ -19266,7 +19266,7 @@
       ]
     },
     {
-      "trip_id": "6_17619414",
+      "trip_id": "6_17638089",
       "direction_id": "0",
       "headsign": "DWORZEC NADODRZE",
       "service_id": "6",
@@ -19436,7 +19436,7 @@
       ]
     },
     {
-      "trip_id": "6_17619417",
+      "trip_id": "6_17638092",
       "direction_id": "1",
       "headsign": "Kryniczno - Kościół",
       "service_id": "6",
@@ -19606,7 +19606,7 @@
       ]
     },
     {
-      "trip_id": "6_17619418",
+      "trip_id": "6_17638093",
       "direction_id": "0",
       "headsign": "DWORZEC NADODRZE",
       "service_id": "6",
@@ -19749,7 +19749,7 @@
       ]
     },
     {
-      "trip_id": "6_17619437",
+      "trip_id": "6_17638112",
       "direction_id": "0",
       "headsign": "DWORZEC NADODRZE",
       "service_id": "6",
@@ -19892,7 +19892,7 @@
       ]
     },
     {
-      "trip_id": "6_17619438",
+      "trip_id": "6_17638113",
       "direction_id": "1",
       "headsign": "SZYMANÓW - pętla",
       "service_id": "6",
@@ -20089,7 +20089,7 @@
       ]
     },
     {
-      "trip_id": "6_17619439",
+      "trip_id": "6_17638114",
       "direction_id": "0",
       "headsign": "DWORZEC NADODRZE",
       "service_id": "6",
@@ -20259,7 +20259,7 @@
       ]
     },
     {
-      "trip_id": "6_17619440",
+      "trip_id": "6_17638115",
       "direction_id": "1",
       "headsign": "SZYMANÓW - pętla",
       "service_id": "6",
@@ -20456,7 +20456,7 @@
       ]
     },
     {
-      "trip_id": "6_17619441",
+      "trip_id": "6_17638116",
       "direction_id": "0",
       "headsign": "DWORZEC NADODRZE",
       "service_id": "6",
@@ -20626,7 +20626,7 @@
       ]
     },
     {
-      "trip_id": "6_17619442",
+      "trip_id": "6_17638117",
       "direction_id": "1",
       "headsign": "SZYMANÓW - pętla",
       "service_id": "6",
@@ -20823,7 +20823,7 @@
       ]
     },
     {
-      "trip_id": "6_17619443",
+      "trip_id": "6_17638118",
       "direction_id": "0",
       "headsign": "DWORZEC NADODRZE",
       "service_id": "6",
@@ -20993,7 +20993,7 @@
       ]
     },
     {
-      "trip_id": "6_17619444",
+      "trip_id": "6_17638119",
       "direction_id": "1",
       "headsign": "Kryniczno - Kościół",
       "service_id": "6",
@@ -21163,7 +21163,7 @@
       ]
     },
     {
-      "trip_id": "6_17619445",
+      "trip_id": "6_17638120",
       "direction_id": "0",
       "headsign": "DWORZEC NADODRZE",
       "service_id": "6",
@@ -21306,7 +21306,7 @@
       ]
     },
     {
-      "trip_id": "6_17619446",
+      "trip_id": "6_17638121",
       "direction_id": "1",
       "headsign": "SZYMANÓW - pętla",
       "service_id": "6",
@@ -21503,7 +21503,7 @@
       ]
     },
     {
-      "trip_id": "6_17619447",
+      "trip_id": "6_17638122",
       "direction_id": "0",
       "headsign": "DWORZEC NADODRZE",
       "service_id": "6",
@@ -21673,7 +21673,7 @@
       ]
     },
     {
-      "trip_id": "6_17619450",
+      "trip_id": "6_17638125",
       "direction_id": "1",
       "headsign": "SZYMANÓW - pętla",
       "service_id": "6",
@@ -21870,7 +21870,7 @@
       ]
     },
     {
-      "trip_id": "6_17619451",
+      "trip_id": "6_17638126",
       "direction_id": "0",
       "headsign": "DWORZEC NADODRZE",
       "service_id": "6",
@@ -22040,7 +22040,7 @@
       ]
     },
     {
-      "trip_id": "6_17619452",
+      "trip_id": "6_17638127",
       "direction_id": "1",
       "headsign": "PSARY - Wolności",
       "service_id": "6",
@@ -22183,7 +22183,7 @@
       ]
     },
     {
-      "trip_id": "6_17619453",
+      "trip_id": "6_17638128",
       "direction_id": "0",
       "headsign": "DWORZEC NADODRZE",
       "service_id": "6",
@@ -22308,7 +22308,7 @@
       ]
     },
     {
-      "trip_id": "6_17619454",
+      "trip_id": "6_17638129",
       "direction_id": "1",
       "headsign": "SZYMANÓW - pętla",
       "service_id": "6",
@@ -22505,7 +22505,7 @@
       ]
     },
     {
-      "trip_id": "6_17619455",
+      "trip_id": "6_17638130",
       "direction_id": "0",
       "headsign": "DWORZEC NADODRZE",
       "service_id": "6",
@@ -22675,7 +22675,7 @@
       ]
     },
     {
-      "trip_id": "6_17619456",
+      "trip_id": "6_17638131",
       "direction_id": "1",
       "headsign": "SZYMANÓW - pętla",
       "service_id": "6",
@@ -22872,7 +22872,7 @@
       ]
     },
     {
-      "trip_id": "6_17619457",
+      "trip_id": "6_17638132",
       "direction_id": "0",
       "headsign": "DWORZEC NADODRZE",
       "service_id": "6",
@@ -23042,7 +23042,7 @@
       ]
     },
     {
-      "trip_id": "6_17619458",
+      "trip_id": "6_17638133",
       "direction_id": "1",
       "headsign": "SZYMANÓW - pętla",
       "service_id": "6",
@@ -23239,7 +23239,7 @@
       ]
     },
     {
-      "trip_id": "6_17619459",
+      "trip_id": "6_17638134",
       "direction_id": "0",
       "headsign": "DWORZEC NADODRZE",
       "service_id": "6",
@@ -23409,7 +23409,7 @@
       ]
     },
     {
-      "trip_id": "6_17619460",
+      "trip_id": "6_17638135",
       "direction_id": "1",
       "headsign": "Kryniczno - Kościół",
       "service_id": "6",
@@ -23579,7 +23579,7 @@
       ]
     },
     {
-      "trip_id": "6_17619461",
+      "trip_id": "6_17638136",
       "direction_id": "0",
       "headsign": "DWORZEC NADODRZE",
       "service_id": "6",
@@ -23722,7 +23722,7 @@
       ]
     },
     {
-      "trip_id": "6_17619464",
+      "trip_id": "6_17638139",
       "direction_id": "1",
       "headsign": "SZYMANÓW - pętla",
       "service_id": "6",
@@ -23919,7 +23919,7 @@
       ]
     },
     {
-      "trip_id": "6_17619465",
+      "trip_id": "6_17638140",
       "direction_id": "0",
       "headsign": "DWORZEC NADODRZE",
       "service_id": "6",
@@ -24089,7 +24089,7 @@
       ]
     },
     {
-      "trip_id": "6_17619466",
+      "trip_id": "6_17638141",
       "direction_id": "1",
       "headsign": "SZYMANÓW - pętla",
       "service_id": "6",
@@ -24286,7 +24286,7 @@
       ]
     },
     {
-      "trip_id": "6_17619467",
+      "trip_id": "6_17638142",
       "direction_id": "0",
       "headsign": "DWORZEC NADODRZE",
       "service_id": "6",
@@ -24456,7 +24456,7 @@
       ]
     },
     {
-      "trip_id": "6_17619468",
+      "trip_id": "6_17638143",
       "direction_id": "1",
       "headsign": "SZYMANÓW - pętla",
       "service_id": "6",
@@ -24653,7 +24653,7 @@
       ]
     },
     {
-      "trip_id": "6_17619716",
+      "trip_id": "6_17638391",
       "direction_id": "0",
       "headsign": "DWORZEC NADODRZE",
       "service_id": "6",
@@ -24823,7 +24823,7 @@
       ]
     },
     {
-      "trip_id": "6_17619717",
+      "trip_id": "6_17638392",
       "direction_id": "1",
       "headsign": "Kryniczno - Kościół",
       "service_id": "6",
@@ -24993,7 +24993,7 @@
       ]
     },
     {
-      "trip_id": "6_17619718",
+      "trip_id": "6_17638393",
       "direction_id": "0",
       "headsign": "DWORZEC NADODRZE",
       "service_id": "6",
@@ -25136,7 +25136,7 @@
       ]
     },
     {
-      "trip_id": "6_17619719",
+      "trip_id": "6_17638394",
       "direction_id": "1",
       "headsign": "Kryniczno - Kościół",
       "service_id": "6",
@@ -25306,7 +25306,7 @@
       ]
     },
     {
-      "trip_id": "6_17619720",
+      "trip_id": "6_17638395",
       "direction_id": "0",
       "headsign": "DWORZEC NADODRZE",
       "service_id": "6",
@@ -25449,7 +25449,7 @@
       ]
     },
     {
-      "trip_id": "6_17619721",
+      "trip_id": "6_17638396",
       "direction_id": "1",
       "headsign": "SZYMANÓW - pętla",
       "service_id": "6",
@@ -25646,7 +25646,7 @@
       ]
     },
     {
-      "trip_id": "6_17619722",
+      "trip_id": "6_17638397",
       "direction_id": "0",
       "headsign": "DWORZEC NADODRZE",
       "service_id": "6",
@@ -25816,7 +25816,7 @@
       ]
     },
     {
-      "trip_id": "6_17619723",
+      "trip_id": "6_17638398",
       "direction_id": "1",
       "headsign": "Kryniczno - Kościół",
       "service_id": "6",
@@ -25986,7 +25986,7 @@
       ]
     },
     {
-      "trip_id": "6_17619724",
+      "trip_id": "6_17638399",
       "direction_id": "0",
       "headsign": "DWORZEC NADODRZE",
       "service_id": "6",
@@ -26129,7 +26129,7 @@
       ]
     },
     {
-      "trip_id": "6_17619725",
+      "trip_id": "6_17638400",
       "direction_id": "1",
       "headsign": "SZYMANÓW - pętla",
       "service_id": "6",
@@ -26326,7 +26326,7 @@
       ]
     },
     {
-      "trip_id": "6_17619726",
+      "trip_id": "6_17638401",
       "direction_id": "0",
       "headsign": "DWORZEC NADODRZE",
       "service_id": "6",
@@ -26496,7 +26496,7 @@
       ]
     },
     {
-      "trip_id": "6_17619727",
+      "trip_id": "6_17638402",
       "direction_id": "1",
       "headsign": "SZYMANÓW - pętla",
       "service_id": "6",
@@ -26693,7 +26693,7 @@
       ]
     },
     {
-      "trip_id": "6_17619841",
+      "trip_id": "6_17638516",
       "direction_id": "1",
       "headsign": "Kryniczno - Kościół",
       "service_id": "6",
@@ -26863,7 +26863,7 @@
       ]
     },
     {
-      "trip_id": "6_17619842",
+      "trip_id": "6_17638517",
       "direction_id": "0",
       "headsign": "DWORZEC NADODRZE",
       "service_id": "6",
@@ -27006,7 +27006,7 @@
       ]
     },
     {
-      "trip_id": "6_17619851",
+      "trip_id": "6_17638526",
       "direction_id": "1",
       "headsign": "SZYMANÓW - pętla",
       "service_id": "6",
@@ -27203,7 +27203,7 @@
       ]
     },
     {
-      "trip_id": "6_17619852",
+      "trip_id": "6_17638527",
       "direction_id": "0",
       "headsign": "DWORZEC NADODRZE",
       "service_id": "6",
@@ -27373,7 +27373,7 @@
       ]
     },
     {
-      "trip_id": "6_17619853",
+      "trip_id": "6_17638528",
       "direction_id": "1",
       "headsign": "Kryniczno - Kościół",
       "service_id": "6",
@@ -27543,7 +27543,7 @@
       ]
     },
     {
-      "trip_id": "6_17619854",
+      "trip_id": "6_17638529",
       "direction_id": "0",
       "headsign": "DWORZEC NADODRZE",
       "service_id": "6",
@@ -27686,7 +27686,7 @@
       ]
     },
     {
-      "trip_id": "6_17619855",
+      "trip_id": "6_17638530",
       "direction_id": "1",
       "headsign": "Kryniczno - Kościół",
       "service_id": "6",
@@ -27856,7 +27856,7 @@
       ]
     },
     {
-      "trip_id": "6_17619856",
+      "trip_id": "6_17638531",
       "direction_id": "0",
       "headsign": "DWORZEC NADODRZE",
       "service_id": "6",
@@ -27999,7 +27999,7 @@
       ]
     },
     {
-      "trip_id": "6_17619857",
+      "trip_id": "6_17638532",
       "direction_id": "1",
       "headsign": "Kryniczno - Kościół",
       "service_id": "6",
@@ -28169,7 +28169,7 @@
       ]
     },
     {
-      "trip_id": "6_17619858",
+      "trip_id": "6_17638533",
       "direction_id": "0",
       "headsign": "DWORZEC NADODRZE",
       "service_id": "6",
@@ -28312,7 +28312,7 @@
       ]
     },
     {
-      "trip_id": "8_17620173",
+      "trip_id": "8_17638848",
       "direction_id": "1",
       "headsign": "SZYMANÓW - pętla",
       "service_id": "8",
@@ -28509,7 +28509,7 @@
       ]
     },
     {
-      "trip_id": "8_17620174",
+      "trip_id": "8_17638849",
       "direction_id": "0",
       "headsign": "DWORZEC NADODRZE",
       "service_id": "8",
@@ -28679,7 +28679,7 @@
       ]
     },
     {
-      "trip_id": "8_17620175",
+      "trip_id": "8_17638850",
       "direction_id": "1",
       "headsign": "Kryniczno - Kościół",
       "service_id": "8",
@@ -28849,7 +28849,7 @@
       ]
     },
     {
-      "trip_id": "8_17620176",
+      "trip_id": "8_17638851",
       "direction_id": "0",
       "headsign": "DWORZEC NADODRZE",
       "service_id": "8",
@@ -28992,7 +28992,7 @@
       ]
     },
     {
-      "trip_id": "8_17620177",
+      "trip_id": "8_17638852",
       "direction_id": "1",
       "headsign": "SZYMANÓW - pętla",
       "service_id": "8",
@@ -29189,7 +29189,7 @@
       ]
     },
     {
-      "trip_id": "8_17620178",
+      "trip_id": "8_17638853",
       "direction_id": "0",
       "headsign": "DWORZEC NADODRZE",
       "service_id": "8",
@@ -29359,7 +29359,7 @@
       ]
     },
     {
-      "trip_id": "8_17620181",
+      "trip_id": "8_17638856",
       "direction_id": "1",
       "headsign": "Kryniczno - Kościół",
       "service_id": "8",
@@ -29529,7 +29529,7 @@
       ]
     },
     {
-      "trip_id": "8_17620182",
+      "trip_id": "8_17638857",
       "direction_id": "0",
       "headsign": "DWORZEC NADODRZE",
       "service_id": "8",
@@ -29672,7 +29672,7 @@
       ]
     },
     {
-      "trip_id": "8_17620195",
+      "trip_id": "8_17638870",
       "direction_id": "1",
       "headsign": "PSARY - Wolności",
       "service_id": "8",
@@ -29815,7 +29815,7 @@
       ]
     },
     {
-      "trip_id": "8_17620196",
+      "trip_id": "8_17638871",
       "direction_id": "0",
       "headsign": "DWORZEC NADODRZE",
       "service_id": "8",
@@ -29940,7 +29940,7 @@
       ]
     },
     {
-      "trip_id": "8_17620207",
+      "trip_id": "8_17638882",
       "direction_id": "1",
       "headsign": "Kryniczno - Kościół",
       "service_id": "8",
@@ -30110,7 +30110,7 @@
       ]
     },
     {
-      "trip_id": "8_17620208",
+      "trip_id": "8_17638883",
       "direction_id": "0",
       "headsign": "DWORZEC NADODRZE",
       "service_id": "8",
@@ -30253,7 +30253,7 @@
       ]
     },
     {
-      "trip_id": "8_17620211",
+      "trip_id": "8_17638886",
       "direction_id": "1",
       "headsign": "PSARY - Wolności",
       "service_id": "8",
@@ -30396,7 +30396,7 @@
       ]
     },
     {
-      "trip_id": "8_17620212",
+      "trip_id": "8_17638887",
       "direction_id": "0",
       "headsign": "DWORZEC NADODRZE",
       "service_id": "8",
@@ -30521,7 +30521,7 @@
       ]
     },
     {
-      "trip_id": "8_17620213",
+      "trip_id": "8_17638888",
       "direction_id": "1",
       "headsign": "PSARY - Wolności",
       "service_id": "8",
@@ -30664,7 +30664,7 @@
       ]
     },
     {
-      "trip_id": "8_17620214",
+      "trip_id": "8_17638889",
       "direction_id": "0",
       "headsign": "DWORZEC NADODRZE",
       "service_id": "8",
@@ -30789,7 +30789,7 @@
       ]
     },
     {
-      "trip_id": "8_17620215",
+      "trip_id": "8_17638890",
       "direction_id": "1",
       "headsign": "PSARY - Wolności",
       "service_id": "8",
@@ -30932,7 +30932,7 @@
       ]
     },
     {
-      "trip_id": "8_17620223",
+      "trip_id": "8_17638898",
       "direction_id": "0",
       "headsign": "DWORZEC NADODRZE",
       "service_id": "8",
@@ -31102,7 +31102,7 @@
       ]
     },
     {
-      "trip_id": "8_17620236",
+      "trip_id": "8_17638911",
       "direction_id": "1",
       "headsign": "SZYMANÓW - pętla",
       "service_id": "8",
@@ -31299,7 +31299,7 @@
       ]
     },
     {
-      "trip_id": "8_17620237",
+      "trip_id": "8_17638912",
       "direction_id": "0",
       "headsign": "DWORZEC NADODRZE",
       "service_id": "8",
@@ -31469,7 +31469,7 @@
       ]
     },
     {
-      "trip_id": "8_17620254",
+      "trip_id": "8_17638929",
       "direction_id": "1",
       "headsign": "SZYMANÓW - pętla",
       "service_id": "8",
@@ -31666,7 +31666,7 @@
       ]
     },
     {
-      "trip_id": "8_17620255",
+      "trip_id": "8_17638930",
       "direction_id": "0",
       "headsign": "DWORZEC NADODRZE",
       "service_id": "8",
@@ -31836,7 +31836,7 @@
       ]
     },
     {
-      "trip_id": "8_17620256",
+      "trip_id": "8_17638931",
       "direction_id": "1",
       "headsign": "SZYMANÓW - pętla",
       "service_id": "8",
@@ -32033,7 +32033,7 @@
       ]
     },
     {
-      "trip_id": "8_17620257",
+      "trip_id": "8_17638932",
       "direction_id": "0",
       "headsign": "DWORZEC NADODRZE",
       "service_id": "8",
@@ -32203,7 +32203,7 @@
       ]
     },
     {
-      "trip_id": "8_17620258",
+      "trip_id": "8_17638933",
       "direction_id": "1",
       "headsign": "SZYMANÓW - pętla",
       "service_id": "8",
@@ -32400,7 +32400,7 @@
       ]
     },
     {
-      "trip_id": "8_17620259",
+      "trip_id": "8_17638934",
       "direction_id": "0",
       "headsign": "DWORZEC NADODRZE",
       "service_id": "8",
@@ -32570,7 +32570,7 @@
       ]
     },
     {
-      "trip_id": "8_17620457",
+      "trip_id": "8_17639132",
       "direction_id": "1",
       "headsign": "SZYMANÓW - pętla",
       "service_id": "8",
@@ -32767,7 +32767,7 @@
       ]
     },
     {
-      "trip_id": "8_17620458",
+      "trip_id": "8_17639133",
       "direction_id": "0",
       "headsign": "DWORZEC NADODRZE",
       "service_id": "8",
@@ -32937,7 +32937,7 @@
       ]
     },
     {
-      "trip_id": "8_17620459",
+      "trip_id": "8_17639134",
       "direction_id": "1",
       "headsign": "SZYMANÓW - pętla",
       "service_id": "8",
@@ -33134,7 +33134,7 @@
       ]
     },
     {
-      "trip_id": "8_17620460",
+      "trip_id": "8_17639135",
       "direction_id": "0",
       "headsign": "DWORZEC NADODRZE",
       "service_id": "8",
@@ -33304,7 +33304,7 @@
       ]
     },
     {
-      "trip_id": "8_17620463",
+      "trip_id": "8_17639138",
       "direction_id": "1",
       "headsign": "Kryniczno - Kościół",
       "service_id": "8",
@@ -33474,7 +33474,7 @@
       ]
     },
     {
-      "trip_id": "8_17620464",
+      "trip_id": "8_17639139",
       "direction_id": "0",
       "headsign": "DWORZEC NADODRZE",
       "service_id": "8",
@@ -33617,7 +33617,7 @@
       ]
     },
     {
-      "trip_id": "8_17620483",
+      "trip_id": "8_17639158",
       "direction_id": "0",
       "headsign": "DWORZEC NADODRZE",
       "service_id": "8",
@@ -33760,7 +33760,7 @@
       ]
     },
     {
-      "trip_id": "8_17620484",
+      "trip_id": "8_17639159",
       "direction_id": "1",
       "headsign": "SZYMANÓW - pętla",
       "service_id": "8",
@@ -33957,7 +33957,7 @@
       ]
     },
     {
-      "trip_id": "8_17620485",
+      "trip_id": "8_17639160",
       "direction_id": "0",
       "headsign": "DWORZEC NADODRZE",
       "service_id": "8",
@@ -34127,7 +34127,7 @@
       ]
     },
     {
-      "trip_id": "8_17620486",
+      "trip_id": "8_17639161",
       "direction_id": "1",
       "headsign": "SZYMANÓW - pętla",
       "service_id": "8",
@@ -34324,7 +34324,7 @@
       ]
     },
     {
-      "trip_id": "8_17620487",
+      "trip_id": "8_17639162",
       "direction_id": "0",
       "headsign": "DWORZEC NADODRZE",
       "service_id": "8",
@@ -34494,7 +34494,7 @@
       ]
     },
     {
-      "trip_id": "8_17620488",
+      "trip_id": "8_17639163",
       "direction_id": "1",
       "headsign": "SZYMANÓW - pętla",
       "service_id": "8",
@@ -34691,7 +34691,7 @@
       ]
     },
     {
-      "trip_id": "8_17620489",
+      "trip_id": "8_17639164",
       "direction_id": "0",
       "headsign": "DWORZEC NADODRZE",
       "service_id": "8",
@@ -34861,7 +34861,7 @@
       ]
     },
     {
-      "trip_id": "8_17620490",
+      "trip_id": "8_17639165",
       "direction_id": "1",
       "headsign": "Kryniczno - Kościół",
       "service_id": "8",
@@ -35031,7 +35031,7 @@
       ]
     },
     {
-      "trip_id": "8_17620491",
+      "trip_id": "8_17639166",
       "direction_id": "0",
       "headsign": "DWORZEC NADODRZE",
       "service_id": "8",
@@ -35174,7 +35174,7 @@
       ]
     },
     {
-      "trip_id": "8_17620492",
+      "trip_id": "8_17639167",
       "direction_id": "1",
       "headsign": "SZYMANÓW - pętla",
       "service_id": "8",
@@ -35371,7 +35371,7 @@
       ]
     },
     {
-      "trip_id": "8_17620493",
+      "trip_id": "8_17639168",
       "direction_id": "0",
       "headsign": "DWORZEC NADODRZE",
       "service_id": "8",
@@ -35541,7 +35541,7 @@
       ]
     },
     {
-      "trip_id": "8_17620496",
+      "trip_id": "8_17639171",
       "direction_id": "1",
       "headsign": "SZYMANÓW - pętla",
       "service_id": "8",
@@ -35738,7 +35738,7 @@
       ]
     },
     {
-      "trip_id": "8_17620497",
+      "trip_id": "8_17639172",
       "direction_id": "0",
       "headsign": "DWORZEC NADODRZE",
       "service_id": "8",
@@ -35908,7 +35908,7 @@
       ]
     },
     {
-      "trip_id": "8_17620498",
+      "trip_id": "8_17639173",
       "direction_id": "1",
       "headsign": "PSARY - Wolności",
       "service_id": "8",
@@ -36051,7 +36051,7 @@
       ]
     },
     {
-      "trip_id": "8_17620499",
+      "trip_id": "8_17639174",
       "direction_id": "0",
       "headsign": "DWORZEC NADODRZE",
       "service_id": "8",
@@ -36176,7 +36176,7 @@
       ]
     },
     {
-      "trip_id": "8_17620500",
+      "trip_id": "8_17639175",
       "direction_id": "1",
       "headsign": "SZYMANÓW - pętla",
       "service_id": "8",
@@ -36373,7 +36373,7 @@
       ]
     },
     {
-      "trip_id": "8_17620501",
+      "trip_id": "8_17639176",
       "direction_id": "0",
       "headsign": "DWORZEC NADODRZE",
       "service_id": "8",
@@ -36543,7 +36543,7 @@
       ]
     },
     {
-      "trip_id": "8_17620502",
+      "trip_id": "8_17639177",
       "direction_id": "1",
       "headsign": "SZYMANÓW - pętla",
       "service_id": "8",
@@ -36740,7 +36740,7 @@
       ]
     },
     {
-      "trip_id": "8_17620503",
+      "trip_id": "8_17639178",
       "direction_id": "0",
       "headsign": "DWORZEC NADODRZE",
       "service_id": "8",
@@ -36910,7 +36910,7 @@
       ]
     },
     {
-      "trip_id": "8_17620504",
+      "trip_id": "8_17639179",
       "direction_id": "1",
       "headsign": "SZYMANÓW - pętla",
       "service_id": "8",
@@ -37107,7 +37107,7 @@
       ]
     },
     {
-      "trip_id": "8_17620505",
+      "trip_id": "8_17639180",
       "direction_id": "0",
       "headsign": "DWORZEC NADODRZE",
       "service_id": "8",
@@ -37277,7 +37277,7 @@
       ]
     },
     {
-      "trip_id": "8_17620506",
+      "trip_id": "8_17639181",
       "direction_id": "1",
       "headsign": "Kryniczno - Kościół",
       "service_id": "8",
@@ -37447,7 +37447,7 @@
       ]
     },
     {
-      "trip_id": "8_17620507",
+      "trip_id": "8_17639182",
       "direction_id": "0",
       "headsign": "DWORZEC NADODRZE",
       "service_id": "8",
@@ -37590,7 +37590,7 @@
       ]
     },
     {
-      "trip_id": "8_17620510",
+      "trip_id": "8_17639185",
       "direction_id": "1",
       "headsign": "SZYMANÓW - pętla",
       "service_id": "8",
@@ -37787,7 +37787,7 @@
       ]
     },
     {
-      "trip_id": "8_17620511",
+      "trip_id": "8_17639186",
       "direction_id": "0",
       "headsign": "DWORZEC NADODRZE",
       "service_id": "8",
@@ -37957,7 +37957,7 @@
       ]
     },
     {
-      "trip_id": "8_17620512",
+      "trip_id": "8_17639187",
       "direction_id": "1",
       "headsign": "SZYMANÓW - pętla",
       "service_id": "8",
@@ -38154,7 +38154,7 @@
       ]
     },
     {
-      "trip_id": "8_17620513",
+      "trip_id": "8_17639188",
       "direction_id": "0",
       "headsign": "DWORZEC NADODRZE",
       "service_id": "8",
@@ -38324,7 +38324,7 @@
       ]
     },
     {
-      "trip_id": "8_17620514",
+      "trip_id": "8_17639189",
       "direction_id": "1",
       "headsign": "SZYMANÓW - pętla",
       "service_id": "8",
@@ -38521,7 +38521,7 @@
       ]
     },
     {
-      "trip_id": "8_17620762",
+      "trip_id": "8_17639437",
       "direction_id": "0",
       "headsign": "DWORZEC NADODRZE",
       "service_id": "8",
@@ -38691,7 +38691,7 @@
       ]
     },
     {
-      "trip_id": "8_17620763",
+      "trip_id": "8_17639438",
       "direction_id": "1",
       "headsign": "Kryniczno - Kościół",
       "service_id": "8",
@@ -38861,7 +38861,7 @@
       ]
     },
     {
-      "trip_id": "8_17620764",
+      "trip_id": "8_17639439",
       "direction_id": "0",
       "headsign": "DWORZEC NADODRZE",
       "service_id": "8",
@@ -39004,7 +39004,7 @@
       ]
     },
     {
-      "trip_id": "8_17620765",
+      "trip_id": "8_17639440",
       "direction_id": "1",
       "headsign": "Kryniczno - Kościół",
       "service_id": "8",
@@ -39174,7 +39174,7 @@
       ]
     },
     {
-      "trip_id": "8_17620766",
+      "trip_id": "8_17639441",
       "direction_id": "0",
       "headsign": "DWORZEC NADODRZE",
       "service_id": "8",
@@ -39317,7 +39317,7 @@
       ]
     },
     {
-      "trip_id": "8_17620767",
+      "trip_id": "8_17639442",
       "direction_id": "1",
       "headsign": "SZYMANÓW - pętla",
       "service_id": "8",
@@ -39514,7 +39514,7 @@
       ]
     },
     {
-      "trip_id": "8_17620768",
+      "trip_id": "8_17639443",
       "direction_id": "0",
       "headsign": "DWORZEC NADODRZE",
       "service_id": "8",
@@ -39684,7 +39684,7 @@
       ]
     },
     {
-      "trip_id": "8_17620769",
+      "trip_id": "8_17639444",
       "direction_id": "1",
       "headsign": "Kryniczno - Kościół",
       "service_id": "8",
@@ -39854,7 +39854,7 @@
       ]
     },
     {
-      "trip_id": "8_17620770",
+      "trip_id": "8_17639445",
       "direction_id": "0",
       "headsign": "DWORZEC NADODRZE",
       "service_id": "8",
@@ -39997,7 +39997,7 @@
       ]
     },
     {
-      "trip_id": "8_17620771",
+      "trip_id": "8_17639446",
       "direction_id": "1",
       "headsign": "SZYMANÓW - pętla",
       "service_id": "8",
@@ -40194,7 +40194,7 @@
       ]
     },
     {
-      "trip_id": "8_17620772",
+      "trip_id": "8_17639447",
       "direction_id": "0",
       "headsign": "DWORZEC NADODRZE",
       "service_id": "8",
@@ -40364,7 +40364,7 @@
       ]
     },
     {
-      "trip_id": "8_17620773",
+      "trip_id": "8_17639448",
       "direction_id": "1",
       "headsign": "SZYMANÓW - pętla",
       "service_id": "8",
@@ -40561,7 +40561,7 @@
       ]
     },
     {
-      "trip_id": "8_17620887",
+      "trip_id": "8_17639562",
       "direction_id": "1",
       "headsign": "Kryniczno - Kościół",
       "service_id": "8",
@@ -40731,7 +40731,7 @@
       ]
     },
     {
-      "trip_id": "8_17620888",
+      "trip_id": "8_17639563",
       "direction_id": "0",
       "headsign": "DWORZEC NADODRZE",
       "service_id": "8",
@@ -40874,7 +40874,7 @@
       ]
     },
     {
-      "trip_id": "8_17620897",
+      "trip_id": "8_17639572",
       "direction_id": "1",
       "headsign": "SZYMANÓW - pętla",
       "service_id": "8",
@@ -41071,7 +41071,7 @@
       ]
     },
     {
-      "trip_id": "8_17620898",
+      "trip_id": "8_17639573",
       "direction_id": "0",
       "headsign": "DWORZEC NADODRZE",
       "service_id": "8",
@@ -41241,7 +41241,7 @@
       ]
     },
     {
-      "trip_id": "8_17620899",
+      "trip_id": "8_17639574",
       "direction_id": "1",
       "headsign": "Kryniczno - Kościół",
       "service_id": "8",
@@ -41411,7 +41411,7 @@
       ]
     },
     {
-      "trip_id": "8_17620900",
+      "trip_id": "8_17639575",
       "direction_id": "0",
       "headsign": "DWORZEC NADODRZE",
       "service_id": "8",
@@ -41554,7 +41554,7 @@
       ]
     },
     {
-      "trip_id": "8_17620901",
+      "trip_id": "8_17639576",
       "direction_id": "1",
       "headsign": "Kryniczno - Kościół",
       "service_id": "8",
@@ -41724,7 +41724,7 @@
       ]
     },
     {
-      "trip_id": "8_17620902",
+      "trip_id": "8_17639577",
       "direction_id": "0",
       "headsign": "DWORZEC NADODRZE",
       "service_id": "8",
@@ -41867,7 +41867,7 @@
       ]
     },
     {
-      "trip_id": "8_17620903",
+      "trip_id": "8_17639578",
       "direction_id": "1",
       "headsign": "Kryniczno - Kościół",
       "service_id": "8",
@@ -42037,7 +42037,7 @@
       ]
     },
     {
-      "trip_id": "8_17620904",
+      "trip_id": "8_17639579",
       "direction_id": "0",
       "headsign": "DWORZEC NADODRZE",
       "service_id": "8",

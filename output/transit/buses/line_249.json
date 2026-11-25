@@ -2,7 +2,7 @@
   "line": "249",
   "trips": [
     {
-      "trip_id": "3_17599101",
+      "trip_id": "3_17703114",
       "direction_id": "1",
       "headsign": "JARNOŁTÓW",
       "service_id": "3",
@@ -514,7 +514,7 @@
       ]
     },
     {
-      "trip_id": "3_17599102",
+      "trip_id": "3_17703115",
       "direction_id": "0",
       "headsign": "KRZYKI",
       "service_id": "3",
@@ -1062,7 +1062,7 @@
       ]
     },
     {
-      "trip_id": "3_17599103",
+      "trip_id": "3_17703116",
       "direction_id": "1",
       "headsign": "JARNOŁTÓW",
       "service_id": "3",
@@ -1574,7 +1574,7 @@
       ]
     },
     {
-      "trip_id": "3_17599104",
+      "trip_id": "3_17703117",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "3",
@@ -1888,7 +1888,7 @@
       ]
     },
     {
-      "trip_id": "3_17599108",
+      "trip_id": "3_17703121",
       "direction_id": "1",
       "headsign": "JARNOŁTÓW",
       "service_id": "3",
@@ -2400,7 +2400,7 @@
       ]
     },
     {
-      "trip_id": "3_17599109",
+      "trip_id": "3_17703122",
       "direction_id": "0",
       "headsign": "KRZYKI",
       "service_id": "3",
@@ -2948,7 +2948,7 @@
       ]
     },
     {
-      "trip_id": "3_17599110",
+      "trip_id": "3_17703123",
       "direction_id": "1",
       "headsign": "PETRUSEWICZA",
       "service_id": "3",
@@ -3145,7 +3145,7 @@
       ]
     },
     {
-      "trip_id": "3_17599116",
+      "trip_id": "3_17703129",
       "direction_id": "0",
       "headsign": "KRZYKI",
       "service_id": "3",
@@ -3342,7 +3342,7 @@
       ]
     },
     {
-      "trip_id": "3_17599117",
+      "trip_id": "3_17703130",
       "direction_id": "1",
       "headsign": "JARNOŁTÓW",
       "service_id": "3",
@@ -3854,7 +3854,7 @@
       ]
     },
     {
-      "trip_id": "3_17599118",
+      "trip_id": "3_17703131",
       "direction_id": "0",
       "headsign": "KRZYKI",
       "service_id": "3",
@@ -4402,7 +4402,7 @@
       ]
     },
     {
-      "trip_id": "3_17599119",
+      "trip_id": "3_17703132",
       "direction_id": "1",
       "headsign": "PETRUSEWICZA",
       "service_id": "3",
@@ -4599,7 +4599,7 @@
       ]
     },
     {
-      "trip_id": "3_17599124",
+      "trip_id": "3_17703137",
       "direction_id": "0",
       "headsign": "KRZYKI",
       "service_id": "3",
@@ -5147,7 +5147,7 @@
       ]
     },
     {
-      "trip_id": "3_17599125",
+      "trip_id": "3_17703138",
       "direction_id": "1",
       "headsign": "JARNOŁTÓW",
       "service_id": "3",
@@ -5659,7 +5659,7 @@
       ]
     },
     {
-      "trip_id": "3_17599126",
+      "trip_id": "3_17703139",
       "direction_id": "0",
       "headsign": "PETRUSEWICZA",
       "service_id": "3",
@@ -6009,7 +6009,7 @@
       ]
     },
     {
-      "trip_id": "3_17599181",
+      "trip_id": "3_17703194",
       "direction_id": "0",
       "headsign": "GAJ pętla",
       "service_id": "3",
@@ -6206,7 +6206,7 @@
       ]
     },
     {
-      "trip_id": "4_17603510",
+      "trip_id": "4_17707523",
       "direction_id": "1",
       "headsign": "JARNOŁTÓW",
       "service_id": "4",
@@ -6718,7 +6718,7 @@
       ]
     },
     {
-      "trip_id": "4_17603511",
+      "trip_id": "4_17707524",
       "direction_id": "0",
       "headsign": "KRZYKI",
       "service_id": "4",
@@ -7266,7 +7266,7 @@
       ]
     },
     {
-      "trip_id": "4_17603512",
+      "trip_id": "4_17707525",
       "direction_id": "1",
       "headsign": "JARNOŁTÓW",
       "service_id": "4",
@@ -7778,7 +7778,7 @@
       ]
     },
     {
-      "trip_id": "4_17603513",
+      "trip_id": "4_17707526",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "4",
@@ -8092,7 +8092,7 @@
       ]
     },
     {
-      "trip_id": "4_17603517",
+      "trip_id": "4_17707530",
       "direction_id": "1",
       "headsign": "JARNOŁTÓW",
       "service_id": "4",
@@ -8604,7 +8604,7 @@
       ]
     },
     {
-      "trip_id": "4_17603518",
+      "trip_id": "4_17707531",
       "direction_id": "0",
       "headsign": "KRZYKI",
       "service_id": "4",
@@ -9152,7 +9152,7 @@
       ]
     },
     {
-      "trip_id": "4_17603519",
+      "trip_id": "4_17707532",
       "direction_id": "1",
       "headsign": "PETRUSEWICZA",
       "service_id": "4",
@@ -9349,7 +9349,7 @@
       ]
     },
     {
-      "trip_id": "4_17603525",
+      "trip_id": "4_17707538",
       "direction_id": "0",
       "headsign": "KRZYKI",
       "service_id": "4",
@@ -9546,7 +9546,7 @@
       ]
     },
     {
-      "trip_id": "4_17603526",
+      "trip_id": "4_17707539",
       "direction_id": "1",
       "headsign": "JARNOŁTÓW",
       "service_id": "4",
@@ -10058,7 +10058,7 @@
       ]
     },
     {
-      "trip_id": "4_17603527",
+      "trip_id": "4_17707540",
       "direction_id": "0",
       "headsign": "KRZYKI",
       "service_id": "4",
@@ -10606,7 +10606,7 @@
       ]
     },
     {
-      "trip_id": "4_17603528",
+      "trip_id": "4_17707541",
       "direction_id": "1",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "4",
@@ -10713,7 +10713,7 @@
         {
           "stop_sequence": 11,
           "stop_id": "952",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 03",
           "arrival_time": "28:39:00",
           "departure_time": "28:39:00",
           "lat": 51.11223438,
@@ -10830,7 +10830,7 @@
       ]
     },
     {
-      "trip_id": "4_17603532",
+      "trip_id": "4_17707545",
       "direction_id": "0",
       "headsign": "KRZYKI",
       "service_id": "4",
@@ -11378,7 +11378,7 @@
       ]
     },
     {
-      "trip_id": "4_17603533",
+      "trip_id": "4_17707546",
       "direction_id": "1",
       "headsign": "JARNOŁTÓW",
       "service_id": "4",
@@ -11890,7 +11890,7 @@
       ]
     },
     {
-      "trip_id": "4_17603534",
+      "trip_id": "4_17707547",
       "direction_id": "0",
       "headsign": "PETRUSEWICZA",
       "service_id": "4",
@@ -12240,7 +12240,7 @@
       ]
     },
     {
-      "trip_id": "4_17603588",
+      "trip_id": "4_17707601",
       "direction_id": "0",
       "headsign": "GAJ pętla",
       "service_id": "4",
@@ -12437,7 +12437,7 @@
       ]
     },
     {
-      "trip_id": "6_17609702",
+      "trip_id": "6_17713715",
       "direction_id": "1",
       "headsign": "JARNOŁTÓW",
       "service_id": "6",
@@ -12949,7 +12949,7 @@
       ]
     },
     {
-      "trip_id": "6_17609703",
+      "trip_id": "6_17713716",
       "direction_id": "0",
       "headsign": "KRZYKI",
       "service_id": "6",
@@ -13497,7 +13497,7 @@
       ]
     },
     {
-      "trip_id": "6_17609704",
+      "trip_id": "6_17713717",
       "direction_id": "1",
       "headsign": "JARNOŁTÓW",
       "service_id": "6",
@@ -14009,7 +14009,7 @@
       ]
     },
     {
-      "trip_id": "6_17609705",
+      "trip_id": "6_17713718",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "6",
@@ -14323,7 +14323,7 @@
       ]
     },
     {
-      "trip_id": "6_17609709",
+      "trip_id": "6_17713722",
       "direction_id": "1",
       "headsign": "JARNOŁTÓW",
       "service_id": "6",
@@ -14835,7 +14835,7 @@
       ]
     },
     {
-      "trip_id": "6_17609710",
+      "trip_id": "6_17713723",
       "direction_id": "0",
       "headsign": "KRZYKI",
       "service_id": "6",
@@ -15383,7 +15383,7 @@
       ]
     },
     {
-      "trip_id": "6_17609711",
+      "trip_id": "6_17713724",
       "direction_id": "1",
       "headsign": "PETRUSEWICZA",
       "service_id": "6",
@@ -15580,7 +15580,7 @@
       ]
     },
     {
-      "trip_id": "6_17609717",
+      "trip_id": "6_17713730",
       "direction_id": "0",
       "headsign": "KRZYKI",
       "service_id": "6",
@@ -15777,7 +15777,7 @@
       ]
     },
     {
-      "trip_id": "6_17609718",
+      "trip_id": "6_17713731",
       "direction_id": "1",
       "headsign": "JARNOŁTÓW",
       "service_id": "6",
@@ -16289,7 +16289,7 @@
       ]
     },
     {
-      "trip_id": "6_17609719",
+      "trip_id": "6_17713732",
       "direction_id": "0",
       "headsign": "KRZYKI",
       "service_id": "6",
@@ -16837,7 +16837,7 @@
       ]
     },
     {
-      "trip_id": "6_17609720",
+      "trip_id": "6_17713733",
       "direction_id": "1",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "6",
@@ -16944,7 +16944,7 @@
         {
           "stop_sequence": 11,
           "stop_id": "952",
-          "stop_name": "PL. JANA PAWŁA II",
+          "stop_name": "PL. JANA PAWŁA II 03",
           "arrival_time": "28:39:00",
           "departure_time": "28:39:00",
           "lat": 51.11223438,
@@ -17061,7 +17061,7 @@
       ]
     },
     {
-      "trip_id": "6_17609722",
+      "trip_id": "6_17713735",
       "direction_id": "0",
       "headsign": "KRZYKI",
       "service_id": "6",
@@ -17609,7 +17609,7 @@
       ]
     },
     {
-      "trip_id": "6_17609723",
+      "trip_id": "6_17713736",
       "direction_id": "1",
       "headsign": "JARNOŁTÓW",
       "service_id": "6",
@@ -18121,7 +18121,7 @@
       ]
     },
     {
-      "trip_id": "6_17609724",
+      "trip_id": "6_17713737",
       "direction_id": "0",
       "headsign": "PETRUSEWICZA",
       "service_id": "6",
@@ -18471,7 +18471,7 @@
       ]
     },
     {
-      "trip_id": "6_17609778",
+      "trip_id": "6_17713791",
       "direction_id": "0",
       "headsign": "GAJ pętla",
       "service_id": "6",
@@ -18668,7 +18668,7 @@
       ]
     },
     {
-      "trip_id": "8_17616531",
+      "trip_id": "8_17720544",
       "direction_id": "1",
       "headsign": "JARNOŁTÓW",
       "service_id": "8",
@@ -19180,7 +19180,7 @@
       ]
     },
     {
-      "trip_id": "8_17616532",
+      "trip_id": "8_17720545",
       "direction_id": "0",
       "headsign": "KRZYKI",
       "service_id": "8",
@@ -19728,7 +19728,7 @@
       ]
     },
     {
-      "trip_id": "8_17616533",
+      "trip_id": "8_17720546",
       "direction_id": "1",
       "headsign": "JARNOŁTÓW",
       "service_id": "8",
@@ -20240,7 +20240,7 @@
       ]
     },
     {
-      "trip_id": "8_17616534",
+      "trip_id": "8_17720547",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "8",
@@ -20554,7 +20554,7 @@
       ]
     },
     {
-      "trip_id": "8_17616535",
+      "trip_id": "8_17720548",
       "direction_id": "1",
       "headsign": "JARNOŁTÓW",
       "service_id": "8",
@@ -21066,7 +21066,7 @@
       ]
     },
     {
-      "trip_id": "8_17616536",
+      "trip_id": "8_17720549",
       "direction_id": "0",
       "headsign": "KRZYKI",
       "service_id": "8",
@@ -21614,7 +21614,7 @@
       ]
     },
     {
-      "trip_id": "8_17616537",
+      "trip_id": "8_17720550",
       "direction_id": "1",
       "headsign": "PETRUSEWICZA",
       "service_id": "8",
@@ -21811,7 +21811,7 @@
       ]
     },
     {
-      "trip_id": "8_17616546",
+      "trip_id": "8_17720559",
       "direction_id": "0",
       "headsign": "KRZYKI",
       "service_id": "8",
@@ -22008,7 +22008,7 @@
       ]
     },
     {
-      "trip_id": "8_17616547",
+      "trip_id": "8_17720560",
       "direction_id": "1",
       "headsign": "JARNOŁTÓW",
       "service_id": "8",
@@ -22520,7 +22520,7 @@
       ]
     },
     {
-      "trip_id": "8_17616548",
+      "trip_id": "8_17720561",
       "direction_id": "0",
       "headsign": "KRZYKI",
       "service_id": "8",
@@ -23068,7 +23068,7 @@
       ]
     },
     {
-      "trip_id": "8_17616549",
+      "trip_id": "8_17720562",
       "direction_id": "1",
       "headsign": "PETRUSEWICZA",
       "service_id": "8",
@@ -23265,7 +23265,7 @@
       ]
     },
     {
-      "trip_id": "8_17616552",
+      "trip_id": "8_17720565",
       "direction_id": "0",
       "headsign": "KRZYKI",
       "service_id": "8",
@@ -23813,7 +23813,7 @@
       ]
     },
     {
-      "trip_id": "8_17616553",
+      "trip_id": "8_17720566",
       "direction_id": "1",
       "headsign": "JARNOŁTÓW",
       "service_id": "8",
@@ -24325,7 +24325,7 @@
       ]
     },
     {
-      "trip_id": "8_17616554",
+      "trip_id": "8_17720567",
       "direction_id": "0",
       "headsign": "PETRUSEWICZA",
       "service_id": "8",
@@ -24675,7 +24675,7 @@
       ]
     },
     {
-      "trip_id": "8_17616609",
+      "trip_id": "8_17720622",
       "direction_id": "0",
       "headsign": "GAJ pętla",
       "service_id": "8",

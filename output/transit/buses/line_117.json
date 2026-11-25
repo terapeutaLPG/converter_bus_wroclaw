@@ -2,7 +2,7 @@
   "line": "117",
   "trips": [
     {
-      "trip_id": "3_17547512",
+      "trip_id": "3_17721914",
       "direction_id": "1",
       "headsign": "Jerzmanowo (Cmentarz I)",
       "service_id": "3",
@@ -190,7 +190,7 @@
       ]
     },
     {
-      "trip_id": "3_17547513",
+      "trip_id": "3_17721915",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "3",
@@ -360,7 +360,7 @@
       ]
     },
     {
-      "trip_id": "3_17547522",
+      "trip_id": "3_17721924",
       "direction_id": "1",
       "headsign": "RATYŃ",
       "service_id": "3",
@@ -485,7 +485,7 @@
       ]
     },
     {
-      "trip_id": "3_17547523",
+      "trip_id": "3_17721925",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "3",
@@ -592,7 +592,7 @@
       ]
     },
     {
-      "trip_id": "3_17547530",
+      "trip_id": "3_17721932",
       "direction_id": "1",
       "headsign": "RATYŃ",
       "service_id": "3",
@@ -717,7 +717,7 @@
       ]
     },
     {
-      "trip_id": "3_17547531",
+      "trip_id": "3_17721933",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "3",
@@ -824,7 +824,7 @@
       ]
     },
     {
-      "trip_id": "3_17547541",
+      "trip_id": "3_17721943",
       "direction_id": "1",
       "headsign": "RATYŃ",
       "service_id": "3",
@@ -949,7 +949,7 @@
       ]
     },
     {
-      "trip_id": "3_17547542",
+      "trip_id": "3_17721944",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "3",
@@ -1056,7 +1056,7 @@
       ]
     },
     {
-      "trip_id": "3_17547551",
+      "trip_id": "3_17721953",
       "direction_id": "1",
       "headsign": "RATYŃ",
       "service_id": "3",
@@ -1181,7 +1181,7 @@
       ]
     },
     {
-      "trip_id": "3_17547552",
+      "trip_id": "3_17721954",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "3",
@@ -1279,7 +1279,7 @@
       ]
     },
     {
-      "trip_id": "3_17547553",
+      "trip_id": "3_17721955",
       "direction_id": "1",
       "headsign": "Jerzmanowo (Cmentarz I)",
       "service_id": "3",
@@ -1467,7 +1467,7 @@
       ]
     },
     {
-      "trip_id": "3_17547554",
+      "trip_id": "3_17721956",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "3",
@@ -1637,7 +1637,7 @@
       ]
     },
     {
-      "trip_id": "3_17547594",
+      "trip_id": "3_17721996",
       "direction_id": "1",
       "headsign": "RATYŃ",
       "service_id": "3",
@@ -1762,7 +1762,7 @@
       ]
     },
     {
-      "trip_id": "3_17547595",
+      "trip_id": "3_17721997",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "3",
@@ -1869,7 +1869,7 @@
       ]
     },
     {
-      "trip_id": "3_17547598",
+      "trip_id": "3_17722000",
       "direction_id": "1",
       "headsign": "RATYŃ",
       "service_id": "3",
@@ -1994,7 +1994,7 @@
       ]
     },
     {
-      "trip_id": "3_17547599",
+      "trip_id": "3_17722001",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "3",
@@ -2101,7 +2101,7 @@
       ]
     },
     {
-      "trip_id": "3_17547608",
+      "trip_id": "3_17722010",
       "direction_id": "1",
       "headsign": "RATYŃ",
       "service_id": "3",
@@ -2226,7 +2226,7 @@
       ]
     },
     {
-      "trip_id": "3_17547609",
+      "trip_id": "3_17722011",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "3",
@@ -2333,7 +2333,7 @@
       ]
     },
     {
-      "trip_id": "3_17547614",
+      "trip_id": "3_17722016",
       "direction_id": "1",
       "headsign": "RATYŃ",
       "service_id": "3",
@@ -2458,7 +2458,7 @@
       ]
     },
     {
-      "trip_id": "3_17547615",
+      "trip_id": "3_17722017",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "3",
@@ -2565,7 +2565,7 @@
       ]
     },
     {
-      "trip_id": "3_17547627",
+      "trip_id": "3_17722029",
       "direction_id": "1",
       "headsign": "RATYŃ",
       "service_id": "3",
@@ -2690,7 +2690,7 @@
       ]
     },
     {
-      "trip_id": "3_17547628",
+      "trip_id": "3_17722030",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "3",
@@ -2788,7 +2788,7 @@
       ]
     },
     {
-      "trip_id": "3_17547629",
+      "trip_id": "3_17722031",
       "direction_id": "1",
       "headsign": "RATYŃ",
       "service_id": "3",
@@ -2913,7 +2913,7 @@
       ]
     },
     {
-      "trip_id": "3_17547630",
+      "trip_id": "3_17722032",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "3",
@@ -3020,7 +3020,7 @@
       ]
     },
     {
-      "trip_id": "3_17547635",
+      "trip_id": "3_17722037",
       "direction_id": "1",
       "headsign": "RATYŃ",
       "service_id": "3",
@@ -3145,7 +3145,7 @@
       ]
     },
     {
-      "trip_id": "3_17547636",
+      "trip_id": "3_17722038",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "3",
@@ -3243,7 +3243,7 @@
       ]
     },
     {
-      "trip_id": "3_17547637",
+      "trip_id": "3_17722039",
       "direction_id": "1",
       "headsign": "RATYŃ",
       "service_id": "3",
@@ -3368,7 +3368,7 @@
       ]
     },
     {
-      "trip_id": "3_17547638",
+      "trip_id": "3_17722040",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "3",
@@ -3475,7 +3475,7 @@
       ]
     },
     {
-      "trip_id": "3_17547654",
+      "trip_id": "3_17722056",
       "direction_id": "1",
       "headsign": "Jerzmanowo (Cmentarz I)",
       "service_id": "3",
@@ -3663,7 +3663,7 @@
       ]
     },
     {
-      "trip_id": "3_17547655",
+      "trip_id": "3_17722057",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "3",
@@ -3833,7 +3833,7 @@
       ]
     },
     {
-      "trip_id": "3_17547664",
+      "trip_id": "3_17722066",
       "direction_id": "1",
       "headsign": "Jerzmanowo (Cmentarz I)",
       "service_id": "3",
@@ -4021,7 +4021,7 @@
       ]
     },
     {
-      "trip_id": "3_17547665",
+      "trip_id": "3_17722067",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "3",
@@ -4191,7 +4191,7 @@
       ]
     },
     {
-      "trip_id": "3_17547668",
+      "trip_id": "3_17722070",
       "direction_id": "1",
       "headsign": "Jerzmanowo (Cmentarz I)",
       "service_id": "3",
@@ -4379,7 +4379,7 @@
       ]
     },
     {
-      "trip_id": "3_17547669",
+      "trip_id": "3_17722071",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "3",
@@ -4549,7 +4549,7 @@
       ]
     },
     {
-      "trip_id": "3_17547676",
+      "trip_id": "3_17722078",
       "direction_id": "1",
       "headsign": "RATYŃ",
       "service_id": "3",
@@ -4674,7 +4674,7 @@
       ]
     },
     {
-      "trip_id": "3_17547677",
+      "trip_id": "3_17722079",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "3",
@@ -4772,7 +4772,7 @@
       ]
     },
     {
-      "trip_id": "3_17547678",
+      "trip_id": "3_17722080",
       "direction_id": "1",
       "headsign": "RATYŃ",
       "service_id": "3",
@@ -4897,7 +4897,7 @@
       ]
     },
     {
-      "trip_id": "3_17547679",
+      "trip_id": "3_17722081",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "3",
@@ -4995,7 +4995,7 @@
       ]
     },
     {
-      "trip_id": "3_17547688",
+      "trip_id": "3_17722090",
       "direction_id": "1",
       "headsign": "RATYŃ",
       "service_id": "3",
@@ -5120,7 +5120,7 @@
       ]
     },
     {
-      "trip_id": "3_17547689",
+      "trip_id": "3_17722091",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "3",
@@ -5227,7 +5227,7 @@
       ]
     },
     {
-      "trip_id": "3_17547692",
+      "trip_id": "3_17722094",
       "direction_id": "1",
       "headsign": "RATYŃ",
       "service_id": "3",
@@ -5352,7 +5352,7 @@
       ]
     },
     {
-      "trip_id": "3_17547693",
+      "trip_id": "3_17722095",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "3",
@@ -5450,7 +5450,7 @@
       ]
     },
     {
-      "trip_id": "3_17547694",
+      "trip_id": "3_17722096",
       "direction_id": "1",
       "headsign": "Jerzmanowo (Cmentarz I)",
       "service_id": "3",
@@ -5638,7 +5638,7 @@
       ]
     },
     {
-      "trip_id": "3_17547695",
+      "trip_id": "3_17722097",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "3",
@@ -5808,7 +5808,7 @@
       ]
     },
     {
-      "trip_id": "3_17547710",
+      "trip_id": "3_17722112",
       "direction_id": "1",
       "headsign": "Jerzmanowo (Cmentarz I)",
       "service_id": "3",
@@ -5996,7 +5996,7 @@
       ]
     },
     {
-      "trip_id": "3_17547711",
+      "trip_id": "3_17722113",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "3",
@@ -6166,7 +6166,7 @@
       ]
     },
     {
-      "trip_id": "3_17547716",
+      "trip_id": "3_17722118",
       "direction_id": "1",
       "headsign": "RATYŃ",
       "service_id": "3",
@@ -6291,7 +6291,7 @@
       ]
     },
     {
-      "trip_id": "3_17547717",
+      "trip_id": "3_17722119",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "3",
@@ -6389,7 +6389,7 @@
       ]
     },
     {
-      "trip_id": "3_17547718",
+      "trip_id": "3_17722120",
       "direction_id": "1",
       "headsign": "RATYŃ",
       "service_id": "3",
@@ -6514,7 +6514,7 @@
       ]
     },
     {
-      "trip_id": "3_17547719",
+      "trip_id": "3_17722121",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "3",
@@ -6621,7 +6621,7 @@
       ]
     },
     {
-      "trip_id": "3_17547726",
+      "trip_id": "3_17722128",
       "direction_id": "1",
       "headsign": "Jerzmanowo (Cmentarz I)",
       "service_id": "3",
@@ -6809,7 +6809,7 @@
       ]
     },
     {
-      "trip_id": "3_17547727",
+      "trip_id": "3_17722129",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "3",
@@ -6979,7 +6979,7 @@
       ]
     },
     {
-      "trip_id": "4_17547737",
+      "trip_id": "4_17722139",
       "direction_id": "1",
       "headsign": "Jerzmanowo (Cmentarz I)",
       "service_id": "4",
@@ -7167,7 +7167,7 @@
       ]
     },
     {
-      "trip_id": "4_17547738",
+      "trip_id": "4_17722140",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "4",
@@ -7337,7 +7337,7 @@
       ]
     },
     {
-      "trip_id": "4_17547747",
+      "trip_id": "4_17722149",
       "direction_id": "1",
       "headsign": "RATYŃ",
       "service_id": "4",
@@ -7462,7 +7462,7 @@
       ]
     },
     {
-      "trip_id": "4_17547748",
+      "trip_id": "4_17722150",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "4",
@@ -7569,7 +7569,7 @@
       ]
     },
     {
-      "trip_id": "4_17547755",
+      "trip_id": "4_17722157",
       "direction_id": "1",
       "headsign": "RATYŃ",
       "service_id": "4",
@@ -7694,7 +7694,7 @@
       ]
     },
     {
-      "trip_id": "4_17547756",
+      "trip_id": "4_17722158",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "4",
@@ -7801,7 +7801,7 @@
       ]
     },
     {
-      "trip_id": "4_17547766",
+      "trip_id": "4_17722168",
       "direction_id": "1",
       "headsign": "RATYŃ",
       "service_id": "4",
@@ -7926,7 +7926,7 @@
       ]
     },
     {
-      "trip_id": "4_17547767",
+      "trip_id": "4_17722169",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "4",
@@ -8033,7 +8033,7 @@
       ]
     },
     {
-      "trip_id": "4_17547774",
+      "trip_id": "4_17722176",
       "direction_id": "1",
       "headsign": "RATYŃ",
       "service_id": "4",
@@ -8158,7 +8158,7 @@
       ]
     },
     {
-      "trip_id": "4_17547775",
+      "trip_id": "4_17722177",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "4",
@@ -8256,7 +8256,7 @@
       ]
     },
     {
-      "trip_id": "4_17547776",
+      "trip_id": "4_17722178",
       "direction_id": "1",
       "headsign": "RATYŃ",
       "service_id": "4",
@@ -8381,7 +8381,7 @@
       ]
     },
     {
-      "trip_id": "4_17547777",
+      "trip_id": "4_17722179",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "4",
@@ -8479,7 +8479,7 @@
       ]
     },
     {
-      "trip_id": "4_17547778",
+      "trip_id": "4_17722180",
       "direction_id": "1",
       "headsign": "Jerzmanowo (Cmentarz I)",
       "service_id": "4",
@@ -8667,7 +8667,7 @@
       ]
     },
     {
-      "trip_id": "4_17547779",
+      "trip_id": "4_17722181",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "4",
@@ -8837,7 +8837,7 @@
       ]
     },
     {
-      "trip_id": "4_17547818",
+      "trip_id": "4_17722220",
       "direction_id": "1",
       "headsign": "RATYŃ",
       "service_id": "4",
@@ -8962,7 +8962,7 @@
       ]
     },
     {
-      "trip_id": "4_17547819",
+      "trip_id": "4_17722221",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "4",
@@ -9069,7 +9069,7 @@
       ]
     },
     {
-      "trip_id": "4_17547822",
+      "trip_id": "4_17722224",
       "direction_id": "1",
       "headsign": "RATYŃ",
       "service_id": "4",
@@ -9194,7 +9194,7 @@
       ]
     },
     {
-      "trip_id": "4_17547823",
+      "trip_id": "4_17722225",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "4",
@@ -9301,7 +9301,7 @@
       ]
     },
     {
-      "trip_id": "4_17547832",
+      "trip_id": "4_17722234",
       "direction_id": "1",
       "headsign": "RATYŃ",
       "service_id": "4",
@@ -9426,7 +9426,7 @@
       ]
     },
     {
-      "trip_id": "4_17547833",
+      "trip_id": "4_17722235",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "4",
@@ -9533,7 +9533,7 @@
       ]
     },
     {
-      "trip_id": "4_17547838",
+      "trip_id": "4_17722240",
       "direction_id": "1",
       "headsign": "RATYŃ",
       "service_id": "4",
@@ -9658,7 +9658,7 @@
       ]
     },
     {
-      "trip_id": "4_17547839",
+      "trip_id": "4_17722241",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "4",
@@ -9765,7 +9765,7 @@
       ]
     },
     {
-      "trip_id": "4_17547851",
+      "trip_id": "4_17722253",
       "direction_id": "1",
       "headsign": "RATYŃ",
       "service_id": "4",
@@ -9890,7 +9890,7 @@
       ]
     },
     {
-      "trip_id": "4_17547852",
+      "trip_id": "4_17722254",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "4",
@@ -9988,7 +9988,7 @@
       ]
     },
     {
-      "trip_id": "4_17547853",
+      "trip_id": "4_17722255",
       "direction_id": "1",
       "headsign": "RATYŃ",
       "service_id": "4",
@@ -10113,7 +10113,7 @@
       ]
     },
     {
-      "trip_id": "4_17547854",
+      "trip_id": "4_17722256",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "4",
@@ -10220,7 +10220,7 @@
       ]
     },
     {
-      "trip_id": "4_17547859",
+      "trip_id": "4_17722261",
       "direction_id": "1",
       "headsign": "RATYŃ",
       "service_id": "4",
@@ -10345,7 +10345,7 @@
       ]
     },
     {
-      "trip_id": "4_17547860",
+      "trip_id": "4_17722262",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "4",
@@ -10443,7 +10443,7 @@
       ]
     },
     {
-      "trip_id": "4_17547861",
+      "trip_id": "4_17722263",
       "direction_id": "1",
       "headsign": "RATYŃ",
       "service_id": "4",
@@ -10568,7 +10568,7 @@
       ]
     },
     {
-      "trip_id": "4_17547862",
+      "trip_id": "4_17722264",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "4",
@@ -10675,7 +10675,7 @@
       ]
     },
     {
-      "trip_id": "4_17547877",
+      "trip_id": "4_17722279",
       "direction_id": "1",
       "headsign": "Jerzmanowo (Cmentarz I)",
       "service_id": "4",
@@ -10863,7 +10863,7 @@
       ]
     },
     {
-      "trip_id": "4_17547878",
+      "trip_id": "4_17722280",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "4",
@@ -11033,7 +11033,7 @@
       ]
     },
     {
-      "trip_id": "4_17547887",
+      "trip_id": "4_17722289",
       "direction_id": "1",
       "headsign": "Jerzmanowo (Cmentarz I)",
       "service_id": "4",
@@ -11221,7 +11221,7 @@
       ]
     },
     {
-      "trip_id": "4_17547888",
+      "trip_id": "4_17722290",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "4",
@@ -11391,7 +11391,7 @@
       ]
     },
     {
-      "trip_id": "4_17547895",
+      "trip_id": "4_17722297",
       "direction_id": "1",
       "headsign": "RATYŃ",
       "service_id": "4",
@@ -11516,7 +11516,7 @@
       ]
     },
     {
-      "trip_id": "4_17547896",
+      "trip_id": "4_17722298",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "4",
@@ -11614,7 +11614,7 @@
       ]
     },
     {
-      "trip_id": "4_17547897",
+      "trip_id": "4_17722299",
       "direction_id": "1",
       "headsign": "RATYŃ",
       "service_id": "4",
@@ -11739,7 +11739,7 @@
       ]
     },
     {
-      "trip_id": "4_17547898",
+      "trip_id": "4_17722300",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "4",
@@ -11837,7 +11837,7 @@
       ]
     },
     {
-      "trip_id": "4_17547907",
+      "trip_id": "4_17722309",
       "direction_id": "1",
       "headsign": "RATYŃ",
       "service_id": "4",
@@ -11962,7 +11962,7 @@
       ]
     },
     {
-      "trip_id": "4_17547908",
+      "trip_id": "4_17722310",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "4",
@@ -12069,7 +12069,7 @@
       ]
     },
     {
-      "trip_id": "4_17547911",
+      "trip_id": "4_17722313",
       "direction_id": "1",
       "headsign": "RATYŃ",
       "service_id": "4",
@@ -12194,7 +12194,7 @@
       ]
     },
     {
-      "trip_id": "4_17547912",
+      "trip_id": "4_17722314",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "4",
@@ -12292,7 +12292,7 @@
       ]
     },
     {
-      "trip_id": "4_17547913",
+      "trip_id": "4_17722315",
       "direction_id": "1",
       "headsign": "Jerzmanowo (Cmentarz I)",
       "service_id": "4",
@@ -12480,7 +12480,7 @@
       ]
     },
     {
-      "trip_id": "4_17547914",
+      "trip_id": "4_17722316",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "4",
@@ -12650,7 +12650,7 @@
       ]
     },
     {
-      "trip_id": "4_17547927",
+      "trip_id": "4_17722329",
       "direction_id": "1",
       "headsign": "Jerzmanowo (Cmentarz I)",
       "service_id": "4",
@@ -12838,7 +12838,7 @@
       ]
     },
     {
-      "trip_id": "4_17547928",
+      "trip_id": "4_17722330",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "4",
@@ -13008,7 +13008,7 @@
       ]
     },
     {
-      "trip_id": "4_17547933",
+      "trip_id": "4_17722335",
       "direction_id": "1",
       "headsign": "RATYŃ",
       "service_id": "4",
@@ -13133,7 +13133,7 @@
       ]
     },
     {
-      "trip_id": "4_17547934",
+      "trip_id": "4_17722336",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "4",
@@ -13231,7 +13231,7 @@
       ]
     },
     {
-      "trip_id": "4_17547935",
+      "trip_id": "4_17722337",
       "direction_id": "1",
       "headsign": "RATYŃ",
       "service_id": "4",
@@ -13356,7 +13356,7 @@
       ]
     },
     {
-      "trip_id": "4_17547936",
+      "trip_id": "4_17722338",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "4",
@@ -13463,7 +13463,7 @@
       ]
     },
     {
-      "trip_id": "4_17547943",
+      "trip_id": "4_17722345",
       "direction_id": "1",
       "headsign": "Jerzmanowo (Cmentarz I)",
       "service_id": "4",
@@ -13651,7 +13651,7 @@
       ]
     },
     {
-      "trip_id": "4_17547944",
+      "trip_id": "4_17722346",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "4",
@@ -13821,7 +13821,7 @@
       ]
     },
     {
-      "trip_id": "6_17449095",
+      "trip_id": "6_17722376",
       "direction_id": "1",
       "headsign": "Jerzmanowo (Cmentarz I)",
       "service_id": "6",
@@ -14009,7 +14009,7 @@
       ]
     },
     {
-      "trip_id": "6_17449096",
+      "trip_id": "6_17722377",
       "direction_id": "0",
       "headsign": "Krępicka - Szkoła",
       "service_id": "6",
@@ -14206,7 +14206,7 @@
       ]
     },
     {
-      "trip_id": "6_17449111",
+      "trip_id": "6_17722392",
       "direction_id": "1",
       "headsign": "RATYŃ",
       "service_id": "6",
@@ -14331,7 +14331,7 @@
       ]
     },
     {
-      "trip_id": "6_17449112",
+      "trip_id": "6_17722393",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "6",
@@ -14438,7 +14438,7 @@
       ]
     },
     {
-      "trip_id": "6_17449117",
+      "trip_id": "6_17722398",
       "direction_id": "1",
       "headsign": "RATYŃ",
       "service_id": "6",
@@ -14590,7 +14590,7 @@
       ]
     },
     {
-      "trip_id": "6_17449118",
+      "trip_id": "6_17722399",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "6",
@@ -14697,7 +14697,7 @@
       ]
     },
     {
-      "trip_id": "6_17449119",
+      "trip_id": "6_17722400",
       "direction_id": "1",
       "headsign": "Jerzmanowo (Cmentarz I)",
       "service_id": "6",
@@ -14912,7 +14912,7 @@
       ]
     },
     {
-      "trip_id": "6_17449120",
+      "trip_id": "6_17722401",
       "direction_id": "0",
       "headsign": "Krępicka - Szkoła",
       "service_id": "6",
@@ -15109,7 +15109,7 @@
       ]
     },
     {
-      "trip_id": "6_17449121",
+      "trip_id": "6_17722402",
       "direction_id": "1",
       "headsign": "Jerzmanowo (Cmentarz I)",
       "service_id": "6",
@@ -15324,7 +15324,7 @@
       ]
     },
     {
-      "trip_id": "6_17449122",
+      "trip_id": "6_17722403",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "6",
@@ -15485,7 +15485,7 @@
       ]
     },
     {
-      "trip_id": "6_17449129",
+      "trip_id": "6_17722410",
       "direction_id": "1",
       "headsign": "RATYŃ",
       "service_id": "6",
@@ -15610,7 +15610,7 @@
       ]
     },
     {
-      "trip_id": "6_17449130",
+      "trip_id": "6_17722411",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "6",
@@ -15717,7 +15717,7 @@
       ]
     },
     {
-      "trip_id": "6_17449135",
+      "trip_id": "6_17722416",
       "direction_id": "1",
       "headsign": "Jerzmanowo (Cmentarz I)",
       "service_id": "6",
@@ -15905,7 +15905,7 @@
       ]
     },
     {
-      "trip_id": "6_17449136",
+      "trip_id": "6_17722417",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "6",
@@ -16075,7 +16075,7 @@
       ]
     },
     {
-      "trip_id": "6_17449140",
+      "trip_id": "6_17722421",
       "direction_id": "1",
       "headsign": "Jerzmanowo (Cmentarz I)",
       "service_id": "6",
@@ -16263,7 +16263,7 @@
       ]
     },
     {
-      "trip_id": "6_17449141",
+      "trip_id": "6_17722422",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "6",
@@ -16433,7 +16433,7 @@
       ]
     },
     {
-      "trip_id": "6_17449144",
+      "trip_id": "6_17722425",
       "direction_id": "1",
       "headsign": "RATYŃ",
       "service_id": "6",
@@ -16558,7 +16558,7 @@
       ]
     },
     {
-      "trip_id": "6_17449145",
+      "trip_id": "6_17722426",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "6",
@@ -16665,7 +16665,7 @@
       ]
     },
     {
-      "trip_id": "6_17449169",
+      "trip_id": "6_17722450",
       "direction_id": "0",
       "headsign": "Krępicka - Szkoła",
       "service_id": "6",
@@ -16709,7 +16709,7 @@
       ]
     },
     {
-      "trip_id": "6_17449174",
+      "trip_id": "6_17722455",
       "direction_id": "1",
       "headsign": "RATYŃ",
       "service_id": "6",
@@ -16834,7 +16834,7 @@
       ]
     },
     {
-      "trip_id": "6_17449175",
+      "trip_id": "6_17722456",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "6",
@@ -16941,7 +16941,7 @@
       ]
     },
     {
-      "trip_id": "6_17449218",
+      "trip_id": "6_17722499",
       "direction_id": "1",
       "headsign": "RATYŃ",
       "service_id": "6",
@@ -17066,7 +17066,7 @@
       ]
     },
     {
-      "trip_id": "6_17449219",
+      "trip_id": "6_17722500",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "6",
@@ -17164,7 +17164,7 @@
       ]
     },
     {
-      "trip_id": "6_17449220",
+      "trip_id": "6_17722501",
       "direction_id": "1",
       "headsign": "RATYŃ",
       "service_id": "6",
@@ -17289,7 +17289,7 @@
       ]
     },
     {
-      "trip_id": "6_17449221",
+      "trip_id": "6_17722502",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "6",
@@ -17396,7 +17396,7 @@
       ]
     },
     {
-      "trip_id": "6_17449228",
+      "trip_id": "6_17722509",
       "direction_id": "1",
       "headsign": "RATYŃ",
       "service_id": "6",
@@ -17521,7 +17521,7 @@
       ]
     },
     {
-      "trip_id": "6_17449229",
+      "trip_id": "6_17722510",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "6",
@@ -17628,7 +17628,7 @@
       ]
     },
     {
-      "trip_id": "6_17449248",
+      "trip_id": "6_17722529",
       "direction_id": "1",
       "headsign": "RATYŃ",
       "service_id": "6",
@@ -17753,7 +17753,7 @@
       ]
     },
     {
-      "trip_id": "6_17449249",
+      "trip_id": "6_17722530",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "6",
@@ -17860,7 +17860,7 @@
       ]
     },
     {
-      "trip_id": "6_17449252",
+      "trip_id": "6_17722533",
       "direction_id": "1",
       "headsign": "Jerzmanowo (Cmentarz I)",
       "service_id": "6",
@@ -18048,7 +18048,7 @@
       ]
     },
     {
-      "trip_id": "6_17449253",
+      "trip_id": "6_17722534",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "6",
@@ -18218,7 +18218,7 @@
       ]
     },
     {
-      "trip_id": "6_17449261",
+      "trip_id": "6_17722542",
       "direction_id": "1",
       "headsign": "Jerzmanowo (Cmentarz I)",
       "service_id": "6",
@@ -18406,7 +18406,7 @@
       ]
     },
     {
-      "trip_id": "6_17449262",
+      "trip_id": "6_17722543",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "6",
@@ -18567,7 +18567,7 @@
       ]
     },
     {
-      "trip_id": "6_17449263",
+      "trip_id": "6_17722544",
       "direction_id": "1",
       "headsign": "RATYŃ",
       "service_id": "6",
@@ -18692,7 +18692,7 @@
       ]
     },
     {
-      "trip_id": "6_17449264",
+      "trip_id": "6_17722545",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "6",
@@ -18799,7 +18799,7 @@
       ]
     },
     {
-      "trip_id": "6_17449276",
+      "trip_id": "6_17722557",
       "direction_id": "1",
       "headsign": "Jerzmanowo (Cmentarz I)",
       "service_id": "6",
@@ -18987,7 +18987,7 @@
       ]
     },
     {
-      "trip_id": "6_17449277",
+      "trip_id": "6_17722558",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "6",
@@ -19157,7 +19157,7 @@
       ]
     },
     {
-      "trip_id": "6_17449288",
+      "trip_id": "6_17722569",
       "direction_id": "1",
       "headsign": "RATYŃ",
       "service_id": "6",
@@ -19282,7 +19282,7 @@
       ]
     },
     {
-      "trip_id": "6_17449289",
+      "trip_id": "6_17722570",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "6",
@@ -19389,7 +19389,7 @@
       ]
     },
     {
-      "trip_id": "6_17449294",
+      "trip_id": "6_17722575",
       "direction_id": "1",
       "headsign": "Jerzmanowo (Cmentarz I)",
       "service_id": "6",
@@ -19577,7 +19577,7 @@
       ]
     },
     {
-      "trip_id": "6_17449295",
+      "trip_id": "6_17722576",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "6",
@@ -19747,7 +19747,7 @@
       ]
     },
     {
-      "trip_id": "6_17449303",
+      "trip_id": "6_17722584",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "6",
@@ -19845,7 +19845,7 @@
       ]
     },
     {
-      "trip_id": "6_17449306",
+      "trip_id": "6_17722587",
       "direction_id": "1",
       "headsign": "RATYŃ",
       "service_id": "6",
@@ -19970,7 +19970,7 @@
       ]
     },
     {
-      "trip_id": "6_17449307",
+      "trip_id": "6_17722588",
       "direction_id": "0",
       "headsign": "Krępicka - Szkoła",
       "service_id": "6",
@@ -20104,7 +20104,7 @@
       ]
     },
     {
-      "trip_id": "6_17449314",
+      "trip_id": "6_17722595",
       "direction_id": "0",
       "headsign": "Krępicka - Szkoła",
       "service_id": "6",
@@ -20148,7 +20148,7 @@
       ]
     },
     {
-      "trip_id": "6_17449315",
+      "trip_id": "6_17722596",
       "direction_id": "1",
       "headsign": "RATYŃ",
       "service_id": "6",
@@ -20273,7 +20273,7 @@
       ]
     },
     {
-      "trip_id": "6_17449316",
+      "trip_id": "6_17722597",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "6",
@@ -20380,7 +20380,7 @@
       ]
     },
     {
-      "trip_id": "6_17449370",
+      "trip_id": "6_17722651",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "6",
@@ -20487,7 +20487,7 @@
       ]
     },
     {
-      "trip_id": "6_17449446",
+      "trip_id": "6_17722727",
       "direction_id": "1",
       "headsign": "RATYŃ",
       "service_id": "6",
@@ -20612,7 +20612,7 @@
       ]
     },
     {
-      "trip_id": "6_17449447",
+      "trip_id": "6_17722728",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "6",
@@ -20710,7 +20710,7 @@
       ]
     },
     {
-      "trip_id": "8_17449477",
+      "trip_id": "8_17722758",
       "direction_id": "1",
       "headsign": "Jerzmanowo (Cmentarz I)",
       "service_id": "8",
@@ -20898,7 +20898,7 @@
       ]
     },
     {
-      "trip_id": "8_17449478",
+      "trip_id": "8_17722759",
       "direction_id": "0",
       "headsign": "Krępicka - Szkoła",
       "service_id": "8",
@@ -21095,7 +21095,7 @@
       ]
     },
     {
-      "trip_id": "8_17449493",
+      "trip_id": "8_17722774",
       "direction_id": "1",
       "headsign": "RATYŃ",
       "service_id": "8",
@@ -21220,7 +21220,7 @@
       ]
     },
     {
-      "trip_id": "8_17449494",
+      "trip_id": "8_17722775",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "8",
@@ -21327,7 +21327,7 @@
       ]
     },
     {
-      "trip_id": "8_17449499",
+      "trip_id": "8_17722780",
       "direction_id": "1",
       "headsign": "RATYŃ",
       "service_id": "8",
@@ -21479,7 +21479,7 @@
       ]
     },
     {
-      "trip_id": "8_17449500",
+      "trip_id": "8_17722781",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "8",
@@ -21586,7 +21586,7 @@
       ]
     },
     {
-      "trip_id": "8_17449501",
+      "trip_id": "8_17722782",
       "direction_id": "1",
       "headsign": "Jerzmanowo (Cmentarz I)",
       "service_id": "8",
@@ -21801,7 +21801,7 @@
       ]
     },
     {
-      "trip_id": "8_17449502",
+      "trip_id": "8_17722783",
       "direction_id": "0",
       "headsign": "Krępicka - Szkoła",
       "service_id": "8",
@@ -21998,7 +21998,7 @@
       ]
     },
     {
-      "trip_id": "8_17449503",
+      "trip_id": "8_17722784",
       "direction_id": "1",
       "headsign": "Jerzmanowo (Cmentarz I)",
       "service_id": "8",
@@ -22213,7 +22213,7 @@
       ]
     },
     {
-      "trip_id": "8_17449504",
+      "trip_id": "8_17722785",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "8",
@@ -22374,7 +22374,7 @@
       ]
     },
     {
-      "trip_id": "8_17449511",
+      "trip_id": "8_17722792",
       "direction_id": "1",
       "headsign": "RATYŃ",
       "service_id": "8",
@@ -22499,7 +22499,7 @@
       ]
     },
     {
-      "trip_id": "8_17449512",
+      "trip_id": "8_17722793",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "8",
@@ -22606,7 +22606,7 @@
       ]
     },
     {
-      "trip_id": "8_17449517",
+      "trip_id": "8_17722798",
       "direction_id": "1",
       "headsign": "Jerzmanowo (Cmentarz I)",
       "service_id": "8",
@@ -22794,7 +22794,7 @@
       ]
     },
     {
-      "trip_id": "8_17449518",
+      "trip_id": "8_17722799",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "8",
@@ -22964,7 +22964,7 @@
       ]
     },
     {
-      "trip_id": "8_17449522",
+      "trip_id": "8_17722803",
       "direction_id": "1",
       "headsign": "Jerzmanowo (Cmentarz I)",
       "service_id": "8",
@@ -23152,7 +23152,7 @@
       ]
     },
     {
-      "trip_id": "8_17449523",
+      "trip_id": "8_17722804",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "8",
@@ -23322,7 +23322,7 @@
       ]
     },
     {
-      "trip_id": "8_17449526",
+      "trip_id": "8_17722807",
       "direction_id": "1",
       "headsign": "RATYŃ",
       "service_id": "8",
@@ -23447,7 +23447,7 @@
       ]
     },
     {
-      "trip_id": "8_17449527",
+      "trip_id": "8_17722808",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "8",
@@ -23554,7 +23554,7 @@
       ]
     },
     {
-      "trip_id": "8_17449551",
+      "trip_id": "8_17722832",
       "direction_id": "0",
       "headsign": "Krępicka - Szkoła",
       "service_id": "8",
@@ -23598,7 +23598,7 @@
       ]
     },
     {
-      "trip_id": "8_17449556",
+      "trip_id": "8_17722837",
       "direction_id": "1",
       "headsign": "RATYŃ",
       "service_id": "8",
@@ -23723,7 +23723,7 @@
       ]
     },
     {
-      "trip_id": "8_17449557",
+      "trip_id": "8_17722838",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "8",
@@ -23830,7 +23830,7 @@
       ]
     },
     {
-      "trip_id": "8_17449600",
+      "trip_id": "8_17722881",
       "direction_id": "1",
       "headsign": "RATYŃ",
       "service_id": "8",
@@ -23955,7 +23955,7 @@
       ]
     },
     {
-      "trip_id": "8_17449601",
+      "trip_id": "8_17722882",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "8",
@@ -24053,7 +24053,7 @@
       ]
     },
     {
-      "trip_id": "8_17449602",
+      "trip_id": "8_17722883",
       "direction_id": "1",
       "headsign": "RATYŃ",
       "service_id": "8",
@@ -24178,7 +24178,7 @@
       ]
     },
     {
-      "trip_id": "8_17449603",
+      "trip_id": "8_17722884",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "8",
@@ -24285,7 +24285,7 @@
       ]
     },
     {
-      "trip_id": "8_17449610",
+      "trip_id": "8_17722891",
       "direction_id": "1",
       "headsign": "RATYŃ",
       "service_id": "8",
@@ -24410,7 +24410,7 @@
       ]
     },
     {
-      "trip_id": "8_17449611",
+      "trip_id": "8_17722892",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "8",
@@ -24517,7 +24517,7 @@
       ]
     },
     {
-      "trip_id": "8_17449630",
+      "trip_id": "8_17722911",
       "direction_id": "1",
       "headsign": "RATYŃ",
       "service_id": "8",
@@ -24642,7 +24642,7 @@
       ]
     },
     {
-      "trip_id": "8_17449631",
+      "trip_id": "8_17722912",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "8",
@@ -24749,7 +24749,7 @@
       ]
     },
     {
-      "trip_id": "8_17449634",
+      "trip_id": "8_17722915",
       "direction_id": "1",
       "headsign": "Jerzmanowo (Cmentarz I)",
       "service_id": "8",
@@ -24937,7 +24937,7 @@
       ]
     },
     {
-      "trip_id": "8_17449635",
+      "trip_id": "8_17722916",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "8",
@@ -25107,7 +25107,7 @@
       ]
     },
     {
-      "trip_id": "8_17449643",
+      "trip_id": "8_17722924",
       "direction_id": "1",
       "headsign": "Jerzmanowo (Cmentarz I)",
       "service_id": "8",
@@ -25295,7 +25295,7 @@
       ]
     },
     {
-      "trip_id": "8_17449644",
+      "trip_id": "8_17722925",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "8",
@@ -25456,7 +25456,7 @@
       ]
     },
     {
-      "trip_id": "8_17449645",
+      "trip_id": "8_17722926",
       "direction_id": "1",
       "headsign": "RATYŃ",
       "service_id": "8",
@@ -25581,7 +25581,7 @@
       ]
     },
     {
-      "trip_id": "8_17449646",
+      "trip_id": "8_17722927",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "8",
@@ -25688,7 +25688,7 @@
       ]
     },
     {
-      "trip_id": "8_17449658",
+      "trip_id": "8_17722939",
       "direction_id": "1",
       "headsign": "Jerzmanowo (Cmentarz I)",
       "service_id": "8",
@@ -25876,7 +25876,7 @@
       ]
     },
     {
-      "trip_id": "8_17449659",
+      "trip_id": "8_17722940",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "8",
@@ -26046,7 +26046,7 @@
       ]
     },
     {
-      "trip_id": "8_17449670",
+      "trip_id": "8_17722951",
       "direction_id": "1",
       "headsign": "RATYŃ",
       "service_id": "8",
@@ -26171,7 +26171,7 @@
       ]
     },
     {
-      "trip_id": "8_17449671",
+      "trip_id": "8_17722952",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "8",
@@ -26278,7 +26278,7 @@
       ]
     },
     {
-      "trip_id": "8_17449676",
+      "trip_id": "8_17722957",
       "direction_id": "1",
       "headsign": "Jerzmanowo (Cmentarz I)",
       "service_id": "8",
@@ -26466,7 +26466,7 @@
       ]
     },
     {
-      "trip_id": "8_17449677",
+      "trip_id": "8_17722958",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "8",
@@ -26636,7 +26636,7 @@
       ]
     },
     {
-      "trip_id": "8_17449685",
+      "trip_id": "8_17722966",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "8",
@@ -26734,7 +26734,7 @@
       ]
     },
     {
-      "trip_id": "8_17449688",
+      "trip_id": "8_17722969",
       "direction_id": "1",
       "headsign": "RATYŃ",
       "service_id": "8",
@@ -26859,7 +26859,7 @@
       ]
     },
     {
-      "trip_id": "8_17449689",
+      "trip_id": "8_17722970",
       "direction_id": "0",
       "headsign": "Krępicka - Szkoła",
       "service_id": "8",
@@ -26993,7 +26993,7 @@
       ]
     },
     {
-      "trip_id": "8_17449696",
+      "trip_id": "8_17722977",
       "direction_id": "0",
       "headsign": "Krępicka - Szkoła",
       "service_id": "8",
@@ -27037,7 +27037,7 @@
       ]
     },
     {
-      "trip_id": "8_17449697",
+      "trip_id": "8_17722978",
       "direction_id": "1",
       "headsign": "RATYŃ",
       "service_id": "8",
@@ -27162,7 +27162,7 @@
       ]
     },
     {
-      "trip_id": "8_17449698",
+      "trip_id": "8_17722979",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "8",
@@ -27269,7 +27269,7 @@
       ]
     },
     {
-      "trip_id": "8_17449752",
+      "trip_id": "8_17723033",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "8",
@@ -27376,7 +27376,7 @@
       ]
     },
     {
-      "trip_id": "8_17449828",
+      "trip_id": "8_17723109",
       "direction_id": "1",
       "headsign": "RATYŃ",
       "service_id": "8",
@@ -27501,7 +27501,7 @@
       ]
     },
     {
-      "trip_id": "8_17449829",
+      "trip_id": "8_17723110",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "8",

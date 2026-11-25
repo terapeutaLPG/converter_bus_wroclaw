@@ -2,7 +2,7 @@
   "line": "105",
   "trips": [
     {
-      "trip_id": "3_17595650",
+      "trip_id": "3_17699663",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "3",
@@ -127,7 +127,7 @@
       ]
     },
     {
-      "trip_id": "3_17595651",
+      "trip_id": "3_17699664",
       "direction_id": "1",
       "headsign": "ŚWINIARY",
       "service_id": "3",
@@ -324,7 +324,7 @@
       ]
     },
     {
-      "trip_id": "3_17595652",
+      "trip_id": "3_17699665",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "3",
@@ -539,7 +539,7 @@
       ]
     },
     {
-      "trip_id": "3_17595653",
+      "trip_id": "3_17699666",
       "direction_id": "1",
       "headsign": "ŚWINIARY",
       "service_id": "3",
@@ -736,7 +736,7 @@
       ]
     },
     {
-      "trip_id": "3_17595654",
+      "trip_id": "3_17699667",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "3",
@@ -951,7 +951,7 @@
       ]
     },
     {
-      "trip_id": "3_17595655",
+      "trip_id": "3_17699668",
       "direction_id": "1",
       "headsign": "ŚWINIARY",
       "service_id": "3",
@@ -1148,7 +1148,7 @@
       ]
     },
     {
-      "trip_id": "3_17595656",
+      "trip_id": "3_17699669",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "3",
@@ -1363,7 +1363,7 @@
       ]
     },
     {
-      "trip_id": "3_17595657",
+      "trip_id": "3_17699670",
       "direction_id": "1",
       "headsign": "ŚWINIARY",
       "service_id": "3",
@@ -1560,7 +1560,7 @@
       ]
     },
     {
-      "trip_id": "3_17595658",
+      "trip_id": "3_17699671",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "3",
@@ -1775,7 +1775,7 @@
       ]
     },
     {
-      "trip_id": "3_17595659",
+      "trip_id": "3_17699672",
       "direction_id": "1",
       "headsign": "ŚWINIARY",
       "service_id": "3",
@@ -1972,7 +1972,7 @@
       ]
     },
     {
-      "trip_id": "3_17595660",
+      "trip_id": "3_17699673",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "3",
@@ -2187,7 +2187,7 @@
       ]
     },
     {
-      "trip_id": "3_17595661",
+      "trip_id": "3_17699674",
       "direction_id": "1",
       "headsign": "ŚWINIARY",
       "service_id": "3",
@@ -2384,7 +2384,7 @@
       ]
     },
     {
-      "trip_id": "3_17595662",
+      "trip_id": "3_17699675",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "3",
@@ -2599,7 +2599,7 @@
       ]
     },
     {
-      "trip_id": "3_17595663",
+      "trip_id": "3_17699676",
       "direction_id": "1",
       "headsign": "ŚWINIARY",
       "service_id": "3",
@@ -2796,7 +2796,7 @@
       ]
     },
     {
-      "trip_id": "3_17595664",
+      "trip_id": "3_17699677",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "3",
@@ -3011,7 +3011,7 @@
       ]
     },
     {
-      "trip_id": "3_17595665",
+      "trip_id": "3_17699678",
       "direction_id": "1",
       "headsign": "ŚWINIARY",
       "service_id": "3",
@@ -3208,7 +3208,7 @@
       ]
     },
     {
-      "trip_id": "3_17595666",
+      "trip_id": "3_17699679",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "3",
@@ -3423,7 +3423,7 @@
       ]
     },
     {
-      "trip_id": "3_17595667",
+      "trip_id": "3_17699680",
       "direction_id": "1",
       "headsign": "ŚWINIARY",
       "service_id": "3",
@@ -3620,7 +3620,7 @@
       ]
     },
     {
-      "trip_id": "3_17595668",
+      "trip_id": "3_17699681",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "3",
@@ -3835,7 +3835,7 @@
       ]
     },
     {
-      "trip_id": "3_17595669",
+      "trip_id": "3_17699682",
       "direction_id": "1",
       "headsign": "ŚWINIARY",
       "service_id": "3",
@@ -4032,7 +4032,7 @@
       ]
     },
     {
-      "trip_id": "3_17595670",
+      "trip_id": "3_17699683",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "3",
@@ -4247,7 +4247,7 @@
       ]
     },
     {
-      "trip_id": "3_17595671",
+      "trip_id": "3_17699684",
       "direction_id": "1",
       "headsign": "ŚWINIARY",
       "service_id": "3",
@@ -4444,7 +4444,7 @@
       ]
     },
     {
-      "trip_id": "3_17595672",
+      "trip_id": "3_17699685",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "3",
@@ -4659,7 +4659,7 @@
       ]
     },
     {
-      "trip_id": "3_17595673",
+      "trip_id": "3_17699686",
       "direction_id": "1",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "3",
@@ -4775,7 +4775,7 @@
       ]
     },
     {
-      "trip_id": "3_17595674",
+      "trip_id": "3_17699687",
       "direction_id": "1",
       "headsign": "ŚWINIARY",
       "service_id": "3",
@@ -4882,7 +4882,7 @@
       ]
     },
     {
-      "trip_id": "3_17595675",
+      "trip_id": "3_17699688",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "3",
@@ -5097,7 +5097,7 @@
       ]
     },
     {
-      "trip_id": "3_17595676",
+      "trip_id": "3_17699689",
       "direction_id": "1",
       "headsign": "ŚWINIARY",
       "service_id": "3",
@@ -5294,7 +5294,7 @@
       ]
     },
     {
-      "trip_id": "3_17595677",
+      "trip_id": "3_17699690",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "3",
@@ -5509,7 +5509,7 @@
       ]
     },
     {
-      "trip_id": "3_17595678",
+      "trip_id": "3_17699691",
       "direction_id": "1",
       "headsign": "ŚWINIARY",
       "service_id": "3",
@@ -5706,7 +5706,7 @@
       ]
     },
     {
-      "trip_id": "3_17595679",
+      "trip_id": "3_17699692",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "3",
@@ -5921,7 +5921,7 @@
       ]
     },
     {
-      "trip_id": "3_17595680",
+      "trip_id": "3_17699693",
       "direction_id": "1",
       "headsign": "ŚWINIARY",
       "service_id": "3",
@@ -6118,7 +6118,7 @@
       ]
     },
     {
-      "trip_id": "3_17595681",
+      "trip_id": "3_17699694",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "3",
@@ -6333,7 +6333,7 @@
       ]
     },
     {
-      "trip_id": "3_17595682",
+      "trip_id": "3_17699695",
       "direction_id": "1",
       "headsign": "ŚWINIARY",
       "service_id": "3",
@@ -6530,7 +6530,7 @@
       ]
     },
     {
-      "trip_id": "3_17595683",
+      "trip_id": "3_17699696",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "3",
@@ -6745,7 +6745,7 @@
       ]
     },
     {
-      "trip_id": "3_17595684",
+      "trip_id": "3_17699697",
       "direction_id": "1",
       "headsign": "ŚWINIARY",
       "service_id": "3",
@@ -6942,7 +6942,7 @@
       ]
     },
     {
-      "trip_id": "3_17595685",
+      "trip_id": "3_17699698",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "3",
@@ -7157,7 +7157,7 @@
       ]
     },
     {
-      "trip_id": "3_17595686",
+      "trip_id": "3_17699699",
       "direction_id": "1",
       "headsign": "ŚWINIARY",
       "service_id": "3",
@@ -7354,7 +7354,7 @@
       ]
     },
     {
-      "trip_id": "3_17595687",
+      "trip_id": "3_17699700",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "3",
@@ -7569,7 +7569,7 @@
       ]
     },
     {
-      "trip_id": "3_17595688",
+      "trip_id": "3_17699701",
       "direction_id": "1",
       "headsign": "ŚWINIARY",
       "service_id": "3",
@@ -7766,7 +7766,7 @@
       ]
     },
     {
-      "trip_id": "3_17595689",
+      "trip_id": "3_17699702",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "3",
@@ -7981,7 +7981,7 @@
       ]
     },
     {
-      "trip_id": "3_17595690",
+      "trip_id": "3_17699703",
       "direction_id": "1",
       "headsign": "ŚWINIARY",
       "service_id": "3",
@@ -8178,7 +8178,7 @@
       ]
     },
     {
-      "trip_id": "3_17595691",
+      "trip_id": "3_17699704",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "3",
@@ -8393,7 +8393,7 @@
       ]
     },
     {
-      "trip_id": "3_17595692",
+      "trip_id": "3_17699705",
       "direction_id": "1",
       "headsign": "ŚWINIARY",
       "service_id": "3",
@@ -8590,7 +8590,7 @@
       ]
     },
     {
-      "trip_id": "3_17595693",
+      "trip_id": "3_17699706",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "3",
@@ -8805,7 +8805,7 @@
       ]
     },
     {
-      "trip_id": "3_17595694",
+      "trip_id": "3_17699707",
       "direction_id": "1",
       "headsign": "ŚWINIARY",
       "service_id": "3",
@@ -9002,7 +9002,7 @@
       ]
     },
     {
-      "trip_id": "3_17595695",
+      "trip_id": "3_17699708",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "3",
@@ -9217,7 +9217,7 @@
       ]
     },
     {
-      "trip_id": "3_17595696",
+      "trip_id": "3_17699709",
       "direction_id": "1",
       "headsign": "ŚWINIARY",
       "service_id": "3",
@@ -9414,7 +9414,7 @@
       ]
     },
     {
-      "trip_id": "3_17595697",
+      "trip_id": "3_17699710",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "3",
@@ -9629,7 +9629,7 @@
       ]
     },
     {
-      "trip_id": "3_17595698",
+      "trip_id": "3_17699711",
       "direction_id": "1",
       "headsign": "ŚWINIARY",
       "service_id": "3",
@@ -9826,7 +9826,7 @@
       ]
     },
     {
-      "trip_id": "3_17595699",
+      "trip_id": "3_17699712",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "3",
@@ -9942,7 +9942,7 @@
       ]
     },
     {
-      "trip_id": "3_17595700",
+      "trip_id": "3_17699713",
       "direction_id": "1",
       "headsign": "ŚWINIARY",
       "service_id": "3",
@@ -10049,7 +10049,7 @@
       ]
     },
     {
-      "trip_id": "3_17595701",
+      "trip_id": "3_17699714",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "3",
@@ -10264,7 +10264,7 @@
       ]
     },
     {
-      "trip_id": "3_17595702",
+      "trip_id": "3_17699715",
       "direction_id": "1",
       "headsign": "ŚWINIARY",
       "service_id": "3",
@@ -10461,7 +10461,7 @@
       ]
     },
     {
-      "trip_id": "3_17595703",
+      "trip_id": "3_17699716",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "3",
@@ -10676,7 +10676,7 @@
       ]
     },
     {
-      "trip_id": "3_17595704",
+      "trip_id": "3_17699717",
       "direction_id": "1",
       "headsign": "ŚWINIARY",
       "service_id": "3",
@@ -10873,7 +10873,7 @@
       ]
     },
     {
-      "trip_id": "3_17595705",
+      "trip_id": "3_17699718",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "3",
@@ -11088,7 +11088,7 @@
       ]
     },
     {
-      "trip_id": "3_17595706",
+      "trip_id": "3_17699719",
       "direction_id": "1",
       "headsign": "ŚWINIARY",
       "service_id": "3",
@@ -11285,7 +11285,7 @@
       ]
     },
     {
-      "trip_id": "3_17595707",
+      "trip_id": "3_17699720",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "3",
@@ -11500,7 +11500,7 @@
       ]
     },
     {
-      "trip_id": "3_17595708",
+      "trip_id": "3_17699721",
       "direction_id": "1",
       "headsign": "ŚWINIARY",
       "service_id": "3",
@@ -11697,7 +11697,7 @@
       ]
     },
     {
-      "trip_id": "3_17595709",
+      "trip_id": "3_17699722",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "3",
@@ -11912,7 +11912,7 @@
       ]
     },
     {
-      "trip_id": "3_17595710",
+      "trip_id": "3_17699723",
       "direction_id": "1",
       "headsign": "ŚWINIARY",
       "service_id": "3",
@@ -12109,7 +12109,7 @@
       ]
     },
     {
-      "trip_id": "3_17595711",
+      "trip_id": "3_17699724",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "3",
@@ -12324,7 +12324,7 @@
       ]
     },
     {
-      "trip_id": "3_17595712",
+      "trip_id": "3_17699725",
       "direction_id": "1",
       "headsign": "ŚWINIARY",
       "service_id": "3",
@@ -12521,7 +12521,7 @@
       ]
     },
     {
-      "trip_id": "3_17595713",
+      "trip_id": "3_17699726",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "3",
@@ -12736,7 +12736,7 @@
       ]
     },
     {
-      "trip_id": "3_17595714",
+      "trip_id": "3_17699727",
       "direction_id": "1",
       "headsign": "ŚWINIARY",
       "service_id": "3",
@@ -12933,7 +12933,7 @@
       ]
     },
     {
-      "trip_id": "3_17595715",
+      "trip_id": "3_17699728",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "3",
@@ -13148,7 +13148,7 @@
       ]
     },
     {
-      "trip_id": "3_17595716",
+      "trip_id": "3_17699729",
       "direction_id": "1",
       "headsign": "ŚWINIARY",
       "service_id": "3",
@@ -13345,7 +13345,7 @@
       ]
     },
     {
-      "trip_id": "3_17595717",
+      "trip_id": "3_17699730",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "3",
@@ -13461,7 +13461,7 @@
       ]
     },
     {
-      "trip_id": "3_17595718",
+      "trip_id": "3_17699731",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "3",
@@ -13586,7 +13586,7 @@
       ]
     },
     {
-      "trip_id": "3_17595719",
+      "trip_id": "3_17699732",
       "direction_id": "1",
       "headsign": "ŚWINIARY",
       "service_id": "3",
@@ -13783,7 +13783,7 @@
       ]
     },
     {
-      "trip_id": "3_17595720",
+      "trip_id": "3_17699733",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "3",
@@ -13998,7 +13998,7 @@
       ]
     },
     {
-      "trip_id": "3_17595721",
+      "trip_id": "3_17699734",
       "direction_id": "1",
       "headsign": "ŚWINIARY",
       "service_id": "3",
@@ -14195,7 +14195,7 @@
       ]
     },
     {
-      "trip_id": "3_17595722",
+      "trip_id": "3_17699735",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "3",
@@ -14410,7 +14410,7 @@
       ]
     },
     {
-      "trip_id": "3_17595723",
+      "trip_id": "3_17699736",
       "direction_id": "1",
       "headsign": "ŚWINIARY",
       "service_id": "3",
@@ -14607,7 +14607,7 @@
       ]
     },
     {
-      "trip_id": "3_17595724",
+      "trip_id": "3_17699737",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "3",
@@ -14822,7 +14822,7 @@
       ]
     },
     {
-      "trip_id": "3_17595725",
+      "trip_id": "3_17699738",
       "direction_id": "1",
       "headsign": "ŚWINIARY",
       "service_id": "3",
@@ -15019,7 +15019,7 @@
       ]
     },
     {
-      "trip_id": "3_17595726",
+      "trip_id": "3_17699739",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "3",
@@ -15234,7 +15234,7 @@
       ]
     },
     {
-      "trip_id": "3_17595727",
+      "trip_id": "3_17699740",
       "direction_id": "1",
       "headsign": "ŚWINIARY",
       "service_id": "3",
@@ -15431,7 +15431,7 @@
       ]
     },
     {
-      "trip_id": "3_17595728",
+      "trip_id": "3_17699741",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "3",
@@ -15646,7 +15646,7 @@
       ]
     },
     {
-      "trip_id": "3_17595729",
+      "trip_id": "3_17699742",
       "direction_id": "1",
       "headsign": "ŚWINIARY",
       "service_id": "3",
@@ -15843,7 +15843,7 @@
       ]
     },
     {
-      "trip_id": "3_17595730",
+      "trip_id": "3_17699743",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "3",
@@ -16058,7 +16058,7 @@
       ]
     },
     {
-      "trip_id": "3_17595731",
+      "trip_id": "3_17699744",
       "direction_id": "1",
       "headsign": "ŚWINIARY",
       "service_id": "3",
@@ -16255,7 +16255,7 @@
       ]
     },
     {
-      "trip_id": "3_17595732",
+      "trip_id": "3_17699745",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "3",
@@ -16470,7 +16470,7 @@
       ]
     },
     {
-      "trip_id": "3_17595733",
+      "trip_id": "3_17699746",
       "direction_id": "1",
       "headsign": "ŚWINIARY",
       "service_id": "3",
@@ -16667,7 +16667,7 @@
       ]
     },
     {
-      "trip_id": "4_17600207",
+      "trip_id": "4_17704220",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "4",
@@ -16792,7 +16792,7 @@
       ]
     },
     {
-      "trip_id": "4_17600208",
+      "trip_id": "4_17704221",
       "direction_id": "1",
       "headsign": "ŚWINIARY",
       "service_id": "4",
@@ -16989,7 +16989,7 @@
       ]
     },
     {
-      "trip_id": "4_17600209",
+      "trip_id": "4_17704222",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "4",
@@ -17204,7 +17204,7 @@
       ]
     },
     {
-      "trip_id": "4_17600210",
+      "trip_id": "4_17704223",
       "direction_id": "1",
       "headsign": "ŚWINIARY",
       "service_id": "4",
@@ -17401,7 +17401,7 @@
       ]
     },
     {
-      "trip_id": "4_17600211",
+      "trip_id": "4_17704224",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "4",
@@ -17616,7 +17616,7 @@
       ]
     },
     {
-      "trip_id": "4_17600212",
+      "trip_id": "4_17704225",
       "direction_id": "1",
       "headsign": "ŚWINIARY",
       "service_id": "4",
@@ -17813,7 +17813,7 @@
       ]
     },
     {
-      "trip_id": "4_17600213",
+      "trip_id": "4_17704226",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "4",
@@ -18028,7 +18028,7 @@
       ]
     },
     {
-      "trip_id": "4_17600214",
+      "trip_id": "4_17704227",
       "direction_id": "1",
       "headsign": "ŚWINIARY",
       "service_id": "4",
@@ -18225,7 +18225,7 @@
       ]
     },
     {
-      "trip_id": "4_17600215",
+      "trip_id": "4_17704228",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "4",
@@ -18440,7 +18440,7 @@
       ]
     },
     {
-      "trip_id": "4_17600216",
+      "trip_id": "4_17704229",
       "direction_id": "1",
       "headsign": "ŚWINIARY",
       "service_id": "4",
@@ -18637,7 +18637,7 @@
       ]
     },
     {
-      "trip_id": "4_17600217",
+      "trip_id": "4_17704230",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "4",
@@ -18852,7 +18852,7 @@
       ]
     },
     {
-      "trip_id": "4_17600218",
+      "trip_id": "4_17704231",
       "direction_id": "1",
       "headsign": "ŚWINIARY",
       "service_id": "4",
@@ -19049,7 +19049,7 @@
       ]
     },
     {
-      "trip_id": "4_17600219",
+      "trip_id": "4_17704232",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "4",
@@ -19264,7 +19264,7 @@
       ]
     },
     {
-      "trip_id": "4_17600220",
+      "trip_id": "4_17704233",
       "direction_id": "1",
       "headsign": "ŚWINIARY",
       "service_id": "4",
@@ -19461,7 +19461,7 @@
       ]
     },
     {
-      "trip_id": "4_17600221",
+      "trip_id": "4_17704234",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "4",
@@ -19676,7 +19676,7 @@
       ]
     },
     {
-      "trip_id": "4_17600222",
+      "trip_id": "4_17704235",
       "direction_id": "1",
       "headsign": "ŚWINIARY",
       "service_id": "4",
@@ -19873,7 +19873,7 @@
       ]
     },
     {
-      "trip_id": "4_17600223",
+      "trip_id": "4_17704236",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "4",
@@ -20088,7 +20088,7 @@
       ]
     },
     {
-      "trip_id": "4_17600224",
+      "trip_id": "4_17704237",
       "direction_id": "1",
       "headsign": "ŚWINIARY",
       "service_id": "4",
@@ -20285,7 +20285,7 @@
       ]
     },
     {
-      "trip_id": "4_17600225",
+      "trip_id": "4_17704238",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "4",
@@ -20500,7 +20500,7 @@
       ]
     },
     {
-      "trip_id": "4_17600226",
+      "trip_id": "4_17704239",
       "direction_id": "1",
       "headsign": "ŚWINIARY",
       "service_id": "4",
@@ -20697,7 +20697,7 @@
       ]
     },
     {
-      "trip_id": "4_17600227",
+      "trip_id": "4_17704240",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "4",
@@ -20912,7 +20912,7 @@
       ]
     },
     {
-      "trip_id": "4_17600228",
+      "trip_id": "4_17704241",
       "direction_id": "1",
       "headsign": "ŚWINIARY",
       "service_id": "4",
@@ -21109,7 +21109,7 @@
       ]
     },
     {
-      "trip_id": "4_17600229",
+      "trip_id": "4_17704242",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "4",
@@ -21324,7 +21324,7 @@
       ]
     },
     {
-      "trip_id": "4_17600230",
+      "trip_id": "4_17704243",
       "direction_id": "1",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "4",
@@ -21440,7 +21440,7 @@
       ]
     },
     {
-      "trip_id": "4_17600231",
+      "trip_id": "4_17704244",
       "direction_id": "1",
       "headsign": "ŚWINIARY",
       "service_id": "4",
@@ -21547,7 +21547,7 @@
       ]
     },
     {
-      "trip_id": "4_17600232",
+      "trip_id": "4_17704245",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "4",
@@ -21762,7 +21762,7 @@
       ]
     },
     {
-      "trip_id": "4_17600233",
+      "trip_id": "4_17704246",
       "direction_id": "1",
       "headsign": "ŚWINIARY",
       "service_id": "4",
@@ -21959,7 +21959,7 @@
       ]
     },
     {
-      "trip_id": "4_17600234",
+      "trip_id": "4_17704247",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "4",
@@ -22174,7 +22174,7 @@
       ]
     },
     {
-      "trip_id": "4_17600235",
+      "trip_id": "4_17704248",
       "direction_id": "1",
       "headsign": "ŚWINIARY",
       "service_id": "4",
@@ -22371,7 +22371,7 @@
       ]
     },
     {
-      "trip_id": "4_17600236",
+      "trip_id": "4_17704249",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "4",
@@ -22586,7 +22586,7 @@
       ]
     },
     {
-      "trip_id": "4_17600237",
+      "trip_id": "4_17704250",
       "direction_id": "1",
       "headsign": "ŚWINIARY",
       "service_id": "4",
@@ -22783,7 +22783,7 @@
       ]
     },
     {
-      "trip_id": "4_17600238",
+      "trip_id": "4_17704251",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "4",
@@ -22998,7 +22998,7 @@
       ]
     },
     {
-      "trip_id": "4_17600239",
+      "trip_id": "4_17704252",
       "direction_id": "1",
       "headsign": "ŚWINIARY",
       "service_id": "4",
@@ -23195,7 +23195,7 @@
       ]
     },
     {
-      "trip_id": "4_17600240",
+      "trip_id": "4_17704253",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "4",
@@ -23410,7 +23410,7 @@
       ]
     },
     {
-      "trip_id": "4_17600241",
+      "trip_id": "4_17704254",
       "direction_id": "1",
       "headsign": "ŚWINIARY",
       "service_id": "4",
@@ -23607,7 +23607,7 @@
       ]
     },
     {
-      "trip_id": "4_17600242",
+      "trip_id": "4_17704255",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "4",
@@ -23822,7 +23822,7 @@
       ]
     },
     {
-      "trip_id": "4_17600243",
+      "trip_id": "4_17704256",
       "direction_id": "1",
       "headsign": "ŚWINIARY",
       "service_id": "4",
@@ -24019,7 +24019,7 @@
       ]
     },
     {
-      "trip_id": "4_17600244",
+      "trip_id": "4_17704257",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "4",
@@ -24234,7 +24234,7 @@
       ]
     },
     {
-      "trip_id": "4_17600245",
+      "trip_id": "4_17704258",
       "direction_id": "1",
       "headsign": "ŚWINIARY",
       "service_id": "4",
@@ -24431,7 +24431,7 @@
       ]
     },
     {
-      "trip_id": "4_17600246",
+      "trip_id": "4_17704259",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "4",
@@ -24646,7 +24646,7 @@
       ]
     },
     {
-      "trip_id": "4_17600247",
+      "trip_id": "4_17704260",
       "direction_id": "1",
       "headsign": "ŚWINIARY",
       "service_id": "4",
@@ -24843,7 +24843,7 @@
       ]
     },
     {
-      "trip_id": "4_17600248",
+      "trip_id": "4_17704261",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "4",
@@ -25058,7 +25058,7 @@
       ]
     },
     {
-      "trip_id": "4_17600249",
+      "trip_id": "4_17704262",
       "direction_id": "1",
       "headsign": "ŚWINIARY",
       "service_id": "4",
@@ -25255,7 +25255,7 @@
       ]
     },
     {
-      "trip_id": "4_17600250",
+      "trip_id": "4_17704263",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "4",
@@ -25470,7 +25470,7 @@
       ]
     },
     {
-      "trip_id": "4_17600251",
+      "trip_id": "4_17704264",
       "direction_id": "1",
       "headsign": "ŚWINIARY",
       "service_id": "4",
@@ -25667,7 +25667,7 @@
       ]
     },
     {
-      "trip_id": "4_17600252",
+      "trip_id": "4_17704265",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "4",
@@ -25882,7 +25882,7 @@
       ]
     },
     {
-      "trip_id": "4_17600253",
+      "trip_id": "4_17704266",
       "direction_id": "1",
       "headsign": "ŚWINIARY",
       "service_id": "4",
@@ -26079,7 +26079,7 @@
       ]
     },
     {
-      "trip_id": "4_17600254",
+      "trip_id": "4_17704267",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "4",
@@ -26294,7 +26294,7 @@
       ]
     },
     {
-      "trip_id": "4_17600255",
+      "trip_id": "4_17704268",
       "direction_id": "1",
       "headsign": "ŚWINIARY",
       "service_id": "4",
@@ -26491,7 +26491,7 @@
       ]
     },
     {
-      "trip_id": "4_17600256",
+      "trip_id": "4_17704269",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "4",
@@ -26607,7 +26607,7 @@
       ]
     },
     {
-      "trip_id": "4_17600257",
+      "trip_id": "4_17704270",
       "direction_id": "1",
       "headsign": "ŚWINIARY",
       "service_id": "4",
@@ -26714,7 +26714,7 @@
       ]
     },
     {
-      "trip_id": "4_17600258",
+      "trip_id": "4_17704271",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "4",
@@ -26929,7 +26929,7 @@
       ]
     },
     {
-      "trip_id": "4_17600259",
+      "trip_id": "4_17704272",
       "direction_id": "1",
       "headsign": "ŚWINIARY",
       "service_id": "4",
@@ -27126,7 +27126,7 @@
       ]
     },
     {
-      "trip_id": "4_17600260",
+      "trip_id": "4_17704273",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "4",
@@ -27341,7 +27341,7 @@
       ]
     },
     {
-      "trip_id": "4_17600261",
+      "trip_id": "4_17704274",
       "direction_id": "1",
       "headsign": "ŚWINIARY",
       "service_id": "4",
@@ -27538,7 +27538,7 @@
       ]
     },
     {
-      "trip_id": "4_17600262",
+      "trip_id": "4_17704275",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "4",
@@ -27753,7 +27753,7 @@
       ]
     },
     {
-      "trip_id": "4_17600263",
+      "trip_id": "4_17704276",
       "direction_id": "1",
       "headsign": "ŚWINIARY",
       "service_id": "4",
@@ -27950,7 +27950,7 @@
       ]
     },
     {
-      "trip_id": "4_17600264",
+      "trip_id": "4_17704277",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "4",
@@ -28165,7 +28165,7 @@
       ]
     },
     {
-      "trip_id": "4_17600265",
+      "trip_id": "4_17704278",
       "direction_id": "1",
       "headsign": "ŚWINIARY",
       "service_id": "4",
@@ -28362,7 +28362,7 @@
       ]
     },
     {
-      "trip_id": "4_17600266",
+      "trip_id": "4_17704279",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "4",
@@ -28577,7 +28577,7 @@
       ]
     },
     {
-      "trip_id": "4_17600267",
+      "trip_id": "4_17704280",
       "direction_id": "1",
       "headsign": "ŚWINIARY",
       "service_id": "4",
@@ -28774,7 +28774,7 @@
       ]
     },
     {
-      "trip_id": "4_17600268",
+      "trip_id": "4_17704281",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "4",
@@ -28989,7 +28989,7 @@
       ]
     },
     {
-      "trip_id": "4_17600269",
+      "trip_id": "4_17704282",
       "direction_id": "1",
       "headsign": "ŚWINIARY",
       "service_id": "4",
@@ -29186,7 +29186,7 @@
       ]
     },
     {
-      "trip_id": "4_17600270",
+      "trip_id": "4_17704283",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "4",
@@ -29401,7 +29401,7 @@
       ]
     },
     {
-      "trip_id": "4_17600271",
+      "trip_id": "4_17704284",
       "direction_id": "1",
       "headsign": "ŚWINIARY",
       "service_id": "4",
@@ -29598,7 +29598,7 @@
       ]
     },
     {
-      "trip_id": "4_17600272",
+      "trip_id": "4_17704285",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "4",
@@ -29813,7 +29813,7 @@
       ]
     },
     {
-      "trip_id": "4_17600273",
+      "trip_id": "4_17704286",
       "direction_id": "1",
       "headsign": "ŚWINIARY",
       "service_id": "4",
@@ -30010,7 +30010,7 @@
       ]
     },
     {
-      "trip_id": "4_17600274",
+      "trip_id": "4_17704287",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "4",
@@ -30126,7 +30126,7 @@
       ]
     },
     {
-      "trip_id": "4_17600275",
+      "trip_id": "4_17704288",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "4",
@@ -30251,7 +30251,7 @@
       ]
     },
     {
-      "trip_id": "4_17600276",
+      "trip_id": "4_17704289",
       "direction_id": "1",
       "headsign": "ŚWINIARY",
       "service_id": "4",
@@ -30448,7 +30448,7 @@
       ]
     },
     {
-      "trip_id": "4_17600277",
+      "trip_id": "4_17704290",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "4",
@@ -30663,7 +30663,7 @@
       ]
     },
     {
-      "trip_id": "4_17600278",
+      "trip_id": "4_17704291",
       "direction_id": "1",
       "headsign": "ŚWINIARY",
       "service_id": "4",
@@ -30860,7 +30860,7 @@
       ]
     },
     {
-      "trip_id": "4_17600279",
+      "trip_id": "4_17704292",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "4",
@@ -31075,7 +31075,7 @@
       ]
     },
     {
-      "trip_id": "4_17600280",
+      "trip_id": "4_17704293",
       "direction_id": "1",
       "headsign": "ŚWINIARY",
       "service_id": "4",
@@ -31272,7 +31272,7 @@
       ]
     },
     {
-      "trip_id": "4_17600281",
+      "trip_id": "4_17704294",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "4",
@@ -31487,7 +31487,7 @@
       ]
     },
     {
-      "trip_id": "4_17600282",
+      "trip_id": "4_17704295",
       "direction_id": "1",
       "headsign": "ŚWINIARY",
       "service_id": "4",
@@ -31684,7 +31684,7 @@
       ]
     },
     {
-      "trip_id": "4_17600283",
+      "trip_id": "4_17704296",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "4",
@@ -31899,7 +31899,7 @@
       ]
     },
     {
-      "trip_id": "4_17600284",
+      "trip_id": "4_17704297",
       "direction_id": "1",
       "headsign": "ŚWINIARY",
       "service_id": "4",
@@ -32096,7 +32096,7 @@
       ]
     },
     {
-      "trip_id": "4_17600285",
+      "trip_id": "4_17704298",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "4",
@@ -32311,7 +32311,7 @@
       ]
     },
     {
-      "trip_id": "4_17600286",
+      "trip_id": "4_17704299",
       "direction_id": "1",
       "headsign": "ŚWINIARY",
       "service_id": "4",
@@ -32508,7 +32508,7 @@
       ]
     },
     {
-      "trip_id": "4_17600287",
+      "trip_id": "4_17704300",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "4",
@@ -32723,7 +32723,7 @@
       ]
     },
     {
-      "trip_id": "4_17600288",
+      "trip_id": "4_17704301",
       "direction_id": "1",
       "headsign": "ŚWINIARY",
       "service_id": "4",
@@ -32920,7 +32920,7 @@
       ]
     },
     {
-      "trip_id": "4_17600289",
+      "trip_id": "4_17704302",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "4",
@@ -33135,7 +33135,7 @@
       ]
     },
     {
-      "trip_id": "4_17600290",
+      "trip_id": "4_17704303",
       "direction_id": "1",
       "headsign": "ŚWINIARY",
       "service_id": "4",
@@ -33332,7 +33332,7 @@
       ]
     },
     {
-      "trip_id": "6_17604730",
+      "trip_id": "6_17708743",
       "direction_id": "1",
       "headsign": "ŚWINIARY",
       "service_id": "6",
@@ -33439,7 +33439,7 @@
       ]
     },
     {
-      "trip_id": "6_17604731",
+      "trip_id": "6_17708744",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "6",
@@ -33654,7 +33654,7 @@
       ]
     },
     {
-      "trip_id": "6_17604732",
+      "trip_id": "6_17708745",
       "direction_id": "1",
       "headsign": "ŚWINIARY",
       "service_id": "6",
@@ -33851,7 +33851,7 @@
       ]
     },
     {
-      "trip_id": "6_17604733",
+      "trip_id": "6_17708746",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "6",
@@ -34066,7 +34066,7 @@
       ]
     },
     {
-      "trip_id": "6_17604734",
+      "trip_id": "6_17708747",
       "direction_id": "1",
       "headsign": "ŚWINIARY",
       "service_id": "6",
@@ -34263,7 +34263,7 @@
       ]
     },
     {
-      "trip_id": "6_17604735",
+      "trip_id": "6_17708748",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "6",
@@ -34541,7 +34541,7 @@
       ]
     },
     {
-      "trip_id": "6_17604736",
+      "trip_id": "6_17708749",
       "direction_id": "1",
       "headsign": "ŚWINIARY",
       "service_id": "6",
@@ -34738,7 +34738,7 @@
       ]
     },
     {
-      "trip_id": "6_17604737",
+      "trip_id": "6_17708750",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "6",
@@ -34953,7 +34953,7 @@
       ]
     },
     {
-      "trip_id": "6_17604738",
+      "trip_id": "6_17708751",
       "direction_id": "1",
       "headsign": "ŚWINIARY",
       "service_id": "6",
@@ -35150,7 +35150,7 @@
       ]
     },
     {
-      "trip_id": "6_17604739",
+      "trip_id": "6_17708752",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "6",
@@ -35365,7 +35365,7 @@
       ]
     },
     {
-      "trip_id": "6_17604740",
+      "trip_id": "6_17708753",
       "direction_id": "1",
       "headsign": "ŚWINIARY",
       "service_id": "6",
@@ -35562,7 +35562,7 @@
       ]
     },
     {
-      "trip_id": "6_17604741",
+      "trip_id": "6_17708754",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "6",
@@ -35777,7 +35777,7 @@
       ]
     },
     {
-      "trip_id": "6_17604742",
+      "trip_id": "6_17708755",
       "direction_id": "1",
       "headsign": "ŚWINIARY",
       "service_id": "6",
@@ -35974,7 +35974,7 @@
       ]
     },
     {
-      "trip_id": "6_17604743",
+      "trip_id": "6_17708756",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "6",
@@ -36189,7 +36189,7 @@
       ]
     },
     {
-      "trip_id": "6_17604744",
+      "trip_id": "6_17708757",
       "direction_id": "1",
       "headsign": "ŚWINIARY",
       "service_id": "6",
@@ -36386,7 +36386,7 @@
       ]
     },
     {
-      "trip_id": "6_17604745",
+      "trip_id": "6_17708758",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "6",
@@ -36601,7 +36601,7 @@
       ]
     },
     {
-      "trip_id": "6_17604746",
+      "trip_id": "6_17708759",
       "direction_id": "1",
       "headsign": "ŚWINIARY",
       "service_id": "6",
@@ -36798,7 +36798,7 @@
       ]
     },
     {
-      "trip_id": "6_17604747",
+      "trip_id": "6_17708760",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "6",
@@ -37013,7 +37013,7 @@
       ]
     },
     {
-      "trip_id": "6_17604748",
+      "trip_id": "6_17708761",
       "direction_id": "1",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "6",
@@ -37129,7 +37129,7 @@
       ]
     },
     {
-      "trip_id": "6_17604749",
+      "trip_id": "6_17708762",
       "direction_id": "1",
       "headsign": "ŚWINIARY",
       "service_id": "6",
@@ -37236,7 +37236,7 @@
       ]
     },
     {
-      "trip_id": "6_17604750",
+      "trip_id": "6_17708763",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "6",
@@ -37451,7 +37451,7 @@
       ]
     },
     {
-      "trip_id": "6_17604751",
+      "trip_id": "6_17708764",
       "direction_id": "1",
       "headsign": "ŚWINIARY",
       "service_id": "6",
@@ -37648,7 +37648,7 @@
       ]
     },
     {
-      "trip_id": "6_17604752",
+      "trip_id": "6_17708765",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "6",
@@ -37863,7 +37863,7 @@
       ]
     },
     {
-      "trip_id": "6_17604753",
+      "trip_id": "6_17708766",
       "direction_id": "1",
       "headsign": "ŚWINIARY",
       "service_id": "6",
@@ -38060,7 +38060,7 @@
       ]
     },
     {
-      "trip_id": "6_17604754",
+      "trip_id": "6_17708767",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "6",
@@ -38338,7 +38338,7 @@
       ]
     },
     {
-      "trip_id": "6_17604755",
+      "trip_id": "6_17708768",
       "direction_id": "1",
       "headsign": "ŚWINIARY",
       "service_id": "6",
@@ -38535,7 +38535,7 @@
       ]
     },
     {
-      "trip_id": "6_17604756",
+      "trip_id": "6_17708769",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "6",
@@ -38750,7 +38750,7 @@
       ]
     },
     {
-      "trip_id": "6_17604757",
+      "trip_id": "6_17708770",
       "direction_id": "1",
       "headsign": "ŚWINIARY",
       "service_id": "6",
@@ -38947,7 +38947,7 @@
       ]
     },
     {
-      "trip_id": "6_17604758",
+      "trip_id": "6_17708771",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "6",
@@ -39225,7 +39225,7 @@
       ]
     },
     {
-      "trip_id": "6_17604759",
+      "trip_id": "6_17708772",
       "direction_id": "1",
       "headsign": "ŚWINIARY",
       "service_id": "6",
@@ -39422,7 +39422,7 @@
       ]
     },
     {
-      "trip_id": "6_17604760",
+      "trip_id": "6_17708773",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "6",
@@ -39637,7 +39637,7 @@
       ]
     },
     {
-      "trip_id": "6_17604761",
+      "trip_id": "6_17708774",
       "direction_id": "1",
       "headsign": "ŚWINIARY",
       "service_id": "6",
@@ -39834,7 +39834,7 @@
       ]
     },
     {
-      "trip_id": "6_17604762",
+      "trip_id": "6_17708775",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "6",
@@ -40049,7 +40049,7 @@
       ]
     },
     {
-      "trip_id": "6_17604763",
+      "trip_id": "6_17708776",
       "direction_id": "1",
       "headsign": "ŚWINIARY",
       "service_id": "6",
@@ -40309,7 +40309,7 @@
       ]
     },
     {
-      "trip_id": "6_17604764",
+      "trip_id": "6_17708777",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "6",
@@ -40524,7 +40524,7 @@
       ]
     },
     {
-      "trip_id": "6_17604765",
+      "trip_id": "6_17708778",
       "direction_id": "1",
       "headsign": "ŚWINIARY",
       "service_id": "6",
@@ -40721,7 +40721,7 @@
       ]
     },
     {
-      "trip_id": "6_17604766",
+      "trip_id": "6_17708779",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "6",
@@ -40936,7 +40936,7 @@
       ]
     },
     {
-      "trip_id": "6_17604767",
+      "trip_id": "6_17708780",
       "direction_id": "1",
       "headsign": "ŚWINIARY",
       "service_id": "6",
@@ -41133,7 +41133,7 @@
       ]
     },
     {
-      "trip_id": "6_17604768",
+      "trip_id": "6_17708781",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "6",
@@ -41348,7 +41348,7 @@
       ]
     },
     {
-      "trip_id": "6_17604769",
+      "trip_id": "6_17708782",
       "direction_id": "1",
       "headsign": "ŚWINIARY",
       "service_id": "6",
@@ -41545,7 +41545,7 @@
       ]
     },
     {
-      "trip_id": "6_17604770",
+      "trip_id": "6_17708783",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "6",
@@ -41760,7 +41760,7 @@
       ]
     },
     {
-      "trip_id": "6_17604771",
+      "trip_id": "6_17708784",
       "direction_id": "1",
       "headsign": "ŚWINIARY",
       "service_id": "6",
@@ -41957,7 +41957,7 @@
       ]
     },
     {
-      "trip_id": "6_17604772",
+      "trip_id": "6_17708785",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "6",
@@ -42172,7 +42172,7 @@
       ]
     },
     {
-      "trip_id": "6_17604773",
+      "trip_id": "6_17708786",
       "direction_id": "1",
       "headsign": "ŚWINIARY",
       "service_id": "6",
@@ -42369,7 +42369,7 @@
       ]
     },
     {
-      "trip_id": "6_17604774",
+      "trip_id": "6_17708787",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "6",
@@ -42485,7 +42485,7 @@
       ]
     },
     {
-      "trip_id": "6_17604775",
+      "trip_id": "6_17708788",
       "direction_id": "1",
       "headsign": "ŚWINIARY",
       "service_id": "6",
@@ -42592,7 +42592,7 @@
       ]
     },
     {
-      "trip_id": "6_17604776",
+      "trip_id": "6_17708789",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "6",
@@ -42807,7 +42807,7 @@
       ]
     },
     {
-      "trip_id": "6_17604777",
+      "trip_id": "6_17708790",
       "direction_id": "1",
       "headsign": "ŚWINIARY",
       "service_id": "6",
@@ -43004,7 +43004,7 @@
       ]
     },
     {
-      "trip_id": "6_17604778",
+      "trip_id": "6_17708791",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "6",
@@ -43219,7 +43219,7 @@
       ]
     },
     {
-      "trip_id": "6_17604779",
+      "trip_id": "6_17708792",
       "direction_id": "1",
       "headsign": "ŚWINIARY",
       "service_id": "6",
@@ -43416,7 +43416,7 @@
       ]
     },
     {
-      "trip_id": "6_17604780",
+      "trip_id": "6_17708793",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "6",
@@ -43631,7 +43631,7 @@
       ]
     },
     {
-      "trip_id": "6_17604781",
+      "trip_id": "6_17708794",
       "direction_id": "1",
       "headsign": "ŚWINIARY",
       "service_id": "6",
@@ -43828,7 +43828,7 @@
       ]
     },
     {
-      "trip_id": "6_17604782",
+      "trip_id": "6_17708795",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "6",
@@ -44043,7 +44043,7 @@
       ]
     },
     {
-      "trip_id": "6_17604783",
+      "trip_id": "6_17708796",
       "direction_id": "1",
       "headsign": "ŚWINIARY",
       "service_id": "6",
@@ -44240,7 +44240,7 @@
       ]
     },
     {
-      "trip_id": "6_17604784",
+      "trip_id": "6_17708797",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "6",
@@ -44455,7 +44455,7 @@
       ]
     },
     {
-      "trip_id": "6_17604785",
+      "trip_id": "6_17708798",
       "direction_id": "1",
       "headsign": "ŚWINIARY",
       "service_id": "6",
@@ -44715,7 +44715,7 @@
       ]
     },
     {
-      "trip_id": "6_17604786",
+      "trip_id": "6_17708799",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "6",
@@ -44930,7 +44930,7 @@
       ]
     },
     {
-      "trip_id": "6_17604787",
+      "trip_id": "6_17708800",
       "direction_id": "1",
       "headsign": "ŚWINIARY",
       "service_id": "6",
@@ -45190,7 +45190,7 @@
       ]
     },
     {
-      "trip_id": "6_17604788",
+      "trip_id": "6_17708801",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "6",
@@ -45405,7 +45405,7 @@
       ]
     },
     {
-      "trip_id": "6_17604789",
+      "trip_id": "6_17708802",
       "direction_id": "1",
       "headsign": "ŚWINIARY",
       "service_id": "6",
@@ -45602,7 +45602,7 @@
       ]
     },
     {
-      "trip_id": "6_17604790",
+      "trip_id": "6_17708803",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "6",
@@ -45817,7 +45817,7 @@
       ]
     },
     {
-      "trip_id": "6_17604791",
+      "trip_id": "6_17708804",
       "direction_id": "1",
       "headsign": "ŚWINIARY",
       "service_id": "6",
@@ -46014,7 +46014,7 @@
       ]
     },
     {
-      "trip_id": "6_17604792",
+      "trip_id": "6_17708805",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "6",
@@ -46229,7 +46229,7 @@
       ]
     },
     {
-      "trip_id": "6_17604793",
+      "trip_id": "6_17708806",
       "direction_id": "1",
       "headsign": "ŚWINIARY",
       "service_id": "6",
@@ -46426,7 +46426,7 @@
       ]
     },
     {
-      "trip_id": "6_17604794",
+      "trip_id": "6_17708807",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "6",
@@ -46641,7 +46641,7 @@
       ]
     },
     {
-      "trip_id": "6_17604795",
+      "trip_id": "6_17708808",
       "direction_id": "1",
       "headsign": "ŚWINIARY",
       "service_id": "6",
@@ -46838,7 +46838,7 @@
       ]
     },
     {
-      "trip_id": "6_17604796",
+      "trip_id": "6_17708809",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "6",
@@ -47053,7 +47053,7 @@
       ]
     },
     {
-      "trip_id": "6_17604797",
+      "trip_id": "6_17708810",
       "direction_id": "1",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "6",
@@ -47169,7 +47169,7 @@
       ]
     },
     {
-      "trip_id": "6_17604798",
+      "trip_id": "6_17708811",
       "direction_id": "1",
       "headsign": "ŚWINIARY",
       "service_id": "6",
@@ -47276,7 +47276,7 @@
       ]
     },
     {
-      "trip_id": "6_17604799",
+      "trip_id": "6_17708812",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "6",
@@ -47491,7 +47491,7 @@
       ]
     },
     {
-      "trip_id": "6_17604800",
+      "trip_id": "6_17708813",
       "direction_id": "1",
       "headsign": "ŚWINIARY",
       "service_id": "6",
@@ -47688,7 +47688,7 @@
       ]
     },
     {
-      "trip_id": "6_17604801",
+      "trip_id": "6_17708814",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "6",
@@ -47903,7 +47903,7 @@
       ]
     },
     {
-      "trip_id": "6_17604802",
+      "trip_id": "6_17708815",
       "direction_id": "1",
       "headsign": "ŚWINIARY",
       "service_id": "6",
@@ -48100,7 +48100,7 @@
       ]
     },
     {
-      "trip_id": "6_17604803",
+      "trip_id": "6_17708816",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "6",
@@ -48315,7 +48315,7 @@
       ]
     },
     {
-      "trip_id": "6_17604804",
+      "trip_id": "6_17708817",
       "direction_id": "1",
       "headsign": "ŚWINIARY",
       "service_id": "6",
@@ -48512,7 +48512,7 @@
       ]
     },
     {
-      "trip_id": "6_17604805",
+      "trip_id": "6_17708818",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "6",
@@ -48727,7 +48727,7 @@
       ]
     },
     {
-      "trip_id": "6_17604806",
+      "trip_id": "6_17708819",
       "direction_id": "1",
       "headsign": "ŚWINIARY",
       "service_id": "6",
@@ -48924,7 +48924,7 @@
       ]
     },
     {
-      "trip_id": "6_17604807",
+      "trip_id": "6_17708820",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "6",
@@ -49139,7 +49139,7 @@
       ]
     },
     {
-      "trip_id": "6_17604808",
+      "trip_id": "6_17708821",
       "direction_id": "1",
       "headsign": "ŚWINIARY",
       "service_id": "6",
@@ -49399,7 +49399,7 @@
       ]
     },
     {
-      "trip_id": "6_17604809",
+      "trip_id": "6_17708822",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "6",
@@ -49614,7 +49614,7 @@
       ]
     },
     {
-      "trip_id": "6_17604810",
+      "trip_id": "6_17708823",
       "direction_id": "1",
       "headsign": "ŚWINIARY",
       "service_id": "6",
@@ -49811,7 +49811,7 @@
       ]
     },
     {
-      "trip_id": "6_17604811",
+      "trip_id": "6_17708824",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "6",
@@ -50026,7 +50026,7 @@
       ]
     },
     {
-      "trip_id": "6_17604812",
+      "trip_id": "6_17708825",
       "direction_id": "1",
       "headsign": "ŚWINIARY",
       "service_id": "6",
@@ -50223,7 +50223,7 @@
       ]
     },
     {
-      "trip_id": "6_17604813",
+      "trip_id": "6_17708826",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "6",
@@ -50438,7 +50438,7 @@
       ]
     },
     {
-      "trip_id": "6_17604814",
+      "trip_id": "6_17708827",
       "direction_id": "1",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "6",
@@ -50554,7 +50554,7 @@
       ]
     },
     {
-      "trip_id": "6_17606157",
+      "trip_id": "6_17710170",
       "direction_id": "1",
       "headsign": "ŚWINIARY",
       "service_id": "6",
@@ -50751,7 +50751,7 @@
       ]
     },
     {
-      "trip_id": "6_17606158",
+      "trip_id": "6_17710171",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "6",
@@ -50966,7 +50966,7 @@
       ]
     },
     {
-      "trip_id": "6_17606159",
+      "trip_id": "6_17710172",
       "direction_id": "1",
       "headsign": "ŚWINIARY",
       "service_id": "6",
@@ -51163,7 +51163,7 @@
       ]
     },
     {
-      "trip_id": "6_17606160",
+      "trip_id": "6_17710173",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "6",
@@ -51378,7 +51378,7 @@
       ]
     },
     {
-      "trip_id": "6_17606161",
+      "trip_id": "6_17710174",
       "direction_id": "1",
       "headsign": "ŚWINIARY",
       "service_id": "6",
@@ -51575,7 +51575,7 @@
       ]
     },
     {
-      "trip_id": "8_17611556",
+      "trip_id": "8_17715569",
       "direction_id": "1",
       "headsign": "ŚWINIARY",
       "service_id": "8",
@@ -51682,7 +51682,7 @@
       ]
     },
     {
-      "trip_id": "8_17611557",
+      "trip_id": "8_17715570",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "8",
@@ -51897,7 +51897,7 @@
       ]
     },
     {
-      "trip_id": "8_17611558",
+      "trip_id": "8_17715571",
       "direction_id": "1",
       "headsign": "ŚWINIARY",
       "service_id": "8",
@@ -52094,7 +52094,7 @@
       ]
     },
     {
-      "trip_id": "8_17611559",
+      "trip_id": "8_17715572",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "8",
@@ -52309,7 +52309,7 @@
       ]
     },
     {
-      "trip_id": "8_17611560",
+      "trip_id": "8_17715573",
       "direction_id": "1",
       "headsign": "ŚWINIARY",
       "service_id": "8",
@@ -52506,7 +52506,7 @@
       ]
     },
     {
-      "trip_id": "8_17611561",
+      "trip_id": "8_17715574",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "8",
@@ -52784,7 +52784,7 @@
       ]
     },
     {
-      "trip_id": "8_17611562",
+      "trip_id": "8_17715575",
       "direction_id": "1",
       "headsign": "ŚWINIARY",
       "service_id": "8",
@@ -52981,7 +52981,7 @@
       ]
     },
     {
-      "trip_id": "8_17611563",
+      "trip_id": "8_17715576",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "8",
@@ -53196,7 +53196,7 @@
       ]
     },
     {
-      "trip_id": "8_17611564",
+      "trip_id": "8_17715577",
       "direction_id": "1",
       "headsign": "ŚWINIARY",
       "service_id": "8",
@@ -53393,7 +53393,7 @@
       ]
     },
     {
-      "trip_id": "8_17611565",
+      "trip_id": "8_17715578",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "8",
@@ -53608,7 +53608,7 @@
       ]
     },
     {
-      "trip_id": "8_17611566",
+      "trip_id": "8_17715579",
       "direction_id": "1",
       "headsign": "ŚWINIARY",
       "service_id": "8",
@@ -53805,7 +53805,7 @@
       ]
     },
     {
-      "trip_id": "8_17611567",
+      "trip_id": "8_17715580",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "8",
@@ -54020,7 +54020,7 @@
       ]
     },
     {
-      "trip_id": "8_17611568",
+      "trip_id": "8_17715581",
       "direction_id": "1",
       "headsign": "ŚWINIARY",
       "service_id": "8",
@@ -54217,7 +54217,7 @@
       ]
     },
     {
-      "trip_id": "8_17611569",
+      "trip_id": "8_17715582",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "8",
@@ -54432,7 +54432,7 @@
       ]
     },
     {
-      "trip_id": "8_17611570",
+      "trip_id": "8_17715583",
       "direction_id": "1",
       "headsign": "ŚWINIARY",
       "service_id": "8",
@@ -54629,7 +54629,7 @@
       ]
     },
     {
-      "trip_id": "8_17611571",
+      "trip_id": "8_17715584",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "8",
@@ -54844,7 +54844,7 @@
       ]
     },
     {
-      "trip_id": "8_17611572",
+      "trip_id": "8_17715585",
       "direction_id": "1",
       "headsign": "ŚWINIARY",
       "service_id": "8",
@@ -55041,7 +55041,7 @@
       ]
     },
     {
-      "trip_id": "8_17611573",
+      "trip_id": "8_17715586",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "8",
@@ -55256,7 +55256,7 @@
       ]
     },
     {
-      "trip_id": "8_17611574",
+      "trip_id": "8_17715587",
       "direction_id": "1",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "8",
@@ -55372,7 +55372,7 @@
       ]
     },
     {
-      "trip_id": "8_17611575",
+      "trip_id": "8_17715588",
       "direction_id": "1",
       "headsign": "ŚWINIARY",
       "service_id": "8",
@@ -55479,7 +55479,7 @@
       ]
     },
     {
-      "trip_id": "8_17611576",
+      "trip_id": "8_17715589",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "8",
@@ -55694,7 +55694,7 @@
       ]
     },
     {
-      "trip_id": "8_17611577",
+      "trip_id": "8_17715590",
       "direction_id": "1",
       "headsign": "ŚWINIARY",
       "service_id": "8",
@@ -55891,7 +55891,7 @@
       ]
     },
     {
-      "trip_id": "8_17611578",
+      "trip_id": "8_17715591",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "8",
@@ -56106,7 +56106,7 @@
       ]
     },
     {
-      "trip_id": "8_17611579",
+      "trip_id": "8_17715592",
       "direction_id": "1",
       "headsign": "ŚWINIARY",
       "service_id": "8",
@@ -56303,7 +56303,7 @@
       ]
     },
     {
-      "trip_id": "8_17611580",
+      "trip_id": "8_17715593",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "8",
@@ -56581,7 +56581,7 @@
       ]
     },
     {
-      "trip_id": "8_17611581",
+      "trip_id": "8_17715594",
       "direction_id": "1",
       "headsign": "ŚWINIARY",
       "service_id": "8",
@@ -56778,7 +56778,7 @@
       ]
     },
     {
-      "trip_id": "8_17611582",
+      "trip_id": "8_17715595",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "8",
@@ -56993,7 +56993,7 @@
       ]
     },
     {
-      "trip_id": "8_17611583",
+      "trip_id": "8_17715596",
       "direction_id": "1",
       "headsign": "ŚWINIARY",
       "service_id": "8",
@@ -57190,7 +57190,7 @@
       ]
     },
     {
-      "trip_id": "8_17611584",
+      "trip_id": "8_17715597",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "8",
@@ -57468,7 +57468,7 @@
       ]
     },
     {
-      "trip_id": "8_17611585",
+      "trip_id": "8_17715598",
       "direction_id": "1",
       "headsign": "ŚWINIARY",
       "service_id": "8",
@@ -57665,7 +57665,7 @@
       ]
     },
     {
-      "trip_id": "8_17611586",
+      "trip_id": "8_17715599",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "8",
@@ -57880,7 +57880,7 @@
       ]
     },
     {
-      "trip_id": "8_17611587",
+      "trip_id": "8_17715600",
       "direction_id": "1",
       "headsign": "ŚWINIARY",
       "service_id": "8",
@@ -58077,7 +58077,7 @@
       ]
     },
     {
-      "trip_id": "8_17611588",
+      "trip_id": "8_17715601",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "8",
@@ -58292,7 +58292,7 @@
       ]
     },
     {
-      "trip_id": "8_17611589",
+      "trip_id": "8_17715602",
       "direction_id": "1",
       "headsign": "ŚWINIARY",
       "service_id": "8",
@@ -58552,7 +58552,7 @@
       ]
     },
     {
-      "trip_id": "8_17611590",
+      "trip_id": "8_17715603",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "8",
@@ -58767,7 +58767,7 @@
       ]
     },
     {
-      "trip_id": "8_17611591",
+      "trip_id": "8_17715604",
       "direction_id": "1",
       "headsign": "ŚWINIARY",
       "service_id": "8",
@@ -58964,7 +58964,7 @@
       ]
     },
     {
-      "trip_id": "8_17611592",
+      "trip_id": "8_17715605",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "8",
@@ -59179,7 +59179,7 @@
       ]
     },
     {
-      "trip_id": "8_17611593",
+      "trip_id": "8_17715606",
       "direction_id": "1",
       "headsign": "ŚWINIARY",
       "service_id": "8",
@@ -59376,7 +59376,7 @@
       ]
     },
     {
-      "trip_id": "8_17611594",
+      "trip_id": "8_17715607",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "8",
@@ -59591,7 +59591,7 @@
       ]
     },
     {
-      "trip_id": "8_17611595",
+      "trip_id": "8_17715608",
       "direction_id": "1",
       "headsign": "ŚWINIARY",
       "service_id": "8",
@@ -59788,7 +59788,7 @@
       ]
     },
     {
-      "trip_id": "8_17611596",
+      "trip_id": "8_17715609",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "8",
@@ -60003,7 +60003,7 @@
       ]
     },
     {
-      "trip_id": "8_17611597",
+      "trip_id": "8_17715610",
       "direction_id": "1",
       "headsign": "ŚWINIARY",
       "service_id": "8",
@@ -60200,7 +60200,7 @@
       ]
     },
     {
-      "trip_id": "8_17611598",
+      "trip_id": "8_17715611",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "8",
@@ -60415,7 +60415,7 @@
       ]
     },
     {
-      "trip_id": "8_17611599",
+      "trip_id": "8_17715612",
       "direction_id": "1",
       "headsign": "ŚWINIARY",
       "service_id": "8",
@@ -60612,7 +60612,7 @@
       ]
     },
     {
-      "trip_id": "8_17611600",
+      "trip_id": "8_17715613",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "8",
@@ -60728,7 +60728,7 @@
       ]
     },
     {
-      "trip_id": "8_17611601",
+      "trip_id": "8_17715614",
       "direction_id": "1",
       "headsign": "ŚWINIARY",
       "service_id": "8",
@@ -60835,7 +60835,7 @@
       ]
     },
     {
-      "trip_id": "8_17611602",
+      "trip_id": "8_17715615",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "8",
@@ -61050,7 +61050,7 @@
       ]
     },
     {
-      "trip_id": "8_17611603",
+      "trip_id": "8_17715616",
       "direction_id": "1",
       "headsign": "ŚWINIARY",
       "service_id": "8",
@@ -61247,7 +61247,7 @@
       ]
     },
     {
-      "trip_id": "8_17611604",
+      "trip_id": "8_17715617",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "8",
@@ -61462,7 +61462,7 @@
       ]
     },
     {
-      "trip_id": "8_17611605",
+      "trip_id": "8_17715618",
       "direction_id": "1",
       "headsign": "ŚWINIARY",
       "service_id": "8",
@@ -61659,7 +61659,7 @@
       ]
     },
     {
-      "trip_id": "8_17611606",
+      "trip_id": "8_17715619",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "8",
@@ -61874,7 +61874,7 @@
       ]
     },
     {
-      "trip_id": "8_17611607",
+      "trip_id": "8_17715620",
       "direction_id": "1",
       "headsign": "ŚWINIARY",
       "service_id": "8",
@@ -62071,7 +62071,7 @@
       ]
     },
     {
-      "trip_id": "8_17611608",
+      "trip_id": "8_17715621",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "8",
@@ -62286,7 +62286,7 @@
       ]
     },
     {
-      "trip_id": "8_17611609",
+      "trip_id": "8_17715622",
       "direction_id": "1",
       "headsign": "ŚWINIARY",
       "service_id": "8",
@@ -62483,7 +62483,7 @@
       ]
     },
     {
-      "trip_id": "8_17611610",
+      "trip_id": "8_17715623",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "8",
@@ -62698,7 +62698,7 @@
       ]
     },
     {
-      "trip_id": "8_17611611",
+      "trip_id": "8_17715624",
       "direction_id": "1",
       "headsign": "ŚWINIARY",
       "service_id": "8",
@@ -62958,7 +62958,7 @@
       ]
     },
     {
-      "trip_id": "8_17611612",
+      "trip_id": "8_17715625",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "8",
@@ -63173,7 +63173,7 @@
       ]
     },
     {
-      "trip_id": "8_17611613",
+      "trip_id": "8_17715626",
       "direction_id": "1",
       "headsign": "ŚWINIARY",
       "service_id": "8",
@@ -63433,7 +63433,7 @@
       ]
     },
     {
-      "trip_id": "8_17611614",
+      "trip_id": "8_17715627",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "8",
@@ -63648,7 +63648,7 @@
       ]
     },
     {
-      "trip_id": "8_17611615",
+      "trip_id": "8_17715628",
       "direction_id": "1",
       "headsign": "ŚWINIARY",
       "service_id": "8",
@@ -63845,7 +63845,7 @@
       ]
     },
     {
-      "trip_id": "8_17611616",
+      "trip_id": "8_17715629",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "8",
@@ -64060,7 +64060,7 @@
       ]
     },
     {
-      "trip_id": "8_17611617",
+      "trip_id": "8_17715630",
       "direction_id": "1",
       "headsign": "ŚWINIARY",
       "service_id": "8",
@@ -64257,7 +64257,7 @@
       ]
     },
     {
-      "trip_id": "8_17611618",
+      "trip_id": "8_17715631",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "8",
@@ -64472,7 +64472,7 @@
       ]
     },
     {
-      "trip_id": "8_17611619",
+      "trip_id": "8_17715632",
       "direction_id": "1",
       "headsign": "ŚWINIARY",
       "service_id": "8",
@@ -64669,7 +64669,7 @@
       ]
     },
     {
-      "trip_id": "8_17611620",
+      "trip_id": "8_17715633",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "8",
@@ -64884,7 +64884,7 @@
       ]
     },
     {
-      "trip_id": "8_17611621",
+      "trip_id": "8_17715634",
       "direction_id": "1",
       "headsign": "ŚWINIARY",
       "service_id": "8",
@@ -65081,7 +65081,7 @@
       ]
     },
     {
-      "trip_id": "8_17611622",
+      "trip_id": "8_17715635",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "8",
@@ -65296,7 +65296,7 @@
       ]
     },
     {
-      "trip_id": "8_17611623",
+      "trip_id": "8_17715636",
       "direction_id": "1",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "8",
@@ -65412,7 +65412,7 @@
       ]
     },
     {
-      "trip_id": "8_17611624",
+      "trip_id": "8_17715637",
       "direction_id": "1",
       "headsign": "ŚWINIARY",
       "service_id": "8",
@@ -65519,7 +65519,7 @@
       ]
     },
     {
-      "trip_id": "8_17611625",
+      "trip_id": "8_17715638",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "8",
@@ -65734,7 +65734,7 @@
       ]
     },
     {
-      "trip_id": "8_17611626",
+      "trip_id": "8_17715639",
       "direction_id": "1",
       "headsign": "ŚWINIARY",
       "service_id": "8",
@@ -65931,7 +65931,7 @@
       ]
     },
     {
-      "trip_id": "8_17611627",
+      "trip_id": "8_17715640",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "8",
@@ -66146,7 +66146,7 @@
       ]
     },
     {
-      "trip_id": "8_17611628",
+      "trip_id": "8_17715641",
       "direction_id": "1",
       "headsign": "ŚWINIARY",
       "service_id": "8",
@@ -66343,7 +66343,7 @@
       ]
     },
     {
-      "trip_id": "8_17611629",
+      "trip_id": "8_17715642",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "8",
@@ -66558,7 +66558,7 @@
       ]
     },
     {
-      "trip_id": "8_17611630",
+      "trip_id": "8_17715643",
       "direction_id": "1",
       "headsign": "ŚWINIARY",
       "service_id": "8",
@@ -66755,7 +66755,7 @@
       ]
     },
     {
-      "trip_id": "8_17611631",
+      "trip_id": "8_17715644",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "8",
@@ -66970,7 +66970,7 @@
       ]
     },
     {
-      "trip_id": "8_17611632",
+      "trip_id": "8_17715645",
       "direction_id": "1",
       "headsign": "ŚWINIARY",
       "service_id": "8",
@@ -67167,7 +67167,7 @@
       ]
     },
     {
-      "trip_id": "8_17611633",
+      "trip_id": "8_17715646",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "8",
@@ -67382,7 +67382,7 @@
       ]
     },
     {
-      "trip_id": "8_17611634",
+      "trip_id": "8_17715647",
       "direction_id": "1",
       "headsign": "ŚWINIARY",
       "service_id": "8",
@@ -67642,7 +67642,7 @@
       ]
     },
     {
-      "trip_id": "8_17611635",
+      "trip_id": "8_17715648",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "8",
@@ -67857,7 +67857,7 @@
       ]
     },
     {
-      "trip_id": "8_17611636",
+      "trip_id": "8_17715649",
       "direction_id": "1",
       "headsign": "ŚWINIARY",
       "service_id": "8",
@@ -68054,7 +68054,7 @@
       ]
     },
     {
-      "trip_id": "8_17611637",
+      "trip_id": "8_17715650",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "8",
@@ -68269,7 +68269,7 @@
       ]
     },
     {
-      "trip_id": "8_17611638",
+      "trip_id": "8_17715651",
       "direction_id": "1",
       "headsign": "ŚWINIARY",
       "service_id": "8",
@@ -68466,7 +68466,7 @@
       ]
     },
     {
-      "trip_id": "8_17611639",
+      "trip_id": "8_17715652",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "8",
@@ -68681,7 +68681,7 @@
       ]
     },
     {
-      "trip_id": "8_17611640",
+      "trip_id": "8_17715653",
       "direction_id": "1",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "8",
@@ -68797,7 +68797,7 @@
       ]
     },
     {
-      "trip_id": "8_17612983",
+      "trip_id": "8_17716996",
       "direction_id": "1",
       "headsign": "ŚWINIARY",
       "service_id": "8",
@@ -68994,7 +68994,7 @@
       ]
     },
     {
-      "trip_id": "8_17612984",
+      "trip_id": "8_17716997",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "8",
@@ -69209,7 +69209,7 @@
       ]
     },
     {
-      "trip_id": "8_17612985",
+      "trip_id": "8_17716998",
       "direction_id": "1",
       "headsign": "ŚWINIARY",
       "service_id": "8",
@@ -69406,7 +69406,7 @@
       ]
     },
     {
-      "trip_id": "8_17612986",
+      "trip_id": "8_17716999",
       "direction_id": "0",
       "headsign": "KROMERA",
       "service_id": "8",
@@ -69621,7 +69621,7 @@
       ]
     },
     {
-      "trip_id": "8_17612987",
+      "trip_id": "8_17717000",
       "direction_id": "1",
       "headsign": "ŚWINIARY",
       "service_id": "8",

@@ -2,7 +2,7 @@
   "line": "923",
   "trips": [
     {
-      "trip_id": "3_17547503",
+      "trip_id": "3_17721905",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "3",
@@ -217,7 +217,7 @@
       ]
     },
     {
-      "trip_id": "3_17547504",
+      "trip_id": "3_17721906",
       "direction_id": "1",
       "headsign": "WILKSZYN (Pętla)",
       "service_id": "3",
@@ -360,7 +360,7 @@
       ]
     },
     {
-      "trip_id": "3_17547505",
+      "trip_id": "3_17721907",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "3",
@@ -503,7 +503,7 @@
       ]
     },
     {
-      "trip_id": "3_17547543",
+      "trip_id": "3_17721945",
       "direction_id": "1",
       "headsign": "BRZEZINA (pętla)",
       "service_id": "3",
@@ -718,7 +718,7 @@
       ]
     },
     {
-      "trip_id": "3_17547544",
+      "trip_id": "3_17721946",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "3",
@@ -933,7 +933,7 @@
       ]
     },
     {
-      "trip_id": "3_17547574",
+      "trip_id": "3_17721976",
       "direction_id": "1",
       "headsign": "BRZEZINA (pętla)",
       "service_id": "3",
@@ -1148,7 +1148,7 @@
       ]
     },
     {
-      "trip_id": "3_17547575",
+      "trip_id": "3_17721977",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "3",
@@ -1363,7 +1363,7 @@
       ]
     },
     {
-      "trip_id": "3_17547578",
+      "trip_id": "3_17721980",
       "direction_id": "1",
       "headsign": "BRZEZINA (pętla)",
       "service_id": "3",
@@ -1578,7 +1578,7 @@
       ]
     },
     {
-      "trip_id": "3_17547579",
+      "trip_id": "3_17721981",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "3",
@@ -1793,7 +1793,7 @@
       ]
     },
     {
-      "trip_id": "3_17547580",
+      "trip_id": "3_17721982",
       "direction_id": "1",
       "headsign": "WILKSZYN (Pętla)",
       "service_id": "3",
@@ -1936,7 +1936,7 @@
       ]
     },
     {
-      "trip_id": "3_17547581",
+      "trip_id": "3_17721983",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "3",
@@ -2079,7 +2079,7 @@
       ]
     },
     {
-      "trip_id": "3_17547582",
+      "trip_id": "3_17721984",
       "direction_id": "1",
       "headsign": "BRZEZINA (pętla)",
       "service_id": "3",
@@ -2294,7 +2294,7 @@
       ]
     },
     {
-      "trip_id": "3_17547583",
+      "trip_id": "3_17721985",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "3",
@@ -2509,7 +2509,7 @@
       ]
     },
     {
-      "trip_id": "3_17547586",
+      "trip_id": "3_17721988",
       "direction_id": "1",
       "headsign": "BRZEZINA (pętla)",
       "service_id": "3",
@@ -2724,7 +2724,7 @@
       ]
     },
     {
-      "trip_id": "3_17547587",
+      "trip_id": "3_17721989",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "3",
@@ -2939,7 +2939,7 @@
       ]
     },
     {
-      "trip_id": "3_17547590",
+      "trip_id": "3_17721992",
       "direction_id": "1",
       "headsign": "BRZEZINA (pętla)",
       "service_id": "3",
@@ -3154,7 +3154,7 @@
       ]
     },
     {
-      "trip_id": "3_17547620",
+      "trip_id": "3_17722022",
       "direction_id": "1",
       "headsign": "WILKSZYN (Pętla)",
       "service_id": "3",
@@ -3297,7 +3297,7 @@
       ]
     },
     {
-      "trip_id": "3_17547621",
+      "trip_id": "3_17722023",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "3",
@@ -3440,7 +3440,7 @@
       ]
     },
     {
-      "trip_id": "3_17547656",
+      "trip_id": "3_17722058",
       "direction_id": "1",
       "headsign": "WILKSZYN (Pętla)",
       "service_id": "3",
@@ -3583,7 +3583,7 @@
       ]
     },
     {
-      "trip_id": "3_17547657",
+      "trip_id": "3_17722059",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "3",
@@ -3726,7 +3726,7 @@
       ]
     },
     {
-      "trip_id": "3_17547670",
+      "trip_id": "3_17722072",
       "direction_id": "1",
       "headsign": "BRZEZINA (pętla)",
       "service_id": "3",
@@ -3941,7 +3941,7 @@
       ]
     },
     {
-      "trip_id": "3_17547671",
+      "trip_id": "3_17722073",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "3",
@@ -4156,7 +4156,7 @@
       ]
     },
     {
-      "trip_id": "3_17547672",
+      "trip_id": "3_17722074",
       "direction_id": "1",
       "headsign": "WILKSZYN (Pętla)",
       "service_id": "3",
@@ -4299,7 +4299,7 @@
       ]
     },
     {
-      "trip_id": "3_17547673",
+      "trip_id": "3_17722075",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "3",
@@ -4442,7 +4442,7 @@
       ]
     },
     {
-      "trip_id": "4_17547728",
+      "trip_id": "4_17722130",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "4",
@@ -4657,7 +4657,7 @@
       ]
     },
     {
-      "trip_id": "4_17547729",
+      "trip_id": "4_17722131",
       "direction_id": "1",
       "headsign": "WILKSZYN (Pętla)",
       "service_id": "4",
@@ -4800,7 +4800,7 @@
       ]
     },
     {
-      "trip_id": "4_17547730",
+      "trip_id": "4_17722132",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "4",
@@ -4943,7 +4943,7 @@
       ]
     },
     {
-      "trip_id": "4_17547768",
+      "trip_id": "4_17722170",
       "direction_id": "1",
       "headsign": "BRZEZINA (pętla)",
       "service_id": "4",
@@ -5158,7 +5158,7 @@
       ]
     },
     {
-      "trip_id": "4_17547769",
+      "trip_id": "4_17722171",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "4",
@@ -5373,7 +5373,7 @@
       ]
     },
     {
-      "trip_id": "4_17547799",
+      "trip_id": "4_17722201",
       "direction_id": "1",
       "headsign": "BRZEZINA (pętla)",
       "service_id": "4",
@@ -5588,7 +5588,7 @@
       ]
     },
     {
-      "trip_id": "4_17547800",
+      "trip_id": "4_17722202",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "4",
@@ -5803,7 +5803,7 @@
       ]
     },
     {
-      "trip_id": "4_17547803",
+      "trip_id": "4_17722205",
       "direction_id": "1",
       "headsign": "BRZEZINA (pętla)",
       "service_id": "4",
@@ -6018,7 +6018,7 @@
       ]
     },
     {
-      "trip_id": "4_17547804",
+      "trip_id": "4_17722206",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "4",
@@ -6233,7 +6233,7 @@
       ]
     },
     {
-      "trip_id": "4_17547805",
+      "trip_id": "4_17722207",
       "direction_id": "1",
       "headsign": "WILKSZYN (Pętla)",
       "service_id": "4",
@@ -6376,7 +6376,7 @@
       ]
     },
     {
-      "trip_id": "4_17547806",
+      "trip_id": "4_17722208",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "4",
@@ -6519,7 +6519,7 @@
       ]
     },
     {
-      "trip_id": "4_17547807",
+      "trip_id": "4_17722209",
       "direction_id": "1",
       "headsign": "BRZEZINA (pętla)",
       "service_id": "4",
@@ -6734,7 +6734,7 @@
       ]
     },
     {
-      "trip_id": "4_17547808",
+      "trip_id": "4_17722210",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "4",
@@ -6949,7 +6949,7 @@
       ]
     },
     {
-      "trip_id": "4_17547811",
+      "trip_id": "4_17722213",
       "direction_id": "1",
       "headsign": "BRZEZINA (pętla)",
       "service_id": "4",
@@ -7164,7 +7164,7 @@
       ]
     },
     {
-      "trip_id": "4_17547812",
+      "trip_id": "4_17722214",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "4",
@@ -7379,7 +7379,7 @@
       ]
     },
     {
-      "trip_id": "4_17547815",
+      "trip_id": "4_17722217",
       "direction_id": "1",
       "headsign": "BRZEZINA (pętla)",
       "service_id": "4",
@@ -7594,7 +7594,7 @@
       ]
     },
     {
-      "trip_id": "4_17547844",
+      "trip_id": "4_17722246",
       "direction_id": "1",
       "headsign": "WILKSZYN (Pętla)",
       "service_id": "4",
@@ -7737,7 +7737,7 @@
       ]
     },
     {
-      "trip_id": "4_17547845",
+      "trip_id": "4_17722247",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "4",
@@ -7880,7 +7880,7 @@
       ]
     },
     {
-      "trip_id": "4_17547879",
+      "trip_id": "4_17722281",
       "direction_id": "1",
       "headsign": "WILKSZYN (Pętla)",
       "service_id": "4",
@@ -8023,7 +8023,7 @@
       ]
     },
     {
-      "trip_id": "4_17547880",
+      "trip_id": "4_17722282",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "4",
@@ -8166,7 +8166,7 @@
       ]
     },
     {
-      "trip_id": "4_17547889",
+      "trip_id": "4_17722291",
       "direction_id": "1",
       "headsign": "BRZEZINA (pętla)",
       "service_id": "4",
@@ -8381,7 +8381,7 @@
       ]
     },
     {
-      "trip_id": "4_17547890",
+      "trip_id": "4_17722292",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "4",
@@ -8596,7 +8596,7 @@
       ]
     },
     {
-      "trip_id": "4_17547891",
+      "trip_id": "4_17722293",
       "direction_id": "1",
       "headsign": "WILKSZYN (Pętla)",
       "service_id": "4",
@@ -8739,7 +8739,7 @@
       ]
     },
     {
-      "trip_id": "4_17547892",
+      "trip_id": "4_17722294",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "4",
@@ -8882,7 +8882,7 @@
       ]
     },
     {
-      "trip_id": "6_17449066",
+      "trip_id": "6_17722347",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "6",
@@ -9025,7 +9025,7 @@
       ]
     },
     {
-      "trip_id": "6_17449079",
+      "trip_id": "6_17722360",
       "direction_id": "1",
       "headsign": "WILKSZYN (Pętla)",
       "service_id": "6",
@@ -9168,7 +9168,7 @@
       ]
     },
     {
-      "trip_id": "6_17449080",
+      "trip_id": "6_17722361",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "6",
@@ -9311,7 +9311,7 @@
       ]
     },
     {
-      "trip_id": "6_17449085",
+      "trip_id": "6_17722366",
       "direction_id": "1",
       "headsign": "WILKSZYN (Pętla)",
       "service_id": "6",
@@ -9454,7 +9454,7 @@
       ]
     },
     {
-      "trip_id": "6_17449086",
+      "trip_id": "6_17722367",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "6",
@@ -9597,7 +9597,7 @@
       ]
     },
     {
-      "trip_id": "6_17449113",
+      "trip_id": "6_17722394",
       "direction_id": "1",
       "headsign": "BRZEZINA (pętla)",
       "service_id": "6",
@@ -9812,7 +9812,7 @@
       ]
     },
     {
-      "trip_id": "6_17449114",
+      "trip_id": "6_17722395",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "6",
@@ -10027,7 +10027,7 @@
       ]
     },
     {
-      "trip_id": "6_17449152",
+      "trip_id": "6_17722433",
       "direction_id": "1",
       "headsign": "WILKSZYN (Pętla)",
       "service_id": "6",
@@ -10170,7 +10170,7 @@
       ]
     },
     {
-      "trip_id": "6_17449153",
+      "trip_id": "6_17722434",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "6",
@@ -10313,7 +10313,7 @@
       ]
     },
     {
-      "trip_id": "6_17449165",
+      "trip_id": "6_17722446",
       "direction_id": "1",
       "headsign": "BRZEZINA (pętla)",
       "service_id": "6",
@@ -10528,7 +10528,7 @@
       ]
     },
     {
-      "trip_id": "6_17449166",
+      "trip_id": "6_17722447",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "6",
@@ -10743,7 +10743,7 @@
       ]
     },
     {
-      "trip_id": "6_17449186",
+      "trip_id": "6_17722467",
       "direction_id": "1",
       "headsign": "WILKSZYN (Pętla)",
       "service_id": "6",
@@ -10886,7 +10886,7 @@
       ]
     },
     {
-      "trip_id": "6_17449187",
+      "trip_id": "6_17722468",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "6",
@@ -11029,7 +11029,7 @@
       ]
     },
     {
-      "trip_id": "6_17449188",
+      "trip_id": "6_17722469",
       "direction_id": "1",
       "headsign": "WILKSZYN (Pętla)",
       "service_id": "6",
@@ -11172,7 +11172,7 @@
       ]
     },
     {
-      "trip_id": "6_17449189",
+      "trip_id": "6_17722470",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "6",
@@ -11315,7 +11315,7 @@
       ]
     },
     {
-      "trip_id": "6_17449190",
+      "trip_id": "6_17722471",
       "direction_id": "1",
       "headsign": "WILKSZYN (Pętla)",
       "service_id": "6",
@@ -11458,7 +11458,7 @@
       ]
     },
     {
-      "trip_id": "6_17449191",
+      "trip_id": "6_17722472",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "6",
@@ -11601,7 +11601,7 @@
       ]
     },
     {
-      "trip_id": "6_17449202",
+      "trip_id": "6_17722483",
       "direction_id": "1",
       "headsign": "BRZEZINA (pętla)",
       "service_id": "6",
@@ -11816,7 +11816,7 @@
       ]
     },
     {
-      "trip_id": "6_17449203",
+      "trip_id": "6_17722484",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "6",
@@ -12031,7 +12031,7 @@
       ]
     },
     {
-      "trip_id": "6_17449222",
+      "trip_id": "6_17722503",
       "direction_id": "1",
       "headsign": "WILKSZYN (Pętla)",
       "service_id": "6",
@@ -12174,7 +12174,7 @@
       ]
     },
     {
-      "trip_id": "6_17449223",
+      "trip_id": "6_17722504",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "6",
@@ -12317,7 +12317,7 @@
       ]
     },
     {
-      "trip_id": "6_17449224",
+      "trip_id": "6_17722505",
       "direction_id": "1",
       "headsign": "WILKSZYN (Pętla)",
       "service_id": "6",
@@ -12460,7 +12460,7 @@
       ]
     },
     {
-      "trip_id": "6_17449225",
+      "trip_id": "6_17722506",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "6",
@@ -12603,7 +12603,7 @@
       ]
     },
     {
-      "trip_id": "6_17449227",
+      "trip_id": "6_17722508",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "6",
@@ -12836,7 +12836,7 @@
       ]
     },
     {
-      "trip_id": "6_17449254",
+      "trip_id": "6_17722535",
       "direction_id": "1",
       "headsign": "WILKSZYN (Pętla)",
       "service_id": "6",
@@ -12979,7 +12979,7 @@
       ]
     },
     {
-      "trip_id": "6_17449255",
+      "trip_id": "6_17722536",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "6",
@@ -13122,7 +13122,7 @@
       ]
     },
     {
-      "trip_id": "6_17449256",
+      "trip_id": "6_17722537",
       "direction_id": "1",
       "headsign": "BRZEZINA (pętla)",
       "service_id": "6",
@@ -13337,7 +13337,7 @@
       ]
     },
     {
-      "trip_id": "6_17449300",
+      "trip_id": "6_17722581",
       "direction_id": "1",
       "headsign": "BRZEZINA (pętla)",
       "service_id": "6",
@@ -13552,7 +13552,7 @@
       ]
     },
     {
-      "trip_id": "6_17449301",
+      "trip_id": "6_17722582",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "6",
@@ -13767,7 +13767,7 @@
       ]
     },
     {
-      "trip_id": "6_17449308",
+      "trip_id": "6_17722589",
       "direction_id": "1",
       "headsign": "WILKSZYN (Pętla)",
       "service_id": "6",
@@ -13910,7 +13910,7 @@
       ]
     },
     {
-      "trip_id": "6_17449309",
+      "trip_id": "6_17722590",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "6",
@@ -14053,7 +14053,7 @@
       ]
     },
     {
-      "trip_id": "6_17449310",
+      "trip_id": "6_17722591",
       "direction_id": "1",
       "headsign": "WILKSZYN (Pętla)",
       "service_id": "6",
@@ -14196,7 +14196,7 @@
       ]
     },
     {
-      "trip_id": "6_17449311",
+      "trip_id": "6_17722592",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "6",
@@ -14339,7 +14339,7 @@
       ]
     },
     {
-      "trip_id": "6_17449329",
+      "trip_id": "6_17722610",
       "direction_id": "1",
       "headsign": "WILKSZYN (Pętla)",
       "service_id": "6",
@@ -14482,7 +14482,7 @@
       ]
     },
     {
-      "trip_id": "6_17449333",
+      "trip_id": "6_17722614",
       "direction_id": "1",
       "headsign": "BRZEZINA (pętla)",
       "service_id": "6",
@@ -14697,7 +14697,7 @@
       ]
     },
     {
-      "trip_id": "6_17449334",
+      "trip_id": "6_17722615",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "6",
@@ -14930,7 +14930,7 @@
       ]
     },
     {
-      "trip_id": "6_17449339",
+      "trip_id": "6_17722620",
       "direction_id": "1",
       "headsign": "WILKSZYN (Pętla)",
       "service_id": "6",
@@ -15073,7 +15073,7 @@
       ]
     },
     {
-      "trip_id": "6_17449340",
+      "trip_id": "6_17722621",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "6",
@@ -15216,7 +15216,7 @@
       ]
     },
     {
-      "trip_id": "6_17449348",
+      "trip_id": "6_17722629",
       "direction_id": "1",
       "headsign": "BRZEZINA (pętla)",
       "service_id": "6",
@@ -15431,7 +15431,7 @@
       ]
     },
     {
-      "trip_id": "6_17449349",
+      "trip_id": "6_17722630",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "6",
@@ -15646,7 +15646,7 @@
       ]
     },
     {
-      "trip_id": "6_17449352",
+      "trip_id": "6_17722633",
       "direction_id": "1",
       "headsign": "WILKSZYN (Pętla)",
       "service_id": "6",
@@ -15789,7 +15789,7 @@
       ]
     },
     {
-      "trip_id": "6_17449353",
+      "trip_id": "6_17722634",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "6",
@@ -15932,7 +15932,7 @@
       ]
     },
     {
-      "trip_id": "6_17449354",
+      "trip_id": "6_17722635",
       "direction_id": "1",
       "headsign": "BRZEZINA (pętla)",
       "service_id": "6",
@@ -16165,7 +16165,7 @@
       ]
     },
     {
-      "trip_id": "6_17449355",
+      "trip_id": "6_17722636",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "6",
@@ -16398,7 +16398,7 @@
       ]
     },
     {
-      "trip_id": "6_17449362",
+      "trip_id": "6_17722643",
       "direction_id": "1",
       "headsign": "WILKSZYN (Pętla)",
       "service_id": "6",
@@ -16541,7 +16541,7 @@
       ]
     },
     {
-      "trip_id": "6_17449363",
+      "trip_id": "6_17722644",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "6",
@@ -16684,7 +16684,7 @@
       ]
     },
     {
-      "trip_id": "6_17449381",
+      "trip_id": "6_17722662",
       "direction_id": "1",
       "headsign": "WILKSZYN (Pętla)",
       "service_id": "6",
@@ -16827,7 +16827,7 @@
       ]
     },
     {
-      "trip_id": "6_17449382",
+      "trip_id": "6_17722663",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "6",
@@ -16970,7 +16970,7 @@
       ]
     },
     {
-      "trip_id": "6_17449385",
+      "trip_id": "6_17722666",
       "direction_id": "1",
       "headsign": "WILKSZYN (Pętla)",
       "service_id": "6",
@@ -17113,7 +17113,7 @@
       ]
     },
     {
-      "trip_id": "6_17449386",
+      "trip_id": "6_17722667",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "6",
@@ -17256,7 +17256,7 @@
       ]
     },
     {
-      "trip_id": "6_17449389",
+      "trip_id": "6_17722670",
       "direction_id": "1",
       "headsign": "BRZEZINA (pętla)",
       "service_id": "6",
@@ -17489,7 +17489,7 @@
       ]
     },
     {
-      "trip_id": "6_17449390",
+      "trip_id": "6_17722671",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "6",
@@ -17704,7 +17704,7 @@
       ]
     },
     {
-      "trip_id": "6_17449399",
+      "trip_id": "6_17722680",
       "direction_id": "1",
       "headsign": "BRZEZINA (pętla)",
       "service_id": "6",
@@ -17919,7 +17919,7 @@
       ]
     },
     {
-      "trip_id": "6_17449400",
+      "trip_id": "6_17722681",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "6",
@@ -18152,7 +18152,7 @@
       ]
     },
     {
-      "trip_id": "6_17449401",
+      "trip_id": "6_17722682",
       "direction_id": "1",
       "headsign": "WILKSZYN (Pętla)",
       "service_id": "6",
@@ -18295,7 +18295,7 @@
       ]
     },
     {
-      "trip_id": "6_17449402",
+      "trip_id": "6_17722683",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "6",
@@ -18438,7 +18438,7 @@
       ]
     },
     {
-      "trip_id": "6_17449407",
+      "trip_id": "6_17722688",
       "direction_id": "1",
       "headsign": "BRZEZINA (pętla)",
       "service_id": "6",
@@ -18671,7 +18671,7 @@
       ]
     },
     {
-      "trip_id": "6_17449408",
+      "trip_id": "6_17722689",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "6",
@@ -18904,7 +18904,7 @@
       ]
     },
     {
-      "trip_id": "6_17449410",
+      "trip_id": "6_17722691",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "6",
@@ -19119,7 +19119,7 @@
       ]
     },
     {
-      "trip_id": "6_17449417",
+      "trip_id": "6_17722698",
       "direction_id": "1",
       "headsign": "BRZEZINA (pętla)",
       "service_id": "6",
@@ -19352,7 +19352,7 @@
       ]
     },
     {
-      "trip_id": "6_17449418",
+      "trip_id": "6_17722699",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "6",
@@ -19567,7 +19567,7 @@
       ]
     },
     {
-      "trip_id": "6_17449419",
+      "trip_id": "6_17722700",
       "direction_id": "1",
       "headsign": "BRZEZINA (pętla)",
       "service_id": "6",
@@ -19782,7 +19782,7 @@
       ]
     },
     {
-      "trip_id": "6_17449420",
+      "trip_id": "6_17722701",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "6",
@@ -20015,7 +20015,7 @@
       ]
     },
     {
-      "trip_id": "6_17449424",
+      "trip_id": "6_17722705",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "6",
@@ -20158,7 +20158,7 @@
       ]
     },
     {
-      "trip_id": "6_17449427",
+      "trip_id": "6_17722708",
       "direction_id": "1",
       "headsign": "BRZEZINA (pętla)",
       "service_id": "6",
@@ -20373,7 +20373,7 @@
       ]
     },
     {
-      "trip_id": "6_17449428",
+      "trip_id": "6_17722709",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "6",
@@ -20588,7 +20588,7 @@
       ]
     },
     {
-      "trip_id": "6_17449433",
+      "trip_id": "6_17722714",
       "direction_id": "1",
       "headsign": "BRZEZINA (pętla)",
       "service_id": "6",
@@ -20803,7 +20803,7 @@
       ]
     },
     {
-      "trip_id": "6_17449434",
+      "trip_id": "6_17722715",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "6",
@@ -21018,7 +21018,7 @@
       ]
     },
     {
-      "trip_id": "6_17449435",
+      "trip_id": "6_17722716",
       "direction_id": "1",
       "headsign": "WILKSZYN (Pętla)",
       "service_id": "6",
@@ -21161,7 +21161,7 @@
       ]
     },
     {
-      "trip_id": "6_17449436",
+      "trip_id": "6_17722717",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "6",
@@ -21304,7 +21304,7 @@
       ]
     },
     {
-      "trip_id": "8_17449448",
+      "trip_id": "8_17722729",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "8",
@@ -21447,7 +21447,7 @@
       ]
     },
     {
-      "trip_id": "8_17449461",
+      "trip_id": "8_17722742",
       "direction_id": "1",
       "headsign": "WILKSZYN (Pętla)",
       "service_id": "8",
@@ -21590,7 +21590,7 @@
       ]
     },
     {
-      "trip_id": "8_17449462",
+      "trip_id": "8_17722743",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "8",
@@ -21733,7 +21733,7 @@
       ]
     },
     {
-      "trip_id": "8_17449467",
+      "trip_id": "8_17722748",
       "direction_id": "1",
       "headsign": "WILKSZYN (Pętla)",
       "service_id": "8",
@@ -21876,7 +21876,7 @@
       ]
     },
     {
-      "trip_id": "8_17449468",
+      "trip_id": "8_17722749",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "8",
@@ -22019,7 +22019,7 @@
       ]
     },
     {
-      "trip_id": "8_17449495",
+      "trip_id": "8_17722776",
       "direction_id": "1",
       "headsign": "BRZEZINA (pętla)",
       "service_id": "8",
@@ -22234,7 +22234,7 @@
       ]
     },
     {
-      "trip_id": "8_17449496",
+      "trip_id": "8_17722777",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "8",
@@ -22449,7 +22449,7 @@
       ]
     },
     {
-      "trip_id": "8_17449534",
+      "trip_id": "8_17722815",
       "direction_id": "1",
       "headsign": "WILKSZYN (Pętla)",
       "service_id": "8",
@@ -22592,7 +22592,7 @@
       ]
     },
     {
-      "trip_id": "8_17449535",
+      "trip_id": "8_17722816",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "8",
@@ -22735,7 +22735,7 @@
       ]
     },
     {
-      "trip_id": "8_17449547",
+      "trip_id": "8_17722828",
       "direction_id": "1",
       "headsign": "BRZEZINA (pętla)",
       "service_id": "8",
@@ -22950,7 +22950,7 @@
       ]
     },
     {
-      "trip_id": "8_17449548",
+      "trip_id": "8_17722829",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "8",
@@ -23165,7 +23165,7 @@
       ]
     },
     {
-      "trip_id": "8_17449568",
+      "trip_id": "8_17722849",
       "direction_id": "1",
       "headsign": "WILKSZYN (Pętla)",
       "service_id": "8",
@@ -23308,7 +23308,7 @@
       ]
     },
     {
-      "trip_id": "8_17449569",
+      "trip_id": "8_17722850",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "8",
@@ -23451,7 +23451,7 @@
       ]
     },
     {
-      "trip_id": "8_17449570",
+      "trip_id": "8_17722851",
       "direction_id": "1",
       "headsign": "WILKSZYN (Pętla)",
       "service_id": "8",
@@ -23594,7 +23594,7 @@
       ]
     },
     {
-      "trip_id": "8_17449571",
+      "trip_id": "8_17722852",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "8",
@@ -23737,7 +23737,7 @@
       ]
     },
     {
-      "trip_id": "8_17449572",
+      "trip_id": "8_17722853",
       "direction_id": "1",
       "headsign": "WILKSZYN (Pętla)",
       "service_id": "8",
@@ -23880,7 +23880,7 @@
       ]
     },
     {
-      "trip_id": "8_17449573",
+      "trip_id": "8_17722854",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "8",
@@ -24023,7 +24023,7 @@
       ]
     },
     {
-      "trip_id": "8_17449584",
+      "trip_id": "8_17722865",
       "direction_id": "1",
       "headsign": "BRZEZINA (pętla)",
       "service_id": "8",
@@ -24238,7 +24238,7 @@
       ]
     },
     {
-      "trip_id": "8_17449585",
+      "trip_id": "8_17722866",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "8",
@@ -24453,7 +24453,7 @@
       ]
     },
     {
-      "trip_id": "8_17449604",
+      "trip_id": "8_17722885",
       "direction_id": "1",
       "headsign": "WILKSZYN (Pętla)",
       "service_id": "8",
@@ -24596,7 +24596,7 @@
       ]
     },
     {
-      "trip_id": "8_17449605",
+      "trip_id": "8_17722886",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "8",
@@ -24739,7 +24739,7 @@
       ]
     },
     {
-      "trip_id": "8_17449606",
+      "trip_id": "8_17722887",
       "direction_id": "1",
       "headsign": "WILKSZYN (Pętla)",
       "service_id": "8",
@@ -24882,7 +24882,7 @@
       ]
     },
     {
-      "trip_id": "8_17449607",
+      "trip_id": "8_17722888",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "8",
@@ -25025,7 +25025,7 @@
       ]
     },
     {
-      "trip_id": "8_17449609",
+      "trip_id": "8_17722890",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "8",
@@ -25258,7 +25258,7 @@
       ]
     },
     {
-      "trip_id": "8_17449636",
+      "trip_id": "8_17722917",
       "direction_id": "1",
       "headsign": "WILKSZYN (Pętla)",
       "service_id": "8",
@@ -25401,7 +25401,7 @@
       ]
     },
     {
-      "trip_id": "8_17449637",
+      "trip_id": "8_17722918",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "8",
@@ -25544,7 +25544,7 @@
       ]
     },
     {
-      "trip_id": "8_17449638",
+      "trip_id": "8_17722919",
       "direction_id": "1",
       "headsign": "BRZEZINA (pętla)",
       "service_id": "8",
@@ -25759,7 +25759,7 @@
       ]
     },
     {
-      "trip_id": "8_17449682",
+      "trip_id": "8_17722963",
       "direction_id": "1",
       "headsign": "BRZEZINA (pętla)",
       "service_id": "8",
@@ -25974,7 +25974,7 @@
       ]
     },
     {
-      "trip_id": "8_17449683",
+      "trip_id": "8_17722964",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "8",
@@ -26189,7 +26189,7 @@
       ]
     },
     {
-      "trip_id": "8_17449690",
+      "trip_id": "8_17722971",
       "direction_id": "1",
       "headsign": "WILKSZYN (Pętla)",
       "service_id": "8",
@@ -26332,7 +26332,7 @@
       ]
     },
     {
-      "trip_id": "8_17449691",
+      "trip_id": "8_17722972",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "8",
@@ -26475,7 +26475,7 @@
       ]
     },
     {
-      "trip_id": "8_17449692",
+      "trip_id": "8_17722973",
       "direction_id": "1",
       "headsign": "WILKSZYN (Pętla)",
       "service_id": "8",
@@ -26618,7 +26618,7 @@
       ]
     },
     {
-      "trip_id": "8_17449693",
+      "trip_id": "8_17722974",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "8",
@@ -26761,7 +26761,7 @@
       ]
     },
     {
-      "trip_id": "8_17449711",
+      "trip_id": "8_17722992",
       "direction_id": "1",
       "headsign": "WILKSZYN (Pętla)",
       "service_id": "8",
@@ -26904,7 +26904,7 @@
       ]
     },
     {
-      "trip_id": "8_17449715",
+      "trip_id": "8_17722996",
       "direction_id": "1",
       "headsign": "BRZEZINA (pętla)",
       "service_id": "8",
@@ -27119,7 +27119,7 @@
       ]
     },
     {
-      "trip_id": "8_17449716",
+      "trip_id": "8_17722997",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "8",
@@ -27352,7 +27352,7 @@
       ]
     },
     {
-      "trip_id": "8_17449721",
+      "trip_id": "8_17723002",
       "direction_id": "1",
       "headsign": "WILKSZYN (Pętla)",
       "service_id": "8",
@@ -27495,7 +27495,7 @@
       ]
     },
     {
-      "trip_id": "8_17449722",
+      "trip_id": "8_17723003",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "8",
@@ -27638,7 +27638,7 @@
       ]
     },
     {
-      "trip_id": "8_17449730",
+      "trip_id": "8_17723011",
       "direction_id": "1",
       "headsign": "BRZEZINA (pętla)",
       "service_id": "8",
@@ -27853,7 +27853,7 @@
       ]
     },
     {
-      "trip_id": "8_17449731",
+      "trip_id": "8_17723012",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "8",
@@ -28068,7 +28068,7 @@
       ]
     },
     {
-      "trip_id": "8_17449734",
+      "trip_id": "8_17723015",
       "direction_id": "1",
       "headsign": "WILKSZYN (Pętla)",
       "service_id": "8",
@@ -28211,7 +28211,7 @@
       ]
     },
     {
-      "trip_id": "8_17449735",
+      "trip_id": "8_17723016",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "8",
@@ -28354,7 +28354,7 @@
       ]
     },
     {
-      "trip_id": "8_17449736",
+      "trip_id": "8_17723017",
       "direction_id": "1",
       "headsign": "BRZEZINA (pętla)",
       "service_id": "8",
@@ -28587,7 +28587,7 @@
       ]
     },
     {
-      "trip_id": "8_17449737",
+      "trip_id": "8_17723018",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "8",
@@ -28820,7 +28820,7 @@
       ]
     },
     {
-      "trip_id": "8_17449744",
+      "trip_id": "8_17723025",
       "direction_id": "1",
       "headsign": "WILKSZYN (Pętla)",
       "service_id": "8",
@@ -28963,7 +28963,7 @@
       ]
     },
     {
-      "trip_id": "8_17449745",
+      "trip_id": "8_17723026",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "8",
@@ -29106,7 +29106,7 @@
       ]
     },
     {
-      "trip_id": "8_17449763",
+      "trip_id": "8_17723044",
       "direction_id": "1",
       "headsign": "WILKSZYN (Pętla)",
       "service_id": "8",
@@ -29249,7 +29249,7 @@
       ]
     },
     {
-      "trip_id": "8_17449764",
+      "trip_id": "8_17723045",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "8",
@@ -29392,7 +29392,7 @@
       ]
     },
     {
-      "trip_id": "8_17449767",
+      "trip_id": "8_17723048",
       "direction_id": "1",
       "headsign": "WILKSZYN (Pętla)",
       "service_id": "8",
@@ -29535,7 +29535,7 @@
       ]
     },
     {
-      "trip_id": "8_17449768",
+      "trip_id": "8_17723049",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "8",
@@ -29678,7 +29678,7 @@
       ]
     },
     {
-      "trip_id": "8_17449771",
+      "trip_id": "8_17723052",
       "direction_id": "1",
       "headsign": "BRZEZINA (pętla)",
       "service_id": "8",
@@ -29911,7 +29911,7 @@
       ]
     },
     {
-      "trip_id": "8_17449772",
+      "trip_id": "8_17723053",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "8",
@@ -30126,7 +30126,7 @@
       ]
     },
     {
-      "trip_id": "8_17449781",
+      "trip_id": "8_17723062",
       "direction_id": "1",
       "headsign": "BRZEZINA (pętla)",
       "service_id": "8",
@@ -30341,7 +30341,7 @@
       ]
     },
     {
-      "trip_id": "8_17449782",
+      "trip_id": "8_17723063",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "8",
@@ -30574,7 +30574,7 @@
       ]
     },
     {
-      "trip_id": "8_17449783",
+      "trip_id": "8_17723064",
       "direction_id": "1",
       "headsign": "WILKSZYN (Pętla)",
       "service_id": "8",
@@ -30717,7 +30717,7 @@
       ]
     },
     {
-      "trip_id": "8_17449784",
+      "trip_id": "8_17723065",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "8",
@@ -30860,7 +30860,7 @@
       ]
     },
     {
-      "trip_id": "8_17449789",
+      "trip_id": "8_17723070",
       "direction_id": "1",
       "headsign": "BRZEZINA (pętla)",
       "service_id": "8",
@@ -31093,7 +31093,7 @@
       ]
     },
     {
-      "trip_id": "8_17449790",
+      "trip_id": "8_17723071",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "8",
@@ -31326,7 +31326,7 @@
       ]
     },
     {
-      "trip_id": "8_17449792",
+      "trip_id": "8_17723073",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "8",
@@ -31541,7 +31541,7 @@
       ]
     },
     {
-      "trip_id": "8_17449799",
+      "trip_id": "8_17723080",
       "direction_id": "1",
       "headsign": "BRZEZINA (pętla)",
       "service_id": "8",
@@ -31774,7 +31774,7 @@
       ]
     },
     {
-      "trip_id": "8_17449800",
+      "trip_id": "8_17723081",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "8",
@@ -31989,7 +31989,7 @@
       ]
     },
     {
-      "trip_id": "8_17449801",
+      "trip_id": "8_17723082",
       "direction_id": "1",
       "headsign": "BRZEZINA (pętla)",
       "service_id": "8",
@@ -32204,7 +32204,7 @@
       ]
     },
     {
-      "trip_id": "8_17449802",
+      "trip_id": "8_17723083",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "8",
@@ -32437,7 +32437,7 @@
       ]
     },
     {
-      "trip_id": "8_17449806",
+      "trip_id": "8_17723087",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "8",
@@ -32580,7 +32580,7 @@
       ]
     },
     {
-      "trip_id": "8_17449809",
+      "trip_id": "8_17723090",
       "direction_id": "1",
       "headsign": "BRZEZINA (pętla)",
       "service_id": "8",
@@ -32795,7 +32795,7 @@
       ]
     },
     {
-      "trip_id": "8_17449810",
+      "trip_id": "8_17723091",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "8",
@@ -33010,7 +33010,7 @@
       ]
     },
     {
-      "trip_id": "8_17449815",
+      "trip_id": "8_17723096",
       "direction_id": "1",
       "headsign": "BRZEZINA (pętla)",
       "service_id": "8",
@@ -33225,7 +33225,7 @@
       ]
     },
     {
-      "trip_id": "8_17449816",
+      "trip_id": "8_17723097",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "8",
@@ -33440,7 +33440,7 @@
       ]
     },
     {
-      "trip_id": "8_17449817",
+      "trip_id": "8_17723098",
       "direction_id": "1",
       "headsign": "WILKSZYN (Pętla)",
       "service_id": "8",
@@ -33583,7 +33583,7 @@
       ]
     },
     {
-      "trip_id": "8_17449818",
+      "trip_id": "8_17723099",
       "direction_id": "0",
       "headsign": "LEŚNICA",
       "service_id": "8",

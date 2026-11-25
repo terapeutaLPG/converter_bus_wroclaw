@@ -2,7 +2,7 @@
   "line": "246",
   "trips": [
     {
-      "trip_id": "3_17598876",
+      "trip_id": "3_17702889",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "3",
@@ -46,7 +46,7 @@
         {
           "stop_sequence": 4,
           "stop_id": "546",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 05",
           "arrival_time": "27:43:00",
           "departure_time": "27:43:00",
           "lat": 51.10740171,
@@ -190,7 +190,7 @@
       ]
     },
     {
-      "trip_id": "3_17598951",
+      "trip_id": "3_17702964",
       "direction_id": "1",
       "headsign": "KOZANÓW",
       "service_id": "3",
@@ -315,7 +315,7 @@
       ]
     },
     {
-      "trip_id": "3_17598952",
+      "trip_id": "3_17702965",
       "direction_id": "0",
       "headsign": "PETRUSEWICZA",
       "service_id": "3",
@@ -593,7 +593,7 @@
       ]
     },
     {
-      "trip_id": "3_17599028",
+      "trip_id": "3_17703041",
       "direction_id": "0",
       "headsign": "SOŁTYSOWICE",
       "service_id": "3",
@@ -637,7 +637,7 @@
         {
           "stop_sequence": 4,
           "stop_id": "546",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 05",
           "arrival_time": "23:38:00",
           "departure_time": "23:38:00",
           "lat": 51.10740171,
@@ -799,7 +799,7 @@
       ]
     },
     {
-      "trip_id": "3_17599029",
+      "trip_id": "3_17703042",
       "direction_id": "1",
       "headsign": "KOZANÓW",
       "service_id": "3",
@@ -969,7 +969,7 @@
         {
           "stop_sequence": 18,
           "stop_id": "1330",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 03",
           "arrival_time": "24:46:00",
           "departure_time": "24:46:00",
           "lat": 51.10670852,
@@ -1302,7 +1302,7 @@
       ]
     },
     {
-      "trip_id": "3_17599030",
+      "trip_id": "3_17703043",
       "direction_id": "0",
       "headsign": "SOŁTYSOWICE",
       "service_id": "3",
@@ -1607,7 +1607,7 @@
         {
           "stop_sequence": 33,
           "stop_id": "546",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 05",
           "arrival_time": "26:38:00",
           "departure_time": "26:38:00",
           "lat": 51.10740171,
@@ -1769,7 +1769,7 @@
       ]
     },
     {
-      "trip_id": "3_17599031",
+      "trip_id": "3_17703044",
       "direction_id": "1",
       "headsign": "KOZANÓW",
       "service_id": "3",
@@ -1939,7 +1939,7 @@
         {
           "stop_sequence": 18,
           "stop_id": "1330",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 03",
           "arrival_time": "27:46:00",
           "departure_time": "27:46:00",
           "lat": 51.10670852,
@@ -2272,7 +2272,7 @@
       ]
     },
     {
-      "trip_id": "3_17599032",
+      "trip_id": "3_17703045",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "3",
@@ -2361,7 +2361,7 @@
       ]
     },
     {
-      "trip_id": "3_17599036",
+      "trip_id": "3_17703049",
       "direction_id": "0",
       "headsign": "SOŁTYSOWICE",
       "service_id": "3",
@@ -2666,7 +2666,7 @@
         {
           "stop_sequence": 33,
           "stop_id": "546",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 05",
           "arrival_time": "24:38:00",
           "departure_time": "24:38:00",
           "lat": 51.10740171,
@@ -2828,7 +2828,7 @@
       ]
     },
     {
-      "trip_id": "3_17599037",
+      "trip_id": "3_17703050",
       "direction_id": "1",
       "headsign": "KOZANÓW",
       "service_id": "3",
@@ -2998,7 +2998,7 @@
         {
           "stop_sequence": 18,
           "stop_id": "1330",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 03",
           "arrival_time": "25:46:00",
           "departure_time": "25:46:00",
           "lat": 51.10670852,
@@ -3331,7 +3331,7 @@
       ]
     },
     {
-      "trip_id": "3_17599038",
+      "trip_id": "3_17703051",
       "direction_id": "0",
       "headsign": "SOŁTYSOWICE",
       "service_id": "3",
@@ -3636,7 +3636,7 @@
         {
           "stop_sequence": 33,
           "stop_id": "546",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 05",
           "arrival_time": "27:38:00",
           "departure_time": "27:38:00",
           "lat": 51.10740171,
@@ -3798,7 +3798,7 @@
       ]
     },
     {
-      "trip_id": "3_17599039",
+      "trip_id": "3_17703052",
       "direction_id": "1",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "3",
@@ -3959,7 +3959,7 @@
       ]
     },
     {
-      "trip_id": "3_17599043",
+      "trip_id": "3_17703056",
       "direction_id": "1",
       "headsign": "KOZANÓW",
       "service_id": "3",
@@ -4129,7 +4129,7 @@
         {
           "stop_sequence": 18,
           "stop_id": "1330",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 03",
           "arrival_time": "23:46:00",
           "departure_time": "23:46:00",
           "lat": 51.10670852,
@@ -4462,7 +4462,7 @@
       ]
     },
     {
-      "trip_id": "3_17599044",
+      "trip_id": "3_17703057",
       "direction_id": "0",
       "headsign": "SOŁTYSOWICE",
       "service_id": "3",
@@ -4767,7 +4767,7 @@
         {
           "stop_sequence": 33,
           "stop_id": "546",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 05",
           "arrival_time": "25:38:00",
           "departure_time": "25:38:00",
           "lat": 51.10740171,
@@ -4929,7 +4929,7 @@
       ]
     },
     {
-      "trip_id": "3_17599045",
+      "trip_id": "3_17703058",
       "direction_id": "1",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "3",
@@ -5090,7 +5090,7 @@
       ]
     },
     {
-      "trip_id": "3_17599050",
+      "trip_id": "3_17703063",
       "direction_id": "0",
       "headsign": "SOŁTYSOWICE",
       "service_id": "3",
@@ -5134,7 +5134,7 @@
         {
           "stop_sequence": 4,
           "stop_id": "546",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 05",
           "arrival_time": "25:08:00",
           "departure_time": "25:08:00",
           "lat": 51.10740171,
@@ -5296,7 +5296,7 @@
       ]
     },
     {
-      "trip_id": "3_17599051",
+      "trip_id": "3_17703064",
       "direction_id": "1",
       "headsign": "KOZANÓW",
       "service_id": "3",
@@ -5466,7 +5466,7 @@
         {
           "stop_sequence": 18,
           "stop_id": "1330",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 03",
           "arrival_time": "26:46:00",
           "departure_time": "26:46:00",
           "lat": 51.10670852,
@@ -5799,7 +5799,7 @@
       ]
     },
     {
-      "trip_id": "3_17599052",
+      "trip_id": "3_17703065",
       "direction_id": "0",
       "headsign": "PETRUSEWICZA",
       "service_id": "3",
@@ -6077,7 +6077,7 @@
       ]
     },
     {
-      "trip_id": "3_17599053",
+      "trip_id": "3_17703066",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "3",
@@ -6121,7 +6121,7 @@
         {
           "stop_sequence": 4,
           "stop_id": "546",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 05",
           "arrival_time": "28:38:00",
           "departure_time": "28:38:00",
           "lat": 51.10740171,
@@ -6265,7 +6265,7 @@
       ]
     },
     {
-      "trip_id": "3_17599120",
+      "trip_id": "3_17703133",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "3",
@@ -6309,7 +6309,7 @@
         {
           "stop_sequence": 4,
           "stop_id": "546",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 05",
           "arrival_time": "29:40:00",
           "departure_time": "29:40:00",
           "lat": 51.10740171,
@@ -6453,7 +6453,7 @@
       ]
     },
     {
-      "trip_id": "3_17599127",
+      "trip_id": "3_17703140",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "3",
@@ -6497,7 +6497,7 @@
         {
           "stop_sequence": 4,
           "stop_id": "546",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 05",
           "arrival_time": "29:08:00",
           "departure_time": "29:08:00",
           "lat": 51.10740171,
@@ -6641,7 +6641,7 @@
       ]
     },
     {
-      "trip_id": "3_17599171",
+      "trip_id": "3_17703184",
       "direction_id": "1",
       "headsign": "KOZANÓW",
       "service_id": "3",
@@ -6928,7 +6928,7 @@
       ]
     },
     {
-      "trip_id": "3_17599172",
+      "trip_id": "3_17703185",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "3",
@@ -7017,7 +7017,7 @@
       ]
     },
     {
-      "trip_id": "4_17603288",
+      "trip_id": "4_17707301",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "4",
@@ -7061,7 +7061,7 @@
         {
           "stop_sequence": 4,
           "stop_id": "546",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 05",
           "arrival_time": "27:43:00",
           "departure_time": "27:43:00",
           "lat": 51.10740171,
@@ -7205,7 +7205,7 @@
       ]
     },
     {
-      "trip_id": "4_17603362",
+      "trip_id": "4_17707375",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "4",
@@ -7249,7 +7249,7 @@
         {
           "stop_sequence": 4,
           "stop_id": "546",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 05",
           "arrival_time": "29:28:00",
           "departure_time": "29:28:00",
           "lat": 51.10740171,
@@ -7393,7 +7393,7 @@
       ]
     },
     {
-      "trip_id": "4_17603363",
+      "trip_id": "4_17707376",
       "direction_id": "1",
       "headsign": "KOZANÓW",
       "service_id": "4",
@@ -7518,7 +7518,7 @@
       ]
     },
     {
-      "trip_id": "4_17603364",
+      "trip_id": "4_17707377",
       "direction_id": "0",
       "headsign": "PETRUSEWICZA",
       "service_id": "4",
@@ -7796,7 +7796,7 @@
       ]
     },
     {
-      "trip_id": "4_17603440",
+      "trip_id": "4_17707453",
       "direction_id": "0",
       "headsign": "SOŁTYSOWICE",
       "service_id": "4",
@@ -7840,7 +7840,7 @@
         {
           "stop_sequence": 4,
           "stop_id": "546",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 05",
           "arrival_time": "23:38:00",
           "departure_time": "23:38:00",
           "lat": 51.10740171,
@@ -8002,7 +8002,7 @@
       ]
     },
     {
-      "trip_id": "4_17603441",
+      "trip_id": "4_17707454",
       "direction_id": "1",
       "headsign": "KOZANÓW",
       "service_id": "4",
@@ -8172,7 +8172,7 @@
         {
           "stop_sequence": 18,
           "stop_id": "1330",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 03",
           "arrival_time": "24:46:00",
           "departure_time": "24:46:00",
           "lat": 51.10670852,
@@ -8505,7 +8505,7 @@
       ]
     },
     {
-      "trip_id": "4_17603442",
+      "trip_id": "4_17707455",
       "direction_id": "0",
       "headsign": "SOŁTYSOWICE",
       "service_id": "4",
@@ -8810,7 +8810,7 @@
         {
           "stop_sequence": 33,
           "stop_id": "546",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 05",
           "arrival_time": "26:38:00",
           "departure_time": "26:38:00",
           "lat": 51.10740171,
@@ -8972,7 +8972,7 @@
       ]
     },
     {
-      "trip_id": "4_17603443",
+      "trip_id": "4_17707456",
       "direction_id": "1",
       "headsign": "KOZANÓW",
       "service_id": "4",
@@ -9142,7 +9142,7 @@
         {
           "stop_sequence": 18,
           "stop_id": "1330",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 03",
           "arrival_time": "27:46:00",
           "departure_time": "27:46:00",
           "lat": 51.10670852,
@@ -9475,7 +9475,7 @@
       ]
     },
     {
-      "trip_id": "4_17603444",
+      "trip_id": "4_17707457",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "4",
@@ -9564,7 +9564,7 @@
       ]
     },
     {
-      "trip_id": "4_17603448",
+      "trip_id": "4_17707461",
       "direction_id": "0",
       "headsign": "SOŁTYSOWICE",
       "service_id": "4",
@@ -9869,7 +9869,7 @@
         {
           "stop_sequence": 33,
           "stop_id": "546",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 05",
           "arrival_time": "24:38:00",
           "departure_time": "24:38:00",
           "lat": 51.10740171,
@@ -10031,7 +10031,7 @@
       ]
     },
     {
-      "trip_id": "4_17603449",
+      "trip_id": "4_17707462",
       "direction_id": "1",
       "headsign": "KOZANÓW",
       "service_id": "4",
@@ -10201,7 +10201,7 @@
         {
           "stop_sequence": 18,
           "stop_id": "1330",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 03",
           "arrival_time": "25:46:00",
           "departure_time": "25:46:00",
           "lat": 51.10670852,
@@ -10534,7 +10534,7 @@
       ]
     },
     {
-      "trip_id": "4_17603450",
+      "trip_id": "4_17707463",
       "direction_id": "0",
       "headsign": "SOŁTYSOWICE",
       "service_id": "4",
@@ -10839,7 +10839,7 @@
         {
           "stop_sequence": 33,
           "stop_id": "546",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 05",
           "arrival_time": "27:38:00",
           "departure_time": "27:38:00",
           "lat": 51.10740171,
@@ -11001,7 +11001,7 @@
       ]
     },
     {
-      "trip_id": "4_17603451",
+      "trip_id": "4_17707464",
       "direction_id": "1",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "4",
@@ -11162,7 +11162,7 @@
       ]
     },
     {
-      "trip_id": "4_17603455",
+      "trip_id": "4_17707468",
       "direction_id": "1",
       "headsign": "KOZANÓW",
       "service_id": "4",
@@ -11332,7 +11332,7 @@
         {
           "stop_sequence": 18,
           "stop_id": "1330",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 03",
           "arrival_time": "23:46:00",
           "departure_time": "23:46:00",
           "lat": 51.10670852,
@@ -11665,7 +11665,7 @@
       ]
     },
     {
-      "trip_id": "4_17603456",
+      "trip_id": "4_17707469",
       "direction_id": "0",
       "headsign": "SOŁTYSOWICE",
       "service_id": "4",
@@ -11970,7 +11970,7 @@
         {
           "stop_sequence": 33,
           "stop_id": "546",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 05",
           "arrival_time": "25:38:00",
           "departure_time": "25:38:00",
           "lat": 51.10740171,
@@ -12132,7 +12132,7 @@
       ]
     },
     {
-      "trip_id": "4_17603457",
+      "trip_id": "4_17707470",
       "direction_id": "1",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "4",
@@ -12293,7 +12293,7 @@
       ]
     },
     {
-      "trip_id": "4_17603462",
+      "trip_id": "4_17707475",
       "direction_id": "0",
       "headsign": "SOŁTYSOWICE",
       "service_id": "4",
@@ -12337,7 +12337,7 @@
         {
           "stop_sequence": 4,
           "stop_id": "546",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 05",
           "arrival_time": "25:08:00",
           "departure_time": "25:08:00",
           "lat": 51.10740171,
@@ -12499,7 +12499,7 @@
       ]
     },
     {
-      "trip_id": "4_17603463",
+      "trip_id": "4_17707476",
       "direction_id": "1",
       "headsign": "KOZANÓW",
       "service_id": "4",
@@ -12669,7 +12669,7 @@
         {
           "stop_sequence": 18,
           "stop_id": "1330",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 03",
           "arrival_time": "26:46:00",
           "departure_time": "26:46:00",
           "lat": 51.10670852,
@@ -13002,7 +13002,7 @@
       ]
     },
     {
-      "trip_id": "4_17603464",
+      "trip_id": "4_17707477",
       "direction_id": "0",
       "headsign": "PETRUSEWICZA",
       "service_id": "4",
@@ -13280,7 +13280,7 @@
       ]
     },
     {
-      "trip_id": "4_17603465",
+      "trip_id": "4_17707478",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "4",
@@ -13324,7 +13324,7 @@
         {
           "stop_sequence": 4,
           "stop_id": "546",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 05",
           "arrival_time": "28:38:00",
           "departure_time": "28:38:00",
           "lat": 51.10740171,
@@ -13468,7 +13468,7 @@
       ]
     },
     {
-      "trip_id": "4_17603535",
+      "trip_id": "4_17707548",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "4",
@@ -13512,7 +13512,7 @@
         {
           "stop_sequence": 4,
           "stop_id": "546",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 05",
           "arrival_time": "29:08:00",
           "departure_time": "29:08:00",
           "lat": 51.10740171,
@@ -13656,7 +13656,7 @@
       ]
     },
     {
-      "trip_id": "4_17603578",
+      "trip_id": "4_17707591",
       "direction_id": "1",
       "headsign": "KOZANÓW",
       "service_id": "4",
@@ -13943,7 +13943,7 @@
       ]
     },
     {
-      "trip_id": "4_17603579",
+      "trip_id": "4_17707592",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "4",
@@ -14032,7 +14032,7 @@
       ]
     },
     {
-      "trip_id": "6_17606774",
+      "trip_id": "6_17710787",
       "direction_id": "0",
       "headsign": "SOŁTYSOWICE",
       "service_id": "6",
@@ -14337,7 +14337,7 @@
         {
           "stop_sequence": 33,
           "stop_id": "546",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 05",
           "arrival_time": "24:38:00",
           "departure_time": "24:38:00",
           "lat": 51.10740171,
@@ -14499,7 +14499,7 @@
       ]
     },
     {
-      "trip_id": "6_17606775",
+      "trip_id": "6_17710788",
       "direction_id": "1",
       "headsign": "KOZANÓW",
       "service_id": "6",
@@ -14669,7 +14669,7 @@
         {
           "stop_sequence": 18,
           "stop_id": "1330",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 03",
           "arrival_time": "25:46:00",
           "departure_time": "25:46:00",
           "lat": 51.10670852,
@@ -15002,7 +15002,7 @@
       ]
     },
     {
-      "trip_id": "6_17606776",
+      "trip_id": "6_17710789",
       "direction_id": "0",
       "headsign": "SOŁTYSOWICE",
       "service_id": "6",
@@ -15307,7 +15307,7 @@
         {
           "stop_sequence": 33,
           "stop_id": "546",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 05",
           "arrival_time": "27:38:00",
           "departure_time": "27:38:00",
           "lat": 51.10740171,
@@ -15469,7 +15469,7 @@
       ]
     },
     {
-      "trip_id": "6_17606777",
+      "trip_id": "6_17710790",
       "direction_id": "1",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "6",
@@ -15630,7 +15630,7 @@
       ]
     },
     {
-      "trip_id": "6_17609487",
+      "trip_id": "6_17713500",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "6",
@@ -15674,7 +15674,7 @@
         {
           "stop_sequence": 4,
           "stop_id": "546",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 05",
           "arrival_time": "27:43:00",
           "departure_time": "27:43:00",
           "lat": 51.10740171,
@@ -15818,7 +15818,7 @@
       ]
     },
     {
-      "trip_id": "6_17609561",
+      "trip_id": "6_17713574",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "6",
@@ -15862,7 +15862,7 @@
         {
           "stop_sequence": 4,
           "stop_id": "546",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 05",
           "arrival_time": "29:28:00",
           "departure_time": "29:28:00",
           "lat": 51.10740171,
@@ -16006,7 +16006,7 @@
       ]
     },
     {
-      "trip_id": "6_17609562",
+      "trip_id": "6_17713575",
       "direction_id": "1",
       "headsign": "KOZANÓW",
       "service_id": "6",
@@ -16131,7 +16131,7 @@
       ]
     },
     {
-      "trip_id": "6_17609563",
+      "trip_id": "6_17713576",
       "direction_id": "0",
       "headsign": "PETRUSEWICZA",
       "service_id": "6",
@@ -16409,7 +16409,7 @@
       ]
     },
     {
-      "trip_id": "6_17609639",
+      "trip_id": "6_17713652",
       "direction_id": "0",
       "headsign": "SOŁTYSOWICE",
       "service_id": "6",
@@ -16453,7 +16453,7 @@
         {
           "stop_sequence": 4,
           "stop_id": "546",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 05",
           "arrival_time": "23:38:00",
           "departure_time": "23:38:00",
           "lat": 51.10740171,
@@ -16615,7 +16615,7 @@
       ]
     },
     {
-      "trip_id": "6_17609640",
+      "trip_id": "6_17713653",
       "direction_id": "1",
       "headsign": "KOZANÓW",
       "service_id": "6",
@@ -16785,7 +16785,7 @@
         {
           "stop_sequence": 18,
           "stop_id": "1330",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 03",
           "arrival_time": "24:46:00",
           "departure_time": "24:46:00",
           "lat": 51.10670852,
@@ -17118,7 +17118,7 @@
       ]
     },
     {
-      "trip_id": "6_17609641",
+      "trip_id": "6_17713654",
       "direction_id": "0",
       "headsign": "SOŁTYSOWICE",
       "service_id": "6",
@@ -17423,7 +17423,7 @@
         {
           "stop_sequence": 33,
           "stop_id": "546",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 05",
           "arrival_time": "26:38:00",
           "departure_time": "26:38:00",
           "lat": 51.10740171,
@@ -17585,7 +17585,7 @@
       ]
     },
     {
-      "trip_id": "6_17609642",
+      "trip_id": "6_17713655",
       "direction_id": "1",
       "headsign": "KOZANÓW",
       "service_id": "6",
@@ -17755,7 +17755,7 @@
         {
           "stop_sequence": 18,
           "stop_id": "1330",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 03",
           "arrival_time": "27:46:00",
           "departure_time": "27:46:00",
           "lat": 51.10670852,
@@ -18088,7 +18088,7 @@
       ]
     },
     {
-      "trip_id": "6_17609643",
+      "trip_id": "6_17713656",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "6",
@@ -18177,7 +18177,7 @@
       ]
     },
     {
-      "trip_id": "6_17609647",
+      "trip_id": "6_17713660",
       "direction_id": "1",
       "headsign": "KOZANÓW",
       "service_id": "6",
@@ -18347,7 +18347,7 @@
         {
           "stop_sequence": 18,
           "stop_id": "1330",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 03",
           "arrival_time": "23:46:00",
           "departure_time": "23:46:00",
           "lat": 51.10670852,
@@ -18680,7 +18680,7 @@
       ]
     },
     {
-      "trip_id": "6_17609648",
+      "trip_id": "6_17713661",
       "direction_id": "0",
       "headsign": "SOŁTYSOWICE",
       "service_id": "6",
@@ -18985,7 +18985,7 @@
         {
           "stop_sequence": 33,
           "stop_id": "546",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 05",
           "arrival_time": "25:38:00",
           "departure_time": "25:38:00",
           "lat": 51.10740171,
@@ -19147,7 +19147,7 @@
       ]
     },
     {
-      "trip_id": "6_17609649",
+      "trip_id": "6_17713662",
       "direction_id": "1",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "6",
@@ -19308,7 +19308,7 @@
       ]
     },
     {
-      "trip_id": "6_17609654",
+      "trip_id": "6_17713667",
       "direction_id": "0",
       "headsign": "SOŁTYSOWICE",
       "service_id": "6",
@@ -19352,7 +19352,7 @@
         {
           "stop_sequence": 4,
           "stop_id": "546",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 05",
           "arrival_time": "25:08:00",
           "departure_time": "25:08:00",
           "lat": 51.10740171,
@@ -19514,7 +19514,7 @@
       ]
     },
     {
-      "trip_id": "6_17609655",
+      "trip_id": "6_17713668",
       "direction_id": "1",
       "headsign": "KOZANÓW",
       "service_id": "6",
@@ -19684,7 +19684,7 @@
         {
           "stop_sequence": 18,
           "stop_id": "1330",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 03",
           "arrival_time": "26:46:00",
           "departure_time": "26:46:00",
           "lat": 51.10670852,
@@ -20017,7 +20017,7 @@
       ]
     },
     {
-      "trip_id": "6_17609656",
+      "trip_id": "6_17713669",
       "direction_id": "0",
       "headsign": "PETRUSEWICZA",
       "service_id": "6",
@@ -20295,7 +20295,7 @@
       ]
     },
     {
-      "trip_id": "6_17609657",
+      "trip_id": "6_17713670",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "6",
@@ -20339,7 +20339,7 @@
         {
           "stop_sequence": 4,
           "stop_id": "546",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 05",
           "arrival_time": "28:38:00",
           "departure_time": "28:38:00",
           "lat": 51.10740171,
@@ -20483,7 +20483,7 @@
       ]
     },
     {
-      "trip_id": "6_17609725",
+      "trip_id": "6_17713738",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "6",
@@ -20527,7 +20527,7 @@
         {
           "stop_sequence": 4,
           "stop_id": "546",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 05",
           "arrival_time": "29:08:00",
           "departure_time": "29:08:00",
           "lat": 51.10740171,
@@ -20671,7 +20671,7 @@
       ]
     },
     {
-      "trip_id": "6_17609768",
+      "trip_id": "6_17713781",
       "direction_id": "1",
       "headsign": "KOZANÓW",
       "service_id": "6",
@@ -20958,7 +20958,7 @@
       ]
     },
     {
-      "trip_id": "6_17609769",
+      "trip_id": "6_17713782",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "6",
@@ -21047,7 +21047,7 @@
       ]
     },
     {
-      "trip_id": "8_17613600",
+      "trip_id": "8_17717613",
       "direction_id": "0",
       "headsign": "SOŁTYSOWICE",
       "service_id": "8",
@@ -21352,7 +21352,7 @@
         {
           "stop_sequence": 33,
           "stop_id": "546",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 05",
           "arrival_time": "24:38:00",
           "departure_time": "24:38:00",
           "lat": 51.10740171,
@@ -21514,7 +21514,7 @@
       ]
     },
     {
-      "trip_id": "8_17613601",
+      "trip_id": "8_17717614",
       "direction_id": "1",
       "headsign": "KOZANÓW",
       "service_id": "8",
@@ -21684,7 +21684,7 @@
         {
           "stop_sequence": 18,
           "stop_id": "1330",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 03",
           "arrival_time": "25:46:00",
           "departure_time": "25:46:00",
           "lat": 51.10670852,
@@ -22017,7 +22017,7 @@
       ]
     },
     {
-      "trip_id": "8_17613602",
+      "trip_id": "8_17717615",
       "direction_id": "0",
       "headsign": "SOŁTYSOWICE",
       "service_id": "8",
@@ -22322,7 +22322,7 @@
         {
           "stop_sequence": 33,
           "stop_id": "546",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 05",
           "arrival_time": "27:38:00",
           "departure_time": "27:38:00",
           "lat": 51.10740171,
@@ -22484,7 +22484,7 @@
       ]
     },
     {
-      "trip_id": "8_17613603",
+      "trip_id": "8_17717616",
       "direction_id": "1",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "8",
@@ -22645,7 +22645,7 @@
       ]
     },
     {
-      "trip_id": "8_17616313",
+      "trip_id": "8_17720326",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "8",
@@ -22689,7 +22689,7 @@
         {
           "stop_sequence": 4,
           "stop_id": "546",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 05",
           "arrival_time": "27:43:00",
           "departure_time": "27:43:00",
           "lat": 51.10740171,
@@ -22833,7 +22833,7 @@
       ]
     },
     {
-      "trip_id": "8_17616387",
+      "trip_id": "8_17720400",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "8",
@@ -22877,7 +22877,7 @@
         {
           "stop_sequence": 4,
           "stop_id": "546",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 05",
           "arrival_time": "29:28:00",
           "departure_time": "29:28:00",
           "lat": 51.10740171,
@@ -23021,7 +23021,7 @@
       ]
     },
     {
-      "trip_id": "8_17616388",
+      "trip_id": "8_17720401",
       "direction_id": "1",
       "headsign": "KOZANÓW",
       "service_id": "8",
@@ -23146,7 +23146,7 @@
       ]
     },
     {
-      "trip_id": "8_17616389",
+      "trip_id": "8_17720402",
       "direction_id": "0",
       "headsign": "PETRUSEWICZA",
       "service_id": "8",
@@ -23424,7 +23424,7 @@
       ]
     },
     {
-      "trip_id": "8_17616465",
+      "trip_id": "8_17720478",
       "direction_id": "0",
       "headsign": "SOŁTYSOWICE",
       "service_id": "8",
@@ -23468,7 +23468,7 @@
         {
           "stop_sequence": 4,
           "stop_id": "546",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 05",
           "arrival_time": "23:38:00",
           "departure_time": "23:38:00",
           "lat": 51.10740171,
@@ -23630,7 +23630,7 @@
       ]
     },
     {
-      "trip_id": "8_17616466",
+      "trip_id": "8_17720479",
       "direction_id": "1",
       "headsign": "KOZANÓW",
       "service_id": "8",
@@ -23800,7 +23800,7 @@
         {
           "stop_sequence": 18,
           "stop_id": "1330",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 03",
           "arrival_time": "24:46:00",
           "departure_time": "24:46:00",
           "lat": 51.10670852,
@@ -24133,7 +24133,7 @@
       ]
     },
     {
-      "trip_id": "8_17616467",
+      "trip_id": "8_17720480",
       "direction_id": "0",
       "headsign": "SOŁTYSOWICE",
       "service_id": "8",
@@ -24438,7 +24438,7 @@
         {
           "stop_sequence": 33,
           "stop_id": "546",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 05",
           "arrival_time": "26:38:00",
           "departure_time": "26:38:00",
           "lat": 51.10740171,
@@ -24600,7 +24600,7 @@
       ]
     },
     {
-      "trip_id": "8_17616468",
+      "trip_id": "8_17720481",
       "direction_id": "1",
       "headsign": "KOZANÓW",
       "service_id": "8",
@@ -24770,7 +24770,7 @@
         {
           "stop_sequence": 18,
           "stop_id": "1330",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 03",
           "arrival_time": "27:46:00",
           "departure_time": "27:46:00",
           "lat": 51.10670852,
@@ -25103,7 +25103,7 @@
       ]
     },
     {
-      "trip_id": "8_17616469",
+      "trip_id": "8_17720482",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "8",
@@ -25192,7 +25192,7 @@
       ]
     },
     {
-      "trip_id": "8_17616473",
+      "trip_id": "8_17720486",
       "direction_id": "1",
       "headsign": "KOZANÓW",
       "service_id": "8",
@@ -25362,7 +25362,7 @@
         {
           "stop_sequence": 18,
           "stop_id": "1330",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 03",
           "arrival_time": "23:46:00",
           "departure_time": "23:46:00",
           "lat": 51.10670852,
@@ -25695,7 +25695,7 @@
       ]
     },
     {
-      "trip_id": "8_17616474",
+      "trip_id": "8_17720487",
       "direction_id": "0",
       "headsign": "SOŁTYSOWICE",
       "service_id": "8",
@@ -26000,7 +26000,7 @@
         {
           "stop_sequence": 33,
           "stop_id": "546",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 05",
           "arrival_time": "25:38:00",
           "departure_time": "25:38:00",
           "lat": 51.10740171,
@@ -26162,7 +26162,7 @@
       ]
     },
     {
-      "trip_id": "8_17616475",
+      "trip_id": "8_17720488",
       "direction_id": "1",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "8",
@@ -26323,7 +26323,7 @@
       ]
     },
     {
-      "trip_id": "8_17616480",
+      "trip_id": "8_17720493",
       "direction_id": "0",
       "headsign": "SOŁTYSOWICE",
       "service_id": "8",
@@ -26367,7 +26367,7 @@
         {
           "stop_sequence": 4,
           "stop_id": "546",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 05",
           "arrival_time": "25:08:00",
           "departure_time": "25:08:00",
           "lat": 51.10740171,
@@ -26529,7 +26529,7 @@
       ]
     },
     {
-      "trip_id": "8_17616481",
+      "trip_id": "8_17720494",
       "direction_id": "1",
       "headsign": "KOZANÓW",
       "service_id": "8",
@@ -26699,7 +26699,7 @@
         {
           "stop_sequence": 18,
           "stop_id": "1330",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 03",
           "arrival_time": "26:46:00",
           "departure_time": "26:46:00",
           "lat": 51.10670852,
@@ -27032,7 +27032,7 @@
       ]
     },
     {
-      "trip_id": "8_17616482",
+      "trip_id": "8_17720495",
       "direction_id": "0",
       "headsign": "PETRUSEWICZA",
       "service_id": "8",
@@ -27310,7 +27310,7 @@
       ]
     },
     {
-      "trip_id": "8_17616483",
+      "trip_id": "8_17720496",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "8",
@@ -27354,7 +27354,7 @@
         {
           "stop_sequence": 4,
           "stop_id": "546",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 05",
           "arrival_time": "28:38:00",
           "departure_time": "28:38:00",
           "lat": 51.10740171,
@@ -27498,7 +27498,7 @@
       ]
     },
     {
-      "trip_id": "8_17616550",
+      "trip_id": "8_17720563",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "8",
@@ -27542,7 +27542,7 @@
         {
           "stop_sequence": 4,
           "stop_id": "546",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 05",
           "arrival_time": "29:40:00",
           "departure_time": "29:40:00",
           "lat": 51.10740171,
@@ -27686,7 +27686,7 @@
       ]
     },
     {
-      "trip_id": "8_17616555",
+      "trip_id": "8_17720568",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "8",
@@ -27730,7 +27730,7 @@
         {
           "stop_sequence": 4,
           "stop_id": "546",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 05",
           "arrival_time": "29:08:00",
           "departure_time": "29:08:00",
           "lat": 51.10740171,
@@ -27874,7 +27874,7 @@
       ]
     },
     {
-      "trip_id": "8_17616599",
+      "trip_id": "8_17720612",
       "direction_id": "1",
       "headsign": "KOZANÓW",
       "service_id": "8",
@@ -28161,7 +28161,7 @@
       ]
     },
     {
-      "trip_id": "8_17616600",
+      "trip_id": "8_17720613",
       "direction_id": "0",
       "headsign": "Zajezdnia OBORNICKA",
       "service_id": "8",

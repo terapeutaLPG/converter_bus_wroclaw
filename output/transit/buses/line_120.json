@@ -2,7 +2,7 @@
   "line": "120",
   "trips": [
     {
-      "trip_id": "3_17617892",
+      "trip_id": "3_17636567",
       "direction_id": "1",
       "headsign": "OPATOWICE",
       "service_id": "3",
@@ -10,7 +10,7 @@
         {
           "stop_sequence": 0,
           "stop_id": "5926",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 09",
           "arrival_time": "14:35:00",
           "departure_time": "14:35:00",
           "lat": 51.1089984,
@@ -127,7 +127,7 @@
       ]
     },
     {
-      "trip_id": "3_17617893",
+      "trip_id": "3_17636568",
       "direction_id": "0",
       "headsign": "GALERIA DOMINIKAŃSKA",
       "service_id": "3",
@@ -252,7 +252,7 @@
         {
           "stop_sequence": 13,
           "stop_id": "5926",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 09",
           "arrival_time": "15:26:00",
           "departure_time": "15:26:00",
           "lat": 51.1089984,
@@ -261,7 +261,7 @@
       ]
     },
     {
-      "trip_id": "3_17617894",
+      "trip_id": "3_17636569",
       "direction_id": "1",
       "headsign": "OPATOWICE",
       "service_id": "3",
@@ -269,7 +269,7 @@
         {
           "stop_sequence": 0,
           "stop_id": "5926",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 09",
           "arrival_time": "16:35:00",
           "departure_time": "16:35:00",
           "lat": 51.1089984,
@@ -386,7 +386,7 @@
       ]
     },
     {
-      "trip_id": "3_17617895",
+      "trip_id": "3_17636570",
       "direction_id": "0",
       "headsign": "GALERIA DOMINIKAŃSKA",
       "service_id": "3",
@@ -511,7 +511,7 @@
         {
           "stop_sequence": 13,
           "stop_id": "5926",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 09",
           "arrival_time": "17:26:00",
           "departure_time": "17:26:00",
           "lat": 51.1089984,
@@ -520,7 +520,7 @@
       ]
     },
     {
-      "trip_id": "3_17617896",
+      "trip_id": "3_17636571",
       "direction_id": "1",
       "headsign": "OPATOWICE",
       "service_id": "3",
@@ -528,7 +528,7 @@
         {
           "stop_sequence": 0,
           "stop_id": "5926",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 09",
           "arrival_time": "17:45:00",
           "departure_time": "17:45:00",
           "lat": 51.1089984,
@@ -645,7 +645,7 @@
       ]
     },
     {
-      "trip_id": "3_17617897",
+      "trip_id": "3_17636572",
       "direction_id": "0",
       "headsign": "GALERIA DOMINIKAŃSKA",
       "service_id": "3",
@@ -770,7 +770,7 @@
         {
           "stop_sequence": 13,
           "stop_id": "5926",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 09",
           "arrival_time": "18:30:00",
           "departure_time": "18:30:00",
           "lat": 51.1089984,
@@ -779,7 +779,7 @@
       ]
     },
     {
-      "trip_id": "3_17617898",
+      "trip_id": "3_17636573",
       "direction_id": "1",
       "headsign": "OPATOWICE",
       "service_id": "3",
@@ -787,7 +787,7 @@
         {
           "stop_sequence": 0,
           "stop_id": "5926",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 09",
           "arrival_time": "18:45:00",
           "departure_time": "18:45:00",
           "lat": 51.1089984,
@@ -904,7 +904,7 @@
       ]
     },
     {
-      "trip_id": "3_17617899",
+      "trip_id": "3_17636574",
       "direction_id": "0",
       "headsign": "GALERIA DOMINIKAŃSKA",
       "service_id": "3",
@@ -1029,7 +1029,7 @@
         {
           "stop_sequence": 13,
           "stop_id": "5926",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 09",
           "arrival_time": "19:40:00",
           "departure_time": "19:40:00",
           "lat": 51.1089984,
@@ -1038,7 +1038,7 @@
       ]
     },
     {
-      "trip_id": "3_17617900",
+      "trip_id": "3_17636575",
       "direction_id": "1",
       "headsign": "OPATOWICE",
       "service_id": "3",
@@ -1046,7 +1046,7 @@
         {
           "stop_sequence": 0,
           "stop_id": "5926",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 09",
           "arrival_time": "19:45:00",
           "departure_time": "19:45:00",
           "lat": 51.1089984,
@@ -1163,7 +1163,7 @@
       ]
     },
     {
-      "trip_id": "3_17617901",
+      "trip_id": "3_17636576",
       "direction_id": "0",
       "headsign": "GALERIA DOMINIKAŃSKA",
       "service_id": "3",
@@ -1288,7 +1288,7 @@
         {
           "stop_sequence": 13,
           "stop_id": "5926",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 09",
           "arrival_time": "20:40:00",
           "departure_time": "20:40:00",
           "lat": 51.1089984,
@@ -1297,7 +1297,7 @@
       ]
     },
     {
-      "trip_id": "3_17617902",
+      "trip_id": "3_17636577",
       "direction_id": "1",
       "headsign": "OPATOWICE",
       "service_id": "3",
@@ -1305,7 +1305,7 @@
         {
           "stop_sequence": 0,
           "stop_id": "5926",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 09",
           "arrival_time": "20:45:00",
           "departure_time": "20:45:00",
           "lat": 51.1089984,
@@ -1422,7 +1422,7 @@
       ]
     },
     {
-      "trip_id": "3_17617903",
+      "trip_id": "3_17636578",
       "direction_id": "0",
       "headsign": "GALERIA DOMINIKAŃSKA",
       "service_id": "3",
@@ -1547,7 +1547,7 @@
         {
           "stop_sequence": 13,
           "stop_id": "5926",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 09",
           "arrival_time": "21:40:00",
           "departure_time": "21:40:00",
           "lat": 51.1089984,
@@ -1556,7 +1556,7 @@
       ]
     },
     {
-      "trip_id": "3_17617904",
+      "trip_id": "3_17636579",
       "direction_id": "1",
       "headsign": "OPATOWICE",
       "service_id": "3",
@@ -1564,7 +1564,7 @@
         {
           "stop_sequence": 0,
           "stop_id": "5926",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 09",
           "arrival_time": "21:45:00",
           "departure_time": "21:45:00",
           "lat": 51.1089984,
@@ -1681,7 +1681,7 @@
       ]
     },
     {
-      "trip_id": "3_17617905",
+      "trip_id": "3_17636580",
       "direction_id": "0",
       "headsign": "GALERIA DOMINIKAŃSKA",
       "service_id": "3",
@@ -1806,7 +1806,7 @@
         {
           "stop_sequence": 13,
           "stop_id": "5926",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 09",
           "arrival_time": "22:40:00",
           "departure_time": "22:40:00",
           "lat": 51.1089984,
@@ -1815,7 +1815,7 @@
       ]
     },
     {
-      "trip_id": "3_17617906",
+      "trip_id": "3_17636581",
       "direction_id": "1",
       "headsign": "OPATOWICE",
       "service_id": "3",
@@ -1823,7 +1823,7 @@
         {
           "stop_sequence": 0,
           "stop_id": "5926",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 09",
           "arrival_time": "22:45:00",
           "departure_time": "22:45:00",
           "lat": 51.1089984,
@@ -1940,7 +1940,7 @@
       ]
     },
     {
-      "trip_id": "3_17617907",
+      "trip_id": "3_17636582",
       "direction_id": "0",
       "headsign": "GALERIA DOMINIKAŃSKA",
       "service_id": "3",
@@ -2065,7 +2065,7 @@
         {
           "stop_sequence": 13,
           "stop_id": "5926",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 09",
           "arrival_time": "23:38:00",
           "departure_time": "23:38:00",
           "lat": 51.1089984,
@@ -2074,7 +2074,7 @@
       ]
     },
     {
-      "trip_id": "3_17618085",
+      "trip_id": "3_17636760",
       "direction_id": "1",
       "headsign": "OPATOWICE",
       "service_id": "3",
@@ -2082,7 +2082,7 @@
         {
           "stop_sequence": 0,
           "stop_id": "5926",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 09",
           "arrival_time": "08:35:00",
           "departure_time": "08:35:00",
           "lat": 51.1089984,
@@ -2199,7 +2199,7 @@
       ]
     },
     {
-      "trip_id": "3_17618086",
+      "trip_id": "3_17636761",
       "direction_id": "0",
       "headsign": "GALERIA DOMINIKAŃSKA",
       "service_id": "3",
@@ -2324,7 +2324,7 @@
         {
           "stop_sequence": 13,
           "stop_id": "5926",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 09",
           "arrival_time": "09:26:00",
           "departure_time": "09:26:00",
           "lat": 51.1089984,
@@ -2333,7 +2333,7 @@
       ]
     },
     {
-      "trip_id": "3_17618087",
+      "trip_id": "3_17636762",
       "direction_id": "1",
       "headsign": "OPATOWICE",
       "service_id": "3",
@@ -2341,7 +2341,7 @@
         {
           "stop_sequence": 0,
           "stop_id": "5926",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 09",
           "arrival_time": "09:35:00",
           "departure_time": "09:35:00",
           "lat": 51.1089984,
@@ -2458,7 +2458,7 @@
       ]
     },
     {
-      "trip_id": "3_17618088",
+      "trip_id": "3_17636763",
       "direction_id": "0",
       "headsign": "GALERIA DOMINIKAŃSKA",
       "service_id": "3",
@@ -2583,7 +2583,7 @@
         {
           "stop_sequence": 13,
           "stop_id": "5926",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 09",
           "arrival_time": "10:26:00",
           "departure_time": "10:26:00",
           "lat": 51.1089984,
@@ -2592,7 +2592,7 @@
       ]
     },
     {
-      "trip_id": "3_17618089",
+      "trip_id": "3_17636764",
       "direction_id": "1",
       "headsign": "OPATOWICE",
       "service_id": "3",
@@ -2600,7 +2600,7 @@
         {
           "stop_sequence": 0,
           "stop_id": "5926",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 09",
           "arrival_time": "10:35:00",
           "departure_time": "10:35:00",
           "lat": 51.1089984,
@@ -2717,7 +2717,7 @@
       ]
     },
     {
-      "trip_id": "3_17618090",
+      "trip_id": "3_17636765",
       "direction_id": "0",
       "headsign": "GALERIA DOMINIKAŃSKA",
       "service_id": "3",
@@ -2842,7 +2842,7 @@
         {
           "stop_sequence": 13,
           "stop_id": "5926",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 09",
           "arrival_time": "11:26:00",
           "departure_time": "11:26:00",
           "lat": 51.1089984,
@@ -2851,7 +2851,7 @@
       ]
     },
     {
-      "trip_id": "3_17618091",
+      "trip_id": "3_17636766",
       "direction_id": "1",
       "headsign": "OPATOWICE",
       "service_id": "3",
@@ -2859,7 +2859,7 @@
         {
           "stop_sequence": 0,
           "stop_id": "5926",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 09",
           "arrival_time": "11:35:00",
           "departure_time": "11:35:00",
           "lat": 51.1089984,
@@ -2976,7 +2976,7 @@
       ]
     },
     {
-      "trip_id": "3_17618092",
+      "trip_id": "3_17636767",
       "direction_id": "0",
       "headsign": "GALERIA DOMINIKAŃSKA",
       "service_id": "3",
@@ -3101,7 +3101,7 @@
         {
           "stop_sequence": 13,
           "stop_id": "5926",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 09",
           "arrival_time": "12:26:00",
           "departure_time": "12:26:00",
           "lat": 51.1089984,
@@ -3110,7 +3110,7 @@
       ]
     },
     {
-      "trip_id": "3_17618093",
+      "trip_id": "3_17636768",
       "direction_id": "1",
       "headsign": "OPATOWICE",
       "service_id": "3",
@@ -3118,7 +3118,7 @@
         {
           "stop_sequence": 0,
           "stop_id": "5926",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 09",
           "arrival_time": "12:35:00",
           "departure_time": "12:35:00",
           "lat": 51.1089984,
@@ -3235,7 +3235,7 @@
       ]
     },
     {
-      "trip_id": "3_17618094",
+      "trip_id": "3_17636769",
       "direction_id": "0",
       "headsign": "GALERIA DOMINIKAŃSKA",
       "service_id": "3",
@@ -3360,7 +3360,7 @@
         {
           "stop_sequence": 13,
           "stop_id": "5926",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 09",
           "arrival_time": "13:26:00",
           "departure_time": "13:26:00",
           "lat": 51.1089984,
@@ -3369,7 +3369,7 @@
       ]
     },
     {
-      "trip_id": "3_17618095",
+      "trip_id": "3_17636770",
       "direction_id": "1",
       "headsign": "OPATOWICE",
       "service_id": "3",
@@ -3377,7 +3377,7 @@
         {
           "stop_sequence": 0,
           "stop_id": "5926",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 09",
           "arrival_time": "13:35:00",
           "departure_time": "13:35:00",
           "lat": 51.1089984,
@@ -3494,7 +3494,7 @@
       ]
     },
     {
-      "trip_id": "3_17618096",
+      "trip_id": "3_17636771",
       "direction_id": "0",
       "headsign": "GALERIA DOMINIKAŃSKA",
       "service_id": "3",
@@ -3619,7 +3619,7 @@
         {
           "stop_sequence": 13,
           "stop_id": "5926",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 09",
           "arrival_time": "14:26:00",
           "departure_time": "14:26:00",
           "lat": 51.1089984,
@@ -3628,7 +3628,7 @@
       ]
     },
     {
-      "trip_id": "3_17618409",
+      "trip_id": "3_17637089",
       "direction_id": "1",
       "headsign": "OPATOWICE",
       "service_id": "3",
@@ -3636,7 +3636,7 @@
         {
           "stop_sequence": 0,
           "stop_id": "5926",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 09",
           "arrival_time": "05:35:00",
           "departure_time": "05:35:00",
           "lat": 51.1089984,
@@ -3753,7 +3753,7 @@
       ]
     },
     {
-      "trip_id": "3_17618410",
+      "trip_id": "3_17637090",
       "direction_id": "0",
       "headsign": "GALERIA DOMINIKAŃSKA",
       "service_id": "3",
@@ -3878,7 +3878,7 @@
         {
           "stop_sequence": 13,
           "stop_id": "5926",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 09",
           "arrival_time": "06:30:00",
           "departure_time": "06:30:00",
           "lat": 51.1089984,
@@ -3887,7 +3887,7 @@
       ]
     },
     {
-      "trip_id": "3_17618411",
+      "trip_id": "3_17637091",
       "direction_id": "1",
       "headsign": "OPATOWICE",
       "service_id": "3",
@@ -3895,7 +3895,7 @@
         {
           "stop_sequence": 0,
           "stop_id": "5926",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 09",
           "arrival_time": "06:35:00",
           "departure_time": "06:35:00",
           "lat": 51.1089984,
@@ -4012,7 +4012,7 @@
       ]
     },
     {
-      "trip_id": "3_17618412",
+      "trip_id": "3_17637092",
       "direction_id": "0",
       "headsign": "GALERIA DOMINIKAŃSKA",
       "service_id": "3",
@@ -4137,7 +4137,7 @@
         {
           "stop_sequence": 13,
           "stop_id": "5926",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 09",
           "arrival_time": "07:20:00",
           "departure_time": "07:20:00",
           "lat": 51.1089984,
@@ -4146,7 +4146,7 @@
       ]
     },
     {
-      "trip_id": "3_17618413",
+      "trip_id": "3_17637093",
       "direction_id": "1",
       "headsign": "OPATOWICE",
       "service_id": "3",
@@ -4154,7 +4154,7 @@
         {
           "stop_sequence": 0,
           "stop_id": "5926",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 09",
           "arrival_time": "07:35:00",
           "departure_time": "07:35:00",
           "lat": 51.1089984,
@@ -4271,7 +4271,7 @@
       ]
     },
     {
-      "trip_id": "3_17618414",
+      "trip_id": "3_17637094",
       "direction_id": "0",
       "headsign": "GALERIA DOMINIKAŃSKA",
       "service_id": "3",
@@ -4396,7 +4396,7 @@
         {
           "stop_sequence": 13,
           "stop_id": "5926",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 09",
           "arrival_time": "08:20:00",
           "departure_time": "08:20:00",
           "lat": 51.1089984,
@@ -4405,7 +4405,7 @@
       ]
     },
     {
-      "trip_id": "3_17618421",
+      "trip_id": "3_17637101",
       "direction_id": "1",
       "headsign": "OPATOWICE",
       "service_id": "3",
@@ -4413,7 +4413,7 @@
         {
           "stop_sequence": 0,
           "stop_id": "5926",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 09",
           "arrival_time": "15:35:00",
           "departure_time": "15:35:00",
           "lat": 51.1089984,
@@ -4530,7 +4530,7 @@
       ]
     },
     {
-      "trip_id": "3_17618422",
+      "trip_id": "3_17637102",
       "direction_id": "0",
       "headsign": "GALERIA DOMINIKAŃSKA",
       "service_id": "3",
@@ -4655,7 +4655,7 @@
         {
           "stop_sequence": 13,
           "stop_id": "5926",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 09",
           "arrival_time": "16:26:00",
           "departure_time": "16:26:00",
           "lat": 51.1089984,
@@ -4664,7 +4664,7 @@
       ]
     },
     {
-      "trip_id": "4_17618707",
+      "trip_id": "4_17637382",
       "direction_id": "1",
       "headsign": "OPATOWICE",
       "service_id": "4",
@@ -4672,7 +4672,7 @@
         {
           "stop_sequence": 0,
           "stop_id": "5926",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 09",
           "arrival_time": "08:35:00",
           "departure_time": "08:35:00",
           "lat": 51.1089984,
@@ -4789,7 +4789,7 @@
       ]
     },
     {
-      "trip_id": "4_17618708",
+      "trip_id": "4_17637383",
       "direction_id": "0",
       "headsign": "GALERIA DOMINIKAŃSKA",
       "service_id": "4",
@@ -4914,7 +4914,7 @@
         {
           "stop_sequence": 13,
           "stop_id": "5926",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 09",
           "arrival_time": "09:26:00",
           "departure_time": "09:26:00",
           "lat": 51.1089984,
@@ -4923,7 +4923,7 @@
       ]
     },
     {
-      "trip_id": "4_17618709",
+      "trip_id": "4_17637384",
       "direction_id": "1",
       "headsign": "OPATOWICE",
       "service_id": "4",
@@ -4931,7 +4931,7 @@
         {
           "stop_sequence": 0,
           "stop_id": "5926",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 09",
           "arrival_time": "09:35:00",
           "departure_time": "09:35:00",
           "lat": 51.1089984,
@@ -5048,7 +5048,7 @@
       ]
     },
     {
-      "trip_id": "4_17618710",
+      "trip_id": "4_17637385",
       "direction_id": "0",
       "headsign": "GALERIA DOMINIKAŃSKA",
       "service_id": "4",
@@ -5173,7 +5173,7 @@
         {
           "stop_sequence": 13,
           "stop_id": "5926",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 09",
           "arrival_time": "10:26:00",
           "departure_time": "10:26:00",
           "lat": 51.1089984,
@@ -5182,7 +5182,7 @@
       ]
     },
     {
-      "trip_id": "4_17618711",
+      "trip_id": "4_17637386",
       "direction_id": "1",
       "headsign": "OPATOWICE",
       "service_id": "4",
@@ -5190,7 +5190,7 @@
         {
           "stop_sequence": 0,
           "stop_id": "5926",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 09",
           "arrival_time": "10:35:00",
           "departure_time": "10:35:00",
           "lat": 51.1089984,
@@ -5307,7 +5307,7 @@
       ]
     },
     {
-      "trip_id": "4_17618712",
+      "trip_id": "4_17637387",
       "direction_id": "0",
       "headsign": "GALERIA DOMINIKAŃSKA",
       "service_id": "4",
@@ -5432,7 +5432,7 @@
         {
           "stop_sequence": 13,
           "stop_id": "5926",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 09",
           "arrival_time": "11:26:00",
           "departure_time": "11:26:00",
           "lat": 51.1089984,
@@ -5441,7 +5441,7 @@
       ]
     },
     {
-      "trip_id": "4_17618713",
+      "trip_id": "4_17637388",
       "direction_id": "1",
       "headsign": "OPATOWICE",
       "service_id": "4",
@@ -5449,7 +5449,7 @@
         {
           "stop_sequence": 0,
           "stop_id": "5926",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 09",
           "arrival_time": "11:35:00",
           "departure_time": "11:35:00",
           "lat": 51.1089984,
@@ -5566,7 +5566,7 @@
       ]
     },
     {
-      "trip_id": "4_17618714",
+      "trip_id": "4_17637389",
       "direction_id": "0",
       "headsign": "GALERIA DOMINIKAŃSKA",
       "service_id": "4",
@@ -5691,7 +5691,7 @@
         {
           "stop_sequence": 13,
           "stop_id": "5926",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 09",
           "arrival_time": "12:26:00",
           "departure_time": "12:26:00",
           "lat": 51.1089984,
@@ -5700,7 +5700,7 @@
       ]
     },
     {
-      "trip_id": "4_17618715",
+      "trip_id": "4_17637390",
       "direction_id": "1",
       "headsign": "OPATOWICE",
       "service_id": "4",
@@ -5708,7 +5708,7 @@
         {
           "stop_sequence": 0,
           "stop_id": "5926",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 09",
           "arrival_time": "12:35:00",
           "departure_time": "12:35:00",
           "lat": 51.1089984,
@@ -5825,7 +5825,7 @@
       ]
     },
     {
-      "trip_id": "4_17618716",
+      "trip_id": "4_17637391",
       "direction_id": "0",
       "headsign": "GALERIA DOMINIKAŃSKA",
       "service_id": "4",
@@ -5950,7 +5950,7 @@
         {
           "stop_sequence": 13,
           "stop_id": "5926",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 09",
           "arrival_time": "13:26:00",
           "departure_time": "13:26:00",
           "lat": 51.1089984,
@@ -5959,7 +5959,7 @@
       ]
     },
     {
-      "trip_id": "4_17618717",
+      "trip_id": "4_17637392",
       "direction_id": "1",
       "headsign": "OPATOWICE",
       "service_id": "4",
@@ -5967,7 +5967,7 @@
         {
           "stop_sequence": 0,
           "stop_id": "5926",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 09",
           "arrival_time": "13:35:00",
           "departure_time": "13:35:00",
           "lat": 51.1089984,
@@ -6084,7 +6084,7 @@
       ]
     },
     {
-      "trip_id": "4_17618718",
+      "trip_id": "4_17637393",
       "direction_id": "0",
       "headsign": "GALERIA DOMINIKAŃSKA",
       "service_id": "4",
@@ -6209,7 +6209,7 @@
         {
           "stop_sequence": 13,
           "stop_id": "5926",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 09",
           "arrival_time": "14:26:00",
           "departure_time": "14:26:00",
           "lat": 51.1089984,
@@ -6218,7 +6218,7 @@
       ]
     },
     {
-      "trip_id": "4_17618721",
+      "trip_id": "4_17637396",
       "direction_id": "1",
       "headsign": "OPATOWICE",
       "service_id": "4",
@@ -6226,7 +6226,7 @@
         {
           "stop_sequence": 0,
           "stop_id": "5926",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 09",
           "arrival_time": "14:35:00",
           "departure_time": "14:35:00",
           "lat": 51.1089984,
@@ -6343,7 +6343,7 @@
       ]
     },
     {
-      "trip_id": "4_17618722",
+      "trip_id": "4_17637397",
       "direction_id": "0",
       "headsign": "GALERIA DOMINIKAŃSKA",
       "service_id": "4",
@@ -6468,7 +6468,7 @@
         {
           "stop_sequence": 13,
           "stop_id": "5926",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 09",
           "arrival_time": "15:26:00",
           "departure_time": "15:26:00",
           "lat": 51.1089984,
@@ -6477,7 +6477,7 @@
       ]
     },
     {
-      "trip_id": "4_17618723",
+      "trip_id": "4_17637398",
       "direction_id": "1",
       "headsign": "OPATOWICE",
       "service_id": "4",
@@ -6485,7 +6485,7 @@
         {
           "stop_sequence": 0,
           "stop_id": "5926",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 09",
           "arrival_time": "16:35:00",
           "departure_time": "16:35:00",
           "lat": 51.1089984,
@@ -6602,7 +6602,7 @@
       ]
     },
     {
-      "trip_id": "4_17618724",
+      "trip_id": "4_17637399",
       "direction_id": "0",
       "headsign": "GALERIA DOMINIKAŃSKA",
       "service_id": "4",
@@ -6727,7 +6727,7 @@
         {
           "stop_sequence": 13,
           "stop_id": "5926",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 09",
           "arrival_time": "17:26:00",
           "departure_time": "17:26:00",
           "lat": 51.1089984,
@@ -6736,7 +6736,7 @@
       ]
     },
     {
-      "trip_id": "4_17618725",
+      "trip_id": "4_17637400",
       "direction_id": "1",
       "headsign": "OPATOWICE",
       "service_id": "4",
@@ -6744,7 +6744,7 @@
         {
           "stop_sequence": 0,
           "stop_id": "5926",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 09",
           "arrival_time": "17:45:00",
           "departure_time": "17:45:00",
           "lat": 51.1089984,
@@ -6861,7 +6861,7 @@
       ]
     },
     {
-      "trip_id": "4_17618726",
+      "trip_id": "4_17637401",
       "direction_id": "0",
       "headsign": "GALERIA DOMINIKAŃSKA",
       "service_id": "4",
@@ -6986,7 +6986,7 @@
         {
           "stop_sequence": 13,
           "stop_id": "5926",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 09",
           "arrival_time": "18:30:00",
           "departure_time": "18:30:00",
           "lat": 51.1089984,
@@ -6995,7 +6995,7 @@
       ]
     },
     {
-      "trip_id": "4_17618727",
+      "trip_id": "4_17637402",
       "direction_id": "1",
       "headsign": "OPATOWICE",
       "service_id": "4",
@@ -7003,7 +7003,7 @@
         {
           "stop_sequence": 0,
           "stop_id": "5926",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 09",
           "arrival_time": "18:45:00",
           "departure_time": "18:45:00",
           "lat": 51.1089984,
@@ -7120,7 +7120,7 @@
       ]
     },
     {
-      "trip_id": "4_17618728",
+      "trip_id": "4_17637403",
       "direction_id": "0",
       "headsign": "GALERIA DOMINIKAŃSKA",
       "service_id": "4",
@@ -7245,7 +7245,7 @@
         {
           "stop_sequence": 13,
           "stop_id": "5926",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 09",
           "arrival_time": "19:40:00",
           "departure_time": "19:40:00",
           "lat": 51.1089984,
@@ -7254,7 +7254,7 @@
       ]
     },
     {
-      "trip_id": "4_17618729",
+      "trip_id": "4_17637404",
       "direction_id": "1",
       "headsign": "OPATOWICE",
       "service_id": "4",
@@ -7262,7 +7262,7 @@
         {
           "stop_sequence": 0,
           "stop_id": "5926",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 09",
           "arrival_time": "19:45:00",
           "departure_time": "19:45:00",
           "lat": 51.1089984,
@@ -7379,7 +7379,7 @@
       ]
     },
     {
-      "trip_id": "4_17618730",
+      "trip_id": "4_17637405",
       "direction_id": "0",
       "headsign": "GALERIA DOMINIKAŃSKA",
       "service_id": "4",
@@ -7504,7 +7504,7 @@
         {
           "stop_sequence": 13,
           "stop_id": "5926",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 09",
           "arrival_time": "20:40:00",
           "departure_time": "20:40:00",
           "lat": 51.1089984,
@@ -7513,7 +7513,7 @@
       ]
     },
     {
-      "trip_id": "4_17618731",
+      "trip_id": "4_17637406",
       "direction_id": "1",
       "headsign": "OPATOWICE",
       "service_id": "4",
@@ -7521,7 +7521,7 @@
         {
           "stop_sequence": 0,
           "stop_id": "5926",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 09",
           "arrival_time": "20:45:00",
           "departure_time": "20:45:00",
           "lat": 51.1089984,
@@ -7638,7 +7638,7 @@
       ]
     },
     {
-      "trip_id": "4_17618732",
+      "trip_id": "4_17637407",
       "direction_id": "0",
       "headsign": "GALERIA DOMINIKAŃSKA",
       "service_id": "4",
@@ -7763,7 +7763,7 @@
         {
           "stop_sequence": 13,
           "stop_id": "5926",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 09",
           "arrival_time": "21:40:00",
           "departure_time": "21:40:00",
           "lat": 51.1089984,
@@ -7772,7 +7772,7 @@
       ]
     },
     {
-      "trip_id": "4_17618733",
+      "trip_id": "4_17637408",
       "direction_id": "1",
       "headsign": "OPATOWICE",
       "service_id": "4",
@@ -7780,7 +7780,7 @@
         {
           "stop_sequence": 0,
           "stop_id": "5926",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 09",
           "arrival_time": "21:45:00",
           "departure_time": "21:45:00",
           "lat": 51.1089984,
@@ -7897,7 +7897,7 @@
       ]
     },
     {
-      "trip_id": "4_17618734",
+      "trip_id": "4_17637409",
       "direction_id": "0",
       "headsign": "GALERIA DOMINIKAŃSKA",
       "service_id": "4",
@@ -8022,7 +8022,7 @@
         {
           "stop_sequence": 13,
           "stop_id": "5926",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 09",
           "arrival_time": "22:40:00",
           "departure_time": "22:40:00",
           "lat": 51.1089984,
@@ -8031,7 +8031,7 @@
       ]
     },
     {
-      "trip_id": "4_17618735",
+      "trip_id": "4_17637410",
       "direction_id": "1",
       "headsign": "OPATOWICE",
       "service_id": "4",
@@ -8039,7 +8039,7 @@
         {
           "stop_sequence": 0,
           "stop_id": "5926",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 09",
           "arrival_time": "22:45:00",
           "departure_time": "22:45:00",
           "lat": 51.1089984,
@@ -8156,7 +8156,7 @@
       ]
     },
     {
-      "trip_id": "4_17618736",
+      "trip_id": "4_17637411",
       "direction_id": "0",
       "headsign": "GALERIA DOMINIKAŃSKA",
       "service_id": "4",
@@ -8281,7 +8281,7 @@
         {
           "stop_sequence": 13,
           "stop_id": "5926",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 09",
           "arrival_time": "23:38:00",
           "departure_time": "23:38:00",
           "lat": 51.1089984,
@@ -8290,7 +8290,7 @@
       ]
     },
     {
-      "trip_id": "4_17619004",
+      "trip_id": "4_17637679",
       "direction_id": "1",
       "headsign": "OPATOWICE",
       "service_id": "4",
@@ -8298,7 +8298,7 @@
         {
           "stop_sequence": 0,
           "stop_id": "5926",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 09",
           "arrival_time": "06:35:00",
           "departure_time": "06:35:00",
           "lat": 51.1089984,
@@ -8415,7 +8415,7 @@
       ]
     },
     {
-      "trip_id": "4_17619005",
+      "trip_id": "4_17637680",
       "direction_id": "0",
       "headsign": "GALERIA DOMINIKAŃSKA",
       "service_id": "4",
@@ -8540,7 +8540,7 @@
         {
           "stop_sequence": 13,
           "stop_id": "5926",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 09",
           "arrival_time": "07:20:00",
           "departure_time": "07:20:00",
           "lat": 51.1089984,
@@ -8549,7 +8549,7 @@
       ]
     },
     {
-      "trip_id": "4_17619006",
+      "trip_id": "4_17637681",
       "direction_id": "1",
       "headsign": "OPATOWICE",
       "service_id": "4",
@@ -8557,7 +8557,7 @@
         {
           "stop_sequence": 0,
           "stop_id": "5926",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 09",
           "arrival_time": "07:35:00",
           "departure_time": "07:35:00",
           "lat": 51.1089984,
@@ -8674,7 +8674,7 @@
       ]
     },
     {
-      "trip_id": "4_17619007",
+      "trip_id": "4_17637682",
       "direction_id": "0",
       "headsign": "GALERIA DOMINIKAŃSKA",
       "service_id": "4",
@@ -8799,7 +8799,7 @@
         {
           "stop_sequence": 13,
           "stop_id": "5926",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 09",
           "arrival_time": "08:20:00",
           "departure_time": "08:20:00",
           "lat": 51.1089984,
@@ -8808,7 +8808,7 @@
       ]
     },
     {
-      "trip_id": "4_17619014",
+      "trip_id": "4_17637689",
       "direction_id": "1",
       "headsign": "OPATOWICE",
       "service_id": "4",
@@ -8816,7 +8816,7 @@
         {
           "stop_sequence": 0,
           "stop_id": "5926",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 09",
           "arrival_time": "15:35:00",
           "departure_time": "15:35:00",
           "lat": 51.1089984,
@@ -8933,7 +8933,7 @@
       ]
     },
     {
-      "trip_id": "4_17619015",
+      "trip_id": "4_17637690",
       "direction_id": "0",
       "headsign": "GALERIA DOMINIKAŃSKA",
       "service_id": "4",
@@ -9058,7 +9058,7 @@
         {
           "stop_sequence": 13,
           "stop_id": "5926",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 09",
           "arrival_time": "16:26:00",
           "departure_time": "16:26:00",
           "lat": 51.1089984,
@@ -9067,7 +9067,7 @@
       ]
     },
     {
-      "trip_id": "6_17619092",
+      "trip_id": "6_17637767",
       "direction_id": "1",
       "headsign": "TRESTNO (pętla)",
       "service_id": "6",
@@ -9075,7 +9075,7 @@
         {
           "stop_sequence": 0,
           "stop_id": "5926",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 09",
           "arrival_time": "07:20:00",
           "departure_time": "07:20:00",
           "lat": 51.1089984,
@@ -9237,7 +9237,7 @@
       ]
     },
     {
-      "trip_id": "6_17619093",
+      "trip_id": "6_17637768",
       "direction_id": "0",
       "headsign": "GALERIA DOMINIKAŃSKA",
       "service_id": "6",
@@ -9407,7 +9407,7 @@
         {
           "stop_sequence": 18,
           "stop_id": "5926",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 09",
           "arrival_time": "08:16:00",
           "departure_time": "08:16:00",
           "lat": 51.1089984,
@@ -9416,7 +9416,7 @@
       ]
     },
     {
-      "trip_id": "6_17619094",
+      "trip_id": "6_17637769",
       "direction_id": "1",
       "headsign": "OPATOWICE",
       "service_id": "6",
@@ -9424,7 +9424,7 @@
         {
           "stop_sequence": 0,
           "stop_id": "5926",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 09",
           "arrival_time": "08:30:00",
           "departure_time": "08:30:00",
           "lat": 51.1089984,
@@ -9541,7 +9541,7 @@
       ]
     },
     {
-      "trip_id": "6_17619095",
+      "trip_id": "6_17637770",
       "direction_id": "0",
       "headsign": "GALERIA DOMINIKAŃSKA",
       "service_id": "6",
@@ -9666,7 +9666,7 @@
         {
           "stop_sequence": 13,
           "stop_id": "5926",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 09",
           "arrival_time": "09:21:00",
           "departure_time": "09:21:00",
           "lat": 51.1089984,
@@ -9675,7 +9675,7 @@
       ]
     },
     {
-      "trip_id": "6_17619101",
+      "trip_id": "6_17637776",
       "direction_id": "1",
       "headsign": "BLIZANOWICE",
       "service_id": "6",
@@ -9683,7 +9683,7 @@
         {
           "stop_sequence": 0,
           "stop_id": "5926",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 09",
           "arrival_time": "14:35:00",
           "departure_time": "14:35:00",
           "lat": 51.1089984,
@@ -9854,7 +9854,7 @@
       ]
     },
     {
-      "trip_id": "6_17619102",
+      "trip_id": "6_17637777",
       "direction_id": "0",
       "headsign": "GALERIA DOMINIKAŃSKA",
       "service_id": "6",
@@ -10033,7 +10033,7 @@
         {
           "stop_sequence": 19,
           "stop_id": "5926",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 09",
           "arrival_time": "15:42:00",
           "departure_time": "15:42:00",
           "lat": 51.1089984,
@@ -10042,7 +10042,7 @@
       ]
     },
     {
-      "trip_id": "6_17619103",
+      "trip_id": "6_17637778",
       "direction_id": "1",
       "headsign": "BLIZANOWICE",
       "service_id": "6",
@@ -10050,7 +10050,7 @@
         {
           "stop_sequence": 0,
           "stop_id": "5926",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 09",
           "arrival_time": "15:50:00",
           "departure_time": "15:50:00",
           "lat": 51.1089984,
@@ -10221,7 +10221,7 @@
       ]
     },
     {
-      "trip_id": "6_17619104",
+      "trip_id": "6_17637779",
       "direction_id": "0",
       "headsign": "GALERIA DOMINIKAŃSKA",
       "service_id": "6",
@@ -10400,7 +10400,7 @@
         {
           "stop_sequence": 19,
           "stop_id": "5926",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 09",
           "arrival_time": "17:02:00",
           "departure_time": "17:02:00",
           "lat": 51.1089984,
@@ -10409,7 +10409,7 @@
       ]
     },
     {
-      "trip_id": "6_17619640",
+      "trip_id": "6_17638315",
       "direction_id": "1",
       "headsign": "TRESTNO (pętla)",
       "service_id": "6",
@@ -10417,7 +10417,7 @@
         {
           "stop_sequence": 0,
           "stop_id": "5926",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 09",
           "arrival_time": "09:25:00",
           "departure_time": "09:25:00",
           "lat": 51.1089984,
@@ -10579,7 +10579,7 @@
       ]
     },
     {
-      "trip_id": "6_17619641",
+      "trip_id": "6_17638316",
       "direction_id": "0",
       "headsign": "GALERIA DOMINIKAŃSKA",
       "service_id": "6",
@@ -10749,7 +10749,7 @@
         {
           "stop_sequence": 18,
           "stop_id": "5926",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 09",
           "arrival_time": "10:23:00",
           "departure_time": "10:23:00",
           "lat": 51.1089984,
@@ -10758,7 +10758,7 @@
       ]
     },
     {
-      "trip_id": "6_17619644",
+      "trip_id": "6_17638319",
       "direction_id": "1",
       "headsign": "OPATOWICE",
       "service_id": "6",
@@ -10766,7 +10766,7 @@
         {
           "stop_sequence": 0,
           "stop_id": "5926",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 09",
           "arrival_time": "13:35:00",
           "departure_time": "13:35:00",
           "lat": 51.1089984,
@@ -10883,7 +10883,7 @@
       ]
     },
     {
-      "trip_id": "6_17619645",
+      "trip_id": "6_17638320",
       "direction_id": "0",
       "headsign": "GALERIA DOMINIKAŃSKA",
       "service_id": "6",
@@ -11008,7 +11008,7 @@
         {
           "stop_sequence": 13,
           "stop_id": "5926",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 09",
           "arrival_time": "14:41:00",
           "departure_time": "14:41:00",
           "lat": 51.1089984,
@@ -11017,7 +11017,7 @@
       ]
     },
     {
-      "trip_id": "6_17619646",
+      "trip_id": "6_17638321",
       "direction_id": "1",
       "headsign": "BLIZANOWICE",
       "service_id": "6",
@@ -11025,7 +11025,7 @@
         {
           "stop_sequence": 0,
           "stop_id": "5926",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 09",
           "arrival_time": "15:05:00",
           "departure_time": "15:05:00",
           "lat": 51.1089984,
@@ -11196,7 +11196,7 @@
       ]
     },
     {
-      "trip_id": "6_17619647",
+      "trip_id": "6_17638322",
       "direction_id": "0",
       "headsign": "GALERIA DOMINIKAŃSKA",
       "service_id": "6",
@@ -11375,7 +11375,7 @@
         {
           "stop_sequence": 19,
           "stop_id": "5926",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 09",
           "arrival_time": "16:32:00",
           "departure_time": "16:32:00",
           "lat": 51.1089984,
@@ -11384,7 +11384,7 @@
       ]
     },
     {
-      "trip_id": "6_17619648",
+      "trip_id": "6_17638323",
       "direction_id": "1",
       "headsign": "TRESTNO (pętla)",
       "service_id": "6",
@@ -11392,7 +11392,7 @@
         {
           "stop_sequence": 0,
           "stop_id": "5926",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 09",
           "arrival_time": "16:50:00",
           "departure_time": "16:50:00",
           "lat": 51.1089984,
@@ -11554,7 +11554,7 @@
       ]
     },
     {
-      "trip_id": "6_17619649",
+      "trip_id": "6_17638324",
       "direction_id": "0",
       "headsign": "GALERIA DOMINIKAŃSKA",
       "service_id": "6",
@@ -11724,7 +11724,7 @@
         {
           "stop_sequence": 18,
           "stop_id": "5926",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 09",
           "arrival_time": "17:51:00",
           "departure_time": "17:51:00",
           "lat": 51.1089984,
@@ -11733,7 +11733,7 @@
       ]
     },
     {
-      "trip_id": "6_17619650",
+      "trip_id": "6_17638325",
       "direction_id": "1",
       "headsign": "OPATOWICE",
       "service_id": "6",
@@ -11741,7 +11741,7 @@
         {
           "stop_sequence": 0,
           "stop_id": "5926",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 09",
           "arrival_time": "17:55:00",
           "departure_time": "17:55:00",
           "lat": 51.1089984,
@@ -11858,7 +11858,7 @@
       ]
     },
     {
-      "trip_id": "6_17619651",
+      "trip_id": "6_17638326",
       "direction_id": "0",
       "headsign": "GALERIA DOMINIKAŃSKA",
       "service_id": "6",
@@ -11983,7 +11983,7 @@
         {
           "stop_sequence": 13,
           "stop_id": "5926",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 09",
           "arrival_time": "18:46:00",
           "departure_time": "18:46:00",
           "lat": 51.1089984,
@@ -11992,7 +11992,7 @@
       ]
     },
     {
-      "trip_id": "6_17619652",
+      "trip_id": "6_17638327",
       "direction_id": "1",
       "headsign": "TRESTNO (pętla)",
       "service_id": "6",
@@ -12000,7 +12000,7 @@
         {
           "stop_sequence": 0,
           "stop_id": "5926",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 09",
           "arrival_time": "18:50:00",
           "departure_time": "18:50:00",
           "lat": 51.1089984,
@@ -12162,7 +12162,7 @@
       ]
     },
     {
-      "trip_id": "6_17619653",
+      "trip_id": "6_17638328",
       "direction_id": "0",
       "headsign": "GALERIA DOMINIKAŃSKA",
       "service_id": "6",
@@ -12332,7 +12332,7 @@
         {
           "stop_sequence": 18,
           "stop_id": "5926",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 09",
           "arrival_time": "19:46:00",
           "departure_time": "19:46:00",
           "lat": 51.1089984,
@@ -12341,7 +12341,7 @@
       ]
     },
     {
-      "trip_id": "6_17619654",
+      "trip_id": "6_17638329",
       "direction_id": "1",
       "headsign": "OPATOWICE",
       "service_id": "6",
@@ -12349,7 +12349,7 @@
         {
           "stop_sequence": 0,
           "stop_id": "5926",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 09",
           "arrival_time": "19:50:00",
           "departure_time": "19:50:00",
           "lat": 51.1089984,
@@ -12466,7 +12466,7 @@
       ]
     },
     {
-      "trip_id": "6_17619655",
+      "trip_id": "6_17638330",
       "direction_id": "0",
       "headsign": "GALERIA DOMINIKAŃSKA",
       "service_id": "6",
@@ -12591,7 +12591,7 @@
         {
           "stop_sequence": 13,
           "stop_id": "5926",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 09",
           "arrival_time": "20:45:00",
           "departure_time": "20:45:00",
           "lat": 51.1089984,
@@ -12600,7 +12600,7 @@
       ]
     },
     {
-      "trip_id": "6_17619656",
+      "trip_id": "6_17638331",
       "direction_id": "0",
       "headsign": "GALERIA DOMINIKAŃSKA",
       "service_id": "6",
@@ -12770,7 +12770,7 @@
         {
           "stop_sequence": 18,
           "stop_id": "5926",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 09",
           "arrival_time": "05:14:00",
           "departure_time": "05:14:00",
           "lat": 51.1089984,
@@ -12779,7 +12779,7 @@
       ]
     },
     {
-      "trip_id": "6_17619657",
+      "trip_id": "6_17638332",
       "direction_id": "1",
       "headsign": "BLIZANOWICE",
       "service_id": "6",
@@ -12787,7 +12787,7 @@
         {
           "stop_sequence": 0,
           "stop_id": "5926",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 09",
           "arrival_time": "05:20:00",
           "departure_time": "05:20:00",
           "lat": 51.1089984,
@@ -12958,7 +12958,7 @@
       ]
     },
     {
-      "trip_id": "6_17619658",
+      "trip_id": "6_17638333",
       "direction_id": "0",
       "headsign": "GALERIA DOMINIKAŃSKA",
       "service_id": "6",
@@ -13137,7 +13137,7 @@
         {
           "stop_sequence": 19,
           "stop_id": "5926",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 09",
           "arrival_time": "06:15:00",
           "departure_time": "06:15:00",
           "lat": 51.1089984,
@@ -13146,7 +13146,7 @@
       ]
     },
     {
-      "trip_id": "6_17619659",
+      "trip_id": "6_17638334",
       "direction_id": "1",
       "headsign": "BLIZANOWICE",
       "service_id": "6",
@@ -13154,7 +13154,7 @@
         {
           "stop_sequence": 0,
           "stop_id": "5926",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 09",
           "arrival_time": "06:20:00",
           "departure_time": "06:20:00",
           "lat": 51.1089984,
@@ -13325,7 +13325,7 @@
       ]
     },
     {
-      "trip_id": "6_17619660",
+      "trip_id": "6_17638335",
       "direction_id": "0",
       "headsign": "GALERIA DOMINIKAŃSKA",
       "service_id": "6",
@@ -13504,7 +13504,7 @@
         {
           "stop_sequence": 19,
           "stop_id": "5926",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 09",
           "arrival_time": "07:16:00",
           "departure_time": "07:16:00",
           "lat": 51.1089984,
@@ -13513,7 +13513,7 @@
       ]
     },
     {
-      "trip_id": "6_17619663",
+      "trip_id": "6_17638338",
       "direction_id": "1",
       "headsign": "TRESTNO (pętla)",
       "service_id": "6",
@@ -13521,7 +13521,7 @@
         {
           "stop_sequence": 0,
           "stop_id": "5926",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 09",
           "arrival_time": "10:25:00",
           "departure_time": "10:25:00",
           "lat": 51.1089984,
@@ -13683,7 +13683,7 @@
       ]
     },
     {
-      "trip_id": "6_17619664",
+      "trip_id": "6_17638339",
       "direction_id": "0",
       "headsign": "GALERIA DOMINIKAŃSKA",
       "service_id": "6",
@@ -13853,7 +13853,7 @@
         {
           "stop_sequence": 18,
           "stop_id": "5926",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 09",
           "arrival_time": "11:23:00",
           "departure_time": "11:23:00",
           "lat": 51.1089984,
@@ -13862,7 +13862,7 @@
       ]
     },
     {
-      "trip_id": "6_17619665",
+      "trip_id": "6_17638340",
       "direction_id": "1",
       "headsign": "TRESTNO (pętla)",
       "service_id": "6",
@@ -13870,7 +13870,7 @@
         {
           "stop_sequence": 0,
           "stop_id": "5926",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 09",
           "arrival_time": "12:30:00",
           "departure_time": "12:30:00",
           "lat": 51.1089984,
@@ -14032,7 +14032,7 @@
       ]
     },
     {
-      "trip_id": "6_17619666",
+      "trip_id": "6_17638341",
       "direction_id": "0",
       "headsign": "GALERIA DOMINIKAŃSKA",
       "service_id": "6",
@@ -14202,7 +14202,7 @@
         {
           "stop_sequence": 18,
           "stop_id": "5926",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 09",
           "arrival_time": "13:41:00",
           "departure_time": "13:41:00",
           "lat": 51.1089984,
@@ -14211,7 +14211,7 @@
       ]
     },
     {
-      "trip_id": "6_17619673",
+      "trip_id": "6_17638348",
       "direction_id": "1",
       "headsign": "TRESTNO (pętla)",
       "service_id": "6",
@@ -14219,7 +14219,7 @@
         {
           "stop_sequence": 0,
           "stop_id": "5926",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 09",
           "arrival_time": "20:50:00",
           "departure_time": "20:50:00",
           "lat": 51.1089984,
@@ -14381,7 +14381,7 @@
       ]
     },
     {
-      "trip_id": "6_17619674",
+      "trip_id": "6_17638349",
       "direction_id": "0",
       "headsign": "GALERIA DOMINIKAŃSKA",
       "service_id": "6",
@@ -14551,7 +14551,7 @@
         {
           "stop_sequence": 18,
           "stop_id": "5926",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 09",
           "arrival_time": "21:45:00",
           "departure_time": "21:45:00",
           "lat": 51.1089984,
@@ -14560,7 +14560,7 @@
       ]
     },
     {
-      "trip_id": "6_17619675",
+      "trip_id": "6_17638350",
       "direction_id": "1",
       "headsign": "OPATOWICE",
       "service_id": "6",
@@ -14568,7 +14568,7 @@
         {
           "stop_sequence": 0,
           "stop_id": "5926",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 09",
           "arrival_time": "21:50:00",
           "departure_time": "21:50:00",
           "lat": 51.1089984,
@@ -14685,7 +14685,7 @@
       ]
     },
     {
-      "trip_id": "6_17619676",
+      "trip_id": "6_17638351",
       "direction_id": "0",
       "headsign": "GALERIA DOMINIKAŃSKA",
       "service_id": "6",
@@ -14810,7 +14810,7 @@
         {
           "stop_sequence": 13,
           "stop_id": "5926",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 09",
           "arrival_time": "22:45:00",
           "departure_time": "22:45:00",
           "lat": 51.1089984,
@@ -14819,7 +14819,7 @@
       ]
     },
     {
-      "trip_id": "6_17619677",
+      "trip_id": "6_17638352",
       "direction_id": "1",
       "headsign": "TRESTNO (pętla)",
       "service_id": "6",
@@ -14827,7 +14827,7 @@
         {
           "stop_sequence": 0,
           "stop_id": "5926",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 09",
           "arrival_time": "22:50:00",
           "departure_time": "22:50:00",
           "lat": 51.1089984,
@@ -14989,7 +14989,7 @@
       ]
     },
     {
-      "trip_id": "6_17619678",
+      "trip_id": "6_17638353",
       "direction_id": "0",
       "headsign": "GALERIA DOMINIKAŃSKA",
       "service_id": "6",
@@ -15159,7 +15159,7 @@
         {
           "stop_sequence": 18,
           "stop_id": "5926",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 09",
           "arrival_time": "23:38:00",
           "departure_time": "23:38:00",
           "lat": 51.1089984,
@@ -15168,7 +15168,7 @@
       ]
     },
     {
-      "trip_id": "6_17620097",
+      "trip_id": "6_17638772",
       "direction_id": "1",
       "headsign": "OPATOWICE",
       "service_id": "6",
@@ -15176,7 +15176,7 @@
         {
           "stop_sequence": 0,
           "stop_id": "5926",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 09",
           "arrival_time": "11:35:00",
           "departure_time": "11:35:00",
           "lat": 51.1089984,
@@ -15293,7 +15293,7 @@
       ]
     },
     {
-      "trip_id": "6_17620098",
+      "trip_id": "6_17638773",
       "direction_id": "0",
       "headsign": "GALERIA DOMINIKAŃSKA",
       "service_id": "6",
@@ -15418,7 +15418,7 @@
         {
           "stop_sequence": 13,
           "stop_id": "5926",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 09",
           "arrival_time": "12:23:00",
           "departure_time": "12:23:00",
           "lat": 51.1089984,
@@ -15427,7 +15427,7 @@
       ]
     },
     {
-      "trip_id": "8_17620138",
+      "trip_id": "8_17638813",
       "direction_id": "1",
       "headsign": "TRESTNO (pętla)",
       "service_id": "8",
@@ -15435,7 +15435,7 @@
         {
           "stop_sequence": 0,
           "stop_id": "5926",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 09",
           "arrival_time": "07:20:00",
           "departure_time": "07:20:00",
           "lat": 51.1089984,
@@ -15597,7 +15597,7 @@
       ]
     },
     {
-      "trip_id": "8_17620139",
+      "trip_id": "8_17638814",
       "direction_id": "0",
       "headsign": "GALERIA DOMINIKAŃSKA",
       "service_id": "8",
@@ -15767,7 +15767,7 @@
         {
           "stop_sequence": 18,
           "stop_id": "5926",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 09",
           "arrival_time": "08:16:00",
           "departure_time": "08:16:00",
           "lat": 51.1089984,
@@ -15776,7 +15776,7 @@
       ]
     },
     {
-      "trip_id": "8_17620140",
+      "trip_id": "8_17638815",
       "direction_id": "1",
       "headsign": "OPATOWICE",
       "service_id": "8",
@@ -15784,7 +15784,7 @@
         {
           "stop_sequence": 0,
           "stop_id": "5926",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 09",
           "arrival_time": "08:30:00",
           "departure_time": "08:30:00",
           "lat": 51.1089984,
@@ -15901,7 +15901,7 @@
       ]
     },
     {
-      "trip_id": "8_17620141",
+      "trip_id": "8_17638816",
       "direction_id": "0",
       "headsign": "GALERIA DOMINIKAŃSKA",
       "service_id": "8",
@@ -16026,7 +16026,7 @@
         {
           "stop_sequence": 13,
           "stop_id": "5926",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 09",
           "arrival_time": "09:21:00",
           "departure_time": "09:21:00",
           "lat": 51.1089984,
@@ -16035,7 +16035,7 @@
       ]
     },
     {
-      "trip_id": "8_17620147",
+      "trip_id": "8_17638822",
       "direction_id": "1",
       "headsign": "BLIZANOWICE",
       "service_id": "8",
@@ -16043,7 +16043,7 @@
         {
           "stop_sequence": 0,
           "stop_id": "5926",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 09",
           "arrival_time": "14:35:00",
           "departure_time": "14:35:00",
           "lat": 51.1089984,
@@ -16214,7 +16214,7 @@
       ]
     },
     {
-      "trip_id": "8_17620148",
+      "trip_id": "8_17638823",
       "direction_id": "0",
       "headsign": "GALERIA DOMINIKAŃSKA",
       "service_id": "8",
@@ -16393,7 +16393,7 @@
         {
           "stop_sequence": 19,
           "stop_id": "5926",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 09",
           "arrival_time": "15:42:00",
           "departure_time": "15:42:00",
           "lat": 51.1089984,
@@ -16402,7 +16402,7 @@
       ]
     },
     {
-      "trip_id": "8_17620149",
+      "trip_id": "8_17638824",
       "direction_id": "1",
       "headsign": "BLIZANOWICE",
       "service_id": "8",
@@ -16410,7 +16410,7 @@
         {
           "stop_sequence": 0,
           "stop_id": "5926",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 09",
           "arrival_time": "15:50:00",
           "departure_time": "15:50:00",
           "lat": 51.1089984,
@@ -16581,7 +16581,7 @@
       ]
     },
     {
-      "trip_id": "8_17620150",
+      "trip_id": "8_17638825",
       "direction_id": "0",
       "headsign": "GALERIA DOMINIKAŃSKA",
       "service_id": "8",
@@ -16760,7 +16760,7 @@
         {
           "stop_sequence": 19,
           "stop_id": "5926",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 09",
           "arrival_time": "17:02:00",
           "departure_time": "17:02:00",
           "lat": 51.1089984,
@@ -16769,7 +16769,7 @@
       ]
     },
     {
-      "trip_id": "8_17620686",
+      "trip_id": "8_17639361",
       "direction_id": "1",
       "headsign": "TRESTNO (pętla)",
       "service_id": "8",
@@ -16777,7 +16777,7 @@
         {
           "stop_sequence": 0,
           "stop_id": "5926",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 09",
           "arrival_time": "09:25:00",
           "departure_time": "09:25:00",
           "lat": 51.1089984,
@@ -16939,7 +16939,7 @@
       ]
     },
     {
-      "trip_id": "8_17620687",
+      "trip_id": "8_17639362",
       "direction_id": "0",
       "headsign": "GALERIA DOMINIKAŃSKA",
       "service_id": "8",
@@ -17109,7 +17109,7 @@
         {
           "stop_sequence": 18,
           "stop_id": "5926",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 09",
           "arrival_time": "10:23:00",
           "departure_time": "10:23:00",
           "lat": 51.1089984,
@@ -17118,7 +17118,7 @@
       ]
     },
     {
-      "trip_id": "8_17620690",
+      "trip_id": "8_17639365",
       "direction_id": "1",
       "headsign": "OPATOWICE",
       "service_id": "8",
@@ -17126,7 +17126,7 @@
         {
           "stop_sequence": 0,
           "stop_id": "5926",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 09",
           "arrival_time": "13:35:00",
           "departure_time": "13:35:00",
           "lat": 51.1089984,
@@ -17243,7 +17243,7 @@
       ]
     },
     {
-      "trip_id": "8_17620691",
+      "trip_id": "8_17639366",
       "direction_id": "0",
       "headsign": "GALERIA DOMINIKAŃSKA",
       "service_id": "8",
@@ -17368,7 +17368,7 @@
         {
           "stop_sequence": 13,
           "stop_id": "5926",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 09",
           "arrival_time": "14:41:00",
           "departure_time": "14:41:00",
           "lat": 51.1089984,
@@ -17377,7 +17377,7 @@
       ]
     },
     {
-      "trip_id": "8_17620692",
+      "trip_id": "8_17639367",
       "direction_id": "1",
       "headsign": "BLIZANOWICE",
       "service_id": "8",
@@ -17385,7 +17385,7 @@
         {
           "stop_sequence": 0,
           "stop_id": "5926",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 09",
           "arrival_time": "15:05:00",
           "departure_time": "15:05:00",
           "lat": 51.1089984,
@@ -17556,7 +17556,7 @@
       ]
     },
     {
-      "trip_id": "8_17620693",
+      "trip_id": "8_17639368",
       "direction_id": "0",
       "headsign": "GALERIA DOMINIKAŃSKA",
       "service_id": "8",
@@ -17735,7 +17735,7 @@
         {
           "stop_sequence": 19,
           "stop_id": "5926",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 09",
           "arrival_time": "16:32:00",
           "departure_time": "16:32:00",
           "lat": 51.1089984,
@@ -17744,7 +17744,7 @@
       ]
     },
     {
-      "trip_id": "8_17620694",
+      "trip_id": "8_17639369",
       "direction_id": "1",
       "headsign": "TRESTNO (pętla)",
       "service_id": "8",
@@ -17752,7 +17752,7 @@
         {
           "stop_sequence": 0,
           "stop_id": "5926",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 09",
           "arrival_time": "16:50:00",
           "departure_time": "16:50:00",
           "lat": 51.1089984,
@@ -17914,7 +17914,7 @@
       ]
     },
     {
-      "trip_id": "8_17620695",
+      "trip_id": "8_17639370",
       "direction_id": "0",
       "headsign": "GALERIA DOMINIKAŃSKA",
       "service_id": "8",
@@ -18084,7 +18084,7 @@
         {
           "stop_sequence": 18,
           "stop_id": "5926",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 09",
           "arrival_time": "17:51:00",
           "departure_time": "17:51:00",
           "lat": 51.1089984,
@@ -18093,7 +18093,7 @@
       ]
     },
     {
-      "trip_id": "8_17620696",
+      "trip_id": "8_17639371",
       "direction_id": "1",
       "headsign": "OPATOWICE",
       "service_id": "8",
@@ -18101,7 +18101,7 @@
         {
           "stop_sequence": 0,
           "stop_id": "5926",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 09",
           "arrival_time": "17:55:00",
           "departure_time": "17:55:00",
           "lat": 51.1089984,
@@ -18218,7 +18218,7 @@
       ]
     },
     {
-      "trip_id": "8_17620697",
+      "trip_id": "8_17639372",
       "direction_id": "0",
       "headsign": "GALERIA DOMINIKAŃSKA",
       "service_id": "8",
@@ -18343,7 +18343,7 @@
         {
           "stop_sequence": 13,
           "stop_id": "5926",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 09",
           "arrival_time": "18:46:00",
           "departure_time": "18:46:00",
           "lat": 51.1089984,
@@ -18352,7 +18352,7 @@
       ]
     },
     {
-      "trip_id": "8_17620698",
+      "trip_id": "8_17639373",
       "direction_id": "1",
       "headsign": "TRESTNO (pętla)",
       "service_id": "8",
@@ -18360,7 +18360,7 @@
         {
           "stop_sequence": 0,
           "stop_id": "5926",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 09",
           "arrival_time": "18:50:00",
           "departure_time": "18:50:00",
           "lat": 51.1089984,
@@ -18522,7 +18522,7 @@
       ]
     },
     {
-      "trip_id": "8_17620699",
+      "trip_id": "8_17639374",
       "direction_id": "0",
       "headsign": "GALERIA DOMINIKAŃSKA",
       "service_id": "8",
@@ -18692,7 +18692,7 @@
         {
           "stop_sequence": 18,
           "stop_id": "5926",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 09",
           "arrival_time": "19:46:00",
           "departure_time": "19:46:00",
           "lat": 51.1089984,
@@ -18701,7 +18701,7 @@
       ]
     },
     {
-      "trip_id": "8_17620700",
+      "trip_id": "8_17639375",
       "direction_id": "1",
       "headsign": "OPATOWICE",
       "service_id": "8",
@@ -18709,7 +18709,7 @@
         {
           "stop_sequence": 0,
           "stop_id": "5926",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 09",
           "arrival_time": "19:50:00",
           "departure_time": "19:50:00",
           "lat": 51.1089984,
@@ -18826,7 +18826,7 @@
       ]
     },
     {
-      "trip_id": "8_17620701",
+      "trip_id": "8_17639376",
       "direction_id": "0",
       "headsign": "GALERIA DOMINIKAŃSKA",
       "service_id": "8",
@@ -18951,7 +18951,7 @@
         {
           "stop_sequence": 13,
           "stop_id": "5926",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 09",
           "arrival_time": "20:45:00",
           "departure_time": "20:45:00",
           "lat": 51.1089984,
@@ -18960,7 +18960,7 @@
       ]
     },
     {
-      "trip_id": "8_17620702",
+      "trip_id": "8_17639377",
       "direction_id": "0",
       "headsign": "GALERIA DOMINIKAŃSKA",
       "service_id": "8",
@@ -19130,7 +19130,7 @@
         {
           "stop_sequence": 18,
           "stop_id": "5926",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 09",
           "arrival_time": "05:14:00",
           "departure_time": "05:14:00",
           "lat": 51.1089984,
@@ -19139,7 +19139,7 @@
       ]
     },
     {
-      "trip_id": "8_17620703",
+      "trip_id": "8_17639378",
       "direction_id": "1",
       "headsign": "BLIZANOWICE",
       "service_id": "8",
@@ -19147,7 +19147,7 @@
         {
           "stop_sequence": 0,
           "stop_id": "5926",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 09",
           "arrival_time": "05:20:00",
           "departure_time": "05:20:00",
           "lat": 51.1089984,
@@ -19318,7 +19318,7 @@
       ]
     },
     {
-      "trip_id": "8_17620704",
+      "trip_id": "8_17639379",
       "direction_id": "0",
       "headsign": "GALERIA DOMINIKAŃSKA",
       "service_id": "8",
@@ -19497,7 +19497,7 @@
         {
           "stop_sequence": 19,
           "stop_id": "5926",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 09",
           "arrival_time": "06:15:00",
           "departure_time": "06:15:00",
           "lat": 51.1089984,
@@ -19506,7 +19506,7 @@
       ]
     },
     {
-      "trip_id": "8_17620705",
+      "trip_id": "8_17639380",
       "direction_id": "1",
       "headsign": "BLIZANOWICE",
       "service_id": "8",
@@ -19514,7 +19514,7 @@
         {
           "stop_sequence": 0,
           "stop_id": "5926",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 09",
           "arrival_time": "06:20:00",
           "departure_time": "06:20:00",
           "lat": 51.1089984,
@@ -19685,7 +19685,7 @@
       ]
     },
     {
-      "trip_id": "8_17620706",
+      "trip_id": "8_17639381",
       "direction_id": "0",
       "headsign": "GALERIA DOMINIKAŃSKA",
       "service_id": "8",
@@ -19864,7 +19864,7 @@
         {
           "stop_sequence": 19,
           "stop_id": "5926",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 09",
           "arrival_time": "07:16:00",
           "departure_time": "07:16:00",
           "lat": 51.1089984,
@@ -19873,7 +19873,7 @@
       ]
     },
     {
-      "trip_id": "8_17620709",
+      "trip_id": "8_17639384",
       "direction_id": "1",
       "headsign": "TRESTNO (pętla)",
       "service_id": "8",
@@ -19881,7 +19881,7 @@
         {
           "stop_sequence": 0,
           "stop_id": "5926",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 09",
           "arrival_time": "10:25:00",
           "departure_time": "10:25:00",
           "lat": 51.1089984,
@@ -20043,7 +20043,7 @@
       ]
     },
     {
-      "trip_id": "8_17620710",
+      "trip_id": "8_17639385",
       "direction_id": "0",
       "headsign": "GALERIA DOMINIKAŃSKA",
       "service_id": "8",
@@ -20213,7 +20213,7 @@
         {
           "stop_sequence": 18,
           "stop_id": "5926",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 09",
           "arrival_time": "11:23:00",
           "departure_time": "11:23:00",
           "lat": 51.1089984,
@@ -20222,7 +20222,7 @@
       ]
     },
     {
-      "trip_id": "8_17620711",
+      "trip_id": "8_17639386",
       "direction_id": "1",
       "headsign": "TRESTNO (pętla)",
       "service_id": "8",
@@ -20230,7 +20230,7 @@
         {
           "stop_sequence": 0,
           "stop_id": "5926",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 09",
           "arrival_time": "12:30:00",
           "departure_time": "12:30:00",
           "lat": 51.1089984,
@@ -20392,7 +20392,7 @@
       ]
     },
     {
-      "trip_id": "8_17620712",
+      "trip_id": "8_17639387",
       "direction_id": "0",
       "headsign": "GALERIA DOMINIKAŃSKA",
       "service_id": "8",
@@ -20562,7 +20562,7 @@
         {
           "stop_sequence": 18,
           "stop_id": "5926",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 09",
           "arrival_time": "13:41:00",
           "departure_time": "13:41:00",
           "lat": 51.1089984,
@@ -20571,7 +20571,7 @@
       ]
     },
     {
-      "trip_id": "8_17620719",
+      "trip_id": "8_17639394",
       "direction_id": "1",
       "headsign": "TRESTNO (pętla)",
       "service_id": "8",
@@ -20579,7 +20579,7 @@
         {
           "stop_sequence": 0,
           "stop_id": "5926",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 09",
           "arrival_time": "20:50:00",
           "departure_time": "20:50:00",
           "lat": 51.1089984,
@@ -20741,7 +20741,7 @@
       ]
     },
     {
-      "trip_id": "8_17620720",
+      "trip_id": "8_17639395",
       "direction_id": "0",
       "headsign": "GALERIA DOMINIKAŃSKA",
       "service_id": "8",
@@ -20911,7 +20911,7 @@
         {
           "stop_sequence": 18,
           "stop_id": "5926",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 09",
           "arrival_time": "21:45:00",
           "departure_time": "21:45:00",
           "lat": 51.1089984,
@@ -20920,7 +20920,7 @@
       ]
     },
     {
-      "trip_id": "8_17620721",
+      "trip_id": "8_17639396",
       "direction_id": "1",
       "headsign": "OPATOWICE",
       "service_id": "8",
@@ -20928,7 +20928,7 @@
         {
           "stop_sequence": 0,
           "stop_id": "5926",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 09",
           "arrival_time": "21:50:00",
           "departure_time": "21:50:00",
           "lat": 51.1089984,
@@ -21045,7 +21045,7 @@
       ]
     },
     {
-      "trip_id": "8_17620722",
+      "trip_id": "8_17639397",
       "direction_id": "0",
       "headsign": "GALERIA DOMINIKAŃSKA",
       "service_id": "8",
@@ -21170,7 +21170,7 @@
         {
           "stop_sequence": 13,
           "stop_id": "5926",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 09",
           "arrival_time": "22:45:00",
           "departure_time": "22:45:00",
           "lat": 51.1089984,
@@ -21179,7 +21179,7 @@
       ]
     },
     {
-      "trip_id": "8_17620723",
+      "trip_id": "8_17639398",
       "direction_id": "1",
       "headsign": "TRESTNO (pętla)",
       "service_id": "8",
@@ -21187,7 +21187,7 @@
         {
           "stop_sequence": 0,
           "stop_id": "5926",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 09",
           "arrival_time": "22:50:00",
           "departure_time": "22:50:00",
           "lat": 51.1089984,
@@ -21349,7 +21349,7 @@
       ]
     },
     {
-      "trip_id": "8_17620724",
+      "trip_id": "8_17639399",
       "direction_id": "0",
       "headsign": "GALERIA DOMINIKAŃSKA",
       "service_id": "8",
@@ -21519,7 +21519,7 @@
         {
           "stop_sequence": 18,
           "stop_id": "5926",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 09",
           "arrival_time": "23:38:00",
           "departure_time": "23:38:00",
           "lat": 51.1089984,
@@ -21528,7 +21528,7 @@
       ]
     },
     {
-      "trip_id": "8_17621143",
+      "trip_id": "8_17639818",
       "direction_id": "1",
       "headsign": "OPATOWICE",
       "service_id": "8",
@@ -21536,7 +21536,7 @@
         {
           "stop_sequence": 0,
           "stop_id": "5926",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 09",
           "arrival_time": "11:35:00",
           "departure_time": "11:35:00",
           "lat": 51.1089984,
@@ -21653,7 +21653,7 @@
       ]
     },
     {
-      "trip_id": "8_17621144",
+      "trip_id": "8_17639819",
       "direction_id": "0",
       "headsign": "GALERIA DOMINIKAŃSKA",
       "service_id": "8",
@@ -21778,7 +21778,7 @@
         {
           "stop_sequence": 13,
           "stop_id": "5926",
-          "stop_name": "GALERIA DOMINIKAŃSKA",
+          "stop_name": "GALERIA DOMINIKAŃSKA 09",
           "arrival_time": "12:23:00",
           "departure_time": "12:23:00",
           "lat": 51.1089984,
